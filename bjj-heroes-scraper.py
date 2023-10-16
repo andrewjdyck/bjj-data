@@ -21,6 +21,7 @@ if response.status_code == 200:
         rows = table.find_all('tr')
 
         all_fighters_df = list()
+        skipped_fighters_df = list()
 
         # Skip the header row (index 0)
         for row in rows[1:]:
@@ -31,6 +32,7 @@ if response.status_code == 200:
                 lastname = columns[1].text.strip()
                 nickname = columns[2].text.strip()
                 team = columns[3].text.strip()
+                skipped = 0
 
                 # process the fighter page ID for BJJ Heroes
                 if columns[0].find('a'):
@@ -40,23 +42,11 @@ if response.status_code == 200:
                     fighter_url = None
                     bjjheroes_id = None
 
-                # Print the data for each fighter
-                print(f"Name: {firstname} {lastname}, ID: {bjjheroes_id}")
-
-                # Append fighter to the all_fighters_df
-                all_fighters_df.append({
-                    "bjjheroes_id": bjjheroes_id,
-                    "first_name": firstname,
-                    "last_name": lastname,
-                    "full_name": f"{firstname} {lastname}",
-                    "nickname": nickname,
-                    "team": team
-                })
-
                 print(f"Data appended to all fighters for {firstname} {lastname}. Fighter ID: {bjjheroes_id}")
 
                 # Follow the link and scrape the linked page
-                if fighter_url == '/?p=36':
+                # if fighter_url in ['/?p=9246', '/?p=36']:
+                if fighter_url:
                     linked_response = requests.get('http://bjjheroes.com' + fighter_url)
                     if linked_response.status_code == 200:
                         print(f"Getting fight data for {fighter_url}")
@@ -68,66 +58,82 @@ if response.status_code == 200:
                         if fight_history_table:
                             # Extract and print the data from the fight history table
                             fight_history_rows = fight_history_table.find_all('tr')
-                            for fight_row in fight_history_rows:
-                                fight_columns = fight_row.find_all('td')
-                                if len(fight_columns) >= 5:
-                                    match_num = fight_columns[0].text.strip()
-                                    opponent_name = fight_columns[1].span.text.strip()
-                                    result = fight_columns[2].text.strip()
-                                    method = fight_columns[3].text.strip()
-                                    competition = fight_columns[4].text.strip()
-                                    weight = fight_columns[5].text.strip()
-                                    stage = fight_columns[6].text.strip()
-                                    year = fight_columns[7].text.strip()
 
-                                    if fight_columns[1].find('a'):
-                                        opponent_bjjheroes_id = int(re.findall(r'\d+', fight_columns[1].find('a').get('href'))[0])
-                                    else:
-                                        opponent_bjjheroes_id = None
+                            # Check if this is a normal table or one with few details
+                            if fight_history_table.get('class'):                       
+                                for fight_row in fight_history_rows:
+                                    fight_columns = fight_row.find_all('td')
+                                    if len(fight_columns) >= 5:
+                                        match_num = fight_columns[0].text.strip()
+                                        opponent_name = fight_columns[1].span.text.strip()
+                                        result = fight_columns[2].text.strip()
+                                        method = fight_columns[3].text.strip()
+                                        competition = fight_columns[4].text.strip()
+                                        weight = fight_columns[5].text.strip()
+                                        stage = fight_columns[6].text.strip()
+                                        year = fight_columns[7].text.strip()
 
-                                    # print(f"Fight Date: {fight_date}, Result: {result}, Method: {method}, Opponent: {opponent}")
-                                    # print(f"{match_num}, {opponent}, {result}, {method}, {competition}, {weight}, {stage}, {fight_date}")
+                                        if fight_columns[1].find('a'):
+                                            opponent_bjjheroes_id = int(re.findall(r'\d+', fight_columns[1].find('a').get('href'))[0])
+                                        else:
+                                            opponent_bjjheroes_id = None
 
-                                    # convert the fight result to integer
-                                    if result == 'W':
-                                        result_int = 1
-                                    elif result == 'D':
-                                        result_int = 0.5
-                                    elif result == 'L':
-                                        result_int = 0 
-                                    else:
-                                        result_int = None,
+                                        # convert the fight result to integer
+                                        if result == 'W':
+                                            result_int = 1
+                                        elif result == 'D':
+                                            result_int = 0.5
+                                        elif result == 'L':
+                                            result_int = 0 
+                                        else:
+                                            result_int = None,
 
-                                    # Add match to fighter DF
-                                    single_fighter_df.append({
-                                        "match_num": match_num,
-                                        "opponent_bjjheroes_id": opponent_bjjheroes_id,
-                                        "opponent_name": opponent_name,
-                                        "result": result,
-                                        "result_int": result_int,
-                                        "method": method,
-                                        "competition": competition,
-                                        "weight": weight,
-                                        "stage": stage,
-                                        "year": year
-                                    })
-                            # Export single fighter info to CSV
-                            filename_str = f"{bjjheroes_id}-{firstname}-{lastname}.csv"
+                                        # Add match to fighter DF
+                                        single_fighter_df.append({
+                                            "match_num": match_num,
+                                            "opponent_bjjheroes_id": opponent_bjjheroes_id,
+                                            "opponent_name": opponent_name,
+                                            "result": result,
+                                            "result_int": result_int,
+                                            "method": method,
+                                            "competition": competition,
+                                            "weight": weight,
+                                            "stage": stage,
+                                            "year": year
+                                        })
 
-                            with open('./data/' + filename_str, 'w', newline='') as csvfile:
-                                writer = csv.DictWriter(csvfile, fieldnames=single_fighter_df[0].keys())
-                                
-                                # Write the header row (field names)
-                                writer.writeheader()
-                                
-                                # Write the data rows
-                                for row in single_fighter_df:
-                                    writer.writerow(row)
+                                # Export single fighter info to CSV
+                                print("Writing fighter data to CSV")
+                                filename_str = f"{bjjheroes_id}-{firstname}-{lastname}.csv"
+
+                                with open('./data/' + filename_str, 'w', newline='') as csvfile:
+                                    writer = csv.DictWriter(csvfile, fieldnames=single_fighter_df[0].keys())
+                                    
+                                    # Write the header row (field names)
+                                    writer.writeheader()
+                                    
+                                    # Write the data rows
+                                    for row in single_fighter_df:
+                                        writer.writerow(row)
+                            else:
+                                print("This is a shorter table. Skipping")
+                                skipped = 1
+
                         else: 
                             print(f"Fight history table not found on the linked page: {fighter_url}")
                     else:
                         print(f"Failed to retrieve linked page: {fighter_url}")
 
+            # Append fighter to the all_fighters_df
+            all_fighters_df.append({
+                "bjjheroes_id": bjjheroes_id,
+                "first_name": firstname,
+                "last_name": lastname,
+                "full_name": f"{firstname} {lastname}",
+                "nickname": nickname,
+                "team": team,
+                "skipped": skipped
+            })
         # Write All fighters to CSV
         with open('./data/all-fighters.csv', 'w', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=all_fighters_df[0].keys())
