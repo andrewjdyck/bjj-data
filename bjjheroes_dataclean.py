@@ -74,6 +74,11 @@ if __name__ == "__main__":
 
     # List all files in the directory
     files = [f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
+    try:
+        files.pop(files.index('.gitkeep'))
+        files.pop(files.index('.DS_Store'))
+    except:
+        pass
 
     # Load all data
     all_fighter_records_df = list()

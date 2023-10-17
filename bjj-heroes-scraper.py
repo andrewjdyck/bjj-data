@@ -47,7 +47,8 @@ def get_data_from_bjj_heroes(test_ids=[]):
 
                     # Follow the link and scrape the linked page
                     # if fighter_url in ['/?p=9246', '/?p=86']:
-                    if fighter_url and (test_ids is None or bjjheroes_id in test_ids):
+                    # if fighter_url and (test_ids is [] or bjjheroes_id in test_ids):
+                    if fighter_url:
                         linked_response = requests.get('http://bjjheroes.com' + fighter_url)
                         if linked_response.status_code == 200:
                             print(f"Getting fight data for {fighter_url}")
@@ -155,5 +156,5 @@ def get_data_from_bjj_heroes(test_ids=[]):
         print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
 
 if __name__ == "__main__":
-    get_data_from_bjj_heroes([6550, 9246, 86, 2416])
+    get_data_from_bjj_heroes()
 

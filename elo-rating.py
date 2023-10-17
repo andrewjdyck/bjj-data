@@ -13,7 +13,7 @@ def elo_expected(A, B):
 def update_elo_rating(player_rating, opponent_rating, actual_result, k_factor):
     expected_result = elo_expected(player_rating, opponent_rating)
     new_rating = player_rating + k_factor * (actual_result - expected_result)
-    return new_rating
+    return(round(new_rating, 0))
 
 def gen_fighters_df():
     # Fighters dataset
@@ -38,17 +38,19 @@ def gen_matches_df():
     matches['fighter1_id'] = matches['fighter1_id'].astype(int)
     matches['fighter2_id'].replace('', np.nan, inplace=True)
     matches['fighter2_id'] = matches['fighter2_id'].astype('Int32')
+    matches = matches.sort_values(by=['match_num'])
     return(matches)
 
 def calc_elo(matches, fighters_df):
     # Initial Elo rating for new fighters
-    INITIAL_RATING = 1500
+    INITIAL_RATING = 2000
 
     # K-factor for new fighters
     NEW_FIGHTER_K = 32
 
     # K-factor for established fighters
     ESTABLISHED_FIGHTER_K = 32
+    # ESTABLISHED_FIGHTER_K = 24
     
     fighters = {}
     for index, row in fighters_df.iterrows():
