@@ -1,0 +1,93 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+310,1023,Baret Yoshida,,Sasha Palvski,L,0,Pts: 4x0,ADCC,66KG,4F,1999
+361,1023,Baret Yoshida,1696,Garth Taylor,L,0,Pts: 2x0,ADCC,ABS,R1,1999
+404,1023,Baret Yoshida,515,Royler Gracie,L,0,Pts: 2x0,ADCC,66KG,R1,2000
+504,1023,Baret Yoshida,515,Royler Gracie,L,0,Pts: 2x0,ADCC,66KG,F,2001
+736,1023,Baret Yoshida,453,Daniel Moraes,L,0,Pts: 11x0,Gracie Pac. Rim,ABS,SF,2002
+772,1023,Baret Yoshida,419,Leonardo Vieira,L,0,Pts: 6x0,ADCC,66KG,F,2003
+1134,1023,Baret Yoshida,419,Leonardo Vieira,L,0,Pts: 19x0,Budo Challenge,77KG,SF,2005
+1660,1023,Baret Yoshida,144,Andre Galvao,L,0,Points,ADCC,ABS,R1,2007
+1680,1023,Baret Yoshida,177,Rany Yahya,L,0,Points,ADCC,66KG,SF,2007
+2229,1023,Baret Yoshida,1398,Justin Rader,L,0,Adv,ADCC,66KG,R1,2009
+2623,1023,Baret Yoshida,1044,Flavio Almeida,L,0,Points,No Gi Worlds,ABS,R1,2010
+2751,1023,Baret Yoshida,1436,Samir Chantre,L,0,Adv,American Nat.,70KG,SF,2010
+3179,1023,Baret Yoshida,415,Guilherme Mendes,L,0,Baseball choke,San Diego Trials,65KG,F,2011
+3262,1023,Baret Yoshida,147,Rubens Charles,L,0,Points,ADCC,66KG,4F,2011
+3733,1023,Baret Yoshida,1827,James Puopolo,L,0,Pts: 5x0,SD World Trials,ABS,4F,2012
+4982,1023,Baret Yoshida,,Nicolas Renier,L,0,Points,ADCC,66KG,R1,2013
+5099,1023,Baret Yoshida,5414,Osvaldo Moizinho,L,0,Pts: 6x2,NoGi Worlds,70KG,4F,2013
+5874,1023,Baret Yoshida,610,Jeff Glover,D,0.5,---,Metamoris 4,ABS,SPF,2014
+7818,1023,Baret Yoshida,7442,Eddie Cummings,L,0,Inside heel hook,EBI 4,65KG,SF,2015
+8032,1023,Baret Yoshida,195,Robson Moura,D,0.5,---,Polaris 2,70KG,SPF,2015
+8799,1023,Baret Yoshida,7096,Josh Hinger,D,0.5,---,Gracie NoGi Worlds,ABS,F,2015
+9866,1023,Baret Yoshida,7917,Milton Bastos,L,0,Referee Decision,FTW Pro 5,ABS,SPF,2016
+10299,1023,Baret Yoshida,,Mike Davila,L,0,EBI/OT,EBI 7,65KG,4F,2016
+11270,1023,Baret Yoshida,7442,Eddie Cummings,L,0,Inside heel hook,EBI 10,61KG,SF,2016
+11428,1023,Baret Yoshida,938,Pablo Silva,L,0,Referee Decision,F2W 21,70KG,SPF,2017
+13909,1023,Baret Yoshida,,Kuba Witkowski,L,0,"Pts: 0x0, Pen",ADCC,66KG,E1,2017
+15072,1023,Baret Yoshida,,Cleber Luciano,L,0,Referee Decision,F2W 61,70KG,SPF,2018
+20851,1023,Baret Yoshida,6151,Hiago George,L,0,Referee Decision,F2W 114,61KG,SPF,2019
+23420,1023,Baret Yoshida,,Kory Paredes,L,0,Referee Decision,F2W 136,65KG,SPF,2020
+307,1023,Baret Yoshida,613,Wellington Dias,W,1,Flying armbar,ADCC,66KG,R1,1999
+488,1023,Baret Yoshida,,Unknown,W,1,Triangle,Contenders,70KG,4F,2001
+489,1023,Baret Yoshida,,Katsuya Toida,W,1,Referee Decision,Contenders,70KG,SF,2001
+490,1023,Baret Yoshida,,Kid Yamamoto,W,1,DQ,Contenders,70KG,F,2001
+497,1023,Baret Yoshida,620,Gustavo Dantas,W,1,Kneebar,ADCC,66KG,R1,2001
+501,1023,Baret Yoshida,,N. Uematsu,W,1,Triangle,ADCC,66KG,4F,2001
+503,1023,Baret Yoshida,727,Alexandre Soca,W,1,Kneebar,ADCC,66KG,SF,2001
+624,1023,Baret Yoshida,,Masakazu Imanari,W,1,RNC,Kingdom Japan,NA,SPF,2002
+765,1023,Baret Yoshida,,K. Toida,W,1,RNC,ADCC,66KG,R1,2003
+768,1023,Baret Yoshida,,Mike Mrkulic,W,1,RNC,ADCC,66KG,4F,2003
+771,1023,Baret Yoshida,727,Alexandre Soca,W,1,Pts: 9x6,ADCC,66KG,SF,2003
+1347,1023,Baret Yoshida,,Unknown,W,1,RNC,ZST GFT,70KG,4F,2006
+1348,1023,Baret Yoshida,147,Rubens Charles,W,1,Referee Decision,ZST GFT,70KG,SF,2006
+1349,1023,Baret Yoshida,,Shuichi Katsumura,W,1,RNC,ZST GFT,70KG,F,2006
+1673,1023,Baret Yoshida,,Eddie Sanchez,W,1,RNC,ADCC,66KG,R1,2007
+1677,1023,Baret Yoshida,,Yoshitomi Mishima,W,1,Triangle,ADCC,66KG,4F,2007
+1682,1023,Baret Yoshida,,Tetsu Suzuko,W,1,Pts: 3x0,ADCC,66KG,3PLC,2007
+2000,1023,Baret Yoshida,,Unknown,W,1,RNC,NoGi Worlds,70KG,NA,2008
+2001,1023,Baret Yoshida,,Unknown,W,1,RNC,NoGi Worlds,70KG,4F,2008
+2002,1023,Baret Yoshida,,Robson Rodrigues,W,1,RNC,NoGi Worlds,70KG,F,2008
+2079,1023,Baret Yoshida,,Naoya Uematsu,W,1,Cross choke,Taiwan Open,ABS,4F,2008
+2080,1023,Baret Yoshida,,Takizawa Keusuke,W,1,Crucifix choke,Taiwan Open,ABS,SF,2008
+2081,1023,Baret Yoshida,,Aramaki,W,1,RNC,Taiwan Open,ABS,F,2008
+2083,1023,Baret Yoshida,,Takezawa Keisuke,W,1,Heel hook,Taiwan Open,ABS,R1,2009
+2084,1023,Baret Yoshida,,Makoto ikuta,W,1,Crucifix choke,Taiwan Open,ABS,4F,2009
+2085,1023,Baret Yoshida,,Makoto Ogasawara,W,1,Heel hook,Taiwan Open,ABS,SF,2009
+2086,1023,Baret Yoshida,,Daniel Charles,W,1,Crucifix choke,Taiwan Open,ABS,F,2009
+2090,1023,Baret Yoshida,6395,Chris Holdsworth,W,1,Kneebar,NAGA LV,70KG,F,2009
+2407,1023,Baret Yoshida,3028,Leandro Escobar,W,1,RNC,NoGi Worlds,70KG,4F,2009
+2408,1023,Baret Yoshida,1498,Denny Prokopos,W,1,Pts: 9x0,NoGi Worlds,70KG,SF,2009
+2410,1023,Baret Yoshida,1436,Samir Chantre,W,1,RNC,NoGi Worlds,70KG,F,2009
+2450,1023,Baret Yoshida,,Kohei Yasumi,W,1,Triangle,Deep SPF,NA,SPF,2010
+2461,1023,Baret Yoshida,,Kohei Yasumi,W,1,Triangle,DEEP X 05,SPF,ABS,2010
+3225,1023,Baret Yoshida,,Nicolas Renier,W,1,RNC,ADCC,66KG,R1,2011
+7812,1023,Baret Yoshida,,Dennis Dombrow,W,1,Kneebar,EBI 4,65KG,R1,2015
+7813,1023,Baret Yoshida,,Randall Dolf,W,1,RNC,EBI 4,65KG,4F,2015
+9099,1023,Baret Yoshida,,Nobuo Yagai,W,1,Crucifix choke,F2W 4,70KG,SPF,2016
+9457,1023,Baret Yoshida,,Juan Bernardo,W,1,Choke from back,SubCon,ABS,SPF,2016
+10293,1023,Baret Yoshida,,Alex Eklin,W,1,RNC,EBI 7,65KG,R1,2016
+10313,1023,Baret Yoshida,,Woolf Barnato,W,1,Referee Decision,F2W 8,72KG,SPF,2016
+10538,1023,Baret Yoshida,,Mike Reyna,W,1,Bow and arrow,F2W 13,70KG,SPF,2016
+11263,1023,Baret Yoshida,,Eric Medina,W,1,EBI/OT,EBI 10,61KG,R1,2016
+11268,1023,Baret Yoshida,,Arturo Cadenas,W,1,No-gi ezekiel,EBI 10,61KG,4F,2016
+12039,1023,Baret Yoshida,,Ron Henderson,W,1,Bow and arrow,FIVE SL,70KG,SPF,2017
+15069,1023,Baret Yoshida,,Cristobal Chavez,W,1,Crucifix choke,Gracie World,N/A,SF,2018
+15070,1023,Baret Yoshida,,Damon Morgan,W,1,RNC,Gracie World,N/A,F,2018
+16412,1023,Baret Yoshida,,Paulo Cezar,W,1,Armbar,F2W 75,70KG,SPF,2018
+16753,1023,Baret Yoshida,,Kelly Johnson,W,1,Anaconda choke,F2W 78,65KG,SPF,2018
+17992,1023,Baret Yoshida,7476,Kristian Woodmansee,W,1,Anaconda choke,F2W 90,60KG,SPF,2018
+18450,1023,Baret Yoshida,,Andre Pontes,W,1,Kneebar,F2W 95,65KG,SPF,2018
+18721,1023,Baret Yoshida,,N/A,W,1,Crucifix choke,NoGi Worlds,70KG,4F,2018
+18722,1023,Baret Yoshida,,Flavio Meier,W,1,Anaconda choke,NoGi Worlds,70KG,SF,2018
+18723,1023,Baret Yoshida,,Marlond Vera,W,1,RNC,NoGi Worlds,70KG,F,2018
+19379,1023,Baret Yoshida,,Gabriel Sa,W,1,N/A,LA BJJ Pro,70KG,SF,2019
+19380,1023,Baret Yoshida,,J. Noval,W,1,Anaconda choke,LA BJJ Pro,70KG,F,2019
+20960,1023,Baret Yoshida,1785,Marcus Norat,W,1,Crucifix choke,F2W 117,65KG,SPF,2019
+21762,1023,Baret Yoshida,,Antonio Lopez,W,1,Crucifix choke,F2W 126,70KG,SPF,2019
+27193,1023,Baret Yoshida,,Jeff Nolasco,W,1,Crucifix choke,F2W 180,N/A,SPF,2021
+27695,1023,Baret Yoshida,1433,Bernardo Pitel,W,1,Anaconda choke,F2W 183,61KG,SPF,2021
+28427,1023,Baret Yoshida,,T. Yoshioka,W,1,Referee Decision,SUBVERSIV 6,65KG,SPF,2021
+30761,1023,Baret Yoshida,,Jeff Huang,W,1,Anaconda choke,F2W 200,N/A,SPF,2022
+34557,1023,Baret Yoshida,,Tim Mendoza,W,1,Crucifix choke,F2W 210,N/A,SPF,2022
+36973,1023,Baret Yoshida,,Garry Nakamura,W,1,Kneebar,F2W 126,N/A,SPF,2022

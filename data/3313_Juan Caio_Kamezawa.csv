@@ -1,0 +1,37 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4564,3313,Juan Caio Kamezawa,1137,Zak Maxwell,L,0,Referee Decision,Pan American,76KG,R2,2013
+4864,3313,Juan Caio Kamezawa,6253,Diego Borges,L,0,Pts: 6x0,Copa Podio,76KG,GP,2013
+4868,3313,Juan Caio Kamezawa,1188,Leandro Lo,L,0,Pts: 10x0,Copa Podio,76KG,GP,2013
+5791,3313,Juan Caio Kamezawa,967,JT Torres,L,0,Referee Decision,World Champ.,76KG,4F,2014
+6134,3313,Juan Caio Kamezawa,4460,Jaime Canuto,L,0,Pts: 14x0,Rio BJJ Pro,82KG,4F,2014
+6809,3313,Juan Caio Kamezawa,4465,Andris Brunovskis,L,0,"Pts: 4x4, Adv",Pan American,76KG,R2,2015
+7236,3313,Juan Caio Kamezawa,5078,Luan Carvalho,L,0,"Pts: 0x0, Adv",Brasileiro,76KG,F,2015
+7445,3313,Juan Caio Kamezawa,967,JT Torres,L,0,Pts: 2x0,World Champ.,76KG,4F,2015
+8582,3313,Juan Caio Kamezawa,4460,Jaime Canuto,L,0,Pts: 2x0,South American,82KG,SF,2015
+9978,3313,Juan Caio Kamezawa,4655,Michael Liera,L,0,Adv,World Champ.,76KG,R2,2016
+11844,3313,Juan Caio Kamezawa,4521,Erberth Santos,L,0,RNC,BH Summer Open,ABS,SF,2017
+12165,3313,Juan Caio Kamezawa,7539,Renato Canuto,L,0,Choke from back,Pan American,76KG,8F,2017
+12766,3313,Juan Caio Kamezawa,7931,Jose Carlos,L,0,Pts: 4x0,Brasileiro,76KG,4F,2017
+13120,3313,Juan Caio Kamezawa,6432,Yan Lucas,L,0,"Pts: 0x0, Adv",World Champ.,76KG,8F,2017
+4560,3313,Juan Caio Kamezawa,396,Carlos Portugues,W,1,Choke from back,Pan American,76KG,R1,2013
+4855,3313,Juan Caio Kamezawa,1523,Clark Gracie,D,0.5,---,Copa Podio,76KG,GP,2013
+4860,3313,Juan Caio Kamezawa,,Brandon Magana,W,1,Footlock,Copa Podio,76KG,GP,2013
+5547,3313,Juan Caio Kamezawa,,Sandro Vieira,W,1,"Pts: 0x0, Adv",Brasileiro,76KG,SF,2014
+5781,3313,Juan Caio Kamezawa,,Juan Vega,W,1,Pts: 5x0,World Champ.,76KG,R1,2014
+5788,3313,Juan Caio Kamezawa,,Sergio de Oliveira,W,1,Choke from back,World Champ.,76KG,8F,2014
+6653,3313,Juan Caio Kamezawa,,Rafael Suzuki,W,1,Armbar,Circuito Paulista,76KG,F,2015
+7228,3313,Juan Caio Kamezawa,,Juliano Rocha,W,1,Points,Brasileiro,76KG,R1,2015
+7230,3313,Juan Caio Kamezawa,,Unknown,W,1,Points,Brasileiro,76KG,R2,2015
+7232,3313,Juan Caio Kamezawa,,Jose Thiago,W,1,Pts: 10x0,Brasileiro,76KG,4F,2015
+7235,3313,Juan Caio Kamezawa,,Sandro Vieira,W,1,Points,Brasileiro,76KG,SF,2015
+7442,3313,Juan Caio Kamezawa,8081,Nathan Mendelsohn,W,1,Choke from back,World Champ.,76KG,8F,2015
+8577,3313,Juan Caio Kamezawa,7672,Caio Almeida,W,1,Pts: 6x0,South American,82KG,R1,2015
+8579,3313,Juan Caio Kamezawa,1014,Jake Mackenzie,W,1,Wristlock,South American,82KG,4F,2015
+9749,3313,Juan Caio Kamezawa,,Rodrigo Santos,W,1,N/A,Brasileiro,76KG,8F,2016
+9750,3313,Juan Caio Kamezawa,4328,AJ Agazarm,W,1,Pts: 11x2,Brasileiro,76KG,4F,2016
+9755,3313,Juan Caio Kamezawa,,Sandro Vieira,W,1,N/A,Brasileiro,76KG,SF,2016
+9973,3313,Juan Caio Kamezawa,,Pedro Farias,W,1,Pts: 7x2,World Champ.,76KG,R1,2016
+11842,3313,Juan Caio Kamezawa,,Romes Ramos,W,1,Bow and arrow,BH Summer Open,ABS,4F,2017
+12148,3313,Juan Caio Kamezawa,,Cristian Lopez,W,1,N/A,Pan American,76KG,R1,2017
+12753,3313,Juan Caio Kamezawa,,Rafael Azevedo,W,1,Choke from back,Brasileiro,76KG,R1,2017
+12758,3313,Juan Caio Kamezawa,,Paulo Vertuan,W,1,RNC,Brasileiro,76KG,R2,2017

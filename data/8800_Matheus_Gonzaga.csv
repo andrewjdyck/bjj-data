@@ -1,0 +1,22 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+15896,8800,Matheus Gonzaga,4248,Gianni Grippo,L,0,Points,Boston Sp. Open,70KG,F,2018
+15965,8800,Matheus Gonzaga,8814,Adam Benayoun,L,0,Adv,NY Spring Open,70KG,F,2018
+17424,8800,Matheus Gonzaga,4248,Gianni Grippo,L,0,"Pts: 0x0, Adv",No Gi Pan Am.,73KG,SF,2018
+18387,8800,Matheus Gonzaga,7002,Jamil Hill-Taylor,L,0,Armbar,NY Fall Open,70KG,F,2018
+19178,8800,Matheus Gonzaga,,Frederico Alves,L,0,Pts: 2x0,Atlanta WO,70KG,F,2019
+19577,8800,Matheus Gonzaga,6103,Isaac Doederlein,L,0,Pts: 2x0,Pan American,70KG,8F,2019
+19896,8800,Matheus Gonzaga,9934,Deandre Corbe,L,0,Pts: 4x2,Washington DCO,70KG,F,2019
+23211,8800,Matheus Gonzaga,,Rodrigo Cardoso,L,0,Points,Fresno Open,70KG,SF,2020
+23517,8800,Matheus Gonzaga,6836,John Combs,L,0,Arm in guillotine,BJJ Fanatics GP,77KG,4F,2020
+15894,8800,Matheus Gonzaga,6366,Brian Mahecha,W,1,Choke from back,Boston Sp. Open,70KG,SF,2018
+15961,8800,Matheus Gonzaga,8525,Alexandre Vieira,W,1,Pts: 7x0,NY Spring Open,70KG,4F,2018
+15963,8800,Matheus Gonzaga,,Christian Mueckay,W,1,Points,NY Spring Open,70KG,SF,2018
+16891,8800,Matheus Gonzaga,,T. Alves,W,1,Choke from back,F2W 80,70KG,SPF,2018
+17051,8800,Matheus Gonzaga,1440,Rodrigo Ranieri,W,1,Points,Boston SMO,70KG,SF,2018
+17053,8800,Matheus Gonzaga,8814,Adam Benayoun,W,1,Points,Boston SMO,70KG,F,2018
+17417,8800,Matheus Gonzaga,5930,Rodrigo Freitas,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,73KG,8F,2018
+17422,8800,Matheus Gonzaga,,Fred Silva,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,73KG,4F,2018
+19173,8800,Matheus Gonzaga,,Josh Murdock,W,1,Points,Atlanta WO,70KG,4F,2019
+19177,8800,Matheus Gonzaga,8814,Adam Benayoun,W,1,Adv,Atlanta WO,70KG,SF,2019
+19773,8800,Matheus Gonzaga,,Felipe Simplicio,W,1,Referee Decision,F2W 107,70KG,SPF,2019
+19895,8800,Matheus Gonzaga,,Daniel Paulino,W,1,Armbar,Washington DCO,70KG,SF,2019

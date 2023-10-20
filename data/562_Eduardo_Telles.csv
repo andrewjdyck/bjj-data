@@ -1,0 +1,84 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+721,562,Eduardo Telles,9,Marcio Cruz,L,0,Pts: 10x2,Team Nationals,O88KG,F,2002
+856,562,Eduardo Telles,,Hugo Carioni,L,0,Adv,World Champ.,94KG,4F,2003
+986,562,Eduardo Telles,84,Alexandre Ribeiro,L,0,"Pts: 0x0, Adv",Golden Cup,94KG,SF,2004
+1007,562,Eduardo Telles,607,Gabriel Vella,L,0,"Pts: 0x0, Adv",Pan American,94KG,SF,2004
+1094,562,Eduardo Telles,86,Fernando Margarida,L,0,Toe hold,World Cup,94KG,F,2004
+1200,562,Eduardo Telles,505,Roger Gracie,L,0,Armbar,ADCC,99KG,4F,2005
+1223,562,Eduardo Telles,,Gabriel Napao,L,0,"Pts: 0x0, Pen",ADCC,ABS,R1,2005
+1246,562,Eduardo Telles,84,Alexandre Ribeiro,L,0,Pts: 4x2,World Cup,100KG,4F,2005
+1267,562,Eduardo Telles,117,Ronaldo Souza,L,0,Clock choke,World Cup,O75KG,4F,2005
+1311,562,Eduardo Telles,86,Fernando Margarida,L,0,Adv,World Champ.,100KG,4F,2005
+1377,562,Eduardo Telles,422,Braulio Estima,L,0,Triangle armbar,Pan American,94KG,F,2006
+1390,562,Eduardo Telles,576,Rafael Lovato,L,0,Pts: 2x0,Pan American,ABS,4F,2006
+1504,562,Eduardo Telles,1214,Jefferson Moura,L,0,Pts: 5x2,Brasileiro,94KG,F,2006
+1545,562,Eduardo Telles,484,Murilo Santana,L,0,"Pts: 0x0, Adv",Paulista FPJJ,ABS,F,2007
+1580,562,Eduardo Telles,,Rick Macauley,L,0,Points,GQ All Star Pro,90KG,F,2007
+1797,562,Eduardo Telles,2956,Cristiano Lazzarini,L,0,Points,NoGi Pan Am.,100KG,SF,2007
+1818,562,Eduardo Telles,607,Gabriel Vella,L,0,Referee Decision,Super Challenge,ABS,R1,2007
+1861,562,Eduardo Telles,144,Andre Galvao,L,0,Arm in Ezekiel,H. Kong Cup,ABS,F,2008
+1974,562,Eduardo Telles,505,Roger Gracie,L,0,"Pts: 0x0, Adv",World Champ.,O100KG,SF,2008
+2361,562,Eduardo Telles,,Tiago Gaia,L,0,Referee Decision,World Champ.,100KG,4F,2009
+2707,562,Eduardo Telles,477,Tarsis Humphreys,L,0,Pts: 2x0,World Champ.,88KG,SF,2010
+2985,562,Eduardo Telles,138,Sergio Moraes,L,0,Pts: 5x2,World Champ.,ABS,R2,2011
+3119,562,Eduardo Telles,320,Romulo Barral,L,0,"Pts: 2x2, Adv",World Champ.,88KG,4F,2011
+4250,562,Eduardo Telles,926,Roberto Alencar,L,0,Points,NoGi Worlds,94KG,4F,2012
+4273,562,Eduardo Telles,911,Antonio Peinado,L,0,Points,NoGi Worlds,ABS,8F,2012
+4368,562,Eduardo Telles,2997,Joao Miyao,L,0,Adv,World Expo,ABS,SPF,2013
+4740,562,Eduardo Telles,911,Antonio Peinado,L,0,Points,World Champ.,ABS,RDS,2013
+4957,562,Eduardo Telles,4328,AJ Agazarm,L,0,"Pts: 0x0, Adv",American NNG,ABS,F,2013
+5139,562,Eduardo Telles,5726,Gustavo Pires,L,0,Pts: 2x0,IBJJF Pro League,O94KG,SF,2013
+5306,562,Eduardo Telles,,Fabiano Leite,L,0,Kneebar,Pan American,ABS,R2,2014
+5387,562,Eduardo Telles,1895,Rodrigo Fajardo,L,0,Points,Pan American,88KG,4F,2014
+5476,562,Eduardo Telles,6337,Arnaldo Maidana,L,0,Armbar,FIVE Cali. 2,ABS,SF,2014
+5479,562,Eduardo Telles,,J. Friedrich,L,0,Kneebar,FIVE NoGi C. 2,ABS,SF,2014
+5954,562,Eduardo Telles,3009,Keenan Cornelius,L,0,"Pts: 0x0, Adv",American Nat.,88KG,F,2014
+6046,562,Eduardo Telles,6337,Arnaldo Maidana,L,0,Armbar,NoGi Worlds,88KG,4F,2014
+6093,562,Eduardo Telles,3200,Jackson Sousa,L,0,"Pts: 2x2, Adv",IBJJF Pro League,94KG,SF,2014
+6744,562,Eduardo Telles,4328,AJ Agazarm,L,0,Points,Pan American,ABS,R1,2015
+6879,562,Eduardo Telles,425,Bernardo Faria,L,0,Pts: 8x0,Pan American,100KG,4F,2015
+10498,562,Eduardo Telles,,Kyle Griffin,L,0,Inside heel hook,EBI 8,84KG,4F,2016
+12963,562,Eduardo Telles,144,Andre Galvao,L,0,Pts: 8x0,San Diego Open,88KG,SF,2017
+16933,562,Eduardo Telles,,Ben Henderson,L,0,Pts: 2x0,Spider Inv. 4F,ABS,SPF,2018
+745,562,Eduardo Telles,1403,Fernando Piero,W,1,Points,Team Nationals,O88KG,F,2003
+984,562,Eduardo Telles,637,Bruno Bastos,W,1,Kneebar,Golden Cup,94KG,4F,2004
+988,562,Eduardo Telles,,Todd Margolis,W,1,Adv,Pan American,ABS,SPF,2004
+1006,562,Eduardo Telles,,Rener Gracie,W,1,Points,Pan American,94KG,4F,2004
+1198,562,Eduardo Telles,,Antoine Joude,W,1,Kneebar,ADCC,99KG,R1,2005
+1277,562,Eduardo Telles,,Renato Ferro,W,1,N/A,Copa do Brasil,O75KG,SF,2005
+1374,562,Eduardo Telles,,Leopoldo Canal,W,1,Points,Pan American,94KG,4F,2006
+1375,562,Eduardo Telles,576,Rafael Lovato,W,1,Pts: 2x0,Pan American,94KG,SF,2006
+1385,562,Eduardo Telles,396,Carlos Portugues,W,1,Kneebar,Pan American,ABS,R1,2006
+1502,562,Eduardo Telles,,Rigoney Castro,W,1,Armbar,Brasileiro,94KG,SF,2006
+1547,562,Eduardo Telles,,M. Costa,W,1,Armbar,Paulista FPJJ,94KG,F,2007
+1575,562,Eduardo Telles,,Eric Shambari,W,1,Pts: 12x2,GQ All Star Pro,90KG,R1,2007
+1577,562,Eduardo Telles,,Chris Downum,W,1,Pts: 5x0,GQ All Star Pro,90KG,4F,2007
+1578,562,Eduardo Telles,,Nathan DuCharm,W,1,Pts: 2x0,GQ All Star Pro,90KG,SF,2007
+1621,562,Eduardo Telles,,E. Arrivabene,W,1,Choke from back,Pan American,94KG,4F,2007
+1622,562,Eduardo Telles,1044,Flavio Almeida,W,1,Points,Pan American,94KG,F,2007
+1794,562,Eduardo Telles,926,Roberto Alencar,W,1,Points,NoGi Pan Am.,100KG,4F,2007
+1968,562,Eduardo Telles,,Paulo Ribeiro,W,1,Armbar,World Champ.,O100KG,R1,2008
+1972,562,Eduardo Telles,,Rafael Eluanger,W,1,Armbar,World Champ.,O100KG,R2,2008
+1979,562,Eduardo Telles,,Tatsui Onosi,W,1,Kimura,World Champ.,ABS,R1,2008
+2220,562,Eduardo Telles,,André Steola,W,1,RNC,ADCC Trials,88KG,R1,2009
+2699,562,Eduardo Telles,,Joao Moncaio,W,1,Mounted X choke,World Champ.,88KG,R1,2010
+2704,562,Eduardo Telles,,Orlando Zanetti,W,1,Choke from back,World Champ.,88KG,4F,2010
+2743,562,Eduardo Telles,2107,Otavio Sousa,W,1,"Pts: 10x10, Adv",World Champ.,ABS,4F,2010
+2979,562,Eduardo Telles,,Ronaldo Antonio,W,1,Pts: 17x0,World Champ.,ABS,R2,2011
+3063,562,Eduardo Telles,,Unknown,W,1,N/A,World Champ.,88KG,RDS,2011
+3065,562,Eduardo Telles,1750,Ian Mcpherson,W,1,Adv,World Champ.,88KG,RDS,2011
+4248,562,Eduardo Telles,,Bernardo Tavolaro,W,1,Points,NoGi Worlds,94KG,R1,2012
+4266,562,Eduardo Telles,,Bruno Antunes,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,R1,2012
+4722,562,Eduardo Telles,,Jaroslaw Konrad,W,1,Submission,World Champ.,ABS,RDS,2013
+4949,562,Eduardo Telles,,Omar Sabha,W,1,Kimura,American NNG,88KG,SF,2013
+4950,562,Eduardo Telles,,Jason Manly,W,1,Pts: 5x0,American NNG,88KG,F,2013
+4955,562,Eduardo Telles,5414,Osvaldo Moizinho,W,1,Pts: 4x0,American NNG,ABS,SF,2013
+5112,562,Eduardo Telles,,Matt Jubera,W,1,Points,NoGi Worlds,85KG,SF,2013
+5113,562,Eduardo Telles,2416,Felipe Pena,W,1,Pts: 2x0,NoGi Worlds,85KG,F,2013
+5383,562,Eduardo Telles,,Rafael Fraga,W,1,Pts: 4x0,Pan American,88KG,R1,2014
+5478,562,Eduardo Telles,7096,Josh Hinger,W,1,Pts: 2x0,FIVE NoGi C. 2,ABS,4F,2014
+5480,562,Eduardo Telles,,Ruben Coronado,W,1,Katagatame,FIVE NoGi C. 2,ABS,3PLC,2014
+5953,562,Eduardo Telles,7743,Inacio Neto,W,1,Armbar,American Nat.,88KG,SF,2014
+6396,562,Eduardo Telles,1583,Mike Fowler,D,0.5,---,Polaris,ABS,SPF,2015
+10306,562,Eduardo Telles,658,Fabio Leopoldo,D,0.5,---,Metamoris 7,ABS,SPF,2016
+10492,562,Eduardo Telles,,Matt Secor,W,1,EBI/OT,EBI 8,84KG,R1,2016

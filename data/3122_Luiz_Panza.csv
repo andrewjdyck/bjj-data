@@ -1,0 +1,104 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4510,3122,Luiz Panza,224,Roberto Abreu,L,0,Points,Pan American,ABS,R1,2013
+4819,3122,Luiz Panza,425,Bernardo Faria,L,0,Triangle,World Champ.,100KG,SF,2013
+5115,3122,Luiz Panza,3200,Jackson Sousa,L,0,Triangle,NoGi Worlds,94KG,SF,2013
+5310,3122,Luiz Panza,3009,Keenan Cornelius,L,0,Pts: 8x6,Pan American,ABS,R3,2014
+5454,3122,Luiz Panza,,Magid Hage,L,0,Referee Decision,FIVE California,ABS,SF,2014
+5562,3122,Luiz Panza,4310,Tim Spriggs,L,0,Pts: 3x2,Copa Podio,94KG,GP,2014
+5581,3122,Luiz Panza,1188,Leandro Lo,L,0,Pts: 6x4,Copa Podio,94KG,SF,2014
+5628,3122,Luiz Panza,247,Rodolfo Vieira,L,0,Choke,World Pro.,ABS,R3,2014
+5678,3122,Luiz Panza,247,Rodolfo Vieira,L,0,Armbar,World Pro.,100KG,F,2014
+5838,3122,Luiz Panza,144,Andre Galvao,L,0,Choke from back,World Champ.,94KG,4F,2014
+6011,3122,Luiz Panza,5649,Garry Tonon,L,0,RNC,NoGi Worlds,ABS,4F,2014
+6097,3122,Luiz Panza,425,Bernardo Faria,L,0,Choke from back,IBJJF Pro League,O100KG,F,2014
+6214,3122,Luiz Panza,2416,Felipe Pena,L,0,"Pts: 2x2, Adv",Copa Podio,85KG,F,2014
+6768,3122,Luiz Panza,425,Bernardo Faria,L,0,Pts: 9x4,Pan American,ABS,4F,2015
+6895,3122,Luiz Panza,1757,Alexander Trans,L,0,Pts: 6x2,Pan American,O100KG,SF,2015
+7143,3122,Luiz Panza,2416,Felipe Pena,L,0,Pts: 4x2,World Pro,95KG,SF,2015
+7181,3122,Luiz Panza,2416,Felipe Pena,L,0,Toe hold,World Pro,ABS,R1,2015
+9115,3122,Luiz Panza,3083,Abraham Marte,L,0,Referee Decision,UAEJJF NYC Pro,O94KG,RR,2016
+9545,3122,Luiz Panza,1548,Jose Junior,L,0,Pts: 4x2,World Pro,ABS,8F,2016
+10062,3122,Luiz Panza,1272,Leo Nogueira,L,0,Pts: 2x0,World Champ.,100KG,SF,2016
+10095,3122,Luiz Panza,4521,Erberth Santos,L,0,"Pts: 8x8, Adv",World Champ.,ABS,8F,2016
+13042,3122,Luiz Panza,1188,Leandro Lo,L,0,Pts: 3x2,World Champ.,ABS,SF,2017
+13209,3122,Luiz Panza,425,Bernardo Faria,L,0,"Pts: 6x6, Adv",World Champ.,100KG,SF,2017
+14978,3122,Luiz Panza,2403,Joao Rocha,L,0,Points,ACB 10,O95KG,SPF,2018
+16605,3122,Luiz Panza,2403,Joao Rocha,L,0,Pts: 2x0,World Champ.,O100KG,4F,2018
+16631,3122,Luiz Panza,1188,Leandro Lo,L,0,Pts: 2x0,World Champ.,ABS,4F,2018
+19695,3122,Luiz Panza,224,Roberto Abreu,L,0,Referee Decision,F2W 106,100KG,SPF,2019
+20707,3122,Luiz Panza,7507,Nicholas Meregali,L,0,Triangle armbar,World Champ.,100KG,SF,2019
+20736,3122,Luiz Panza,1188,Leandro Lo,L,0,Triangle armbar,World Champ.,ABS,4F,2019
+21480,3122,Luiz Panza,9180,Vinicius Trator,L,0,"Pts: 0x0, Adv",IBJJF GP,ABS,4F,2019
+24219,3122,Luiz Panza,6805,Max Gimenis,L,0,Pts: 10x0,Pan American,O100KG,F,2020
+25087,3122,Luiz Panza,2416,Felipe Pena,L,0,Arm in guillotine,BJJ Stars 5,96KG,4F,2021
+26301,3122,Luiz Panza,8346,Craig Jones,L,0,Inside heel hook,WNO 9,92KG,SPF,2021
+29586,3122,Luiz Panza,6805,Max Gimenis,L,0,"Pts: 2x2, Adv",World Champ.,O100KG,4F,2021
+4381,3122,Luiz Panza,,Unknown,W,1,Botinha,Pre Pans FPJJ,O100KG,4F,2013
+4383,3122,Luiz Panza,7224,Diogo Almeida,W,1,RNC,Pre Pans FPJJ,O100KG,SF,2013
+4816,3122,Luiz Panza,644,Joao Assis,W,1,Botinha,World Champ.,100KG,4F,2013
+4968,3122,Luiz Panza,,Daniel Simmler,W,1,Botinha,NoGi Pan Am.,100KG,F,2013
+4970,3122,Luiz Panza,,Ronnie Wuest,W,1,Triangle,NoGi Pan Am.,ABS,4F,2013
+4971,3122,Luiz Panza,2035,Vitor Oliveira,W,1,Botinha,NoGi Pan Am.,ABS,SF,2013
+5072,3122,Luiz Panza,,Mikeias Bezerra,W,1,Flying triangle,Brasileiro NoGi,94KG,F,2013
+5076,3122,Luiz Panza,,Mikeias Bezerra,W,1,Submission,Brasileiro NoGi,ABS,SF,2013
+5078,3122,Luiz Panza,4328,AJ Agazarm,W,1,Armbar,Brasileiro NoGi,ABS,F,2013
+5412,3122,Luiz Panza,,Tiago Declavo,W,1,Points,Pan American,100KG,4F,2014
+5414,3122,Luiz Panza,1290,Tarcisio Jardim,W,1,Points,Pan American,100KG,SF,2014
+5415,3122,Luiz Panza,425,Bernardo Faria,W,1,Armbar,Pan American,100KG,F,2014
+5566,3122,Luiz Panza,,Rico Bastos,W,1,Triangle,Copa Podio,94KG,GP,2014
+5571,3122,Luiz Panza,10903,Travis Stevens,W,1,Botinha,Copa Podio,94KG,GP,2014
+5578,3122,Luiz Panza,1272,Leo Nogueira,D,0.5,---,Copa Podio,94KG,GP,2014
+5583,3122,Luiz Panza,10903,Travis Stevens,W,1,Botinha,Copa Podio,94KG,3PLC,2014
+5618,3122,Luiz Panza,875,Lucas Leite,W,1,Armbar,World Pro.,ABS,R1,2014
+5625,3122,Luiz Panza,1263,Lucio Rodrigues,W,1,Botinha,World Pro.,ABS,R2,2014
+5672,3122,Luiz Panza,,Unknown,W,1,Triangle,World Pro.,100KG,4F,2014
+5675,3122,Luiz Panza,680,Igor Silva,W,1,Armbar,World Pro.,100KG,SF,2014
+5712,3122,Luiz Panza,,Karim Kalifah,W,1,Choke from back,World Champ.,ABS,R3,2014
+6062,3122,Luiz Panza,1827,James Puopolo,W,1,Footlock,NoGi Worlds,100KG,SF,2014
+6095,3122,Luiz Panza,1534,R. Evangelista,W,1,Armbar,IBJJF Pro League,O100KG,SF,2014
+6192,3122,Luiz Panza,410,Claudio Calasans,W,1,Botinha,Copa Podio,85KG,GP,2014
+6197,3122,Luiz Panza,1003,Diogo Sampaio,D,0.5,---,Copa Podio,85KG,GP,2014
+6201,3122,Luiz Panza,,Jon Satava,W,1,Botinha,Copa Podio,85KG,GP,2014
+6209,3122,Luiz Panza,,Luis Gustavo,W,1,Botinha,Copa Podio,85KG,GP,2014
+6212,3122,Luiz Panza,1322,Gregor Gracie,W,1,Botinha,Copa Podio,85KG,SF,2014
+6747,3122,Luiz Panza,8762,Rodrigo Ribeiro,W,1,Points,Pan American,ABS,R2,2015
+6892,3122,Luiz Panza,2403,Joao Rocha,W,1,Points,Pan American,O100KG,4F,2015
+7136,3122,Luiz Panza,,Erico Pinto,W,1,Botinha,World Pro,95KG,R1,2015
+7140,3122,Luiz Panza,7543,Nelton Pontes,W,1,Botinha,World Pro,95KG,4F,2015
+7145,3122,Luiz Panza,6301,Faisal AlKitbe,W,1,Points,World Pro,95KG,3RD,2015
+9114,3122,Luiz Panza,5842,Mahamed Aly,W,1,"Pts: 2x2, Adv",UAEJJF NYC Pro,O94KG,RR,2016
+9346,3122,Luiz Panza,7519,Eliot Kelly,W,1,Pts: 4x0,Pan American,100KG,4F,2016
+9349,3122,Luiz Panza,1740,Yuri Simoes,W,1,Pts: 9x0,Pan American,100KG,SF,2016
+9350,3122,Luiz Panza,,Alexandro Ceconi,W,1,Footlock,Pan American,100KG,F,2016
+9362,3122,Luiz Panza,,Kitner Moura,W,1,Straight ankle lock,Pan American,ABS,R1,2016
+9377,3122,Luiz Panza,,Mohamed Aly,W,1,"Pts: 4x4, Adv",Pan American,ABS,R2,2016
+9388,3122,Luiz Panza,1827,James Puopolo,W,1,Armbar,Pan American,ABS,8F,2016
+9525,3122,Luiz Panza,,Luiz Santos,W,1,Kneebar,World Pro,ABS,R1,2016
+9535,3122,Luiz Panza,,Otavio Nalati,W,1,Pts: 6x0,World Pro,ABS,R2,2016
+10060,3122,Luiz Panza,7502,Paul Ardila,W,1,Kneebar,World Champ.,100KG,4F,2016
+10465,3122,Luiz Panza,5842,Mahamed Aly,W,1,Kneebar,Grand Slam LA,110KG,SF,2016
+10467,3122,Luiz Panza,1548,Jose Junior,W,1,Botinha,Grand Slam LA,110KG,F,2016
+10718,3122,Luiz Panza,7519,Eliot Kelly,W,1,Footlock,BJJ Pro LA,O94KG,SF,2016
+10719,3122,Luiz Panza,7231,Manny Diaz,W,1,Botinha,BJJ Pro LA,O94KG,F,2016
+10941,3122,Luiz Panza,7502,Paul Ardila,W,1,Armbar,NoGi Worlds,97KG,SF,2016
+10942,3122,Luiz Panza,5861,Jared Dopp,W,1,Calf slicer,NoGi Worlds,97KG,F,2016
+12906,3122,Luiz Panza,,Joseph Moku,W,1,Botinha,ACBJJ 5,O95KG,4F,2017
+12909,3122,Luiz Panza,1534,R. Evangelista,W,1,Kneebar,ACBJJ 5,O95KG,SF,2017
+12910,3122,Luiz Panza,1757,Alexander Trans,W,1,Referee Decision,ACBJJ 5,O95KG,F,2017
+13018,3122,Luiz Panza,5258,Dillon Danis,W,1,Pts: 11x4,World Champ.,ABS,R1,2017
+13030,3122,Luiz Panza,4177,Gustavo Dias,W,1,Kneebar,World Champ.,ABS,8F,2017
+13038,3122,Luiz Panza,425,Bernardo Faria,W,1,"Pts: 4x4, Adv",World Champ.,ABS,4F,2017
+13206,3122,Luiz Panza,6592,Dany Gerard,W,1,Pts: 2x0,World Champ.,100KG,4F,2017
+16345,3122,Luiz Panza,1534,R. Evangelista,W,1,Triangle,ACBJJ 13,O95KG,SPF,2018
+16602,3122,Luiz Panza,7079,Carlos Farias,W,1,Armbar,World Champ.,O100KG,8F,2018
+16613,3122,Luiz Panza,8686,Fellipe Trovo,W,1,Katagatame,World Champ.,ABS,RD,2018
+16623,3122,Luiz Panza,4960,Dimitrius Souza,W,1,Botinha,World Champ.,ABS,8F,2018
+20005,3122,Luiz Panza,,Victor Rodriguez,W,1,Mounted triangle,San Jose Open,O100KG,F,2019
+20010,3122,Luiz Panza,,Jonathan Andrew,W,1,Triangle,San Jose Open,ABS,4F,2019
+20014,3122,Luiz Panza,,Gianni Crivello,W,1,Katagatame,San Jose Open,ABS,SF,2019
+20015,3122,Luiz Panza,4235,Victor Silverio,W,1,Botinha,San Jose Open,ABS,F,2019
+20701,3122,Luiz Panza,1827,James Puopolo,W,1,Botinha,World Champ.,100KG,R1,2019
+20705,3122,Luiz Panza,,Wellington Peroto,W,1,Triangle,World Champ.,100KG,4F,2019
+20732,3122,Luiz Panza,1534,R. Evangelista,W,1,Botinha,World Champ.,ABS,R2,2019
+24216,3122,Luiz Panza,,Johny Goncalves,W,1,Armbar,Pan American,O100KG,4F,2020
+24217,3122,Luiz Panza,,Stuart Maddox,W,1,Botinha,Pan American,O100KG,SF,2020

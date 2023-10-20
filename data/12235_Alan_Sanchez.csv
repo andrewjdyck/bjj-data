@@ -1,0 +1,53 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23770,12235,Alan Sanchez,,Benji Silva,L,0,Referee Decision,Jitz King,84KG,R1,2020
+24238,12235,Alan Sanchez,9344,PJ Barch,L,0,Inside heel hook,Sin City Series,77KG,F,2020
+25777,12235,Alan Sanchez,9344,PJ Barch,L,0,Kimura,Emerald City,84KG,F,2021
+26589,12235,Alan Sanchez,,Ross Keeping,L,0,Pts: 4x0,Boise NGO,79KG,F,2021
+26727,12235,Alan Sanchez,4235,Victor Silverio,L,0,"Pts: 0x0, Adv",American NGN,79KG,4F,2021
+26757,12235,Alan Sanchez,8686,Fellipe Trovo,L,0,Pts: 5x0,American NGN,ABS,F,2021
+26964,12235,Alan Sanchez,12115,Kieran Kichuk,L,0,Pts: 4x2,Austin NGO,79KG,F,2021
+27142,12235,Alan Sanchez,,Samuel Barbosa,L,0,EBI/OT,MDW Finishers,ABS,F,2021
+28269,12235,Alan Sanchez,,Rodrigo Gortari,L,0,Pts: 4x0,NoGi Worlds,79KG,R2,2021
+28866,12235,Alan Sanchez,9344,PJ Barch,L,0,Pts: 3x0,ADCC EC Trials,77KG,4F,2021
+29797,12235,Alan Sanchez,11707,Oliver Taza,L,0,Inside heel hook,Emerald City,ABS,SF,2021
+31462,12235,Alan Sanchez,12703,Andy Varela,L,0,"Pts: 0x0, Pen",ADCC WC Trials,77KG,4F,2022
+34214,12235,Alan Sanchez,12122,Mica Galvao,L,0,RNC,WNO 14,83KG,SPF,2022
+34957,12235,Alan Sanchez,12215,Sebastian Rodriguez,L,0,Pts: 3x0,ADCC Vegas,83KG,4F,2022
+34994,12235,Alan Sanchez,,Vincent Pezzuto,L,0,Pts: 3x0,ADCC Vegas,ABS,4F,2022
+35990,12235,Alan Sanchez,,Jed Hue,L,0,Pts: 4x0,Polaris 22,86KG,4F,2022
+36836,12235,Alan Sanchez,10295,Italo Moura,L,0,Referee Decision,NoGi Worlds,79KG,R1,2022
+39089,12235,Alan Sanchez,6071,Gabriel Arges,L,0,Pts: 2x0,S. Cruz NGO,85KG,F,2023
+23819,12235,Alan Sanchez,,Ralph Sebexen,W,1,Katagatame,F2W 146,82KG,SPF,2020
+24084,12235,Alan Sanchez,,Justin Renick,W,1,EBI/OT,SUG 18,N/A,SPF,2020
+24233,12235,Alan Sanchez,,James Cannon,W,1,Triangle,Sin City Series,77KG,R1,2020
+24234,12235,Alan Sanchez,,Tolu Aderinwale,W,1,RNC,Sin City Series,77KG,4F,2020
+24236,12235,Alan Sanchez,,James Cannon,W,1,Triangle,Sin City Series,77KG,SF,2020
+25770,12235,Alan Sanchez,,K. Fadlallah,W,1,EBI/OT,Emerald City,84KG,R1,2021
+25774,12235,Alan Sanchez,,A. Tackett,W,1,EBI/OT,Emerald City,84KG,4F,2021
+25776,12235,Alan Sanchez,,JZ Cavalcante,W,1,EBI/OT,Emerald City,84KG,SF,2021
+26587,12235,Alan Sanchez,,Donald Stoner,W,1,Pts: 6x0,Boise NGO,79KG,SF,2021
+26750,12235,Alan Sanchez,,Rhehan Silva,W,1,Triangle,American NGN,ABS,R1,2021
+26756,12235,Alan Sanchez,,Joseph Watson,W,1,Guillotine,American NGN,ABS,SF,2021
+26961,12235,Alan Sanchez,10352,Leo Silva,W,1,Inside heel hook,Austin NGO,79KG,4F,2021
+26963,12235,Alan Sanchez,,Saul Viayra,W,1,Dead orchard,Austin NGO,79KG,SF,2021
+27135,12235,Alan Sanchez,,Mahmoud Jabr,W,1,Inside heel hook,MDW Finishers,ABS,R1,2021
+27138,12235,Alan Sanchez,12069,Bruno Matias,W,1,Triangle,MDW Finishers,ABS,4F,2021
+27141,12235,Alan Sanchez,,J. Couch,W,1,EBI/OT,MDW Finishers,ABS,SF,2021
+27504,12235,Alan Sanchez,,Osmar Lima,W,1,Inside heel hook,F2W 182,83KG,SPF,2021
+28824,12235,Alan Sanchez,,Anthony Robinson,W,1,Referee Decision,ADCC EC Trials,77KG,R2,2021
+28836,12235,Alan Sanchez,,Gustavo Bessa,W,1,Guillotine,ADCC EC Trials,77KG,R3,2021
+28850,12235,Alan Sanchez,6836,John Combs,W,1,Guillotine,ADCC EC Trials,77KG,R4,2021
+28857,12235,Alan Sanchez,,D. Smith,W,1,Possible RNC,ADCC EC Trials,77KG,R5,2021
+29790,12235,Alan Sanchez,,J Piersma,W,1,EBI/OT,Emerald City,ABS,R1,2021
+29792,12235,Alan Sanchez,,Sean Yadimarco,W,1,EBI/OT,Emerald City,ABS,4F,2021
+30921,12235,Alan Sanchez,,Danny Stolfy,W,1,Inside heel hook,EBI 19,77KG,R1,2022
+30926,12235,Alan Sanchez,6836,John Combs,W,1,Dead orchard,EBI 19,77KG,4F,2022
+30928,12235,Alan Sanchez,11015,Pablo Lavaselli,W,1,EBI/OT,EBI 19,77KG,SF,2022
+30929,12235,Alan Sanchez,11707,Oliver Taza,W,1,EBI/OT,EBI 19,77KG,F,2022
+31407,12235,Alan Sanchez,,Skylar McKinley,W,1,Inside heel hook,ADCC WC Trials,77KG,R1,2022
+31425,12235,Alan Sanchez,,Dylan Garofalo,W,1,RNC,ADCC WC Trials,77KG,R2,2022
+31448,12235,Alan Sanchez,,Ruben Coronado,W,1,Inside heel hook,ADCC WC Trials,77KG,R4,2022
+31457,12235,Alan Sanchez,,Isa Able,W,1,Referee Decision,ADCC WC Trials,77KG,8F,2022
+34948,12235,Alan Sanchez,,Harrison Woods,W,1,Referee Decision,ADCC Vegas,83KG,R2,2022
+34954,12235,Alan Sanchez,,Ricardo Pena,W,1,Guillotine,ADCC Vegas,83KG,8F,2022
+34987,12235,Alan Sanchez,,Benji Silva,W,1,Inside heel hook,ADCC Vegas,ABS,8F,2022

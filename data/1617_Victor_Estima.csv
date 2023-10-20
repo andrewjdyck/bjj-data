@@ -1,0 +1,82 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1850,1617,Victor Estima,289,Alan Finfou,L,0,Pts: 2x0,European Open,82KG,SF,2008
+1944,1617,Victor Estima,138,Sergio Moraes,L,0,Arm in Ezekiel,World Champ.,82KG,SF,2008
+2127,1617,Victor Estima,16,Marcelo Garcia,L,0,Choke,World Pro.,ABS,4F,2009
+2141,1617,Victor Estima,477,Tarsis Humphreys,L,0,Pts: 2x0,World Pro.,88KG,F,2009
+2171,1617,Victor Estima,,Carlos Ferreira,L,0,Choke from back,Pan American,82KG,4F,2009
+2350,1617,Victor Estima,320,Romulo Barral,L,0,Choke,World Champ.,88KG,SF,2009
+3115,1617,Victor Estima,16,Marcelo Garcia,L,0,Pts: 3x0,World Champ.,82KG,4F,2011
+3264,1617,Victor Estima,16,Marcelo Garcia,L,0,Guillotine,ADCC,77KG,4F,2011
+3312,1617,Victor Estima,919,Pablo Popovitch,L,0,Pts: 2x0,ADCC,ABS,4F,2011
+3523,1617,Victor Estima,247,Rodolfo Vieira,L,0,Choke from back,European Open,ABS,4F,2012
+3557,1617,Victor Estima,788,Kron Gracie,L,0,DQ,Pan American,ABS,4F,2012
+3636,1617,Victor Estima,410,Claudio Calasans,L,0,Pts: 4x2,Pan American,82KG,F,2012
+4064,1617,Victor Estima,410,Claudio Calasans,L,0,"Pts: 4x4, Adv",World Champ.,82KG,SF,2012
+4196,1617,Victor Estima,788,Kron Gracie,L,0,Points,World Expo,ABS,SPF,2012
+4474,1617,Victor Estima,967,JT Torres,D,0.5,---,Metamoris 2,ABS,SPF,2013
+4655,1617,Victor Estima,1848,Marcos Souza,L,0,Pts: 2x0,World Pro,82KG,F,2013
+4667,1617,Victor Estima,1848,Marcos Souza,L,0,Pts: 2x0,World Pro,82KG,F,2013
+4801,1617,Victor Estima,410,Claudio Calasans,L,0,Pts: 8x4,World Champ.,82KG,SF,2013
+5319,1617,Victor Estima,1188,Leandro Lo,L,0,Points,Pan American,ABS,4F,2014
+5377,1617,Victor Estima,1188,Leandro Lo,L,0,Pts: 5x0,Pan American,82KG,SF,2014
+5630,1617,Victor Estima,984,Marcus Almeida,L,0,Choke from back,World Pro.,ABS,4F,2014
+5657,1617,Victor Estima,1188,Leandro Lo,L,0,Referee Decision,World Pro.,82KG,F,2014
+5821,1617,Victor Estima,1188,Leandro Lo,L,0,Pts: 7x2,World Champ.,82KG,SF,2014
+6759,1617,Victor Estima,8560,Gabriel Lucas,L,0,Adv,Pan American,ABS,R2,2015
+6844,1617,Victor Estima,1188,Leandro Lo,L,0,Pts: 4x2,Pan American,82KG,SF,2015
+7000,1617,Victor Estima,2416,Felipe Pena,L,0,Pts: 2x0,ADCC RJ,88KG,SF,2015
+7133,1617,Victor Estima,1188,Leandro Lo,L,0,"Pts: 0x0, Adv",World Pro,85KG,F,2015
+7468,1617,Victor Estima,410,Claudio Calasans,L,0,Pts: 4x2,World Champ.,82KG,SF,2015
+9991,1617,Victor Estima,4789,Marcos Tinoco,L,0,Pts: 6x4,World Champ.,82KG,R2,2016
+10164,1617,Victor Estima,6805,Max Gimenis,D,0.5,---,Copa Podio,86KG,GP,2016
+10167,1617,Victor Estima,,N. Meregali,L,0,Injury,Copa Podio,86KG,GP,2016
+1849,1617,Victor Estima,,Jonatas Novaes,W,1,N/A,European Open,82KG,4F,2008
+1932,1617,Victor Estima,875,Lucas Leite,W,1,Armbar,World Champ.,82KG,R1,2008
+1942,1617,Victor Estima,1583,Mike Fowler,W,1,Triangle,World Champ.,82KG,4F,2008
+2169,1617,Victor Estima,,Unknown,W,1,Kneebar,Pan American,82KG,8F,2009
+2346,1617,Victor Estima,,Tony Eduardo,W,1,Armbar,World Champ.,88KG,4F,2009
+3041,1617,Victor Estima,2378,Ryan Beauregard,W,1,Points,World Champ.,82KG,RDS,2011
+3055,1617,Victor Estima,,Roger Roberto,W,1,Botinha,World Champ.,82KG,RDS,2011
+3229,1617,Victor Estima,,Sanshiro Nakamura,W,1,Pts: 2x0,ADCC,77KG,R1,2011
+3307,1617,Victor Estima,644,Joao Assis,W,1,Pts: 2x0,ADCC,ABS,R1,2011
+3358,1617,Victor Estima,5061,Gabriel Rollo,W,1,Estima lock,No Gi Worlds,82KG,4F,2011
+3374,1617,Victor Estima,1386,Davi Ramos,W,1,Estima lock,No Gi Worlds,82KG,SF,2011
+3385,1617,Victor Estima,5909,Thiago Abreu,W,1,Estima lock,No Gi Worlds,82KG,F,2011
+3477,1617,Victor Estima,1523,Clark Gracie,W,1,Estima lock,British Open,82KG,F,2012
+3512,1617,Victor Estima,1523,Clark Gracie,W,1,Armbar,European Open,82KG,SF,2012
+3513,1617,Victor Estima,289,Alan Finfou,W,1,Triangle,European Open,82KG,F,2012
+3536,1617,Victor Estima,,Evan Cathey,W,1,Cross choke,Pan American,ABS,R1,2012
+3550,1617,Victor Estima,,Leonardo Iturralde,W,1,Estima lock,Pan American,ABS,R2,2012
+3622,1617,Victor Estima,,Jeston Pages,W,1,Choke,Pan American,82KG,R2,2012
+3630,1617,Victor Estima,9706,Marcelo Mafra,W,1,Ezekiel,Pan American,82KG,4F,2012
+3634,1617,Victor Estima,788,Kron Gracie,W,1,Pts: 6x2,Pan American,82KG,SF,2012
+4049,1617,Victor Estima,1517,Alexandre Santos,W,1,Bow and arrow,World Champ.,82KG,R2,2012
+4058,1617,Victor Estima,1017,Gabriel Goulart,W,1,Armbar,World Champ.,82KG,8F,2012
+4062,1617,Victor Estima,6253,Diego Borges,W,1,Inverted triangle,World Champ.,82KG,4F,2012
+4666,1617,Victor Estima,410,Claudio Calasans,W,1,Bow and arrow,World Pro,82KG,SF,2013
+4799,1617,Victor Estima,1523,Clark Gracie,W,1,Pts: 2x0,World Champ.,82KG,4F,2013
+5132,1617,Victor Estima,5414,Osvaldo Moizinho,W,1,Pts: 8x2,IBJJF Pro League,82KG,SF,2013
+5134,1617,Victor Estima,2035,Vitor Oliveira,W,1,Inverted triangle,IBJJF Pro League,82KG,F,2013
+5313,1617,Victor Estima,3083,Abraham Marte,W,1,Estima lock,Pan American,ABS,R3,2014
+5370,1617,Victor Estima,,Sergio Silva,W,1,Pts: 12x2,Pan American,82KG,R1,2014
+5376,1617,Victor Estima,,Nic Nikolaisen,W,1,Inverted triangle,Pan American,82KG,4F,2014
+5656,1617,Victor Estima,1848,Marcos Souza,W,1,Submission,World Pro.,82KG,SF,2014
+5796,1617,Victor Estima,,Robson Lima,W,1,Armbar,World Champ.,82KG,RDS,2014
+5801,1617,Victor Estima,9706,Marcelo Mafra,W,1,Adv,World Champ.,82KG,RDS,2014
+5815,1617,Victor Estima,,Mat Jubera,W,1,Triangle,World Champ.,82KG,RDS,2014
+5819,1617,Victor Estima,,Calasans,W,1,Referee Decision,World Champ.,82KG,4F,2014
+6824,1617,Victor Estima,,Stefano Correa,W,1,Estima lock,Pan American,82KG,R1,2015
+6837,1617,Victor Estima,,Gleidson Curtis,W,1,Loop choke,Pan American,82KG,R3,2015
+6841,1617,Victor Estima,1600,Vinicius Marinho,W,1,Referee Decision,Pan American,82KG,4F,2015
+6994,1617,Victor Estima,,Julian Jabba,W,1,RNC,ADCC RJ,88KG,R1,2015
+6998,1617,Victor Estima,,Felipe Figueiredo,W,1,Estima lock,ADCC RJ,88KG,4F,2015
+7114,1617,Victor Estima,,Thiago Braga,W,1,Estima lock,World Pro,85KG,R1,2015
+7123,1617,Victor Estima,,Yazan Tamimi,W,1,Injury,World Pro,85KG,R2,2015
+7127,1617,Victor Estima,410,Claudio Calasans,W,1,"Pts: 0x0, Adv",World Pro,85KG,4F,2015
+7131,1617,Victor Estima,3009,Keenan Cornelius,W,1,Referee Decision,World Pro,85KG,SF,2015
+7457,1617,Victor Estima,6156,Tanner Rice,W,1,Estima lock,World Champ.,82KG,8F,2015
+7467,1617,Victor Estima,484,Murilo Santana,W,1,Referee Decision,World Champ.,82KG,4F,2015
+9217,1617,Victor Estima,,Arturo Salas,W,1,"Pts: 0x0, Adv",Grand Slam LDN,85KG,4F,2016
+10124,1617,Victor Estima,,AP Gil,W,1,Estima lock,British National,82KG,F,2016
+10129,1617,Victor Estima,,Reid Reale,W,1,Armbar,British National,ABS,SF,2016
+10131,1617,Victor Estima,3200,Jackson Sousa,W,1,Pts: 2x0,British National,ABS,F,2016

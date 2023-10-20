@@ -1,0 +1,40 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2238,1398,Justin Rader,179,Rafael Mendes,L,0,Anaconda,ADCC,66KG,4F,2009
+3023,1398,Justin Rader,179,Rafael Mendes,L,0,Choke,World Champ.,70KG,RDS,2011
+3260,1398,Justin Rader,179,Rafael Mendes,L,0,RNC,ADCC,66KG,4F,2011
+3383,1398,Justin Rader,147,Rubens Charles,L,0,Adv,No Gi Worlds,70KG,F,2011
+3498,1398,Justin Rader,428,Celso Vinicius,L,0,Points,Ultimate Abs.,76KG,F,2012
+3587,1398,Justin Rader,179,Rafael Mendes,L,0,Triangle,Pan American,70KG,4F,2012
+3984,1398,Justin Rader,8231,Leo Saggioro,L,0,Choke,World Champ.,70KG,R3,2012
+4225,1398,Justin Rader,147,Rubens Charles,L,0,Adv,NoGi Worlds,70KG,F,2012
+4988,1398,Justin Rader,147,Rubens Charles,L,0,Points,ADCC,66KG,SF,2013
+5348,1398,Justin Rader,5414,Osvaldo Moizinho,L,0,Pts: 4x0,Pan American,70KG,4F,2014
+10486,1398,Justin Rader,610,Jeff Glover,L,0,Referee Decision,F2W 11,70KG,SPF,2016
+12261,1398,Justin Rader,5649,Garry Tonon,L,0,Referee Decision,F2W 28,75KG,SPF,2017
+14187,1398,Justin Rader,4248,Gianni Grippo,L,0,Referee Decision,F2W 51,70KG,SPF,2017
+2229,1398,Justin Rader,1023,Baret Yoshida,W,1,Adv,ADCC,66KG,R1,2009
+2606,1398,Justin Rader,963,Carlos Esquisito,W,1,Referee Decision,No Gi Worlds,70KG,F,2010
+3013,1398,Justin Rader,,Darrin Lillian,W,1,Choke,World Champ.,70KG,RDS,2011
+3221,1398,Justin Rader,,Timo-Juhani,W,1,Pts: 3x0,ADCC,66KG,R1,2011
+3348,1398,Justin Rader,,Rob Di Censo,W,1,Pts: 2x0,No Gi Worlds,70KG,4F,2011
+3369,1398,Justin Rader,1436,Samir Chantre,W,1,Pts: 2x0,No Gi Worlds,70KG,SF,2011
+3417,1398,Justin Rader,,Wesley Gann,W,1,Guillotine,UFC Expo,ABS,SPF,2011
+3490,1398,Justin Rader,,Magno Gama,W,1,Points,Ultimate Abs.,76KG,R1,2012
+3494,1398,Justin Rader,725,Ryan Hall,W,1,Points,Ultimate Abs.,76KG,4F,2012
+3497,1398,Justin Rader,1761,Samuel Braga,W,1,Points,Ultimate Abs.,76KG,SF,2012
+3580,1398,Justin Rader,,Mayko Girotto,W,1,Points,Pan American,70KG,R1,2012
+3977,1398,Justin Rader,1923,David Lemes,W,1,Adv,World Champ.,70KG,R2,2012
+4222,1398,Justin Rader,,Ed Ramos,W,1,Points,NoGi Worlds,70KG,4F,2012
+4223,1398,Justin Rader,1436,Samir Chantre,W,1,Pts: 2x0,NoGi Worlds,70KG,SF,2012
+4981,1398,Justin Rader,188,Augusto Mendes,W,1,Referee Decision,ADCC,66KG,R1,2013
+4984,1398,Justin Rader,,Nicolas Renier,W,1,Points,ADCC,66KG,4F,2013
+4989,1398,Justin Rader,2997,Joao Miyao,W,1,Points,ADCC,66KG,3PLC,2013
+5101,1398,Justin Rader,1436,Samir Chantre,W,1,Calf Slicer,NoGi Worlds,70KG,SF,2013
+5102,1398,Justin Rader,5414,Osvaldo Moizinho,W,1,Referee Decision,NoGi Worlds,70KG,F,2013
+5178,1398,Justin Rader,1498,Denny Prokopos,W,1,Darce choke,Midwest Challenge,ABS,F,2013
+5345,1398,Justin Rader,,Niccolas Araujo,W,1,Points,Pan American,70KG,R1,2014
+11141,1398,Justin Rader,,Salvatore Guirrero,W,1,N/A,ADCC US Trials,66KG,4F,2016
+11142,1398,Justin Rader,,C. Franson,W,1,Pts: 2x0,ADCC US Trials,66KG,SF,2016
+11144,1398,Justin Rader,,Josh Hayden,W,1,Pts: 2x0,ADCC US Trials,66KG,F,2016
+13016,1398,Justin Rader,174,Bruno Frazatto,W,1,Referee Decision,F2W 35,70KG,SPF,2017
+15191,1398,Justin Rader,,Matt Vernon,W,1,Guillotine,F2W 63,70KG,SPF,2018

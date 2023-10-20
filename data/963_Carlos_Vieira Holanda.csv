@@ -1,0 +1,41 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1282,963,Carlos Vieira Holanda,471,Bibiano Fernandes,L,0,"Pts: 6x6, Adv",World Champ.,64KG,F,2005
+1586,963,Carlos Vieira Holanda,1433,Bernardo Pitel,L,0,"Pts: 2x2, Adv",Brasileiro,64KG,F,2007
+1740,963,Carlos Vieira Holanda,195,Robson Moura,L,0,Referee Decision,World Champ.,64KG,SF,2007
+2321,963,Carlos Vieira Holanda,415,Guilherme Mendes,L,0,Adv,World Champ.,64KG,SF,2009
+2406,963,Carlos Vieira Holanda,582,Caio Terra,L,0,"Pts: 0x0, Adv",NoGi Worlds,64KG,F,2009
+2606,963,Carlos Vieira Holanda,1398,Justin Rader,L,0,Referee Decision,No Gi Worlds,70KG,F,2010
+3103,963,Carlos Vieira Holanda,1761,Samuel Braga,L,0,DQ,World Champ.,64KG,4F,2011
+3955,963,Carlos Vieira Holanda,260,Ary Farias,L,0,"Pts: 2x2, Adv",World Champ.,64KG,4F,2012
+4440,963,Carlos Vieira Holanda,1041,Laercio Fernandes,L,0,Adv,European Open,64KG,F,2013
+5100,963,Carlos Vieira Holanda,5414,Osvaldo Moizinho,L,0,Points,NoGi Worlds,70KG,SF,2013
+5753,963,Carlos Vieira Holanda,415,Guilherme Mendes,L,0,Pts: 7x2,World Champ.,64KG,SF,2014
+6029,963,Carlos Vieira Holanda,1436,Samir Chantre,L,0,"Pts: 0x0, Adv",NoGi Worlds,67KG,SF,2014
+7414,963,Carlos Vieira Holanda,4851,Kim Terra,L,0,Pts: 8x6,World Champ.,64KG,4F,2015
+8110,963,Carlos Vieira Holanda,,Eduardo Ramos,L,0,Botinha,Dallas Open,70KG,SF,2015
+8617,963,Carlos Vieira Holanda,5789,Tiago Barros,L,0,Pts: 3x2,Grand Slam RJ,62KG,4F,2015
+8690,963,Carlos Vieira Holanda,,Jair Neto,L,0,Submission,Grand Slam RJ,ABS,R1,2015
+11233,963,Carlos Vieira Holanda,6151,Hiago George,L,0,Verbal tap,South American,64KG,F,2016
+11786,963,Carlos Vieira Holanda,7657,Cleber Sousa,L,0,Points,Manaus Nat. Pro,62KG,4F,2017
+1034,963,Carlos Vieira Holanda,,Robson Medeiros,W,1,Points,Brasileiro,64KG,F,2004
+1405,963,Carlos Vieira Holanda,,Oseias Costa,W,1,RNC,World Champ.,64KG,4F,2006
+1491,963,Carlos Vieira Holanda,,Sebastian Lali,W,1,Pts: 11x0,Brasileiro,64KG,F,2006
+1738,963,Carlos Vieira Holanda,582,Caio Terra,W,1,Adv,World Champ.,64KG,4F,2007
+2320,963,Carlos Vieira Holanda,1753,Rafael Freitas,W,1,Pts: 6x0,World Champ.,64KG,4F,2009
+2404,963,Carlos Vieira Holanda,2358,Brandon Mullins,W,1,Points,NoGi Worlds,64KG,SF,2009
+2532,963,Carlos Vieira Holanda,1041,Laercio Fernandes,W,1,Points,Pan American,64KG,4F,2010
+2533,963,Carlos Vieira Holanda,582,Caio Terra,W,1,Points,Pan American,64KG,F,2010
+2577,963,Carlos Vieira Holanda,898,Bill Cooper,W,1,Points,Pan American,ABS,R1,2010
+2580,963,Carlos Vieira Holanda,637,Bruno Bastos,W,1,Referee Decision,Pan American,ABS,R2,2010
+3934,963,Carlos Vieira Holanda,,Almiro Barros,W,1,Pts: 6x2,World Champ.,64KG,R1,2012
+3947,963,Carlos Vieira Holanda,,Kenji Urabe,W,1,Points,World Champ.,64KG,R2,2012
+4439,963,Carlos Vieira Holanda,8874,Thomas Lisboa,W,1,Adv,European Open,64KG,SF,2013
+4635,963,Carlos Vieira Holanda,8874,Thomas Lisboa,W,1,Points,Brasileiro,64KG,4F,2013
+5742,963,Carlos Vieira Holanda,,John Cho,W,1,Referee Decision,World Champ.,64KG,8F,2014
+5747,963,Carlos Vieira Holanda,,Daniel Abe,W,1,Points,World Champ.,64KG,8F,2014
+5749,963,Carlos Vieira Holanda,1041,Laercio Fernandes,W,1,"Pts: 4x4, Adv",World Champ.,64KG,4F,2014
+6027,963,Carlos Vieira Holanda,7123,Luiz Tosta,W,1,Pts: 4x0,NoGi Worlds,67KG,4F,2014
+7407,963,Carlos Vieira Holanda,,Ram Ananda,W,1,Points,World Champ.,64KG,8F,2015
+8612,963,Carlos Vieira Holanda,,A. Guilherme,W,1,Pts: 5x0,Grand Slam RJ,62KG,8F,2015
+10137,963,Carlos Vieira Holanda,8870,Cleito Soares,W,1,Points,BH Open,64KG,F,2016
+11785,963,Carlos Vieira Holanda,,Magno Vieira,W,1,Points,Manaus Nat. Pro,62KG,R1,2017

@@ -1,0 +1,46 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6426,5747,Arthur Sousa,6368,Kevin Mahecha,L,0,"Pts: 0x0, Adv",World Pro Trials,ABS,4F,2015
+6817,5747,Arthur Sousa,2035,Vitor Oliveira,L,0,Referee Decision,Pan American,82KG,R1,2015
+7130,5747,Arthur Sousa,1188,Leandro Lo,L,0,Points,World Pro,85KG,SF,2015
+7132,5747,Arthur Sousa,3009,Keenan Cornelius,L,0,Pts: 3x0,World Pro,85KG,3RD,2015
+7436,5747,Arthur Sousa,122,Michael Langhi,L,0,Points,World Champ.,76KG,8F,2015
+7620,5747,Arthur Sousa,5414,Osvaldo Moizinho,L,0,Points,American Nat.,76KG,4F,2015
+7800,5747,Arthur Sousa,84,Alexandre Ribeiro,L,0,Choke,BJJL Challenge,ABS,SPF,2015
+8134,5747,Arthur Sousa,4655,Michael Liera,L,0,Points,Dallas NoGi Open,79KG,SF,2015
+8883,5747,Arthur Sousa,1188,Leandro Lo,L,0,Pts: 13x0,Copa Podio,77KG,GP,2016
+8886,5747,Arthur Sousa,1386,Davi Ramos,L,0,Pts: 2x0,Copa Podio,77KG,GP,2016
+9275,5747,Arthur Sousa,6563,Francisco Iturralde,L,0,Pts: 4x2,Pan American,76KG,4F,2016
+9993,5747,Arthur Sousa,428,Celso Vinicius,L,0,Pts: 2x0,World Champ.,82KG,R2,2016
+11953,5747,Arthur Sousa,4163,Marcio Andre,L,0,Points,ACBJJ 4,75KG,4F,2017
+16349,5747,Arthur Sousa,320,Romulo Barral,L,0,Cross choke,ACBJJ 13,85KG,SPF,2018
+25424,5747,Arthur Sousa,5347,Yago Souza,L,0,Pts: 10x0,Orlando Open,88KG,F,2021
+6308,5747,Arthur Sousa,,Pedro Henrique,W,1,Choke from back,Miami Open,82KG,SF,2014
+6309,5747,Arthur Sousa,,Leo Iturralde,W,1,Choke from back,Miami Open,82KG,F,2014
+6312,5747,Arthur Sousa,708,Daniel Azevedo,W,1,N/A,Miami Open,ABS,SF,2014
+6424,5747,Arthur Sousa,,Magid Hage,W,1,Points,World Pro Trials,86KG,SF,2015
+6425,5747,Arthur Sousa,4328,AJ Agazarm,W,1,Adv,World Pro Trials,86KG,F,2015
+6427,5747,Arthur Sousa,,Magid Hage,W,1,Armbar,World Pro Trials,ABS,SF,2015
+6429,5747,Arthur Sousa,4328,AJ Agazarm,W,1,Pts: 6x2,World Pro Trials,ABS,F,2015
+7120,5747,Arthur Sousa,,Victor Marques,W,1,Choke from back,World Pro,85KG,R1,2015
+7126,5747,Arthur Sousa,477,Tarsis Humphreys,W,1,Points,World Pro,85KG,4F,2015
+7343,5747,Arthur Sousa,,Bruno Togni,W,1,Armbar,Las Vegas Open,82KG,F,2015
+7432,5747,Arthur Sousa,,Alex Cabanes,W,1,Armlock,World Champ.,76KG,R1,2015
+7617,5747,Arthur Sousa,,Marcus Wilson,W,1,Armbar,American Nat.,76KG,R1,2015
+7618,5747,Arthur Sousa,,Ed Ramos,W,1,Adv,American Nat.,76KG,8F,2015
+7791,5747,Arthur Sousa,,Victor Barreto,W,1,Omoplata,BJJL Challenge,ABS,RR,2015
+7793,5747,Arthur Sousa,,Dennis Hallman,W,1,Armbar,BJJL Challenge,ABS,RR,2015
+7796,5747,Arthur Sousa,,Brian Mingia,W,1,Flying armbar,BJJL Challenge,ABS,RR,2015
+7799,5747,Arthur Sousa,,Vitor Schlosser,W,1,Armbar,BJJL Challenge,ABS,F,2015
+8114,5747,Arthur Sousa,,Leo Iturralde,W,1,Omoplata,Dallas Open,82KG,4F,2015
+8116,5747,Arthur Sousa,4655,Michael Liera,W,1,"Pts: 2x2, Adv",Dallas Open,82KG,SF,2015
+8875,5747,Arthur Sousa,4542,Felipe Cesar,W,1,Pts: 4x2,Copa Podio,77KG,GP,2016
+8891,5747,Arthur Sousa,358,Lucas Lepri,W,1,Pts: 4x2,Copa Podio,77KG,GP,2016
+9271,5747,Arthur Sousa,,Frederico Almeida,W,1,Armbar,Pan American,76KG,8F,2016
+9885,5747,Arthur Sousa,4542,Felipe Cesar,W,1,Adv,Miami SPO,82KG,4F,2016
+9886,5747,Arthur Sousa,6419,Marcel Goncalves,W,1,Pts: 2x0,Miami SPO,82KG,SF,2016
+9887,5747,Arthur Sousa,,Lucas Valle,W,1,Pts: 9x0,Miami SPO,82KG,F,2016
+10204,5747,Arthur Sousa,,Andrea Vaughan,W,1,Armbar,American Nats,76KG,4F,2016
+10207,5747,Arthur Sousa,5930,Rodrigo Freitas,W,1,Pts: 2x0,American Nats,76KG,SF,2016
+10209,5747,Arthur Sousa,5414,Osvaldo Moizinho,W,1,Armbar,American Nats,76KG,F,2016
+15316,5747,Arthur Sousa,6337,Arnaldo Maidana,W,1,Referee Decision,ACBJJ 11,85KG,SPF,2018
+25423,5747,Arthur Sousa,10658,Matheus Luna,W,1,Pts: 2x0,Orlando Open,88KG,SF,2021

@@ -1,0 +1,40 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10630,7111,Muslim Patsarigov,,Riku Urholin,L,0,Pts: 2x0,NoGi Finnish Open,O97KG,F,2016
+10636,7111,Muslim Patsarigov,,P. Tepponen,L,0,Pts: 2x0,NoGi Finnish Open,ABS,F,2016
+10940,7111,Muslim Patsarigov,5861,Jared Dopp,L,0,"Pts: 0x0, Adv",NoGi Worlds,97KG,SF,2016
+10964,7111,Muslim Patsarigov,188,Augusto Mendes,L,0,"Pts: 0x0, Adv",NoGi Worlds,ABS,4F,2016
+11508,7111,Muslim Patsarigov,410,Claudio Calasans,L,0,Amassa pao choke,European Open,ABS,8F,2017
+11628,7111,Muslim Patsarigov,1986,Vitor Toledo,L,0,Armlock,European Open,100KG,4F,2017
+12308,7111,Muslim Patsarigov,5842,Mahamed Aly,L,0,Cross choke,Rome Open,100KG,F,2017
+12364,7111,Muslim Patsarigov,,Riku Urholin,L,0,Points,European NoGi,100KG,SF,2017
+12370,7111,Muslim Patsarigov,4328,AJ Agazarm,L,0,DQ,European NoGi,ABS,SF,2017
+16186,7111,Muslim Patsarigov,7543,Nelton Pontes,L,0,Pts: 2x0,World Pro,110KG,R1,2018
+16195,7111,Muslim Patsarigov,680,Igor Silva,L,0,Referee Decision,World Pro,110KG,RPC,2018
+17789,7111,Muslim Patsarigov,9959,Perttu Tepponen,L,0,"Pts: 0x0, Pen",ADCC EU Trials,99KG,F,2018
+20143,7111,Muslim Patsarigov,10318,Eldar Rafigaev,L,0,Triangle,World Pro,110KG,R1,2019
+20151,7111,Muslim Patsarigov,1534,R. Evangelista,L,0,Wristlock,World Pro,110KG,3RD,2019
+22197,7111,Muslim Patsarigov,9157,Devhonte Johnson,L,0,Referee Decision,European NoGi,ABS,SF,2019
+29242,7111,Muslim Patsarigov,,Paulo Brasil,L,0,Pts: 8x1,World Pro,120KG,R1,2021
+32313,7111,Muslim Patsarigov,,Daniel Manasoiu,L,0,Katagatame,ADCC EU Trials,O99KG,F,2022
+36051,7111,Muslim Patsarigov,11707,Oliver Taza,L,0,Referee Decision,European NG,ABS,4F,2022
+10629,7111,Muslim Patsarigov,,Tatu Immonen,W,1,Straight ankle lock,NoGi Finnish Open,O97KG,SF,2016
+10632,7111,Muslim Patsarigov,,M. Männimägi,W,1,Straight ankle lock,NoGi Finnish Open,ABS,4F,2016
+10634,7111,Muslim Patsarigov,,Joachim Sveinson,W,1,Straight ankle lock,NoGi Finnish Open,ABS,SF,2016
+10952,7111,Muslim Patsarigov,4115,Fabio Caloi,W,1,Straight ankle lock,NoGi Worlds,ABS,R1,2016
+10960,7111,Muslim Patsarigov,4177,Gustavo Dias,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,8F,2016
+11500,7111,Muslim Patsarigov,,Mieszko Maciejewski,W,1,Straight ankle lock,European Open,ABS,R1,2017
+12306,7111,Muslim Patsarigov,,Francisco Caraballo,W,1,N/A,Rome Open,100KG,SF,2017
+16192,7111,Muslim Patsarigov,,Adolfo Correia,W,1,Straight ankle lock,World Pro,110KG,RPC,2018
+17782,7111,Muslim Patsarigov,,Chris Jones,W,1,Pts: 2x0,ADCC EU Trials,99KG,R1,2018
+17784,7111,Muslim Patsarigov,,Lukasz Lepianka,W,1,Straight ankle lock,ADCC EU Trials,99KG,8F,2018
+17785,7111,Muslim Patsarigov,,Ben Dyson,W,1,Pts: 2x0,ADCC EU Trials,99KG,4F,2018
+17788,7111,Muslim Patsarigov,,Max Bickerton,W,1,Straight ankle lock,ADCC EU Trials,99KG,SF,2018
+19526,7111,Muslim Patsarigov,,Martin Gobel,W,1,N/A,Budapest Open,O100KG,SF,2019
+19527,7111,Muslim Patsarigov,,G. Kosztolanczy,W,1,Pts: 4x0,Budapest Open,O100KG,F,2019
+20149,7111,Muslim Patsarigov,,Antonio Junior,W,1,"Pts: 2x2, Adv",World Pro,110KG,RPC,2019
+20150,7111,Muslim Patsarigov,,Walter Santos,W,1,Straight ankle lock,World Pro,110KG,RPC,2019
+32303,7111,Muslim Patsarigov,,Aki Teraväinen,W,1,Referee Decision,ADCC EU Trials,O99KG,R1,2022
+32306,7111,Muslim Patsarigov,,Kornel Zapadka,W,1,RNC,ADCC EU Trials,O99KG,8F,2022
+32308,7111,Muslim Patsarigov,,Akseli Kaasalainen,W,1,Pts: 2x0,ADCC EU Trials,O99KG,4F,2022
+32311,7111,Muslim Patsarigov,,Mateusz Juskowiak,W,1,Pen,ADCC EU Trials,O99KG,SF,2022
+36048,7111,Muslim Patsarigov,,Manuel Pilato,W,1,N/A,European NG,ABS,R2,2022

@@ -1,0 +1,73 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24357,11746,Alex Munis,10199,Guthierry Barbosa,L,0,Pts: 2x0,Copa Podio,86KG,F,2020
+24741,11746,Alex Munis,5756,Wellington Luis,L,0,Referee Decision,Grand Slam RJ,85KG,4F,2020
+24748,11746,Alex Munis,4460,Jaime Canuto,L,0,Referee Decision,Grand Slam RJ,85KG,RPC,2020
+24878,11746,Alex Munis,4460,Jaime Canuto,L,0,Points,South American,ABS,8F,2020
+24935,11746,Alex Munis,4460,Jaime Canuto,L,0,Referee Decision,South American,88KG,SF,2020
+25097,11746,Alex Munis,1188,Leandro Lo,L,0,Cross choke,BJJ Stars 5,88KG,SPF,2021
+26841,11746,Alex Munis,9573,Marcos Martins,L,0,"Pts: 0x0, Adv",Big Deal Pro 3,88KG,SPF,2021
+27415,11746,Alex Munis,10698,Matheus Godoy,L,0,Pts: 2x0,Sul Americano,88KG,SF,2021
+28068,11746,Alex Munis,7047,Matheus Spirandeli,L,0,Pts: 4x2,Brasileiro,88KG,4F,2021
+28558,11746,Alex Munis,11766,Gabriel Costa,L,0,Referee Decision,Grand Slam RJ,85KG,SF,2021
+29536,11746,Alex Munis,484,Murilo Santana,L,0,Pts: 5x2,World Champ.,88KG,R1,2021
+29735,11746,Alex Munis,9554,Henrique Cardoso,L,0,Pts: 2x1,Teams Cup,N/A,RR,2021
+31130,11746,Alex Munis,8105,Tommy Langaker,L,0,Loop choke,Grand Slam LDN,85KG,SF,2022
+31691,11746,Alex Munis,12215,Sebastian Rodriguez,L,0,Referee Decision,Pan American,88KG,4F,2022
+31902,11746,Alex Munis,5756,Wellington Luis,L,0,"Pts: 2x2, Adv",Rio Fall Open,88KG,SF,2022
+39507,11746,Alex Munis,11766,Gabriel Costa,L,0,Referee Decision,Brasileiro,88KG,R1,2023
+40149,11746,Alex Munis,,Vitor Cheloni,L,0,Pts: 2x0,Floripa FO,ABS,8F,2023
+40634,11746,Alex Munis,,Jose Neto,L,0,Pts: 7x3,Grand Slam RJ,85KG,4F,2023
+40756,11746,Alex Munis,13422,Pedro Bolo,L,0,Straight ankle lock,Rio Open,88KG,SF,2023
+41286,11746,Alex Munis,13190,Vinicius Lessa,L,0,Referee Decision,SP BJJ Pro,94KG,F,2023
+42762,11746,Alex Munis,9117,Hygor Brito,L,0,Submission,Sul Americano,94KG,4F,2023
+24335,11746,Alex Munis,,Topi Alencar,W,1,Pts: 4x2,Copa Podio,86KG,RR,2020
+24340,11746,Alex Munis,,Diogo Dino,W,1,Botinha,Copa Podio,86KG,RR,2020
+24343,11746,Alex Munis,,Henrique Moicano,W,1,Armbar,Copa Podio,86KG,RR,2020
+24347,11746,Alex Munis,10199,Guthierry Barbosa,W,1,Pts: 2x0,Copa Podio,86KG,RR,2020
+24355,11746,Alex Munis,,P. Machado,W,1,Estima lock,Copa Podio,86KG,SF,2020
+24724,11746,Alex Munis,,Rafael Oliveira,W,1,RNC,Grand Slam RJ,85KG,R1,2020
+24725,11746,Alex Munis,,Yohanan Luz,W,1,Pts: 2x1,Grand Slam RJ,85KG,R2,2020
+24739,11746,Alex Munis,,Mike Pereira,W,1,Pts: 1x0,Grand Slam RJ,85KG,8F,2020
+24876,11746,Alex Munis,,Bruno Veloso,W,1,Cachecol choke,South American,ABS,R1,2020
+24930,11746,Alex Munis,,Bruno Tosto,W,1,Points,South American,88KG,4F,2020
+25167,11746,Alex Munis,9554,Henrique Cardoso,W,1,"Pts: 2x2, Adv",Big Deal Pro 2,85KG,SPF,2021
+26422,11746,Alex Munis,7224,Diogo Almeida,W,1,Pts: 5x0,SA Cont. Pro,85KG,R1,2021
+26431,11746,Alex Munis,410,Claudio Calasans,W,1,Estima lock,SA Cont. Pro,85KG,4F,2021
+26434,11746,Alex Munis,,Rafael Souza,W,1,Choke from back,SA Cont. Pro,85KG,SF,2021
+26435,11746,Alex Munis,10698,Matheus Godoy,W,1,N/A,SA Cont. Pro,85KG,F,2021
+27409,11746,Alex Munis,,Rafael Souza,W,1,Botinha,Sul Americano,88KG,8F,2021
+27414,11746,Alex Munis,,Vinicius Reis,W,1,Pts: 4x2,Sul Americano,88KG,4F,2021
+28065,11746,Alex Munis,,Alexandre Rocha,W,1,Referee Decision,Brasileiro,88KG,R1,2021
+28435,11746,Alex Munis,11766,Gabriel Costa,D,0.5,---,Fenajitsu,88KG,SPF,2021
+28436,11746,Alex Munis,11766,Gabriel Costa,D,0.5,---,Fenajitsu,88KG,SPF,2021
+28437,11746,Alex Munis,11766,Gabriel Costa,W,1,Pts: 2x0,Fenajitsu,88KG,SPF,2021
+28543,11746,Alex Munis,,D. Oliveira,W,1,Choke from back,Grand Slam RJ,85KG,R1,2021
+28551,11746,Alex Munis,,Darlan Casaca,W,1,Pts: 2x0,Grand Slam RJ,85KG,8F,2021
+28555,11746,Alex Munis,5756,Wellington Luis,W,1,Pts: 1x0,Grand Slam RJ,85KG,4F,2021
+28563,11746,Alex Munis,,Ronieri Silva,W,1,Katagatame,Grand Slam RJ,85KG,RPC,2021
+28564,11746,Alex Munis,6432,Yan Lucas,W,1,Referee Decision,Grand Slam RJ,85KG,3RD,2021
+29331,11746,Alex Munis,,Ramon Rosa,W,1,Estima lock,Balneario Open,88KG,SF,2021
+29333,11746,Alex Munis,,Bruno Tosto,W,1,"Pts: 2x2, Adv",Balneario Open,88G,F,2021
+29343,11746,Alex Munis,,Hugo Gambino,W,1,Estima lock,Balneario Open,ABS,R1,2021
+29725,11746,Alex Munis,,Saif Alhimany,W,1,Estima lock,Teams Cup,N/A,RR,2021
+29730,11746,Alex Munis,9230,Matheus Felipe,D,0.5,---,Teams Cup,N/A,RR,2021
+29737,11746,Alex Munis,,N/A,W,1,Estima lock,Teams Cup,N/A,RR,2021
+29740,11746,Alex Munis,,Thiago Pessoa,W,1,Pts: 5x1,Teams Cup,N/A,RR,2021
+31120,11746,Alex Munis,,Karol Kania,W,1,Pts: 2x0,Grand Slam LDN,85KG,8F,2022
+31126,11746,Alex Munis,,Fausto Godoy,W,1,Pts: 3x1,Grand Slam LDN,85KG,4F,2022
+31136,11746,Alex Munis,,Shane Fishman,W,1,Estima lock,Grand Slam LDN,85KG,RPC,2022
+31137,11746,Alex Munis,,Fausto Godoy,W,1,Estima lock,Grand Slam LDN,85KG,3RD,2022
+31682,11746,Alex Munis,,Adam Bradley,W,1,Referee Decision,Pan American,88KG,R1,2022
+31896,11746,Alex Munis,,Erick Diovano,W,1,"Pts: 4x4, Pen",Rio Fall Open,88KG,R1,2022
+31897,11746,Alex Munis,,Vital Neto,W,1,Pts: 4x2,Rio Fall Open,88KG,4F,2022
+38871,11746,Alex Munis,,Gabriel Rodrigues,W,1,"Pts: 4x4, Adv",Salvador FO,88KG,4F,2023
+38874,11746,Alex Munis,13450,Vinicius Martins,W,1,Referee Decision,Salvador FO,88KG,SF,2023
+40141,11746,Alex Munis,13190,Vinicius Lessa,W,1,Pts: 2x0,Floripa FO,100KG,4F,2023
+40622,11746,Alex Munis,,Joao Figueiredo,W,1,Pts: 1x0,Grand Slam RJ,85KG,R1,2023
+40629,11746,Alex Munis,10669,Lucas Alves,W,1,Pts: 8x3,Grand Slam RJ,85KG,8F,2023
+40640,11746,Alex Munis,,Samuel Rocha,W,1,Cachecol choke,Grand Slam RJ,85KG,RPC,2023
+40642,11746,Alex Munis,,Leonardo Souza,W,1,Estima lock,Grand Slam RJ,85KG,3RD,2023
+40754,11746,Alex Munis,1680,Dustin Denes,W,1,"Pts: 0x0, Adv",Rio Open,88KG,4F,2023
+42040,11746,Alex Munis,,Claudio Maioni,W,1,RNC,Floripa WO,94KG,SF,2023
+42042,11746,Alex Munis,,Estevao Nogara,W,1,Teepee choke,Floripa WO,94KG,F,2023
+42759,11746,Alex Munis,,Joao Rodrigues,W,1,Pts: 16x0,Sul Americano,94KG,R1,2023

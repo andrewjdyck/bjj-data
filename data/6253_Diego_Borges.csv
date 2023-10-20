@@ -1,0 +1,54 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4062,6253,Diego Borges,1617,Victor Estima,L,0,Inverted triangle,World Champ.,82KG,4F,2012
+4686,6253,Diego Borges,1523,Clark Gracie,L,0,Omoplata,Copa Podio,82KG,SPF,2013
+4852,6253,Diego Borges,1188,Leandro Lo,L,0,Adv,Copa Podio,76KG,GP,2013
+4872,6253,Diego Borges,1188,Leandro Lo,L,0,Adv,Copa Podio,76KG,F,2013
+5553,6253,Diego Borges,443,Claudio Mattos,L,0,Referee Decision,Brasileiro,82KG,F,2014
+8868,6253,Diego Borges,7543,Nelton Pontes,L,0,Pts: 2x0,Zurich Open,ABS,4F,2016
+8895,6253,Diego Borges,358,Lucas Lepri,L,0,"Pts: 0x0, Adv",Copa Podio,77KG,SF,2016
+10165,6253,Diego Borges,4521,Erberth Santos,L,0,Botinha,Copa Podio,86KG,GP,2016
+10179,6253,Diego Borges,1188,Leandro Lo,L,0,Pts: 2x0,Copa Podio,86KG,SF,2016
+10764,6253,Diego Borges,543,Rodrigo Cavaca,D,0.5,---,Copa Podio,105KG,RR,2016
+10772,6253,Diego Borges,7543,Nelton Pontes,L,0,Pts: 2x0,Copa Podio,105KG,RR,2016
+10780,6253,Diego Borges,1757,Alexander Trans,L,0,Pts: 6x0,Copa Podio,105KG,RR,2016
+11892,6253,Diego Borges,,Espen M.,L,0,Pts: 2x0,Copa Podio,77KG,RR,2017
+11904,6253,Diego Borges,7552,Isaque Bahiense,L,0,Pts: 2x0,Copa Podio,77KG,SF,2017
+12604,6253,Diego Borges,7652,C. Negromonte,L,0,"Pts: 2x2, Adv",WP BR Qualifier,85KG,4F,2017
+17195,6253,Diego Borges,9361,Guilherme Cordiviola,L,0,"Pts: 0x0, Adv",Team Nationals,O76KG,F,2018
+2854,6253,Diego Borges,,Vitor Hugo,W,1,"Pts: 2x2, Adv",World Pro Trials,83KG,SF,2011
+2855,6253,Diego Borges,410,Claudio Calasans,W,1,Pts: 4x2,World Pro Trials,83KG,F,2011
+3452,6253,Diego Borges,,Juarez Harles,W,1,Bow and arrow,Amazon Meeting,82KG,SPF,2011
+4028,6253,Diego Borges,8394,Vagner Rocha,W,1,Points,World Champ.,82KG,R1,2012
+4050,6253,Diego Borges,484,Murilo Santana,W,1,Pts: 6x2,World Champ.,82KG,R2,2012
+4393,6253,Diego Borges,,Victor Pina,W,1,Bow and arrow,Manaus Pro Trials,85KG,SF,2013
+4397,6253,Diego Borges,,Rodrigo Reis,W,1,Armbar,Copa Podio,ABS,SPF,2013
+4859,6253,Diego Borges,1523,Clark Gracie,W,1,Pts: 2x0,Copa Podio,76KG,GP,2013
+4864,6253,Diego Borges,3313,Juan Kamezawa,W,1,Pts: 6x0,Copa Podio,76KG,GP,2013
+4867,6253,Diego Borges,,Brandon Magana,W,1,Pts: 8x0,Copa Podio,76KG,GP,2013
+4869,6253,Diego Borges,1600,Vinicius Marinho,W,1,Pts: 8x0,Copa Podio,76KG,SF,2013
+5550,6253,Diego Borges,2324,Eduardo Santoro,W,1,Bow and arrow,Brasileiro,82KG,4F,2014
+5552,6253,Diego Borges,,Augusto Carsalade,W,1,Pts: 2x0,Brasileiro,82KG,SF,2014
+8873,6253,Diego Borges,7543,Nelton Pontes,W,1,Referee Decision,Zurich NoGi Open,ABS,F,2016
+8877,6253,Diego Borges,5078,Luan Carvalho,W,1,"Pts: 0x0, Adv",Copa Podio,77KG,GP,2016
+8880,6253,Diego Borges,5258,Dillon Danis,W,1,"Pts: 0x0, Pen",Copa Podio,77KG,GP,2016
+8884,6253,Diego Borges,5238,Edwin Najmi,W,1,"Pts: 2x2, Adv",Copa Podio,77KG,GP,2016
+8892,6253,Diego Borges,4430,Patrick Gaudio,W,1,Pts: 2x0,Copa Podio,77KG,GP,2016
+8897,6253,Diego Borges,5258,Dillon Danis,W,1,Injury,Copa Podio,77KG,3RD,2016
+10162,6253,Diego Borges,6836,John Combs,W,1,Pts: 4x0,Copa Podio,86KG,GP,2016
+10169,6253,Diego Borges,410,Claudio Calasans,W,1,Pts: 2x0,Copa Podio,86KG,GP,2016
+10176,6253,Diego Borges,,Danilo Borovic,W,1,Pts: 4x0,Copa Podio,86KG,GP,2016
+10735,6253,Diego Borges,,Charles Tavares,W,1,Bow and arrow,Manaus Open,76KG,F,2016
+10768,6253,Diego Borges,8560,Gabriel Lucas,W,1,Pts: 4x0,Copa Podio,105KG,RR,2016
+11806,6253,Diego Borges,,Diogo Fernandes,W,1,Submission,Manaus Nat. Pro,85KG,R1,2017
+11810,6253,Diego Borges,,Luiz Galdez,W,1,Choke,Manaus Nat. Pro,85KG,4F,2017
+11813,6253,Diego Borges,5636,Manuel Ribamar,W,1,Points,Manaus Nat. Pro,85KG,SF,2017
+11815,6253,Diego Borges,4460,Jaime Canuto,W,1,Points,Manaus Nat. Pro,85KG,F,2017
+11884,6253,Diego Borges,,H. Marques,W,1,"Pts: 0x0, Adv",Copa Podio,77KG,RR,2017
+11889,6253,Diego Borges,,Pedro Paquito,D,0.5,---,Copa Podio,77KG,RR,2017
+11896,6253,Diego Borges,7539,Renato Canuto,W,1,Pts: 4x2,Copa Podio,77KG,RR,2017
+11905,6253,Diego Borges,1820,Delson Heleno,W,1,"Pts: 0x0, Adv",Copa Podio,77KG,3RD,2017
+12601,6253,Diego Borges,,Paulo Roberto,W,1,Choke,WP BR Qualifier,85KG,R1,2017
+16644,6253,Diego Borges,877,Charles Oliveira,W,1,Pts: 2x0,Copa Podio,76KG,SPF,2018
+17988,6253,Diego Borges,,Marcio Palheta,W,1,N/A,Manaus Open,88KG,SF,2018
+17989,6253,Diego Borges,,Moises Cavalcante,W,1,N/A,Manaus Open,88KG,F,2018
+22922,6253,Diego Borges,,Guitano Mione,W,1,Points,Copa Podio,82KG,SPF,2019

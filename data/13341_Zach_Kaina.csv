@@ -1,0 +1,19 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+37860,13341,Zach Kaina,11889,Keven Carrasco,L,0,"Pts: 2x2, Adv",Dallas Open,64KG,F,2023
+37928,13341,Zach Kaina,11889,Keven Carrasco,L,0,Pts: 2x0,LA Open,64KG,F,2023
+38359,13341,Zach Kaina,11823,Diogo Reis,L,0,"Pts: 2x2, Adv",Pan American,64KG,SF,2023
+39043,13341,Zach Kaina,6103,Isaac Doederlein,L,0,Choke from back,Santa Cruz O,70KG,F,2023
+40209,13341,Zach Kaina,10155,Malachi Edmond,L,0,Pts: 2x0,World Champ.,64KG,8F,2023
+41121,13341,Zach Kaina,12251,Roiter Lima,L,0,Referee Decision,American Nats,64KG,SF,2023
+42196,13341,Zach Kaina,,Daiki Yonekura,L,0,Referee Decision,AIGA,65KG,RR,2023
+42210,13341,Zach Kaina,,S. Magomed,L,0,Points,AIGA,65KG,RR,2023
+37554,13341,Zach Kaina,,Joao Soeiro,W,1,Referee Decision,Atlanta WO,64KG,SF,2023
+37859,13341,Zach Kaina,8305,Pedro Dias,W,1,"Pts: 0x0, Adv",Dallas Open,64KG,SF,2023
+37925,13341,Zach Kaina,,Matheus Azancot,W,1,Triangle,LA Open,64KG,4F,2023
+37926,13341,Zach Kaina,12251,Roiter Lima,W,1,"Pts: 2x2, Adv",LA Open,64KG,SF,2023
+38351,13341,Zach Kaina,12251,Roiter Lima,W,1,Choke from back,Pan American,64KG,8F,2023
+38355,13341,Zach Kaina,10155,Malachi Edmond,W,1,No arm triangle,Pan American,64KG,4F,2023
+39041,13341,Zach Kaina,,Thiago Calixto,W,1,Choke from back,Santa Cruz O,70KG,SF,2023
+40200,13341,Zach Kaina,,Ivan Jennings,W,1,Triangle,World Champ.,64KG,R1,2023
+41120,13341,Zach Kaina,,Vinny Saenz,W,1,Referee Decision,American Nats,64KG,4F,2023
+42204,13341,Zach Kaina,,Khalid Asildarov,W,1,Inside heel hook,AIGA,65KG,RR,2023

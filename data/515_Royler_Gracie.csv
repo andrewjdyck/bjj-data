@@ -1,0 +1,42 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+53,515,Royler Gracie,,De La Riva,L,0,Referee Decision,Copa Cantao,NA,NA,1987
+130,515,Royler Gracie,486,Amaury Bitetti,L,0,Pts: 2x0,World Champ.,ABS,SF,1997
+137,515,Royler Gracie,687,Marcio Feitosa,L,0,Pts: 2x0,Copa Pele,N/A,SPF,1997
+244,515,Royler Gracie,232,Mario Sperry,L,0,Clock choke,World Champ.,ABS,SF,1998
+251,515,Royler Gracie,687,Marcio Feitosa,L,0,Pts: 4x2,Oscar de JJ,74KG,SPF,1998
+767,515,Royler Gracie,4317,Eddie Bravo,L,0,Triangle,ADCC,66KG,4F,2003
+42,515,Royler Gracie,,Pascoal Duarte,W,1,Points,Vansport Cup,68KG,F,1985
+48,515,Royler Gracie,,Unknown,W,1,Points,III Copa Company,64KG,F,1986
+60,515,Royler Gracie,727,Alexandre Soca,W,1,N/A,Brasileiro,70KG,F,1994
+96,515,Royler Gracie,,Marco Aurelio,W,1,Points,World Champ.,70KG,4F,1996
+98,515,Royler Gracie,374,Vinicius Draculino,W,1,Points,World Champ.,70KG,F,1996
+108,515,Royler Gracie,,Luis Amigo,W,1,Submission,World Champ.,70KG,R1,1997
+109,515,Royler Gracie,579,Octavio Couto,W,1,Submission,World Champ.,70KG,4F,1997
+112,515,Royler Gracie,727,Alexandre Soca,W,1,N/A,World Champ.,70KG,SF,1997
+113,515,Royler Gracie,81,Vitor Shaolin,W,1,Adv,World Champ.,70KG,F,1997
+125,515,Royler Gracie,,Arthur Ignarra,W,1,Points,World Champ.,ABS,R2,1997
+126,515,Royler Gracie,6403,Leo Dalla,W,1,Points,World Champ.,ABS,4F,1997
+138,515,Royler Gracie,6403,Leo Dalla,W,1,Choke from back,Copacabana,ABS,SPF,1997
+217,515,Royler Gracie,,Vinicius Cruz,W,1,Armbar,World Champ.,70KG,R1,1998
+219,515,Royler Gracie,,Marcos Aurelio,W,1,N/A,World Champ.,70KG,4F,1998
+221,515,Royler Gracie,952,Joao Roque,W,1,Pts: 2x0,World Champ.,70KG,SF,1998
+223,515,Royler Gracie,374,Vinicius Draculino,W,1,Pts: 2x0,World Champ.,70KG,F,1998
+271,515,Royler Gracie,1182,Marcos Matta,W,1,"Pts: 0x0, Adv",Pan American,70KG,F,1999
+281,515,Royler Gracie,292,Leonardo Santos,W,1,Adv,World Champ.,70KG,SF,1999
+282,515,Royler Gracie,419,Leonardo Vieira,W,1,Referee Decision,World Champ.,70KG,F,1999
+303,515,Royler Gracie,,Juan Valles,W,1,Triangle,ADCC,66KG,R1,1999
+308,515,Royler Gracie,952,Joao Roque,W,1,Adv,ADCC,66KG,4F,1999
+312,515,Royler Gracie,,Melchor M.,W,1,Pts: 12x0,ADCC,66KG,SF,1999
+313,515,Royler Gracie,727,Alexandre Soca,W,1,Leglock,ADCC,66KG,F,1999
+404,515,Royler Gracie,1023,Baret Yoshida,W,1,Pts: 2x0,ADCC,66KG,R1,2000
+408,515,Royler Gracie,,J. Wakabayashi,W,1,Pts: 22x0,ADCC,66KG,4F,2000
+412,515,Royler Gracie,,A. Hamlet,W,1,Pts: 10x0,ADCC,66KG,SF,2000
+413,515,Royler Gracie,727,Alexandre Soca,W,1,Pts: 5x0,ADCC,66KG,F,2000
+493,515,Royler Gracie,,Martin Brown,W,1,RNC,ADCC,66KG,R1,2001
+500,515,Royler Gracie,,Mike Cardosa,W,1,Straight ankle lock,ADCC,66KG,4F,2001
+502,515,Royler Gracie,195,Robson Moura,W,1,Pts: 2x0,ADCC,66KG,SF,2001
+504,515,Royler Gracie,1023,Baret Yoshida,W,1,Pts: 2x0,ADCC,66KG,F,2001
+636,515,Royler Gracie,,Henry Matamoros,W,1,Choke,Night of Champions,ABS,SPF,2002
+760,515,Royler Gracie,,Charles Pearson,W,1,RNC,ADCC,66KG,R1,2003
+773,515,Royler Gracie,727,Alexandre Soca,W,1,Pts: 8x0,ADCC,66KG,3PLC,2003
+5277,515,Royler Gracie,4317,Eddie Bravo,D,0.5,---,Metamoris 3,ABS,SPF,2014

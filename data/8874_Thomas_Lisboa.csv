@@ -1,0 +1,75 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4439,8874,Thomas Lisboa,963,Carlos Esquisito,L,0,Adv,European Open,64KG,SF,2013
+4542,8874,Thomas Lisboa,415,Guilherme Mendes,L,0,Pts: 10x0,Pan American,64KG,SF,2013
+4635,8874,Thomas Lisboa,963,Carlos Esquisito,L,0,Points,Brasileiro,64KG,4F,2013
+4773,8874,Thomas Lisboa,2401,Gabriel Moraes,L,0,Adv,World Champ.,64KG,8F,2013
+5540,8874,Thomas Lisboa,5789,Tiago Barros,L,0,Points,Brasileiro,64KG,SF,2014
+5750,8874,Thomas Lisboa,2401,Gabriel Moraes,L,0,Pts: 11x2,World Champ.,64KG,4F,2014
+5890,8874,Thomas Lisboa,2997,Joao Miyao,L,0,Choke from back,SP Open,64KG,F,2014
+5898,8874,Thomas Lisboa,2997,Joao Miyao,L,0,Points,SP Open NoGi,63KG,F,2014
+6023,8874,Thomas Lisboa,2997,Joao Miyao,L,0,Pts: 10x4,NoGi Worlds,61KG,F,2014
+6433,8874,Thomas Lisboa,5715,Isaque Paiva,L,0,Adv,Brazil Nat. Pro,65KG,4F,2015
+6528,8874,Thomas Lisboa,2999,Paulo Miyao,L,0,Pts: 11x0,European,64KG,SF,2015
+6704,8874,Thomas Lisboa,5715,Isaque Paiva,L,0,"Pts: 2x2, Adv",Gramado Trials,65KG,SF,2015
+6927,8874,Thomas Lisboa,,Douglas Rufino,L,0,Points,Rio Fall Open,64KG,4F,2015
+6947,8874,Thomas Lisboa,8525,Alexandre Vieira,L,0,Crucifix choke,Rio Fall NoGi,67KG,SF,2015
+7052,8874,Thomas Lisboa,8525,Alexandre Vieira,L,0,Crucifix choke,ADCC SP,66KG,R2,2015
+7222,8874,Thomas Lisboa,2997,Joao Miyao,L,0,Choke from back,Brasileiro,64KG,F,2015
+7409,8874,Thomas Lisboa,1019,Daniel Beleza,L,0,Triangle,World Champ.,64KG,8F,2015
+7710,8874,Thomas Lisboa,,Douglas Rufino,L,0,Points,Rio Winter Open,64KG,SF,2015
+7826,8874,Thomas Lisboa,6151,Hiago George,L,0,Wristlock,SP Open,64KG,4F,2015
+7861,8874,Thomas Lisboa,1923,David Lemes,L,0,DQ,SP Open NoGi,61KG,F,2015
+8301,8874,Thomas Lisboa,,Philipe Freitas,L,0,Points,Brasileiro NoGi,63KG,SF,2015
+8394,8874,Thomas Lisboa,2997,Joao Miyao,L,0,Pts: 6x4,NoGi Worlds,61KG,SF,2015
+10886,8874,Thomas Lisboa,5447,Mikey Musumeci,L,0,"Pts: 4x4, Adv",NoGi Worlds,62KG,SF,2016
+11230,8874,Thomas Lisboa,,Unknown,L,0,Adv,South American,64KG,4F,2016
+12729,8874,Thomas Lisboa,7657,Cleber Sousa,L,0,Points,Brasileiro,64KG,8F,2017
+13061,8874,Thomas Lisboa,1019,Daniel Beleza,L,0,Referee Decision,World Champ.,64KG,R1,2017
+14047,8874,Thomas Lisboa,5789,Tiago Barros,L,0,Points,Brasileiro NoGi,67KG,F,2017
+16448,8874,Thomas Lisboa,6151,Hiago George,L,0,Choke from back,World Champ.,64KG,R2,2018
+4438,8874,Thomas Lisboa,,Edvaldo Ferreira,W,1,Points,European Open,64KG,4F,2013
+4541,8874,Thomas Lisboa,,Unknown,W,1,Points,Pan American,64KG,4F,2013
+4634,8874,Thomas Lisboa,,Diogo Perez,W,1,Choke from back,Brasileiro,64KG,R1,2013
+4772,8874,Thomas Lisboa,,Gustavo Carpio,W,1,Points,World Champ.,64KG,R1,2013
+5172,8874,Thomas Lisboa,,Ville Saari,W,1,DQ,Finnish NG Open,ABS,4F,2013
+5173,8874,Thomas Lisboa,,Mardo Mannimagi,W,1,Points,Finnish NG Open,ABS,SF,2013
+5174,8874,Thomas Lisboa,,Severi Nenonen,W,1,Choke,Finnish NG Open,ABS,F,2013
+5175,8874,Thomas Lisboa,,Jorgen Matsi,W,1,Points,Finnish NG Open,67KG,4F,2013
+5176,8874,Thomas Lisboa,,Severi Nenonen,W,1,Points,Finnish NG Open,67KG,SF,2013
+5177,8874,Thomas Lisboa,,Erno Elgland,W,1,Points,Finnish NG Open,67KG,F,2013
+5218,8874,Thomas Lisboa,,André Bernardo,W,1,Crucifix choke,Circuito Paulista,64KG,SF,2014
+5219,8874,Thomas Lisboa,,Jorge Azevedo,W,1,Referee Decision,Circuito Paulista,64KG,F,2014
+5537,8874,Thomas Lisboa,,Gilberto Polim,W,1,Guillotine,Brasileiro,64KG,R1,2014
+5539,8874,Thomas Lisboa,,Paulo Santana,W,1,Points,Brasileiro,64KG,4F,2014
+5739,8874,Thomas Lisboa,,Unknown,W,1,Points,World Champ.,64KG,R1,2014
+5741,8874,Thomas Lisboa,1753,Rafael Freitas,W,1,Adv,World Champ.,64KG,8F,2014
+5888,8874,Thomas Lisboa,,Douglas Rufino,W,1,Referee Decision,SP Open,64KG,SF,2014
+5897,8874,Thomas Lisboa,,Leandro Silva,W,1,Guillotine,SP Open NoGi,63KG,SF,2014
+6019,8874,Thomas Lisboa,1774,Mark Ramos,W,1,Points,NoGi Worlds,61KG,4F,2014
+6021,8874,Thomas Lisboa,5114,Joao Somalia,W,1,Crucifix choke,NoGi Worlds,61KG,SF,2014
+6431,8874,Thomas Lisboa,,Unknown,W,1,Adv,Brazil Nat. Pro,65KG,R1,2015
+6432,8874,Thomas Lisboa,,Bruno Dias,W,1,Points,Brazil Nat. Pro,65KG,R2,2015
+6526,8874,Thomas Lisboa,,Baruc Barrios,W,1,"Pts: 6x6, Adv",European,64KG,4F,2015
+6702,8874,Thomas Lisboa,,Bruno B.,W,1,Points,Gramado Trials,65KG,R1,2015
+7050,8874,Thomas Lisboa,,Unknown,W,1,Toe hold,ADCC SP,66KG,R1,2015
+7219,8874,Thomas Lisboa,,Magno Mota,W,1,Points,Brasileiro,64KG,4F,2015
+7221,8874,Thomas Lisboa,,Thales Nakassu,W,1,Triangle,Brasileiro,64KG,SF,2015
+7709,8874,Thomas Lisboa,,Unknown,W,1,Katagatame,Rio Winter Open,64KG,4F,2015
+7860,8874,Thomas Lisboa,,Edson Oliveira,W,1,RNC,SP Open NoGi,61KG,SF,2015
+8299,8874,Thomas Lisboa,,Unknown,W,1,RNC,Brasileiro NoGi,63KG,4F,2015
+8392,8874,Thomas Lisboa,,Helio Guilherme,W,1,Pts: 13x0,NoGi Worlds,61KG,4F,2015
+10884,8874,Thomas Lisboa,,Unknown,W,1,Crucifix choke,NoGi Worlds,62KG,4F,2016
+11229,8874,Thomas Lisboa,,Nielton Soares,W,1,Points,South American,64KG,R1,2016
+11828,8874,Thomas Lisboa,,Unknown,W,1,Choke from mount,BH Summer Open,64KG,SF,2017
+11829,8874,Thomas Lisboa,8870,Cleito Soares,W,1,Points,BH Summer Open,64KG,F,2017
+11846,8874,Thomas Lisboa,,Felipe Brito,W,1,Copacabana choke,BH NG S. Open,67KG,F,2017
+12271,8874,Thomas Lisboa,,Diego Quadros,W,1,RNC,Rio Fall Open,64KG,SF,2017
+12272,8874,Thomas Lisboa,,Douglas Rufino,W,1,Adv,Rio Fall Open,64KG,F,2017
+12418,8874,Thomas Lisboa,,Thales Nakassu,W,1,Armbar,Floripa Fall Open,64KG,SF,2017
+12419,8874,Thomas Lisboa,,Douglas Rufino,W,1,Adv,Floripa Fall Open,64KG,F,2017
+12435,8874,Thomas Lisboa,,Samuel Saul,W,1,Adv,Floripa Fall NGO,61KG,SF,2017
+12436,8874,Thomas Lisboa,,Gustavo Mendes,W,1,Points,Floripa Fall NGO,61KG,F,2017
+14044,8874,Thomas Lisboa,,Edson Oliveira,W,1,Crucifix choke,Brasileiro NoGi,67KG,R1,2017
+14045,8874,Thomas Lisboa,,Pedro Petrônio,W,1,RNC,Brasileiro NoGi,67KG,4F,2017
+14046,8874,Thomas Lisboa,,Felipe Brito,W,1,Adv,Brasileiro NoGi,67KG,SF,2017
+16445,8874,Thomas Lisboa,8305,Pedro Dias,W,1,Injury,World Champ.,64KG,R1,2018

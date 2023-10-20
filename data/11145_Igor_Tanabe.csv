@@ -1,0 +1,24 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+33279,11145,Igor Tanabe,11789,Mason Fowler,D,0.5,---,Polaris 20,ABS,RR,2022
+23845,11145,Igor Tanabe,,Yura Naito,W,1,Triangle,ZST GFT4,90KG,4F,2020
+23846,11145,Igor Tanabe,,Yuto Yanai,W,1,Armbar,ZST GFT4,90KG,SF,2020
+23847,11145,Igor Tanabe,,Grant Bogdanov,W,1,Armbar,ZST GFT4,90KG,F,2020
+23918,11145,Igor Tanabe,,Reda Mebtouche,W,1,Inside heel hook,ZSC,ABS,SPF,2020
+24231,11145,Igor Tanabe,9559,Rida Haisam,W,1,Points,Kinya Boyz TYO,ABS,SPF,2020
+24300,11145,Igor Tanabe,9559,Rida Haisam,W,1,Straight ankle lock,Quintet FN5,ABS,SPF,2020
+24390,11145,Igor Tanabe,,Masa Nagata,W,1,Canto choke,All Japan,100KG,SPF,2020
+24420,11145,Igor Tanabe,,Shrek Sekine,W,1,Pts: 11x0,All Japan,ABS,F,2020
+26063,11145,Igor Tanabe,,Andy Con,W,1,EBI/OT,Heat Reborn,ABS,SPF,2021
+27474,11145,Igor Tanabe,,Kenneth Thomas,W,1,Triangle,All Japan,O100KG,F,2021
+27475,11145,Igor Tanabe,,Reda Mebtouche,W,1,Points,All Japan,ABS,4F,2021
+27476,11145,Igor Tanabe,,T. Suda,W,1,Armbar,All Japan,ABS,SF,2021
+27477,11145,Igor Tanabe,,L. Kussano,W,1,Toe hold,All Japan,ABS,F,2021
+27686,11145,Igor Tanabe,,Masahito Osada,W,1,Armbar,All Japan NOGI,97KG,F,2021
+27687,11145,Igor Tanabe,,Rei Ida,W,1,Armbar,All Japan NOGI,ABS,4F,2021
+27688,11145,Igor Tanabe,,Shoki Higuchi,W,1,Armbar,All Japan NOGI,ABS,SF,2021
+27689,11145,Igor Tanabe,,Shinji Morito,W,1,Armbar,All Japan NOGI,ABS,F,2021
+29375,11145,Igor Tanabe,8105,Tommy Langaker,W,1,Choke from back,Polaris 18,90KG,SPF,2021
+29805,11145,Igor Tanabe,,Kohei Soeda,W,1,Armbar,KIT4,N/A,SPF,2022
+33262,11145,Igor Tanabe,,Hunter Colvin,D,0.5,---,Polaris 20,ABS,RR,2022
+33272,11145,Igor Tanabe,,Nick Ronan,D,0.5,---,Polaris 20,ABS,RR,2022
+37835,11145,Igor Tanabe,13162,Jacob Couch,W,1,RNC,Unrivaled 2,SPF,90KG,2023

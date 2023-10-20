@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+14004,8131,Adam Ferrara,2997,Joao Miyao,L,0,RNC,No Gi Pan Am.,61KG,SF,2017
+14630,8131,Adam Ferrara,9064,Silvio Duran,L,0,Pts: 4x2,Cincinnati Open,70KG,SF,2017
+15143,8131,Adam Ferrara,8632,Thiago Macedo,L,0,Choke from back,Houston Open,70KG,F,2018
+15582,8131,Adam Ferrara,,Rene Lopez,L,0,Adv,Chicago Sp. Open,64KG,SF,2018
+16391,8131,Adam Ferrara,8632,Thiago Macedo,L,0,"Pts: 2x2, Adv",Miami SPO,70KG,SF,2018
+17843,8131,Adam Ferrara,12376,Rodrigo Francioni,L,0,Referee Decision,F2W 89,N/A,SPF,2018
+18589,8131,Adam Ferrara,1436,Samir Chantre,L,0,"Pts: 0x0, Adv",NoGi Worlds,67KG,R2,2018
+20833,8131,Adam Ferrara,,John Ortalani,L,0,Referee Decision,G.I. Gi,77KG,RR,2019
+21117,8131,Adam Ferrara,,Orlando Castillo,L,0,Points,Sub Stars,70KG,SPF,2019
+23178,8131,Adam Ferrara,11093,Emilio Hernandez,L,0,Kneebar,JitzKing,65KG,R1,2020
+25033,8131,Adam Ferrara,10380,Junny Ocasio,L,0,Inside heel hook,F2W 160,61KG,SPF,2021
+14001,8131,Adam Ferrara,,Tadashi Takashima,W,1,RNC,No Gi Pan Am.,61KG,4F,2017
+14629,8131,Adam Ferrara,,Kris Kriebel,W,1,Toe hold,Cincinnati Open,70KG,4F,2017
+15142,8131,Adam Ferrara,1761,Samuel Braga,W,1,Kneebar,Houston Open,70KG,SF,2018
+15581,8131,Adam Ferrara,,Carlos Perez,W,1,Toe hold,Chicago Sp. Open,64KG,4F,2018
+15722,8131,Adam Ferrara,,Rodrigo Oliveira,W,1,Referee Decision,F2W 68,65KG,SPF,2018
+16389,8131,Adam Ferrara,,Yijad Moussa,W,1,Toe hold,Miami SPO,70KG,4F,2018
+18585,8131,Adam Ferrara,,Ighor Luis,W,1,Toe hold,NoGi Worlds,67KG,R1,2018
+19697,8131,Adam Ferrara,,Martin Davilla,W,1,Calf slicer,F2W 106,70KG,SPF,2019
+20832,8131,Adam Ferrara,,Clayton Lyon,W,1,Pts: 10x4,G.I. Gi,77KG,RR,2019
+20834,8131,Adam Ferrara,,Clay Simon,W,1,Triangle armbar,G.I. NoGi,70KG,RR,2019
+20835,8131,Adam Ferrara,,Sky Moischiek,W,1,RNC,G.I. NoGi,70KG,RR,2019
+20836,8131,Adam Ferrara,,Zach Delilovik,W,1,Armbar,G.I. NoGi,70KG,RR,2019
+25761,8131,Adam Ferrara,,Jason Gates,W,1,Triangle,Arte Suave,N/A,SPF,2021
+25988,8131,Adam Ferrara,,Sean Joseph,W,1,Armbar,SUBVERSIV 5,70KG,SPF,2021
+26276,8131,Adam Ferrara,,Thomas Waldron,W,1,N/A,Miami NGO,67KG,SF,2021

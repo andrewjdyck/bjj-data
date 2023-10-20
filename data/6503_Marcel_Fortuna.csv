@@ -1,0 +1,32 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1862,6503,Marcel Fortuna,144,Andre Galvao,L,0,Pts: 4x2,Pan American,ABS,8F,2008
+1882,6503,Marcel Fortuna,224,Roberto Abreu,L,0,Adv,Pan American,100KG,SF,2008
+1965,6503,Marcel Fortuna,387,Braga Neto,L,0,Kimura,World Champ.,100KG,SF,2008
+1980,6503,Marcel Fortuna,576,Rafael Lovato,L,0,Armbar,World Champ.,ABS,R1,2008
+2370,6503,Marcel Fortuna,607,Gabriel Vella,L,0,Pts: 2x0,World Champ.,O100KG,4F,2009
+2431,6503,Marcel Fortuna,576,Rafael Lovato,L,0,RNC,NoGi Worlds,100KG,SF,2009
+2453,6503,Marcel Fortuna,387,Braga Neto,L,0,Points,California Open,ABS,SF,2010
+2466,6503,Marcel Fortuna,921,Rafael Barbosa,L,0,Pts: 6x0,AZ Open,ABS,F,2010
+2586,6503,Marcel Fortuna,543,Rodrigo Cavaca,L,0,Triangle,Pan American,ABS,4F,2010
+2722,6503,Marcel Fortuna,926,Roberto Alencar,L,0,"Pts: 2x2, Adv",World Champ.,100KG,4F,2010
+3815,6503,Marcel Fortuna,1236,Antonio Carlos,L,0,N/A,World Pro.,99KG,4F,2012
+5431,6503,Marcel Fortuna,5414,Osvaldo Moizinho,L,0,"Pts: 0x0, Adv",American Cup,ABS,F,2014
+1856,6503,Marcel Fortuna,,Alessandro Oliveira,W,1,Points,European Open,100KG,SF,2008
+1857,6503,Marcel Fortuna,,Hakim Gouran,W,1,Pts: 7x0,European Open,100KG,F,2008
+1963,6503,Marcel Fortuna,,Unknown,W,1,Points,World Champ.,100KG,4F,2008
+2465,6503,Marcel Fortuna,5414,Osvaldo Moizinho,W,1,Armbar,AZ Open,ABS,SF,2010
+2479,6503,Marcel Fortuna,,Jarrod Bunch,W,1,Pts: 4x0,GQ UFC Expo,ABS,SPF,2010
+2568,6503,Marcel Fortuna,637,Bruno Bastos,W,1,"Pts: 2x2, Adv",Pan American,100KG,4F,2010
+2572,6503,Marcel Fortuna,543,Rodrigo Cavaca,W,1,"Pts: 0x0, Adv",Pan American,100KG,SF,2010
+2579,6503,Marcel Fortuna,,Rodrigo Carvalho,W,1,N/A,Pan American,ABS,R1,2010
+2583,6503,Marcel Fortuna,2107,Otavio Sousa,W,1,Pts: 3x0,Pan American,ABS,R2,2010
+3719,6503,Marcel Fortuna,,Leo Machado,W,1,Points,SF Open,100KG,SF,2012
+3721,6503,Marcel Fortuna,1827,James Puopolo,W,1,Points,SF Open,100KG,F,2012
+3722,6503,Marcel Fortuna,4177,Gustavo Dias,W,1,Points,SF Open,ABS,4F,2012
+3731,6503,Marcel Fortuna,4177,Gustavo Dias,W,1,Pts: 6x0,SD World Trials,O92KG,F,2012
+4349,6503,Marcel Fortuna,7519,Eliot Kelly,W,1,Pts: 2x0,US Open XVIII,ABS,4F,2013
+4350,6503,Marcel Fortuna,,Alessandro Ferreira,W,1,"Pts: 0x0, Adv",US Open XVIII,ABS,SF,2013
+4351,6503,Marcel Fortuna,1436,Samir Chantre,W,1,Armbar,US Open XVIII,ABS,F,2013
+4356,6503,Marcel Fortuna,,Marcos Tomé,W,1,Armbar,US Open XVIII,100KG,F,2013
+4357,6503,Marcel Fortuna,,Ryan Beauregard,W,1,Pts: 6x2,Southwest Classic,92KG,RR,2013
+4359,6503,Marcel Fortuna,,Ryan Beauregard,W,1,Points,Southwest Classic,92KG,F,2013

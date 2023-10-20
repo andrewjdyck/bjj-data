@@ -1,0 +1,10 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2260,1388,Gunnar Nelson,1526,James Brasco,L,0,Referee Decision,ADCC,88KG,R1,2009
+2305,1388,Gunnar Nelson,84,Alexandre Ribeiro,L,0,Kneebar,ADCC,ABS,SF,2009
+2309,1388,Gunnar Nelson,733,Vinny Magalhaes,L,0,Pts: 3x0,ADCC,ABS,3RD,2009
+3271,1388,Gunnar Nelson,144,Andre Galvao,L,0,Pts: 3x0,ADCC,88KG,4F,2011
+3313,1388,Gunnar Nelson,84,Alexandre Ribeiro,L,0,Pts: 2x0,ADCC,ABS,4F,2011
+2300,1388,Gunnar Nelson,,Jeff Monson,W,1,Pts: 3x0,ADCC,ABS,R1,2009
+2304,1388,Gunnar Nelson,,David Avellan,W,1,RNC,ADCC,ABS,4F,2009
+3243,1388,Gunnar Nelson,,Marko Helen,W,1,Pts: 5x0,ADCC,88KG,R1,2011
+3304,1388,Gunnar Nelson,174,Bruno Frazatto,W,1,Points,ADCC,ABS,R1,2011

@@ -1,0 +1,77 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25812,12203,Austin Baker,,Diego Ferreira,L,0,Pts: 4x2,Houston Open,O100KG,SF,2021
+26586,12203,Austin Baker,10162,Ronaldo Junior,L,0,Pts: 2x0,Boise Open,ABS,F,2021
+26693,12203,Austin Baker,8514,Fellipe Andrew,L,0,Pts: 33x0,American Nats,O100KG,F,2021
+26699,12203,Austin Baker,10176,Bruno Lima,L,0,Pts: 7x0,American Nats,ABS,SF,2021
+26747,12203,Austin Baker,,John Hansen,L,0,Pts: 13x4,American NGN,O97KG,SF,2021
+26751,12203,Austin Baker,10176,Bruno Lima,L,0,Pts: 7x4,American NGN,ABS,R1,2021
+27073,12203,Austin Baker,11384,Andre Porfirio,L,0,No arm triangle,Phoenix NGO,ABS,F,2021
+27262,12203,Austin Baker,6805,Max Gimenis,L,0,Pts: 11x4,Grand Slam MIA,120KG,4F,2021
+27267,12203,Austin Baker,7704,Helton Jose,L,0,Pts: 2x1,Grand Slam MIA,120KG,3RD,2021
+27523,12203,Austin Baker,8514,Fellipe Andrew,L,0,Pts: 6x0,Pan American,ABS,SF,2021
+27638,12203,Austin Baker,8762,Rodrigo Ribeiro,L,0,Pts: 4x0,Pan American,O100KG,4F,2021
+28333,12203,Austin Baker,224,Roberto Abreu,L,0,"Pts: 0x0, Adv",NoGi Worlds,O97KG,4F,2021
+28944,12203,Austin Baker,,Damon Ramos,L,0,Injury,ADCC EC Trials,O99KG,R2,2021
+30975,12203,Austin Baker,10509,Mathias Luna,L,0,Points,LA Open,ABS,SF,2022
+31281,12203,Austin Baker,12842,Kristof Szucs,L,0,Ezekiel,Boise Open,O100KG,F,2022
+31314,12203,Austin Baker,,Michael Pezzuto,L,0,Pts: 5x0,ADCC WC Trials,O99KG,8F,2022
+32068,12203,Austin Baker,12506,Jansen Gomes,L,0,Pts: 5x0,Warrior Challenger,ABS,F,2022
+33426,12203,Austin Baker,13021,Gabriel Oliveira,L,0,Referee Decision,American Nat.,O100KG,SF,2022
+33429,12203,Austin Baker,,Marcos Lopes,L,0,Pts: 6x0,American Nat.,ABS,R1,2022
+33880,12203,Austin Baker,12267,Lucas Norat,L,0,"Pts: 2x2, Adv",Phoenix Open,ABS,SF,2022
+33898,12203,Austin Baker,13021,Gabriel Oliveira,L,0,Pts: 2x0,Phoenix NGO,O97KG,SF,2022
+35260,12203,Austin Baker,11384,Andre Porfirio,L,0,Aoki lock,EBI Qualifier,ABS,F,2022
+35987,12203,Austin Baker,,Daniel Manasoiu,L,0,Inside heel hook,Emrald CI 5,ABS,F,2022
+36755,12203,Austin Baker,,Freddy Vosgrone,L,0,Inside heel hook,NoGi Worlds,ABS,R1,2022
+36898,12203,Austin Baker,224,Roberto Abreu,L,0,Pts: 39x0,NoGi Worlds,O97KG,4F,2022
+40374,12203,Austin Baker,1757,Alexander Trans,L,0,Pts: 5x3,World Champ.,O100KG,4F,2023
+40480,12203,Austin Baker,12275,Davi Cabral,L,0,Pts: 5x0,World Champ.,ABS,8F,2023
+41656,12203,Austin Baker,12544,Mateus Rodrigues,L,0,"Pts: 0x0, Adv",Phoenix Open,ABS,F,2023
+41665,12203,Austin Baker,10509,Mathias Luna,L,0,Referee Decision,Phoenix NGO,ABS,4F,2023
+43295,12203,Austin Baker,5417,Guilherme Augusto,L,0,Pts: 2x0,NoGi Pan,O97KG,4F,2023
+25721,12203,Austin Baker,,Michael Estes,W,1,Short choke,Sub May Day,ABS,N/A,2021
+25722,12203,Austin Baker,,Justin Fabac,W,1,Katagatame,Sub May Day,ABS,N/A,2021
+25724,12203,Austin Baker,,J. Couch,W,1,Short choke,Sub May Day,ABS,F,2021
+25730,12203,Austin Baker,,Justin Fabac,W,1,Kimura,SS May Day GI,ABS,4F,2021
+25732,12203,Austin Baker,,Nate Fenton,W,1,Bow and arrow,SS May Day GI,ABS,SF,2021
+25734,12203,Austin Baker,12115,Kieran Kichuk,W,1,Injury,SS May Day GI,ABS,F,2021
+26011,12203,Austin Baker,9217,Caio Caetano,W,1,Katagatame,N.Orleans Open,O100KG,F,2021
+26019,12203,Austin Baker,11797,Giancarlo Bodoni,W,1,"Pts: 0x0, Adv",N.Orleans Open,ABS,SF,2021
+26020,12203,Austin Baker,9217,Caio Caetano,W,1,Pts: 12x2,N.Orleans Open,ABS,F,2021
+26582,12203,Austin Baker,,Renato Tagliari,W,1,"Pts: 0x0, Adv",Boise Open,100KG,F,2021
+26585,12203,Austin Baker,,Renato Tagliari,W,1,Pts: 9x0,Boise Open,ABS,SF,2021
+26691,12203,Austin Baker,,Victor Barreto,W,1,Choke from back,American Nats,O100KG,SF,2021
+26695,12203,Austin Baker,,Victor Barreto,W,1,Choke from back,American Nats,ABS,4F,2021
+26984,12203,Austin Baker,,Jose Munoz,W,1,Armbar,F2W 178,100KG,SPF,2021
+27052,12203,Austin Baker,,Marlon Tanaka,W,1,Violin armlock,Phoenix Open,ABS,4F,2021
+27055,12203,Austin Baker,,Antonio Zuazo,W,1,RNC,Phoenix Open,ABS,SF,2021
+27056,12203,Austin Baker,10240,Jake Watson,W,1,"Pts: 0x0, Adv",Phoenix Open,ABS,F,2021
+27067,12203,Austin Baker,,Yuri Santos,W,1,Pts: 13x0,Phoenix NGO,O97KG,F,2021
+27068,12203,Austin Baker,,Damon Morgan,W,1,Pts: 25x0,Phoenix NGO,ABS,R1,2021
+27070,12203,Austin Baker,,Estevan Garcia,W,1,Katagatame,Phoenix NGO,ABS,4F,2021
+27071,12203,Austin Baker,,Kevin Berbrich,W,1,Americana,Phoenix NGO,ABS,SF,2021
+27511,12203,Austin Baker,7831,Diego Ramalho,W,1,Choke from back,Pan American,ABS,8F,2021
+27518,12203,Austin Baker,10509,Mathias Luna,W,1,Pts: 5x0,Pan American,ABS,4F,2021
+28330,12203,Austin Baker,9361,Guilherme Cordiviola,W,1,RNC,NoGi Worlds,O97KG,8F,2021
+28941,12203,Austin Baker,,P. Shaghouli,W,1,Pts: 8x0,ADCC EC Trials,O99KG,R1,2021
+30966,12203,Austin Baker,,Marcus Guedes,W,1,Armbar,LA Open,O100KG,SF,2022
+30968,12203,Austin Baker,10644,Marcelo Gomide,W,1,Choke from back,LA Open,O100KG,F,2022
+30973,12203,Austin Baker,,Piter Frank,W,1,N/A,LA Open,ABS,4F,2022
+31279,12203,Austin Baker,,Lucas Pollard,W,1,Points,Boise Open,O100KG,RR,2022
+31304,12203,Austin Baker,,Alex Myers,W,1,Pts: 2x0,ADCC WC Trials,O99KG,R1,2022
+31308,12203,Austin Baker,,Damon Rogers,W,1,Pts: 6x0,ADCC WC Trials,O99KG,R2,2022
+32059,12203,Austin Baker,,Manny Gomez,W,1,Submission,Warrior Challenger,ABS,R1,2022
+32065,12203,Austin Baker,8686,Fellipe Trovo,W,1,Pts: 5x0,Warrior Challenger,ABS,4F,2022
+32066,12203,Austin Baker,,Ty Freeman,W,1,Points,Warrior Challenger,ABS,SF,2022
+33871,12203,Austin Baker,13021,Gabriel Oliveira,W,1,Kimura,Phoenix Open,O100KG,F,2022
+33878,12203,Austin Baker,5702,Marcos Oliveira,W,1,Choke from back,Phoenix Open,ABS,4F,2022
+35984,12203,Austin Baker,,Steve Joachim,W,1,Armbar,Emrald CI 5,ABS,4F,2022
+35986,12203,Austin Baker,,Franco Pana,W,1,Katagatame,Emrald CI 5,ABS,SF,2022
+36895,12203,Austin Baker,,Javier Saul,W,1,Pts: 28x0,NoGi Worlds,O97KG,8F,2022
+37950,12203,Austin Baker,,Wilson Almeida,W,1,N/A,LA Open,O100KG,SF,2023
+37952,12203,Austin Baker,12544,Mateus Rodrigues,W,1,Choke,LA Open,O100KG,F,2023
+40370,12203,Austin Baker,13241,Kjetil Lydvo,W,1,Pts: 17x7,World Champ.,O100KG,8F,2023
+40476,12203,Austin Baker,,Thomas Bracher,W,1,Pts: 7x6,World Champ.,ABS,R1,2023
+41652,12203,Austin Baker,,Guilherme Sampaio,W,1,Cross choke,Phoenix Open,ABS,4F,2023
+41654,12203,Austin Baker,10509,Mathias Luna,W,1,Pts: 2x0,Phoenix Open,ABS,SF,2023
+41663,12203,Austin Baker,7704,Helton Jose,W,1,Referee Decision,Phoenix NGO,O97KG,F,2023

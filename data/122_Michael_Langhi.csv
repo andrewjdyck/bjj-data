@@ -1,0 +1,106 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1868,122,Michael Langhi,428,Celso Vinicius,L,0,Referee Decision,Pan American,76KG,SF,2008
+1928,122,Michael Langhi,428,Celso Vinicius,L,0,Points,World Champ.,76KG,SF,2008
+2913,122,Michael Langhi,1188,Leandro Lo,L,0,Pts: 4x0,World Pro.,74KG,SF,2011
+2930,122,Michael Langhi,247,Rodolfo Vieira,L,0,Armbar,World Pro.,ABS,4F,2011
+2961,122,Michael Langhi,1188,Leandro Lo,L,0,Adv,Brasileiro,76KG,F,2011
+3138,122,Michael Langhi,788,Kron Gracie,L,0,Referee Decision,World Champ.,76KG,SF,2011
+3509,122,Michael Langhi,1824,Roberto Satoshi,L,0,"Pts: 4x4, Adv",European Open,76KG,SF,2012
+3844,122,Michael Langhi,1188,Leandro Lo,L,0,Pts: 2x0,Brasileiro,76KG,F,2012
+4795,122,Michael Langhi,1188,Leandro Lo,L,0,Pts: 2x0,World Champ.,76KG,F,2013
+5793,122,Michael Langhi,967,JT Torres,L,0,"Pts: 4x4, Adv",World Champ.,76KG,SF,2014
+7234,122,Michael Langhi,5078,Luan Carvalho,L,0,Referee Decision,Brasileiro,76KG,SF,2015
+9983,122,Michael Langhi,5061,Gabriel Rollo,L,0,Referee Decision,World Champ.,76KG,4F,2016
+11954,122,Michael Langhi,5238,Edwin Najmi,L,0,Referee Decision,ACBJJ 4,75KG,SF,2017
+13123,122,Michael Langhi,1824,Roberto Satoshi,L,0,Pts: 2x0,World Champ.,76KG,4F,2017
+16505,122,Michael Langhi,7539,Renato Canuto,L,0,"Pts: 2x2, Adv",World Champ.,76KG,R3,2018
+20629,122,Michael Langhi,7539,Renato Canuto,L,0,Pts: 2x0,World Champ.,76KG,4F,2019
+35545,122,Michael Langhi,,Matheus Galvao,L,0,"Pts: 0x0, Adv",NoGi Pan,79KG,4F,2022
+1867,122,Michael Langhi,921,Rafael Barbosa,W,1,Pts: 2x0,Pan American,76KG,4F,2008
+1894,122,Michael Langhi,,Michel Maia,W,1,Choke from back,Brasileiro,76KG,SF,2008
+1895,122,Michael Langhi,1600,Vinicius Marinho,W,1,Pts: 4x0,Brasileiro,76KG,F,2008
+1923,122,Michael Langhi,,F. Sabatini,W,1,Arm in Ezekiel,World Champ.,76KG,4F,2008
+2063,122,Michael Langhi,,Cleber Lopes,W,1,Points,Capital Challenge,77KG,4F,2008
+2066,122,Michael Langhi,,Yan Cabral,W,1,Referee Decision,Capital Challenge,77KG,SF,2008
+2068,122,Michael Langhi,138,Sergio Moraes,W,1,Triangle,Capital Challenge,77KG,F,2008
+2102,122,Michael Langhi,2434,Thibaut Olivier,W,1,Choke,European,76KG,SF,2009
+2103,122,Michael Langhi,,Daisuke Sugie,W,1,Cross choke,European,76KG,F,2009
+2109,122,Michael Langhi,,Unknown,W,1,Choke from back,European,ABS,R1,2009
+2140,122,Michael Langhi,16,Marcelo Garcia,W,1,Adv,World Pro.,76KG,F,2009
+2164,122,Michael Langhi,188,Augusto Mendes,W,1,Armbar,Pan American,76KG,SF,2009
+2202,122,Michael Langhi,11228,Helder Medeiros,W,1,"Pts: 0x0, Adv",Brasileiro NoGi,76KG,F,2009
+2334,122,Michael Langhi,188,Augusto Mendes,W,1,"Pts: 4x4, Adv",World Champ.,76KG,4F,2009
+2337,122,Michael Langhi,,Philipe Monica,W,1,Pts: 4x2,World Champ.,76KG,SF,2009
+2338,122,Michael Langhi,446,Gilbert Burns,W,1,Pts: 9x2,World Champ.,76KG,F,2009
+2488,122,Michael Langhi,,Unknown,W,1,Armbar,European,76KG,4F,2010
+2490,122,Michael Langhi,967,JT Torres,W,1,Adv,European,76KG,SF,2010
+2544,122,Michael Langhi,5930,Rodrigo Freitas,W,1,Bow and arrow,Pan American,76KG,4F,2010
+2546,122,Michael Langhi,975,Jonatas Gurgel,W,1,Choke from back,Pan American,76KG,SF,2010
+2685,122,Michael Langhi,,Bernardo Campos,W,1,Bow and arrow,World Champ.,76KG,4F,2010
+2687,122,Michael Langhi,446,Gilbert Burns,W,1,Referee Decision,World Champ.,76KG,SF,2010
+2689,122,Michael Langhi,428,Celso Vinicius,W,1,Referee Decision,World Champ.,76KG,F,2010
+2802,122,Michael Langhi,,Kleidson Viana,W,1,Triangle,World Pro Trials,77KG,4F,2011
+2804,122,Michael Langhi,,J. Carlos,W,1,Armbar,World Pro Trials,77KG,SF,2011
+2806,122,Michael Langhi,446,Gilbert Burns,W,1,Points,World Pro Trials,77KG,F,2011
+2881,122,Michael Langhi,967,JT Torres,W,1,Choke from back,Pan American,76KG,SF,2011
+2959,122,Michael Langhi,1386,Davi Ramos,W,1,Points,Brasileiro,76KG,SF,2011
+3030,122,Michael Langhi,,Unknown,W,1,DQ,World Champ.,76KG,RDS,2011
+3034,122,Michael Langhi,,Carlos Vieira,W,1,Submission,World Champ.,76KG,RDS,2011
+3111,122,Michael Langhi,1386,Davi Ramos,W,1,Pts: 4x0,World Champ.,76KG,4F,2011
+3421,122,Michael Langhi,,Wesley Fe,W,1,Brabo choke,FL BJJ Open,76KG,F,2011
+3504,122,Michael Langhi,,Pakisi Nginga,W,1,Bow and arrow,European Open,76KG,4F,2012
+3698,122,Michael Langhi,443,Claudio Mattos,W,1,Pts: 8x4,Copa Podio,ABS,SPF,2012
+3842,122,Michael Langhi,,A. Souza,W,1,N/A,Brasileiro,76KG,SF,2012
+4292,122,Michael Langhi,6033,Nic Ruben,W,1,Pts: 11x0,European NoGi,82KG,SF,2012
+4293,122,Michael Langhi,,Matheus Barros,W,1,N/A,European NoGi,82KG,F,2012
+4300,122,Michael Langhi,,Pedro Bessa,W,1,Choke from back,London Open,82KG,F,2012
+4448,122,Michael Langhi,1600,Vinicius Marinho,W,1,Pts: 9x4,European Open,76KG,F,2013
+4570,122,Michael Langhi,,Yoshinobu Kakizawa,W,1,Points,Pan American,76KG,R2,2013
+4575,122,Michael Langhi,967,JT Torres,W,1,Choke,Pan American,76KG,SF,2013
+4789,122,Michael Langhi,1137,Zak Maxwell,W,1,Pts: 8x2,World Champ.,76KG,4F,2013
+4793,122,Michael Langhi,631,Rodrigo Caporal,W,1,Pts: 6x4,World Champ.,76KG,SF,2013
+5254,122,Michael Langhi,,Uknown,W,1,Monoplata,European,76KG,4F,2014
+5255,122,Michael Langhi,,Sandro Vieira,W,1,Choke from back,European,76KG,SF,2014
+5353,122,Michael Langhi,,Julian Vega,W,1,Pts: 8x0,Pan American,76KG,R1,2014
+5359,122,Michael Langhi,,Marcel Goulart,W,1,Choke from back,Pan American,76KG,4F,2014
+5363,122,Michael Langhi,,Della Monica,W,1,Choke f/ omoplata,Pan American,76KG,SF,2014
+5783,122,Michael Langhi,,H. Takamoto,W,1,N/A,World Champ.,76KG,R1,2014
+5786,122,Michael Langhi,,Helton Ambo,W,1,Choke from back,World Champ.,76KG,8F,2014
+5790,122,Michael Langhi,,Philipe Furão,W,1,Triangle,World Champ.,76KG,4F,2014
+6436,122,Michael Langhi,,Lucas Ramos,W,1,Armbar,Brazil Nat. Pro,75KG,4F,2015
+6551,122,Michael Langhi,,Alex Cabanes,W,1,Pts: 21x0,European,76KG,R2,2015
+6558,122,Michael Langhi,2434,Thibaut Olivier,W,1,Pts: 12x0,European,76KG,4F,2015
+6562,122,Michael Langhi,,Sandro Vieira,W,1,Pts: 4x0,European,76KG,SF,2015
+6564,122,Michael Langhi,5061,Gabriel Rollo,W,1,Referee Decision,European,76KG,F,2015
+7231,122,Michael Langhi,,Unknown,W,1,Choke from back,Brasileiro,76KG,4F,2015
+7436,122,Michael Langhi,5747,AJ Sousa,W,1,Points,World Champ.,76KG,8F,2015
+7444,122,Michael Langhi,,Samuel Hertzog,W,1,Pts: 2x0,World Champ.,76KG,4F,2015
+7449,122,Michael Langhi,967,JT Torres,W,1,"Pts: 2x2, Adv",World Champ.,76KG,SF,2015
+8410,122,Michael Langhi,,Cristian Lopez,W,1,RNC,NoGi Worlds,73KG,8F,2015
+8417,122,Michael Langhi,5649,Garry Tonon,W,1,Pts: 4x2,NoGi Worlds,73KG,4F,2015
+8422,122,Michael Langhi,5909,Thiago Abreu,W,1,"Pts: 0x0, Adv",NoGi Worlds,73KG,SF,2015
+8423,122,Michael Langhi,6095,Mansher Khera,W,1,"Pts: 0x0, Adv",NoGi Worlds,73KG,F,2015
+9745,122,Michael Langhi,,Julio da Silva,W,1,N/A,Brasileiro,76KG,8F,2016
+9752,122,Michael Langhi,,Almir Dantas,W,1,N/A,Brasileiro,76KG,4F,2016
+9754,122,Michael Langhi,1178,Theodoro Canal,W,1,N/A,Brasileiro,76KG,SF,2016
+9980,122,Michael Langhi,6368,Kevin Mahecha,W,1,Pts: 4x2,World Champ.,76KG,R2,2016
+11240,122,Michael Langhi,6599,Rafael Mansur,W,1,Choke from back,South American,76KG,SF,2016
+11951,122,Michael Langhi,631,Rodrigo Caporal,W,1,Points,ACBJJ 4,75KG,4F,2017
+12424,122,Michael Langhi,6599,Rafael Mansur,W,1,N/A,Floripa Fall Open,76KG,4F,2017
+12427,122,Michael Langhi,,Luciano Bernert,W,1,N/A,Floripa Fall Open,76KG,SF,2017
+12750,122,Michael Langhi,,Eric Lopez,W,1,Choke from back,Brasileiro,76KG,R1,2017
+12761,122,Michael Langhi,,Andre Baccarin,W,1,Armbar,Brasileiro,76KG,R2,2017
+12763,122,Michael Langhi,,Ricardo Rocha,W,1,Choke from back,Brasileiro,76KG,4F,2017
+12768,122,Michael Langhi,8112,Matheus Costa,W,1,DQ,Brasileiro,76KG,SF,2017
+12769,122,Michael Langhi,5061,Gabriel Rollo,W,1,Pts: 2x0,Brasileiro,76KG,F,2017
+13122,122,Michael Langhi,7672,Caio Almeida,W,1,Choke from back,World Champ.,76KG,8F,2017
+14910,122,Michael Langhi,6836,John Combs,W,1,Armlock,European Open,76KG,R1,2018
+14919,122,Michael Langhi,,Tommi Pulkkanen,W,1,Pts: 5x0,European Open,76KG,4F,2018
+14922,122,Michael Langhi,8138,Hugo Marques,W,1,Armbar,European Open,76KG,SF,2018
+14923,122,Michael Langhi,7645,Masahiro Iwasaki,W,1,"Pts: 0x0, Adv",European Open,76KG,F,2018
+15322,122,Michael Langhi,4163,Marcio Andre,W,1,Referee Decision,ACBJJ 11,75KG,SPF,2018
+16340,122,Michael Langhi,4235,Victor Silverio,W,1,Referee Decision,ACBJJ 13,75KG,SPF,2018
+16500,122,Michael Langhi,,Yan Cabral,W,1,Pts: 7x2,World Champ.,76KG,R2,2018
+20621,122,Michael Langhi,12629,Fabricio Barbarotti,W,1,Pts: 2x0,World Champ.,76KG,R1,2019
+26767,122,Michael Langhi,443,Claudio Mattos,W,1,Pts: 2x0,BJJ Stars,ABS,82KG,2021
+35541,122,Michael Langhi,10835,Eduardo Avelar,W,1,Referee Decision,NoGi Pan,79KG,8F,2022

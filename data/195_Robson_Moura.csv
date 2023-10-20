@@ -1,0 +1,36 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+255,195,Robson Moura,727,Alexandre Soca,L,0,Choke from back,Brasileiro,70KG,4F,1999
+502,195,Robson Moura,515,Royler Gracie,L,0,Pts: 2x0,ADCC,66KG,SF,2001
+587,195,Robson Moura,338,Ricardo Vieira,L,0,Pts: 6x5,World Champ.,64KG,SF,2001
+2134,195,Robson Moura,179,Rafael Mendes,L,0,Points,World Pro.,65KG,4F,2009
+3281,195,Robson Moura,179,Rafael Mendes,L,0,Points,ADCC,66KG,SF,2011
+3290,195,Robson Moura,610,Jeff Glover,L,0,Guillotine,ADCC,66KG,3PLC,2011
+107,195,Robson Moura,,Armando Conde,W,1,Armbar,World Champ.,64KG,SF,1997
+188,195,Robson Moura,,Luis Renato,W,1,Choke from back,Super Liga,64KG,F,1998
+196,195,Robson Moura,,Renato Sampaio,W,1,Adv,Super Liga,ABS,SF,1998
+214,195,Robson Moura,,Unknown,W,1,Choke,World Champ.,61KG,4F,1998
+216,195,Robson Moura,,Fredson Alves,W,1,Points,World Champ.,61KG,F,1998
+254,195,Robson Moura,,Unknown,W,1,Points,Brasileiro,70KG,R1,1999
+383,195,Robson Moura,1182,Marcos Matta,W,1,Pts: 2x0,World Champ.,64KG,F,2000
+478,195,Robson Moura,819,Fredson Paixao,W,1,Points,Rio x Sao Paulo,NA,SPF,2000
+495,195,Robson Moura,,Hiroyuko Abe,W,1,RNC,ADCC,66KG,R1,2001
+498,195,Robson Moura,,Joe Guilbert,W,1,Referee Decision,ADCC,66KG,4F,2001
+505,195,Robson Moura,727,Alexandre Soca,W,1,Points,ADCC,66KG,3PLC,2001
+637,195,Robson Moura,,Douglas Plata,W,1,N/A,World Cup,64KG,SF,2002
+639,195,Robson Moura,338,Ricardo Vieira,W,1,"Pts: 2x2, Adv",World Cup,64KG,F,2002
+1480,195,Robson Moura,610,Jeff Glover,W,1,Pts: 6x3,LA Sub-X,ABS,SPF,2006
+1556,195,Robson Moura,,Ulysses Gomez,W,1,Kneebar,GQ All Star Pro,63KG,4F,2007
+1559,195,Robson Moura,,Ricky Lundell,W,1,Guillotine,GQ All Star Pro,63KG,SF,2007
+1560,195,Robson Moura,5992,Wilson Reis,W,1,Heel hook,GQ All Star Pro,63KG,F,2007
+1597,195,Robson Moura,,Tomoya Yanagisawa,W,1,Choke,Pan American,64KG,SF,2007
+1599,195,Robson Moura,,Dai Yoshioka,W,1,"Pts: 0x0, Adv",Pan American,64KG,F,2007
+1735,195,Robson Moura,,Dai Yoshioka,W,1,Pts: 5x2,World Champ.,64KG,4F,2007
+1740,195,Robson Moura,963,Carlos Esquisito,W,1,Referee Decision,World Champ.,64KG,SF,2007
+1741,195,Robson Moura,1761,Samuel Braga,W,1,"Pts: 0x0, Adv",World Champ.,64KG,F,2007
+2131,195,Robson Moura,,Bernardo Cruz,W,1,Points,World Pro.,65KG,R1,2009
+2451,195,Robson Moura,,Nobuhiko Kitahara,W,1,Choke from back,Arizona Open,64KG,SPF,2010
+3222,195,Robson Moura,,Greger Forsel,W,1,Pts: 3x0,ADCC,66KG,R1,2011
+3261,195,Robson Moura,725,Ryan Hall,W,1,Pts: 3x0,ADCC,66KG,4F,2011
+6074,195,Robson Moura,1182,Marcos Matta,W,1,Clock choke,World Expo,ABS,SPF,2014
+8032,195,Robson Moura,1023,Baret Yoshida,D,0.5,---,Polaris 2,70KG,SPF,2015
+35114,195,Robson Moura,,Tom Barlow,W,1,Referee Decision,Polaris,70KG,SPF,2022

@@ -1,0 +1,26 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+35790,12918,Daniel Sathler,12539,Eduardo Roque,L,0,Pts: 2x0,Miami FO,76KG,F,2022
+37933,12918,Daniel Sathler,11015,Pablo Lavaselli,L,0,Pts: 8x2,LA Open,76KG,SF,2023
+38379,12918,Daniel Sathler,11497,Fabricio Andrey,L,0,Pts: 8x6,Pan American,70KG,4F,2023
+39049,12918,Daniel Sathler,11248,Jonata Gomes,L,0,DQ,Santa Cruz O,76KG,F,2023
+40041,12918,Daniel Sathler,11568,Josh Cisneros,L,0,Adv,SD Open,76KG,SF,2023
+40236,12918,Daniel Sathler,8884,Alex Sodre,L,0,Armbar,World Champ.,70KG,8F,2023
+42895,12918,Daniel Sathler,10216,Natan Chueng,L,0,Pts: 3x1,ADGS Miami,77KG,SF,2023
+43237,12918,Daniel Sathler,13192,Carlos Henrique,L,0,Pts: 2x0,NoGi Pan,73KG,F,2023
+35788,12918,Daniel Sathler,,Kevin Machecha,W,1,Triangle,Miami FO,76KG,SF,2022
+35888,12918,Daniel Sathler,,Joao Henrique,W,1,Kneebar,Houston FO,76KG,4F,2022
+35890,12918,Daniel Sathler,,Carlos Mejia,W,1,Armbar,Houston FO,76KG,SF,2022
+35892,12918,Daniel Sathler,613,Wellington Dias,W,1,Triangle,Houston FO,76KG,F,2022
+36532,12918,Daniel Sathler,,Victor Junqueira,W,1,RNC,N. Haven FO,76KG,SF,2022
+36533,12918,Daniel Sathler,,Pedro Farias,W,1,Adv,N. Haven FO,76KG,F,2022
+37932,12918,Daniel Sathler,,Henry Clark,W,1,Pts: 3x0,LA Open,76KG,4F,2023
+38366,12918,Daniel Sathler,12633,Ismael Santos,W,1,Referee Decision,Pan American,70KG,R1,2023
+39045,12918,Daniel Sathler,,Yeonpung Lee,W,1,Pts: 4x2,Santa Cruz O,76KG,4F,2023
+39047,12918,Daniel Sathler,12419,Daniel Diniz,W,1,"Pts: 0x0, Adv",Santa Cruz O,76KG,SF,2023
+40058,12918,Daniel Sathler,11568,Josh Cisneros,W,1,Points,SD Open,ABS,R1,2023
+40221,12918,Daniel Sathler,10408,Israel Sousa,W,1,Referee Decision,World Champ.,70KG,R1,2023
+42888,12918,Daniel Sathler,,Bernardo Delibero,W,1,Straight ankle lock,ADGS Miami,77KG,R1,2023
+42893,12918,Daniel Sathler,,Alfonso Estrada,W,1,Straight ankle lock,ADGS Miami,77KG,4F,2023
+43230,12918,Daniel Sathler,,Joshua Murdock,W,1,RNC,NoGi Pan,73KG,R1,2023
+43231,12918,Daniel Sathler,11512,Lukete Silva,W,1,"Pts: 2x2, Adv",NoGi Pan,73KG,4F,2023
+43236,12918,Daniel Sathler,,Joao Oliveira,W,1,Pts: 2x0,NoGi Pan,73KG,SF,2023

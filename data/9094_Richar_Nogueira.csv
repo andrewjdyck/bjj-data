@@ -1,0 +1,123 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+16700,9094,Richar Nogueira,8632,Thiago Macedo,L,0,"Pts: 0x0, Adv",American Nat.,70KG,F,2018
+16959,9094,Richar Nogueira,8427,Michael Perez,L,0,Referee Decision,W.S.O.G.,81KG,8F,2018
+17262,9094,Richar Nogueira,9031,Kennedy Maciel,L,0,Points,Las Vegas Open,70KG,4F,2018
+17295,9094,Richar Nogueira,9150,Cole Franson,L,0,Guillotine,LV NG Open,67KG,F,2018
+18261,9094,Richar Nogueira,5715,Isaque Paiva,L,0,Bow and arrow,Grand Slam RJ,69KG,R1,2018
+19381,9094,Richar Nogueira,,Pedro Mendes,L,0,"Pts: 0x0, Adv",LA BJJ Pro,70KG,SF,2019
+20406,9094,Richar Nogueira,,Esdras Barbosa,L,0,N/A,Dallas SPO,ABS,4F,2019
+20447,9094,Richar Nogueira,9031,Kennedy Maciel,L,0,Choke from back,San Diego Open,70KG,F,2019
+20461,9094,Richar Nogueira,8427,Michael Perez,L,0,"Pts: 0x0, Adv",San Diego Open,ABS,4F,2019
+20599,9094,Richar Nogueira,4163,Marcio Andre,L,0,"Pts: 2x2, Adv",World Champ.,70KG,R2,2019
+20908,9094,Richar Nogueira,9031,Kennedy Maciel,L,0,Armbar,American NG Nats,67KG,SF,2019
+20928,9094,Richar Nogueira,9031,Kennedy Maciel,L,0,Referee Decision,American Nats,70KG,F,2019
+21072,9094,Richar Nogueira,6103,Isaac Doederlein,L,0,"Pts: 2x2, Adv",NY BJJ Pro,70KG,F,2019
+21541,9094,Richar Nogueira,8632,Thiago Macedo,L,0,Points,Dallas SMO,70KG,F,2019
+21554,9094,Richar Nogueira,5417,Guilherme Augusto,L,0,Pts: 9x4,Dallas SMO,ABS,SF,2019
+21640,9094,Richar Nogueira,5414,Osvaldo Moizinho,L,0,Omoplata,F2W 125,70KG,SPF,2019
+22099,9094,Richar Nogueira,8884,Alex Sodre,L,0,Points,Curitiba SPO,70KG,F,2019
+22456,9094,Richar Nogueira,6599,Rafael Mansur,L,0,"Pts: 4x4, Adv",Rio BJJ Pro,70KG,F,2019
+23683,9094,Richar Nogueira,9064,Silvio Duran,L,0,"Pts: 0x0, Adv",Houston WO,70KG,F,2020
+23962,9094,Richar Nogueira,6103,Isaac Doederlein,L,0,Straight ankle lock,Austin Open,70KG,SF,2020
+24150,9094,Richar Nogueira,9002,Matheus Gabriel,L,0,Pts: 4x2,Pan American,70KG,SF,2020
+24554,9094,Richar Nogueira,11568,Josh Cisneros,L,0,"Pts: 0x0, Adv",American Nats,70KG,SF,2020
+25825,9094,Richar Nogueira,12303,Marcus Beddor,L,0,Inside heel hook,Houston NGO,69KG,F,2021
+26024,9094,Richar Nogueira,,Marvin Castell,L,0,Inside heel hook,N.Orleans NGO,67KG,SF,2021
+27561,9094,Richar Nogueira,7002,Jamil Hill-Taylor,L,0,DQ,Pan American,70KG,4F,2021
+28232,9094,Richar Nogueira,9051,Gabriel Sousa,L,0,Pts: 4x2,NoGi Worlds,67KG,4F,2021
+29302,9094,Richar Nogueira,11510,Samuel Nagai,L,0,Referee Decision,F2W 188,70KG,SPF,2021
+29484,9094,Richar Nogueira,11497,Fabricio Andrey,L,0,Pts: 7x2,World Champ.,70KG,4F,2021
+31641,9094,Richar Nogueira,11963,Diego Sodre,L,0,Referee Decision,Pan American,70KG,SF,2022
+35512,9094,Richar Nogueira,,Gavin Corbe,L,0,Shoulder lock,NoGi Pan,67KG,SF,2022
+35915,9094,Richar Nogueira,11512,Lukete Silva,L,0,Inside heel hook,Houston FNGO,67KG,F,2022
+38376,9094,Richar Nogueira,11963,Diego Sodre,L,0,Pts: 10x2,Pan American,70KG,4F,2023
+39863,9094,Richar Nogueira,9002,Matheus Gabriel,L,0,Points,Houston Open,76KG,F,2023
+40228,9094,Richar Nogueira,11248,Jonata Gomes,L,0,RNC,World Champ.,70KG,R1,2023
+42275,9094,Richar Nogueira,10953,Danilo Moreira,L,0,Points,JJ Con,76KG,SF,2023
+43235,9094,Richar Nogueira,13192,Carlos Henrique,L,0,"Pts: 4x4, Adv",NoGi Pan,73KG,SF,2023
+16694,9094,Richar Nogueira,,Nichollas Welker,W,1,Referee Decision,American Nat.,70KG,R1,2018
+16697,9094,Richar Nogueira,6366,Brian Mahecha,W,1,Armbar,American Nat.,70KG,4F,2018
+16698,9094,Richar Nogueira,,R. Lopes,W,1,No arm triangle,American Nat.,70KG,SF,2018
+16892,9094,Richar Nogueira,,Joe Murphy,W,1,Triangle,SJJIF LA Open,70KG,F,2018
+16893,9094,Richar Nogueira,,Unknown,W,1,Triangle,SJJIF LA Open,ABS,SF,2018
+16894,9094,Richar Nogueira,,Gustave Epee,W,1,Triangle,SJJIF LA Open,ABS,F,2018
+16895,9094,Richar Nogueira,,Muin Gafurov,W,1,Triangle,SJJIF LA NG Open,67KG,F,2018
+17258,9094,Richar Nogueira,,Michael Main,W,1,Pts: 4x0,Las Vegas Open,70KG,R1,2018
+17293,9094,Richar Nogueira,,Josh Murdock,W,1,Choke,LV NG Open,67KG,SF,2018
+20403,9094,Richar Nogueira,,Matheus Viana,W,1,Toe hold,Dallas SPO,ABS,4F,2019
+20444,9094,Richar Nogueira,,Jesse Alexander,W,1,Triangle,San Diego Open,70KG,4F,2019
+20445,9094,Richar Nogueira,8069,Pablo Mantovani,W,1,Pts: 4x2,San Diego Open,70KG,SF,2019
+20496,9094,Richar Nogueira,,Spencer Nogawa,W,1,Points,Denver Open,70KG,SF,2019
+20498,9094,Richar Nogueira,,Orlando Andaviza,W,1,Choke from back,Denver Open,70KG,F,2019
+20592,9094,Richar Nogueira,9150,Cole Franson,W,1,Pts: 2x0,World Champ.,70KG,R1,2019
+20924,9094,Richar Nogueira,,Thiago Cintra,W,1,Submission,American Nats,70KG,4F,2019
+21023,9094,Richar Nogueira,,Mauricio Fernandes,W,1,Points,New Orleans Open,70KG,F,2019
+21068,9094,Richar Nogueira,8632,Thiago Macedo,W,1,"Pts: 2x2, Adv",NY BJJ Pro,70KG,4F,2019
+21070,9094,Richar Nogueira,,Josh Murdock,W,1,Triangle,NY BJJ Pro,70KG,SF,2019
+21167,9094,Richar Nogueira,,Juan Garcia,W,1,Points,Austin SMO,70KG,4F,2019
+21169,9094,Richar Nogueira,,Fernando Soares,W,1,Points,Austin SMO,70KG,SF,2019
+21171,9094,Richar Nogueira,8632,Thiago Macedo,W,1,Points,Austin SMO,70KG,F,2019
+21324,9094,Richar Nogueira,,Fernando Jesus,W,1,Referee Decision,F2W 121,70KG,SPF,2019
+21413,9094,Richar Nogueira,,Kaio Abrantes,W,1,Flying triangle,Las Vegas Open,70KG,R1,2019
+21421,9094,Richar Nogueira,,Vitor Paschoal,W,1,Toe hold,Las Vegas Open,70KG,4F,2019
+21423,9094,Richar Nogueira,4248,Gianni Grippo,W,1,Pts: 6x4,Las Vegas Open,70KG,SF,2019
+21425,9094,Richar Nogueira,10408,Israel Sousa,W,1,Pts: 8x6,Las Vegas Open,70KG,F,2019
+21540,9094,Richar Nogueira,,Juan Garcia,W,1,Points,Dallas SMO,70KG,SF,2019
+21551,9094,Richar Nogueira,,Damien Nitkin,W,1,Choke from back,Dallas SMO,ABS,4F,2019
+22080,9094,Richar Nogueira,,Igot Gatto,W,1,N/A,BH SPO,70KG,SF,2019
+22081,9094,Richar Nogueira,11512,Lukete Silva,W,1,"Pts: 2x2, Adv",BH SPO,70KG,F,2019
+22098,9094,Richar Nogueira,10953,Danilo Moreira,W,1,Points,Curitiba SPO,70KG,SF,2019
+22447,9094,Richar Nogueira,,Leandro Lima,W,1,Points,Rio BJJ Pro,70KG,R1,2019
+22453,9094,Richar Nogueira,,Pedro Petronio,W,1,Points,Rio BJJ Pro,70KG,4F,2019
+22455,9094,Richar Nogueira,6151,Hiago George,W,1,Points,Rio BJJ Pro,70KG,SF,2019
+22554,9094,Richar Nogueira,,Luan Silva,W,1,"Pts: 4x4, Adv",South American,70KG,R1,2019
+22557,9094,Richar Nogueira,,Caio Wolga,W,1,Points,South American,70KG,4F,2019
+22560,9094,Richar Nogueira,8536,Yuta Shimada,W,1,Pts: 4x0,South American,70KG,SF,2019
+22561,9094,Richar Nogueira,8305,Pedro Dias,W,1,"Pts: 0x0, Adv",South American,70KG,F,2019
+23299,9094,Richar Nogueira,,Giovanni Carvalho,W,1,Points,New Orleans Open,70KG,SF,2020
+23300,9094,Richar Nogueira,,Thiago Brito,W,1,Toe hold,New Orleans Open,70KG,F,2020
+23682,9094,Richar Nogueira,,Jacob Allphin,W,1,Points,Houston WO,70KG,SF,2020
+23850,9094,Richar Nogueira,4465,Andris Brunovskis,W,1,Referee Decision,F2W 148,72KG,SPF,2020
+23959,9094,Richar Nogueira,,Brandon Walker,W,1,Pts: 7x4,Austin Open,70KG,4F,2020
+24134,9094,Richar Nogueira,,Windson Ramos,W,1,"Pts: 2x2, Adv",Pan American,70KG,R1,2020
+24143,9094,Richar Nogueira,,Thiago Cintra,W,1,Triangle,Pan American,70KG,8F,2020
+24149,9094,Richar Nogueira,9074,Joao Mendes,W,1,"Pts: 0x0, Adv",Pan American,70KG,4F,2020
+24394,9094,Richar Nogueira,,M. Fernandes,W,1,Omoplata,Houston Open,70KG,SF,2020
+24395,9094,Richar Nogueira,6103,Isaac Doederlein,W,1,Pts: 2x0,Houston Open,70KG,F,2020
+24552,9094,Richar Nogueira,9031,Kennedy Maciel,W,1,"Pts: 2x2, Adv",American Nats,70KG,4F,2020
+25189,9094,Richar Nogueira,10004,Ali Monfaradi,W,1,"Pts: 0x0, Adv",Dallas Open,70KG,4F,2021
+25190,9094,Richar Nogueira,,Orlando Castillo,W,1,Pts: 4x2,Dallas Open,70KG,SF,2021
+25192,9094,Richar Nogueira,4248,Gianni Grippo,W,1,Pts: 2x0,Dallas Open,70KG,F,2021
+25223,9094,Richar Nogueira,,Orlando Castillo,W,1,"Pts: 2x2, Adv",Dallas NGO,67KG,F,2021
+25792,9094,Richar Nogueira,11093,Emilio Hernandez,W,1,Pts: 8x2,Houston Open,70KG,SF,2021
+25793,9094,Richar Nogueira,11568,Josh Cisneros,W,1,Referee Decision,Houston Open,70KG,F,2021
+25824,9094,Richar Nogueira,,Juan Garcia,W,1,Triangle,Houston NGO,69KG,SF,2021
+25996,9094,Richar Nogueira,12356,Damion Oranday,W,1,Triangle,N.Orleans Open,70KG,SF,2021
+25998,9094,Richar Nogueira,,Orlando Castillo,W,1,Triangle,N.Orleans Open,70KG,F,2021
+26527,9094,Richar Nogueira,,Vinny Saenz,W,1,Triangle,F2W 173,70KG,SPF,2021
+26611,9094,Richar Nogueira,,Orlando Castillo,W,1,Referee Decision,F2W 174,70KG,SPF,2021
+26656,9094,Richar Nogueira,12356,Damion Oranday,W,1,Pts: 10x4,American Nats,70KG,4F,2021
+26659,9094,Richar Nogueira,12102,Nick Salles,W,1,"Pts: 2x2, Adv",American Nats,70KG,SF,2021
+26660,9094,Richar Nogueira,9074,Joao Mendes,W,1,"Pts: 4x4, Adv",American Nats,70KG,F,2021
+26933,9094,Richar Nogueira,,David Mosleh,W,1,Pts: 2x0,Austin Open,70KG,SF,2021
+26934,9094,Richar Nogueira,10953,Danilo Moreira,W,1,Pts: 4x2,Austin Open,70KG,F,2021
+27546,9094,Richar Nogueira,,Carlos Alvarez,W,1,Pts: 17x4,Pan American,70KG,R1,2021
+27554,9094,Richar Nogueira,11093,Emilio Hernandez,W,1,Armbar,Pan American,70KG,8F,2021
+28222,9094,Richar Nogueira,,Ighor Horta,W,1,Buggy choke,NoGi Worlds,67KG,8F,2021
+29472,9094,Richar Nogueira,,Thiago Cintra,W,1,Triangle,World Champ.,70KG,R1,2021
+29479,9094,Richar Nogueira,9051,Gabriel Sousa,W,1,Pts: 4x2,World Champ.,70KG,8F,2021
+31630,9094,Richar Nogueira,9031,Kennedy Maciel,W,1,Referee Decision,Pan American,70KG,R1,2022
+31638,9094,Richar Nogueira,7002,Jamil Hill-Taylor,W,1,Referee Decision,Pan American,70KG,4F,2022
+34710,9094,Richar Nogueira,,Christhian Cevallos,W,1,Botinha,JJ Con,70KG,4F,2022
+34711,9094,Richar Nogueira,11093,Emilio Hernandez,W,1,Choke from back,JJ Con,70KG,SF,2022
+34713,9094,Richar Nogueira,,Bebeto Oliveira,W,1,Botinha,JJ Con,70KG,F,2022
+35508,9094,Richar Nogueira,12487,Gabriel Gaudio,W,1,RNC,NoGi Pan,67KG,4F,2022
+35884,9094,Richar Nogueira,,Guilherme Cordeiro,W,1,Choke from back,Houston FO,70KG,4F,2022
+35887,9094,Richar Nogueira,,Luan Silva,W,1,Pts: 9x6,Houston FO,70KG,SF,2022
+35912,9094,Richar Nogueira,,Guilherme Cordeiro,W,1,Pts: 2x0,Houston FNGO,67KG,4F,2022
+35914,9094,Richar Nogueira,,Isaias Higinio,W,1,Triangle,Houston FNGO,67KG,SF,2022
+38368,9094,Richar Nogueira,,Luan Silva,W,1,Toe hold,Pan American,70KG,R1,2023
+39862,9094,Richar Nogueira,13389,Youngseung Cho,W,1,Points,Houston Open,76KG,SF,2023
+42273,9094,Richar Nogueira,,Rehan Muttalib,W,1,Points,JJ Con,76KG,4F,2023
+42339,9094,Richar Nogueira,,Alkila Villiatora,W,1,Pts: 6x2,JJ Con NG,73KG,F,2023
+43233,9094,Richar Nogueira,,Juan Londono,W,1,Pts: 13x0,NoGi Pan,73KG,4F,2023

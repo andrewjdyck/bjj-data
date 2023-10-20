@@ -1,0 +1,16 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+398,93,Ricardo Arona,322,Fabio Gurgel,L,0,Pts: 3x0,World Champ.,94KG,F,2000
+396,93,Ricardo Arona,559,Rodrigo Comprido,W,1,Pts: 2x0,World Champ.,94KG,SF,2000
+444,93,Ricardo Arona,,H. Kanehara,W,1,Kneebar,ADCC,99KG,R1,2000
+446,93,Ricardo Arona,,Kareem Barkalev,W,1,Adv,ADCC,99KG,4F,2000
+447,93,Ricardo Arona,,Tito Ortiz,W,1,Pts: 2x0,ADCC,99KG,SF,2000
+448,93,Ricardo Arona,,Jeff Monson,W,1,Pen,ADCC,99KG,F,2000
+534,93,Ricardo Arona,,R. Mashurenko,W,1,Pts: 2x0,ADCC,99KG,R1,2001
+540,93,Ricardo Arona,,R. Babalu,W,1,Pts: 2x0,ADCC,99KG,4F,2001
+544,93,Ricardo Arona,,Olav Einemo,W,1,Pts: 3x0,ADCC,99KG,SF,2001
+546,93,Ricardo Arona,278,Ricardo Almeida,W,1,Pen,ADCC,99KG,F,2001
+557,93,Ricardo Arona,,Roger Neff,W,1,Straight ankle lock,ADCC,ABS,R1,2001
+565,93,Ricardo Arona,481,Saulo Ribeiro,W,1,Pts: 2x0,ADCC,ABS,4F,2001
+568,93,Ricardo Arona,,Vitor Belfort,W,1,Pts: 3x0,ADCC,ABS,SF,2001
+570,93,Ricardo Arona,88,JJ Machado,W,1,Pts: 3x0,ADCC,ABS,F,2001
+829,93,Ricardo Arona,,Mark Kerr,W,1,Points,ADCC,ABS,SPF,2003

@@ -1,0 +1,102 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+19078,9573,Marcos Martins,,Gabriel Lima,L,0,DQ,S. Brazilian NG,85KG,SF,2019
+19359,9573,Marcos Martins,6631,Igor Schneider,L,0,Pts: 4x0,CBJJE NG Pan,ABS,SF,2019
+19720,9573,Marcos Martins,,Manoel Porto,L,0,Pts: 4x0,Floripa Fall Open,88KG,4F,2019
+19928,9573,Marcos Martins,8647,Igor Verissimo,L,0,Kneebar,Curitiba Pro,82KG,SF,2019
+20304,9573,Marcos Martins,410,Claudio Calasans,L,0,Pts: 4x0,Brasileiro,82KG,SF,2019
+21014,9573,Marcos Martins,9793,Alexandre Jesus,L,0,Pts: 3x2,SP BJJ Pro,82KG,SF,2019
+21205,9573,Marcos Martins,7047,Matheus Spirandeli,L,0,Pts: 6x4,Mundial CBJJE,88KG,F,2019
+21288,9573,Marcos Martins,10174,Rafael Paganini,L,0,"Pts: 0x0, Adv",Vitoria Open,88KG,SF,2019
+21306,9573,Marcos Martins,12243,Leon Brito,L,0,Pts: 8x4,Vitoria Open,ABS,F,2019
+21341,9573,Marcos Martins,10252,Fabio Alano,L,0,Pts: 2x0,Floripa WO,88KG,SF,2019
+21799,9573,Marcos Martins,11027,Pedro Rocha,L,0,"Pts: 2x2, Adv",Brasileiro NoGi,85KG,F,2019
+22326,9573,Marcos Martins,10174,Rafael Paganini,L,0,Pts: 9x4,Grand Slam RJ,85KG,4F,2019
+25164,9573,Marcos Martins,7047,Matheus Spirandeli,L,0,Pts: 2x0,Big Deal Pro 2,85KG,F,2021
+25779,9573,Marcos Martins,9067,Leonardo Lara,L,0,Pts: 2x0,The New Star,82KG,R1,2021
+28072,9573,Marcos Martins,8996,Mauricio Oliveira,L,0,Pts: 2x0,Brasileiro,88KG,F,2021
+28438,9573,Marcos Martins,8528,Servio Tulio,D,0.5,---,Fenajitsu,88KG,SPF,2021
+28439,9573,Marcos Martins,8528,Servio Tulio,L,0,Pts: 2x0,Fenajitsu,88KG,SPF,2021
+28440,9573,Marcos Martins,8528,Servio Tulio,D,0.5,---,Fenajitsu,88KG,SPF,2021
+28553,9573,Marcos Martins,,Athos Miranda,L,0,Pts: 5x2,Grand Slam RJ,85KG,8F,2021
+32730,9573,Marcos Martins,,Davi Souza,L,0,Referee Decision,Salvador Open,ABS,SF,2022
+35773,9573,Marcos Martins,12506,Jansen Gomes,L,0,Referee Decision,BJJ Stars,88KG,SPF,2022
+37227,9573,Marcos Martins,12537,Pedro Machado,L,0,Pts: 2x0,European Open,88KG,SF,2023
+40318,9573,Marcos Martins,5636,Manuel Ribamar,L,0,Referee Decision,World Champ.,88KG,8F,2023
+40626,9573,Marcos Martins,5078,Luan Carvalho,L,0,Pts: 1x1,Grand Slam RJ,85KG,8F,2023
+42765,9573,Marcos Martins,13417,Vinicius Liberati,L,0,Pts: 2x0,Sul Americano,94KG,4F,2023
+18011,9573,Marcos Martins,,N/A,W,1,Toe hold,B9 Interno,O80KG,R1,2018
+18012,9573,Marcos Martins,,Ivan Tomic,W,1,Points,B9 Interno,O80KG,4F,2018
+18013,9573,Marcos Martins,,Andre Simoes,W,1,"Pts: 0x0, Adv",B9 Interno,O80KG,SF,2018
+18014,9573,Marcos Martins,,M. Onda,W,1,Triangle armbar,B9 Interno,O80KG,F,2018
+18493,9573,Marcos Martins,,N/A,W,1,Pts: 4x0,Brasilia Open,88KG,R1,2018
+18494,9573,Marcos Martins,,N/A,W,1,Kneebar,Brasilia Open,88KG,4F,2018
+18495,9573,Marcos Martins,,Rodrigo Reis,W,1,RNC,Brasilia Open,88KG,F,2018
+18503,9573,Marcos Martins,,Chaise Olimpio,W,1,Pts: 4x0,Brasilia NGO,85KG,SF,2018
+18504,9573,Marcos Martins,,Filipe Salles,W,1,RNC,Brasilia NGO,85KG,F,2018
+19013,9573,Marcos Martins,,N/A,W,1,Pressure,CBJJE NoGi,85KG,4F,2019
+19014,9573,Marcos Martins,,N/A,W,1,Triangle,CBJJE NoGi,85KG,SF,2019
+19015,9573,Marcos Martins,,N/A,W,1,Triangle,CBJJE NoGi,85KG,F,2019
+19056,9573,Marcos Martins,,Edjonson Rodrigues,W,1,Adv,South Brazilian,88KG,4F,2019
+19058,9573,Marcos Martins,,A. Vieira,W,1,N/A,South Brazilian,88KG,SF,2019
+19059,9573,Marcos Martins,6375,Ruan Oliveira,W,1,No arm triangle,South Brazilian,88KG,F,2019
+19077,9573,Marcos Martins,,Marcos Ourique,W,1,Submission,S. Brazilian NG,85KG,4F,2019
+19356,9573,Marcos Martins,,N/A,W,1,Toe hold,CBJJE NG Pan,85KG,4F,2019
+19357,9573,Marcos Martins,,N/A,W,1,No arm triangle,CBJJE NG Pan,85KG,SF,2019
+19358,9573,Marcos Martins,,N/A,W,1,Toe hold,CBJJE NG Pan,85KG,F,2019
+19740,9573,Marcos Martins,,Andrey Andrade,W,1,DQ,Floripa Fall NGO,83KG,SF,2019
+19741,9573,Marcos Martins,,Gustavo Borges,W,1,RNC,Floripa Fall NGO,83KG,F,2019
+19922,9573,Marcos Martins,,Victor Matos,W,1,Injury,Curitiba Pro,82KG,R1,2019
+19926,9573,Marcos Martins,9217,Caio Caetano,W,1,North south choke,Curitiba Pro,82KG,4F,2019
+20288,9573,Marcos Martins,,Bruno Santos,W,1,Choke,Brasileiro,82KG,R1,2019
+20300,9573,Marcos Martins,9217,Caio Caetano,W,1,Choke,Brasileiro,82KG,4F,2019
+20819,9573,Marcos Martins,12243,Leon Brito,W,1,Toe hold,Rio Open,88KG,R1,2019
+20821,9573,Marcos Martins,,Eric Lopes,W,1,Pts: 7x2,Rio Open,88KG,4F,2019
+20822,9573,Marcos Martins,,A. Vieira,W,1,Guillotine,Rio Open,88KG,SF,2019
+20823,9573,Marcos Martins,,Henrique Moreira,W,1,Guillotine,Rio Open,88KG,F,2019
+21013,9573,Marcos Martins,9067,Leonardo Lara,W,1,Referee Decision,SP BJJ Pro,82KG,4F,2019
+21100,9573,Marcos Martins,,Eric Lopez,W,1,Pts: 7x2,BH Winter Open,88KG,4F,2019
+21103,9573,Marcos Martins,10669,Lucas Alves,W,1,Pts: 2x0,BH Winter Open,88KG,SF,2019
+21104,9573,Marcos Martins,10174,Rafael Paganini,W,1,Pts: 4x2,BH Winter Open,88KG,F,2019
+21113,9573,Marcos Martins,12566,Rodrigo Tatu,W,1,Points,BH Winter NGO,85KG,SF,2019
+21202,9573,Marcos Martins,,Plinio Leme,W,1,Submission,Mundial CBJJE,88KG,4F,2019
+21204,9573,Marcos Martins,,R. Sousa,W,1,N/A,Mundial CBJJE,88KG,SF,2019
+21287,9573,Marcos Martins,,Marcelo Vitorino,W,1,Choke from back,Vitoria Open,88KG,4F,2019
+21296,9573,Marcos Martins,,W. Sebastiao,W,1,Choke from back,Vitoria Open,ABS,R1,2019
+21303,9573,Marcos Martins,,Lucas Jose,W,1,DQ,Vitoria Open,ABS,4F,2019
+21307,9573,Marcos Martins,,Marcelo Vitorino,W,1,RNC,Vitoria NGO,85KG,SF,2019
+21308,9573,Marcos Martins,,Lucas Jose,W,1,Pts: 2x0,Vitoria NGO,85KG,F,2019
+21312,9573,Marcos Martins,,D. Novello,W,1,Guillotine,Vitoria NGO,ABS,SF,2019
+21313,9573,Marcos Martins,,Thiago Silva,W,1,RNC,Vitoria NGO,ABS,F,2019
+21340,9573,Marcos Martins,,Eduardo Alexandre,W,1,Choke from back,Floripa WO,88KG,4F,2019
+21751,9573,Marcos Martins,,Karol Kania,W,1,RNC,Sao Paulo NGO,85KG,SF,2019
+21752,9573,Marcos Martins,10669,Lucas Alves,W,1,Pts: 2x0,Sao Paulo NGO,85KG,F,2019
+21795,9573,Marcos Martins,,Lucas Oliveira,W,1,RNC,Brasileiro NoGi,85KG,4F,2019
+21797,9573,Marcos Martins,,Pedro Pimenta,W,1,Pts: 4x0,Brasileiro NoGi,85KG,SF,2019
+22028,9573,Marcos Martins,7047,Matheus Spirandeli,W,1,Adv,BJJ Stars,88KG,SPF,2019
+22318,9573,Marcos Martins,,Victor Deschamps,W,1,Choke from back,Grand Slam RJ,85KG,R1,2019
+22324,9573,Marcos Martins,,Diego Siqueira,W,1,Submission,Grand Slam RJ,85KG,R2,2019
+22885,9573,Marcos Martins,10162,Ronaldo Junior,W,1,Points,NoGi Worlds,85KG,R1,2019
+23869,9573,Marcos Martins,9793,Alexandre Jesus,W,1,Pts: 4x0,BJJ Stars,N/A,SPF,2020
+23923,9573,Marcos Martins,8528,Servio Tulio,W,1,Choke from back,BJJ Bet,85KG,SPF,2020
+24729,9573,Marcos Martins,410,Claudio Calasans,W,1,Pts: 2x1,Grand Slam RJ,85KG,R1,2020
+24737,9573,Marcos Martins,11766,Gabriel Costa,W,1,Pts: 2x0,Grand Slam RJ,85KG,8F,2020
+24742,9573,Marcos Martins,10174,Rafael Paganini,W,1,Pts: 4x2,Grand Slam RJ,85KG,4F,2020
+25159,9573,Marcos Martins,,Douglas Pittan,W,1,Katagatame,Big Deal Pro 2,85KG,4F,2021
+25162,9573,Marcos Martins,6599,Rafael Mansur,W,1,"Pts: 0x0, Adv",Big Deal Pro 2,85KG,SF,2021
+26841,9573,Marcos Martins,11746,Alex Munis,W,1,"Pts: 0x0, Adv",Big Deal Pro 3,88KG,SPF,2021
+28069,9573,Marcos Martins,10174,Rafael Paganini,W,1,"Pts: 0x0, Adv",Brasileiro,88KG,4F,2021
+28071,9573,Marcos Martins,7047,Matheus Spirandeli,W,1,"Pts: 0x0, Adv",Brasileiro,88KG,SF,2021
+28546,9573,Marcos Martins,10174,Rafael Paganini,W,1,Referee Decision,Grand Slam RJ,85KG,R1,2021
+32053,9573,Marcos Martins,12348,Lucas Protasio,W,1,Guillotine,BJJ Stars,88KG,SPF,2022
+32714,9573,Marcos Martins,,Jose Neto,W,1,Triangle,Salvador Open,88KG,4F,2022
+32718,9573,Marcos Martins,,Sebastiao Batista,W,1,North south choke,Salvador Open,88KG,SF,2022
+32719,9573,Marcos Martins,,Eduardo Macedo,W,1,Pts: 11x4,Salvador Open,88KG,F,2022
+32724,9573,Marcos Martins,,Breno Guimaraes,W,1,Choke from back,Salvador Open,ABS,R1,2022
+32729,9573,Marcos Martins,,Sergio Diniz,W,1,Armbar,Salvador Open,ABS,4F,2022
+37221,9573,Marcos Martins,,Ian Cerqueira,W,1,Pts: 6x0,European Open,88KG,R2,2023
+37226,9573,Marcos Martins,,Pedro Cadete,W,1,Pts: 4x2,European Open,88KG,4F,2023
+40138,9573,Marcos Martins,,Guilherme Vilhalba,W,1,Arm in Ezekiel,Floripa FO,94KG,SF,2023
+40140,9573,Marcos Martins,13392,Gabriel Volante,W,1,Pts: 2x0,Floripa FO,94KG,F,2023
+40150,9573,Marcos Martins,,Estevao Nogara,W,1,Choke,Floripa FO,ABS,8F,2023
+40305,9573,Marcos Martins,12566,Rodrigo Tatu,W,1,Armbar,World Champ.,88KG,R1,2023
+40619,9573,Marcos Martins,,Matheus Rodrigues,W,1,Pts: 3x2,Grand Slam RJ,85KG,R1,2023

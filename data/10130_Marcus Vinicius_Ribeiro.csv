@@ -1,0 +1,53 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21741,10130,Marcus Vinicius Ribeiro,8514,Fellipe Andrew,L,0,Katagatame,Sao Paulo Open,100KG,F,2019
+22923,10130,Marcus Vinicius Ribeiro,,E. Muniz,D,0.5,---,Copa Podio,100KG,RR,2019
+22934,10130,Marcus Vinicius Ribeiro,11064,Rider Zuchi,L,0,"Pts: 0x0, Adv",Copa Podio,100KG,SF,2019
+22936,10130,Marcus Vinicius Ribeiro,10644,Marcelo Gomide,L,0,Choke from back,Copa Podio,100KG,3RD,2019
+24985,10130,Marcus Vinicius Ribeiro,6631,Igor Schneider,L,0,"Pts: 0x0, Adv",Big Deal Pro,ABS,4F,2020
+26850,10130,Marcus Vinicius Ribeiro,11709,Wallace Costa,L,0,Referee Decision,Big Deal Pro 3,O100KG,4F,2021
+28097,10130,Marcus Vinicius Ribeiro,4521,Erberth Santos,L,0,"Pts: 8x8, Adv",Brasileiro,ABS,8F,2021
+28989,10130,Marcus Vinicius Ribeiro,8195,Gutemberg Pereira,L,0,"Pts: 2x2, Adv",BJJ Stars,100KG,SPF,2021
+29371,10130,Marcus Vinicius Ribeiro,11215,Harryson Pereira,L,0,Toe hold,JASC,N/A,4F,2021
+32199,10130,Marcus Vinicius Ribeiro,7507,Nicholas Meregali,L,0,Loop choke,Brasileiro,100KG,SF,2022
+33007,10130,Marcus Vinicius Ribeiro,11693,Erich Munis,L,0,Triangle,World Champ.,100KG,SF,2022
+34068,10130,Marcus Vinicius Ribeiro,12055,Yatan Bueno,L,0,Pts: 5x0,Grand Slam RJ,120KG,F,2022
+37245,10130,Marcus Vinicius Ribeiro,13053,Luis Oliveira,L,0,"Pts: 2x2, Adv",European Open,100KG,SF,2023
+40378,10130,Marcus Vinicius Ribeiro,10159,Victor Hugo,L,0,Triangle armbar,World Champ.,O100KG,F,2023
+40484,10130,Marcus Vinicius Ribeiro,,Paulo Merlin,L,0,"Pts: 0x0, Adv",World Champ.,ABS,8F,2023
+41293,10130,Marcus Vinicius Ribeiro,13053,Luis Oliveira,L,0,Pts: 8x2,SP BJJ Pro,O100KG,F,2023
+21738,10130,Marcus Vinicius Ribeiro,,Cleyton Flores,W,1,Pts: 14x0,Sao Paulo Open,100KG,4F,2019
+21739,10130,Marcus Vinicius Ribeiro,,Hugo Leonardo,W,1,Triangle,Sao Paulo Open,100KG,SF,2019
+22928,10130,Marcus Vinicius Ribeiro,,Maik Matos,W,1,"Pts: 0x0, Adv",Copa Podio,100KG,RR,2019
+22932,10130,Marcus Vinicius Ribeiro,11215,Harryson Pereira,W,1,Pts: 8x0,Copa Podio,100KG,RR,2019
+28086,10130,Marcus Vinicius Ribeiro,11685,Anderson Munis,W,1,"Pts: 0x0, Adv",Brasileiro,100KG,4F,2021
+28089,10130,Marcus Vinicius Ribeiro,11215,Harryson Pereira,W,1,"Pts: 0x0, Adv",Brasileiro,100KG,SF,2021
+28096,10130,Marcus Vinicius Ribeiro,,Paulo Otavio,W,1,Short choke,Brasileiro,ABS,R1,2021
+30150,10130,Marcus Vinicius Ribeiro,,Tyrone Goncalves,W,1,Choke from back,Sul Brasileiro,ABS,4F,2022
+30153,10130,Marcus Vinicius Ribeiro,11064,Rider Zuchi,W,1,RNC,Sul Brasileiro,ABS,SF,2022
+31588,10130,Marcus Vinicius Ribeiro,,Clay Mayfield,W,1,Points,Pan American,ABS,R2,2022
+31711,10130,Marcus Vinicius Ribeiro,,Marcos Carrozzino,W,1,Cross choke,Pan American,100KG,R1,2022
+31713,10130,Marcus Vinicius Ribeiro,9157,Devhonte Johnson,W,1,Choke from back,Pan American,100KG,4F,2022
+32121,10130,Marcus Vinicius Ribeiro,,Cleyton Flores,W,1,Pts: 15x0,Brasileiro,ABS,R1,2022
+32131,10130,Marcus Vinicius Ribeiro,10174,Rafael Paganini,W,1,"Pts: 0x0, Adv",Brasileiro,ABS,4F,2022
+32133,10130,Marcus Vinicius Ribeiro,,Diogo Nascimento,W,1,Pts: 4x0,Brasileiro,ABS,SF,2022
+32197,10130,Marcus Vinicius Ribeiro,,Wildemar Souza,W,1,Referee Decision,Brasileiro,100KG,4F,2022
+32999,10130,Marcus Vinicius Ribeiro,,Lucasz Michalec,W,1,Choke from back,World Champ.,100KG,8F,2022
+33002,10130,Marcus Vinicius Ribeiro,9157,Devhonte Johnson,W,1,Pts: 6x2,World Champ.,100KG,4F,2022
+33236,10130,Marcus Vinicius Ribeiro,,Henrique Eyroff,W,1,Mounted X choke,Floripa WO,100KG,SF,2022
+33243,10130,Marcus Vinicius Ribeiro,,Gabriel Azevedo,W,1,Armbar,Floripa WO,ABS,R1,2022
+33244,10130,Marcus Vinicius Ribeiro,,Miguel Curi,W,1,Referee Decision,Floripa WO,ABS,4F,2022
+33246,10130,Marcus Vinicius Ribeiro,13053,Luis Oliveira,W,1,Armbar,Floripa WO,ABS,SF,2022
+33247,10130,Marcus Vinicius Ribeiro,10817,Gabriel Henrique,W,1,Pts: 7x0,Floripa WO,ABS,F,2022
+34053,10130,Marcus Vinicius Ribeiro,,Diego Cardoso,W,1,Choke from back,Grand Slam RJ,120KG,R1,2022
+34059,10130,Marcus Vinicius Ribeiro,7537,Felipe Bezerra,W,1,Choke from back,Grand Slam RJ,120KG,8F,2022
+34063,10130,Marcus Vinicius Ribeiro,9741,Pedro Elias,W,1,Pts: 3x0,Grand Slam RJ,120KG,4F,2022
+34067,10130,Marcus Vinicius Ribeiro,11709,Wallace Costa,W,1,Pts: 1x0,Grand Slam RJ,120KG,SF,2022
+35438,10130,Marcus Vinicius Ribeiro,,Guilherme Gruber,W,1,Paper cutter choke,Curitiba SPO,O100KG,SF,2022
+35439,10130,Marcus Vinicius Ribeiro,,Henrique Eyrof,W,1,Armbar,Curitiba SPO,O100KG,F,2022
+35449,10130,Marcus Vinicius Ribeiro,,Vital Neto,W,1,Armbar,Curitiba SPO,ABS,SF,2022
+35451,10130,Marcus Vinicius Ribeiro,,Pedro Henrik,W,1,Choke from back,Curitiba SPO,ABS,F,2022
+37243,10130,Marcus Vinicius Ribeiro,13417,Vinicius Liberati,W,1,Choke from back,European Open,100KG,4F,2023
+40371,10130,Marcus Vinicius Ribeiro,,Pedro Melo,W,1,Paper cutter choke,World Champ.,O100KG,8F,2023
+40373,10130,Marcus Vinicius Ribeiro,,Roosevel Sousa,W,1,"Pts: 2x2, Adv",World Champ.,O100KG,4F,2023
+41290,10130,Marcus Vinicius Ribeiro,,Julian Stonjek,W,1,Armbar,SP BJJ Pro,O100KG,4F,2023
+41292,10130,Marcus Vinicius Ribeiro,11709,Wallace Costa,W,1,Choke from back,SP BJJ Pro,O100KG,SF,2023

@@ -1,0 +1,31 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21095,11044,Pedro Veras,8138,Hugo Marques,L,0,Pts: 4x2,BH Winter Open,82KG,4F,2019
+21200,11044,Pedro Veras,9067,Leonardo Lara,L,0,Footlock,Mundial CBJJE,82KG,F,2019
+21357,11044,Pedro Veras,8138,Hugo Marques,L,0,Pts: 11x4,Floripa WO,79KG,F,2019
+22755,11044,Pedro Veras,680,Igor Silva,L,0,"Pts: 2x2, Adv",Dublin Open,ABS,SF,2019
+22860,11044,Pedro Veras,,Athos Miranda,L,0,Referee Decision,NoGi Worlds,73KG,4F,2019
+22980,11044,Pedro Veras,11039,Flavio Vianna,L,0,Referee Decision,Grand Slam AD,77KG,4F,2020
+22987,11044,Pedro Veras,,Adriano Araujo,L,0,Pts: 4x0,Grand Slam AD,77KG,RPC,2020
+23102,11044,Pedro Veras,2035,Vitor Oliveira,L,0,"Pts: 2x2, Adv",European Open,76KG,SF,2020
+24561,11044,Pedro Veras,9876,Alef Brito,L,0,Referee Decision,American Nats,76KG,4F,2020
+36240,11044,Pedro Veras,,Jonatham Silva,L,0,Pts: 5x4,WP Qualifier,77KG,R1,2022
+43145,11044,Pedro Veras,11658,Lucas Gualberto,L,0,"Pts: 0x0, Adv",Salvador SPO,88KG,F,2023
+21094,11044,Pedro Veras,,Wellington Marques,W,1,Choke from back,BH Winter Open,82KG,R1,2019
+21198,11044,Pedro Veras,,Gustavo Fonseca,W,1,Points,Mundial CBJJE,82KG,SF,2019
+21356,11044,Pedro Veras,,Alexandre Carmusi,W,1,Choke from back,Floripa WO,79KG,SF,2019
+21726,11044,Pedro Veras,10932,Gustavo Maron,W,1,Pts: 20x4,Sao Paulo Open,82KG,4F,2019
+21728,11044,Pedro Veras,,Bruno Bressan,W,1,Kimura,Sao Paulo Open,82KG,SF,2019
+22669,11044,Pedro Veras,,Pedro Farias,W,1,Pts: 4x2,NYC Fall Open,76KG,SF,2019
+22680,11044,Pedro Veras,12372,Francisco Cuneo,W,1,Toe hold,NYC Fall NGO,73KG,SF,2019
+22681,11044,Pedro Veras,9309,Felipe Linhares,W,1,Points,NYC Fall NGO,73KG,F,2019
+22751,11044,Pedro Veras,,Joao Miller,W,1,Submission,Dublin Open,76KG,SF,2019
+22758,11044,Pedro Veras,,S. Magomedov,W,1,Points,Dublin NGO,73KG,SF,2019
+22759,11044,Pedro Veras,,Joao Miller,W,1,Katagatame,Dublin NGO,73KG,F,2019
+22857,11044,Pedro Veras,1436,Samir Chantre,W,1,Pts: 5x2,NoGi Worlds,73KG,R1,2019
+22979,11044,Pedro Veras,,Douglas Vieira,W,1,Pts: 4x0,Grand Slam AD,77KG,R1,2020
+23096,11044,Pedro Veras,,Tommi Pulkannen,W,1,Choke from back,European Open,76KG,R1,2020
+23099,11044,Pedro Veras,9440,Jeremy Jackson,W,1,Referee Decision,European Open,76KG,4F,2020
+23324,11044,Pedro Veras,,Rene Sousa,D,0.5,---,Para Bellum,ABS,SF,2020
+23331,11044,Pedro Veras,11707,Oliver Taza,D,0.5,---,Para Bellum,ABS,F,2020
+25154,11044,Pedro Veras,,R. Lopes,W,1,Cachecol choke,F2W 164,70KG,SPF,2021
+43144,11044,Pedro Veras,,Rodrigo Andrade,W,1,Armbar,Salvador SPO,88KG,SF,2023

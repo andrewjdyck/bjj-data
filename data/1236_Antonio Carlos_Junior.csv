@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2921,1236,Antonio Carlos Junior,247,Rodolfo Vieira,L,0,Points,World Pro.,92KG,SF,2011
+2931,1236,Antonio Carlos Junior,144,Andre Galvao,L,0,Points,World Pro.,ABS,4F,2011
+2988,1236,Antonio Carlos Junior,576,Rafael Lovato,L,0,Triangle,World Champ.,ABS,R2,2011
+3658,1236,Antonio Carlos Junior,425,Bernardo Faria,L,0,Pts: 10x5,Pan American,O100KG,F,2012
+3817,1236,Antonio Carlos Junior,84,Alexandre Ribeiro,L,0,Armbar,World Pro.,99KG,SF,2012
+3913,1236,Antonio Carlos Junior,1272,Leo Nogueira,L,0,Pts: 9x2,World Champ.,ABS,SF,2012
+11481,1236,Antonio Carlos Junior,6550,Gordon Ryan,L,0,Reverse triangle,Sapateiro 6,ABS,4F,2017
+18369,1236,Antonio Carlos Junior,9117,Hygor Brito,L,0,Pts: 2x0,South American,94KG,4F,2018
+2920,1236,Antonio Carlos Junior,425,Bernardo Faria,W,1,Triangle-armbar,World Pro.,92KG,4F,2011
+2964,1236,Antonio Carlos Junior,,Fabiano Boi,W,1,Pts: 2x0,Brasileiro,100KG,NA,2011
+2973,1236,Antonio Carlos Junior,,Ryan Beuregard,W,1,Pts: 6x2,World Champ.,ABS,R1,2011
+3122,1236,Antonio Carlos Junior,926,Roberto Alencar,W,1,Pts: 4x2,World Champ.,94KG,4F,2011
+3544,1236,Antonio Carlos Junior,1998,Ben Baxter,W,1,Choke,Pan American,ABS,R1,2012
+3551,1236,Antonio Carlos Junior,1188,Leandro Lo,W,1,Flying triangle,Pan American,ABS,R2,2012
+3559,1236,Antonio Carlos Junior,,Wander Costa,W,1,Verbal tap,Pan American,ABS,4F,2012
+3561,1236,Antonio Carlos Junior,425,Bernardo Faria,W,1,Pts: 4x2,Pan American,ABS,SF,2012
+3655,1236,Antonio Carlos Junior,,David Gill,W,1,Submission,Pan American,O100KG,4F,2012
+3657,1236,Antonio Carlos Junior,,Felipe Bueno,W,1,RNC,Pan American,O100KG,SF,2012
+3815,1236,Antonio Carlos Junior,6503,Marcel Fortuna,W,1,N/A,World Pro.,99KG,4F,2012
+3854,1236,Antonio Carlos Junior,911,Antonio Peinado,W,1,Kimura,Brasileiro,ABS,4F,2012
+3855,1236,Antonio Carlos Junior,320,Romulo Barral,W,1,Pts: 4x0,Brasileiro,ABS,SF,2012
+3904,1236,Antonio Carlos Junior,1188,Leandro Lo,W,1,"Pts: 2x2, Adv",World Champ.,ABS,R2,2012
+3909,1236,Antonio Carlos Junior,320,Romulo Barral,W,1,Pts: 2x0,World Champ.,ABS,4F,2012
+4117,1236,Antonio Carlos Junior,1827,James Puopolo,W,1,Points,World Champ.,100KG,R2,2012
+11473,1236,Antonio Carlos Junior,6419,Marcel Goncalves,W,1,EBI/OT,Sapateiro 6,ABS,R1,2017
+11672,1236,Antonio Carlos Junior,5649,Garry Tonon,W,1,Flying triangle,SUG 3,ABS,SPF,2017

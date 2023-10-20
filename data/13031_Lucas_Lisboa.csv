@@ -1,0 +1,48 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24931,13031,Lucas Lisboa,4460,Jaime Canuto,L,0,Armbar,South American,88KG,4F,2020
+26805,13031,Lucas Lisboa,11862,Pedro Alex,L,0,Ezekiel,Rio Winter Open,ABS,SF,2021
+27607,13031,Lucas Lisboa,10506,Jeferson Guaresi,L,0,Triangle Armbar,Pan American,88KG,8F,2021
+28148,13031,Lucas Lisboa,7831,Diego Ramalho,L,0,"Pts: 4x4, Adv",Charlotte Open,94KG,4F,2021
+28677,13031,Lucas Lisboa,,Lucas Laet,L,0,Choke from back,Nashville Open,88KG,F,2021
+29542,13031,Lucas Lisboa,5655,Lucas Barbosa,L,0,Referee Decision,World Champ.,88KG,8F,2021
+29975,13031,Lucas Lisboa,7399,Horlando Monteiro,L,0,Pts: 6x2,Austin WO,94KG,SF,2022
+30483,13031,Lucas Lisboa,10103,Jonnatas Gracie,L,0,"Pts: 2x2, Adv",Atlanta WO,ABS,SF,2022
+30510,13031,Lucas Lisboa,12506,Jansen Gomes,L,0,Referee Decision,N. Orleans Open,94KG,SF,2022
+30694,13031,Lucas Lisboa,9031,Kennedy Maciel,L,0,"Pts: 0x0, Adv",Miami WO,ABS,4F,2022
+30804,13031,Lucas Lisboa,,Austin Oranday,L,0,Points,Dallas Open,ABS,R1,2022
+31252,13031,Lucas Lisboa,5423,Matheus Diniz,L,0,"Pts: 0x0, Adv",Charleston Open,94KG,F,2022
+31585,13031,Lucas Lisboa,8686,Fellipe Trovo,L,0,RNC,Pan American,ABS,R2,2022
+31697,13031,Lucas Lisboa,5423,Matheus Diniz,L,0,Choke from back,Pan American,94KG,R1,2022
+32512,13031,Lucas Lisboa,,Marlon Ferreira,L,0,Pts: 6x4,Atlanta SPO,88KG,4F,2022
+32533,13031,Lucas Lisboa,12215,Sebastian Rodriguez,L,0,Armbar,Atlanta SPO,ABS,4F,2022
+32977,13031,Lucas Lisboa,12267,Lucas Norat,L,0,Choke from back,World Champ.,94KG,R1,2022
+34641,13031,Lucas Lisboa,12275,Davi Cabral,L,0,Kneebar,Grand Slam MIA,94KG,SF,2022
+34646,13031,Lucas Lisboa,11384,Andre Porfirio,L,0,Pts: 8x7,Grand Slam MIA,94KG,RPC,2022
+35901,13031,Lucas Lisboa,12069,Bruno Matias,L,0,N/A,Houston FO,88KG,SF,2022
+37568,13031,Lucas Lisboa,10162,Ronaldo Junior,L,0,Triangle,Atlanta WO,88KG,F,2023
+37588,13031,Lucas Lisboa,,Javier Barter,L,0,Toe hold,Atlanta WO,ABS,F,2023
+38421,13031,Lucas Lisboa,12215,Sebastian Rodriguez,L,0,Choke from back,Pan American,88KG,R1,2023
+40299,13031,Lucas Lisboa,12680,Enderson Dias,L,0,"Pts: 0x0, Adv",World Champ.,88KG,R1,2023
+25066,13031,Lucas Lisboa,,Matheus Galacio,W,1,RNC,Guarapari Pro,85KG,R1,2021
+25067,13031,Lucas Lisboa,,Bruno Tosto,W,1,Pts: 1x0,Guarapari Pro,85KG,4F,2021
+25068,13031,Lucas Lisboa,,Pedro Pimenta,W,1,Pts: 4x1,Guarapari Pro,85KG,SF,2021
+25069,13031,Lucas Lisboa,,Gustavo Borges,W,1,Pts: 2x1,Guarapari Pro,85KG,F,2021
+26801,13031,Lucas Lisboa,,Vítor Cheloni,W,1,Points,Rio Winter Open,ABS,4F,2021
+27852,13031,Lucas Lisboa,,Marlon Tanaka,W,1,Armbar,Atlanta SMOP,94KG,F,2021
+28676,13031,Lucas Lisboa,,Joao Braz,W,1,Armbar,Nashville Open,88KG,SF,2021
+30480,13031,Lucas Lisboa,,Orlando Baccino,W,1,Choke from back,Atlanta WO,ABS,4F,2022
+30796,13031,Lucas Lisboa,,Mo Asbahi,W,1,Armbar,Dallas Open,94KG,4F,2022
+31251,13031,Lucas Lisboa,,Juan Romero,W,1,Pts: 4x2,Charleston Open,94KG,SF,2022
+31580,13031,Lucas Lisboa,,Wildemar Matheus,W,1,Referee Decision,Pan American,ABS,R1,2022
+32527,13031,Lucas Lisboa,,Jae McIntosh,W,1,Pts: 11x2,Atlanta SPO,ABS,R1,2022
+34374,13031,Lucas Lisboa,,Marlon Tanaka,W,1,RNC,N. Orleans SMO,94KG,F,2022
+34532,13031,Lucas Lisboa,,Theodore Sanders,W,1,Armbar,Chicago SMO,94KG,F,2022
+34637,13031,Lucas Lisboa,,Italo Costa,W,1,Pts: 6x3,Grand Slam MIA,94KG,4F,2022
+35209,13031,Lucas Lisboa,6351,Alec Baulding,W,1,Toe hold,Atlanta FO,88KG,SF,2022
+35211,13031,Lucas Lisboa,10638,Angelo Claiborne,W,1,Referee Decision,Atlanta FO,88KG,F,2022
+35795,13031,Lucas Lisboa,10698,Matheus Godoy,W,1,Armbar,Miami FO,94KG,F,2022
+37567,13031,Lucas Lisboa,,Clay Mayfield,W,1,Pts: 18x0,Atlanta WO,88KG,SF,2023
+37582,13031,Lucas Lisboa,,Gustavo Estebam,W,1,Pts: 8x0,Atlanta WO,ABS,R1,2023
+37584,13031,Lucas Lisboa,,Clay Mayfield,W,1,"Pts: 0x0, Adv",Atlanta WO,ABS,4F,2023
+37798,13031,Lucas Lisboa,12215,Sebastian Rodriguez,W,1,Pts: x6,Tampa Open,88KG,F,2023
+38415,13031,Lucas Lisboa,,Andre Goes,W,1,"Pts: 0x0, Pen",Pan American,88KG,R1,2023

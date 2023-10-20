@@ -1,0 +1,44 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2900,260,Ary Farias,188,Augusto Mendes,L,0,Pts: 4x2,World Pro.,65KG,R1,2011
+3740,260,Ary Farias,5715,Isaque Paiva,L,0,Referee Decision,Gramado Trials,65KG,SF,2012
+3959,260,Ary Farias,1041,Laercio Fernandes,L,0,"Pts: 4x4, Adv",World Champ.,64KG,SF,2012
+4779,260,Ary Farias,2401,Gabriel Moraes,L,0,Adv,World Champ.,64KG,F,2013
+9940,260,Ary Farias,2999,Paulo Miyao,L,0,Pts: 4x2,World Champ.,64KG,F,2016
+12857,260,Ary Farias,6103,Isaac Doederlein,L,0,Adv,Las Vegas Open,70KG,F,2017
+13077,260,Ary Farias,5447,Mikey Musumeci,L,0,"Pts: 10x10, Adv",World Champ.,64KG,SF,2017
+16460,260,Ary Farias,5447,Mikey Musumeci,L,0,Pts: 4x0,World Champ.,64KG,F,2018
+16742,260,Ary Farias,2997,Joao Miyao,L,0,Points,ACBJJ 14,60KG,SPF,2018
+17691,260,Ary Farias,9465,Endres Barbosa,L,0,"Pts: 0x0, Adv",Brasileiro NoGi,73KG,SF,2018
+22804,260,Ary Farias,4328,AJ Agazarm,L,0,Referee Decision,F2W 133,70KG,SPF,2019
+29680,260,Ary Farias,1534,R. Evangelista,D,0.5,---,UFC Inv.,ABS,RR,2021
+2842,260,Ary Farias,,Ikuta Makoto,W,1,N/A,European,64KG,SF,2011
+2844,260,Ary Farias,283,Bruno Malfacine,W,1,Pts: 6x4,European,64KG,F,2011
+2938,260,Ary Farias,,Fernando Resende,W,1,Pts: 4x0,World P. NoGi,64KG,R1,2011
+2952,260,Ary Farias,1799,Leandro Martins,W,1,Points,Brasileiro,64KG,SF,2011
+2953,260,Ary Farias,2401,Gabriel Moraes,W,1,Pts: 2x0,Brasileiro,64KG,F,2011
+3009,260,Ary Farias,,Dai Yoshioka,W,1,Pts: 2x0,World Champ.,64KG,RDS,2011
+3104,260,Ary Farias,938,Pablo Silva,W,1,"Pts: 2x2, Adv",World Champ.,64KG,4F,2011
+3135,260,Ary Farias,1436,Samir Chantre,W,1,Pts: 3x0,World Champ.,64KG,SF,2011
+3937,260,Ary Farias,,Kouhel Ebashi,W,1,Botinha,World Champ.,64KG,R1,2012
+3948,260,Ary Farias,1019,Daniel Beleza,W,1,Botinha,World Champ.,64KG,R2,2012
+3955,260,Ary Farias,963,Carlos Esquisito,W,1,"Pts: 2x2, Adv",World Champ.,64KG,4F,2012
+4774,260,Ary Farias,1041,Laercio Fernandes,W,1,Pts: 6x0,World Champ.,64KG,4F,2013
+4777,260,Ary Farias,3348,Yukinori Sasa,W,1,Adv,World Champ.,64KG,SF,2013
+9414,260,Ary Farias,,Severi Nenonen,W,1,N/A,Rome Open,70KG,4F,2016
+9415,260,Ary Farias,9401,Ashley Williams,W,1,Pts: 14x6,Rome Open,70KG,SF,2016
+9881,260,Ary Farias,,Jose Gallardo,W,1,Choke from back,Miami SPO,70KG,F,2016
+9935,260,Ary Farias,2401,Gabriel Moraes,W,1,Pts: 2x0,World Champ.,64KG,4F,2016
+9938,260,Ary Farias,6151,Hiago George,W,1,Referee Decision,World Champ.,64KG,SF,2016
+12855,260,Ary Farias,,Jonathan Buren,W,1,N/A,Las Vegas Open,70KG,SF,2017
+12950,260,Ary Farias,,Orlando Silva Jr,W,1,Choke from back,San Diego Open,70KG,SF,2017
+12951,260,Ary Farias,9725,Fabbio Passos,W,1,Kneebar,San Diego Open,70KG,F,2017
+13068,260,Ary Farias,,Paulo Santana,W,1,Choke from back,World Champ.,64KG,8F,2017
+13073,260,Ary Farias,1436,Samir Chantre,W,1,Pts: 13x0,World Champ.,64KG,4F,2017
+16325,260,Ary Farias,,Kaio Cesar,W,1,N/A,San Diego Open,70KG,4F,2018
+16327,260,Ary Farias,,Jonathan Buren,W,1,N/A,San Diego Open,70KG,SF,2018
+16339,260,Ary Farias,5114,Joao Somalia,W,1,Kneebar,ACBJJ 13,60KG,SPF,2018
+16449,260,Ary Farias,,Eduardo Yezeguie,W,1,Estima lock,World Champ.,64KG,R1,2018
+16455,260,Ary Farias,,Rene Lopez,W,1,"Pts: 0x0, Adv",World Champ.,64KG,4F,2018
+16459,260,Ary Farias,2997,Joao Miyao,W,1,Pts: 2x0,World Champ.,64KG,SF,2018
+17683,260,Ary Farias,,Vitor Matos,W,1,Points,Brasileiro NoGi,73KG,8F,2018
+17690,260,Ary Farias,5926,Thiago Gaia,W,1,"Pts: 0x0, Pen",Brasileiro NoGi,73KG,4F,2018

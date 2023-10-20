@@ -1,0 +1,64 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+14158,12376,Rodrigo Francioni,8351,Joao Neto,L,0,Referee Decision,Bento Ribeiro Pro,LWA,SF,2017
+14764,12376,Rodrigo Francioni,,Luciano Bernert,L,0,"Pts: 0x0, Adv",Florianopolis Pro,LWA,F,2017
+17857,12376,Rodrigo Francioni,6366,Brian Mahecha,L,0,Armbar,Miami FO,76KG,SF,2018
+17863,12376,Rodrigo Francioni,12629,Fabricio Barbarotti,L,0,Omoplata,Miami FO,ABS,SF,2018
+19184,12376,Rodrigo Francioni,5414,Osvaldo Moizinho,L,0,Choke from back,Atlanta WO,76KG,F,2019
+19873,12376,Rodrigo Francioni,174,Bruno Frazatto,L,0,"Pts: 0x0, Adv",Orlando SPO,70KG,4F,2019
+20411,12376,Rodrigo Francioni,,Felipe Liborio,L,0,Crucifix choke,Atlanta SPO,70KG,4F,2019
+21415,12376,Rodrigo Francioni,11093,Emilio Hernandez,L,0,Kneebar,Las Vegas Open,70KG,R1,2019
+21579,12376,Rodrigo Francioni,4115,Fabio Caloi,L,0,Footlock,No Gi Pan Am.,73KG,4F,2019
+23182,12376,Rodrigo Francioni,,Andy Tackett,L,0,RNC,JitzKing,65KG,SF,2020
+25895,12376,Rodrigo Francioni,11248,Jonata Gomes,L,0,"Pts: 0x0, Adv",S. American NG,73KG,SF,2021
+26115,12376,Rodrigo Francioni,9934,Deandre Corbe,L,0,Referee Decision,NoGi Pan Am.,73KG,4F,2021
+28259,12376,Rodrigo Francioni,11512,Lukete Silva,L,0,Inside heel hook,NoGi Worlds,73KG,SF,2021
+29404,12376,Rodrigo Francioni,,Eduardo Bastezini,L,0,Pts: 2x1,Florianopolis Pro,69KG,4F,2021
+30014,12376,Rodrigo Francioni,11823,Diogo Reis,L,0,Referee Decision,ADCC BR1 Trials,66KG,4F,2022
+30223,12376,Rodrigo Francioni,,Rafael Montouro,L,0,"Pts: 0x0, Pen",ADCC BR2 Trials,66KG,4F,2022
+32552,12376,Rodrigo Francioni,9934,Deandre Corbe,L,0,"Pts: 0x0, Adv",Atlanta SPNGO,73KG,F,2022
+35530,12376,Rodrigo Francioni,9934,Deandre Corbe,L,0,RNC,NoGi Pan,73KG,4F,2022
+42391,12376,Rodrigo Francioni,,Lucas Brito,L,0,Referee Decision,Blue Collar,NA,SPF,2023
+43232,12376,Rodrigo Francioni,,Joao Oliveira,L,0,Referee Decision,NoGi Pan,73KG,4F,2023
+14156,12376,Rodrigo Francioni,,Andre Saraiva,W,1,Choke,Bento Ribeiro Pro,69KG,SF,2017
+14157,12376,Rodrigo Francioni,,Jorge Nakamura,W,1,Pts: 4x0,Bento Ribeiro Pro,69KG,F,2017
+14159,12376,Rodrigo Francioni,,Jorge Nakamura,W,1,Armbar,Bento Ribeiro Pro,LWA,3RD,2017
+14760,12376,Rodrigo Francioni,,Anderson Silva,W,1,Pts: 16x0,Florianopolis Pro,69KG,SF,2017
+14761,12376,Rodrigo Francioni,,J. Monguilhott,W,1,Pts: 6x0,Florianopolis Pro,69KG,F,2017
+14762,12376,Rodrigo Francioni,,Anderson Silva,W,1,Armbar,Florianopolis Pro,LWA,4F,2017
+14763,12376,Rodrigo Francioni,,A. Prazeres,W,1,Pts: 8x0,Florianopolis Pro,LWA,SF,2017
+14979,12376,Rodrigo Francioni,,Mauricio Gomez,W,1,Referee Decision,US National Pro,69KG,RR,2018
+14980,12376,Rodrigo Francioni,,Mauricio Gomez,W,1,Referee Decision,US National Pro,69KG,RR,2018
+14990,12376,Rodrigo Francioni,,Breno Lima,W,1,Pts: 3x0,BR National Pro,69KG,4F,2018
+14992,12376,Rodrigo Francioni,,Rodrigo Cardoso,W,1,"Pts: 0x0, Adv",BR National Pro,69KG,SF,2018
+14993,12376,Rodrigo Francioni,8525,Alexandre Vieira,W,1,"Pts: 0x0, Adv",BR National Pro,69KG,F,2018
+17843,12376,Rodrigo Francioni,8131,Adam Ferrara,W,1,Referee Decision,F2W 89,N/A,SPF,2018
+17855,12376,Rodrigo Francioni,,Giann Moramarco,W,1,Pts: 11x0,Miami FO,76KG,4F,2018
+19181,12376,Rodrigo Francioni,,Jeovany Ortiz,W,1,Pts: 7x0,Atlanta WO,76KG,4F,2019
+19183,12376,Rodrigo Francioni,,Jeffrey Cummings,W,1,Referee Decision,Atlanta WO,76KG,SF,2019
+19698,12376,Rodrigo Francioni,,Mauricio Gomez,W,1,Referee Decision,F2W 106,N/A,SPF,2019
+20473,12376,Rodrigo Francioni,,Adriano M.,W,1,Choke from back,Miami SPO,70KG,4F,2019
+20474,12376,Rodrigo Francioni,9064,Silvio Duran,W,1,Referee Decision,Miami SPO,70KG,SF,2019
+23177,12376,Rodrigo Francioni,,James Holland,W,1,Pts: 3x0,JitzKing,65KG,R1,2020
+23181,12376,Rodrigo Francioni,11093,Emilio Hernandez,W,1,Pts: 2x0,JitzKing,65KG,4F,2020
+23427,12376,Rodrigo Francioni,,N/A,W,1,Pts: 11x0,Miami WO,70KG,4F,2020
+23428,12376,Rodrigo Francioni,9064,Silvio Duran,W,1,Points,Miami WO,70KG,SF,2020
+24460,12376,Rodrigo Francioni,,Ed Hohl,W,1,Short choke,No Gi Pan Am.,73KG,R1,2020
+24464,12376,Rodrigo Francioni,,Frederico Alves,W,1,Pts: 4x0,No Gi Pan Am.,73KG,4F,2020
+24467,12376,Rodrigo Francioni,12372,Francisco Cuneo,W,1,Pts: 2x0,No Gi Pan Am.,73KG,SF,2020
+25036,12376,Rodrigo Francioni,,Andrew Franco,W,1,Referee Decision,F2W 160,N/A,SPF,2021
+25886,12376,Rodrigo Francioni,,Caio Silva,W,1,Katagatame,S. American NG,73KG,R1,2021
+25890,12376,Rodrigo Francioni,,Luis Ribas,W,1,"Pts: 0x0, Adv",S. American NG,73KG,4F,2021
+25987,12376,Rodrigo Francioni,,Matt Ferraiolo,W,1,Referee Decision,SUBVERSIV 5,N/A,SPF,2021
+26107,12376,Rodrigo Francioni,,Todd Walling,W,1,Pts: 32x0,NoGi Pan Am.,79KG,R1,2021
+28237,12376,Rodrigo Francioni,9931,Arthur Detanico,W,1,Pts: 3x0,NoGi Worlds,73KG,R2,2021
+28246,12376,Rodrigo Francioni,,Joao Albuquerque,W,1,Pts: 4x0,NoGi Worlds,73KG,8F,2021
+28256,12376,Rodrigo Francioni,12115,Kieran Kichuk,W,1,Referee Decision,NoGi Worlds,73KG,4F,2021
+30006,12376,Rodrigo Francioni,,Diego Paiva,W,1,Pts: 5x0,ADCC BR1 Trials,66KG,R1,2022
+30008,12376,Rodrigo Francioni,,Andres Duplat,W,1,Pts: 3x0,ADCC BR1 Trials,66KG,R2,2022
+30184,12376,Rodrigo Francioni,,Marcos Faria,W,1,Pts: 5x0,ADCC BR2 Trials,66KG,R1,2022
+30210,12376,Rodrigo Francioni,,Joao Ricardo,W,1,Pts: 3x0,ADCC BR2 Trials,66KG,R2,2022
+30218,12376,Rodrigo Francioni,,Eduardo Walisson,W,1,Pts: 2x0,ADCC BR2 Trials,66KG,8F,2022
+31262,12376,Rodrigo Francioni,,Andrew Pardee,W,1,N/A,Charleston NGO,73KG,F,2022
+32551,12376,Rodrigo Francioni,,Jeffrey Cummings,W,1,Pts: 4x0,Atlanta SPNGO,73KG,SF,2022
+35525,12376,Rodrigo Francioni,9931,Arthur Detanico,W,1,Pts: 8x0,NoGi Pan,73KG,8F,2022
+39279,12376,Rodrigo Francioni,,Lucas Brito,W,1,Pts: 6x3,Miami NGO,79KG,SF,2023

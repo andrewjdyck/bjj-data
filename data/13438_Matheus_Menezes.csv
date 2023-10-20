@@ -1,0 +1,4 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+41162,13438,Matheus Menezes,9361,Guilherme Cordiviola,L,0,Katagatame,American Nats,O100KG,F,2023
+41157,13438,Matheus Menezes,,Josh Guerra,W,1,Straight ankle lock,American Nats,O100KG,4F,2023
+41161,13438,Matheus Menezes,,Pedro Melo,W,1,Pts: 4x2,American Nats,O100KG,SF,2023

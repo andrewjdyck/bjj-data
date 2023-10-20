@@ -1,0 +1,41 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1936,788,Kron Gracie,138,Sergio Moraes,L,0,Arm in Ezekiel,World Champ.,82KG,R1,2008
+2175,788,Kron Gracie,875,Lucas Leite,L,0,Pts: 7x0,Pan American,82KG,F,2009
+2252,788,Kron Gracie,16,Marcelo Garcia,L,0,Guillotine,ADCC,77KG,4F,2009
+2340,788,Kron Gracie,875,Lucas Leite,L,0,Pts: 2x0,World Champ.,82KG,4F,2009
+2554,788,Kron Gracie,390,Abmar Barbosa,L,0,Pts: 11x0,Pan American,82KG,4F,2010
+2691,788,Kron Gracie,138,Sergio Moraes,L,0,"Pts: 4x4, Adv",World Champ.,82KG,RD,2010
+3150,788,Kron Gracie,446,Gilbert Burns,L,0,Pts: 9x2,World Champ.,76KG,F,2011
+3282,788,Kron Gracie,16,Marcelo Garcia,L,0,Pts: 2x0,ADCC,77KG,SF,2011
+3560,788,Kron Gracie,984,Marcus Almeida,L,0,Kneebar,Pan American,ABS,SF,2012
+3634,788,Kron Gracie,1617,Victor Estima,L,0,Pts: 6x2,Pan American,82KG,SF,2012
+3726,788,Kron Gracie,1137,Zak Maxwell,L,0,Pts: 4x0,SD World Trials,74KG,F,2012
+2104,788,Kron Gracie,,Pedro Bessa,W,1,Guillotine,European,82KG,SF,2009
+2105,788,Kron Gracie,,Yan Cabral,W,1,Choke from back,European,82KG,F,2009
+2165,788,Kron Gracie,,N. Phungephorn,W,1,Armbar,Pan American,82KG,8F,2009
+2172,788,Kron Gracie,390,Abmar Barbosa,W,1,Kneebar,Pan American,82KG,4F,2009
+2173,788,Kron Gracie,,Carlos Ferreira,W,1,Botinha,Pan American,82KG,SF,2009
+2245,788,Kron Gracie,,Erico Cocco,W,1,RNC,ADCC,77KG,R1,2009
+2549,788,Kron Gracie,,R. Costa,W,1,Armbar,Pan American,82KG,R1,2010
+3027,788,Kron Gracie,,Sergio Rodrigo,W,1,Guillotine,World Champ.,76KG,RDS,2011
+3036,788,Kron Gracie,921,Rafael Barbosa,W,1,Choke,World Champ.,76KG,RDS,2011
+3110,788,Kron Gracie,1188,Leandro Lo,W,1,Choke from back,World Champ.,76KG,4F,2011
+3138,788,Kron Gracie,122,Michael Langhi,W,1,Referee Decision,World Champ.,76KG,SF,2011
+3231,788,Kron Gracie,,Jason Manly,W,1,Guillotine,ADCC,77KG,R1,2011
+3265,788,Kron Gracie,484,Murilo Santana,W,1,"Pts: 0x0, Pen",ADCC,77KG,4F,2011
+3291,788,Kron Gracie,410,Claudio Calasans,W,1,Guillotine,ADCC,77KG,3PLC,2011
+3538,788,Kron Gracie,,David Gill,W,1,Choke,Pan American,ABS,R1,2012
+3554,788,Kron Gracie,1534,R. Evangelista,W,1,Botinha,Pan American,ABS,R2,2012
+3557,788,Kron Gracie,1617,Victor Estima,W,1,DQ,Pan American,ABS,4F,2012
+3624,788,Kron Gracie,,Carlos Ribeiro,W,1,Choke,Pan American,82KG,R2,2012
+3631,788,Kron Gracie,1014,Jake Mackenzie,W,1,Choke,Pan American,82KG,4F,2012
+3725,788,Kron Gracie,5365,Beneil Dariush,W,1,Referee Decision,SD World Trials,74KG,SF,2012
+4041,788,Kron Gracie,6158,Elan Santiago,W,1,Choke,World Champ.,82KG,R2,2012
+4054,788,Kron Gracie,5061,Gabriel Rollo,W,1,"Pts: 4x4, Adv",World Champ.,82KG,8F,2012
+4151,788,Kron Gracie,2107,Otavio Sousa,W,1,Armbar,Metamoris,ABS,SPF,2012
+4196,788,Kron Gracie,1617,Victor Estima,W,1,Points,World Expo,ABS,SPF,2012
+4470,788,Kron Gracie,1319,Shinya Aoki,W,1,Guillotine,Metamoris 2,ABS,SPF,2013
+4992,788,Kron Gracie,,Andy Wang,W,1,RNC,ADCC,77KG,R1,2013
+5002,788,Kron Gracie,5649,Garry Tonon,W,1,RNC,ADCC,77KG,4F,2013
+5003,788,Kron Gracie,967,JT Torres,W,1,Armbar,ADCC,77KG,SF,2013
+5005,788,Kron Gracie,2107,Otavio Sousa,W,1,Guillotine,ADCC,77KG,F,2013

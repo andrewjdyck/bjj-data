@@ -1,0 +1,11 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+30476,12842,Kristof Szucs,10698,Matheus Godoy,L,0,Referee Decision,Atlanta WO,94KG,F,2022
+32300,12842,Kristof Szucs,,Luke Griffith,L,0,Inside heel hook,ADCC EU Trials,99KG,4F,2022
+29801,12842,Kristof Szucs,,Hunter Brasfield,W,1,Armbar,WC Grappling,ABS,4F,2021
+29802,12842,Kristof Szucs,,Kaniela Kahuanui,W,1,Armbar,WC Grappling,ABS,SF,2021
+29803,12842,Kristof Szucs,,Ahmed White,W,1,Choke from back,WC Grappling,ABS,F,2021
+31280,12842,Kristof Szucs,,Lucas Pollard,W,1,Armbar,Boise Open,O100KG,RR,2022
+31281,12842,Kristof Szucs,12203,Austin Baker,W,1,Ezekiel,Boise Open,O100KG,F,2022
+32296,12842,Kristof Szucs,,Andrzej Iwat,W,1,RNC,ADCC EU Trials,99KG,R1,2022
+32298,12842,Kristof Szucs,,Julian Stonjek,W,1,Katagatame,ADCC EU Trials,99KG,R2,2022
+32638,12842,Kristof Szucs,,Italo Costa,W,1,Choke from back,Denver Open,100KG,F,2022

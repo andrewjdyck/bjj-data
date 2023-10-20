@@ -1,0 +1,67 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+18500,9741,Pedro Elias,6432,Yan Lucas,L,0,Referee Decision,Brasilia Open,ABS,4F,2018
+18929,9741,Pedro Elias,8974,Kaynan Duarte,L,0,Choke from back,European Open,94KG,SF,2019
+18946,9741,Pedro Elias,9515,Seif Houmine,L,0,Shoulder pressure,European Open,ABS,R1,2019
+19932,9741,Pedro Elias,6825,Fernando Reis,L,0,Referee Decision,Curitiba Pro,94KG,SF,2019
+20379,9741,Pedro Elias,7507,Nicholas Meregali,L,0,Choke from back,Brasileiro,ABS,4F,2019
+20682,9741,Pedro Elias,4960,Dimitrius Souza,L,0,Referee Decision,World Champ.,94KG,R1,2019
+22343,9741,Pedro Elias,7478,Adam Wardzinski,L,0,Pts: 9x0,Grand Slam RJ,94KG,SF,2019
+23032,9741,Pedro Elias,9230,Matheus Felipe,L,0,"Pts: 4x4, Pen",European Open,ABS,R1,2020
+23134,9741,Pedro Elias,10252,Fabio Alano,L,0,Referee Decision,European Open,94KG,R1,2020
+23655,9741,Pedro Elias,,Stan Varshavskiy,L,0,Referee Decision,Grand Slam LDN,94KG,4F,2020
+23660,9741,Pedro Elias,11111,Santeri Lilius,L,0,Pts: 6x5,Grand Slam LDN,94KG,RPC,2020
+24772,9741,Pedro Elias,10644,Marcelo Gomide,L,0,Pts: 4x1,Grand Slam RJ,120KG,8F,2020
+26840,9741,Pedro Elias,4960,Dimitrius Souza,L,0,Pts: 2x0,Big Deal Pro 3,94KG,SPF,2021
+28078,9741,Pedro Elias,7552,Isaque Bahiense,L,0,Pts: 2x0,Brasileiro,94KG,4F,2021
+28577,9741,Pedro Elias,4430,Patrick Gaudio,L,0,Pts: 2x1,Grand Slam RJ,94KG,4F,2021
+29924,9741,Pedro Elias,10880,Roberto Jimenez,L,0,Choke from back,Rio SMO,ABS,SF,2022
+31704,9741,Pedro Elias,4960,Dimitrius Souza,L,0,Choke from back,Pan American,94KG,4F,2022
+32099,9741,Pedro Elias,11215,Harryson Pereira,L,0,Pts: 3x0,SA Cont. Pro,94KG,RR,2022
+34063,9741,Pedro Elias,10130,Marcus Ribeiro,L,0,Pts: 3x0,Grand Slam RJ,120KG,4F,2022
+34069,9741,Pedro Elias,,Daniel Ribeiro,L,0,Kneebar,Grand Slam RJ,120KG,RPC,2022
+37249,9741,Pedro Elias,9515,Seif Houmine,L,0,Americana,European Open,O100KG,R1,2023
+38599,9741,Pedro Elias,,Daniel Conceicao,L,0,"Pts: 0x0, Adv",Rio Fall Open,O100KG,R1,2023
+39536,9741,Pedro Elias,,Antonio Neto,L,0,Referee Decision,Brasileiro,O100KG,R1,2023
+39554,9741,Pedro Elias,10159,Victor Hugo,L,0,Arm in Ezekiel,Brasileiro,ABS,8F,2023
+41854,9741,Pedro Elias,,Anderson Kauan,L,0,Choke from back,Vitoria Open,ABS,4F,2023
+41896,9741,Pedro Elias,,Antono Assef,L,0,"Pts: 0x0, Adv",Vitoria NGO,O97KG,F,2023
+18498,9741,Pedro Elias,,Richard Gonçalves,W,1,Pts: 6x0,Brasilia Open,100KG,SF,2018
+18550,9741,Pedro Elias,,Manoel Fernandes,W,1,N/A,BH Sp Open,94KG,SF,2018
+18553,9741,Pedro Elias,,Moises Fernandes,W,1,Armbar,BH Sp Open,ABS,R2,2018
+18556,9741,Pedro Elias,,Lucas Rocco,W,1,Triangle,BH Sp Open,ABS,4F,2018
+18557,9741,Pedro Elias,,Manuel Neto,W,1,Crucifix choke,BH Sp Open,ABS,SF,2018
+18559,9741,Pedro Elias,,Joao Soares,W,1,Crucifix choke,BH Sp Open,ABS,F,2018
+20362,9741,Pedro Elias,,Advilson Santos,W,1,Points,Brasileiro,ABS,R2,2019
+20375,9741,Pedro Elias,7399,Horlando Monteiro,W,1,Armlock,Brasileiro,ABS,R3,2019
+22337,9741,Pedro Elias,,Renan Gomes,W,1,Pts: 2x0,Grand Slam RJ,94KG,R1,2019
+22341,9741,Pedro Elias,10817,Gabriel Henrique,W,1,Choke,Grand Slam RJ,94KG,4F,2019
+22595,9741,Pedro Elias,,Cleyton Flores,W,1,"Pts: 0x0, Adv",South American,100KG,4F,2019
+22598,9741,Pedro Elias,,Wilson Almeida,W,1,Choke,South American,100KG,SF,2019
+23659,9741,Pedro Elias,,Luka Skoric,W,1,Pts: 11x0,Grand Slam LDN,94KG,RPC,2020
+24278,9741,Pedro Elias,,Edgar M.,W,1,Pts: 9x0,Brasileiro CBJJE,ABS,SF,2020
+24279,9741,Pedro Elias,9117,Hygor Brito,W,1,Pts: 2x0,Brasileiro CBJJE,ABS,F,2020
+24769,9741,Pedro Elias,7704,Helton Jose,W,1,Pts: 1x0,Grand Slam RJ,120KG,8F,2020
+28567,9741,Pedro Elias,,A. Mesquita,W,1,Pts: 2x0,Grand Slam RJ,94KG,R1,2021
+28574,9741,Pedro Elias,,Rafael Leite,W,1,Triangle,Grand Slam RJ,94KG,8F,2021
+28583,9741,Pedro Elias,,Lafayette Pinheiro,W,1,Pts: 2x1,Grand Slam RJ,94KG,RPC,2021
+29898,9741,Pedro Elias,,Caique Honorio,W,1,Arnbar,Rio SMO,94KG,4F,2022
+29900,9741,Pedro Elias,,Marcus Goulart,W,1,Pts: 5x0,Rio SMO,94KG,SF,2022
+29917,9741,Pedro Elias,,Pablo Almeida,W,1,Points,Rio SMO,ABS,R1,2022
+29923,9741,Pedro Elias,,Cleyton Flores,W,1,Points,Rio SMO,ABS,4F,2022
+30143,9741,Pedro Elias,,Tyrone Goncalves,W,1,"Pts: 0x0, Adv",Sul Brasileiro,94KG,SF,2022
+31032,9741,Pedro Elias,,Lafayette Pinheiro,W,1,"Pts: 0x0, Adv",Curitiba Open,94KG,4F,2022
+32100,9741,Pedro Elias,,Micael Koch,W,1,Pts: 2x1,SA Cont. Pro,94KG,RR,2022
+33599,9741,Pedro Elias,,Max Weslei,W,1,Pts: 4x0,Betim Open,100KG,SF,2022
+33600,9741,Pedro Elias,10644,Marcelo Gomide,W,1,Pts: 2x0,Betim Open,100KG,F,2022
+34058,9741,Pedro Elias,,Cleyton Flores,W,1,Triangle armbar,Grand Slam RJ,120KG,8F,2022
+39550,9741,Pedro Elias,,Reyson Neves,W,1,Triangle,Brasileiro,ABS,8F,2023
+40959,9741,Pedro Elias,,Elionai Julio,W,1,Referee Decision,Brasileiro CBJJE,ABS,SF,2023
+41289,9741,Pedro Elias,,Cleiton Almeida,W,1,Armbar,SP BJJ Pro,O100KG,R1,2023
+41840,9741,Pedro Elias,,Marcos Vinicius,W,1,Triangle,Vitoria Open,O100KG,4F,2023
+41844,9741,Pedro Elias,,Lawrence Luna,W,1,No arm triangle,Vitoria Open,O100KG,SF,2023
+41851,9741,Pedro Elias,,Marcos Vinicius,W,1,Pts: 4x2,Vitoria Open,ABS,8F,2023
+41894,9741,Pedro Elias,,Joao Ricardo,W,1,N/A,Vitoria NGO,O97KG,4F,2023
+42046,9741,Pedro Elias,,Gui Vilhalba,W,1,Triangle,Floripa WO,O100KG,SF,2023
+42781,9741,Pedro Elias,,Evandro Correa,W,1,Cross choke,Sul Americano,O100KG,R1,2023
+42784,9741,Pedro Elias,,Lawrence Lagos,W,1,Armbar,Sul Americano,O100KG,4F,2023
+42788,9741,Pedro Elias,,Cleyton Flores,W,1,Pts: 2x0,Sul Americano,O100KG,SF,2023

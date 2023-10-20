@@ -1,0 +1,28 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23866,12005,Kade Ruotolo,10880,Roberto Jimenez,L,0,Short choke,Kumite V,81KG,SF,2020
+26918,12005,Kade Ruotolo,10880,Roberto Jimenez,L,0,RNC,Road to ADCC,88KG,SPF,2021
+22695,12005,Kade Ruotolo,,J. Skinner,W,1,Darce choke,GrappleFest 7,70KG,SPF,2019
+23527,12005,Kade Ruotolo,9401,Ashley Williams,W,1,Referee Decision,Grapplefest 8,70KG,SPF,2020
+23750,12005,Kade Ruotolo,11223,Ethan Crelinsten,W,1,Referee Decision,WNO,72KG,SPF,2020
+23863,12005,Kade Ruotolo,2035,Vitor Oliveira,W,1,Referee Decision,Kumite V,81KG,4F,2020
+25962,12005,Kade Ruotolo,11223,Ethan Crelinsten,W,1,Darce choke,WNO 8,70KG,SPF,2021
+26606,12005,Kade Ruotolo,9150,Cole Franson,W,1,Buggy choke,WNO 10,74KG,SPF,2021
+27909,12005,Kade Ruotolo,10840,Diego Oliveira,W,1,Darce choke,WNO Champ.,70KG,4F,2021
+27911,12005,Kade Ruotolo,11568,Josh Cisneros,W,1,Injury,WNO Champ.,70KG,SF,2021
+27920,12005,Kade Ruotolo,9051,Gabriel Sousa,W,1,Darce choke,WNO Champ.,70KG,F,2021
+28816,12005,Kade Ruotolo,,Joel Smith,W,1,Darce choke,ADCC EC Trials,77KG,R2,2021
+28829,12005,Kade Ruotolo,,Joshua Dawson,W,1,Darce choke,ADCC EC Trials,77KG,R3,2021
+28844,12005,Kade Ruotolo,,Jeovany Ortiz,W,1,Pts: 9x0,ADCC EC Trials,77KG,R4,2021
+28858,12005,Kade Ruotolo,12115,Kieran Kichuk,W,1,Arm in RNC,ADCC EC Trials,77KG,R5,2021
+28865,12005,Kade Ruotolo,,Magid Hage,W,1,Pts: 5x0,ADCC EC Trials,77KG,4F,2021
+28869,12005,Kade Ruotolo,9344,PJ Barch,W,1,Pts: 2x0,ADCC EC Trials,77KG,SF,2021
+28871,12005,Kade Ruotolo,11771,William Tackett,W,1,Referee Decision,ADCC EC Trials,77KG,F,2021
+29314,12005,Kade Ruotolo,12491,Keith Krikorian,W,1,Referee Decision,GrappleFest,73KG,SPF,2021
+32836,12005,Kade Ruotolo,1319,Shinya Aoki,W,1,Referee Decision,One FC,NA,SPF,2022
+35022,12005,Kade Ruotolo,8682,Lachlan Giles,W,1,Armbar,ADCC,77KG,R1,2022
+35025,12005,Kade Ruotolo,10880,Roberto Jimenez,W,1,Inside heel hook,ADCC,77KG,4F,2022
+35029,12005,Kade Ruotolo,9344,PJ Barch,W,1,Armbar,ADCC,77KG,SF,2022
+35030,12005,Kade Ruotolo,12122,Mica Galvao,W,1,Inside heel hook,ADCC,77KG,F,2022
+35864,12005,Kade Ruotolo,,Uali Kurzhev,W,1,Inside heel hook,One FC,77KG,SPF,2022
+36717,12005,Kade Ruotolo,9002,Matheus Gabriel,W,1,Referee Decision,One FC,77KG,SPF,2022
+40521,12005,Kade Ruotolo,8105,Tommy Langaker,W,1,Referee Decision,One FC,77KG,SPF,2023

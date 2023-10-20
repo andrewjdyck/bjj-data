@@ -1,0 +1,65 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+30332,13076,Francisco Lo,10174,Rafael Paganini,L,0,Guillotine,ADCC BR2 Trials,88KG,R3,2022
+34021,13076,Francisco Lo,12671,Uanderson Ferreira,L,0,Referee Decision,Grand Slam RJ,85KG,8F,2022
+35189,13076,Francisco Lo,,Erick Diovano,L,0,Armbar,S Paulo NGO,ABS,F,2022
+35563,13076,Francisco Lo,5636,Manuel Ribamar,L,0,Pts: 6x4,NoGi Pan,85KG,SF,2022
+35920,13076,Francisco Lo,10295,Italo Moura,L,0,RNC,Houston FNGO,85KG,4F,2022
+36771,13076,Francisco Lo,11499,Roosevelt Sousa,L,0,Pts: 8x0,NoGi Worlds,ABS,4F,2022
+36867,13076,Francisco Lo,10103,Jonnatas Gracie,L,0,Pts: 9x0,NoGi Worlds,85KG,4F,2022
+37143,13076,Francisco Lo,10176,Bruno Lima,L,0,Pts: 2x0,European Open,ABS,R2,2023
+37224,13076,Francisco Lo,5756,Wellington Luis,L,0,Pts: 2x0,European Open,88KG,4F,2023
+37852,13076,Francisco Lo,10162,Ronaldo Junior,L,0,"Pts: 0x0, Adv",IBJJF GP,88KG,SPF,2023
+38440,13076,Francisco Lo,8357,Gustavo Batista,L,0,Katagatame,Pan American,88KG,SF,2023
+39804,13076,Francisco Lo,,Shane Fishman,L,0,Choke from back,Denver Open,88KG,F,2023
+41238,13076,Francisco Lo,,Helton Jr,L,0,DQ,American NNG,ABS,SF,2023
+41607,13076,Francisco Lo,,Dan Manasoiu,L,0,Smother,Sub Hunter 84,ABS,4F,2023
+41708,13076,Francisco Lo,11862,Pedro Alex,L,0,Points,Dallas SMO,ABS,SF,2023
+42376,13076,Francisco Lo,7507,Nicholas Meregali,L,0,Smother,IBJJF GP,ABS,4F,2023
+43188,13076,Francisco Lo,11027,Pedro Rocha,L,0,"Pts: 2x2, Adv",NoGi Pan,ABS,4F,2023
+30305,13076,Francisco Lo,,Paulo Figueiredo,W,1,Referee Decision,ADCC BR2 Trials,88KG,R2,2022
+35134,13076,Francisco Lo,,Carlos Barbosa,W,1,Submission,SP Open,82KG,R1,2022
+35138,13076,Francisco Lo,,Henrique Nobrega,W,1,Pts: 7x0,SP Open,82KG,4F,2022
+35143,13076,Francisco Lo,13269,Lucas Foguinho,W,1,Points,SP Open,82KG,SF,2022
+35144,13076,Francisco Lo,11658,Lucas Gualberto,W,1,Triangle,SP Open,82KG,F,2022
+35182,13076,Francisco Lo,10669,Lucas Alves,W,1,Armlock,S Paulo NGO,85KG,4F,2022
+35183,13076,Francisco Lo,,Gabriel Machado,W,1,Pts: 3x0,S Paulo NGO,85KG,SF,2022
+35184,13076,Francisco Lo,,Javier Valenciano,W,1,Pts: 10x0,S Paulo NGO,85KG,F,2022
+35187,13076,Francisco Lo,,Felipe Nacib,W,1,Pts: 25x0,S Paulo NGO,ABS,4F,2022
+35188,13076,Francisco Lo,,Jhoannan Vielma,W,1,Short choke,S Paulo NGO,ABS,SF,2022
+35555,13076,Francisco Lo,11707,Oliver Taza,W,1,Armlock,NoGi Pan,85KG,8F,2022
+35560,13076,Francisco Lo,12566,Rodrigo Tatu,W,1,Kneebar,NoGi Pan,85KG,4F,2022
+35899,13076,Francisco Lo,11960,Joao Cizeski,W,1,Calf slicer,Houston FO,88KG,4F,2022
+35900,13076,Francisco Lo,6432,Yan Lucas,W,1,Triangle,Houston FO,88KG,SF,2022
+35902,13076,Francisco Lo,12069,Bruno Matias,W,1,Toe hold,Houston FO,88KG,F,2022
+36758,13076,Francisco Lo,,Jhoannan Vielma,W,1,RNC,NoGi Worlds,ABS,R1,2022
+36767,13076,Francisco Lo,7478,Adam Wardzinski,W,1,Triangle,NoGi Worlds,ABS,8F,2022
+36859,13076,Francisco Lo,,Clay Mayfield,W,1,Pts: 5x0,NoGi Worlds,85KG,8F,2022
+37131,13076,Francisco Lo,,Jose Pessoa,W,1,"Pts: 7x7, Adv",European Open,ABS,R1,2023
+38423,13076,Francisco Lo,8996,Mauricio Oliveira,W,1,Kneebar,Pan American,88KG,R1,2023
+38432,13076,Francisco Lo,12243,Leon Brito,W,1,"Pts: 2x2, Adv",Pan American,88KG,8F,2023
+38437,13076,Francisco Lo,12215,Sebastian Rodriguez,W,1,Pts: 2x2,Pan American,88KG,4F,2023
+39803,13076,Francisco Lo,,Marlon Tanaka,W,1,No arm triangle,Denver Open,88KG,SF,2023
+39815,13076,Francisco Lo,12267,Lucas Norat,W,1,Pts: 2x0,Denver Open,ABS,SF,2023
+39816,13076,Francisco Lo,12652,Marcelo Fausto,W,1,Pts: 2x0,Denver Open,ABS,F,2023
+39835,13076,Francisco Lo,,Thiago Aso,W,1,Submission,Denver NGO,85KG,SF,2023
+39836,13076,Francisco Lo,,Shane Fishman,W,1,Points,Denver NGO,85KG,F,2023
+39843,13076,Francisco Lo,,Bryce Sexton,W,1,Submission,Denver NGO,ABS,SF,2023
+39845,13076,Francisco Lo,7519,Eliot Kelly,W,1,Kneebar,Denver NGO,ABS,F,2023
+39873,13076,Francisco Lo,,Matheus Oliveira,W,1,N/A,Houston Open,88KG,SF,2023
+39875,13076,Francisco Lo,5636,Manuel Ribamar,W,1,Pts: 3x0,Houston Open,88KG,F,2023
+40027,13076,Francisco Lo,11771,William Tackett,W,1,Referee Decision,WNO 18,84KG,SPF,2023
+40311,13076,Francisco Lo,,Sean Fishman,W,1,DQ,World Champ.,88KG,R1,2023
+40313,13076,Francisco Lo,5756,Wellington Luis,W,1,Pts: 4x2,World Champ.,88KG,8F,2023
+41218,13076,Francisco Lo,,Joshua Quinlan,W,1,Inside heel hook,American NNG,83KG,4F,2023
+41219,13076,Francisco Lo,,Tyler Freeman,W,1,Referee Decision,American NNG,83KG,SF,2023
+41220,13076,Francisco Lo,,Clay Mayfield,W,1,Calf slicer,American NNG,83KG,F,2023
+41236,13076,Francisco Lo,,Clay Mayfield,W,1,Kneebar,American NNG,ABS,4F,2023
+41699,13076,Francisco Lo,,Rafael Silva,W,1,Toe hold,Dallas SMO,94KG,F,2023
+41705,13076,Francisco Lo,,Marlon Tanaka,W,1,Straight ankle lock,Dallas SMO,ABS,4F,2023
+41716,13076,Francisco Lo,6354,Jonathan Satava,W,1,Pts: 2x0,Dallas SNGO,ABS,SF,2023
+41718,13076,Francisco Lo,13487,Marco Mendes,W,1,Toe hold,Dallas SNGO,ABS,F,2023
+43185,13076,Francisco Lo,12236,Joao Costa,W,1,Inside heel hook,NoGi Pan,ABS,8F,2023
+43264,13076,Francisco Lo,,Joel Silva,W,1,Terra lock,NoGi Pan,85KG,R1,2023
+43269,13076,Francisco Lo,,Shane Fishman,W,1,Leglock,NoGi Pan,85KG,4F,2023
+43271,13076,Francisco Lo,13162,Jacob Couch,W,1,Estima lock,NoGi Pan,85KG,SF,2023
+43273,13076,Francisco Lo,,Clay Mayfield,W,1,Referee Decision,NoGi Pan,85KG,F,2023

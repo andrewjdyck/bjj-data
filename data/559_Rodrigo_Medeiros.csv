@@ -1,0 +1,48 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+268,559,Rodrigo Medeiros,627,Murilo Bustamante,L,0,Pts: 2x0,Brasileiro,ABS,4F,1999
+396,559,Rodrigo Medeiros,93,Ricardo Arona,L,0,Pts: 2x0,World Champ.,94KG,SF,2000
+445,559,Rodrigo Medeiros,,Jeff Monson,L,0,Pts: 2x0,ADCC,99KG,4F,2000
+464,559,Rodrigo Medeiros,,Tito Ortiz,L,0,Pts: 2x0,ADCC,ABS,SF,2000
+465,559,Rodrigo Medeiros,278,Ricardo Almeida,L,0,Pts: 5x0,ADCC,ABS,3PLC,2000
+583,559,Rodrigo Medeiros,86,Fernando Margarida,L,0,Pts: 13x8,World Champ.,ABS,SF,2001
+601,559,Rodrigo Medeiros,322,Fabio Gurgel,L,0,Points,World Champ.,94KG,F,2001
+700,559,Rodrigo Medeiros,10430,Gabriel Gonzaga,L,0,Pts: 9x0,World Champ.,ABS,4F,2002
+715,559,Rodrigo Medeiros,4864,Alexandre Dantas,L,0,Points,Pan American,100KG,SF,2002
+794,559,Rodrigo Medeiros,481,Saulo Ribeiro,L,0,Pts: 2x0,ADCC,88KG,4F,2003
+818,559,Rodrigo Medeiros,,A. Cacareco,L,0,Guillotine,ADCC,ABS,R2,2003
+860,559,Rodrigo Medeiros,1297,Roger Coelho,L,0,Points,World Champ.,94KG,SF,2003
+1060,559,Rodrigo Medeiros,505,Roger Gracie,L,0,RNC,World Champ.,100KG,F,2004
+1313,559,Rodrigo Medeiros,84,Alexandre Ribeiro,L,0,Armbar,World Champ.,100KG,SF,2005
+1454,559,Rodrigo Medeiros,505,Roger Gracie,L,0,Armbar,World Champ.,100KG,SF,2006
+1595,559,Rodrigo Medeiros,224,Roberto Abreu,L,0,Pts: 8x0,Brasileiro,100KG,SF,2007
+1767,559,Rodrigo Medeiros,505,Roger Gracie,L,0,Cross choke,World Champ.,100KG,SF,2007
+2360,559,Rodrigo Medeiros,425,Bernardo Faria,L,0,Pts: 5x2,World Champ.,100KG,R1,2009
+4144,559,Rodrigo Medeiros,1757,Alexander Trans,L,0,"Pts: 2x2, Adv",World Champ.,O100KG,4F,2012
+5873,559,Rodrigo Medeiros,481,Saulo Ribeiro,D,0.5,---,Metamoris 4,ABS,SPF,2014
+6067,559,Rodrigo Medeiros,8560,Gabriel Lucas,L,0,Referee Decision,NoGi Worlds,O100KG,SF,2014
+7597,559,Rodrigo Medeiros,505,Roger Gracie,L,0,Armbar,UFC Expo,ABS,SPF,2015
+301,559,Rodrigo Medeiros,232,Mario Sperry,W,1,Adv,World Champ.,ABS,SF,1999
+302,559,Rodrigo Medeiros,550,Roberto Roleta,W,1,Toe hold,World Champ.,ABS,F,1999
+380,559,Rodrigo Medeiros,12,Nino Schembri,W,1,Kimura,World Champ.,ABS,4F,2000
+382,559,Rodrigo Medeiros,86,Fernando Margarida,W,1,Pts: 2x0,World Champ.,ABS,F,2000
+442,559,Rodrigo Medeiros,1994,Travis Lutter,W,1,Pts: 2x0,ADCC,99KG,R1,2000
+460,559,Rodrigo Medeiros,550,Roberto Roleta,W,1,Pts: 10x0,ADCC,ABS,R1,2000
+477,559,Rodrigo Medeiros,384,Roberto Tozi,W,1,Choke from back,Rio x Sao Paulo,100KG,SPF,2000
+695,559,Rodrigo Medeiros,,Carlos Francis,W,1,Pts: 3x0,World Champ.,ABS,R1,2002
+789,559,Rodrigo Medeiros,,Nathan Marquardt,W,1,Pts: 2x0,ADCC,88KG,R1,2003
+858,559,Rodrigo Medeiros,601,Roberto Godoi,W,1,Footlock,World Champ.,94KG,4F,2003
+1025,559,Rodrigo Medeiros,,Felipe Cranivata,W,1,Points,Team Nationals,O88KG,F,2004
+1310,559,Rodrigo Medeiros,384,Roberto Tozi,W,1,Points,World Champ.,100KG,4F,2005
+1451,559,Rodrigo Medeiros,,Ismael Mota,W,1,Pts: 3x2,World Champ.,100KG,4F,2006
+1478,559,Rodrigo Medeiros,378,Robert Drysdale,W,1,Points,World Cup,100KG,F,2006
+1505,559,Rodrigo Medeiros,,Mauro Santos,W,1,Kimura,Brasileiro,100KG,F,2006
+1627,559,Rodrigo Medeiros,,Dimitri Mavragani,W,1,Bicep slicer,Pan American,O100KG,4F,2007
+1629,559,Rodrigo Medeiros,,James Foster,W,1,Pen,Pan American,O100KG,SF,2007
+1630,559,Rodrigo Medeiros,,Bruno Rodrigues,W,1,"Pts: 0x0, Adv",Pan American,O100KG,F,2007
+1798,559,Rodrigo Medeiros,,Jose Eduardo,W,1,Points,NoGi Pan Am.,O100KG,SF,2007
+2864,559,Rodrigo Medeiros,,Unknown,W,1,Armbar,European,O100KG,4F,2011
+2865,559,Rodrigo Medeiros,,Felipe Pereira,W,1,Toe hold,European,O100KG,SF,2011
+3395,559,Rodrigo Medeiros,,Marcus Larrieu,W,1,Bicep slicer,Chicago Open,O100KG,F,2011
+4140,559,Rodrigo Medeiros,,Kitner Moura,W,1,N/A,World Champ.,O100KG,R2,2012
+5518,559,Rodrigo Medeiros,,Kristan Magers,W,1,Pts: 19x0,FIVE Illinois,O100KG,F,2014
+6063,559,Rodrigo Medeiros,,Tom DeBass,W,1,Pts: 2x0,NoGi Worlds,O100KG,4F,2014

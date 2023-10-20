@@ -1,0 +1,61 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2610,5909,Thiago Abreu,446,Gilbert Burns,L,0,Pts: 2x0,No Gi Worlds,79KG,4F,2010
+3385,5909,Thiago Abreu,1617,Victor Estima,L,0,Estima lock,No Gi Worlds,82KG,F,2011
+3632,5909,Thiago Abreu,410,Claudio Calasans,L,0,Armbar,Pan American,82KG,4F,2012
+3746,5909,Thiago Abreu,1386,Davi Ramos,L,0,Points,Gramado Trials,75KG,F,2012
+4024,5909,Thiago Abreu,358,Lucas Lepri,L,0,Ezekiel,World Champ.,76KG,SF,2012
+4236,5909,Thiago Abreu,2035,Vitor Oliveira,L,0,Guillotine,NoGi Worlds,82KG,4F,2012
+5233,5909,Thiago Abreu,443,Claudio Mattos,L,0,Pts: 5x0,World Pro Trial,76KG,F,2014
+6812,5909,Thiago Abreu,4465,Andris Brunovskis,L,0,"Pts: 0x0, Adv",Pan American,76KG,4F,2015
+6989,5909,Thiago Abreu,1386,Davi Ramos,L,0,Pts: 4x0,ADCC RJ,77KG,SF,2015
+7062,5909,Thiago Abreu,5926,Thiago Gaia,L,0,Referee Decision,ADCC SP,77KG,4F,2015
+7649,5909,Thiago Abreu,5078,Luan Carvalho,L,0,Adv,Brazil Nat. Pro RJ,76KG,R1,2015
+8422,5909,Thiago Abreu,122,Michael Langhi,L,0,"Pts: 0x0, Adv",NoGi Worlds,73KG,SF,2015
+8936,5909,Thiago Abreu,,Sam Gibson,L,0,DQ,European Open,76KG,4F,2016
+9267,5909,Thiago Abreu,6095,Mansher Khera,L,0,Pts: 6x2,Pan American,76KG,8F,2016
+9975,5909,Thiago Abreu,6095,Mansher Khera,L,0,Pts: 2x0,World Champ.,76KG,R1,2016
+10568,5909,Thiago Abreu,7672,Caio Almeida,L,0,Ezekiel,Sao Paulo Open,76KG,R1,2016
+11752,5909,Thiago Abreu,5061,Gabriel Rollo,L,0,Guillotine,ADCC RJ,77KG,4F,2017
+12425,5909,Thiago Abreu,7256,Jan Buatim,L,0,Referee Decision,Floripa Fall Open,76KG,4F,2017
+13106,5909,Thiago Abreu,6596,Jhonny Loureiro,L,0,Pts: 4x0,World Champ.,76KG,R1,2017
+13669,5909,Thiago Abreu,5238,Edwin Najmi,L,0,Darce choke,ACBJJ 7,75KG,4F,2017
+16230,5909,Thiago Abreu,6596,Jhonny Loureiro,L,0,Pts: 4x2,Brasileiro,76KG,4F,2018
+3355,5909,Thiago Abreu,484,Murilo Santana,W,1,Guillotine,No Gi Worlds,82KG,4F,2011
+3621,5909,Thiago Abreu,,Stefan Stoianov,W,1,N/A,Pan American,82KG,R1,2012
+3628,5909,Thiago Abreu,2035,Vitor Oliveira,W,1,Points,Pan American,82KG,R2,2012
+3743,5909,Thiago Abreu,7865,Tiago Rocha,W,1,Choke from back,Gramado Trials,75KG,SF,2012
+4001,5909,Thiago Abreu,,John Rickel,W,1,N/A,World Champ.,76KG,R1,2012
+4016,5909,Thiago Abreu,,Philipe Monica,W,1,Kneebar,World Champ.,76KG,R3,2012
+4021,5909,Thiago Abreu,1600,Vinicius Marinho,W,1,Botinha,World Champ.,76KG,4F,2012
+4360,5909,Thiago Abreu,,Charles do Bronx,W,1,Guillotine,Fighters 98,ABS,SPF,2013
+5231,5909,Thiago Abreu,1178,Theodoro Canal,W,1,Points,World Pro Trial,76KG,SF,2014
+6038,5909,Thiago Abreu,7096,Josh Hinger,W,1,Footlock,NoGi Worlds,79KG,4F,2014
+6040,5909,Thiago Abreu,7247,Enrico Cocco,W,1,Pts: 2x0,NoGi Worlds,79KG,SF,2014
+6810,5909,Thiago Abreu,5930,Rodrigo Freitas,W,1,Toe hold,Pan American,76KG,R2,2015
+6984,5909,Thiago Abreu,4851,Kim Terra,W,1,Heel hook,ADCC RJ,77KG,R2,2015
+7058,5909,Thiago Abreu,,Thiago Mageste,W,1,Guillotine,ADCC SP,77KG,R1,2015
+7834,5909,Thiago Abreu,,Ricardo Rocha,W,1,Botinha,SP Open,76KG,F,2015
+7863,5909,Thiago Abreu,,Marco Queiroz,W,1,N/A,SP Open NoGi,74KG,SF,2015
+7864,5909,Thiago Abreu,4115,Fabio Caloi,W,1,Points,SP Open NoGi,74KG,F,2015
+8411,5909,Thiago Abreu,,Marcus Wilson,W,1,Footlock,NoGi Worlds,73KG,8F,2015
+8418,5909,Thiago Abreu,4115,Fabio Caloi,W,1,Botinha,NoGi Worlds,73KG,4F,2015
+8928,5909,Thiago Abreu,,Pedro Mendonca,W,1,Botinha,European Open,76KG,R1,2016
+9416,5909,Thiago Abreu,,Gyula Szabó,W,1,N/A,Rome Open,76KG,4F,2016
+9417,5909,Thiago Abreu,,Douglas Barcelos,W,1,N/A,Rome Open,76KG,SF,2016
+9428,5909,Thiago Abreu,,Ralf Carneborn,W,1,Footlock,European NoGi,76KG,SF,2016
+9429,5909,Thiago Abreu,,Gyula Szabó,W,1,Submission,European NoGi,76KG,F,2016
+9972,5909,Thiago Abreu,1824,Roberto Satoshi,W,1,Botinha,World Champ.,76KG,R1,2016
+10725,5909,Thiago Abreu,,Paulo Cota,W,1,Botinha,Floripa Open,76KG,SF,2016
+10726,5909,Thiago Abreu,4115,Fabio Caloi,W,1,Adv,Floripa Open,76KG,F,2016
+11743,5909,Thiago Abreu,,Sérgio Filho,W,1,Points,ADCC RJ,77KG,R1,2017
+11747,5909,Thiago Abreu,,Leonardo Nogueira,W,1,Heel hook,ADCC RJ,77KG,R2,2017
+14048,5909,Thiago Abreu,,Bernardo Dib,W,1,Submission,Brasileiro NoGi,73KG,R1,2017
+14050,5909,Thiago Abreu,,Ricardo Rocha,W,1,N/A,Brasileiro NoGi,73KG,4F,2017
+14052,5909,Thiago Abreu,,Luciano Bernert,W,1,N/A,Brasileiro NoGi,73KG,SF,2017
+14054,5909,Thiago Abreu,177,Rany Yahya,W,1,Guillotine,Brasileiro NoGi,73KG,F,2017
+16216,5909,Thiago Abreu,,Lucas Barros,W,1,Footlock,Brasileiro,76KG,R1,2018
+16223,5909,Thiago Abreu,,Joao Alves,W,1,Footlock,Brasileiro,76KG,R2,2018
+16224,5909,Thiago Abreu,,Vitor Matos,W,1,RNC,Brasileiro,76KG,8F,2018
+17684,5909,Thiago Abreu,,Ricardo Rocha,W,1,N/A,Brasileiro NoGi,73KG,8F,2018
+17689,5909,Thiago Abreu,,Caio Nunes,W,1,N/A,Brasileiro NoGi,73KG,4F,2018
+17692,5909,Thiago Abreu,,Daniel Seth,W,1,N/A,Brasileiro NoGi,73KG,SF,2018

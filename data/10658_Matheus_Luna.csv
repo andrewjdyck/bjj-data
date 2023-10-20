@@ -1,0 +1,50 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21555,10658,Matheus Luna,5417,Guilherme Augusto,L,0,Pts: 4x2,Dallas SMO,ABS,F,2019
+21759,10658,Matheus Luna,10162,Ronaldo Junior,L,0,Referee Decision,F2W 126,84KG,SPF,2019
+23849,10658,Matheus Luna,3009,Keenan Cornelius,L,0,Referee Decision,F2W 148,91KG,SPF,2020
+24195,10658,Matheus Luna,2107,Otavio Sousa,L,0,Pts: 4x0,Pan American,88KG,F,2020
+24281,10658,Matheus Luna,10240,Jake Watson,L,0,Referee Decision,F2W 155,88KG,SPF,2020
+24538,10658,Matheus Luna,8686,Fellipe Trovo,L,0,Referee Decision,F2W 158,92KG,SPF,2020
+24871,10658,Matheus Luna,11223,Ethan Crelinsten,L,0,EBI/OT,TMS GP,83KG,F,2020
+25103,10658,Matheus Luna,11991,Pedro Marinho,L,0,Referee Decision,F2W 163,88KG,SPF,2021
+25423,10658,Matheus Luna,5747,AJ Sousa,L,0,Pts: 2x0,Orlando Open,88KG,SF,2021
+25440,10658,Matheus Luna,4655,Michael Liera,L,0,Pts: 4x2,Orlando Open,ABS,SF,2021
+25855,10658,Matheus Luna,10103,Jonnatas Gracie,L,0,Referee Decision,F2W 170,83KG,SPF,2021
+25950,10658,Matheus Luna,11697,Tainan Dalpra,L,0,Armbar,Artista JJ,N/A,SPF,2021
+27195,10658,Matheus Luna,5347,Yago Souza,L,0,Referee Decision,F2W 180,83KG,SPF,2021
+29144,10658,Matheus Luna,11766,Gabriel Costa,L,0,Pts: 4x1,BRA Qualifiers,85KG,4F,2021
+29538,10658,Matheus Luna,,Nathan Santos,L,0,Referee Decision,World Champ.,88KG,R1,2021
+31586,10658,Matheus Luna,11709,Wallace Costa,L,0,"Pts: 0x0, Adv",Pan American,ABS,R2,2022
+31690,10658,Matheus Luna,6432,Yan Lucas,L,0,"Pts: 2x2, Adv",Pan American,88KG,4F,2022
+31993,10658,Matheus Luna,11960,Joao Cizeski,L,0,Points,Nashville Open,88KG,SF,2022
+32000,10658,Matheus Luna,1757,Alexander Trans,L,0,Pts: 9x0,Nashville Open,ABS,SF,2022
+32008,10658,Matheus Luna,,Austin Oranday,L,0,N/A,Nashville NGO,ABS,SF,2022
+32968,10658,Matheus Luna,10176,Bruno Lima,L,0,DQ,World Champ.,88KG,8F,2022
+41648,10658,Matheus Luna,11766,Gabriel Costa,L,0,Referee Decision,Phoenix Open,ABS,R1,2023
+21548,10658,Matheus Luna,,Damien Nitkin,W,1,Choke,Dallas SMO,94KG,F,2019
+21549,10658,Matheus Luna,,Rennik Kama,W,1,Choke,Dallas SMO,ABS,R1,2019
+21553,10658,Matheus Luna,8477,Igor Paiva,W,1,Pts: 3x0,Dallas SMO,ABS,SF,2019
+21925,10658,Matheus Luna,,Bruno Borges,W,1,Cross choke,Lisbon Open,82KG,SF,2019
+21926,10658,Matheus Luna,,Alberto Guzman,W,1,Shoulder lock,Lisbon Open,82KG,F,2019
+21930,10658,Matheus Luna,10176,Bruno Lima,W,1,Pts: 6x2,Lisbon Open,ABS,4F,2019
+21931,10658,Matheus Luna,,Arturo Salas,W,1,Referee Decision,Lisbon Open,ABS,SF,2019
+21932,10658,Matheus Luna,,Bruno Borges,W,1,Choke from back,Lisbon Open,ABS,F,2019
+21998,10658,Matheus Luna,,Evyatar Paperni,W,1,Choke from back,Tel Aviv Open,88KG,F,2019
+22002,10658,Matheus Luna,10318,Eldar Rafigaev,W,1,Pts: 3x0,Tel Aviv Open,ABS,SF,2019
+22003,10658,Matheus Luna,10698,Matheus Godoy,W,1,Cross choke,Tel Aviv Open,ABS,F,2019
+24187,10658,Matheus Luna,,Nathan Barreto,W,1,Referee Decision,Pan American,88KG,R1,2020
+24189,10658,Matheus Luna,10240,Jake Watson,W,1,"Pts: 0x0, Adv",Pan American,88KG,4F,2020
+24194,10658,Matheus Luna,5636,Manuel Ribamar,W,1,"Pts: 2x2, Pen",Pan American,88KG,SF,2020
+24860,10658,Matheus Luna,,Saar Shemesh,W,1,EBI/OT,TMS GP,83KG,R1,2020
+24866,10658,Matheus Luna,,Max Nedoshchak,W,1,EBI/OT,TMS GP,83KG,4F,2020
+24869,10658,Matheus Luna,,Roman Nepota,W,1,EBI/OT,TMS GP,83KG,SF,2020
+25432,10658,Matheus Luna,,William Shannon,W,1,Choke from back,Orlando Open,ABS,R1,2021
+25439,10658,Matheus Luna,10506,Jeferson Guaresi,W,1,Referee Decision,Orlando Open,ABS,4F,2021
+28301,10658,Matheus Luna,,Hunter Newton,W,1,"Pts: 0x0, Adv",NoGi Worlds,85KG,4F,2021
+28424,10658,Matheus Luna,12048,Rafael Anjos,W,1,Referee Decision,SUBVERSIV 6,84KG,SPF,2021
+28678,10658,Matheus Luna,12048,Rafael Anjos,W,1,Referee Decision,Nashville Open,94KG,SF,2021
+28680,10658,Matheus Luna,,Marlon Tanaka,W,1,Referee Decision,Nashville Open,94KG,F,2021
+31581,10658,Matheus Luna,,Marcos Tanaka,W,1,Katagatame,Pan American,ABS,R1,2022
+31687,10658,Matheus Luna,1517,Alexandre Santos,W,1,Choke from back,Pan American,88KG,R1,2022
+31997,10658,Matheus Luna,,Thomas Bracher,W,1,Points,Nashville Open,ABS,4F,2022
+40034,10658,Matheus Luna,9637,Sergio Rios,W,1,Referee Decision,F2W 228,84KG,SPF,2023

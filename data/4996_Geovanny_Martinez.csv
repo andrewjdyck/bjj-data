@@ -1,0 +1,66 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+7816,4996,Geovanny Martinez,,Joe Soto,L,0,EBI/OT,EBI 4,65KG,4F,2015
+7968,4996,Geovanny Martinez,174,Bruno Frazatto,L,0,Pts: 2x0,ADCC,66KG,SF,2015
+7970,4996,Geovanny Martinez,188,Augusto Mendes,L,0,Toe hold,ADCC,66KG,3RD,2015
+8086,4996,Geovanny Martinez,2997,Joao Miyao,L,0,Pts: 4x2,GT Open,ABS,SPF,2015
+10303,4996,Geovanny Martinez,898,Bill Cooper,L,0,EBI/OT,EBI 7,65KG,SF,2016
+12573,4996,Geovanny Martinez,174,Bruno Frazatto,L,0,Pts: 5x0,ADCC WC Trials,66KG,SPF,2017
+13917,4996,Geovanny Martinez,2999,Paulo Miyao,L,0,Pts: 8x2,ADCC,66KG,4F,2017
+15190,4996,Geovanny Martinez,8767,Jon Calestine,L,0,EBI/OT,EBI 15,65KG,F,2018
+15867,4996,Geovanny Martinez,,N. Ryan,L,0,Referee Decision,Kasai Pro 2,70KG,SPF,2018
+17739,4996,Geovanny Martinez,,Marcin Held,L,0,Kneebar,Quintet 3,ABS,SF,2018
+18198,4996,Geovanny Martinez,2999,Paulo Miyao,L,0,Pts: 2x0,Kasai Pro 4,65KG,R2,2018
+18201,4996,Geovanny Martinez,9760,Frank Rosenthal,L,0,Pts: 1x0,Kasai Pro 4,65KG,R3,2018
+21380,4996,Geovanny Martinez,10380,Junny Ocasio,L,0,Pts: 2x0,Kasai Pro 6,61KG,RR,2019
+21868,4996,Geovanny Martinez,9002,Matheus Gabriel,L,0,Referee Decision,ADCC,66KG,R1,2019
+24855,4996,Geovanny Martinez,9031,Kennedy Maciel,L,0,Referee Decision,WNO 5,SPF,66KG,2020
+26920,4996,Geovanny Martinez,5447,Mikey Musumeci,L,0,Pts: 6x0,Road to ADCC,66KG,SPF,2021
+27908,4996,Geovanny Martinez,12950,Cole Abate,L,0,Referee Decision,WNO Champ.,70KG,4F,2021
+33263,4996,Geovanny Martinez,12652,Marcelo Fausto,D,0.5,---,Polaris 20,ABS,RR,2022
+33270,4996,Geovanny Martinez,12122,Mica Galvao,D,0.5,---,Polaris 20,ABS,RR,2022
+33281,4996,Geovanny Martinez,11497,Fabricio Andrey,D,0.5,---,Polaris 20,ABS,RR,2022
+35007,4996,Geovanny Martinez,9031,Kennedy Maciel,L,0,RNC,ADCC,66KG,R1,2022
+42517,4996,Geovanny Martinez,8346,Craig Jones,L,0,Triangle armlock,Quintet 4,ABS,NA,2023
+5685,4996,Geovanny Martinez,,James Santiago,W,1,RNC,ADCC US Trials,66KG,R1,2014
+5686,4996,Geovanny Martinez,,Unknown,W,1,Calf Slicer,ADCC US Trials,66KG,4F,2014
+5687,4996,Geovanny Martinez,1774,Mark Ramos,W,1,Kimura,ADCC US Trials,66KG,SF,2014
+5688,4996,Geovanny Martinez,,Ostap Manastyrski,W,1,Darce choke,ADCC US Trials,66KG,F,2014
+6171,4996,Geovanny Martinez,,Toni Pinedo,W,1,Heel hook,EBI,65KG,R1,2014
+6174,4996,Geovanny Martinez,,Erick Rios,W,1,Twister,EBI,65KG,4F,2014
+6176,4996,Geovanny Martinez,,B. Walensky,W,1,Calf slicer,EBI,65KG,SF,2014
+6177,4996,Geovanny Martinez,610,Jeff Glover,W,1,EBI/OT,EBI,65KG,F,2014
+6292,4996,Geovanny Martinez,,Javier Cardenez,W,1,Heel hook,EBI 2,61KG,R1,2014
+6294,4996,Geovanny Martinez,,Kerry Phan,W,1,RNC,EBI 2,61KG,4F,2014
+6296,4996,Geovanny Martinez,,R. Alarcon,W,1,Calf slicer,EBI 2,61KG,SF,2014
+6298,4996,Geovanny Martinez,9725,Fabbio Passos,W,1,Calf slicer,EBI 2,61KG,F,2014
+7806,4996,Geovanny Martinez,,Sergio Perez,W,1,RNC,EBI 4,65KG,R1,2015
+7963,4996,Geovanny Martinez,8525,Alexandre Vieira,W,1,Armbar,ADCC,66KG,R1,2015
+7967,4996,Geovanny Martinez,610,Jeff Glover,W,1,Pts: 5x0,ADCC,66KG,4F,2015
+9407,4996,Geovanny Martinez,7123,Luiz Tosta,D,0.5,---,Polaris 3,64KG,SPF,2016
+10297,4996,Geovanny Martinez,,Mike Main,W,1,Heel hook,EBI 7,65KG,R1,2016
+10301,4996,Geovanny Martinez,,Rafael Domingos,W,1,Triangle,EBI 7,65KG,4F,2016
+10691,4996,Geovanny Martinez,,Sergio Hernandez,W,1,Heel hook,Guatemala Open,ABS,SPF,2016
+11257,4996,Geovanny Martinez,,K. Woodmansee,W,1,Darce choke,EBI 10,61KG,R1,2016
+11265,4996,Geovanny Martinez,8361,Marcelo Cohen,W,1,Outside heel hook,EBI 10,61KG,4F,2016
+11269,4996,Geovanny Martinez,,Ricky Lule,W,1,Katagatame,EBI 10,61KG,SF,2016
+11271,4996,Geovanny Martinez,7442,Eddie Cummings,W,1,EBI/OT,EBI 10,61KG,F,2016
+13911,4996,Geovanny Martinez,,Kamil Wilk,W,1,Pts: 3x2,ADCC,66KG,E1,2017
+15180,4996,Geovanny Martinez,,Pablo Alfonso,W,1,Calf slicer,EBI 15,65KG,R1,2018
+15186,4996,Geovanny Martinez,9401,Ashley Williams,W,1,EBI/OT,EBI 15,65KG,4F,2018
+15188,4996,Geovanny Martinez,,Rafael Domingos,W,1,EBI/OT,EBI 15,65KG,SF,2018
+16919,4996,Geovanny Martinez,,Satoshi Ishii,D,0.5,---,Quintet II,ABS,N/A,2018
+16926,4996,Geovanny Martinez,,H. Rida,W,1,Guillotine,Quintet II,ABS,N/A,2018
+16927,4996,Geovanny Martinez,,Hideo Tokoro,D,0.5,---,Quintet II,ABS,N/A,2018
+17623,4996,Geovanny Martinez,,Alex Seaver,W,1,Gogoplata,Subversiv,ABS,SF,2018
+17738,4996,Geovanny Martinez,1322,Gregor Gracie,W,1,Kimura,Quintet 3,ABS,SF,2018
+18194,4996,Geovanny Martinez,174,Bruno Frazatto,W,1,Pts: 3x2,Kasai Pro 4,65KG,R1,2018
+21000,4996,Geovanny Martinez,2997,Joao Miyao,W,1,EBI/OT,Subversiv 2,65KG,SPF,2019
+21381,4996,Geovanny Martinez,,M. Imanari,W,1,Pts: 9x1,Kasai Pro 6,61KG,RR,2019
+21383,4996,Geovanny Martinez,8767,Jon Calestine,D,0.5,---,Kasai Pro 6,61KG,RR,2019
+24082,4996,Geovanny Martinez,2999,Paulo Miyao,W,1,Referee Decision,WNO 4,65KG,SPF,2020
+25172,4996,Geovanny Martinez,10380,Junny Ocasio,W,1,Referee Decision,WNO 6,65KG,SPF,2021
+27172,4996,Geovanny Martinez,,Bradley Hill,D,0.5,---,Polaris Squads,ABS,RR,2021
+27178,4996,Geovanny Martinez,,Bradley Hill,D,0.5,---,Polaris Squads,ABS,RR,2021
+27183,4996,Geovanny Martinez,7321,Darragh OConaill,D,0.5,---,Polaris Squads,ABS,RR,2021
+27189,4996,Geovanny Martinez,,Dan Strauss,W,1,Injury,Polaris Squads,ABS,RR,2021
+42507,4996,Geovanny Martinez,2221,Daisuke Nakamura,D,0.5,---,Quintet 4,ABS,NA,2023

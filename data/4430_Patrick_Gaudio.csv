@@ -1,0 +1,174 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6130,4430,Patrick Gaudio,,Jimmy Gusmao,L,0,Armbar,Estadual Macae,ABS,F,2014
+6194,4430,Patrick Gaudio,1322,Gregor Gracie,L,0,Adv,Copa Podio,85KG,GP,2014
+6198,4430,Patrick Gaudio,,Erberth S.,D,0.5,---,Copa Podio,85KG,GP,2014
+6211,4430,Patrick Gaudio,2416,Felipe Pena,L,0,Pts: 11x4,Copa Podio,85KG,GP,2014
+7482,4430,Patrick Gaudio,108,Gustavo Campos,L,0,Armbar,World Champ.,88KG,4F,2015
+8334,4430,Patrick Gaudio,7579,Romulo Azevedo,L,0,RNC,Brasileiro NoGi,ABS,SF,2015
+8442,4430,Patrick Gaudio,5655,Lucas Barbosa,L,0,Pts: 2x0,NoGi Worlds,85KG,8F,2015
+8492,4430,Patrick Gaudio,2416,Felipe Pena,L,0,Armbar,NoGi Worlds,ABS,R2,2015
+8567,4430,Patrick Gaudio,2235,Renato Cardoso,L,0,Footlock,South American,ABS,4F,2015
+8685,4430,Patrick Gaudio,,Otavio Nalati,L,0,Shoulder pressure,Grand Slam RJ,ABS,R1,2015
+8885,4430,Patrick Gaudio,5078,Luan Carvalho,L,0,"Pts: 0x0, Adv",Copa Podio,77KG,GP,2016
+8889,4430,Patrick Gaudio,5258,Dillon Danis,L,0,"Pts: 2x2, Adv",Copa Podio,77KG,GP,2016
+8892,4430,Patrick Gaudio,6253,Diego Borges,L,0,Pts: 2x0,Copa Podio,77KG,GP,2016
+8964,4430,Patrick Gaudio,6071,Gabriel Arges,L,0,Referee Decision,European Open,88KG,SF,2016
+8996,4430,Patrick Gaudio,320,Romulo Barral,L,0,Cross choke,European Open,ABS,4F,2016
+9511,4430,Patrick Gaudio,144,Andre Galvao,L,0,"Pts: 0x0, Adv",World Pro,ABS,R1,2016
+9632,4430,Patrick Gaudio,1188,Leandro Lo,L,0,Pts: 4x2,World Pro,85KG,4F,2016
+9787,4430,Patrick Gaudio,2235,Renato Cardoso,L,0,Points,Brasileiro,88KG,F,2016
+9830,4430,Patrick Gaudio,,Pedro Moura,L,0,"Pts: 0x0, Adv",Brasileiro,ABS,8F,2016
+10037,4430,Patrick Gaudio,320,Romulo Barral,L,0,Cross choke,World Champ.,88KG,SF,2016
+10273,4430,Patrick Gaudio,4521,Erberth Santos,L,0,Kneebar,Rio Winter Open,ABS,F,2016
+10426,4430,Patrick Gaudio,8968,Admilson Gobi,L,0,Pts: 4x2,Curitiba W. Open,ABS,4F,2016
+11766,4430,Patrick Gaudio,,K. Duarte,L,0,Points,ADCC RJ,88KG,F,2017
+13181,4430,Patrick Gaudio,144,Andre Galvao,L,0,Referee Decision,World Champ.,88KG,F,2017
+13677,4430,Patrick Gaudio,6337,Arnaldo Maidana,L,0,Omoplata,ACBJJ 7,85KG,SF,2017
+13832,4430,Patrick Gaudio,5655,Lucas Barbosa,L,0,Choke,Grand Slam LA,94KG,SF,2017
+14249,4430,Patrick Gaudio,5509,Victor Honorio,L,0,Guillotine,ACBJJ 8,O95KG,F,2017
+14883,4430,Patrick Gaudio,5655,Lucas Barbosa,L,0,Pts: 2x0,European Open,ABS,4F,2018
+14943,4430,Patrick Gaudio,2235,Renato Cardoso,L,0,Referee Decision,European Open,88KG,SF,2018
+16085,4430,Patrick Gaudio,8357,Gustavo Batista,L,0,Pts: 2x0,WP Br Qualifier,85KG,4F,2018
+16587,4430,Patrick Gaudio,2416,Felipe Pena,L,0,"Pts: 8x8, Adv",World Champ.,94KG,F,2018
+18716,4430,Patrick Gaudio,6550,Gordon Ryan,L,0,"Pts: 4x4, Adv",NoGi Worlds,ABS,4F,2018
+19653,4430,Patrick Gaudio,8974,Kaynan Duarte,L,0,Toe hold,Pan American,94KG,SF,2019
+20690,4430,Patrick Gaudio,9180,Vinicius Trator,L,0,Referee Decision,World Champ.,94KG,4F,2019
+21387,4430,Patrick Gaudio,8974,Kaynan Duarte,L,0,Pts: 4x1,Kasai Pro 6,ABS,SPF,2019
+21479,4430,Patrick Gaudio,2403,Joao Rocha,L,0,Referee Decision,IBJJF GP,ABS,4F,2019
+21837,4430,Patrick Gaudio,5655,Lucas Barbosa,L,0,Referee Decision,ADCC,99KG,4F,2019
+21914,4430,Patrick Gaudio,8682,Lachlan Giles,L,0,Inside heel hook,ADCC,ABS,4F,2019
+23052,4430,Patrick Gaudio,8514,Fellipe Andrew,L,0,DQ,European Open,ABS,4F,2020
+23450,4430,Patrick Gaudio,8514,Fellipe Andrew,L,0,Botinha,Sub Stars,N/A,SPF,2020
+25685,4430,Patrick Gaudio,2235,Renato Cardoso,L,0,Pts: 2x0,World Pro,94KG,SF,2021
+26770,4430,Patrick Gaudio,2416,Felipe Pena,L,0,Choke from back,BJJ Stars,94KG,SPF,2021
+28106,4430,Patrick Gaudio,11064,Rider Zuchi,L,0,Referee Decision,Brasileiro,ABS,4F,2021
+29294,4430,Patrick Gaudio,1740,Yuri Simoes,L,0,N/A,Raw GC,94KG,F,2021
+29387,4430,Patrick Gaudio,11709,Wallace Costa,L,0,Pts: 2x2,King Of Mats,120KG,RR,2021
+29393,4430,Patrick Gaudio,11499,Roosevelt Sousa,L,0,Pts: 7x2,King Of Mats,120KG,SF,2021
+29394,4430,Patrick Gaudio,10817,Gabriel Henrique,L,0,Pts: 3x0,King Of Mats,120KG,3RD,2021
+29440,4430,Patrick Gaudio,8514,Fellipe Andrew,L,0,Toe hold,World Champ.,ABS,4F,2021
+29560,4430,Patrick Gaudio,10698,Matheus Godoy,L,0,Triangle,World Champ.,94KG,R1,2021
+35049,4430,Patrick Gaudio,12922,Elder Cruz,L,0,Referee Decision,ADCC,99KG,R1,2022
+36943,4430,Patrick Gaudio,11789,Mason Fowler,L,0,Triangle,UFC Invitational,ABS,SF,2022
+38448,4430,Patrick Gaudio,,Dimirius Souza,L,0,Referee Decision,Pan American,94KG,4F,2023
+38972,4430,Patrick Gaudio,7478,Adam Wardzinski,L,0,Choke from back,BJJ Stars,ABS,R1,2023
+40648,4430,Patrick Gaudio,,Javier Barter,L,0,RNC,Grand Slam RJ,94KG,8F,2023
+43166,4430,Patrick Gaudio,6550,Gordon Ryan,L,0,Armbar,WNO 20,ABS,SPF,2023
+6129,4430,Patrick Gaudio,,Mario Netto,W,1,"Pts: 2x2, Adv",Estadual Macae,ABS,SF,2014
+6203,4430,Patrick Gaudio,4145,Thiago Sa,W,1,Pts: 6x4,Copa Podio,85KG,GP,2014
+8318,4430,Patrick Gaudio,,Romeu Mendes,W,1,Choke from back,Brasileiro NoGi,85KG,4F,2015
+8321,4430,Patrick Gaudio,443,Claudio Mattos,W,1,Pts: 3x2,Brasileiro NoGi,85KG,SF,2015
+8332,4430,Patrick Gaudio,,Unknown,W,1,Points,Brasileiro NoGi,ABS,4F,2015
+8481,4430,Patrick Gaudio,6324,Evandro Nunes,W,1,Toe hold,NoGi Worlds,ABS,R1,2015
+8556,4430,Patrick Gaudio,,Eraldo Santos,W,1,Pts: 7x2,South American,ABS,R1,2015
+8561,4430,Patrick Gaudio,,Unknown,W,1,Pts: 8x0,South American,ABS,8F,2015
+8587,4430,Patrick Gaudio,,William Martins,W,1,Lapel choke,South American,88KG,SF,2015
+8588,4430,Patrick Gaudio,2235,Renato Cardoso,W,1,"Pts: 2x2, Adv",South American,88KG,F,2015
+8653,4430,Patrick Gaudio,,Gareth Neale,W,1,Pts: 9x0,Grand Slam RJ,85KG,8F,2015
+8656,4430,Patrick Gaudio,,Carlos Reis,W,1,Pts: 14x0,Grand Slam RJ,85KG,4F,2015
+8660,4430,Patrick Gaudio,1003,Diogo Sampaio,W,1,Points,Grand Slam RJ,85KG,SF,2015
+8881,4430,Patrick Gaudio,5238,Edwin Najmi,W,1,Pts: 2x0,Copa Podio,77KG,GP,2016
+8954,4430,Patrick Gaudio,,Giacomo Zanini,W,1,Short choke,European Open,88KG,R1,2016
+8959,4430,Patrick Gaudio,1895,Rodrigo Fajardo,W,1,Pts: 9x4,European Open,88KG,4F,2016
+8987,4430,Patrick Gaudio,,Edivaldo Nguebuza,W,1,Mounted X choke,European Open,ABS,R1,2016
+8989,4430,Patrick Gaudio,,Pedro Moura,W,1,Armbar,European Open,ABS,R2,2016
+9623,4430,Patrick Gaudio,,Tyler Bishop,W,1,Pts: 2x0,World Pro,85KG,R1,2016
+9628,4430,Patrick Gaudio,,Karol Dzienisze,W,1,Estima lock,World Pro,85KG,8F,2016
+9776,4430,Patrick Gaudio,,Aribene Ramos,W,1,N/A,Brasileiro,88KG,8F,2016
+9783,4430,Patrick Gaudio,7831,Diego Ramalho,W,1,Triangle,Brasileiro,88KG,4F,2016
+9785,4430,Patrick Gaudio,6375,Ruan Oliveira,W,1,Pts: 7x0,Brasileiro,88KG,SF,2016
+9822,4430,Patrick Gaudio,,Romes Ramos,W,1,N/A,Brasileiro,ABS,RD,2016
+10029,4430,Patrick Gaudio,,Steve Patterson,W,1,Short choke,World Champ.,88KG,8F,2016
+10034,4430,Patrick Gaudio,477,Tarsis Humphreys,W,1,"Pts: 0x0, Adv",World Champ.,88KG,4F,2016
+10262,4430,Patrick Gaudio,,A. Tomei,W,1,Choke from back,Rio Winter Open,88KG,4F,2016
+10263,4430,Patrick Gaudio,6375,Ruan Oliveira,W,1,Points,Rio Winter Open,88KG,SF,2016
+10264,4430,Patrick Gaudio,1895,Rodrigo Fajardo,W,1,Pts: 6x2,Rio Winter Open,88KG,F,2016
+10272,4430,Patrick Gaudio,6825,Fernando Reis,W,1,N/A,Rio Winter Open,ABS,SF,2016
+10419,4430,Patrick Gaudio,7047,Matheus Spirandeli,W,1,Referee Decision,Curitiba W. Open,88KG,F,2016
+10579,4430,Patrick Gaudio,,Joao Chiozzi,W,1,Choke,Sao Paulo Open,88KG,SF,2016
+10581,4430,Patrick Gaudio,7047,Matheus Spirandeli,W,1,Adv,Sao Paulo Open,88KG,F,2016
+10993,4430,Patrick Gaudio,,Eduardo Inojosa,W,1,Points,BJJ Rio Pro,94KG,4F,2016
+10996,4430,Patrick Gaudio,4960,Dimitrius Souza,W,1,Points,BJJ Rio Pro,94KG,F,2016
+11602,4430,Patrick Gaudio,,Bruno Borzani,W,1,Armbar,European Open,88KG,8F,2017
+11757,4430,Patrick Gaudio,,Igor Santos,W,1,Points,ADCC RJ,88KG,R1,2017
+11760,4430,Patrick Gaudio,,Leonardo Guzzi,W,1,Points,ADCC RJ,88KG,R2,2017
+11762,4430,Patrick Gaudio,,Leonardo Rivero,W,1,Choke from back,ADCC RJ,88KG,8F,2017
+11765,4430,Patrick Gaudio,10501,Valdir Araujo,W,1,Referee Decision,ADCC RJ,88KG,SF,2017
+12214,4430,Patrick Gaudio,,Justin Workman,W,1,Armbar,Pan American,88KG,8F,2017
+12219,4430,Patrick Gaudio,,Roberto Frias,W,1,"Pts: 0x0, Adv",Pan American,88KG,4F,2017
+12221,4430,Patrick Gaudio,2235,Renato Cardoso,W,1,Pts: 2x0,Pan American,88KG,SF,2017
+12222,4430,Patrick Gaudio,5655,Lucas Barbosa,W,1,Pts: 2x0,Pan American,88KG,F,2017
+12791,4430,Patrick Gaudio,,Jeancemy Santos,W,1,Points,Brasileiro,88KG,R1,2017
+12796,4430,Patrick Gaudio,7047,Matheus Spirandeli,W,1,Points,Brasileiro,88KG,4F,2017
+12800,4430,Patrick Gaudio,1895,Rodrigo Fajardo,W,1,Points,Brasileiro,88KG,SF,2017
+12802,4430,Patrick Gaudio,2235,Renato Cardoso,W,1,"Pts: 0x0, Adv",Brasileiro,88KG,F,2017
+13170,4430,Patrick Gaudio,5660,Lucas Rocha,W,1,Pts: 7x6,World Champ.,88KG,8F,2017
+13177,4430,Patrick Gaudio,,Tarsys Humphreys,W,1,Referee Decision,World Champ.,88KG,4F,2017
+13179,4430,Patrick Gaudio,320,Romulo Barral,W,1,Referee Decision,World Champ.,88KG,SF,2017
+13676,4430,Patrick Gaudio,410,Claudio Calasans,W,1,Points,ACBJJ 7,85KG,4F,2017
+13779,4430,Patrick Gaudio,5655,Lucas Barbosa,W,1,Pts: 2x0,San Diego Pro,94KG,F,2017
+13828,4430,Patrick Gaudio,7922,Nick Schrock,W,1,Pts: 2x0,Grand Slam LA,94KG,4F,2017
+14243,4430,Patrick Gaudio,8427,Michael Perez,W,1,Pen,ACBJJ 8,O95KG,4F,2017
+14247,4430,Patrick Gaudio,8560,Gabriel Lucas,W,1,Outside heel hook,ACBJJ 8,O95KG,SF,2017
+14374,4430,Patrick Gaudio,,Rafael Silva,W,1,Pts: 7x0,Grand Slam RJ,94KG,R1,2017
+14381,4430,Patrick Gaudio,84,Alexandre Ribeiro,W,1,Referee Decision,Grand Slam RJ,94KG,SF,2017
+14382,4430,Patrick Gaudio,5417,Guilherme Augusto,W,1,Referee Decision,Grand Slam RJ,94KG,F,2017
+14621,4430,Patrick Gaudio,7704,Helton Jose,W,1,Referee Decision,ACB JJ Worlds,95KG,SF,2017
+14622,4430,Patrick Gaudio,6337,Arnaldo Maidana,W,1,Pts: 4x2,ACB JJ Worlds,95KG,F,2017
+14873,4430,Patrick Gaudio,8081,Nathan Mendelsohn,W,1,Estima lock,European Open,ABS,8F,2018
+14941,4430,Patrick Gaudio,7047,Matheus Spirandeli,W,1,"Pts: 0x0, Adv",European Open,88KG,4F,2018
+14972,4430,Patrick Gaudio,410,Claudio Calasans,W,1,Referee Decision,ACB 10,85KG,SPF,2018
+15856,4430,Patrick Gaudio,4145,Thiago Sa,W,1,Points,ACBJJ 12,85KG,SPF,2018
+16575,4430,Patrick Gaudio,11703,Arya Esfandmaz,W,1,Pts: 24x2,World Champ.,94KG,8F,2018
+16584,4430,Patrick Gaudio,3200,Jackson Sousa,W,1,Referee Decision,World Champ.,94KG,4F,2018
+16586,4430,Patrick Gaudio,3009,Keenan Cornelius,W,1,Referee Decision,World Champ.,94KG,SF,2018
+18678,4430,Patrick Gaudio,,Charles McGuire,W,1,Estima lock,NoGi Worlds,97KG,R1,2018
+18704,4430,Patrick Gaudio,,Josh Bacallao,W,1,Pts: 5x0,NoGi Worlds,ABS,R1,2018
+18709,4430,Patrick Gaudio,,E. Galarza,W,1,Pts: 9x0,NoGi Worlds,ABS,R2,2018
+19326,4430,Patrick Gaudio,4310,Tim Spriggs,W,1,Pts: 14x2,BJJ Stars,94KG,SPF,2019
+19650,4430,Patrick Gaudio,9246,Tex Johnson,W,1,Pts: 15x0,Pan American,94KG,4F,2019
+20685,4430,Patrick Gaudio,4310,Tim Spriggs,W,1,Pts: 11x0,World Champ.,94KG,R1,2019
+21831,4430,Patrick Gaudio,,Mraz Avdoyan,W,1,Pts: 8x0,ADCC,99KG,R1,2019
+21910,4430,Patrick Gaudio,8427,Michael Perez,W,1,Pts: 2x0,ADCC,ABS,R1,2019
+22351,4430,Patrick Gaudio,,Gilmar Oliveira,W,1,Pts: 5x0,Grand Slam RJ,120KG,4F,2019
+22352,4430,Patrick Gaudio,10159,Victor Hugo,W,1,Pts: 2x0,Grand Slam RJ,120KG,SF,2019
+22353,4430,Patrick Gaudio,,Rafael Massage,W,1,Pts: 6x0,Grand Slam RJ,120KG,F,2019
+23038,4430,Patrick Gaudio,,Felipe Mauricio,W,1,Pts: 11x0,European Open,ABS,R1,2020
+23050,4430,Patrick Gaudio,8634,Rafael Vasconcelos,W,1,Pts: 5x0,European Open,ABS,R2,2020
+23143,4430,Patrick Gaudio,8686,Fellipe Trovo,W,1,Points,European Open,100KG,4F,2020
+23145,4430,Patrick Gaudio,8514,Fellipe Andrew,W,1,Kneebar,European Open,100KG,F,2020
+23875,4430,Patrick Gaudio,4521,Erberth Santos,W,1,"Pts: 0x0, Adv",BJJ Stars,N/A,SPF,2020
+24411,4430,Patrick Gaudio,9157,Devhonte Johnson,W,1,"Pts: 0x0, Adv",BJJ Stars 4,100KG,SPF,2020
+25545,4430,Patrick Gaudio,10176,Bruno Lima,W,1,Pts: 4x2,Grand Slam AD,94KG,4F,2021
+25547,4430,Patrick Gaudio,,Matko Kvesic,W,1,Pts: 7x0,Grand Slam AD,94KG,SF,2021
+25549,4430,Patrick Gaudio,8195,Gutemberg Pereira,W,1,Toe hold,Grand Slam AD,94KG,F,2021
+25623,4430,Patrick Gaudio,,Eduardo Machado,W,1,Choke from back,WP BR Qualifier,94KG,RR,2021
+25625,4430,Patrick Gaudio,,Naaliel Almeida,W,1,Pts: 5x0,WP BR Qualifier,94KG,RR,2021
+25628,4430,Patrick Gaudio,5417,Guilherme Augusto,W,1,Pts: 4x1,WP BR Qualifier,94KG,RR,2021
+25630,4430,Patrick Gaudio,,Ithalo Lopes,W,1,Choke from back,WP BR Qualifier,94KG,RR,2021
+25682,4430,Patrick Gaudio,10399,Philippe Pomaski,W,1,Pts: 4x1,World Pro,94KG,4F,2021
+25689,4430,Patrick Gaudio,,Matko Kvesic,W,1,Pts: 10x2,World Pro,94KG,RPC,2021
+25690,4430,Patrick Gaudio,10399,Philippe Pomaski,W,1,Pts: 11x0,World Pro,94KG,3RD,2021
+26444,4430,Patrick Gaudio,,Agnelo Sales,W,1,Choke from back,SA Cont. Pro,94KG,R1,2021
+26448,4430,Patrick Gaudio,,William Martins,W,1,Armbar,SA Cont. Pro,94KG,4F,2021
+26450,4430,Patrick Gaudio,12084,G. Lambertucci,W,1,Choke from back,SA Cont. Pro,94KG,SF,2021
+26517,4430,Patrick Gaudio,7537,Felipe Bezerra,W,1,Kneebar,SA Cont. Pro,HWA,4F,2021
+28079,4430,Patrick Gaudio,,Leonardo Goncalves,W,1,Mounted X choke,Brasileiro,94KG,4F,2021
+28100,4430,Patrick Gaudio,,Vinicius Reis,W,1,Pts: 5x0,Brasileiro,ABS,8F,2021
+28573,4430,Patrick Gaudio,,Vitor Cheloni,W,1,Pts: 9x1,Grand Slam RJ,94KG,8F,2021
+28577,4430,Patrick Gaudio,9741,Pedro Elias,W,1,Pts: 2x1,Grand Slam RJ,94KG,4F,2021
+28581,4430,Patrick Gaudio,,Wildemar Santos,W,1,Pts: 3x1,Grand Slam RJ,94KG,SF,2021
+29289,4430,Patrick Gaudio,,Thomas Bracher,W,1,Referee Decision,Raw GC,94KG,4F,2021
+29292,4430,Patrick Gaudio,7096,Josh Hinger,W,1,Referee Decision,Raw GC,94KG,SF,2021
+29389,4430,Patrick Gaudio,,Fernando Tsushima,W,1,Pts: 3x2,King Of Mats,120KG,RR,2021
+29430,4430,Patrick Gaudio,8634,Rafael Vasconcelos,W,1,"Pts: 0x0, Adv",World Champ.,ABS,8F,2021
+36939,4430,Patrick Gaudio,9559,Rida Haisam,W,1,Triangle,UFC Invitational,ABS,4F,2022
+37424,4430,Patrick Gaudio,,Elionai Braz,W,1,Pts: 4x0,Sul Brasileiro,100KG,SF,2023
+37426,4430,Patrick Gaudio,9117,Hygor Brito,W,1,Pts: 4x2,Sul Brasileiro,100KG,F,2023
+37474,4430,Patrick Gaudio,,Edivan Nascimento,W,1,Kimura,Sul BRA NG,97KG,F,2023
+38052,4430,Patrick Gaudio,10964,Caio Paganini,W,1,Pts: 6x4,Curitiba SMO,94KG,4F,2023
+38056,4430,Patrick Gaudio,,Pablo Raimundo,W,1,Injury,Curitiba SMO,94KG,SF,2023
+38057,4430,Patrick Gaudio,13392,Gabriel Volante,W,1,Pts: 5x0,Curitiba SMO,94KG,F,2023
+38142,4430,Patrick Gaudio,,Julian Stonkek,W,1,Pts: 9x0,Curitiba SMNGO,97KG,SF,2023
+38143,4430,Patrick Gaudio,,Rinaldo Filho,W,1,Short choke,Curitiba SMNGO,97KG,F,2023
+38443,4430,Patrick Gaudio,,Marcos Lopes,W,1,Pts: 2x0,Pan American,94KG,R1,2023

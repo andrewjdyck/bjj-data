@@ -1,0 +1,48 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+13728,8261,Rolando Samson,5414,Osvaldo Moizinho,L,0,Loop choke,Mexico City Open,ABS,F,2017
+15410,8261,Rolando Samson,8081,Nathan Mendelsohn,L,0,Choke from back,Pan American,82KG,8F,2018
+15906,8261,Rolando Samson,11257,Gabriel Procopio,L,0,Points,Boston Sp. Open,82KG,F,2018
+16331,8261,Rolando Samson,9706,Marcelo Mafra,L,0,Adv,San Diego Open,82KG,F,2018
+16536,8261,Rolando Samson,410,Claudio Calasans,L,0,"Pts: 0x0, Pen",World Champ.,82KG,R2,2018
+19341,8261,Rolando Samson,,Edmund Kim,L,0,Pts: 4x2,Portland Open,82KG,4F,2019
+20393,8261,Rolando Samson,10220,Paulo Gabriel,L,0,Points,Dallas SPO,82KG,F,2019
+20408,8261,Rolando Samson,6337,Arnaldo Maidana,L,0,N/A,Dallas SPO,ABS,SF,2019
+36844,8261,Rolando Samson,12372,Francisco Cuneo,L,0,Pts: 2x0,NoGi Worlds,79KG,8F,2022
+38411,8261,Rolando Samson,11697,Tainan Dalpra,L,0,Choke from back,Pan American,82KG,SF,2023
+40296,8261,Rolando Samson,11697,Tainan Dalpra,L,0,Pts: 9x2,World Champ.,82KG,SF,2023
+13723,8261,Rolando Samson,,Julio Reyes,W,1,Points,Mexico City Open,88KG,SF,2017
+13724,8261,Rolando Samson,,Anderson Souza,W,1,Pts: 7x0,Mexico City Open,88KG,F,2017
+13725,8261,Rolando Samson,,Alci Costa,W,1,Submission,Mexico City Open,ABS,4F,2017
+13726,8261,Rolando Samson,1436,Samir Chantre,W,1,Points,Mexico City Open,ABS,SF,2017
+13732,8261,Rolando Samson,,Itua Salles,W,1,Points,Mexico NG Open,85KG,SF,2017
+13733,8261,Rolando Samson,,Anderson Souza,W,1,Injury,Mexico NG Open,85KG,F,2017
+13734,8261,Rolando Samson,,Alika Angerman,W,1,Points,Mexico NG Open,ABS,SF,2017
+13735,8261,Rolando Samson,,Anderson Souza,W,1,Armbar,Mexico NG Open,ABS,F,2017
+15903,8261,Rolando Samson,9640,Brian Beaury,W,1,N/A,Boston Sp. Open,82KG,4F,2018
+15905,8261,Rolando Samson,,Sean Fisher,W,1,N/A,Boston Sp. Open,82KG,SF,2018
+16329,8261,Rolando Samson,,Ken Primola,W,1,Bow and arrow,San Diego Open,82KG,SF,2018
+16525,8261,Rolando Samson,,Javier Valenciano,W,1,Armbar,World Champ.,82KG,R1,2018
+18448,8261,Rolando Samson,,Paul Woo,W,1,Armbar,F2W 95,85KG,SPF,2018
+20391,8261,Rolando Samson,9706,Marcelo Mafra,W,1,Points,Dallas SPO,82KG,SF,2019
+20402,8261,Rolando Samson,,Vinicius Wong,W,1,Points,Dallas SPO,ABS,R1,2019
+20404,8261,Rolando Samson,,Tyrone Goncalves,W,1,Points,Dallas SPO,ABS,4F,2019
+23474,8261,Rolando Samson,,Drew Palomo,W,1,Violin armlock,Portland Open,82KG,4F,2020
+23475,8261,Rolando Samson,,Fernando Cabrera,W,1,Points,Portland Open,82KG,SF,2020
+23476,8261,Rolando Samson,,Jacob Lanier,W,1,Bow and arrow,Portland Open,82KG,F,2020
+34734,8261,Rolando Samson,,Carlos Neto,W,1,"Pts: 2x2, Adv",JJ Con,88KG,4F,2022
+34735,8261,Rolando Samson,,Hayden Buckner,W,1,Cachecol choke,JJ Con,88KG,SF,2022
+34737,8261,Rolando Samson,,Vitor Peres,W,1,Wristlock,JJ Con,88KG,SF,2022
+34805,8261,Rolando Samson,,Michael Wilkins,W,1,Armbar,JJ Con NG,85KG,SF,2022
+35473,8261,Rolando Samson,,Ethan Baumann,W,1,Violin armlock,Twin Cities Open,82KG,4F,2022
+35475,8261,Rolando Samson,9876,Alef Brito,W,1,Armbar,Twin Cities Open,82KG,SF,2022
+35476,8261,Rolando Samson,9217,Caio Caetano,W,1,Referee Decision,Twin Cities Open,82KG,F,2022
+35484,8261,Rolando Samson,,Ethan Baumann,W,1,Violin armlock,Twin Cities NGO,85KG,F,2022
+36837,8261,Rolando Samson,,Valery Astraverk,W,1,Pts: 19x0,NoGi Worlds,79KG,R1,2022
+37318,8261,Rolando Samson,10835,Eduardo Avelar,W,1,Choke,Austin WO,82KG,SF,2023
+37320,8261,Rolando Samson,6432,Yan Lucas,W,1,Armbar,Austin WO,82KG,F,2023
+37937,8261,Rolando Samson,,Rehan Muttalib,W,1,"Pts: 2x2, Adv",LA Open,82KG,SF,2023
+37938,8261,Rolando Samson,10085,Johnatha Alves,W,1,Referee Decision,LA Open,82KG,F,2023
+38402,8261,Rolando Samson,,Michael Medeiros,W,1,Choke from back,Pan American,82KG,R1,2023
+38407,8261,Rolando Samson,,Austin Oranday,W,1,Pts: 3x0,Pan American,82KG,4F,2023
+40288,8261,Rolando Samson,,Yuri Rodrigues,W,1,Pts: 4x2,World Champ.,82KG,8F,2023
+40293,8261,Rolando Samson,8996,Mauricio Oliveira,W,1,Armbar,World Champ.,82KG,4F,2023

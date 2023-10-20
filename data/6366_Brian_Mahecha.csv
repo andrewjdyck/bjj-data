@@ -1,0 +1,97 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+7011,6366,Brian Mahecha,4248,Gianni Grippo,L,0,Points,NY Spring Open,70KG,SF,2015
+7092,6366,Brian Mahecha,5715,Isaque Paiva,L,0,Points,World Pro,65KG,4F,2015
+7613,6366,Brian Mahecha,1436,Samir Chantre,L,0,Pts: 4x2,American Nat.,70KG,SF,2015
+8288,6366,Brian Mahecha,6419,Marcel Goncalves,L,0,Referee Decision,Miami Open,76KG,SF,2015
+8527,6366,Brian Mahecha,,Paulo Silva,L,0,"Pts: 2x2, Adv",IBJJF NY Pro,70KG,4F,2015
+8922,6366,Brian Mahecha,2999,Paulo Miyao,L,0,Choke from back,European Open,70KG,SF,2016
+9250,6366,Brian Mahecha,,Jon Van Buren,L,0,Pts: 4x2,Pan American,70KG,8F,2016
+9574,6366,Brian Mahecha,2999,Paulo Miyao,L,0,Points,World Pro,69KG,4F,2016
+9948,6366,Brian Mahecha,9367,Jonathan Thomas,L,0,Armbar,World Champ.,70KG,R1,2016
+10439,6366,Brian Mahecha,6103,Isaac Doederlein,L,0,Pts: 6x4,Grand Slam LA,69KG,SF,2016
+11550,6366,Brian Mahecha,5715,Isaque Paiva,L,0,Pts: 4x2,European Open,70KG,8F,2017
+12140,6366,Brian Mahecha,147,Rubens Charles,L,0,Choke from back,Pan American,70KG,4F,2017
+12873,6366,Brian Mahecha,,Jonathan Buren,L,0,Points,Atlanta Spring O.,70KG,F,2017
+13798,6366,Brian Mahecha,8632,Thiago Macedo,L,0,Pts: 2x0,Grand Slam LA,69KG,F,2017
+14192,6366,Brian Mahecha,9385,Brandon Walensky,L,0,Armbar,Miami FO,70KG,4F,2017
+14401,6366,Brian Mahecha,9064,Silvio Duran,L,0,Pts: 2x0,BJJ NY Pro,70KG,4F,2017
+14529,6366,Brian Mahecha,8632,Thiago Macedo,L,0,Armbar,San Antonio Open,70KG,SF,2017
+14904,6366,Brian Mahecha,4248,Gianni Grippo,L,0,Choke from back,European Open,70KG,4F,2018
+15382,6366,Brian Mahecha,,Hiroaki Otsuka,L,0,"Pts: 6x6, Adv",Pan American,70KG,8F,2018
+15886,6366,Brian Mahecha,7872,Gilson Nunes,L,0,Triangle,Atlanta Sp. Open,76KG,SF,2018
+15894,6366,Brian Mahecha,8800,Matheus Gonzaga,L,0,Choke from back,Boston Sp. Open,70KG,SF,2018
+16397,6366,Brian Mahecha,7872,Gilson Nunes,L,0,N/A,Miami SPO,76KG,F,2018
+16697,6366,Brian Mahecha,9094,Richar Nogueira,L,0,Armbar,American Nat.,70KG,4F,2018
+16874,6366,Brian Mahecha,9934,Deandre Corbe,L,0,"Pts: 0x0, Adv",Nashville Open,70KG,SF,2018
+17270,6366,Brian Mahecha,7664,Johnny Tama,L,0,Referee Decision,Las Vegas Open,76KG,4F,2018
+17858,6366,Brian Mahecha,4248,Gianni Grippo,L,0,Toe hold,Miami FO,76KG,F,2018
+20486,6366,Brian Mahecha,,Kalil Silva,L,0,Points,Miami SPO,ABS,SF,2019
+20589,6366,Brian Mahecha,,Luciano Queiroz,L,0,Pts: 5x0,World Champ.,70KG,R1,2019
+22207,6366,Brian Mahecha,8516,Lucas Valente,L,0,Armbar,Miami FO,76KG,F,2019
+23075,6366,Brian Mahecha,13175,Ariel Tabak,L,0,Choke from back,European Open,70KG,R1,2020
+24145,6366,Brian Mahecha,9002,Matheus Gabriel,L,0,Choke from back,Pan American,70KG,8F,2020
+25191,6366,Brian Mahecha,4248,Gianni Grippo,L,0,Pts: 8x6,Dallas Open,70KG,SF,2021
+25403,6366,Brian Mahecha,10953,Danilo Moreira,L,0,Pts: 3x0,Orlando Open,70KG,4F,2021
+26255,6366,Brian Mahecha,10953,Danilo Moreira,L,0,Pts: 6x2,Miami Open,70KG,4F,2021
+26536,6366,Brian Mahecha,9309,Felipe Linhares,L,0,Choke from back,Atlanta Open,70KG,SF,2021
+26858,6366,Brian Mahecha,12303,Marcus Beddor,L,0,Choke from back,Chicago Open,70KG,SF,2021
+27232,6366,Brian Mahecha,11497,Fabricio Andrey,L,0,Bow and arrow,Grand Slam MIA,69KG,SF,2021
+27238,6366,Brian Mahecha,10408,Israel Sousa,L,0,Armbar,Grand Slam MIA,69KG,3RD,2021
+27541,6366,Brian Mahecha,11093,Emilio Hernandez,L,0,Toe Hold,Pan American,70KG,R1,2021
+29015,6366,Brian Mahecha,11510,Samuel Nagai,L,0,Armbar,JJ CON,70KG,4F,2021
+29476,6366,Brian Mahecha,6103,Isaac Doederlein,L,0,Choke from back,World Champ.,70KG,8F,2021
+30850,6366,Brian Mahecha,,Christopher Kriebel,L,0,N/A,Indianapolis Open,70KG,4F,2022
+31235,6366,Brian Mahecha,8536,Yuta Shimada,L,0,Armbar,Charleston Open,70KG,SF,2022
+31626,6366,Brian Mahecha,9074,Joao Mendes,L,0,Pts: 8x4,Pan American,70KG,R1,2022
+31985,6366,Brian Mahecha,,Bebeto Oliveira,L,0,Points,Nashville Open,70KG,SF,2022
+32749,6366,Brian Mahecha,13175,Ariel Tabak,L,0,Referee Decision,Houston Open,70KG,F,2022
+33678,6366,Brian Mahecha,11510,Samuel Nagai,L,0,Armbar,Austin SMO,70KG,F,2022
+33751,6366,Brian Mahecha,12633,Ismael Santos,L,0,Points,Orlando SMO,70KG,4F,2022
+35197,6366,Brian Mahecha,12633,Ismael Santos,L,0,Pts: 10x4,Atlanta FO,70KG,SF,2022
+37788,6366,Brian Mahecha,,Joao Pedro,L,0,Pts: 6x4,Tampa Open,70KG,F,2023
+38371,6366,Brian Mahecha,11963,Diego Sodre,L,0,Pts: 4x2,Pan American,70KG,8F,2023
+39228,6366,Brian Mahecha,,Joao Oliveira,L,0,Triangle armbar,Miami Open,70KG,SF,2023
+39752,6366,Brian Mahecha,11093,Emilio Hernandez,L,0,Toe hold,Atanta SPO,70KG,SF,2023
+40231,6366,Brian Mahecha,5414,Osvaldo Moizinho,L,0,Armbar,World Champ.,70KG,R1,2023
+41349,6366,Brian Mahecha,,Isaac Rossi,L,0,N/A,NOrleans Open,70KG,RR,2023
+41350,6366,Brian Mahecha,11093,Emilio Hernandez,L,0,N/A,NOrleans Open,70KG,RR,2023
+7010,6366,Brian Mahecha,,Jean Cartagena,W,1,Armbar,NY Spring Open,70KG,4F,2015
+7087,6366,Brian Mahecha,,Danilo Barbosa,W,1,N/A,World Pro,65KG,R1,2015
+7612,6366,Brian Mahecha,,Vitor Riciotti,W,1,Choke from back,American Nat.,70KG,4F,2015
+8287,6366,Brian Mahecha,,Paulo Silva,W,1,Points,Miami Open,76KG,4F,2015
+8596,6366,Brian Mahecha,,Spencer Guilliam,W,1,Points,Houston Nat. Pro,77KG,SF,2015
+8598,6366,Brian Mahecha,6368,Kevin Mahecha,W,1,Points,Houston Nat. Pro,77KG,F,2015
+8599,6366,Brian Mahecha,,Jose Portillo,W,1,Referee Decision,Houston Nat. Pro,O77KG,SF,2015
+8601,6366,Brian Mahecha,6368,Kevin Mahecha,W,1,Points,Houston Nat. Pro,O77KG,F,2015
+8918,6366,Brian Mahecha,,T. Tammilehto,W,1,Armbar,European Open,70KG,4F,2016
+9047,6366,Brian Mahecha,,Christopher Kriebel,W,1,Armbar,Atlanta W. Open,70KG,SF,2016
+9048,6366,Brian Mahecha,1640,Andre Monteiro,W,1,Pts: 4x2,Atlanta W. Open,70KG,F,2016
+9567,6366,Brian Mahecha,,Vinicius de Lima,W,1,Armbar,World Pro,69KG,R1,2016
+9571,6366,Brian Mahecha,,Murat Besnek,W,1,Pts: 2x0,World Pro,69KG,8F,2016
+10437,6366,Brian Mahecha,,Mario Silva,W,1,Armbar,Grand Slam LA,69KG,4F,2016
+11547,6366,Brian Mahecha,,Jakub Witkowski,W,1,"Pts: 4x4, Adv",European Open,70KG,R1,2017
+13792,6366,Brian Mahecha,,Thiago Lemos,W,1,Pts: 2x0,Grand Slam LA,69KG,R1,2017
+13794,6366,Brian Mahecha,,Bruno Carvalho,W,1,Submission,Grand Slam LA,69KG,4F,2017
+13796,6366,Brian Mahecha,9385,Brandon Walensky,W,1,Pts: 2x0,Grand Slam LA,69KG,SF,2017
+14900,6366,Brian Mahecha,,Tomoshige Sera,W,1,"Pts: 4x4, Adv",European Open,70KG,R1,2018
+16396,6366,Brian Mahecha,,Francisco Jackson,W,1,N/A,Miami SPO,76KG,SF,2018
+17035,6366,Brian Mahecha,9934,Deandre Corbe,W,1,Points,Orlando Open,70KG,SF,2018
+17854,6366,Brian Mahecha,,Eduardo Mulki,W,1,Armbar,Miami FO,76KG,4F,2018
+17857,6366,Brian Mahecha,12376,Rodrigo Francioni,W,1,Armbar,Miami FO,76KG,SF,2018
+20477,6366,Brian Mahecha,,Esdras Felix,W,1,Points,Miami SPO,76KG,4F,2019
+20479,6366,Brian Mahecha,,Edward Hohl,W,1,Points,Miami SPO,76KG,SF,2019
+22205,6366,Brian Mahecha,,Michael Pepio,W,1,N/A,Miami FO,76KG,SF,2019
+24129,6366,Brian Mahecha,,Tyson Antillon,W,1,N/A,Pan American,70KG,R1,2020
+25187,6366,Brian Mahecha,,Edward Allen,W,1,Armbar,Dallas Open,70KG,4F,2021
+27229,6366,Brian Mahecha,10408,Israel Sousa,W,1,Pts: 5x4,Grand Slam MIA,69KG,4F,2021
+27236,6366,Brian Mahecha,,Felipe Simplicio,W,1,Pts: 3x2,Grand Slam MIA,69KG,RPC,2021
+29013,6366,Brian Mahecha,,Felipe Simplicio,W,1,N/A,JJ CON,70KG,R1,2021
+31232,6366,Brian Mahecha,,Giovanni Marcelo,W,1,"Pts: 2x2, Adv",Charleston Open,70KG,4F,2022
+31982,6366,Brian Mahecha,,Max DeBeen,W,1,Pts: 14x4,Nashville Open,70KG,4F,2022
+32746,6366,Brian Mahecha,,Pedro Sousa,W,1,Armbar,Houston Open,70KG,4F,2022
+32748,6366,Brian Mahecha,,Ygor Mauricio,W,1,Points,Houston Open,70KG,SF,2022
+33676,6366,Brian Mahecha,,Pedro Sousa,W,1,Armbar,Austin SMO,70KG,SF,2022
+35196,6366,Brian Mahecha,,Suraj Budhram,W,1,Armbar,Atlanta FO,70KG,4F,2022
+35785,6366,Brian Mahecha,,Alan Jurado,W,1,Clock choke,Miami FO,70KG,SF,2022
+37786,6366,Brian Mahecha,,Marcos Vinicius,W,1,Armbar,Tampa Open,70KG,SF,2023
+38364,6366,Brian Mahecha,,Jean Pierre,W,1,Armbar,Pan American,70KG,R1,2023

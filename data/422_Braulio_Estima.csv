@@ -1,0 +1,81 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1005,422,Braulio Estima,117,Ronaldo Souza,L,0,Flying triangle,Pan American,88KG,F,2004
+1196,422,Braulio Estima,,Vitor Viana,L,0,RNC,ADCC,99KG,R1,2005
+1303,422,Braulio Estima,117,Ronaldo Souza,L,0,Pts: 6x0,World Champ.,88KG,F,2005
+1324,422,Braulio Estima,117,Ronaldo Souza,L,0,Pts: 9x0,World Champ.,ABS,SF,2005
+1393,422,Braulio Estima,84,Alexandre Ribeiro,L,0,Points,Pan American,ABS,SF,2006
+1466,422,Braulio Estima,224,Roberto Abreu,L,0,Armbar,World Champ.,ABS,R1,2006
+1657,422,Braulio Estima,477,Tarsis Humphreys,L,0,Points,ADCC,ABS,R1,2007
+1715,422,Braulio Estima,84,Alexandre Ribeiro,L,0,Points,ADCC,99KG,F,2007
+1844,422,Braulio Estima,,Jeff Monson,L,0,Points,10k Challenge,ABS,F,2007
+1955,422,Braulio Estima,144,Andre Galvao,L,0,Choke from back,World Champ.,88KG,F,2008
+2130,422,Braulio Estima,477,Tarsis Humphreys,L,0,"Pts: 2x2, Adv",World Pro.,ABS,F,2009
+2144,422,Braulio Estima,247,Rodolfo Vieira,L,0,"Pts: 0x0, Adv",World Pro.,94KG,SF,2009
+2636,422,Braulio Estima,410,Claudio Calasans,L,0,Adv,World Pro.,ABS,F,2010
+2642,422,Braulio Estima,410,Claudio Calasans,L,0,"Pts: 2x2, Pen",World Pro.,83KG,F,2010
+4471,422,Braulio Estima,247,Rodolfo Vieira,L,0,Referee Decision,Metamoris 2,ABS,SPF,2013
+4845,422,Braulio Estima,84,Alexandre Ribeiro,L,0,Points,Copa Podio,ABS,SPF,2013
+5067,422,Braulio Estima,144,Andre Galvao,L,0,RNC,ADCC,ABS,SPF,2013
+5633,422,Braulio Estima,3009,Keenan Cornelius,L,0,Pts: 2x0,World Pro.,ABS,4F,2014
+5720,422,Braulio Estima,425,Bernardo Faria,L,0,Pts: 8x0,World Champ.,ABS,4F,2014
+10183,422,Braulio Estima,1757,Alexander Trans,L,0,Pts: 6x0,Copa Podio,ABS,SPF,2016
+14969,422,Braulio Estima,8100,Rudson Mateus,L,0,Referee Decision,ACB 10,85KG,SPF,2018
+1002,422,Braulio Estima,,Todd Margolis,W,1,Triangle,Pan American,88KG,4F,2004
+1003,422,Braulio Estima,1223,Cassio Werneck,W,1,Ezekiel,Pan American,88KG,SF,2004
+1296,422,Braulio Estima,1325,Ricardo Cavalcanti,W,1,Armbar,World Champ.,88KG,R1,2005
+1299,422,Braulio Estima,,Rafael Mota,W,1,Adv,World Champ.,88KG,4F,2005
+1301,422,Braulio Estima,112,Demian Maia,W,1,"Pts: 0x0, Adv",World Champ.,88KG,SF,2005
+1322,422,Braulio Estima,84,Alexandre Ribeiro,W,1,Pts: 5x4,World Champ.,ABS,R1,2005
+1376,422,Braulio Estima,,Carlos Francis,W,1,N/A,Pan American,94KG,SF,2006
+1377,422,Braulio Estima,562,Eduardo Telles,W,1,Triangle armbar,Pan American,94KG,F,2006
+1381,422,Braulio Estima,613,Wellington Dias,W,1,Triangle,Pan American,ABS,R1,2006
+1388,422,Braulio Estima,9941,Edson Diniz,W,1,Armbar,Pan American,ABS,4F,2006
+1438,422,Braulio Estima,,Rogel Alexandre,W,1,Triangle,World Champ.,88KG,R1,2006
+1443,422,Braulio Estima,449,Alexandre Souza,W,1,Triangle,World Champ.,88KG,4F,2006
+1444,422,Braulio Estima,1820,Delson Heleno,W,1,Pts: 6x4,World Champ.,88KG,F,2006
+1709,422,Braulio Estima,,Tomas Szczerek,W,1,Armbar,ADCC,99KG,R1,2007
+1711,422,Braulio Estima,2956,Cristiano Lazzarini,W,1,Katagatame,ADCC,99KG,4F,2007
+1713,422,Braulio Estima,,A. Cacareco,W,1,Triangle,ADCC,99KG,SF,2007
+1831,422,Braulio Estima,,Haim Gozali,W,1,Triangle,10k Challenge,ABS,GP,2007
+1832,422,Braulio Estima,,Pedro Bessa,W,1,Armbar,10k Challenge,ABS,GP,2007
+1833,422,Braulio Estima,,Tito Beltran,W,1,RNC,10k Challenge,ABS,GP,2007
+1843,422,Braulio Estima,576,Rafael Lovato,W,1,Armbar,10k Challenge,ABS,SF,2007
+1949,422,Braulio Estima,,Lee Douglas,W,1,Armbar,World Champ.,88KG,R1,2008
+1951,422,Braulio Estima,,Roger Monsalve,W,1,Triangle,World Champ.,88KG,4F,2008
+1954,422,Braulio Estima,484,Murilo Santana,W,1,N/A,World Champ.,88KG,SF,2008
+2059,422,Braulio Estima,,Edmilson C.,W,1,Choke,Capital Challenge,88KG,SF,2008
+2061,422,Braulio Estima,2107,Otavio Sousa,W,1,Armbar,Capital Challenge,88KG,F,2008
+2077,422,Braulio Estima,886,Leonardo Leite,W,1,Points,Capital Challenge,ABS,F,2008
+2107,422,Braulio Estima,449,Alexandre Souza,W,1,Adv,European,94KG,F,2009
+2110,422,Braulio Estima,449,Alexandre Souza,W,1,Points,European,ABS,F,2009
+2126,422,Braulio Estima,576,Rafael Lovato,W,1,Pts: 5x0,World Pro.,ABS,4F,2009
+2129,422,Braulio Estima,16,Marcelo Garcia,W,1,Triangle,World Pro.,ABS,SF,2009
+2142,422,Braulio Estima,,M. Costa,W,1,Bread cutter,World Pro.,94KG,R1,2009
+2143,422,Braulio Estima,322,Fabio Gurgel,W,1,Pts: 2x0,World Pro.,94KG,4F,2009
+2259,422,Braulio Estima,,Yuji Arai,W,1,RNC,ADCC,88KG,R1,2009
+2265,422,Braulio Estima,1526,James Brasco,W,1,Points,ADCC,88KG,4F,2009
+2267,422,Braulio Estima,576,Rafael Lovato,W,1,Estima lock,ADCC,88KG,SF,2009
+2269,422,Braulio Estima,144,Andre Galvao,W,1,Inverted triangle,ADCC,88KG,F,2009
+2299,422,Braulio Estima,,Janne-Pekka,W,1,Armbar,ADCC,ABS,R1,2009
+2303,422,Braulio Estima,16,Marcelo Garcia,W,1,Inverted Katagatame,ADCC,ABS,4F,2009
+2306,422,Braulio Estima,733,Vinny Magalhaes,W,1,Points,ADCC,ABS,SF,2009
+2307,422,Braulio Estima,84,Alexandre Ribeiro,W,1,Injury,ADCC,ABS,F,2009
+2354,422,Braulio Estima,7201,Rodrigo Pinheiro,W,1,Triangle,World Champ.,94KG,4F,2009
+2358,422,Braulio Estima,474,Alexandre Ceconi,W,1,Submission,World Champ.,94KG,SF,2009
+2359,422,Braulio Estima,449,Alexandre Souza,W,1,Pts: 2x0,World Champ.,94KG,F,2009
+2847,422,Braulio Estima,138,Sergio Moraes,W,1,Adv,European,88KG,F,2011
+3321,422,Braulio Estima,117,Ronaldo Souza,W,1,Pts: 3x0,ADCC,ABS,SPF,2011
+4805,422,Braulio Estima,1895,Rodrigo Fajardo,W,1,Armbar,World Champ.,88KG,4F,2013
+4807,422,Braulio Estima,144,Andre Galvao,W,1,Pts: 6x2,World Champ.,88KG,SF,2013
+5619,422,Braulio Estima,,A. Ortiz,W,1,Choke from back,World Pro.,ABS,R1,2014
+5623,422,Braulio Estima,,Chris Bowe,W,1,Submission,World Pro.,ABS,R2,2014
+5627,422,Braulio Estima,543,Rodrigo Cavaca,W,1,Choke from back,World Pro.,ABS,R2,2014
+5667,422,Braulio Estima,875,Lucas Leite,W,1,Pts: 3x0,World Pro.,94KG,R1,2014
+5670,422,Braulio Estima,3009,Keenan Cornelius,W,1,Points,World Pro.,94KG,SF,2014
+5671,422,Braulio Estima,1290,Tarcisio Jardim,W,1,Triangle,World Pro.,94KG,F,2014
+5706,422,Braulio Estima,,A. Antonioli,W,1,Armbar,World Champ.,ABS,R2,2014
+5713,422,Braulio Estima,224,Roberto Abreu,W,1,Points,World Champ.,ABS,R3,2014
+5826,422,Braulio Estima,,Don Schon,W,1,Triangle,World Champ.,88KG,RDS,2014
+5828,422,Braulio Estima,,Raul Castillo,W,1,Triangle,World Champ.,88KG,RDS,2014
+5832,422,Braulio Estima,4145,Thiago Sa,W,1,Choke from back,World Champ.,88KG,4F,2014
+5835,422,Braulio Estima,484,Murilo Santana,W,1,Pts: 8x2,World Champ.,88KG,SF,2014

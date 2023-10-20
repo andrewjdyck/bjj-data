@@ -1,0 +1,100 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+11122,12277,Pedro Agrizzi,6301,Faisal AlKitbe,L,0,Pen,G.S. Rio NoGi,83KG,F,2016
+13560,12277,Pedro Agrizzi,443,Claudio Mattos,L,0,Points,Vitoria Open,82KG,F,2017
+18988,12277,Pedro Agrizzi,,Joao Oliveira,L,0,"Pts: 0x0, Adv",Guarapari Pro,94KG,SF,2019
+19671,12277,Pedro Agrizzi,387,Braga Neto,L,0,Pts: 4x2,Pan American,O100KG,4F,2019
+20325,12277,Pedro Agrizzi,4960,Dimitrius Souza,L,0,Points,Brasileiro,94KG,4F,2019
+20434,12277,Pedro Agrizzi,7047,Matheus Spirandeli,L,0,Adv,Copa Podio Trials,85KG,SPF,2019
+22465,12277,Pedro Agrizzi,6631,Igor Schneider,L,0,Points,Rio BJJ Pro,O94KG,F,2019
+23391,12277,Pedro Agrizzi,12055,Yatan Bueno,L,0,Points,Curitiba SO,O100KG,SF,2020
+23397,12277,Pedro Agrizzi,4521,Erberth Santos,L,0,Pts: 2x0,Curitiba SO,ABS,SF,2020
+24888,12277,Pedro Agrizzi,4460,Jaime Canuto,L,0,Referee Decision,South American,ABS,SF,2020
+24941,12277,Pedro Agrizzi,,Tyrone Gonsalves,L,0,Adv,South American,94KG,SF,2020
+25933,12277,Pedro Agrizzi,12275,Davi Cabral,L,0,Referee Decision,S. American NG,O97KG,F,2021
+25941,12277,Pedro Agrizzi,9554,Henrique Cardoso,L,0,"Pts: 2x2, Adv",S. American NG,ABS,4F,2021
+30085,12277,Pedro Agrizzi,9554,Henrique Cardoso,L,0,Referee Decision,ADCC BR1 Trials,99KG,4F,2022
+30413,12277,Pedro Agrizzi,,Kitner Moura,L,0,Referee Decision,ADCC BR2 Trials,O99KG,8F,2022
+31040,12277,Pedro Agrizzi,11685,Anderson Munis,L,0,"Pts: 4x4, Adv",Curitiba Open,100KG,F,2022
+31805,12277,Pedro Agrizzi,,Euclides Castro,L,0,Pts: 5x0,Porto Pro,120KG,F,2022
+34164,12277,Pedro Agrizzi,10817,Gabriel Henrique,L,0,DQ,Vitoria Open,100KG,F,2022
+34323,12277,Pedro Agrizzi,6825,Fernando Reis,L,0,"Pts: 2x2, Adv",Brasileiro NoGi,91KG,SF,2022
+34349,12277,Pedro Agrizzi,9554,Henrique Cardoso,L,0,"Pts: 0x0, Adv",Brasileiro NoGi,ABS,4F,2022
+36494,12277,Pedro Agrizzi,,Marcos Carrozzino,L,0,Pts: 4x2,S.American NG,97KG,SF,2022
+36505,12277,Pedro Agrizzi,11862,Pedro Alex,L,0,Pts: 2x0,S.American NG,ABS,4F,2022
+36874,12277,Pedro Agrizzi,11384,Andre Porfirio,L,0,Referee Decision,NoGi Worlds,91KG,8F,2022
+40997,12277,Pedro Agrizzi,,Alvaro Oliveira,L,0,"Pts: 0x0, Adv",Fortaleza Open,94KG,F,2023
+11070,12277,Pedro Agrizzi,,Renan Gomes,W,1,Points,Grand Slam RJ,85KG,R1,2016
+11076,12277,Pedro Agrizzi,,Joao Santos,W,1,Arm in Ezekiel,Grand Slam RJ,85KG,8F,2016
+11081,12277,Pedro Agrizzi,,Romeu Mendes,W,1,Choke from back,Grand Slam RJ,85KG,4F,2016
+11117,12277,Pedro Agrizzi,,Joao Santos,W,1,"Pts: 0x0, Adv",G.S. Rio NoGi,83KG,4F,2016
+11119,12277,Pedro Agrizzi,,Jose Alves,W,1,Pts: 7x0,G.S. Rio NoGi,83KG,SF,2016
+13557,12277,Pedro Agrizzi,,N/A,W,1,Omoplata,Vitoria Open,82KG,4F,2017
+13558,12277,Pedro Agrizzi,,Andre Cantanhede,W,1,Straight ankle lock,Vitoria Open,82KG,SF,2017
+14994,12277,Pedro Agrizzi,,Celson Caetano,W,1,Kimura,BR National Pro,85KG,SF,2018
+14995,12277,Pedro Agrizzi,,Michael Silva,W,1,Choke from back,BR National Pro,85KG,F,2018
+17918,12277,Pedro Agrizzi,,Manoel Cocconi,W,1,Points,Curitiba SPO,88KG,4F,2018
+17919,12277,Pedro Agrizzi,,Christofer Feijo,W,1,Pts: 2x0,Curitiba SPO,88KG,SF,2018
+17920,12277,Pedro Agrizzi,,Victor Neves,W,1,Referee Decision,Curitiba SPO,88KG,F,2018
+18989,12277,Pedro Agrizzi,,A. Vieira,W,1,Choke from back,Guarapari Pro,94KG,3RD,2019
+19395,12277,Pedro Agrizzi,,Casey Hellenberg,W,1,Adv,Houston Open,100KG,SF,2019
+19396,12277,Pedro Agrizzi,,Jimmy Lugo,W,1,Pts: 2x0,Houston Open,100KG,F,2019
+19509,12277,Pedro Agrizzi,,Ricardo Ribeiro,W,1,Points,Cincinnati Open,O100KG,F,2019
+19511,12277,Pedro Agrizzi,,Brennan Schroeder,W,1,Armbar,Cincinnati Open,ABS,R1,2019
+19515,12277,Pedro Agrizzi,,Scott Jutras,W,1,Choke from back,Cincinnati Open,ABS,4F,2019
+19516,12277,Pedro Agrizzi,,Ashur Darmo,W,1,Estima lock,Cincinnati Open,ABS,SF,2019
+19518,12277,Pedro Agrizzi,,Daniel Speirn,W,1,Reverse triangle,Cincinnati Open,ABS,F,2019
+19771,12277,Pedro Agrizzi,,Gilvan Costa,W,1,Choke from back,F2W 107,N/A,SPF,2019
+19907,12277,Pedro Agrizzi,,Ronnie Pace,W,1,Pts: 4x0,Washington DCO,94KG,F,2019
+21292,12277,Pedro Agrizzi,,Marcelo Castro,W,1,DQ,Vitoria Open,100KG,SF,2019
+21293,12277,Pedro Agrizzi,1986,Vitor Toledo,W,1,Pts: 2x0,Vitoria Open,100KG,F,2019
+21310,12277,Pedro Agrizzi,,Marcelo Castro,W,1,Submission,Vitoria NGO,O97KG,SF,2019
+21311,12277,Pedro Agrizzi,,Leo Nascimento,W,1,Verbal tap,Vitoria NGO,O97KG,F,2019
+22091,12277,Pedro Agrizzi,,Leo Nascimento,W,1,Choke from back,BH SPO,O100KG,SF,2019
+22092,12277,Pedro Agrizzi,,Alvaro Walter,W,1,Pts: 2x0,BH SPO,O100KG,F,2019
+22463,12277,Pedro Agrizzi,11572,Waldyr Filho,W,1,Referee Decision,Rio BJJ Pro,O94KG,SF,2019
+23387,12277,Pedro Agrizzi,,N/A,W,1,Points,Curitiba SO,O100KG,4F,2020
+23394,12277,Pedro Agrizzi,10835,Eduardo Avelar,W,1,Adv,Curitiba SO,ABS,R1,2020
+23395,12277,Pedro Agrizzi,6596,Jhonny Loureiro,W,1,Adv,Curitiba SO,ABS,4F,2020
+23402,12277,Pedro Agrizzi,,Advilson Gallego,W,1,Pts: 2x0,Curitiba SMNG,97KG,4F,2020
+23403,12277,Pedro Agrizzi,,Maique Azevedo,W,1,Pts: 4x0,Curitiba SMNG,97KG,F,2020
+23404,12277,Pedro Agrizzi,,N/A,W,1,Referee Decision,Curitiba SMNG,ABS,R1,2020
+23405,12277,Pedro Agrizzi,,W. Sebastiao,W,1,Pts: 2x0,Curitiba SMNG,ABS,4F,2020
+23406,12277,Pedro Agrizzi,,Maique Azevedo,W,1,RNC,Curitiba SMNG,ABS,SF,2020
+23407,12277,Pedro Agrizzi,,Gabriel Lima,W,1,DQ,Curitiba SMNG,ABS,F,2020
+23411,12277,Pedro Agrizzi,,Afonso Paiva,W,1,Choke,Mundial CBJJE,100KG,4F,2020
+23412,12277,Pedro Agrizzi,,Maique Azevedo,W,1,Straight ankle lock,Mundial CBJJE,100KG,SF,2020
+23413,12277,Pedro Agrizzi,,David Vale,W,1,Toe hold,Mundial CBJJE,100KG,F,2020
+24879,12277,Pedro Agrizzi,,Igor Canedo,W,1,N/A,South American,ABS,8F,2020
+24936,12277,Pedro Agrizzi,,Leandro Ramos,W,1,N/A,South American,94KG,4F,2020
+25070,12277,Pedro Agrizzi,,Afonso Paiva,W,1,Clock choke,Guarapari Pro,94KG,4F,2021
+25071,12277,Pedro Agrizzi,,Gabriel Ventura,W,1,Pts: 1x0,Guarapari Pro,94KG,SF,2021
+25073,12277,Pedro Agrizzi,12275,Davi Cabral,W,1,Pts: 4x3,Guarapari Pro,94KG,F,2021
+25930,12277,Pedro Agrizzi,,Leo Davila,W,1,Armlock,S. American NG,O97KG,4F,2021
+25932,12277,Pedro Agrizzi,,Antonio Assef,W,1,Points,S. American NG,O97KG,SF,2021
+26794,12277,Pedro Agrizzi,,Uilton Silva,W,1,Toe hold,Rio Winter Open,94KG,SF,2021
+26795,12277,Pedro Agrizzi,,Elioenai Braz,W,1,Pts: 2x0,Rio Winter Open,94KG,F,2021
+27426,12277,Pedro Agrizzi,,Leo Goncalves,W,1,Pts: 4x2,Sul Americano,100KG,4F,2021
+27428,12277,Pedro Agrizzi,,Vitor Mello,W,1,Points,Sul Americano,100KG,SF,2021
+27430,12277,Pedro Agrizzi,10644,Marcelo Gomide,W,1,Pts: 2x0,Sul Americano,100KG,F,2021
+29953,12277,Pedro Agrizzi,,Wanderson Braga,W,1,Armbar,Guarapari Pro,94KG,SF,2022
+29954,12277,Pedro Agrizzi,,Rafael Moreira,W,1,Choke,Guarapari Pro,94KG,F,2022
+30076,12277,Pedro Agrizzi,,Vagner Kiyoshi,W,1,"Pts: 0x0, Pen",ADCC BR1 Trials,99KG,R1,2022
+30081,12277,Pedro Agrizzi,,Sebastian Fernandez,W,1,Pts: 2x0,ADCC BR1 Trials,99KG,R2,2022
+30398,12277,Pedro Agrizzi,,Gabriel Escobar,W,1,Referee Decision,ADCC BR2 Trials,O99KG,R1,2022
+31037,12277,Pedro Agrizzi,,Paulo Otavio,W,1,Pts: 2x0,Curitiba Open,100KG,4F,2022
+31039,12277,Pedro Agrizzi,,Lucas Cazuza,W,1,Short choke,Curitiba Open,100KG,SF,2022
+31803,12277,Pedro Agrizzi,,Guilherme Jardim,W,1,Pts: 2x0,Porto Pro,120KG,SF,2022
+33629,12277,Pedro Agrizzi,,Elionai Braz,W,1,Inside heel hook,Betim NGO,91KG,SF,2022
+33630,12277,Pedro Agrizzi,,Erick Diovano,W,1,Pts: 4x0,Betim NGO,91KG,F,2022
+34162,12277,Pedro Agrizzi,,Kelvin Cruz,W,1,Pts: 2x0,Vitoria Open,100KG,SF,2022
+34183,12277,Pedro Agrizzi,,Alisson Oliveira,W,1,RNC,Vitoria NGO,91KG,SF,2022
+34184,12277,Pedro Agrizzi,,Sebastiao Araujo,W,1,Pts: 5x0,Vitoria NGO,91KG,F,2022
+34321,12277,Pedro Agrizzi,,Erick Diovanni,W,1,Pts: 2x0,Brasileiro NoGi,91KG,4F,2022
+34343,12277,Pedro Agrizzi,,Cleyton Flores,W,1,Inside heel hook,Brasileiro NoGi,ABS,8F,2022
+36490,12277,Pedro Agrizzi,,Advilson Santos,W,1,Inside heel hook,S.American NG,97KG,4F,2022
+36499,12277,Pedro Agrizzi,,Jose Eduardo,W,1,Points,S.American NG,ABS,R1,2022
+40995,12277,Pedro Agrizzi,,Darlison Sousa,W,1,Pts: 4x3,Fortaleza Open,94KG,SF,2023
+41012,12277,Pedro Agrizzi,,Romulo Negreiros,W,1,Outside heel hook,Fortaleza NGO,97KG,SF,2023
+41013,12277,Pedro Agrizzi,,Thomas Melo,W,1,Outside heel hook,Fortaleza NGO,97KG,F,2023
+41018,12277,Pedro Agrizzi,,Jose Braga,W,1,Outside heel hook,Fortaleza NGO,ABS,SF,2023
+41020,12277,Pedro Agrizzi,,Antonio Assef,W,1,"Pts: 0x0, Adv",Fortaleza NGO,ABS,F,2023

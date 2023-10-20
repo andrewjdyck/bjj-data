@@ -1,0 +1,87 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1579,926,Roberto Alencar,,Rick Macauley,L,0,Heel hook,GQ All Star Pro,90KG,SF,2007
+1764,926,Roberto Alencar,84,Alexandre Ribeiro,L,0,Ezekiel,World Champ.,94KG,F,2007
+1794,926,Roberto Alencar,562,Eduardo Telles,L,0,Points,NoGi Pan Am.,100KG,4F,2007
+1881,926,Roberto Alencar,576,Rafael Lovato,L,0,Adv,Pan American,94KG,F,2008
+1961,926,Roberto Alencar,449,Alexandre Souza,L,0,Points,World Champ.,94KG,SF,2008
+2222,926,Roberto Alencar,637,Bruno Bastos,L,0,Armbar,ADCC Trials,88KG,4F,2009
+2571,926,Roberto Alencar,387,Braga Neto,L,0,Choke from back,Pan American,100KG,SF,2010
+2587,926,Roberto Alencar,911,Antonio Peinado,L,0,Choke,Pan American,ABS,4F,2010
+2618,926,Roberto Alencar,576,Rafael Lovato,L,0,Referee Decision,No Gi Worlds,94KG,F,2010
+2628,926,Roberto Alencar,875,Lucas Leite,L,0,Points,No Gi Worlds,ABS,8F,2010
+2725,926,Roberto Alencar,331,Ricardo Abreu,L,0,Choke,World Champ.,100KG,SF,2010
+2893,926,Roberto Alencar,425,Bernardo Faria,L,0,Armbar,Pan American,94KG,SF,2011
+2986,926,Roberto Alencar,387,Braga Neto,L,0,Referee Decision,World Champ.,ABS,R2,2011
+3122,926,Roberto Alencar,1236,Antonio Carlos,L,0,Pts: 4x2,World Champ.,94KG,4F,2011
+3387,926,Roberto Alencar,875,Lucas Leite,L,0,Adv,No Gi Worlds,94KG,F,2011
+3518,926,Roberto Alencar,247,Rodolfo Vieira,L,0,Arm in Ezekiel,European Open,94KG,F,2012
+3525,926,Roberto Alencar,425,Bernardo Faria,L,0,Omoplata,European Open,ABS,4F,2012
+3812,926,Roberto Alencar,247,Rodolfo Vieira,L,0,Armbar,World Pro.,94KG,F,2012
+3907,926,Roberto Alencar,984,Marcus Almeida,L,0,Flying Triangle,World Champ.,ABS,R2,2012
+4110,926,Roberto Alencar,84,Alexandre Ribeiro,L,0,Flying Armbar,World Champ.,94KG,SF,2012
+4272,926,Roberto Alencar,2226,DJ Jackson,L,0,Pts: 4x0,NoGi Worlds,ABS,8F,2012
+4494,926,Roberto Alencar,,K. Cornelius,L,0,Points,NYC World Trials,92KG,F,2013
+4669,926,Roberto Alencar,247,Rodolfo Vieira,L,0,Points,World Pro,94KG,SF,2013
+4811,926,Roberto Alencar,875,Lucas Leite,L,0,Pts: 16x0,World Champ.,94KG,4F,2013
+5136,926,Roberto Alencar,3200,Jackson Sousa,L,0,"Pts: 0x0, Adv",IBJJF Pro League,94KG,SF,2013
+5404,926,Roberto Alencar,875,Lucas Leite,L,0,Choke from back,Pan American,94KG,SF,2014
+6053,926,Roberto Alencar,4310,Tim Spriggs,L,0,"Pts: 0x0, Adv",NoGi Worlds,94KG,4F,2014
+6092,926,Roberto Alencar,3009,Keenan Cornelius,L,0,Pts: 12x0,IBJJF Pro League,94KG,SF,2014
+7390,926,Roberto Alencar,425,Bernardo Faria,L,0,Bow and arrow,World Champ.,ABS,8F,2015
+7506,926,Roberto Alencar,680,Igor Silva,L,0,Choke,World Champ.,100KG,4F,2015
+7912,926,Roberto Alencar,2416,Felipe Pena,L,0,Pts: 3x0,ADCC,99KG,R1,2015
+8469,926,Roberto Alencar,644,Joao Assis,L,0,Pts: 4x0,NoGi Worlds,97KG,F,2015
+12562,926,Roberto Alencar,7502,Paul Ardila,L,0,Pts: 3x0,ADCC WC Trials,99KG,SF,2017
+18998,926,Roberto Alencar,9321,Dominique Bell,L,0,Adv,Austin W. Open,88KG,F,2019
+22895,926,Roberto Alencar,9157,Devhonte Johnson,L,0,Pts: 2x0,NoGi Worlds,91KG,4F,2019
+1576,926,Roberto Alencar,,Jason Ebarb,W,1,Armbar,GQ All Star Pro,90KG,4F,2007
+1761,926,Roberto Alencar,384,Roberto Tozi,W,1,Pts: 10x0,World Champ.,94KG,4F,2007
+1762,926,Roberto Alencar,,T. Gaia,W,1,Triangle,World Champ.,94KG,SF,2007
+1879,926,Roberto Alencar,384,Roberto Tozi,W,1,Adv,Pan American,94KG,SF,2008
+1957,926,Roberto Alencar,1403,Fernando Piero,W,1,Pts: 6x2,World Champ.,94KG,4F,2008
+2022,926,Roberto Alencar,,Cameron Diffley,W,1,Pts: 21x0,NoGi Worlds,94KG,4F,2008
+2023,926,Roberto Alencar,637,Bruno Bastos,W,1,Pts: 2x0,NoGi Worlds,94KG,F,2008
+2218,926,Roberto Alencar,,Unknown,W,1,Points,ADCC Trials,88KG,R1,2009
+2427,926,Roberto Alencar,,Rodrigo Teixeira,W,1,"Pts: 0x0, Adv",NoGi Worlds,94KG,8F,2009
+2428,926,Roberto Alencar,1994,Travis Lutter,W,1,Points,NoGi Worlds,94KG,4F,2009
+2429,926,Roberto Alencar,644,Joao Assis,W,1,Kimura,NoGi Worlds,94KG,SF,2009
+2430,926,Roberto Alencar,,Marcel Lousado,W,1,Triangle,NoGi Worlds,94KG,F,2009
+2438,926,Roberto Alencar,387,Braga Neto,W,1,Points,NoGi Worlds,ABS,F,2009
+2567,926,Roberto Alencar,,Diego Herzog,W,1,Points,Pan American,100KG,R1,2010
+2570,926,Roberto Alencar,7201,Rodrigo Pinheiro,W,1,Points,Pan American,100KG,4F,2010
+2574,926,Roberto Alencar,,Kouichirou Oka,W,1,Brabo choke,Pan American,ABS,R1,2010
+2617,926,Roberto Alencar,,Rafael Bettega,W,1,Armbar,No Gi Worlds,94KG,SF,2010
+2719,926,Roberto Alencar,,Charles Leite,W,1,Points,World Champ.,100KG,R2,2010
+2722,926,Roberto Alencar,6503,Marcel Fortuna,W,1,"Pts: 2x2, Adv",World Champ.,100KG,4F,2010
+3074,926,Roberto Alencar,,Matheus Serafim,W,1,Triangle,World Champ.,94KG,RDS,2011
+3080,926,Roberto Alencar,,Unknown,W,1,N/A,World Champ.,94KG,RDS,2011
+3362,926,Roberto Alencar,,Leo Davila,W,1,N/A,No Gi Worlds,94KG,4F,2011
+3377,926,Roberto Alencar,,Kevin Casey,W,1,DQ,No Gi Worlds,94KG,SF,2011
+3516,926,Roberto Alencar,576,Rafael Lovato,W,1,N/A,European Open,94KG,SF,2012
+3809,926,Roberto Alencar,,Vladimiro Afonso,W,1,Brabo Choke,World Pro.,94KG,4F,2012
+3810,926,Roberto Alencar,,Pedro Lott,W,1,Submission,World Pro.,94KG,SF,2012
+3899,926,Roberto Alencar,,Paulo Pinto,W,1,Pts: 7x0,World Champ.,ABS,R2,2012
+4092,926,Roberto Alencar,,Adriano Inacio Rosa,W,1,N/A,World Champ.,94KG,R1,2012
+4101,926,Roberto Alencar,,Wagner Oliveira,W,1,N/A,World Champ.,94KG,R2,2012
+4107,926,Roberto Alencar,477,Tarsis Humphreys,W,1,Pts: 0x0,World Champ.,94KG,4F,2012
+4250,926,Roberto Alencar,562,Eduardo Telles,W,1,Points,NoGi Worlds,94KG,4F,2012
+4252,926,Roberto Alencar,,Diego Herzog,W,1,Points,NoGi Worlds,94KG,SF,2012
+4253,926,Roberto Alencar,576,Rafael Lovato,W,1,Referee Decision,NoGi Worlds,94KG,F,2012
+4493,926,Roberto Alencar,,Unknown,W,1,Ezekiel,NYC World Trials,92KG,SF,2013
+4616,926,Roberto Alencar,,Unknown,W,1,Kimura,Pan American,88KG,R1,2013
+4620,926,Roberto Alencar,,Bernardo Filho,W,1,N/A,Pan American,88KG,4F,2013
+4622,926,Roberto Alencar,1290,Tarcisio Jardim,W,1,Submission,Pan American,88KG,SF,2013
+4623,926,Roberto Alencar,1604,Nivaldo Oliveira,W,1,Adv,Pan American,88KG,F,2013
+5397,926,Roberto Alencar,,Guilherme Santos,W,1,Points,Pan American,94KG,8F,2014
+5401,926,Roberto Alencar,,Fabiano Leite,W,1,Pts: 4x2,Pan American,94KG,4F,2014
+7003,926,Roberto Alencar,,Márcio Pedra,W,1,Pts: 2x0,ADCC RJ,99KG,R1,2015
+7004,926,Roberto Alencar,543,Rodrigo Cavaca,W,1,Pts: 3x0,ADCC RJ,99KG,4F,2015
+7005,926,Roberto Alencar,,Aleksandro Souza,W,1,RNC,ADCC RJ,99KG,SF,2015
+7006,926,Roberto Alencar,,Marcus Vinicius,W,1,Pts: 3x0,ADCC RJ,99KG,F,2015
+7380,926,Roberto Alencar,6156,Tanner Rice,W,1,Adv,World Champ.,ABS,R1,2015
+8466,926,Roberto Alencar,,James Quinlan,W,1,Guillotine,NoGi Worlds,97KG,4F,2015
+8468,926,Roberto Alencar,9338,Guybson Sa,W,1,Kimura,NoGi Worlds,97KG,SF,2015
+12548,926,Roberto Alencar,,Charles Rooney,W,1,Toe hold,ADCC WC Trials,99KG,R1,2017
+12557,926,Roberto Alencar,,Andy Burke,W,1,Pts: 6x0,ADCC WC Trials,99KG,8F,2017
+12559,926,Roberto Alencar,,Kevin Gallagher,W,1,RNC,ADCC WC Trials,99KG,4F,2017
+18997,926,Roberto Alencar,,Josh McKinney,W,1,Points,Austin W. Open,88KG,SF,2019

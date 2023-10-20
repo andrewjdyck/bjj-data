@@ -1,0 +1,31 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+17276,9253,Michael Trasso,4235,Victor Silverio,L,0,Pts: 2x0,Las Vegas Open,82KG,4F,2018
+17306,9253,Michael Trasso,,Lucas Valle,L,0,Pts: 6x0,LV NG Open,79KG,F,2018
+17438,9253,Michael Trasso,8116,Dante Leon,L,0,Pts: 2x0,No Gi Pan Am.,79KG,F,2018
+17572,9253,Michael Trasso,9217,Caio Caetano,L,0,Pts: 4x2,Grand Slam LA,77KG,R1,2018
+18446,9253,Michael Trasso,9637,Sergio Rios,L,0,Referee Decision,F2W 95,75KG,SPF,2018
+18632,9253,Michael Trasso,5636,Manuel Ribamar,L,0,Pts: 2x0,NoGi Worlds,79KG,R2,2018
+19991,9253,Michael Trasso,8081,Nathan Mendelsohn,L,0,Pts: 4x0,San Jose Open,82KG,4F,2019
+22866,9253,Michael Trasso,7831,Diego Ramalho,L,0,"Pts: 0x0, Adv",NoGi Worlds,79KG,R1,2019
+23489,9253,Michael Trasso,10162,Ronaldo Junior,L,0,Triangle,San Jose Open,82KG,4F,2020
+24484,9253,Michael Trasso,10220,Paulo Gabriel,L,0,"Pts: 0x0, Adv",No Gi Pan Am.,79KG,4F,2020
+26002,9253,Michael Trasso,,Alexander Lane,L,0,Choke from back,N.Orleans Open,82KG,RR,2021
+26003,9253,Michael Trasso,,Alexander Lane,L,0,Pts: 4x2,N.Orleans Open,82KG,RR,2021
+26013,9253,Michael Trasso,9217,Caio Caetano,L,0,Choke from back,N.Orleans Open,ABS,R1,2021
+26030,9253,Michael Trasso,9002,Matheus Gabriel,L,0,Triangle armbar,N.Orleans NGO,79KG,F,2021
+26136,9253,Michael Trasso,9002,Matheus Gabriel,L,0,Triangle,NoGi Pan Am.,79KG,SF,2021
+17274,9253,Michael Trasso,,Rennick Kama,W,1,Points,Las Vegas Open,82KG,R1,2018
+17301,9253,Michael Trasso,,Gustavo Delmonde,W,1,Pts: 6x0,LV NG Open,79KG,R1,2018
+17302,9253,Michael Trasso,9706,Marcelo Mafra,W,1,"Pts: 0x0, Adv",LV NG Open,79KG,4F,2018
+17305,9253,Michael Trasso,4235,Victor Silverio,W,1,Pts: 6x2,LV NG Open,79KG,SF,2018
+17430,9253,Michael Trasso,12338,Gialysson Freitas,W,1,Pts: 2x0,No Gi Pan Am.,79KG,R1,2018
+17434,9253,Michael Trasso,9845,Chad Hardy,W,1,Pts: 2x0,No Gi Pan Am.,79KG,4F,2018
+17436,9253,Michael Trasso,,Oliver Kee-Seng,W,1,Pts: 2x0,No Gi Pan Am.,79KG,SF,2018
+18620,9253,Michael Trasso,,Staley Rosa,W,1,Pts: 2x0,NoGi Worlds,79KG,R1,2018
+20018,9253,Michael Trasso,9440,Jeremy Jackson,W,1,Points,San Jose NGO,79KG,SF,2019
+20019,9253,Michael Trasso,11465,Kauan Barboza,W,1,Kimura,San Jose NGO,79KG,F,2019
+23423,9253,Michael Trasso,,Miha Perhavec,W,1,Referee Decision,F2W 136,83KG,SPF,2020
+24479,9253,Michael Trasso,11646,Andre Gois,W,1,Pts: 2x0,No Gi Pan Am.,79KG,R1,2020
+26028,9253,Michael Trasso,,Tyler Scalisi,W,1,RNC,N.Orleans NGO,79KG,SF,2021
+26131,9253,Michael Trasso,,Rodrigo Gortari,W,1,"Pts: 0x0, Adv",NoGi Pan Am.,79KG,8F,2021
+26135,9253,Michael Trasso,,Aaron Wilson,W,1,"Pts: 0x0, Adv",NoGi Pan Am.,79KG,4F,2021

@@ -1,0 +1,42 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+7426,3110,Victor Genovesi,5414,Osvaldo Moizinho,L,0,Pts: 4x2,World Champ.,70KG,8F,2015
+8935,3110,Victor Genovesi,4655,Michael Liera,L,0,Triangle,European Open,76KG,4F,2016
+9735,3110,Victor Genovesi,5715,Isaque Paiva,L,0,Choke,Brasileiro,70KG,4F,2016
+9895,3110,Victor Genovesi,9711,Jurandir Conceicao,L,0,"Pts: 2x2, Adv",Miami SPO,R1,4F,2016
+10243,3110,Victor Genovesi,5715,Isaque Paiva,L,0,Pts: 2x0,Rio Winter Open,70KG,F,2016
+18483,3110,Victor Genovesi,,Yuri Abreu,L,0,N/A,Brasilia Open,76KG,SF,2018
+19275,3110,Victor Genovesi,9635,Guilherme Rocha,L,0,"Pts: 2x2, Adv",London WO,76KG,SF,2019
+19282,3110,Victor Genovesi,9635,Guilherme Rocha,L,0,Points,London WO,ABS,4F,2019
+19813,3110,Victor Genovesi,,Daniel Lima,L,0,Adv,Rio FO,76KG,SF,2019
+21785,3110,Victor Genovesi,9121,Ygor Rodrigues,L,0,RNC,Brasileiro NoGi,73KG,SF,2019
+22705,3110,Victor Genovesi,9876,Alef Brito,L,0,Points,Salvador SPO,82KG,SF,2019
+22722,3110,Victor Genovesi,8528,Servio Tulio,L,0,Adv,Salvador SNGO,ABS,F,2019
+6680,3110,Victor Genovesi,9697,Sergio Calderon,W,1,Choke from back,London WO,70KG,SF,2015
+6681,3110,Victor Genovesi,,Carlos Eduardo,W,1,Katagatame,London WO,70KG,F,2015
+6789,3110,Victor Genovesi,620,Gustavo Dantas,W,1,Kimura,Pan American,70KG,R1,2015
+6796,3110,Victor Genovesi,4851,Kim Terra,W,1,Referee Decision,Pan American,70KG,4F,2015
+7353,3110,Victor Genovesi,,Unknown,W,1,Armbar,Newbreed AC,ABS,F,2015
+8506,3110,Victor Genovesi,,Douglas Saraiva,W,1,Choke from back,Confere 8,76KG,SPF,2015
+8931,3110,Victor Genovesi,2434,Thibaut Olivier,W,1,"Pts: 2x2, Adv",European Open,76KG,R1,2016
+9727,3110,Victor Genovesi,249,Anderson Pereira,W,1,N/A,Brasileiro,70KG,8F,2016
+9732,3110,Victor Genovesi,,Pedro Petrônio,W,1,N/A,Brasileiro,70KG,4F,2016
+10235,3110,Victor Genovesi,,Wendel Silva,W,1,N/A,Rio Winter Open,70KG,R1,2016
+10239,3110,Victor Genovesi,,Unknown,W,1,Choke from back,Rio Winter Open,70KG,4F,2016
+10241,3110,Victor Genovesi,,Victor Moraes,W,1,Choke from back,Rio Winter Open,70KG,SF,2016
+10561,3110,Victor Genovesi,,Jhonny Trece,W,1,Choke,Sao Paulo Open,70KG,4F,2016
+10563,3110,Victor Genovesi,,Marcos Campo,W,1,Choke,Sao Paulo Open,70KG,SF,2016
+10564,3110,Victor Genovesi,,Victor Moraes,W,1,RNC,Sao Paulo Open,70KG,F,2016
+12136,3110,Victor Genovesi,,Thiago Cintra,W,1,Choke,Pan American,70KG,8F,2017
+12141,3110,Victor Genovesi,8525,Alexandre Vieira,W,1,Armbar,Pan American,70KG,4F,2017
+15616,3110,Victor Genovesi,,Ichitaro Tsukada,W,1,Choke,Tokyo Open,70KG,SF,2018
+15617,3110,Victor Genovesi,,Takuto Kako,W,1,Choke,Tokyo Open,70KG,F,2018
+18481,3110,Victor Genovesi,,Bernardo Dib,W,1,N/A,Brasilia Open,76KG,4F,2018
+19519,3110,Victor Genovesi,,Krysztof Flak,W,1,Submission,Budapest Open,70KG,SF,2019
+19520,3110,Victor Genovesi,,Franck Hart,W,1,Choke from back,Budapest Open,70KG,F,2019
+19811,3110,Victor Genovesi,,Luan Silva,W,1,Choke,Rio FO,76KG,4F,2019
+20620,3110,Victor Genovesi,1014,Jake MacKenzie,W,1,Canto choke,World Champ.,76KG,R1,2019
+21780,3110,Victor Genovesi,,Bruno Ailson,W,1,N/A,Brasileiro NoGi,73KG,R1,2019
+21783,3110,Victor Genovesi,,Edward Hohl,W,1,N/A,Brasileiro NoGi,73KG,4F,2019
+22086,3110,Victor Genovesi,,Carlos Augusto,W,1,Omoplata,BH SPO,82KG,SF,2019
+22714,3110,Victor Genovesi,,Diego Fiel,W,1,N/A,Salvador SNGO,79KG,SF,2019
+22721,3110,Victor Genovesi,,Paulo Dantas,W,1,Points,Salvador SNGO,ABS,SF,2019

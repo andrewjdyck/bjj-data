@@ -1,0 +1,138 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+3116,5061,Gabriel Rollo,1523,Clark Gracie,L,0,Footlock,World Champ.,82KG,4F,2011
+3358,5061,Gabriel Rollo,1617,Victor Estima,L,0,Estima lock,No Gi Worlds,82KG,4F,2011
+3848,5061,Gabriel Rollo,484,Murilo Santana,L,0,Armbar,Brasileiro,82KG,F,2012
+4054,5061,Gabriel Rollo,788,Kron Gracie,L,0,"Pts: 4x4, Adv",World Champ.,82KG,8F,2012
+4588,5061,Gabriel Rollo,2226,DJ Jackson,L,0,Adv,Pan American,82KG,R2,2013
+5782,5061,Gabriel Rollo,358,Lucas Lepri,L,0,Pts: 2x0,World Champ.,76KG,R1,2014
+6136,5061,Gabriel Rollo,1600,Vinicius Marinho,L,0,"Pts: 2x2, Adv",Rio BJJ Pro,82KG,F,2014
+6564,5061,Gabriel Rollo,122,Michael Langhi,L,0,Referee Decision,European,76KG,F,2015
+6815,5061,Gabriel Rollo,4328,AJ Agazarm,L,0,Pts: 2x0,Pan American,76KG,SF,2015
+7109,5061,Gabriel Rollo,358,Lucas Lepri,L,0,Choke from back,World Pro,75KG,F,2015
+7448,5061,Gabriel Rollo,358,Lucas Lepri,L,0,Pts: 4x0,World Champ.,76KG,SF,2015
+7949,5061,Gabriel Rollo,1386,Davi Ramos,L,0,Pts: 3x0,ADCC,77KG,4F,2015
+8061,5061,Gabriel Rollo,7672,Caio Almeida,L,0,Points,Brazil Nat. Pro,77KG,R1,2015
+8075,5061,Gabriel Rollo,2999,Paulo Miyao,L,0,Pts: 4x2,Brazil Nat. Pro,U77KG,F,2015
+8164,5061,Gabriel Rollo,,Lucas Valle,L,0,"Pts: 2x2, Adv",Desafio UK,82KG,RR,2015
+8166,5061,Gabriel Rollo,4542,Felipe Cesar,L,0,Pts: 4x2,Desafio UK,82KG,F,2015
+8354,5061,Gabriel Rollo,,Anderson Lira,L,0,Pts: 5x2,SP National Pro,77KG,4F,2015
+8420,5061,Gabriel Rollo,6095,Mansher Khera,L,0,Pts: 4x0,NoGi Worlds,73KG,4F,2015
+9277,5061,Gabriel Rollo,6563,Francisco Iturralde,L,0,"Pts: 2x2, Adv",Pan American,76KG,SF,2016
+9583,5061,Gabriel Rollo,4542,Felipe Cesar,L,0,Pts: 2x0,World Pro,77KG,R1,2016
+9987,5061,Gabriel Rollo,5238,Edwin Najmi,L,0,Darce choke,World Champ.,76KG,SF,2016
+11068,5061,Gabriel Rollo,9312,Alexandre Cavaliere,L,0,"Pts: 0x0, Adv",Grand Slam RJ,77KG,F,2016
+11706,5061,Gabriel Rollo,4542,Felipe Cesar,L,0,Referee Decision,ADCC SP Trials,77KG,SF,2017
+11756,5061,Gabriel Rollo,9706,Marcelo Mafra,L,0,Referee Decision,ADCC RJ,77KG,F,2017
+12172,5061,Gabriel Rollo,7539,Renato Canuto,L,0,"Pts: 2x2, Adv",Pan American,76KG,4F,2017
+12769,5061,Gabriel Rollo,122,Michael Langhi,L,0,Pts: 2x0,Brasileiro,76KG,F,2017
+13114,5061,Gabriel Rollo,6432,Yan Lucas,L,0,Pts: 2x0,World Champ.,76KG,8F,2017
+13294,5061,Gabriel Rollo,5078,Luan Carvalho,L,0,Pts: 5x2,SP BJJ Pro,82KG,SF,2017
+13478,5061,Gabriel Rollo,7704,Helton Jose,L,0,Adv,ACBJJ World,ABS,SF,2017
+14616,5061,Gabriel Rollo,8138,Hugo Marques,L,0,Pts: 4x2,ACB JJ Worlds,75KG,SF,2017
+14626,5061,Gabriel Rollo,6805,Max Gimenis,L,0,Heel hook,ACB JJ Worlds,ABS,SF,2017
+16504,5061,Gabriel Rollo,1014,Jake Mackenzie,L,0,Referee Decision,World Champ.,76KG,R3,2018
+19602,5061,Gabriel Rollo,9014,Levi Jones,L,0,"Pts: 2x2, Pen",Pan American,76KG,SF,2019
+19751,5061,Gabriel Rollo,8528,Servio Tulio,L,0,Referee Decision,ADCC SP Trials,77KG,4F,2019
+20278,5061,Gabriel Rollo,,M.Leonison,L,0,Toe hold,Brasileiro,76KG,4F,2019
+23363,5061,Gabriel Rollo,10232,Gabriel Figueiro,L,0,Points,Curitiba SO,76KG,4F,2020
+26412,5061,Gabriel Rollo,12287,Pedro Maia,L,0,Pts: 3x0,SA Cont. Pro,77KG,4F,2021
+26417,5061,Gabriel Rollo,5078,Luan Carvalho,L,0,Pts: 1x1,SA Cont. Pro,77KG,RPC,2021
+35129,5061,Gabriel Rollo,,Luis Ribas,L,0,RNC,SP Open,76KG,SF,2022
+37194,5061,Gabriel Rollo,8308,Max Lindblad,L,0,Pts: 6x2,European Open,76KG,R2,2023
+40259,5061,Gabriel Rollo,9876,Alef Brito,L,0,Pts: 4x0,World Champ.,76KG,R1,2023
+3038,5061,Gabriel Rollo,,Ruben Nicolai,W,1,Choke from back,World Champ.,82KG,RDS,2011
+3052,5061,Gabriel Rollo,1659,Bruno Alves,W,1,Points,World Champ.,82KG,RDS,2011
+3845,5061,Gabriel Rollo,1386,Davi Ramos,W,1,"Pts: 2x2, Adv",Brasileiro,82KG,4F,2012
+3847,5061,Gabriel Rollo,,Gustavo Junqueira,W,1,Bow and arrow,Brasileiro,82KG,SF,2012
+4578,5061,Gabriel Rollo,,Brent Primus,W,1,N/A,Pan American,82KG,R1,2013
+6257,5061,Gabriel Rollo,1178,Theodoro Canal,W,1,Choke from back,South American,76KG,F,2014
+6313,5061,Gabriel Rollo,4115,Fabio Caloi,W,1,Armbar,King of Fights,76KG,SPF,2014
+6554,5061,Gabriel Rollo,,Sebastian Calloud,W,1,Armbar,European,76KG,R2,2015
+6560,5061,Gabriel Rollo,256,Oliver Geddes,W,1,Pts: 9x0,European,76KG,4F,2015
+6563,5061,Gabriel Rollo,,Rafael Pereira,W,1,Armbar,European,76KG,SF,2015
+6707,5061,Gabriel Rollo,,Matheus Alemão,W,1,"Pts: 0x0, Adv",Gramado Trials,75KG,R1,2015
+6708,5061,Gabriel Rollo,1178,Theodoro Canal,W,1,Pts: 7x0,Gramado Trials,75KG,4F,2015
+6710,5061,Gabriel Rollo,7672,Caio Almeida,W,1,Pts: 4x0,Gramado Trials,75KG,F,2015
+6807,5061,Gabriel Rollo,,Victor Matos,W,1,Pts: 7x0,Pan American,76KG,R2,2015
+6814,5061,Gabriel Rollo,7582,Sergio Benini,W,1,Bow and arrow,Pan American,76KG,4F,2015
+7059,5061,Gabriel Rollo,,Renan Cineaou,W,1,Armbar,ADCC SP,77KG,R1,2015
+7061,5061,Gabriel Rollo,,Diego Henrique,W,1,Kneebar,ADCC SP,77KG,R2,2015
+7064,5061,Gabriel Rollo,5926,Thiago Gaia,W,1,Armbar,ADCC SP,77KG,4F,2015
+7065,5061,Gabriel Rollo,,Diego Henrique,W,1,Points,ADCC SP,77KG,SF,2015
+7067,5061,Gabriel Rollo,443,Claudio Mattos,W,1,"Pts: 0x0, Pen",ADCC SP,77KG,F,2015
+7099,5061,Gabriel Rollo,,Shane Kohei,W,1,Choke,World Pro,75KG,R1,2015
+7103,5061,Gabriel Rollo,1542,Italo Lins,W,1,Points,World Pro,75KG,4F,2015
+7107,5061,Gabriel Rollo,790,Mario Reis,W,1,Pts: 3x0,World Pro,75KG,SF,2015
+7439,5061,Gabriel Rollo,4465,Andris Brunovskis,W,1,Choke from back,World Champ.,76KG,8F,2015
+7447,5061,Gabriel Rollo,4655,Michael Liera,W,1,"Pts: 2x2, Adv",World Champ.,76KG,4F,2015
+7947,5061,Gabriel Rollo,7247,Enrico Cocco,W,1,Pts: 8x0,ADCC,77KG,R1,2015
+8074,5061,Gabriel Rollo,5756,Wellington Luis,W,1,"Pts: 0x0, Adv",Brazil Nat. Pro,U77KG,SF,2015
+8149,5061,Gabriel Rollo,4542,Felipe Cesar,W,1,Pts: 5x2,Desafio UK,82KG,RR,2015
+8151,5061,Gabriel Rollo,443,Claudio Mattos,W,1,"Pts: 2x2, Adv",Desafio UK,82KG,RR,2015
+8153,5061,Gabriel Rollo,,Luciano Bernert,W,1,Pts: 22x0,Desafio UK,82KG,RR,2015
+8157,5061,Gabriel Rollo,,Hermes França,W,1,Armbar,Desafio UK,82KG,RR,2015
+8350,5061,Gabriel Rollo,,Rodrigo Almeida,W,1,Armbar,SP National Pro,77KG,R1,2015
+8358,5061,Gabriel Rollo,5756,Wellington Luis,W,1,Pts: 4x2,SP National Pro,ABS,4F,2015
+8360,5061,Gabriel Rollo,4542,Felipe Cesar,W,1,"Pts: 2x2, Adv",SP National Pro,ABS,F,2015
+8415,5061,Gabriel Rollo,9261,Ross Nicholls,W,1,Pts: 6x2,NoGi Worlds,73KG,8F,2015
+9268,5061,Gabriel Rollo,,Christian Lopez,W,1,Armbar,Pan American,76KG,8F,2016
+9274,5061,Gabriel Rollo,4465,Andris Brunovskis,W,1,"Pts: 4x4, Adv",Pan American,76KG,4F,2016
+9964,5061,Gabriel Rollo,8334,Diego Vivaldo,W,1,N/A,World Champ.,76KG,R1,2016
+9979,5061,Gabriel Rollo,,Rafael Babosa,W,1,"Pts: 4x4, Adv",World Champ.,76KG,R2,2016
+9983,5061,Gabriel Rollo,122,Michael Langhi,W,1,Referee Decision,World Champ.,76KG,4F,2016
+10152,5061,Gabriel Rollo,8334,Diego Vivaldo,W,1,Pts: 10x0,SP BJJ Pro,82KG,4F,2016
+10153,5061,Gabriel Rollo,7672,Caio Almeida,W,1,Pts: 11x2,SP BJJ Pro,82KG,SF,2016
+10154,5061,Gabriel Rollo,,Stefano Correa,W,1,Referee Decision,SP BJJ Pro,82KG,F,2016
+10398,5061,Gabriel Rollo,,Unknown,W,1,Points,One Challenge,75KG,4F,2016
+10399,5061,Gabriel Rollo,631,Rodrigo Caporal,W,1,Points,One Challenge,75KG,SF,2016
+10400,5061,Gabriel Rollo,7568,Bruno Barbosa,W,1,Points,One Challenge,75KG,F,2016
+10566,5061,Gabriel Rollo,,Marco Queiroz,W,1,Choke from back,Sao Paulo Open,76KG,R1,2016
+10569,5061,Gabriel Rollo,,Djalma Junior,W,1,Pts: 5x0,Sao Paulo Open,76KG,4F,2016
+10571,5061,Gabriel Rollo,,F. Nascimento,W,1,Armbar,Sao Paulo Open,76KG,SF,2016
+10573,5061,Gabriel Rollo,7006,Julio Anjos,W,1,Referee Decision,Sao Paulo Open,76KG,F,2016
+10985,5061,Gabriel Rollo,,Sandro Vieira,W,1,N/A,BJJ Rio Pro,82KG,R1,2016
+10990,5061,Gabriel Rollo,5636,Manuel Ribamar,W,1,Pts: 8x4,BJJ Rio Pro,82KG,SF,2016
+10992,5061,Gabriel Rollo,5078,Luan Carvalho,W,1,"Pts: 2x2, Adv",BJJ Rio Pro,82KG,F,2016
+11053,5061,Gabriel Rollo,428,Celso Vinicius,W,1,"Pts: 2x2, Adv",Grand Slam RJ,77KG,R2,2016
+11059,5061,Gabriel Rollo,,Wellington Eller,W,1,N/A,Grand Slam RJ,77KG,8F,2016
+11064,5061,Gabriel Rollo,8112,Matheus Costa,W,1,Armbar,Grand Slam RJ,77KG,4F,2016
+11065,5061,Gabriel Rollo,6596,Jhonny Loureiro,W,1,"Pts: 2x2, Adv",Grand Slam RJ,77KG,SF,2016
+11704,5061,Gabriel Rollo,,Unknown,W,1,Referee Decision,ADCC SP Trials,77KG,4F,2017
+11740,5061,Gabriel Rollo,,Paulo Silva,W,1,RNC,ADCC RJ,77KG,R1,2017
+11746,5061,Gabriel Rollo,,João Gabriel,W,1,RNC,ADCC RJ,77KG,R2,2017
+11750,5061,Gabriel Rollo,,Udi Lima,W,1,Heel hook,ADCC RJ,77KG,8F,2017
+11752,5061,Gabriel Rollo,5909,Thiago Abreu,W,1,Guillotine,ADCC RJ,77KG,4F,2017
+11754,5061,Gabriel Rollo,443,Claudio Mattos,W,1,Pen,ADCC RJ,77KG,SF,2017
+12144,5061,Gabriel Rollo,,Julio Almeida,W,1,Cross choke,Pan American,76KG,R1,2017
+12166,5061,Gabriel Rollo,,Joao Alves,W,1,Pts: 7x2,Pan American,76KG,8F,2017
+12749,5061,Gabriel Rollo,,Henrique Rios,W,1,Choke from back,Brasileiro,76KG,R1,2017
+12757,5061,Gabriel Rollo,,Leo Carlos,W,1,Submission,Brasileiro,76KG,R2,2017
+12765,5061,Gabriel Rollo,3206,Rodrigo Conceicao,W,1,Pts: 3x0,Brasileiro,76KG,4F,2017
+12767,5061,Gabriel Rollo,7931,Jose Carlos,W,1,Ezekiel,Brasileiro,76KG,SF,2017
+13290,5061,Gabriel Rollo,,Ygor Dantas,W,1,N/A,SP BJJ Pro,82KG,4F,2017
+13471,5061,Gabriel Rollo,,Magomedov Shamil,W,1,Points,ACBJJ World,75KG,SF,2017
+13472,5061,Gabriel Rollo,,Wim Deputter,W,1,Referee Decision,ACBJJ World,75KG,F,2017
+16497,5061,Gabriel Rollo,,Piter Frank,W,1,"Pts: 6x6, Adv",World Champ.,76KG,R2,2018
+19324,5061,Gabriel Rollo,428,Celso Vinicius,W,1,Adv,BJJ Stars,82KG,SPF,2019
+19597,5061,Gabriel Rollo,9465,Endres Barbosa,W,1,Injury,Pan American,76KG,8F,2019
+19599,5061,Gabriel Rollo,6563,Francisco Iturralde,W,1,Pts: 16x4,Pan American,76KG,4F,2019
+19748,5061,Gabriel Rollo,,N/A,W,1,Points,ADCC SP Trials,77KG,R2,2019
+20258,5061,Gabriel Rollo,,Rodolpho Borges,W,1,Cross choke,Brasileiro,76KG,R1,2019
+23359,5061,Gabriel Rollo,,Guilherme Silva,W,1,N/A,Curitiba SO,76KG,R1,2020
+23870,5061,Gabriel Rollo,7672,Caio Almeida,W,1,Choke from back,BJJ Stars,N/A,SPF,2020
+25095,5061,Gabriel Rollo,,Milton Vieira,W,1,Armbar,BJJ Stars 5,81KG,SPF,2021
+26387,5061,Gabriel Rollo,,Luis Ribas,W,1,Pts: 9x3,SA Cont. Pro,77KG,R1,2021
+26400,5061,Gabriel Rollo,,Yan Silveira,W,1,Pts: 1x0,SA Cont. Pro,77KG,R2,2021
+26408,5061,Gabriel Rollo,,Leandro Lima,W,1,Pts: 2x1,SA Cont. Pro,77KG,8F,2021
+34142,5061,Gabriel Rollo,,Gustavo Vieira,W,1,Choke from back,Vitoria Open,76KG,R1,2022
+34144,5061,Gabriel Rollo,,Iranslav Neoral,W,1,Choke from back,Vitoria Open,76KG,4F,2022
+34146,5061,Gabriel Rollo,,Savio Freitas,W,1,Toe hold,Vitoria Open,76KG,SF,2022
+34147,5061,Gabriel Rollo,,Facundo Ciancio,W,1,"Pts: 2x2, Adv",Vitoria Open,76KG,F,2022
+35127,5061,Gabriel Rollo,,Jonas Bruno,W,1,Choke from back,SP Open,76KG,4F,2022
+35417,5061,Gabriel Rollo,,Joao Machado,W,1,Paper cutter choke,Curitiba SPO,76KG,SF,2022
+35419,5061,Gabriel Rollo,,Iranslav Neoral,W,1,Mounted X choke,Curitiba SPO,76KG,F,2022
+35801,5061,Gabriel Rollo,,Douglas Duarte,W,1,Choke from back,S. Leopoldo OP,76KG,SF,2022
+35803,5061,Gabriel Rollo,,Francis Quinn,W,1,N/A,S. Leopoldo OP,76KG,F,2022
+35946,5061,Gabriel Rollo,,Joao Vitor,W,1,N/A,Salvador SPO,76KG,4F,2022
+35949,5061,Gabriel Rollo,,Anselmo Santos,W,1,N/A,Salvador SPO,76KG,SF,2022
+35950,5061,Gabriel Rollo,,Wilhiam Mateus,W,1,N/A,Salvador SPO,76KG,F,2022

@@ -1,0 +1,41 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23790,12703,Andy Varela,11049,Kody Steele,L,0,EBI/OT,SUG 15,ABS,4F,2020
+25952,12703,Andy Varela,11789,Mason Fowler,L,0,EBI/OT,SUG 22,ABS,SPF,2021
+26982,12703,Andy Varela,11991,Pedro Marinho,L,0,Guillotine,SUG 25,ABS,SPF,2021
+28716,12703,Andy Varela,10506,Jeferson Guaresi,L,0,Referee Decision,3CG Underdogs,84KG,4F,2021
+31465,12703,Andy Varela,11771,William Tackett,L,0,Pts: 4x2,ADCC WC Trials,77KG,F,2022
+32687,12703,Andy Varela,12506,Jansen Gomes,L,0,Armlock,WNX,ABS,R1,2022
+35023,12703,Andy Varela,10880,Roberto Jimenez,L,0,RNC,ADCC,77KG,R1,2022
+35094,12703,Andy Varela,12110,Nick Rodriguez,L,0,Pts: 17x0,ADCC,ABS,8F,2022
+36941,12703,Andy Varela,,Nick Griffith,L,0,EBI/OT,UFC Invitational,ABS,4F,2022
+40100,12703,Andy Varela,11707,Oliver Taza,L,0,"Pts: 0x0, Pen",Enigma TV,77KG,SPF,2023
+41214,12703,Andy Varela,10835,Eduardo Avelar,L,0,Pts: 2x0,American NNG,79KG,F,2023
+42397,12703,Andy Varela,11797,Giancarlo Bodoni,L,0,Referee Decision,Blue Collar,ABS,SF,2023
+22950,12703,Andy Varela,,Amos Ramos,W,1,RNC,Sub Hunter,N/A,SPF,2020
+23886,12703,Andy Varela,,Alex Larmey,W,1,Referee Decision,F2W 150,N/A,SPF,2020
+24085,12703,Andy Varela,,Nick Ronan,W,1,EBI/OT,SUG 18,N/A,SPF,2020
+24995,12703,Andy Varela,,Cris Lencioni,W,1,EBI/OT,SUG 19,N/A,SPF,2020
+25000,12703,Andy Varela,,Ben Egli,W,1,Choke,SUG 20,ABS,SPF,2020
+25490,12703,Andy Varela,,Satoshi Ishii,W,1,EBI/OT,SUG 21,ABS,SPF,2021
+26292,12703,Andy Varela,,Rafael Domingos,W,1,RNC,SUG 23,ABS,SPF,2021
+28710,12703,Andy Varela,,Gabriel Santos,W,1,Points,3CG Underdogs,84KG,R1,2021
+31211,12703,Andy Varela,11707,Oliver Taza,W,1,Referee Decision,F2W198,N/A,SPF,2022
+31408,12703,Andy Varela,,Ryan Hoover,W,1,RNC,ADCC WC Trials,77KG,R1,2022
+31426,12703,Andy Varela,,Joel Geders,W,1,RNC,ADCC WC Trials,77KG,R2,2022
+31438,12703,Andy Varela,,Josiah Iwamizu,W,1,Pts: 3x0,ADCC WC Trials,77KG,R3,2022
+31449,12703,Andy Varela,,Nasif McPherson,W,1,Pts: 2x0,ADCC WC Trials,77KG,R4,2022
+31451,12703,Andy Varela,,Magid Hage,W,1,Pts: 3x0,ADCC WC Trials,77KG,8F,2022
+31462,12703,Andy Varela,12235,Alan Sanchez,W,1,"Pts: 0x0, Pen",ADCC WC Trials,77KG,4F,2022
+31463,12703,Andy Varela,9344,PJ Barch,W,1,Referee Decision,ADCC WC Trials,77KG,SF,2022
+33514,12703,Andy Varela,,Daniel Manasoiu,D,0.5,---,UFC Inv. 2,ABS,RR,2022
+41210,12703,Andy Varela,,Michael Laci,W,1,RNC,American NNG,79KG,4F,2023
+41213,12703,Andy Varela,11208,Jackson Nagai,W,1,"Pts: 0x0, Adv",American NNG,79KG,SF,2023
+41939,12703,Andy Varela,,Ryan Carl,W,1,RNC,ADCC Arizona,83KG,R1,2023
+41941,12703,Andy Varela,10638,Angelo Claiborne,W,1,Referee Decision,ADCC Arizona,83KG,8F,2023
+41943,12703,Andy Varela,,Cameron Hurd,W,1,Anaconda,ADCC Arizona,83KG,4F,2023
+41945,12703,Andy Varela,,D. Asare,W,1,Pts: 3x0,ADCC Arizona,83KG,SF,2023
+41946,12703,Andy Varela,,Ernesto Rivera,W,1,Pts: 2x0,ADCC Arizona,83KG,F,2023
+42394,12703,Andy Varela,,Jay Rod,W,1,Referee Decision,Blue Collar,ABS,4F,2023
+42486,12703,Andy Varela,10835,Eduardo Avelar,W,1,Pts: 2x0,EUG JJB,82KG,4F,2023
+42490,12703,Andy Varela,,A. Granados,W,1,Pts: 19x0,EUG JJB,82KG,SF,2023
+42491,12703,Andy Varela,11707,Oliver Taza,W,1,N/A,EUG JJB,82KG,F,2023

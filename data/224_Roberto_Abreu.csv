@@ -1,0 +1,197 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1128,224,Roberto Abreu,505,Roger Gracie,L,0,Cross choke,European Open,ABS,4F,2005
+1309,224,Roberto Abreu,84,Alexandre Ribeiro,L,0,Armbar,World Champ.,100KG,R1,2005
+1471,224,Roberto Abreu,84,Alexandre Ribeiro,L,0,Mounted X choke,World Champ.,ABS,SF,2006
+1506,224,Roberto Abreu,16,Marcelo Garcia,L,0,Crucifix choke,Brasileiro,ABS,R1,2006
+1596,224,Roberto Abreu,576,Rafael Lovato,L,0,Pts: 4x0,Brasileiro,100KG,F,2007
+1776,224,Roberto Abreu,84,Alexandre Ribeiro,L,0,Ezekiel,World Champ.,ABS,R1,2007
+1966,224,Roberto Abreu,576,Rafael Lovato,L,0,Pts: 8x4,World Champ.,100KG,SF,2008
+1982,224,Roberto Abreu,144,Andre Galvao,L,0,Points,World Champ.,ABS,R2,2008
+2026,224,Roberto Abreu,387,Braga Neto,L,0,Pts: 6x0,NoGi Worlds,100KG,F,2008
+2181,224,Roberto Abreu,387,Braga Neto,L,0,Choke from back,Pan American,100KG,F,2009
+2195,224,Roberto Abreu,320,Romulo Barral,L,0,Pts: 3x0,Pan American,ABS,4F,2009
+2293,224,Roberto Abreu,573,Fabricio Werdum,L,0,Points,ADCC,O99KG,F,2009
+2353,224,Roberto Abreu,474,Alexandre Ceconi,L,0,"Pts: 4x4, Adv",World Champ.,94KG,4F,2009
+2400,224,Roberto Abreu,453,Daniel Moraes,L,0,Points,Copa America,ABS,SF,2009
+2733,224,Roberto Abreu,543,Rodrigo Cavaca,L,0,Botinha,World Champ.,O100KG,F,2010
+2783,224,Roberto Abreu,358,Lucas Lepri,L,0,Pts: 6x2,Long Island Pride,ABS,F,2010
+2983,224,Roberto Abreu,474,Alexandre Ceconi,L,0,Adv,World Champ.,ABS,R2,2011
+3146,224,Roberto Abreu,387,Braga Neto,L,0,Pts: 9x0,World Champ.,O100KG,SF,2011
+3289,224,Roberto Abreu,573,Fabricio Werdum,L,0,Points,ADCC,O99KG,SF,2011
+3910,224,Roberto Abreu,425,Bernardo Faria,L,0,Armbar,World Champ.,ABS,4F,2012
+4139,224,Roberto Abreu,1534,R. Evangelista,L,0,Points,World Champ.,O100KG,R2,2012
+4519,224,Roberto Abreu,1604,Nivaldo Oliveira,L,0,Choke,Pan American,ABS,R2,2013
+4680,224,Roberto Abreu,984,Marcus Almeida,L,0,Pts: 4x3,World Pro,ABS,4F,2013
+5050,224,Roberto Abreu,984,Marcus Almeida,L,0,Points,ADCC,O99KG,SF,2013
+5713,224,Roberto Abreu,422,Braulio Estima,L,0,Points,World Champ.,ABS,R3,2014
+8000,224,Roberto Abreu,144,Andre Galvao,L,0,Pts: 6x0,ADCC,ABS,SPF,2015
+8274,224,Roberto Abreu,1534,R. Evangelista,L,0,Pts: 10x0,Grand Slam LA,O94KG,F,2015
+9531,224,Roberto Abreu,1757,Alexander Trans,L,0,"Pts: 0x0, Adv",World Pro,ABS,R2,2016
+9664,224,Roberto Abreu,1534,R. Evangelista,L,0,"Pts: 0x0, Adv",World Pro,O94KG,4F,2016
+10230,224,Roberto Abreu,576,Rafael Lovato,L,0,Referee Decision,F2W 7,O100KG,SPF,2016
+13036,224,Roberto Abreu,4521,Erberth Santos,L,0,"Pts: 2x2, Adv",World Champ.,ABS,8F,2017
+13205,224,Roberto Abreu,5842,Mahamed Aly,L,0,"Pts: 2x2, Adv",World Champ.,100KG,4F,2017
+13615,224,Roberto Abreu,84,Alexandre Ribeiro,D,0.5,---,Copa Podio,ABS,SPF,2017
+13857,224,Roberto Abreu,984,Marcus Almeida,L,0,Pts: 4x0,ADCC,O99KG,SF,2017
+13931,224,Roberto Abreu,6550,Gordon Ryan,L,0,Inside heel hook,ADCC,ABS,E1,2017
+16070,224,Roberto Abreu,1757,Alexander Trans,L,0,Choke from back,King of Mats,110KG,F,2018
+18696,224,Roberto Abreu,6550,Gordon Ryan,L,0,DQ,NoGi Worlds,O97KG,F,2018
+20866,224,Roberto Abreu,7507,Nicholas Meregali,L,0,Loop choke,Third Coast,100KG,SPF,2019
+21886,224,Roberto Abreu,12110,Nick Rodriguez,L,0,Referee Decision,ADCC,O99KG,SF,2019
+22827,224,Roberto Abreu,10159,Victor Hugo,L,0,Kneebar,NoGi Worlds,ABS,F,2019
+28199,224,Roberto Abreu,11991,Pedro Marinho,L,0,Referee Decision,NoGi Worlds,ABS,F,2021
+35070,224,Roberto Abreu,9559,Rida Haisam,L,0,Armbar,ADCC,O99KG,R1,2022
+35107,224,Roberto Abreu,1740,Yuri Simoes,L,0,Pts: 2x0,ADCC,ABS,SF,2022
+38974,224,Roberto Abreu,8996,Mauricio Oliveira,L,0,Pts: 2x0,BJJ Stars,ABS,R1,2023
+42933,224,Roberto Abreu,11862,Pedro Alex,L,0,Pts: 2x1,ADGS Miami,120KG,SF,2023
+1127,224,Roberto Abreu,,Leonardo Ramos,W,1,N/A,European Open,100KG,F,2005
+1466,224,Roberto Abreu,422,Braulio Estima,W,1,Armbar,World Champ.,ABS,R1,2006
+1470,224,Roberto Abreu,112,Demian Maia,W,1,Pts: 4x0,World Champ.,ABS,4F,2006
+1514,224,Roberto Abreu,,Waldir Neto,W,1,Choke,Team Nationals,O88KG,4F,2006
+1595,224,Roberto Abreu,559,Rodrigo Comprido,W,1,Pts: 8x0,Brasileiro,100KG,SF,2007
+1882,224,Roberto Abreu,6503,Marcel Fortuna,W,1,Adv,Pan American,100KG,SF,2008
+1883,224,Roberto Abreu,,Arthur Jacinto,W,1,Adv,Pan American,100KG,F,2008
+2025,224,Roberto Abreu,2956,Cristiano Lazzarini,W,1,Points,NoGi Worlds,100KG,SF,2008
+2190,224,Roberto Abreu,,Felipe Pacces,W,1,Choke from back,Pan American,ABS,8F,2009
+2287,224,Roberto Abreu,5324,Tom DeBlass,W,1,Points,ADCC,O99KG,R1,2009
+2290,224,Roberto Abreu,,Asa Fuller,W,1,Points,ADCC,O99KG,4F,2009
+2291,224,Roberto Abreu,,Jeff Monson,W,1,Points,ADCC,O99KG,SF,2009
+2391,224,Roberto Abreu,898,Bill Cooper,W,1,Points,GQ Del Mar,ABS,F,2009
+2393,224,Roberto Abreu,898,Bill Cooper,W,1,"Pts: 4x4, Adv",Grapplers Quest,ABS,F,2009
+2604,224,Roberto Abreu,,Stephen Hal,W,1,N/A,Miami Open,O100KG,F,2010
+2620,224,Roberto Abreu,,Joao Pinho,W,1,N/A,No Gi Worlds,O100KG,SF,2010
+2621,224,Roberto Abreu,,David Herzog,W,1,Knee choke,No Gi Worlds,O100KG,F,2010
+2626,224,Roberto Abreu,967,JT Torres,W,1,Points,No Gi Worlds,ABS,R2,2010
+2630,224,Roberto Abreu,,Fabricio Camoes,W,1,Points,No Gi Worlds,ABS,8F,2010
+2635,224,Roberto Abreu,875,Lucas Leite,W,1,Points,No Gi Worlds,ABS,SF,2010
+2732,224,Roberto Abreu,387,Braga Neto,W,1,Triangle,World Champ.,O100KG,SF,2010
+2781,224,Roberto Abreu,,Renan Borges,W,1,Choke from back,Long Island Pride,ABS,SF,2010
+2974,224,Roberto Abreu,8334,Diego Vivaldo,W,1,Adv,World Champ.,ABS,R1,2011
+3092,224,Roberto Abreu,,Helton Nogueira,W,1,Pts: 2x0,World Champ.,O100KG,RDS,2011
+3129,224,Roberto Abreu,7079,Carlos Farias,W,1,Pts: 11x0,World Champ.,O100KG,4F,2011
+3166,224,Roberto Abreu,,Warren Stout,W,1,Knee choke,Miami Open,ABS,SF,2011
+3167,224,Roberto Abreu,,Vitor Henrique,W,1,Armbar,Miami Open,ABS,F,2011
+3254,224,Roberto Abreu,,Sekine Hideki,W,1,Armbar,ADCC,O99KG,R1,2011
+3277,224,Roberto Abreu,,Glover Teixeira,W,1,Points,ADCC,O99KG,4F,2011
+3294,224,Roberto Abreu,1329,Gerardi Rinaldi,W,1,Kneebar,ADCC,O99KG,3PLC,2011
+3379,224,Roberto Abreu,,Luis Pedro,W,1,Armbar,No Gi Worlds,O100KG,SF,2011
+3389,224,Roberto Abreu,8202,Ricardo Feliciano,W,1,Inverted Triangle,No Gi Worlds,O100KG,F,2011
+3716,224,Roberto Abreu,,K. Cornelius,W,1,Points,NYC World Trials,O92KG,N/A,2012
+3717,224,Roberto Abreu,,Unknown,W,1,Armbar,NYC World Trials,O92KG,SF,2012
+3718,224,Roberto Abreu,,Abraham M.,W,1,Armbar,NYC World Trials,O92KG,F,2012
+3892,224,Roberto Abreu,484,Murilo Santana,W,1,Pts: 6x4,World Champ.,ABS,R2,2012
+3903,224,Roberto Abreu,9,Marcio Cruz,W,1,Pts: 12x4,World Champ.,ABS,R2,2012
+4130,224,Roberto Abreu,4177,Gustavo Dias,W,1,Choke,World Champ.,O100KG,R1,2012
+4198,224,Roberto Abreu,,Diego Silva,W,1,Choke from back,Miami Open,ABS,4F,2012
+4200,224,Roberto Abreu,1986,Vitor Toledo,W,1,Choke from back,Miami Open,ABS,SF,2012
+4202,224,Roberto Abreu,3443,Leonardo Davila,W,1,Cross choke,Miami Open,ABS,F,2012
+4260,224,Roberto Abreu,3443,Leonardo Davila,W,1,RNC,NoGi Worlds,O100KG,SF,2012
+4261,224,Roberto Abreu,4177,Gustavo Dias,W,1,Pts: 6x0,NoGi Worlds,O100KG,F,2012
+4473,224,Roberto Abreu,,Brendan Schaub,W,1,Referee Decision,Metamoris 2,ABS,SPF,2013
+4495,224,Roberto Abreu,,Unknown,W,1,Choke from back,NYC World Trials,O92KG,N/A,2013
+4496,224,Roberto Abreu,,Keneth Brown,W,1,Pts: 10x0,NYC World Trials,O92KG,F,2013
+4510,224,Roberto Abreu,3122,Luiz Panza,W,1,Points,Pan American,ABS,R1,2013
+5043,224,Roberto Abreu,,Mike Martelle,W,1,Armbar,ADCC,O99KG,R1,2013
+5048,224,Roberto Abreu,2452,Orlando Sanchez,W,1,Pen,ADCC,O99KG,4F,2013
+5051,224,Roberto Abreu,5861,Jared Dopp,W,1,Points,ADCC,O99KG,3PLC,2013
+5057,224,Roberto Abreu,,Kamil Huminski,W,1,Points,ADCC,ABS,R1,2013
+5058,224,Roberto Abreu,5649,Garry Tonon,W,1,Points,ADCC,ABS,R1,2013
+5062,224,Roberto Abreu,3009,Keenan Cornelius,W,1,Points,ADCC,ABS,SF,2013
+5065,224,Roberto Abreu,984,Marcus Almeida,W,1,Pts: 10x0,ADCC,ABS,F,2013
+5699,224,Roberto Abreu,6156,Tanner rice,W,1,N/A,World Champ.,ABS,R2,2014
+5868,224,Roberto Abreu,,Lincoln Pereira,W,1,Pts: 7x0,Boca Raton Open,ABS,F,2014
+8270,224,Roberto Abreu,,Joseph Moku,W,1,Clock choke,Grand Slam LA,O94KG,4F,2015
+8273,224,Roberto Abreu,,Andre Campos,W,1,Pts: 3x0,Grand Slam LA,O94KG,SF,2015
+8276,224,Roberto Abreu,6351,Alec Baulding,W,1,Pts: 6x0,Grand Slam LA,ABS,8F,2015
+8281,224,Roberto Abreu,4521,Erberth Santos,W,1,Choke from back,Grand Slam LA,ABS,4F,2015
+8284,224,Roberto Abreu,1534,R. Evangelista,W,1,Pts: 4x2,Grand Slam LA,ABS,SF,2015
+8286,224,Roberto Abreu,,Andre Campos,W,1,Choke,Grand Slam LA,ABS,F,2015
+8470,224,Roberto Abreu,,Joseph Moku,W,1,Pts: 4x2,NoGi Worlds,O100KG,4F,2015
+9522,224,Roberto Abreu,5078,Luan Carvalho,W,1,Pts: 2x0,World Pro,ABS,R1,2016
+9658,224,Roberto Abreu,,Daniel Baia,W,1,Pts: 6x0,World Pro,O94KG,R1,2016
+9893,224,Roberto Abreu,,Francisco Santoro,W,1,Armbar,Miami SPO,O100KG,SF,2016
+9894,224,Roberto Abreu,,Jollyson Francino,W,1,North-south choke,Miami SPO,O100KG,F,2016
+9896,224,Roberto Abreu,9711,Jurandir Conceicao,W,1,Submission,Miami SPO,ABS,4F,2016
+9899,224,Roberto Abreu,6375,Ruan Oliveira,W,1,Kimura,Miami SPO,ABS,SF,2016
+11295,224,Roberto Abreu,,Paulo Ribeiro,W,1,Katagatame,Grappling Pro 2,120KG,4F,2016
+11299,224,Roberto Abreu,,J. Friedrich,W,1,Knee choke,Grappling Pro 2,120KG,SF,2016
+11302,224,Roberto Abreu,5842,Mahamed Aly,W,1,Kneebar,Grappling Pro 2,120KG,F,2016
+12572,224,Roberto Abreu,733,Vinny Magalhaes,W,1,Pts: 3x0,ADCC WC Trials,O99KG,SPF,2017
+12936,224,Roberto Abreu,8560,Gabriel Lucas,W,1,Choke from mount,Miami SPO,O100KG,F,2017
+12942,224,Roberto Abreu,6368,Kevin Mahecha,W,1,Armbar,Miami SPO,ABS,4F,2017
+12944,224,Roberto Abreu,,Samir Abdolkader,W,1,Straight armlock,Miami SPO,ABS,SF,2017
+12945,224,Roberto Abreu,2226,DJ Jackson,W,1,Pts: 25x0,Miami SPO,ABS,F,2017
+12948,224,Roberto Abreu,,Joao Rodrigues,W,1,Straight armlock,Miami Spring NGO,ABS,F,2017
+13028,224,Roberto Abreu,7079,Carlos Farias,W,1,"Pts: 0x0, Adv",World Champ.,ABS,R1,2017
+13203,224,Roberto Abreu,7519,Eliot Kelly,W,1,Pts: 22x2,World Champ.,100KG,8F,2017
+13850,224,Roberto Abreu,,Khazmat Stambulov,W,1,"Pts: 0x0, Pen",ADCC,O99KG,E1,2017
+13855,224,Roberto Abreu,5509,Victor Honorio,W,1,Referee Decision,ADCC,O99KG,4F,2017
+13858,224,Roberto Abreu,5861,Jared Dopp,W,1,Referee Decision,ADCC,O99KG,3RD,2017
+14210,224,Roberto Abreu,6805,Max Gimenis,W,1,"Pts: 2x2, Adv",Miami FO,O100KG,F,2017
+14213,224,Roberto Abreu,6368,Kevin Mahecha,W,1,Straight armlock,Miami FO,ABS,R2,2017
+14214,224,Roberto Abreu,,Thomas MacMahon,W,1,N/A,Miami FO,ABS,4F,2017
+14216,224,Roberto Abreu,7399,Horlando Monteiro,W,1,Choke from back,Miami FO,ABS,SF,2017
+14218,224,Roberto Abreu,6805,Max Gimenis,W,1,Choke from back,Miami FO,ABS,F,2017
+14719,224,Roberto Abreu,,Raymond Seraile,W,1,Armlock,NoGi Worlds,O97KG,4F,2017
+14721,224,Roberto Abreu,,Adam Sachnoff,W,1,Pts: 29x0,NoGi Worlds,O97KG,SF,2017
+14723,224,Roberto Abreu,2403,Joao Rocha,W,1,"Pts: 0x0, Adv",NoGi Worlds,O97KG,F,2017
+16061,224,Roberto Abreu,,Andre Campos,W,1,Referee Decision,King of Mats,110KG,RR,2018
+16063,224,Roberto Abreu,1263,Lucio Rodrigues,W,1,"Pts: 0x0, Adv",King of Mats,110KG,RR,2018
+16066,224,Roberto Abreu,449,Alexandre Souza,W,1,Armbar,King of Mats,110KG,RR,2018
+16347,224,Roberto Abreu,4521,Erberth Santos,W,1,Points,ACBJJ 13,O95KG,SPF,2018
+17864,224,Roberto Abreu,,Rene Arango,W,1,Submission,Miami FO,ABS,SF,2018
+17865,224,Roberto Abreu,12629,Fabricio Barbarotti,W,1,Cross face,Miami FO,ABS,F,2018
+18693,224,Roberto Abreu,4177,Gustavo Dias,W,1,"Pts: 0x0, Adv",NoGi Worlds,O97KG,4F,2018
+18694,224,Roberto Abreu,6805,Max Gimenis,W,1,Pts: 2x0,NoGi Worlds,O97KG,SF,2018
+18707,224,Roberto Abreu,7914,Nick Calvanese,W,1,Pts: 10x0,NoGi Worlds,ABS,R1,2018
+18712,224,Roberto Abreu,6836,John Combs,W,1,Pts: 4x2,NoGi Worlds,ABS,R2,2018
+19232,224,Roberto Abreu,,Afranio Silva,W,1,Pts: 10x2,Miami W. Open,O100KG,F,2019
+19233,224,Roberto Abreu,7664,Johnny Tama,W,1,Pts: 3x0,Miami W. Open,ABS,SF,2019
+19235,224,Roberto Abreu,9407,Alexandre Molinaro,W,1,Choke,Miami W. Open,ABS,F,2019
+19695,224,Roberto Abreu,3122,Luiz Panza,W,1,Referee Decision,F2W 106,100KG,SPF,2019
+21482,224,Roberto Abreu,10159,Victor Hugo,W,1,"Pts: 0x0, Adv",IBJJF GP,ABS,4F,2019
+21483,224,Roberto Abreu,5655,Lucas Barbosa,W,1,"Pts: 4x4, Pen",IBJJF GP,ABS,SF,2019
+21485,224,Roberto Abreu,2403,Joao Rocha,W,1,Referee Decision,IBJJF GP,ABS,F,2019
+21823,224,Roberto Abreu,,Hudson Taylor,W,1,Pts: 2x0,ADCC,O99KG,R1,2019
+21827,224,Roberto Abreu,,John Hansen,W,1,Pts: 6x0,ADCC,O99KG,4F,2019
+22812,224,Roberto Abreu,,Fernando Ribas,W,1,Armbar,NoGi Worlds,ABS,R1,2019
+22821,224,Roberto Abreu,3200,Jackson Sousa,W,1,One arm guillotine,NoGi Worlds,ABS,4F,2019
+22826,224,Roberto Abreu,9157,Devhonte Johnson,W,1,Referee Decision,NoGi Worlds,ABS,SF,2019
+22907,224,Roberto Abreu,10159,Victor Hugo,W,1,"Pts: 0x0, Adv",NoGi Worlds,O97KG,SF,2019
+22908,224,Roberto Abreu,1827,James Puopolo,W,1,Straight armlock,NoGi Worlds,O97KG,F,2019
+23201,224,Roberto Abreu,637,Bruno Bastos,W,1,Pts: 2x0,Kasai Pro 7,120KG,RR,2020
+23203,224,Roberto Abreu,12110,Nick Rodriguez,D,0.5,---,Kasai Pro 7,120KG,RR,2020
+23206,224,Roberto Abreu,5655,Lucas Barbosa,W,1,Pts: 6x0,Kasai Pro 7,120KG,F,2020
+23445,224,Roberto Abreu,11646,Andre Gois,W,1,Choke,Miami WO,ABS,SF,2020
+23451,224,Roberto Abreu,576,Rafael Lovato,W,1,Points,Sub Stars,N/A,SPF,2020
+23728,224,Roberto Abreu,9180,Vinicius Trator,W,1,Referee Decision,F2W 139,115KG,SPF,2020
+23822,224,Roberto Abreu,6337,Arnaldo Maidana,W,1,Points,3CG Kumite IV,ABS,4F,2020
+23826,224,Roberto Abreu,10880,Roberto Jimenez,W,1,Referee Decision,3CG Kumite IV,ABS,SF,2020
+23827,224,Roberto Abreu,8514,Fellipe Andrew,W,1,Guillotine,3CG Kumite IV,ABS,F,2020
+23855,224,Roberto Abreu,5655,Lucas Barbosa,W,1,Referee Decision,WNO,ABS,SPF,2020
+23928,224,Roberto Abreu,8974,Kaynan Duarte,W,1,Inside heel hook,BJJ Bet,95KG,SPF,2020
+25037,224,Roberto Abreu,4310,Tim Spriggs,W,1,Referee Decision,F2W 161,ABS,SPF,2021
+28190,224,Roberto Abreu,,Ruben Coronado,W,1,Choke,NoGi Worlds,ABS,8F,2021
+28193,224,Roberto Abreu,6805,Max Gimenis,W,1,Pts: 3x0,NoGi Worlds,ABS,4F,2021
+28198,224,Roberto Abreu,9250,Gabriel Almeida,W,1,Pts: 5x0,NoGi Worlds,ABS,SF,2021
+28333,224,Roberto Abreu,12203,Austin Baker,W,1,"Pts: 0x0, Adv",NoGi Worlds,O97KG,4F,2021
+28336,224,Roberto Abreu,,John Hansen,W,1,Pts: 3x0,NoGi Worlds,O97KG,SF,2021
+28337,224,Roberto Abreu,10159,Victor Hugo,W,1,Pts: 4x0,NoGi Worlds,O97KG,F,2021
+31716,224,Roberto Abreu,,Wildermar Souza,W,1,Pts: 8x0,Pan American,O100KG,R1,2022
+31719,224,Roberto Abreu,11709,Wallace Costa,W,1,Pts: 3x0,Pan American,O100KG,4F,2022
+31720,224,Roberto Abreu,12275,Davi Cabral,W,1,"Pts: 0x0, Adv",Pan American,O100KG,SF,2022
+31722,224,Roberto Abreu,8195,Gutemberg Pereira,W,1,Pts: 2x0,Pan American,O100KG,F,2022
+35096,224,Roberto Abreu,12922,Elder Cruz,W,1,Pts: 3x0,ADCC,ABS,8F,2022
+35104,224,Roberto Abreu,10159,Victor Hugo,W,1,Pts: 2x0,ADCC,ABS,4F,2022
+36763,224,Roberto Abreu,,Bryan Peterson,W,1,Short choke,NoGi Worlds,ABS,8F,2022
+36770,224,Roberto Abreu,8427,Michael Perez,W,1,Pts: 15x0,NoGi Worlds,ABS,4F,2022
+36773,224,Roberto Abreu,10159,Victor Hugo,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,SF,2022
+36898,224,Roberto Abreu,12203,Austin Baker,W,1,Pts: 39x0,NoGi Worlds,O97KG,4F,2022
+36901,224,Roberto Abreu,,John Hansen,W,1,Katagatame,NoGi Worlds,O97KG,SF,2022
+36903,224,Roberto Abreu,10159,Victor Hugo,W,1,Pts: 2x0,NoGi Worlds,O97KG,F,2022
+37914,224,Roberto Abreu,,Joshua Brown,W,1,Guillotine,Grappling Ind.,ABS,R1,2023
+37917,224,Roberto Abreu,,Nathan Saunders,W,1,Outside heel hook,Grappling Ind.,ABS,8F,2023
+37921,224,Roberto Abreu,,Chris Pauly,W,1,Triangle armbar,Grappling Ind.,ABS,4F,2023
+37923,224,Roberto Abreu,,Cameron Sullivan,W,1,Submission,Grappling Ind.,ABS,SF,2023
+37924,224,Roberto Abreu,8116,Dante Leon,W,1,Referee Decision,Grappling Ind.,ABS,F,2023
+42930,224,Roberto Abreu,9361,Guilherme Cordiviola,W,1,N/A,ADGS Miami,120KG,4F,2023

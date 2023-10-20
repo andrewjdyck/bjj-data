@@ -1,0 +1,55 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+727,919,Pablo Popovitch,84,Alexandre Ribeiro,L,0,Triangle,Grapplers Quest,ABS,4F,2002
+779,919,Pablo Popovitch,81,Vitor Shaolin,L,0,Points,ADCC,77KG,4F,2003
+1184,919,Pablo Popovitch,16,Marcelo Garcia,L,0,Wristlock,ADCC,77KG,F,2005
+1692,919,Pablo Popovitch,16,Marcelo Garcia,L,0,North south choke,ADCC,77KG,F,2007
+3285,919,Pablo Popovitch,144,Andre Galvao,L,0,Pts: 2x0,ADCC,88KG,SF,2011
+3319,919,Pablo Popovitch,144,Andre Galvao,L,0,Toe Hold,ADCC,ABS,F,2011
+3386,919,Pablo Popovitch,576,Rafael Lovato,L,0,Pts: 4x0,No Gi Worlds,88KG,F,2011
+4214,919,Pablo Popovitch,,Ezra Lenon,L,0,Points,NoGi Pan American,88KG,SF,2012
+5018,919,Pablo Popovitch,576,Rafael Lovato,L,0,Points,ADCC,88KG,SF,2013
+5020,919,Pablo Popovitch,3009,Keenan Cornelius,L,0,Verbal tap,ADCC,88KG,3PLC,2013
+11441,919,Pablo Popovitch,,Thiago Pessoa,L,0,Pts: 2x0,AD Grand Slam NG,92KG,F,2017
+12363,919,Pablo Popovitch,4145,Thiago Sa,L,0,Referee Decision,European NoGi,92KG,F,2017
+777,919,Pablo Popovitch,687,Marcio Feitosa,W,1,Points,ADCC,77KG,R1,2003
+957,919,Pablo Popovitch,,Kenny Florian,W,1,Points,GQ USA Trials,N/A,SF,2003
+959,919,Pablo Popovitch,,N. Phungephorn,W,1,Points,GQ USA Trials,N/A,F,2003
+1101,919,Pablo Popovitch,,Chris Bowles,W,1,Points,Texas Challenge,78KG,4F,2004
+1102,919,Pablo Popovitch,,Eric Davila,W,1,Points,Texas Challenge,78KG,SF,2004
+1103,919,Pablo Popovitch,,Diego Sanchez,W,1,Points,Texas Challenge,78KG,F,2004
+1176,919,Pablo Popovitch,52,Renzo Gracie,W,1,Pts: 4x0,ADCC,77KG,R1,2005
+1180,919,Pablo Popovitch,,Roan Jucao,W,1,Pts: 2x0,ADCC,77KG,4F,2005
+1181,919,Pablo Popovitch,1031,Jake Shields,W,1,Pts: 5x0,ADCC,77KG,SF,2005
+1571,919,Pablo Popovitch,,Gary Grate,W,1,Pts: 2x0,GQ All Star Pro,81KG,4F,2007
+1573,919,Pablo Popovitch,,Sean Sprangler,W,1,Pts: 2x0,GQ All Star Pro,81KG,SF,2007
+1574,919,Pablo Popovitch,481,Saulo Ribeiro,W,1,"Pts: 0x0, Adv",GQ All Star Pro,81KG,F,2007
+1684,919,Pablo Popovitch,,Eric Dahlberg,W,1,Points,ADCC,77KG,R1,2007
+1691,919,Pablo Popovitch,144,Andre Galvao,W,1,Points,ADCC,77KG,SF,2007
+1812,919,Pablo Popovitch,453,Daniel Moraes,W,1,Points,World NoGi,79KG,F,2007
+2247,919,Pablo Popovitch,,Don Ortega,W,1,RNC,ADCC,77KG,R1,2009
+2253,919,Pablo Popovitch,,Ben Askren,W,1,Toe hold,ADCC,77KG,4F,2009
+2254,919,Pablo Popovitch,1322,Gregor Gracie,W,1,Pts: 3x0,ADCC,77KG,SF,2009
+2257,919,Pablo Popovitch,16,Marcelo Garcia,W,1,Pts: 3x0,ADCC,77KG,F,2009
+2613,919,Pablo Popovitch,1998,Ben Baxter,W,1,RNC,No Gi Worlds,86KG,4F,2010
+2615,919,Pablo Popovitch,484,Murilo Santana,W,1,Points,No Gi Worlds,86KG,SF,2010
+2616,919,Pablo Popovitch,453,Daniel Moraes,W,1,Pts: 6x0,No Gi Worlds,86KG,F,2010
+2627,919,Pablo Popovitch,1044,Flavio Almeida,W,1,Pts: 2x0,No Gi Worlds,ABS,8F,2010
+2631,919,Pablo Popovitch,582,Caio Terra,W,1,RNC,No Gi Worlds,ABS,4F,2010
+2779,919,Pablo Popovitch,358,Lucas Lepri,W,1,Adv,UFC Expo,ABS,SPF,2010
+3240,919,Pablo Popovitch,,Zbigniew Tyszka,W,1,Points,ADCC,88KG,R1,2011
+3270,919,Pablo Popovitch,138,Sergio Moraes,W,1,Pts: 2x0,ADCC,88KG,4F,2011
+3292,919,Pablo Popovitch,576,Rafael Lovato,W,1,Points,ADCC,88KG,3PLC,2011
+3306,919,Pablo Popovitch,,Janne-Pekka,W,1,Points,ADCC,ABS,R1,2011
+3312,919,Pablo Popovitch,1617,Victor Estima,W,1,Pts: 2x0,ADCC,ABS,4F,2011
+3317,919,Pablo Popovitch,84,Alexandre Ribeiro,W,1,Referee Decision,ADCC,ABS,SF,2011
+3361,919,Pablo Popovitch,1998,Ben Baxter,W,1,Pts: 2x0,No Gi Worlds,88KG,4F,2011
+3376,919,Pablo Popovitch,,Unknown,W,1,Pts: 2x0,No Gi Worlds,88KG,SF,2011
+4243,919,Pablo Popovitch,,Bruno Antunes,W,1,Pts: 2x0,NoGi Worlds,88KG,4F,2012
+4245,919,Pablo Popovitch,,Ezra Lenon,W,1,"Pts: 0x0, Adv",NoGi Worlds,88KG,SF,2012
+4247,919,Pablo Popovitch,320,Romulo Barral,W,1,Pts: 3x0,NoGi Worlds,88KG,F,2012
+5007,919,Pablo Popovitch,,Doorwang Jeon,W,1,Pts: 3x0,ADCC,88KG,R1,2013
+5015,919,Pablo Popovitch,,David Avellan,W,1,Points,ADCC,88KG,4F,2013
+6395,919,Pablo Popovitch,9587,Eduardo Rios,D,0.5,---,Polaris,ABS,SPF,2015
+7926,919,Pablo Popovitch,,Zbigniew Tyszka,W,1,RNC,ADCC,88KG,R1,2015
+11439,919,Pablo Popovitch,,Bruno Oliveira,W,1,Points,AD Grand Slam NG,92KG,SF,2017
+12361,919,Pablo Popovitch,7478,Adam Wardzinski,W,1,Referee Decision,European NoGi,92KG,SF,2017

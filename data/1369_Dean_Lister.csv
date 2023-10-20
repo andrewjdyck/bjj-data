@@ -1,0 +1,43 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+543,1369,Dean Lister,278,Ricardo Almeida,L,0,Pts: 3x0,ADCC,99KG,4F,2001
+629,1369,Dean Lister,4965,David Terrell,L,0,Pts: 2x0,Gracie Open,ABS,SPF,2002
+728,1369,Dean Lister,278,Ricardo Almeida,L,0,Points,Grapplers Quest,ABS,4F,2002
+804,1369,Dean Lister,84,Alexandre Ribeiro,L,0,Pts: 8x0,ADCC,99KG,4F,2003
+2278,1369,Dean Lister,,Glover Teixeira,L,0,Points,ADCC,99KG,4F,2009
+2296,1369,Dean Lister,733,Vinny Magalhaes,L,0,Points,ADCC,ABS,R1,2009
+4153,1369,Dean Lister,84,Alexandre Ribeiro,D,0.5,---,Metamoris,ABS,SPF,2012
+5036,1369,Dean Lister,644,Joao Assis,L,0,Pts: 5x0,ADCC,99KG,F,2013
+5063,1369,Dean Lister,984,Marcus Almeida,L,0,Pts: 5x0,ADCC,ABS,SF,2013
+5064,1369,Dean Lister,3009,Keenan Cornelius,L,0,Points,ADCC,ABS,3PLC,2013
+5870,1369,Dean Lister,,Josh Barnet,L,0,Choke,Metamoris 4,100KG+,SPF,2014
+6393,1369,Dean Lister,3009,Keenan Cornelius,L,0,Inverted triangle,Polaris,ABS,SPF,2015
+7902,1369,Dean Lister,2452,Orlando Sanchez,L,0,Referee Decision,ADCC,O99KG,4F,2015
+7993,1369,Dean Lister,1740,Yuri Simoes,L,0,Pts: 5x3,ADCC,ABS,4F,2015
+8542,1369,Dean Lister,,Muhammad Kerimov,L,0,Pressure/Injury,Berkut 2,ABS,SPF,2015
+10311,1369,Dean Lister,1740,Yuri Simoes,L,0,Referee Decision,F2W 8,86KG,SPF,2016
+537,1369,Dean Lister,,M. Yano,W,1,RNC,ADCC,99KG,R1,2001
+732,1369,Dean Lister,,Rodolfo Amaro,W,1,Points,Grapplers Quest,O91KG,SF,2002
+733,1369,Dean Lister,,Justin Ellison,W,1,Points,Grapplers Quest,O91KG,F,2002
+800,1369,Dean Lister,,Ilir Lafiti,W,1,Guillotine,ADCC,99KG,R1,2003
+820,1369,Dean Lister,,Nate Marquardt,W,1,Kimura,ADCC,ABS,R1,2003
+823,1369,Dean Lister,481,Saulo Ribeiro,W,1,Kneebar,ADCC,ABS,4F,2003
+826,1369,Dean Lister,9,Marcio Cruz,W,1,Pts: 3x0,ADCC,ABS,SF,2003
+827,1369,Dean Lister,,A. Cacareco,W,1,Heel hook,ADCC,ABS,F,2003
+1160,1369,Dean Lister,88,JJ Machado,W,1,Points,ADCC,ABS,SPF,2005
+2274,1369,Dean Lister,,Andreas Olsen,W,1,Triangle,ADCC,99KG,R1,2009
+3251,1369,Dean Lister,1167,Augusto Ferrari,W,1,Pts: 2x0,ADCC,99KG,R1,2011
+3275,1369,Dean Lister,8241,Radek Turek,W,1,Footlock,ADCC,99KG,4F,2011
+3286,1369,Dean Lister,247,Rodolfo Vieira,W,1,Heel hook,ADCC,99KG,SF,2011
+3298,1369,Dean Lister,644,Joao Assis,W,1,Heel hook,ADCC,99KG,F,2011
+4192,1369,Dean Lister,331,Ricardo Abreu,W,1,Heel hook,Grapplers Quest,ABS,NA,2012
+4193,1369,Dean Lister,,Kyle Griffin,W,1,Toe hold,Grapplers Quest,ABS,NA,2012
+4373,1369,Dean Lister,477,Tarsis Humphreys,W,1,Heel hook,World Expo,ABS,SPF,2013
+4465,1369,Dean Lister,,Janne-Pekka,W,1,Referee Decision,Macao Branco,ABS,SPF,2013
+5022,1369,Dean Lister,,Jia Jang,W,1,Heel Hook,ADCC,99KG,R1,2013
+5032,1369,Dean Lister,,Ezra Lenon,W,1,Heel Hook,ADCC,99KG,4F,2013
+5033,1369,Dean Lister,2956,Cristiano Lazzarini,W,1,Heel Hook,ADCC,99KG,SF,2013
+5054,1369,Dean Lister,,Hideki Sekine,W,1,Heel Hook,ADCC,ABS,R1,2013
+5060,1369,Dean Lister,2403,Joao Rocha,W,1,Heel Hook,ADCC,ABS,4F,2013
+5280,1369,Dean Lister,,Renato Sobral,D,0.5,---,Metamoris 3,ABS,SPF,2014
+7894,1369,Dean Lister,,Lee Hyoung,W,1,Violin armlock,ADCC,O99KG,R1,2015
+7985,1369,Dean Lister,,Ricardo Mesquita,W,1,Heel hook,ADCC,ABS,R1,2015

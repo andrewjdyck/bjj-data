@@ -1,0 +1,57 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23905,11510,Samuel Nagai,,Carlos Souza,L,0,Kneebar,SUBVERSIV 3,ABS,SF,2020
+23991,11510,Samuel Nagai,8814,Adam Benayoun,L,0,Pts: 6x2,Oklahoma Open,70KG,F,2020
+24151,11510,Samuel Nagai,8632,Thiago Macedo,L,0,Pts: 2x0,Pan American,70KG,SF,2020
+28036,11510,Samuel Nagai,11497,Fabricio Andrey,L,0,Pts: 7x6,Brasileiro,70KG,SF,2021
+32149,11510,Samuel Nagai,9031,Kennedy Maciel,L,0,Pts: 2x0,Brasileiro,70KG,4F,2022
+32901,11510,Samuel Nagai,6103,Isaac Doederlein,L,0,Straight ankle lock,World Champ.,70KG,SF,2022
+37591,11510,Samuel Nagai,11423,Meyram Maquine,L,0,Pts: 4x2,Spyder RTBB,65KG,4F,2023
+38375,11510,Samuel Nagai,10408,Israel Sousa,L,0,Choke from back,Pan American,70KG,8F,2023
+42502,11510,Samuel Nagai,11823,Diogo Reis,L,0,Referee Decision,BJJ Stars,70KG,SPF,2023
+23888,11510,Samuel Nagai,,Luca Ramaci,W,1,Botinha,SUBVERSIV 3,82KG,R1,2020
+23898,11510,Samuel Nagai,,Fred Silva,W,1,Referee Decision,SUBVERSIV 3,82KG,4F,2020
+23909,11510,Samuel Nagai,,Samuel Snow,W,1,Botinha,SUBVERSIV 3,82KG,3RD,2020
+23979,11510,Samuel Nagai,4248,Gianni Grippo,W,1,Referee Decision,F2W 153,70KG,SPF,2020
+23990,11510,Samuel Nagai,11093,Emilio Hernandez,W,1,Points,Oklahoma Open,70KG,SF,2020
+24127,11510,Samuel Nagai,10953,Danilo Moreira,W,1,"Pts: 2x2, Adv",Pan American,70KG,R1,2020
+24139,11510,Samuel Nagai,6103,Isaac Doederlein,W,1,Pts: 17x4,Pan American,70KG,8F,2020
+24148,11510,Samuel Nagai,11093,Emilio Hernandez,W,1,Choke from back,Pan American,70KG,4F,2020
+24384,11510,Samuel Nagai,4163,Marcio Andre,W,1,Referee Decision,F2W 156,77KG,SPF,2020
+24536,11510,Samuel Nagai,,Mauricio Gomez,W,1,Botinha,F2W 158,70KG,SPF,2020
+27083,11510,Samuel Nagai,,Matheus Onda,W,1,Choke from back,BJJ Bet,76KG,SPF,2021
+28035,11510,Samuel Nagai,,Wesley Santos,W,1,Choke from back,Brasileiro,70KG,4F,2021
+29012,11510,Samuel Nagai,,Michael Thorne,W,1,Loop choke,JJ CON,70KG,R1,2021
+29015,11510,Samuel Nagai,6366,Brian Mahecha,W,1,Armbar,JJ CON,70KG,4F,2021
+29302,11510,Samuel Nagai,9094,Richar Nogueira,W,1,Referee Decision,F2W 188,70KG,SPF,2021
+29804,11510,Samuel Nagai,,Edmaicon Moraes,W,1,Choke from back,F2W 190,70KG,SPF,2022
+31775,11510,Samuel Nagai,,Freire Almeida,W,1,Botinha,Amazonense,76KG,SF,2022
+31847,11510,Samuel Nagai,,Cleiver Silva,W,1,Triangle,Rio Fall Open,70KG,R1,2022
+31853,11510,Samuel Nagai,,Jose Vito,W,1,Armbar,Rio Fall Open,70KG,R1,2022
+31857,11510,Samuel Nagai,,Matheus Onda,W,1,"Pts: 8x8, Adv",Rio Fall Open,70KG,SF,2022
+32884,11510,Samuel Nagai,,Giovanni Marcelo,W,1,Armbar,World Champ.,70KG,R1,2022
+32890,11510,Samuel Nagai,9051,Gabriel Sousa,W,1,Violin armlock,World Champ.,70KG,8F,2022
+32898,11510,Samuel Nagai,11497,Fabricio Andrey,W,1,Referee Decision,World Champ.,70KG,4F,2022
+33677,11510,Samuel Nagai,,Michael Diaz,W,1,Choke from back,Austin SMO,70KG,SF,2022
+33678,11510,Samuel Nagai,6366,Brian Mahecha,W,1,Armbar,Austin SMO,70KG,F,2022
+33750,11510,Samuel Nagai,,Kyvann Jimenez,W,1,Cross choke,Orlando SMO,70KG,4F,2022
+33752,11510,Samuel Nagai,12633,Ismael Santos,W,1,Pts: 11x4,Orlando SMO,70KG,SF,2022
+33753,11510,Samuel Nagai,12573,Sebastian Serpa,W,1,Pts: 4x2,Orlando SMO,70KG,F,2022
+34551,11510,Samuel Nagai,,Saeth Kaelin,W,1,Armbar,JJWL Dallas NG,76KG,RR,2022
+34552,11510,Samuel Nagai,,Jeffrey Robinson,W,1,Triangle,JJWL Dallas NG,76KG,RR,2022
+35238,11510,Samuel Nagai,12633,Ismael Santos,W,1,Pts: 4x0,Atlanta FNGO,73KG,SF,2022
+35240,11510,Samuel Nagai,,Jeffrey Cummings,W,1,Armbar,Atlanta FNGO,73KG,F,2022
+35775,11510,Samuel Nagai,11497,Fabricio Andrey,W,1,Referee Decision,BJJ Stars,70KG,SPF,2022
+39380,11510,Samuel Nagai,11568,Josh Cisneros,W,1,Referee Decision,F2W 227,70KG,SPF,2023
+40033,11510,Samuel Nagai,11568,Josh Cisneros,W,1,Referee Decision,F2W 227,70KG,SPF,2023
+40222,11510,Samuel Nagai,,Keyto Oyanagi,W,1,Armbar,World Champ.,70KG,R1,2023
+40237,11510,Samuel Nagai,,Jun Yong Cho,W,1,Pts: 12x0,World Champ.,70KG,8F,2023
+40243,11510,Samuel Nagai,8884,Alex Sodre,W,1,"Pts: 0x0, Adv",World Champ.,70KG,4F,2023
+40245,11510,Samuel Nagai,6103,Isaac Doederlein,W,1,Triangle armlock,World Champ.,70KG,SF,2023
+40246,11510,Samuel Nagai,11963,Diego Sodre,W,1,Pts: 4x2,World Champ.,70KG,F,2023
+41634,11510,Samuel Nagai,,Johnathan Frank,W,1,Espalha frango,Phoenix Open,76KG,SF,2023
+41635,11510,Samuel Nagai,10953,Danilo Moreira,W,1,Armbar,Phoenix Open,76KG,F,2023
+41691,11510,Samuel Nagai,,Gabriel Cardoso,W,1,Points,Dallas SMO,76KG,RR,2023
+41692,11510,Samuel Nagai,11512,Lukete Silva,W,1,Points,Dallas SMO,76KG,F,2023
+41706,11510,Samuel Nagai,1534,R. Evangelista,W,1,Choke from back,Dallas SMO,ABS,4F,2023
+41710,11510,Samuel Nagai,13487,Marco Mendes,W,1,Points,Dallas SNGO,73KG,RR,2023
+41712,11510,Samuel Nagai,13487,Marco Mendes,W,1,Katagatame,Dallas SNGO,73KG,F,2023

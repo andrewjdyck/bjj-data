@@ -1,0 +1,45 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+32953,12544,Mateus Rodrigues,,Sean Coates,L,0,Triangle,World Champ.,88KG,R1,2022
+33861,12544,Mateus Rodrigues,9637,Sergio Rios,L,0,Clock choke,Phoenix Open,88KG,F,2022
+34229,12544,Mateus Rodrigues,,Rafael Feitosa,L,0,"Pts: 2x2, Adv",Santa Cruz Open,88KG,F,2022
+36190,12544,Mateus Rodrigues,12048,Rafael Anjos,L,0,Referee Decision,Nashville Open,94KG,F,2022
+37881,12544,Mateus Rodrigues,6432,Yan Lucas,L,0,Referee Decision,Dallas Open,ABS,F,2023
+37952,12544,Mateus Rodrigues,12203,Austin Baker,L,0,Choke,LA Open,O100KG,F,2023
+37969,12544,Mateus Rodrigues,8514,Fellipe Andrew,L,0,Referee Decision,LA Open,ABS,SF,2023
+38436,12544,Mateus Rodrigues,10162,Ronaldo Junior,L,0,Pts: 2x0,Pan American,88KG,4F,2023
+39872,12544,Mateus Rodrigues,5636,Manuel Ribamar,L,0,Referee Decision,Houston Open,88KG,4F,2023
+40315,12544,Mateus Rodrigues,8357,Gustavo Batista,L,0,Pts: 2x0,World Champ.,88KG,8F,2023
+41168,12544,Mateus Rodrigues,10162,Ronaldo Junior,L,0,Referee Decision,American Nats,ABS,4F,2023
+41641,12544,Mateus Rodrigues,7399,Horlando Monteiro,L,0,Triangle,Phoenix Open,94KG,SF,2023
+41763,12544,Mateus Rodrigues,12537,Pedro Machado,L,0,"Pts: 2x2, Adv",SDiego SMO,94KG,SF,2023
+41772,12544,Mateus Rodrigues,13051,Caio Vinicius,L,0,Pts: 4x2,SDiego SMO,ABS,4F,2023
+42298,12544,Mateus Rodrigues,5655,Lucas Barbosa,L,0,"Pts: 0x0, Adv",JJ Con,94KG,F,2023
+42312,12544,Mateus Rodrigues,5655,Lucas Barbosa,L,0,Referee Decision,JJ Con,ABS,F,2023
+30106,12544,Mateus Rodrigues,,Angel Cicero,W,1,Pts: 6x0,Oklahoma Open,88KG,F,2022
+30955,12544,Mateus Rodrigues,12048,Rafael Anjos,W,1,Choke from back,LA Open,88KG,4F,2022
+30957,12544,Mateus Rodrigues,9250,Gabriel Almeida,W,1,"Pts: 0x0, Adv",LA Open,88KG,F,2022
+33859,12544,Mateus Rodrigues,,Thiago Aso,W,1,Toe hold,Phoenix Open,88KG,SF,2022
+34227,12544,Mateus Rodrigues,,Anaue Pavanello,W,1,Pts: 4x2,Santa Cruz Open,88KG,SF,2022
+36188,12544,Mateus Rodrigues,,Clay Mayfield,W,1,Pts: 2x0,Nashville Open,94KG,SF,2022
+36191,12544,Mateus Rodrigues,,Clay Mayfield,W,1,Pts: 16x0,Nashville Open,ABS,4F,2022
+36196,12544,Mateus Rodrigues,,Lucas Brito,W,1,Pts: 4x2,Nashville Open,ABS,SF,2022
+36197,12544,Mateus Rodrigues,,Chris Passarrello,W,1,Pts: 14x0,Nashville Open,ABS,F,2022
+37732,12544,Mateus Rodrigues,,Rafael Silva,W,1,Pts: 2x0,Memphis Open,94KG,4F,2023
+37736,12544,Mateus Rodrigues,,Zane Spruce,W,1,Referee Decision,Memphis Open,94KG,SF,2023
+37737,12544,Mateus Rodrigues,13051,Caio Vinicius,W,1,Referee Decision,Memphis Open,94KG,F,2023
+37880,12544,Mateus Rodrigues,,Rafael Silva,W,1,Choke from back,Dallas Open,ABS,4F,2023
+37951,12544,Mateus Rodrigues,,Joshua Guerra,W,1,Pts: 11x0,LA Open,O100KG,SF,2023
+37961,12544,Mateus Rodrigues,,Paulo Lanzillotti,W,1,Pts: 2x0,LA Open,ABS,R1,2023
+37965,12544,Mateus Rodrigues,10509,Mathias Luna,W,1,Pts: 2x0,LA Open,ABS,4F,2023
+38418,12544,Mateus Rodrigues,,Clay Mayfield,W,1,Armbar,Pan American,88KG,R1,2023
+38429,12544,Mateus Rodrigues,12671,Uanderson Ferreira,W,1,Pts: 2x0,Pan American,88KG,8F,2023
+39870,12544,Mateus Rodrigues,12069,Bruno Matias,W,1,Pts: 3x2,Houston Open,88KG,R1,2023
+40307,12544,Mateus Rodrigues,11658,Lucas Gualberto,W,1,Toe hold,World Champ.,88KG,R1,2023
+41165,12544,Mateus Rodrigues,,Thiago Andrade,W,1,Pts: 2x0,American Nats,ABS,R1,2023
+41649,12544,Mateus Rodrigues,,Josh Guerra,W,1,Pts: 7x0,Phoenix Open,ABS,R1,2023
+41655,12544,Mateus Rodrigues,12267,Lucas Norat,W,1,Pts: 4x0,Phoenix Open,ABS,SF,2023
+41656,12544,Mateus Rodrigues,12203,Austin Baker,W,1,"Pts: 0x0, Adv",Phoenix Open,ABS,F,2023
+41762,12544,Mateus Rodrigues,,Marcos Lopes,W,1,Pts: 9x0,SDiego SMO,94KG,4F,2023
+42296,12544,Mateus Rodrigues,13051,Caio Vinicius,W,1,Pts: 6x4,JJ Con,94KG,4F,2023
+42309,12544,Mateus Rodrigues,11960,Joao Cizeski,W,1,Pts: 10x2,JJ Con,ABS,4F,2023
+42310,12544,Mateus Rodrigues,,Michael Roy,W,1,Brabo choke,JJ Con,ABS,SF,2023

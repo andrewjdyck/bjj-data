@@ -1,0 +1,24 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6980,5926,Thiago Gaia,443,Claudio Mattos,L,0,Calf slicer,ADCC RJ,77KG,R1,2015
+7064,5926,Thiago Gaia,5061,Gabriel Rollo,L,0,Armbar,ADCC SP,77KG,4F,2015
+8421,5926,Thiago Gaia,6095,Mansher Khera,L,0,RNC,NoGi Worlds,73KG,SF,2015
+17690,5926,Thiago Gaia,260,Ary Farias,L,0,"Pts: 0x0, Pen",Brasileiro NoGi,73KG,4F,2018
+19987,5926,Thiago Gaia,9876,Alef Brito,L,0,Points,San Jose Open,76KG,4F,2019
+20017,5926,Thiago Gaia,10220,Paulo Gabriel,L,0,Adv,San Jose NGO,73KG,F,2019
+26111,5926,Thiago Gaia,4248,Gianni Grippo,L,0,Injury,NoGi Pan Am.,73KG,8F,2021
+5937,5926,Thiago Gaia,,Mario Andre,W,1,Pts: 1x0,Rematch G.,77KG,SPF,2014
+6389,5926,Thiago Gaia,,Eduardo Inojosa,W,1,RNC,Submission Open,ABS,F,2015
+7060,5926,Thiago Gaia,,Unknown,W,1,Short choke,ADCC SP,77KG,R1,2015
+7062,5926,Thiago Gaia,5909,Thiago Abreu,W,1,Referee Decision,ADCC SP,77KG,4F,2015
+7082,5926,Thiago Gaia,,J. Gracie,W,1,RNC,Mandala,77KG,SPF,2015
+8306,5926,Thiago Gaia,,Eduardo Marinho,W,1,Points,Brasileiro NoGi,73KG,4F,2015
+8308,5926,Thiago Gaia,4115,Fabio Caloi,W,1,Points,Brasileiro NoGi,73KG,4F,2015
+8311,5926,Thiago Gaia,6599,Rafael Mansur,W,1,Pts: 4x0,Brasileiro NoGi,73KG,F,2015
+8414,5926,Thiago Gaia,,Andreas Perales,W,1,Triangle,NoGi Worlds,73KG,8F,2015
+8419,5926,Thiago Gaia,6563,Francisco Iturralde,W,1,Referee Decision,NoGi Worlds,73KG,4F,2015
+11362,5926,Thiago Gaia,720,Jorge Patino,W,1,Pts: 3x0,Gold Team Open,ABS,F,2016
+13755,5926,Thiago Gaia,,Juliano Rocha,W,1,N/A,SP NoGi Open,73KG,SF,2017
+17682,5926,Thiago Gaia,,Elvis Gomes,W,1,RNC,Brasileiro NoGi,73KG,8F,2018
+20016,5926,Thiago Gaia,,Joe Histaka,W,1,N/A,San Jose NGO,73KG,SF,2019
+20429,5926,Thiago Gaia,,Shane Torres,W,1,Adv,American Cup,70KG,F,2019
+20903,5926,Thiago Gaia,,Andrew Fonseca,W,1,Short choke,F2W 116,77KG,SPF,2019

@@ -1,0 +1,34 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24226,12663,Claire North,11656,Rafaela Guedes,L,0,"Pts: 0x0, Adv",Pan American,69KG,F,2020
+26706,12663,Claire North,7997,Danielle Alvarez,L,0,"Pts: 4x4, Adv",American Nats,69KG,F,2021
+26711,12663,Claire North,13064,Janaina Lebre,L,0,Straight ankle lock,American Nats,ABS,SF,2021
+27660,12663,Claire North,5263,Luiza Monteiro,L,0,Pts: 8x0,Pan American,69KG,SF,2021
+29101,12663,Claire North,12708,Chloe McNally,L,0,Armbar,JJ CON,ABS,4F,2021
+29105,12663,Claire North,11909,Vannessa Griffin,L,0,"Pts: 2x2, Adv",JJ CON,69KG,F,2021
+29637,12663,Claire North,,Andresa Cintra,L,0,Botinha,World Champ.,69KG,SF,2021
+29837,12663,Claire North,13205,Sheliah Lindsey,L,0,RNC,M. Finishers 5,65KG,F,2022
+30842,12663,Claire North,,Vedha Toscano,L,0,Yoko Sankaku,Dallas NGO,ABS,F,2022
+33070,12663,Claire North,,Janine Mutton,L,0,Referee Decision,World Champ.,64KG,8F,2022
+35619,12663,Claire North,10764,Anna Rodrigues,L,0,Pts: 4x0,NoGi Pan,61KG,F,2022
+36921,12663,Claire North,12599,Brianna Ste-Marie,L,0,Guillotine,NoGi Worlds,61KG,SF,2022
+37626,12663,Claire North,,Peyton Letcher,L,0,Inside heel hook,M. Finishers 12,ABS,SF,2023
+24222,12663,Claire North,,Melissa Cueto,W,1,Americana,Pan American,69KG,4F,2020
+24225,12663,Claire North,,Brenda Palheta,W,1,"Pts: 0x0, Adv",Pan American,69KG,SF,2020
+26705,12663,Claire North,,Mayra Mazza,W,1,Pts: 10x2,American Nats,69KG,SF,2021
+27654,12663,Claire North,,Victoria Montrezor,W,1,Toe Hold,Pan American,69KG,8F,2021
+27657,12663,Claire North,,Brenda Palheta,W,1,Americana,Pan American,69KG,4F,2021
+29104,12663,Claire North,,Hannah Rauch,W,1,Americana,JJ CON,69KG,SF,2021
+29633,12663,Claire North,,Yuki Kaneko,W,1,Pts: 2x0,World Champ.,69KG,4F,2021
+29832,12663,Claire North,,Alivia Bierly,W,1,Kimura,M. Finishers 5,65KG,4F,2022
+29835,12663,Claire North,,Delia Kowanolski,W,1,Kneebar,M. Finishers 5,65KG,SF,2022
+30812,12663,Claire North,,Thamires Monteiro,W,1,Pts: 6x0,Dallas Open,64KG,SF,2022
+30813,12663,Claire North,,Tracey Goodell,W,1,"Pts: 4x4, Adv",Dallas Open,64KG,F,2022
+30841,12663,Claire North,,Thamires Monteiro,W,1,Pts: 2x0,Dallas NGO,ABS,SF,2022
+34823,12663,Claire North,1430,Talita Nogueira,W,1,Inside heel hook,JJ Con NG,ABS,SF,2022
+34825,12663,Claire North,,Mayara Custodio,W,1,Inside heel hook,JJ Con NG,ABS,F,2022
+35616,12663,Claire North,,Yasmim Pinheiro,W,1,Inside heel hook,NoGi Pan,61KG,4F,2022
+35618,12663,Claire North,,Thamires Monteiro,W,1,"Pts: 0x0, Adv",NoGi Pan,61KG,SF,2022
+36918,12663,Claire North,12233,Margot Ciccarelli,W,1,Inside heel hook,NoGi Worlds,61KG,4F,2022
+37624,12663,Claire North,,Rais Radford,W,1,Americana,M. Finishers 12,ABS,SF,2023
+37625,12663,Claire North,,Ally Wolski,W,1,Inside heel hook,M. Finishers 12,ABS,SF,2023
+37633,12663,Claire North,,Nabila Martínez,D,0.5,---,M. Finishers 12,ABS,F,2023

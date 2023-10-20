@@ -1,0 +1,28 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+352,6167,Ricco Rodriguez,,Sean Alvarez,L,0,Points,ADCC,O99KG,4F,1999
+368,6167,Ricco Rodriguez,,Hayato Sakurai,L,0,Heel hook,ADCC,ABS,SF,1999
+458,6167,Ricco Rodriguez,,Mark Kerr,L,0,Points,ADCC,O99KG,F,2000
+554,6167,Ricco Rodriguez,,Mark Robinson,L,0,Pen,ADCC,O99KG,SF,2001
+556,6167,Ricco Rodriguez,9,Marcio Cruz,L,0,Armbar,ADCC,O99KG,3RD,2001
+566,6167,Ricco Rodriguez,,Vitor Belfort,L,0,Pts: 2x0,ADCC,ABS,4F,2001
+1214,6167,Ricco Rodriguez,,Gabriel Napao,L,0,Pts: 2x0,ADCC,O99KG,4F,2005
+1222,6167,Ricco Rodriguez,16,Marcelo Garcia,L,0,Heel Hook,ADCC,ABS,R1,2005
+2297,6167,Ricco Rodriguez,84,Alexandre Ribeiro,L,0,Armbar,ADCC,ABS,R1,2009
+10598,6167,Ricco Rodriguez,5016,Fabiano Scherner,L,0,EBI/OT,SUG 3,ABS,SPF,2016
+12373,6167,Ricco Rodriguez,5324,Tom deBlass,L,0,Referee Decision,F2W 30,O100KG,SPF,2017
+21364,6167,Ricco Rodriguez,8682,Lachlan Giles,L,0,Inside heel hook,Kinektic 1,ABS,R5,2019
+178,6167,Ricco Rodriguez,,Yousef Elzien,W,1,Headlock,ADCC,O99KG,R1,1998
+182,6167,Ricco Rodriguez,,Ricardo Moraes,W,1,Pts: 5x0,ADCC,O99KG,4F,1998
+183,6167,Ricco Rodriguez,,Firas Nakdali,W,1,Armbar,ADCC,O99KG,SF,1998
+185,6167,Ricco Rodriguez,,Sean Alvarez,W,1,Pts: 3x0,ADCC,O99KG,F,1998
+345,6167,Ricco Rodriguez,,Rocky Batastini,W,1,Armbar,ADCC,O99KG,R1,1999
+362,6167,Ricco Rodriguez,,Kim Mason,W,1,Points,ADCC,ABS,R1,1999
+367,6167,Ricco Rodriguez,627,Murilo Bustamante,W,1,Pts: 3x0,ADCC,ABS,4F,1999
+371,6167,Ricco Rodriguez,1696,Garth Taylor,W,1,Points,ADCC,ABS,3RD,1999
+451,6167,Ricco Rodriguez,,Carlos Barreto,W,1,Referee Decision,ADCC,O99KG,R1,2000
+453,6167,Ricco Rodriguez,,Rodrigo Minotauro,W,1,Kneebar,ADCC,O99KG,4F,2000
+457,6167,Ricco Rodriguez,,Ricardo Moraes,W,1,Referee Decision,ADCC,O99KG,SF,2000
+547,6167,Ricco Rodriguez,,Y. Yatso,W,1,Flying armbar,ADCC,O99KG,R1,2001
+551,6167,Ricco Rodriguez,,Roger Neff,W,1,Kneebar,ADCC,O99KG,4F,2001
+559,6167,Ricco Rodriguez,,A. Cacareco,W,1,Pts: 2x0,ADCC,ABS,R1,2001
+1209,6167,Ricco Rodriguez,,Halm Gocalli,W,1,Headlock,ADCC,O99KG,R1,2005

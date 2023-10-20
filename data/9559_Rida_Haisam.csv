@@ -1,0 +1,69 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+17729,9559,Rida Haisam,10405,Marcelo Nunes,L,0,Katagatame,Quintet 3,ABS,SPF,2018
+18009,9559,Rida Haisam,8682,Lachlan Giles,L,0,Inside heel hook,Wu Lin Fang,ABS,R1,2018
+18010,9559,Rida Haisam,8682,Lachlan Giles,L,0,Outside heel hook,Wu Lin Fang,ABS,R2,2018
+20135,9559,Rida Haisam,7478,Adam Wardzinski,L,0,Pts: 9x2,World Pro,94KG,4F,2019
+20139,9559,Rida Haisam,,Anton Minenko,L,0,Estima lock,World Pro,94KG,RPC,2019
+21246,9559,Rida Haisam,6825,Fernando Reis,L,0,Pts: 6x2,Grand Slam TYO,94KG,SF,2019
+21505,9559,Rida Haisam,8974,Kaynan Duarte,L,0,Choke from back,Marianas Open,O85KG,SF,2019
+24231,9559,Rida Haisam,11145,Igor Tanabe,L,0,Points,Kinya Boyz TYO,ABS,SPF,2020
+24300,9559,Rida Haisam,11145,Igor Tanabe,L,0,Straight ankle lock,Quintet FN5,ABS,SPF,2020
+24643,9559,Rida Haisam,9250,Gabriel Almeida,L,0,Referee Decision,American NGN,ABS,SF,2020
+25246,9559,Rida Haisam,9246,Tex Johnson,L,0,"Pts: 0x0, Adv",Dallas NGO,ABS,4F,2021
+25840,9559,Rida Haisam,12069,Bruno Matias,L,0,Inside heel hook,Houston NGO,91KG,F,2021
+26169,9559,Rida Haisam,8729,Matt Leighton,L,0,Pts: 2x0,NoGi Pan Am.,97KG,4F,2021
+26202,9559,Rida Haisam,,Joseph Watson,L,0,Inside heel hook,NoGi Pan Am.,ABS,R1,2021
+27891,9559,Rida Haisam,4310,Tim Spriggs,L,0,Inside heel hook,WNO Champ.,ABS,4F,2021
+28324,9559,Rida Haisam,9180,Vinicius Trator,L,0,Pts: 7x0,NoGi Worlds,97KG,4F,2021
+30886,9559,Rida Haisam,,Clay Mayfield,L,0,N/A,Indianapolis NGO,ABS,SF,2022
+33482,9559,Rida Haisam,7704,Helton Jose,L,0,DQ,American NGN,O97KG,F,2022
+35073,9559,Rida Haisam,11499,Roosevelt Sousa,L,0,Pts: 2x0,ADCC,O99KG,4F,2022
+35100,9559,Rida Haisam,11797,Giancarlo Bodoni,L,0,Shoulder lock,ADCC,ABS,8F,2022
+35581,9559,Rida Haisam,12275,Davi Cabral,L,0,Pts: 4x2,NoGi Pan,O97KG,F,2022
+36175,9559,Rida Haisam,,Luke Griffith,L,0,Inside heel hook,WNO,O95KG,SPF,2022
+36939,9559,Rida Haisam,4430,Patrick Gaudio,L,0,Triangle,UFC Invitational,ABS,4F,2022
+37348,9559,Rida Haisam,9180,Vinicius Trator,L,0,Referee Decision,Grapple ITT3,N/A,SPF,2023
+41998,9559,Rida Haisam,2416,Felipe Pena,L,0,RNC,WNO 19,ABS,SPF,2023
+42506,9559,Rida Haisam,6531,Richie Martinez,D,0.5,---,Quintet 4,ABS,NA,2023
+18747,9559,Rida Haisam,,Walter Santos,W,1,Choke from back,Desafio Angola,ABS,SPF,2018
+18748,9559,Rida Haisam,,Diemerson Hatta,W,1,Submission,Dumau Cup,100KG,F,2018
+18749,9559,Rida Haisam,,Diemerson Hatta,W,1,Submission,Dumau Cup,ABS,F,2018
+19002,9559,Rida Haisam,,Yuji Arai,W,1,Kneebar,Ginna be Cup,O75KG,4F,2019
+19003,9559,Rida Haisam,,Kikuchi Bruno,W,1,RNC,Ginna be Cup,O75KG,SF,2019
+19004,9559,Rida Haisam,9637,Sergio Rios,W,1,Points,Gunavy Cup,O75KG,F,2019
+19022,9559,Rida Haisam,,Declan Moody,W,1,Kneebar,Quintet FN2,ABS,SF,2019
+19023,9559,Rida Haisam,,I. Tanabe,D,0.5,---,Quintet FN2,ABS,SF,2019
+20131,9559,Rida Haisam,,Zaid Sami,W,1,Triangle,World Pro,94KG,R1,2019
+21247,9559,Rida Haisam,,Anton Minenko,W,1,Pts: 4x0,Grand Slam TYO,94KG,3RD,2019
+21507,9559,Rida Haisam,,Choi Won,W,1,Toe hold,Marianas Open,O85KG,3RD,2019
+22670,9559,Rida Haisam,,N/A,W,1,Pts: 17x2,NYC Fall Open,94KG,4F,2019
+22671,9559,Rida Haisam,,Charles Mcguire,W,1,Armbar,NYC Fall Open,94KG,SF,2019
+22672,9559,Rida Haisam,,Rodrigo Acioli,W,1,Armbar,NYC Fall Open,94KG,F,2019
+22729,9559,Rida Haisam,,Kyle Chambers,W,1,Referee Decision,Quintet FN4,ABS,SPF,2019
+24625,9559,Rida Haisam,,Francisco Leon,W,1,Armbar,American NGN,97KG,4F,2020
+24626,9559,Rida Haisam,,Charles McGuire,W,1,Verbal tap,American NGN,97KG,SF,2020
+24627,9559,Rida Haisam,,Robert Dunn,W,1,Armbar,American NGN,97KG,F,2020
+24636,9559,Rida Haisam,,Enrique March,W,1,Armbar,American NGN,ABS,R1,2020
+24639,9559,Rida Haisam,9407,Alexandre Molinaro,W,1,RNC,American NGN,ABS,4F,2020
+25043,9559,Rida Haisam,,Brandon Allen,W,1,Referee Decision,F2W 161,93KG,SPF,2021
+25238,9559,Rida Haisam,,Patrick Goncalves,W,1,Inside heel hook,Dallas NGO,97KG,F,2021
+25244,9559,Rida Haisam,,Alexander Le,W,1,RNC,Dallas NGO,ABS,R1,2021
+25260,9559,Rida Haisam,,Nonso Ebed,W,1,Referee Decision,F2W 167,N/A,SPF,2021
+25837,9559,Rida Haisam,,Charles McGuire,W,1,Triangle,Houston NGO,91KG,4F,2021
+25839,9559,Rida Haisam,,Joseph Watson,W,1,Pts: 2x0,Houston NGO,91KG,SF,2021
+25960,9559,Rida Haisam,,Sloan Clymer,W,1,Referee Decision,WNO 8,94KG,SPF,2021
+26522,9559,Rida Haisam,,Antonio Zuazo,W,1,Armbar,Detroit Open,94KG,RR,2021
+26523,9559,Rida Haisam,,Antonio Zuazo,W,1,Armbar,Detroit Open,94KG,F,2021
+26608,9559,Rida Haisam,,Miha Perhavec,W,1,Armbar,WNO 10,92KG,SPF,2021
+26744,9559,Rida Haisam,12267,Lucas Norat,W,1,"Pts: 2x2, Adv",American NGN,97KG,4F,2021
+26746,9559,Rida Haisam,7831,Diego Ramalho,W,1,Armbar,American NGN,97KG,F,2021
+27465,9559,Rida Haisam,,B. Schneider,W,1,RNC,Fuji 16 Man,ABS,SF,2021
+27466,9559,Rida Haisam,,Devin King,W,1,Armbar,Fuji 16 Man,ABS,F,2021
+27925,9559,Rida Haisam,2452,Orlando Sanchez,W,1,Short choke,WNO Champ.,ABS,RPC,2021
+27926,9559,Rida Haisam,11797,Giancarlo Bodoni,W,1,Referee Decision,WNO Champ.,ABS,3RD,2021
+28321,9559,Rida Haisam,,Xavier Silva,W,1,Triangle,NoGi Worlds,97KG,8F,2021
+31294,9559,Rida Haisam,12922,Elder Cruz,W,1,RNC,WNO 12,92KG,SPF,2022
+31807,9559,Rida Haisam,,William Vincent,W,1,Triangle armbar,BJJ Fanatics,ABS,RR,2022
+33481,9559,Rida Haisam,,Joshua Guerra,W,1,Submission,American NGN,O97KG,SF,2022
+35070,9559,Rida Haisam,224,Roberto Abreu,W,1,Armbar,ADCC,O99KG,R1,2022
+35580,9559,Rida Haisam,,Salenco Coutinho,W,1,DQ,NoGi Pan,O97KG,SF,2022

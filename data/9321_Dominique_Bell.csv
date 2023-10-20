@@ -1,0 +1,54 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+18464,9321,Dominique Bell,4163,Marcio Andre,L,0,Points,Denver Open,ABS,SF,2018
+19633,9321,Dominique Bell,484,Murilo Santana,L,0,Pts: 2x0,Pan American,88KG,8F,2019
+20001,9321,Dominique Bell,7399,Horlando Monteiro,L,0,Adv,San Jose Open,94KG,F,2019
+20013,9321,Dominique Bell,4235,Victor Silverio,L,0,Referee Decision,San Jose Open,ABS,SF,2019
+20687,9321,Dominique Bell,1188,Leandro Lo,L,0,Pts: 17x0,World Champ.,94KG,R2,2019
+23135,9321,Dominique Bell,,Felipe Mauricio,L,0,"Pts: 0x0, Adv",European Open,94KG,R1,2020
+24207,9321,Dominique Bell,8357,Gustavo Batista,L,0,Pts: 9x0,Pan American,94KG,F,2020
+27337,9321,Dominique Bell,11384,Andre Porfirio,L,0,Referee Decision,Charleston SO,94KG,F,2021
+27692,9321,Dominique Bell,9250,Gabriel Almeida,L,0,Referee Decision,F2W 183,83KG,SPF,2021
+30607,9321,Dominique Bell,7478,Adam Wardzinski,L,0,N/A,European Open,94KG,F,2022
+30984,9321,Dominique Bell,9250,Gabriel Almeida,L,0,Pts: 2x0,LA NGO,91KG,SF,2022
+30988,9321,Dominique Bell,10644,Marcelo Gomide,L,0,Referee Decision,LA NGO,ABS,4F,2022
+31376,9321,Dominique Bell,,Mike Crisp,L,0,Referee Decision,ADCC WC Trials,88KG,R16,2022
+18457,9321,Dominique Bell,,Phillip Lietz,W,1,Submission,Denver Open,88KG,SF,2018
+18459,9321,Dominique Bell,,Daniel Hampton,W,1,Submission,Denver Open,88KG,F,2018
+18461,9321,Dominique Bell,,Alex Huddleston,W,1,Points,Denver Open,ABS,4F,2018
+18996,9321,Dominique Bell,,Nathan Santos,W,1,Adv,Austin W. Open,88KG,SF,2019
+18998,9321,Dominique Bell,926,Roberto Alencar,W,1,Adv,Austin W. Open,88KG,F,2019
+19998,9321,Dominique Bell,,Esdras Barbosa,W,1,Submission,San Jose Open,94KG,4F,2019
+20008,9321,Dominique Bell,,Fabricio Machado,W,1,Pts: 8x0,San Jose Open,ABS,R1,2019
+20011,9321,Dominique Bell,4851,Kim Terra,W,1,Pts: 8x4,San Jose Open,ABS,4F,2019
+20455,9321,Dominique Bell,6337,Arnaldo Maidana,W,1,Pts: 4x2,San Diego Open,94KG,SF,2019
+20456,9321,Dominique Bell,,Gustavo Andrade,W,1,Arm in Ezekiel,San Diego Open,94KG,F,2019
+20462,9321,Dominique Bell,,Nick Greene,W,1,Pts: 7x0,San Diego Open,ABS,4F,2019
+20464,9321,Dominique Bell,,Takahito Yoshioka,W,1,Armbar,San Diego Open,ABS,SF,2019
+20508,9321,Dominique Bell,,Yann Cathalat,W,1,Choke from back,Denver Open,ABS,4F,2019
+20510,9321,Dominique Bell,,N/A,W,1,Arm in Ezekiel,Denver Open,ABS,SF,2019
+20684,9321,Dominique Bell,,Paulo Agrizzo,W,1,"Pts: 0x0, Adv",World Champ.,94KG,R1,2019
+21442,9321,Dominique Bell,,Diogo Nascimento,W,1,Choke from back,Las Vegas Open,94KG,4F,2019
+21443,9321,Dominique Bell,,Alvaro Oliveiro,W,1,Pts: 2x0,Las Vegas Open,94KG,SF,2019
+21445,9321,Dominique Bell,8686,Fellipe Trovo,W,1,Pts: 4x2,Las Vegas Open,94KG,F,2019
+23477,9321,Dominique Bell,,Tanner Wesgram,W,1,Pts: 46x0,Portland Open,94KG,F,2020
+24200,9321,Dominique Bell,8081,Nathan Mendelsohn,W,1,"Pts: 0x0, Adv",Pan American,94KG,R1,2020
+24202,9321,Dominique Bell,8634,Rafael Vasconcelos,W,1,Pts: 2x0,Pan American,94KG,4F,2020
+24205,9321,Dominique Bell,7399,Horlando Monteiro,W,1,Armbar,Pan American,94KG,SF,2020
+24288,9321,Dominique Bell,,Diego Herzog,W,1,Triangle,Foley Open,94KG,F,2020
+24292,9321,Dominique Bell,,Chris Engle,W,1,Clock choke,Foley Open,ABS,4F,2020
+24294,9321,Dominique Bell,613,Wellington Dias,W,1,Triangle,Foley Open,ABS,SF,2020
+26308,9321,Dominique Bell,,Saar Shemesh,W,1,Cross choke,Indianapolis Open,94KG,SF,2021
+26309,9321,Dominique Bell,,Mackenzie Ace,W,1,Manoplata,Indianapolis Open,94KG,F,2021
+26310,9321,Dominique Bell,,Ancelmo Santos,W,1,Armbar,Indianapolis Open,ABS,4F,2021
+26313,9321,Dominique Bell,,Saar Shemesh,W,1,Submission,Indianapolis Open,ABS,SF,2021
+26315,9321,Dominique Bell,,Almog Britsch,W,1,Cross choke,Indianapolis Open,ABS,F,2021
+26545,9321,Dominique Bell,11384,Andre Porfirio,W,1,"Pts: 0x0, Adv",Atlanta Open,94KG,F,2021
+27335,9321,Dominique Bell,,C. Passarrello,W,1,Pts: 8x0,Charleston SO,94KG,SF,2021
+30597,9321,Dominique Bell,,Ioannis Pronos,W,1,Wristlock,European Open,94KG,R1,2022
+30603,9321,Dominique Bell,,Neocicero Barbosa,W,1,Referee Decision,European Open,94KG,4F,2022
+30606,9321,Dominique Bell,10986,Jakub Zajkowski,W,1,Pts: 3x0,European Open,94KG,SF,2022
+30959,9321,Dominique Bell,,Victor Rodrigues,W,1,Wristlock,LA Open,94KG,4F,2022
+30961,9321,Dominique Bell,12267,Lucas Norat,W,1,Pts: 2x0,LA Open,94KG,SF,2022
+31353,9321,Dominique Bell,,Sean Fallon,W,1,Pts: 14x0,ADCC WC Trials,88KG,R1,2022
+31358,9321,Dominique Bell,,Aaron Tiegs,W,1,Pts: 2x0,ADCC WC Trials,88KG,R2,2022
+31368,9321,Dominique Bell,,Derrick Flaig,W,1,Pts: 6x0,ADCC WC Trials,88KG,R3,2022

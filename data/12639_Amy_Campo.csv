@@ -1,0 +1,51 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+28983,12639,Amy Campo,10885,Kendall Reusing,L,0,Pts: 6x0,ADCC EC Trials,O60KG,F,2021
+33097,12639,Amy Campo,6979,Ana Vieira,L,0,Armbar,World Champ.,74KG,4F,2022
+33122,12639,Amy Campo,10153,Gabrieli Pessanha,L,0,Referee Decision,World Champ.,ABS,F,2022
+36786,12639,Amy Campo,11762,Elisabeth Clay,L,0,Pts: 2x0,NoGi Worlds,ABS,F,2022
+38167,12639,Amy Campo,11762,Elisabeth Clay,L,0,Pts: 1x0,Polaris 23,66KG,F,2023
+38513,12639,Amy Campo,6979,Ana Vieira,L,0,"Pts: 0x0, Adv",Pan American,74KG,F,2023
+40468,12639,Amy Campo,6979,Ana Vieira,L,0,"Pts: 2x2, Adv",World Champ.,ABS,SF,2023
+28966,12639,Amy Campo,,Eve Isaacs,W,1,RNC,ADCC EC Trials,O60KG,R1,2021
+28974,12639,Amy Campo,,Paige Ivette,W,1,Referee Decision,ADCC EC Trials,O60KG,R2,2021
+28980,12639,Amy Campo,,Hannah Harjo,W,1,Violin armlock,ADCC EC Trials,O60KG,4F,2021
+28981,12639,Amy Campo,,Khadijah Peek,W,1,Armbar,ADCC EC Trials,O60KG,SF,2021
+31558,12639,Amy Campo,,Estela Fernandez,W,1,Armbar,ADCC WC Trials,O60KG,R1,2022
+31566,12639,Amy Campo,,Hannah Harjo,W,1,Pts: 4x0,ADCC WC Trials,O60KG,8F,2022
+31567,12639,Amy Campo,10895,Maggie Grindatti,W,1,Americana,ADCC WC Trials,O60KG,4F,2022
+31571,12639,Amy Campo,11762,Elisabeth Clay,W,1,Pts: 13x0,ADCC WC Trials,O60KG,SF,2022
+31573,12639,Amy Campo,,Paige Ivette,W,1,Kneebar,ADCC WC Trials,O60KG,F,2022
+32661,12639,Amy Campo,,Gloria Armas,W,1,Armbar,Denver NGO,79KG,RR,2022
+32663,12639,Amy Campo,,Gloria Armas,W,1,Bow and arrow,Denver NGO,ABS,4F,2022
+32664,12639,Amy Campo,,Hannah Rauch,W,1,Armbar,Denver NGO,ABS,SF,2022
+32666,12639,Amy Campo,12010,Kira Sung,W,1,Referee Decision,Denver NGO,ABS,F,2022
+32680,12639,Amy Campo,,Amy Cadwell,W,1,RNC,Denver NGO,ABS,SF,2022
+32681,12639,Amy Campo,,Erin Johnson,W,1,Scissors choke,Denver NGO,ABS,F,2022
+33096,12639,Amy Campo,,Bruna Maciel,W,1,Verbal tap,World Champ.,74KG,R1,2022
+33115,12639,Amy Campo,,Claire Thevenon,W,1,Armbar,World Champ.,ABS,R2,2022
+33119,12639,Amy Campo,10897,Yara Soares,W,1,Pts: 4x2,World Champ.,ABS,4F,2022
+33121,12639,Amy Campo,6979,Ana Vieira,W,1,Referee Decision,World Champ.,ABS,SF,2022
+33454,12639,Amy Campo,,Jessica Guedry,W,1,Armbar,American Nat.,ABS,SF,2022
+33456,12639,Amy Campo,11762,Elisabeth Clay,W,1,"Pts: 4x4, Adv",American Nat.,ABS,F,2022
+33493,12639,Amy Campo,12744,Mariana Rolszt,W,1,N/A,American NGN,ABS,SF,2022
+33494,12639,Amy Campo,12788,Luciana Mota,W,1,Armbar,American NGN,ABS,F,2022
+33559,12639,Amy Campo,,Barbara Barbosa,W,1,Armbar,Sal Lake CO,ABS,SF,2022
+33560,12639,Amy Campo,,Mayara Custodio,W,1,Triangle,Sal Lake CO,ABS,F,2022
+33565,12639,Amy Campo,,Mayara Custodio,W,1,RNC,Sal Lake CNGO,ABS,F,2022
+35088,12639,Amy Campo,11762,Elisabeth Clay,W,1,Pts: 3x0,ADCC,O60KG,4F,2022
+35092,12639,Amy Campo,595,Gabrielle Garcia,W,1,Pts: 2x0,ADCC,O60KG,SF,2022
+35093,12639,Amy Campo,11656,Rafaela Guedes,W,1,Pts: 3x2,ADCC,O60KG,F,2022
+36776,12639,Amy Campo,13095,Eleftheria Christodoulou,W,1,Pts: 4x2,NoGi Worlds,ABS,8F,2022
+36782,12639,Amy Campo,,Julia Maele,W,1,Armbar,NoGi Worlds,ABS,4F,2022
+36784,12639,Amy Campo,6765,Fernanda Mazzelli,W,1,DQ,NoGi Worlds,ABS,SF,2022
+36930,12639,Amy Campo,,Elizabeth Mitrovic,W,1,Pts: 7x0,NoGi Worlds,71KG,4F,2022
+36932,12639,Amy Campo,,Ane Svendsen,W,1,RNC,NoGi Worlds,71KG,SF,2022
+36933,12639,Amy Campo,,Melissa Cueto,W,1,RNC,NoGi Worlds,71KG,F,2022
+38163,12639,Amy Campo,,Julia Maele,W,1,RNC,Polaris 23,66KG,4F,2023
+38166,12639,Amy Campo,12599,Brianna Ste-Marie,W,1,RNC,Polaris 23,66KG,SF,2023
+38509,12639,Amy Campo,,Melissa Cueto,W,1,Pts: 4x0,Pan American,74KG,4F,2023
+38512,12639,Amy Campo,13332,Aurelie Vern,W,1,Pts: 8x7,Pan American,74KG,SF,2023
+40441,12639,Amy Campo,,Graciele Fava,W,1,RNC,World Champ.,74KG,4F,2023
+40442,12639,Amy Campo,6979,Ana Vieira,W,1,Referee Decision,World Champ.,74KG,SF,2023
+40444,12639,Amy Campo,8759,Maria Malyjasiak,W,1,RNC,World Champ.,74KG,F,2023
+40464,12639,Amy Campo,11762,Elisabeth Clay,W,1,Pts: 17x0,World Champ.,ABS,4F,2023

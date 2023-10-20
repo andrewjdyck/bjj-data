@@ -1,0 +1,51 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2135,415,Guilherme Mendes,147,Rubens Charles,L,0,Choke from back,World Pro.,65KG,4F,2009
+2154,415,Guilherme Mendes,790,Mario Reis,L,0,"Pts: 10x10, Adv",Pan American,70KG,SF,2009
+2637,415,Guilherme Mendes,179,Rafael Mendes,L,0,Pts: 4x2,World Pro.,65KG,F,2010
+2668,415,Guilherme Mendes,,Paulo Mello,L,0,Referee Decision,World Champ.,64KG,R1,2010
+2785,415,Guilherme Mendes,188,Augusto Mendes,L,0,Pts: 9x0,Team Nationals,68KG,F,2010
+2904,415,Guilherme Mendes,188,Augusto Mendes,L,0,Adv,World Pro.,65KG,4F,2011
+3578,415,Guilherme Mendes,283,Bruno Malfacine,L,0,Pts: 2x0,Pan American,64KG,F,2012
+4776,415,Guilherme Mendes,1019,Daniel Beleza,L,0,Referee Decision,World Champ.,64KG,4F,2013
+2317,415,Guilherme Mendes,938,Pablo Silva,W,1,Pts: 4x2,World Champ.,64KG,4F,2009
+2321,415,Guilherme Mendes,963,Carlos Esquisito,W,1,Adv,World Champ.,64KG,SF,2009
+2323,415,Guilherme Mendes,1761,Samuel Braga,W,1,Adv,World Champ.,64KG,F,2009
+2483,415,Guilherme Mendes,,Edivaldo Ferreira,W,1,Choke from back,European,64KG,SF,2010
+2484,415,Guilherme Mendes,938,Pablo Silva,W,1,Adv,European,64KG,F,2010
+2506,415,Guilherme Mendes,,Marcos Alexandre,W,1,Choke from back,WPC SD trials,65KG,SF,2010
+2650,415,Guilherme Mendes,2401,Gabriel Moraes,W,1,Pts: 4x0,Brasileiro,64KG,F,2010
+2845,415,Guilherme Mendes,8231,Leo Saggioro,W,1,"Pts: 0x0, Adv",European,70KG,4F,2011
+2939,415,Guilherme Mendes,,Diego Fernandes,W,1,Pts: 2x0,World P. NoGi,64KG,R1,2011
+3008,415,Guilherme Mendes,,Milton Carlos,W,1,Choke,World Champ.,64KG,RDS,2011
+3102,415,Guilherme Mendes,1041,Laercio Fernandes,W,1,Cross choke,World Champ.,64KG,4F,2011
+3134,415,Guilherme Mendes,1761,Samuel Braga,W,1,Pts: 4x2,World Champ.,64KG,SF,2011
+3179,415,Guilherme Mendes,1023,Baret Yoshida,W,1,Baseball choke,San Diego Trials,65KG,F,2011
+3180,415,Guilherme Mendes,,Ed Ramos,W,1,Pts: 8x0,San Diego Trials,65KG,SF,2011
+3573,415,Guilherme Mendes,,Francielo Costa,W,1,Points,Pan American,64KG,4F,2012
+3577,415,Guilherme Mendes,,Henrique Rezende,W,1,Lapel Choke,Pan American,64KG,SF,2012
+3727,415,Guilherme Mendes,1041,Laercio Fernandes,W,1,Pts: 2x0,SD World Trials,65KG,F,2012
+3954,415,Guilherme Mendes,1774,Mark Ramos,W,1,Brabo Choke,World Champ.,64KG,R2,2012
+3958,415,Guilherme Mendes,,Henrique Rezende,W,1,Pts: 19x0,World Champ.,64KG,4F,2012
+3960,415,Guilherme Mendes,938,Pablo Silva,W,1,Standing Brabo Ck,World Champ.,64KG,SF,2012
+3961,415,Guilherme Mendes,1041,Laercio Fernandes,W,1,Referee Decision,World Champ.,64KG,F,2012
+4171,415,Guilherme Mendes,938,Pablo Silva,W,1,Baseball choke,Houston Open,64KG,F,2012
+4540,415,Guilherme Mendes,,Unknown,W,1,Points,Pan American,64KG,4F,2013
+4542,415,Guilherme Mendes,8874,Thomas Lisboa,W,1,Pts: 10x0,Pan American,64KG,SF,2013
+4543,415,Guilherme Mendes,1041,Laercio Fernandes,W,1,Pts: 4x2,Pan American,64KG,F,2013
+4771,415,Guilherme Mendes,,Geoffrey Villareal,W,1,Baseball choke,World Champ.,64KG,R1,2013
+5142,415,Guilherme Mendes,5414,Osvaldo Moizinho,W,1,Points,SF Open,70KG,SF,2013
+5151,415,Guilherme Mendes,,Gabriel Martins,W,1,Points,Houston Open,70KG,SF,2013
+5152,415,Guilherme Mendes,,Unknown,W,1,Toe hold,Rickson Cup,64KG,R1,2013
+5153,415,Guilherme Mendes,,Unknown,W,1,Armbar,Rickson Cup,64KG,4F,2013
+5154,415,Guilherme Mendes,,Unknown,W,1,Choke,Rickson Cup,64KG,SF,2013
+5155,415,Guilherme Mendes,,Unknown,W,1,Brabo choke,Rickson Cup,64KG,F,2013
+5281,415,Guilherme Mendes,1436,Samir Chantre,W,1,Baseball choke,Metamoris 3,ABS,SPF,2014
+5746,415,Guilherme Mendes,,Paulo Santana,W,1,Submission,World Champ.,64KG,8F,2014
+5752,415,Guilherme Mendes,,Kaneko,W,1,Choke,World Champ.,64KG,4F,2014
+5753,415,Guilherme Mendes,963,Carlos Esquisito,W,1,Pts: 7x2,World Champ.,64KG,SF,2014
+5755,415,Guilherme Mendes,2999,Paulo Miyao,W,1,Adv,World Champ.,64KG,F,2014
+6221,415,Guilherme Mendes,,Tsukada Ichitaro,W,1,Baseball choke,Rickson Cup,64KG,4F,2014
+6222,415,Guilherme Mendes,,Lee Hee Tae,W,1,Baseball choke,Rickson Cup,64KG,F,2014
+6230,415,Guilherme Mendes,,Nakamura Yuuta,W,1,Choke from back,Rickson Cup,ABS,SF,2014
+6658,415,Guilherme Mendes,,Abi Muradov,W,1,Brabo choke,Berkut Open,ABS,SPF,2015
+6664,415,Guilherme Mendes,,Abi Muradov,W,1,Toe hold,Berkut Open NoGi,ABS,SPF,2015

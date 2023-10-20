@@ -1,0 +1,43 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+14243,8427,Michael Perez,4430,Patrick Gaudio,L,0,Pen,ACBJJ 8,O95KG,4F,2017
+14598,8427,Michael Perez,4521,Erberth Santos,L,0,Points,ACB JJ 9,95KG,4F,2017
+15411,8427,Michael Perez,4789,Marcos Tinoco,L,0,Choke from back,Pan American,82KG,8F,2018
+15872,8427,Michael Perez,7914,Nick Calvanese,L,0,Pts: 4x2,Kasai Pro 2,84KG,RR,2018
+15882,8427,Michael Perez,5423,Matheus Diniz,L,0,Pts: 2x0,Kasai Pro 2,84KG,F,2018
+16965,8427,Michael Perez,6563,Francisco Iturralde,L,0,Referee Decision,W.S.O.G.,81KG,4F,2018
+16977,8427,Michael Perez,,V. Hugo,L,0,Armbar,W.S.O.G.,O81KG,8F,2018
+17401,8427,Michael Perez,6805,Max Gimenis,L,0,Pts: 7x0,No Gi Pan Am.,ABS,4F,2018
+17444,8427,Michael Perez,7914,Nick Calvanese,L,0,Pts: 2x0,No Gi Pan Am.,85KG,SF,2018
+18626,8427,Michael Perez,,Athos Miranda,L,0,"Pts: 2x2, Adv",NoGi Worlds,79KG,R1,2018
+20670,8427,Michael Perez,8100,Rudson Mateus,L,0,Armbar,World Champ.,88KG,R2,2019
+21845,8427,Michael Perez,7478,Adam Wardzinski,L,0,Referee Decision,ADCC,88KG,R1,2019
+21910,8427,Michael Perez,4430,Patrick Gaudio,L,0,Pts: 2x0,ADCC,ABS,R1,2019
+26170,8427,Michael Perez,9157,Devhonte Johnson,L,0,"Pts: 0x0, Adv",NoGi Pan Am.,97KG,4F,2021
+28192,8427,Michael Perez,11384,Andre Porfirio,L,0,"Pts: 0x0, Adv",NoGi Worlds,ABS,8F,2021
+28303,8427,Michael Perez,11027,Pedro Rocha,L,0,Guillotine,NoGi Worlds,85KG,4F,2021
+31312,8427,Michael Perez,10705,Kyle Boehm,L,0,Pts: 2x0,ADCC WC Trials,O99KG,8F,2022
+36770,8427,Michael Perez,224,Roberto Abreu,L,0,Pts: 15x0,NoGi Worlds,ABS,4F,2022
+36823,8427,Michael Perez,,Ellis Younger,L,0,Pts: 4x2,NoGi Worlds,73KG,8F,2022
+15254,8427,Michael Perez,9637,Sergio Rios,W,1,Kneebar,Mexico Winter Open,88KG,SF,2018
+15870,8427,Michael Perez,8116,Dante Leon,W,1,Outside heel hook,Kasai Pro 2,84KG,RR,2018
+15874,8427,Michael Perez,8346,Craig Jones,W,1,Pts: 3x2,Kasai Pro 2,84KG,RR,2018
+16954,8427,Michael Perez,,Morgan Neidlinger,W,1,Referee Decision,W.S.O.G.,81KG,R1,2018
+16959,8427,Michael Perez,9094,Richar Nogueira,W,1,Referee Decision,W.S.O.G.,81KG,8F,2018
+17394,8427,Michael Perez,,A. Berzin,W,1,Referee Decision,No Gi Pan Am.,ABS,8F,2018
+17398,8427,Michael Perez,,B. Lenyard,W,1,Pts: 4x2,No Gi Pan Am.,ABS,8F,2018
+17439,8427,Michael Perez,,R. Reis,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,85KG,R1,2018
+17441,8427,Michael Perez,,Chris Banghart,W,1,Pts: 17x2,No Gi Pan Am.,85KG,4F,2018
+19542,8427,Michael Perez,7321,Darragh OConaill,W,1,Referee Decision,Polaris 9,85KG,SPF,2019
+20461,8427,Michael Perez,9094,Richar Nogueira,W,1,"Pts: 0x0, Adv",San Diego Open,ABS,4F,2019
+20506,8427,Michael Perez,,Marcus Salerno,W,1,Points,Denver Open,O100KG,SF,2019
+20507,8427,Michael Perez,,John Hansen,W,1,Choke from back,Denver Open,O100KG,F,2019
+20663,8427,Michael Perez,,Roberto Dib,W,1,Referee Decision,World Champ.,88KG,R1,2019
+20861,8427,Michael Perez,,Travis Moore,W,1,Guillotine,Third Coast,94KG,SPF,2019
+26166,8427,Michael Perez,,Francisco Leon,W,1,Pts: 2x0,NoGi Pan Am.,97KG,R1,2021
+26207,8427,Michael Perez,12419,Daniel Diniz,W,1,Guillotine,NoGi Pan Am.,ABS,8F,2021
+26215,8427,Michael Perez,,Pedro Palhares,W,1,Referee Decision,NoGi Pan Am.,ABS,4F,2021
+26220,8427,Michael Perez,,Antonio Zuazo,W,1,"Pts: 0x0, Adv",NoGi Pan Am.,ABS,SF,2021
+28296,8427,Michael Perez,,Miha Perhavec,W,1,Guillotine,NoGi Worlds,85KG,8F,2021
+31300,8427,Michael Perez,,Zack Holycross,W,1,Outside heel hook,ADCC WC Trials,O99KG,R1,2022
+31306,8427,Michael Perez,,Tom McMahon,W,1,Pts: 9x4,ADCC WC Trials,O99KG,R2,2022
+36764,8427,Michael Perez,4248,Gianni Grippo,W,1,Pts: 2x0,NoGi Worlds,ABS,8F,2022

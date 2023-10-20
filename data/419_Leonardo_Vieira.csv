@@ -1,0 +1,55 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+115,419,Leonardo Vieira,687,Marcio Feitosa,L,0,Adv,World Champ.,76KG,F,1997
+282,419,Leonardo Vieira,515,Royler Gracie,L,0,Referee Decision,World Champ.,70KG,F,1999
+388,419,Leonardo Vieira,81,Vitor Shaolin,L,0,Pts: 2x0,World Champ.,76KG,SF,2000
+425,419,Leonardo Vieira,88,JJ Machado,L,0,Pts: 9x0,ADCC,77KG,SF,2000
+427,419,Leonardo Vieira,687,Marcio Feitosa,L,0,Adv,ADCC,77KG,3PLC,2000
+459,419,Leonardo Vieira,,Mark Kerr,L,0,Pen,ADCC,ABS,R1,2000
+513,419,Leonardo Vieira,292,Leonardo Santos,L,0,Pts: 3x0,ADCC,77KG,4F,2001
+1681,419,Leonardo Vieira,177,Rany Yahya,L,0,RNC,ADCC,66KG,F,2007
+2240,419,Leonardo Vieira,179,Rafael Mendes,L,0,RNC,ADCC,66KG,SF,2009
+3296,419,Leonardo Vieira,16,Marcelo Garcia,L,0,Triangle,ADCC,77KG,F,2011
+5004,419,Leonardo Vieira,2107,Otavio Sousa,L,0,Points,ADCC,77KG,SF,2013
+13460,419,Leonardo Vieira,7698,Gabriel Marangoni,L,0,Terra Footlock,ACBJJ 6,65KG,4F,2017
+13957,419,Leonardo Vieira,,Chael Sonnen,L,0,Referee Decision,ADCC,ABS,SPF,2017
+114,419,Leonardo Vieira,,R. Verissimo,W,1,Pts: 4x0,World Champ.,76KG,SF,1997
+136,419,Leonardo Vieira,81,Vitor Shaolin,W,1,Pts: 24x4,Copa Pele,76KG,SPF,1997
+224,419,Leonardo Vieira,687,Marcio Feitosa,W,1,Adv,World Champ.,76KG,F,1998
+374,419,Leonardo Vieira,687,Marcio Feitosa,W,1,N/A,LPJJ,75KG,F,2000
+414,419,Leonardo Vieira,,Bob Schirmer,W,1,RNC,ADCC,77KG,R1,2000
+420,419,Leonardo Vieira,81,Vitor Shaolin,W,1,Adv,ADCC,77KG,4F,2000
+476,419,Leonardo Vieira,81,Vitor Shaolin,W,1,Pts: 6x4,Rio x Sao Paulo,75KG,SPF,2000
+486,419,Leonardo Vieira,,Scott Scultz,W,1,Copacabana choke,Pro Am,77KG,SF,2000
+487,419,Leonardo Vieira,1858,Matt Serra,W,1,Pts: 10x4,Pro Am,77KG,F,2000
+511,419,Leonardo Vieira,,Morris Clifoni,W,1,Katagatame,ADCC,77KG,R1,2001
+611,419,Leonardo Vieira,,Fredson Alves,W,1,Points,Pan American,70KG,F,2001
+640,419,Leonardo Vieira,,Gabriel Willcox,W,1,Brabo choke,World Cup,70KG,4F,2002
+641,419,Leonardo Vieira,1813,Jair Lourenco,W,1,Choke from back,World Cup,70KG,SF,2002
+642,419,Leonardo Vieira,1149,Reinaldo Ribeiro,W,1,Brabo choke,World Cup,70KG,F,2002
+648,419,Leonardo Vieira,996,Yuki Nakai,W,1,Brabo choke,Ground Impact,70KG,SPF,2002
+764,419,Leonardo Vieira,,Allan Teo,W,1,Submission,ADCC,66KG,R1,2003
+766,419,Leonardo Vieira,177,Rany Yahya,W,1,Pts: 9x0,ADCC,66KG,4F,2003
+770,419,Leonardo Vieira,4317,Eddie Bravo,W,1,Pts: 16x0,ADCC,66KG,SF,2003
+772,419,Leonardo Vieira,1023,Baret Yoshida,W,1,Pts: 6x0,ADCC,66KG,F,2003
+992,419,Leonardo Vieira,,Renato Migliacio,W,1,Pts: 14x0,Pan American,70KG,SF,2004
+993,419,Leonardo Vieira,,Fredson Alves,W,1,Pts: 4x2,Pan American,70KG,F,2004
+1014,419,Leonardo Vieira,5873,Fabio Nascimento,W,1,Referee Decision,Pan American,ABS,4F,2004
+1020,419,Leonardo Vieira,,S. Fukuzumi,W,1,Mounted X choke,Brazil v Japan,70KG,SPF,2004
+1134,419,Leonardo Vieira,1023,Baret Yoshida,W,1,Pts: 19x0,Budo Challenge,77KG,SF,2005
+1135,419,Leonardo Vieira,,Komuro,W,1,Pts: 7x0,Budo Challenge,77KG,SF,2005
+1163,419,Leonardo Vieira,,T. Suzuki,W,1,Points,ADCC,66KG,R1,2005
+1165,419,Leonardo Vieira,,Joey Gilbert,W,1,Guillotine,ADCC,66KG,4F,2005
+1167,419,Leonardo Vieira,,Rob DiCenso,W,1,North South choke,ADCC,66KG,SF,2005
+1168,419,Leonardo Vieira,177,Rany Yahya,W,1,Pts: 6x0,ADCC,66KG,F,2005
+1485,419,Leonardo Vieira,,Naoya Uematsu,W,1,RNC,LA Sub-X,ABS,SPF,2006
+1670,419,Leonardo Vieira,1508,Sim Go,W,1,Points,ADCC,66KG,R1,2007
+1678,419,Leonardo Vieira,610,Jeff Glover,W,1,Points,ADCC,66KG,4F,2007
+1679,419,Leonardo Vieira,,T. Suzuki,W,1,Pts: 8x0,ADCC,66KG,SF,2007
+2235,419,Leonardo Vieira,,D. Marinakis,W,1,Points,ADCC,66KG,R1,2009
+2239,419,Leonardo Vieira,725,Ryan Hall,W,1,Guillotine,ADCC,66KG,4F,2009
+3234,419,Leonardo Vieira,7247,Enrico Cocco,W,1,Pts: 6x0,ADCC,77KG,R1,2011
+3267,419,Leonardo Vieira,967,JT Torres,W,1,Pts: 2x0,ADCC,77KG,4F,2011
+3283,419,Leonardo Vieira,410,Claudio Calasans,W,1,Pts: 3x0,ADCC,77KG,SF,2011
+4996,419,Leonardo Vieira,,Sotaro Yamada,W,1,Pts: 6x0,ADCC,77KG,R1,2013
+5001,419,Leonardo Vieira,4328,AJ Agazarm,W,1,Referee Decision,ADCC,77KG,4F,2013
+28990,419,Leonardo Vieira,,Cleber Luciano,W,1,Pts: 8x0,BJJ Stars,N/A,SPF,2021

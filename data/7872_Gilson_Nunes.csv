@@ -1,0 +1,101 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+3451,7872,Gilson Nunes,2304,Fernando Vieira,L,0,Points,Amazon Meeting,70KG,N/A,2011
+3462,7872,Gilson Nunes,790,Mario Reis,L,0,Choke from back,CBJJE Brasileiro,70KG,F,2011
+5201,7872,Gilson Nunes,1178,Theodoro Canal,L,0,"Pts: 2x2, Adv",Terra do Sol,70KG,SF,2013
+5204,7872,Gilson Nunes,,Talison Soares,L,0,Points,Pans CBLP,70KG,F,2013
+6163,7872,Gilson Nunes,1542,Italo Lins,L,0,Referee Decision,Brasileiro CBLP,70KG,F,2014
+7094,7872,Gilson Nunes,5715,Isaque Paiva,L,0,Points,World Pro,65KG,SF,2015
+7717,7872,Gilson Nunes,5715,Isaque Paiva,L,0,Adv,Rio Winter Open,70KG,F,2015
+9576,7872,Gilson Nunes,4163,Marcio Andre,L,0,Pts: 2x0,World Pro,69KG,4F,2016
+10149,7872,Gilson Nunes,5715,Isaque Paiva,L,0,Choke from back,SP BJJ Pro,70KG,F,2016
+11128,7872,Gilson Nunes,2997,Joao Miyao,L,0,Pts: 4x2,NY BJJ Pro,70KG,SF,2016
+12138,7872,Gilson Nunes,5414,Osvaldo Moizinho,L,0,Pts: 8x4,Pan American,70KG,4F,2017
+13097,7872,Gilson Nunes,147,Rubens Charles,L,0,Referee Decision,World Champ.,70KG,4F,2017
+14675,7872,Gilson Nunes,5930,Rodrigo Freitas,L,0,Pts: 4x2,NoGi Worlds,73KG,4F,2017
+15051,7872,Gilson Nunes,4248,Gianni Grippo,L,0,"Pts: 4x4, Adv",Atlanta W. Open,76KG,F,2018
+15387,7872,Gilson Nunes,7002,Jamil Hill-Taylor,L,0,"Pts: 0x0, Adv",Pan American,70KG,SF,2018
+16000,7872,Gilson Nunes,,Alex Huddleston,L,0,Points,Denver Open,ABS,R1,2018
+16313,7872,Gilson Nunes,8516,Lucas Valente,L,0,Triangle,Dallas SPO,76KG,F,2018
+16474,7872,Gilson Nunes,8231,Leo Saggioro,L,0,Pts: 2x0,World Champ.,70KG,R2,2018
+18601,7872,Gilson Nunes,9031,Kennedy Maciel,L,0,Pts: 2x0,NoGi Worlds,67KG,F,2018
+20389,7872,Gilson Nunes,8516,Lucas Valente,L,0,Pts: 4x2,Dallas SPO,76KG,F,2019
+20500,7872,Gilson Nunes,,Paulo Martins,L,0,Points,Denver Open,76KG,SF,2019
+20612,7872,Gilson Nunes,5930,Rodrigo Freitas,L,0,Referee Decision,World Champ.,76KG,R1,2019
+23234,7872,Gilson Nunes,11015,Pablo Lavaselli,L,0,Pts: 2x0,Atlanta WO,76KG,4F,2020
+23553,7872,Gilson Nunes,10220,Paulo Gabriel,L,0,Pts: 5x0,Kansas Open,76KG,SF,2020
+3450,7872,Gilson Nunes,,Abel Junior,W,1,Points,Amazon Meeting,70KG,N/A,2011
+4312,7872,Gilson Nunes,,Hamilton Caminha,W,1,Triangle armbar,Best Fighters VII,70KG,SPF,2012
+4651,7872,Gilson Nunes,5715,Isaque Paiva,W,1,Points,World Pro Trials,65KG,F,2013
+4653,7872,Gilson Nunes,,Alex Scott,W,1,Points,World Pro,64KG,4F,2013
+5199,7872,Gilson Nunes,,Ricardo Decio,W,1,Points,Terra do Sol,70KG,R1,2013
+5200,7872,Gilson Nunes,,C. Farias,W,1,Points,Terra do Sol,70KG,4F,2013
+5202,7872,Gilson Nunes,,Alison Pimentel,W,1,Triangle,Pans CBLP,70KG,4F,2013
+5203,7872,Gilson Nunes,,Joao Ramos,W,1,Triangle,Pans CBLP,70KG,SF,2013
+6161,7872,Gilson Nunes,,Glauke Eugenio,W,1,DQ,Brasileiro CBLP,70KG,4F,2014
+6162,7872,Gilson Nunes,,Willian Couto,W,1,Armbar,Brasileiro CBLP,70KG,SF,2014
+6363,7872,Gilson Nunes,,German Salas,W,1,Armbar,ADCC Gi Nat.,70KG,F,2014
+6364,7872,Gilson Nunes,,Michael S.,W,1,Submission,ADCC Nationals,70KG,SF,2014
+6365,7872,Gilson Nunes,,German Salas,W,1,Armbar,ADCC Nationals,70KG,F,2014
+7088,7872,Gilson Nunes,,Unknown,W,1,Points,World Pro,65KG,R1,2015
+7091,7872,Gilson Nunes,2997,Joao Miyao,W,1,"Pts: 0x0, Adv",World Pro,65KG,4F,2015
+7712,7872,Gilson Nunes,,Unknown,W,1,Submission,Rio Winter Open,70KG,8F,2015
+7713,7872,Gilson Nunes,,Unknown,W,1,Submission,Rio Winter Open,70KG,4F,2015
+7715,7872,Gilson Nunes,,Onofre Lima,W,1,Submission,Rio Winter Open,70KG,SF,2015
+8849,7872,Gilson Nunes,,Unknown,W,1,Submission,Manaus Open,70KG,4F,2015
+8850,7872,Gilson Nunes,,Richard Duarte,W,1,Submission,Manaus Open,70KG,SF,2015
+8851,7872,Gilson Nunes,,Robson Feitoza,W,1,Submission,Manaus Open,70KG,F,2015
+10145,7872,Gilson Nunes,5789,Tiago Barros,W,1,Points,SP BJJ Pro,70KG,4F,2016
+10147,7872,Gilson Nunes,1923,David Lemes,W,1,Points,SP BJJ Pro,70KG,SF,2016
+11357,7872,Gilson Nunes,,Vitor Riciotti,W,1,N/A,Miami FO,76KG,SF,2016
+11358,7872,Gilson Nunes,,John Lawrence,W,1,Triangle,Miami FO,76KG,F,2016
+11361,7872,Gilson Nunes,,Jhonderson Santos,W,1,Points,CBLP Mundial,70KG,F,2016
+11680,7872,Gilson Nunes,8632,Thiago Macedo,W,1,Choke from back,Atlanta W. Open,76KG,SF,2017
+11681,7872,Gilson Nunes,5414,Osvaldo Moizinho,W,1,Points,Atlanta W. Open,76KG,F,2017
+11965,7872,Gilson Nunes,,James Nival,W,1,Bread cutter,Mexico City Open,70KG,SF,2017
+11969,7872,Gilson Nunes,,Julio Reyes,W,1,RNC,Mexico NG Open,73KG,F,2017
+12132,7872,Gilson Nunes,6103,Isaac Doederlein,W,1,Pts: 5x2,Pan American,70KG,8F,2017
+12874,7872,Gilson Nunes,,M. Schellenschlager,W,1,Arm in Ezekiel,Atlanta Spring O.,76KG,4F,2017
+12875,7872,Gilson Nunes,,Frederico Augusto,W,1,Kneebar,Atlanta Spring O.,76KG,SF,2017
+12877,7872,Gilson Nunes,6368,Kevin Mahecha,W,1,Pts: 4x2,Atlanta Spring O.,76KG,F,2017
+12929,7872,Gilson Nunes,,Felipe Hugo,W,1,Choke,Miami SPO,76KG,4F,2017
+12931,7872,Gilson Nunes,,Vitor Riciotti,W,1,Choke from back,Miami SPO,76KG,SF,2017
+12933,7872,Gilson Nunes,6368,Kevin Mahecha,W,1,"Pts: 0x0, Adv",Miami SPO,76KG,F,2017
+13080,7872,Gilson Nunes,,Sergio Gonzalez,W,1,Choke from back,World Champ.,70KG,R1,2017
+13088,7872,Gilson Nunes,,Nicollas Welker,W,1,Pts: 10x8,World Champ.,70KG,8F,2017
+13409,7872,Gilson Nunes,,Julio Reyes,W,1,Triangulo,NY Summer Open,76KG,4F,2017
+13410,7872,Gilson Nunes,,Frederico Silva,W,1,Pts: 12x2,NY Summer Open,76KG,SF,2017
+13411,7872,Gilson Nunes,,Paulo Ferreira,W,1,Pts: 11x4,NY Summer Open,76KG,F,2017
+14664,7872,Gilson Nunes,,Juan Galarza,W,1,Triangle armbar,NoGi Worlds,73KG,R1,2017
+14672,7872,Gilson Nunes,8394,Vagner Rocha,W,1,"Pts: 0x0, Adv",NoGi Worlds,73KG,R2,2017
+15047,7872,Gilson Nunes,7664,Johnny Tama,W,1,Pts: 2x0,Atlanta W. Open,76KG,4F,2018
+15049,7872,Gilson Nunes,,Frederico Augusto,W,1,Katagatame,Atlanta W. Open,76KG,SF,2018
+15376,7872,Gilson Nunes,9064,Silvio Duran,W,1,"Pts: 0x0, Adv",Pan American,70KG,8F,2018
+15383,7872,Gilson Nunes,,Jonathan Van Buren,W,1,Triangle,Pan American,70KG,4F,2018
+15702,7872,Gilson Nunes,,Cy Landry,W,1,Armbar,F2W 67,70KG,SPF,2018
+15886,7872,Gilson Nunes,6366,Brian Mahecha,W,1,Triangle,Atlanta Sp. Open,76KG,SF,2018
+15887,7872,Gilson Nunes,6368,Kevin Mahecha,W,1,Pts: 13x2,Atlanta Sp. Open,76KG,F,2018
+15990,7872,Gilson Nunes,,Marcelo Silva,W,1,Triangle,Denver Open,76KG,SF,2018
+15991,7872,Gilson Nunes,,Marcus Wilson,W,1,Adv,Denver Open,76KG,F,2018
+16320,7872,Gilson Nunes,,Khristopher Gonzalez,W,1,Triangle,Dallas SPO,73KG,SF,2018
+16321,7872,Gilson Nunes,,Jeremiah Vance,W,1,Triangle,Dallas SPO,73KG,F,2018
+16395,7872,Gilson Nunes,6368,Kevin Mahecha,W,1,Points,Miami SPO,76KG,SF,2018
+16397,7872,Gilson Nunes,6366,Brian Mahecha,W,1,N/A,Miami SPO,76KG,F,2018
+16468,7872,Gilson Nunes,,Hiroaki Otsuka,W,1,Pts: 4x2,World Champ.,70KG,R1,2018
+16876,7872,Gilson Nunes,,Mauricio Fernandes,W,1,N/A,Nashville Open,76KG,SF,2018
+16878,7872,Gilson Nunes,,Fred Alves,W,1,N/A,Nashville Open,76KG,F,2018
+17664,7872,Gilson Nunes,,Casey Gray,W,1,Triangle,F2W 87 Pro,65KG,SPF,2018
+18593,7872,Gilson Nunes,8525,Alexandre Vieira,W,1,"Pts: 0x0, Adv",NoGi Worlds,67KG,R2,2018
+18597,7872,Gilson Nunes,9064,Silvio Duran,W,1,"Pts: 0x0, Adv",NoGi Worlds,67KG,4F,2018
+18600,7872,Gilson Nunes,9488,Ian Sanders,W,1,Triangle,NoGi Worlds,67KG,SF,2018
+20388,7872,Gilson Nunes,,Leo Domingos,W,1,N/A,Dallas SPO,76KG,SF,2019
+21172,7872,Gilson Nunes,,Michael Patrick,W,1,Submission,Austin SMO,76KG,SF,2019
+21173,7872,Gilson Nunes,,Tomer Alroy,W,1,Triangle,Austin SMO,76KG,F,2019
+21263,7872,Gilson Nunes,,Rene Arango,W,1,Bread cutter,Seattle Open,76KG,RR,2019
+21265,7872,Gilson Nunes,9440,Jeremy Jackson,W,1,Pts: 4x2,Seattle Open,76KG,RR,2019
+21542,7872,Gilson Nunes,,Dylan White,W,1,Submission,Dallas SMO,76KG,SF,2019
+21544,7872,Gilson Nunes,9407,Alexandre Molinaro,W,1,Triangle,Dallas SMO,76KG,F,2019
+21936,7872,Gilson Nunes,,Ramsey Green,W,1,Armbar,Phoenix Open,76KG,F,2019
+22516,7872,Gilson Nunes,11093,Emilio Hernandez,W,1,Armbar,Kansas Open,ABS,SF,2019
+22517,7872,Gilson Nunes,12338,Gialysson Freitas,W,1,Points,Kansas Open,ABS,F,2019
+23551,7872,Gilson Nunes,,Josh Littleton,W,1,Submission,Kansas Open,76KG,4F,2020
+23983,7872,Gilson Nunes,,Jason Bright,W,1,Triangle,F2W 153,75KG,SPF,2020

@@ -1,0 +1,60 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+22909,10100,Thamara Ferreira,,Vedha Toscano,L,0,Pts: 2x0,NoGi Worlds,69KG,4F,2019
+23023,10100,Thamara Ferreira,10153,Gabrieli Pessanha,L,0,RNC,Queen Of Mats,95KG,RR,2020
+23026,10100,Thamara Ferreira,7000,Nathiely Jesus,L,0,Choke,Queen Of Mats,95KG,SF,2020
+23343,10100,Thamara Ferreira,10153,Gabrieli Pessanha,L,0,Adv,France Nat. Pro,95KG,F,2020
+23602,10100,Thamara Ferreira,,Sabatha Lais,L,0,Choke from back,South American Pro,70KG,F,2020
+24409,10100,Thamara Ferreira,1119,Beatriz Mesquita,L,0,Pts: 4x0,BJJ Stars 4,69KG,SPF,2020
+24801,10100,Thamara Ferreira,,Julia Boscher,L,0,Pts: 2x1,Grand Slam RJ,70KG,F,2020
+25098,10100,Thamara Ferreira,1119,Beatriz Mesquita,L,0,Pts: 2x0,BJJ Stars 5,N/A,SPF,2021
+25994,10100,Thamara Ferreira,,Izadora Cristina,L,0,Pts: 7x4,The New Star,70KG,SF,2021
+29638,10100,Thamara Ferreira,,Andresa Cintra,L,0,"Pts: 2x2, Adv",World Champ.,69KG,F,2021
+33093,10100,Thamara Ferreira,12845,Thalyta Silva,L,0,Pts: 2x0,World Champ.,69KG,SF,2022
+34690,10100,Thamara Ferreira,,Izadora Cristina,L,0,Pts: 2x2,Grand Slam MIA,70KG,SF,2022
+38503,10100,Thamara Ferreira,11762,Elisabeth Clay,L,0,Referee Decision,Pan American,69KG,SF,2023
+40434,10100,Thamara Ferreira,,Andressa Cintra,L,0,"Pts: 4x4, Adv",World Champ.,69KG,SF,2023
+41191,10100,Thamara Ferreira,,Melissa Cueto,L,0,"Pts: 2x2, Adv",American Nats,ABS,F,2023
+41249,10100,Thamara Ferreira,11762,Elisabeth Clay,L,0,Inside heel hook,American NNG,ABS,F,2023
+42977,10100,Thamara Ferreira,,Izadora Cristina,L,0,Pts: 3x0,ADGS Miami,70KG,SF,2023
+42979,10100,Thamara Ferreira,,Gio Carneiro,L,0,Armbar,ADGS Miami,70KG,RPC,2023
+20849,10100,Thamara Ferreira,,Claudia Do Val,W,1,Referee Decision,F2W 114,N/A,SPF,2019
+21707,10100,Thamara Ferreira,,Woods Heather,W,1,Pts: 7x2,Grand Slam LA,70KG,4F,2019
+21708,10100,Thamara Ferreira,,Sarah Draht,W,1,submission,Grand Slam LA,70KG,SF,2019
+21709,10100,Thamara Ferreira,,Gabi McComb,W,1,submission,Grand Slam LA,70KG,F,2019
+22358,10100,Thamara Ferreira,,Renata Marinho,W,1,Pts: 4x0,Grand Slam RJ,70KG,4F,2019
+22359,10100,Thamara Ferreira,,Melissa Cueto,W,1,Submission,Grand Slam RJ,70KG,SF,2019
+22360,10100,Thamara Ferreira,,Larissa Paes,W,1,Armbar,Grand Slam RJ,70KG,F,2019
+23024,10100,Thamara Ferreira,,Martina Gremanius,W,1,Pts: 9x1,Queen Of Mats,95KG,RR,2020
+23029,10100,Thamara Ferreira,10885,Kendall Reusing,W,1,Pts: 4x2,Queen Of Mats,95KG,3RD,2020
+23167,10100,Thamara Ferreira,,Vedha Toscano,W,1,Kneebar,European Open,69KG,4F,2020
+23168,10100,Thamara Ferreira,,Hannah Rauch,W,1,Toe hold,European Open,69KG,SF,2020
+23169,10100,Thamara Ferreira,,Dannielle Alvarez,W,1,Kneebar,European Open,69KG,F,2020
+23673,10100,Thamara Ferreira,,Grace Ferla,W,1,Submission,Grand Slam LDN,70KG,4F,2020
+23674,10100,Thamara Ferreira,,Weronika Rot,W,1,Submission,Grand Slam LDN,70KG,SF,2020
+23675,10100,Thamara Ferreira,,Martina Gremanius,W,1,Triangle,Grand Slam LDN,70KG,F,2020
+24797,10100,Thamara Ferreira,,Vanessa Araujo,W,1,Triangle,Grand Slam RJ,70KG,4F,2020
+24799,10100,Thamara Ferreira,,Sabatha Lais,W,1,Pts: 2x1,Grand Slam RJ,70KG,SF,2020
+25780,10100,Thamara Ferreira,,Renata Marinho,W,1,Kneebar,The New Star,70KG,R1,2021
+26495,10100,Thamara Ferreira,,Jessika Bartoli,W,1,Pts: 8x3,SA Cont. Pro,70KG,R1,2021
+26497,10100,Thamara Ferreira,,Victoria Ulrich,W,1,Submission,SA Cont. Pro,70KG,4F,2021
+26499,10100,Thamara Ferreira,,Stephanie Faure,W,1,Submission,SA Cont. Pro,70KG,SF,2021
+26500,10100,Thamara Ferreira,,Izadora Cristina,W,1,Referee Decision,SA Cont. Pro,70KG,F,2021
+28735,10100,Thamara Ferreira,11762,Elisabeth Clay,W,1,Toe hold,F2W 186,70KG,SPF,2021
+29634,10100,Thamara Ferreira,,Elizabeth Exell,W,1,Armbar,World Champ.,69KG,4F,2021
+29636,10100,Thamara Ferreira,,Raquel Canuto,W,1,Pts: 5x0,World Champ.,69KG,SF,2021
+31752,10100,Thamara Ferreira,,Natalia Zumba,W,1,Pts: 6x0,Pan American,69KG,SF,2022
+31753,10100,Thamara Ferreira,12708,Chloe McNally,W,1,"Pts: 0x0, Pen",Pan American,69KG,F,2022
+33092,10100,Thamara Ferreira,,Natalia Zumba,W,1,Toe hold,World Champ.,69KG,4F,2022
+34240,10100,Thamara Ferreira,,Mayara Custodio,W,1,Omoplata,Santa Cruz Open,ABS,SF,2022
+34241,10100,Thamara Ferreira,,Melissa Cueto,W,1,Omoplata armbar,Santa Cruz Open,ABS,F,2022
+34686,10100,Thamara Ferreira,12845,Thalyta Silva,W,1,Pts: 3x0,Grand Slam MIA,70KG,4F,2022
+39081,10100,Thamara Ferreira,,Kylie Lasater,W,1,N/A,Santa Cruz O,ABS,SF,2023
+39082,10100,Thamara Ferreira,,Mayara Custodio,W,1,Cross choke,Santa Cruz O,ABS,F,2023
+39100,10100,Thamara Ferreira,,Isa Reiber,W,1,Triangle,S. Cruz NGO,ABS,SF,2023
+39101,10100,Thamara Ferreira,,Kaimana Newman,W,1,Toe hold,S. Cruz NGO,ABS,F,2023
+40433,10100,Thamara Ferreira,,Raquel Canuto,W,1,Triangle,World Champ.,69KG,4F,2023
+41180,10100,Thamara Ferreira,11762,Elisabeth Clay,W,1,Pts: 2x0,American Nats,64KG,F,2023
+41188,10100,Thamara Ferreira,,Leticia Cardozo,W,1,Triangle,American Nats,ABS,4F,2023
+41189,10100,Thamara Ferreira,11762,Elisabeth Clay,W,1,Pts: 12x10,American Nats,ABS,SF,2023
+41248,10100,Thamara Ferreira,,Elizabeth Mitrovic,W,1,Terra lock,American NNG,ABS,SF,2023
+42975,10100,Thamara Ferreira,,Leticia Santos,W,1,Kneebar,ADGS Miami,70KG,4F,2023

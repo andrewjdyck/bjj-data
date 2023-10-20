@@ -1,0 +1,71 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2464,1523,Clark Gracie,921,Rafael Barbosa,L,0,Pts: 9x2,AZ Open,ABS,SF,2010
+2884,1523,Clark Gracie,410,Claudio Calasans,L,0,Pts: 2x0,Pan American,82KG,SF,2011
+3141,1523,Clark Gracie,875,Lucas Leite,L,0,Pts: 6x0,World Champ.,82KG,SF,2011
+3182,1523,Clark Gracie,144,Andre Galvao,L,0,Referee Decision,San Diego Trials,82KG,SF,2011
+3235,1523,Clark Gracie,967,JT Torres,L,0,Pts: 2x0,ADCC,77KG,R1,2011
+3338,1523,Clark Gracie,644,Joao Assis,L,0,Pts: 10x0,No Gi Worlds,ABS,4F,2011
+3356,1523,Clark Gracie,9706,Marcelo Mafra,L,0,Pts: 2x0,No Gi Worlds,82KG,4F,2011
+3477,1523,Clark Gracie,1617,Victor Estima,L,0,Estima lock,British Open,82KG,F,2012
+3512,1523,Clark Gracie,1617,Victor Estima,L,0,Armbar,European Open,82KG,SF,2012
+3635,1523,Clark Gracie,410,Claudio Calasans,L,0,Pts: 4x0,Pan American,82KG,SF,2012
+3728,1523,Clark Gracie,144,Andre Galvao,L,0,Pts: 3x0,SD World Trials,83KG,F,2012
+3865,1523,Clark Gracie,2107,Otavio Sousa,L,0,Points,NYC Open,82KG,F,2012
+4240,1523,Clark Gracie,2226,DJ Jackson,L,0,Pts: 5x0,NoGi Worlds,82KG,F,2012
+4271,1523,Clark Gracie,1290,Tarcisio Jardim,L,0,Pts: 6x4,NoGi Worlds,ABS,8F,2012
+4487,1523,Clark Gracie,,Magid Hage,L,0,Baseball choke,SD Pro Trials,85KG,SF,2013
+4522,1523,Clark Gracie,1272,Leo Nogueira,L,0,Pts: 6x0,Pan American,ABS,R2,2013
+4799,1523,Clark Gracie,1617,Victor Estima,L,0,Pts: 2x0,World Champ.,82KG,4F,2013
+4855,1523,Clark Gracie,3313,Juan Kamezawa,D,0.5,---,Copa Podio,76KG,GP,2013
+4859,1523,Clark Gracie,6253,Diego Borges,L,0,Pts: 2x0,Copa Podio,76KG,GP,2013
+4863,1523,Clark Gracie,1188,Leandro Lo,L,0,Pts: 13x0,Copa Podio,76KG,GP,2013
+5006,1523,Clark Gracie,3009,Keenan Cornelius,L,0,Pts: 4x2,ADCC,88KG,R1,2013
+5375,1523,Clark Gracie,5660,Lucas Rocha,L,0,Pts: 7x4,Pan American,82KG,4F,2014
+5812,1523,Clark Gracie,4460,Jaime Canuto,L,0,Pts: 3x2,World Champ.,82KG,RDS,2014
+6263,1523,Clark Gracie,4859,Ricardo Rezende,L,0,Pts: 11x2,FIVE NAIC,82KG,NA,2014
+6264,1523,Clark Gracie,6419,Marcel Goncalves,L,0,Armbar,FIVE NAIC,82KG,NA,2014
+6421,1523,Clark Gracie,,Magid Hage,L,0,Crucifix choke,US Nat. Pro,ABS,F,2015
+7128,1523,Clark Gracie,3009,Keenan Cornelius,L,0,Pts: 7x0,World Pro,85KG,4F,2015
+12201,1523,Clark Gracie,2035,Vitor Oliveira,L,0,Pts: 2x0,Pan American,82KG,4F,2017
+16054,1523,Clark Gracie,1824,Roberto Satoshi,L,0,Points,King of Mats,85KG,RR,2018
+16055,1523,Clark Gracie,7539,Renato Canuto,L,0,Armbar,King of Mats,85KG,RR,2018
+16164,1523,Clark Gracie,7552,Isaque Bahiense,L,0,Pts: 7x0,World Pro,85KG,4F,2018
+16173,1523,Clark Gracie,,William Dias,L,0,Pts: 6x0,World Pro,85KG,RPC,2018
+2463,1523,Clark Gracie,,Michael Westbrook,W,1,Choke f/ omoplata,AZ Open,ABS,4F,2010
+3047,1523,Clark Gracie,,Daniel Haglind,W,1,Submission,World Champ.,82KG,RDS,2011
+3116,1523,Clark Gracie,5061,Gabriel Rollo,W,1,Footlock,World Champ.,82KG,4F,2011
+3328,1523,Clark Gracie,,Frederico Moncaio,W,1,Omoplata,No Gi Worlds,ABS,R1,2011
+3629,1523,Clark Gracie,390,Abmar Barbosa,W,1,Botinha,Pan American,82KG,R2,2012
+3633,1523,Clark Gracie,2107,Otavio Sousa,W,1,Pts: 2x0,Pan American,82KG,4F,2012
+3861,1523,Clark Gracie,,Ken Primola,W,1,Choke f/ omoplata,NYC Open,82KG,4F,2012
+3863,1523,Clark Gracie,1017,Gabriel Goulart,W,1,Choke f/ omoplata,NYC Open,82KG,SF,2012
+4039,1523,Clark Gracie,,Adam Hunicutt,W,1,N/A,World Champ.,82KG,R1,2012
+4057,1523,Clark Gracie,484,Murilo Santana,W,1,Points,World Champ.,82KG,8F,2012
+4237,1523,Clark Gracie,484,Murilo Santana,W,1,Pts: 2x0,NoGi Worlds,82KG,4F,2012
+4239,1523,Clark Gracie,7114,Marcus Antelante,W,1,Armlock,NoGi Worlds,82KG,SF,2012
+4267,1523,Clark Gracie,,Levi Oliveira,W,1,Darce choke,NoGi Worlds,ABS,R1,2012
+4584,1523,Clark Gracie,,Marco Machado,W,1,Omoplata,Pan American,82KG,R2,2013
+4592,1523,Clark Gracie,2107,Otavio Sousa,W,1,Points,Pan American,82KG,4F,2013
+4597,1523,Clark Gracie,2226,DJ Jackson,W,1,Referee Decision,Pan American,82KG,SF,2013
+4598,1523,Clark Gracie,,Marcelo Lapela,W,1,Choke f/ omoplata,Pan American,82KG,F,2013
+4686,1523,Clark Gracie,6253,Diego Borges,W,1,Omoplata,Copa Podio,82KG,SPF,2013
+4851,1523,Clark Gracie,,Brandon Magana,W,1,Clock choke,Copa Podio,76KG,GP,2013
+5278,1523,Clark Gracie,179,Rafael Mendes,D,0.5,---,Metamoris 3,ABS,SPF,2014
+5368,1523,Clark Gracie,4235,Victor Silverio,W,1,Kimura,Pan American,82KG,R1,2014
+5800,1523,Clark Gracie,,Thiago Dutra,W,1,Armbar,World Champ.,82KG,RDS,2014
+5803,1523,Clark Gracie,,Leo Iturralde,W,1,Inverted triangle,World Champ.,82KG,RDS,2014
+5963,1523,Clark Gracie,,Chris Westfall,W,1,Choke f/ omoplata,Five TX,82KG,SF,2014
+6415,1523,Clark Gracie,6156,Tanner Rice,W,1,Referee Decision,US Nat. Pro,82KG,4F,2015
+6416,1523,Clark Gracie,,Dang Khoa,W,1,Inverted omoplata,US Nat. Pro,82KG,SF,2015
+6418,1523,Clark Gracie,,Magid Hage,W,1,Pts: 8x6,US Nat. Pro,82KG,F,2015
+6420,1523,Clark Gracie,7519,Eliot Kelly,W,1,Pts: 2x0,US Nat. Pro,ABS,F,2015
+7113,1523,Clark Gracie,,Felipe Sansone,W,1,Pts: 4x2,World Pro,85KG,R1,2015
+7333,1523,Clark Gracie,1824,Roberto Satoshi,D,0.5,---,Metamoris 6,ABS,SPF,2015
+7881,1523,Clark Gracie,,Mario Handa,W,1,Omoplata,Grand Slam TYO,85KG,SF,2015
+7883,1523,Clark Gracie,1848,Marcos Souza,W,1,Referee Decision,Grand Slam TYO,85KG,F,2015
+10363,1523,Clark Gracie,,Magid Hage,W,1,Referee Decision,Berkut 3,ABS,SPF,2016
+12186,1523,Clark Gracie,,Dominique Hoskins,W,1,Reverse triangle,Pan American,82KG,R1,2017
+12195,1523,Clark Gracie,6836,John Combs,W,1,Choke f/ omoplata,Pan American,82KG,8F,2017
+16049,1523,Clark Gracie,477,Tarsis Humphreys,W,1,"Pts: 0x0, Adv",King of Mats,85KG,RR,2018
+16162,1523,Clark Gracie,,Ivan Quintanar,W,1,Choke f/ omoplata,World Pro,85KG,R1,2018
+16170,1523,Clark Gracie,,Ayub Magomadov,W,1,Pts: 2x0,World Pro,85KG,RPC,2018

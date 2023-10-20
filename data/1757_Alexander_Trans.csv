@@ -1,0 +1,100 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+3252,1757,Alexander Trans,573,Fabricio Werdum,L,0,Pts: 2x0,ADCC,O99KG,R1,2011
+3664,1757,Alexander Trans,984,Marcus Almeida,L,0,Pts: 2x0,Pan American,O100KG,F,2012
+4146,1757,Alexander Trans,886,Leonardo Leite,L,0,Pts: 2x0,World Champ.,O100KG,SF,2012
+4433,1757,Alexander Trans,1272,Leo Nogueira,L,0,Pts: 4x0,European Open,ABS,SF,2013
+4827,1757,Alexander Trans,984,Marcus Almeida,L,0,Referee Decision,World Champ.,O100KG,SF,2013
+5321,1757,Alexander Trans,1188,Leandro Lo,L,0,Points,Pan American,ABS,SF,2014
+5423,1757,Alexander Trans,144,Andre Galvao,L,0,Adv,Pan American,O100KG,F,2014
+5616,1757,Alexander Trans,2107,Otavio Sousa,L,0,"Pts: 0x0, Adv",World Pro.,ABS,R1,2014
+5683,1757,Alexander Trans,984,Marcus Almeida,L,0,Pts: 2x0,World Pro.,O100KG,F,2014
+5722,1757,Alexander Trans,247,Rodolfo Vieira,L,0,Choke,World Champ.,ABS,4F,2014
+5859,1757,Alexander Trans,984,Marcus Almeida,L,0,Choke from back,World Champ.,O100KG,F,2014
+6772,1757,Alexander Trans,425,Bernardo Faria,L,0,Pts: 2x0,Pan American,ABS,SF,2015
+7158,1757,Alexander Trans,984,Marcus Almeida,L,0,Pts: 2x0,World Pro,O95KG,F,2015
+7199,1757,Alexander Trans,984,Marcus Almeida,L,0,"Pts: 0x0, Adv",World Pro,ABS,F,2015
+9555,1757,Alexander Trans,2416,Felipe Pena,L,0,Pts: 2x0,World Pro,ABS,SF,2016
+10068,1757,Alexander Trans,2403,Joao Rocha,L,0,Referee Decision,World Champ.,O100KG,4F,2016
+10101,1757,Alexander Trans,2416,Felipe Pena,L,0,Pts: 2x0,World Champ.,ABS,8F,2016
+10784,1757,Alexander Trans,1188,Leandro Lo,L,0,Pts: 2x0,Copa Podio,105KG,F,2016
+12910,1757,Alexander Trans,3122,Luiz Panza,L,0,Referee Decision,ACBJJ 5,O95KG,F,2017
+13214,1757,Alexander Trans,4177,Gustavo Dias,L,0,"Pts: 2x2, Adv",World Champ.,O100KG,8F,2017
+3520,1757,Alexander Trans,,Andre Campos,W,1,"Pts: 0x0, Adv",European Open,O100KG,SF,2012
+3521,1757,Alexander Trans,,T. Gaia,W,1,Choke,European Open,O100KG,F,2012
+3659,1757,Alexander Trans,,Michael Schuss,W,1,Submission,Pan American,O100KG,4F,2012
+3663,1757,Alexander Trans,1534,R. Evangelista,W,1,Toe Hold,Pan American,O100KG,SF,2012
+3751,1757,Alexander Trans,,Unknown,W,1,Points,World Pro Trials,O94KG,SF,2012
+3752,1757,Alexander Trans,8241,Radek Turek,W,1,Pts: 2x0,World Pro Trials,O94KG,F,2012
+3858,1757,Alexander Trans,911,Antonio Peinado,W,1,Points,Brasileiro,O100KG,SF,2012
+3859,1757,Alexander Trans,,T. Gaia,W,1,Points,Brasileiro,O100KG,F,2012
+4144,1757,Alexander Trans,559,Rodrigo Comprido,W,1,"Pts: 2x2, Adv",World Champ.,O100KG,4F,2012
+4318,1757,Alexander Trans,,B. Georgy,W,1,RNC,ADCC EU Trials,O99KG,R1,2012
+4319,1757,Alexander Trans,,N/A,W,1,Points,ADCC EU Trials,O99KG,4F,2012
+4320,1757,Alexander Trans,,Bence Gyorgy,W,1,Kneebar,ADCC EU Trials,O99KG,SF,2012
+4321,1757,Alexander Trans,,Michael Wysocki,W,1,Points,ADCC EU Trials,O99KG,F,2012
+4431,1757,Alexander Trans,1263,Lucio Rodrigues,W,1,Points,European Open,ABS,4F,2013
+4461,1757,Alexander Trans,,Vedran Ikic,W,1,Choke from back,European Open,O100KG,4F,2013
+4463,1757,Alexander Trans,1272,Leo Nogueira,W,1,Pts: 5x2,European Open,O100KG,SF,2013
+4464,1757,Alexander Trans,543,Rodrigo Cavaca,W,1,Pts: 3x0,European Open,O100KG,F,2013
+4824,1757,Alexander Trans,,Roberto Roberto,W,1,Referee Decision,World Champ.,O100KG,4F,2013
+5270,1757,Alexander Trans,,Thomas Johanssen,W,1,Footlock,European,ABS,4F,2014
+5273,1757,Alexander Trans,,Fabiano Leite,W,1,Adv,European,ABS,SF,2014
+5274,1757,Alexander Trans,1740,Yuri Simoes,W,1,Armbar,European,ABS,F,2014
+5309,1757,Alexander Trans,,Unknown,W,1,Submission,Pan American,ABS,R3,2014
+5318,1757,Alexander Trans,3009,Keenan Cornelius,W,1,Pts: 3x2,Pan American,ABS,4F,2014
+5419,1757,Alexander Trans,,Rafael Goulart,W,1,Choke from back,Pan American,O100KG,4F,2014
+5421,1757,Alexander Trans,,Leo D'Avila,W,1,Choke from back,Pan American,O100KG,SF,2014
+5682,1757,Alexander Trans,543,Rodrigo Cavaca,W,1,"Pts: 0x0, Adv",World Pro.,O100KG,SF,2014
+5707,1757,Alexander Trans,,William Lima,W,1,Kneebar,World Champ.,ABS,R2,2014
+5717,1757,Alexander Trans,484,Murilo Santana,W,1,Pts: 6x2,World Champ.,ABS,RD 4,2014
+5857,1757,Alexander Trans,3083,Abraham Marte,W,1,Pts: 2x0,World Champ.,O100KG,4F,2014
+6752,1757,Alexander Trans,,Morrys Ayala,W,1,N/A,Pan American,ABS,R2,2015
+6764,1757,Alexander Trans,4521,Erberth Santos,W,1,Pts: 6x4,Pan American,ABS,R3,2015
+6771,1757,Alexander Trans,2107,Otavio Sousa,W,1,Points,Pan American,ABS,4F,2015
+6893,1757,Alexander Trans,,Kitner Moura,W,1,Armbar,Pan American,O100KG,4F,2015
+6895,1757,Alexander Trans,3122,Luiz Panza,W,1,Pts: 6x2,Pan American,O100KG,SF,2015
+6896,1757,Alexander Trans,1827,James Puopolo,W,1,Kneebar,Pan American,O100KG,F,2015
+7148,1757,Alexander Trans,,Pablo Anastacio,W,1,Armbar,World Pro,O95KG,R1,2015
+7154,1757,Alexander Trans,543,Rodrigo Cavaca,W,1,Pts: 2x0,World Pro,O95KG,4F,2015
+7157,1757,Alexander Trans,680,Igor Silva,W,1,Toe hold,World Pro,O95KG,SF,2015
+7182,1757,Alexander Trans,,Unknown,W,1,Kneebar,World Pro,ABS,R1,2015
+7191,1757,Alexander Trans,,Unknown,W,1,Armbar,World Pro,ABS,R3,2015
+7195,1757,Alexander Trans,3200,Jackson Sousa,W,1,Toe hold,World Pro,ABS,4F,2015
+7196,1757,Alexander Trans,3009,Keenan Cornelius,W,1,Pts: 2x0,World Pro,ABS,SF,2015
+7375,1757,Alexander Trans,4177,Gustavo Dias,W,1,Points,World Champ.,ABS,R1,2015
+7387,1757,Alexander Trans,484,Murilo Santana,W,1,Pts: 2x0,World Champ.,ABS,8F,2015
+7396,1757,Alexander Trans,3083,Abraham Marte,W,1,Kneebar,World Champ.,ABS,SF,2015
+7512,1757,Alexander Trans,,T. Gaia,W,1,Kneebar,World Champ.,O100KG,8F,2015
+7516,1757,Alexander Trans,543,Rodrigo Cavaca,W,1,Pts: 4x2,World Champ.,O100KG,4F,2015
+9531,1757,Alexander Trans,224,Roberto Abreu,W,1,"Pts: 0x0, Adv",World Pro,ABS,R2,2016
+9544,1757,Alexander Trans,,Andre Campos,W,1,Pts: 2x0,World Pro,ABS,8F,2016
+9551,1757,Alexander Trans,3009,Keenan Cornelius,W,1,"Pts: 0x0, Adv",World Pro,ABS,4F,2016
+9654,1757,Alexander Trans,,Antonio Junior,W,1,Pts: 6x0,World Pro,O94KG,R1,2016
+10082,1757,Alexander Trans,5842,Mahamed Aly,W,1,Pts: 4x0,World Champ.,ABS,R2,2016
+10183,1757,Alexander Trans,422,Braulio Estima,W,1,Pts: 6x0,Copa Podio,ABS,SPF,2016
+10769,1757,Alexander Trans,7543,Nelton Pontes,W,1,Pts: 6x0,Copa Podio,105KG,RR,2016
+10773,1757,Alexander Trans,543,Rodrigo Cavaca,W,1,Pts: 2x0,Copa Podio,105KG,RR,2016
+10777,1757,Alexander Trans,8560,Gabriel Lucas,W,1,Pts: 9x0,Copa Podio,105KG,RR,2016
+10780,1757,Alexander Trans,6253,Diego Borges,W,1,Pts: 6x0,Copa Podio,105KG,RR,2016
+10782,1757,Alexander Trans,,F. Trovo,W,1,Pts: 2x0,Copa Podio,105KG,SF,2016
+12091,1757,Alexander Trans,7079,Carlos Farias,W,1,Pts: 9x0,Pan American,ABS,R1,2017
+12103,1757,Alexander Trans,6156,Tanner Rice,W,1,Pts: 2x0,Pan American,ABS,8F,2017
+12254,1757,Alexander Trans,,Otavio Nalati,W,1,Pts: 2x0,Pan American,O100,4F,2017
+12905,1757,Alexander Trans,8202,Ricardo Feliciano,W,1,Dogbar,ACBJJ 5,O95KG,4F,2017
+12908,1757,Alexander Trans,2403,Joao Rocha,W,1,Referee Decision,ACBJJ 5,O95KG,SF,2017
+16060,1757,Alexander Trans,6156,Tanner Rice,W,1,Pts: 2x0,King of Mats,110KG,RR,2018
+16065,1757,Alexander Trans,7704,Helton Jose,W,1,"Pts: 0x0, Adv",King of Mats,110KG,RR,2018
+16067,1757,Alexander Trans,449,Alexandre Souza,W,1,Injury,King of Mats,110KG,SF,2018
+16070,1757,Alexander Trans,224,Roberto Abreu,W,1,Choke from back,King of Mats,110KG,F,2018
+28684,1757,Alexander Trans,,Felipe Makoto,W,1,RNC,Nashville Open,ABS,R1,2021
+28687,1757,Alexander Trans,,Sam Wells,W,1,Kneebar,Nashville Open,ABS,4F,2021
+28688,1757,Alexander Trans,,Clay Mayfield,W,1,Cachecol choke,Nashville Open,ABS,SF,2021
+31995,1757,Alexander Trans,,Gabriel Araujo,W,1,Katagatame,Nashville Open,O100KG,F,2022
+31996,1757,Alexander Trans,,Adolfo Suarez,W,1,Arm in Ezekiel,Nashville Open,ABS,4F,2022
+32000,1757,Alexander Trans,10658,Matheus Luna,W,1,Pts: 9x0,Nashville Open,ABS,SF,2022
+32001,1757,Alexander Trans,11960,Joao Cizeski,W,1,Armbar,Nashville Open,ABS,F,2022
+37576,1757,Alexander Trans,,Levi Moura,W,1,Armbar,Atlanta WO,O100KG,SF,2023
+37577,1757,Alexander Trans,,Salenco Coutinho,W,1,Referee Decision,Atlanta WO,O100KG,F,2023
+40363,1757,Alexander Trans,11471,Tacio Carneiro,W,1,Pts: 6x0,World Champ.,O100KG,R1,2023
+40369,1757,Alexander Trans,12055,Yatan Bueno,W,1,Pts: 4x0,World Champ.,O100KG,8F,2023
+40374,1757,Alexander Trans,12203,Austin Baker,W,1,Pts: 5x3,World Champ.,O100KG,4F,2023

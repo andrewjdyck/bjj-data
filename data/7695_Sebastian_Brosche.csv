@@ -1,0 +1,42 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+11493,7695,Sebastian Brosche,,Rodolfo Bonfim,L,0,"Pts: 2x2, Adv",European Open,ABS,R1,2017
+11583,7695,Sebastian Brosche,1386,Davi Ramos,L,0,Armbar,European Open,82KG,8F,2017
+12212,7695,Sebastian Brosche,2235,Renato Cardoso,L,0,Armbar,Pan American,88KG,8F,2017
+13999,7695,Sebastian Brosche,7478,Adam Wardzinski,L,0,RNC,Copenhagen NoGi,ABS,F,2017
+14135,7695,Sebastian Brosche,6351,Alec Baulding,L,0,Points,London FO,88KG,SF,2017
+14142,7695,Sebastian Brosche,11703,Arya Esfandmaz,L,0,Footlock,London FO,ABS,4F,2017
+15195,7695,Sebastian Brosche,4460,Jaime Canuto,L,0,Armbar,Munich Open,82KG,F,2018
+15197,7695,Sebastian Brosche,4460,Jaime Canuto,L,0,Pts: 10x0,Munich Open,ABS,SF,2018
+16804,7695,Sebastian Brosche,,Uros Domanovic,L,0,Points,German Nats,ABS,F,2018
+18905,7695,Sebastian Brosche,,Pedro Palhares,L,0,Loop choke,European Open,82KG,R1,2019
+18948,7695,Sebastian Brosche,,Renan Marcel,L,0,Footlock,European Open,ABS,R1,2019
+19523,7695,Sebastian Brosche,9407,Alexandre Molinaro,L,0,"Pts: 0x0, Adv",Budapest Open,76KG,F,2019
+19540,7695,Sebastian Brosche,8105,Tommy Langaker,L,0,Choke from back,Polaris 9,85KG,SPF,2019
+19860,7695,Sebastian Brosche,2235,Renato Cardoso,L,0,N/A,Rome Open,ABS,SF,2019
+19867,7695,Sebastian Brosche,7082,Luca Anacoreta,L,0,Flying triangle,Rome NGO,85KG,F,2019
+20636,7695,Sebastian Brosche,8138,Hugo Marques,L,0,Referee Decision,World Champ.,82KG,R1,2019
+22430,7695,Sebastian Brosche,,Henrique Moreira,L,0,N/A,Amsterdam Open,ABS,SF,2019
+22434,7695,Sebastian Brosche,5078,Luan Carvalho,L,0,Points,Amsterdam NGO,85KG,F,2019
+22753,7695,Sebastian Brosche,10295,Italo Moura,L,0,Choke from back,Dublin Open,82KG,F,2019
+22763,7695,Sebastian Brosche,,Sean Coates,L,0,RNC,Dublin NGO,ABS,F,2019
+22879,7695,Sebastian Brosche,4460,Jaime Canuto,L,0,Pts: 2x0,NoGi Worlds,79KG,4F,2019
+23108,7695,Sebastian Brosche,8308,Max Lindblad,L,0,Pts: 7x2,European Open,82KG,R1,2020
+11578,7695,Sebastian Brosche,,Bradley Hill,W,1,Pts: 3x2,European Open,82KG,R1,2017
+12206,7695,Sebastian Brosche,,Gotrell King,W,1,Kimura/choke,Pan American,88KG,R1,2017
+15192,7695,Sebastian Brosche,,Eduardo da Silva,W,1,Scissor choke,Munich Open,82KG,4F,2018
+15193,7695,Sebastian Brosche,7376,Ilke Bulut,W,1,RNC,Munich Open,82KG,SF,2018
+15196,7695,Sebastian Brosche,,Luca Caracciolo,W,1,Ezekiel,Munich Open,ABS,4F,2018
+16803,7695,Sebastian Brosche,10318,Eldar Rafigaev,W,1,Points,German Nats,ABS,SF,2018
+16805,7695,Sebastian Brosche,,Wolfgang Heindel,W,1,Ezekiel,German Nats,82KG,F,2018
+19522,7695,Sebastian Brosche,,Bence Romanek,W,1,Cachecol choke,Budapest Open,76KG,SF,2019
+19846,7695,Sebastian Brosche,8290,Marcos Costa,W,1,N/A,Rome Open,82KG,SF,2019
+19847,7695,Sebastian Brosche,,Yan Cabral,W,1,Choke from back,Rome Open,82KG,F,2019
+19856,7695,Sebastian Brosche,8290,Marcos Costa,W,1,N/A,Rome Open,ABS,4F,2019
+19864,7695,Sebastian Brosche,,Jacopo Pasquini,W,1,Points,Rome NGO,85KG,4F,2019
+19866,7695,Sebastian Brosche,8290,Marcos Costa,W,1,Points,Rome NGO,85KG,SF,2019
+22428,7695,Sebastian Brosche,9959,Perttu Tepponen,W,1,N/A,Amsterdam Open,ABS,4F,2019
+22432,7695,Sebastian Brosche,,Petr Mamaev,W,1,Darce choke,Amsterdam NGO,85KG,SF,2019
+22760,7695,Sebastian Brosche,,Petr Mamaev,W,1,Submission,Dublin NGO,85KG,SF,2019
+22761,7695,Sebastian Brosche,,Jamie Paxman,W,1,Kimura,Dublin NGO,85KG,F,2019
+22762,7695,Sebastian Brosche,,Thomas Alban,W,1,Submission,Dublin NGO,ABS,SF,2019
+22871,7695,Sebastian Brosche,,Marco Aurelio,W,1,Pts: 10x8,NoGi Worlds,79KG,R1,2019

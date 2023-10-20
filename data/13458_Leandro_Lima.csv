@@ -1,0 +1,71 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+18289,13458,Leandro Lima,8138,Hugo Marques,L,0,Referee Decision,Grand Slam RJ,77KG,SF,2018
+18292,13458,Leandro Lima,4460,Jaime Canuto,L,0,Referee Decision,Grand Slam RJ,77KG,3RD,2018
+22570,13458,Leandro Lima,9876,Alef Brito,L,0,50/50 armbar,South American,76KG,4F,2019
+24700,13458,Leandro Lima,6432,Yan Lucas,L,0,Referee Decision,Grand Slam RJ,77KG,R1,2020
+26414,13458,Leandro Lima,12287,Pedro Maia,L,0,Pts: 4x0,SA Cont. Pro,77KG,SF,2021
+27112,13458,Leandro Lima,9121,Ygor Rodrigues,L,0,Pts: 3x0,AJP RJ Pro,77KG,F,2021
+28528,13458,Leandro Lima,12348,Lucas Protasio,L,0,Pts: 4x4,Grand Slam RJ,77KG,8F,2021
+29876,13458,Leandro Lima,11754,Victor Nithael,L,0,Pts: 5x4,Rio SMO,76KG,SF,2022
+29930,13458,Leandro Lima,,Rani Yahya,L,0,"Pts: 4x4, Adv",Rio SMNGO,73KG,F,2022
+31012,13458,Leandro Lima,8884,Alex Sodre,L,0,Referee Decision,Curitiba Open,76KG,SF,2022
+31064,13458,Leandro Lima,11064,Rider Zuchi,L,0,Pts: 8x2,Curitiba Open,ABS,SF,2022
+32155,13458,Leandro Lima,11015,Pablo Lavaselli,L,0,"Pts: 2x2, Adv",Brasileiro,76KG,R1,2022
+33982,13458,Leandro Lima,,Gui Fernandes,L,0,Pts: 3x2,Grand Slam RJ,77KG,8F,2022
+36582,13458,Leandro Lima,12348,Lucas Protasio,L,0,Pts: 3x0,Balneario Open,82KG,SF,2022
+38038,13458,Leandro Lima,,Jhonathan Marques,L,0,Referee Decision,Curitiba SMO,82KG,4F,2023
+39484,13458,Leandro Lima,11872,Luiz Paulo,L,0,Pts: 4x2,Brasileiro,76KG,8F,2023
+40614,13458,Leandro Lima,11872,Luiz Paulo,L,0,Pts: 3x0,Grand Slam RJ,77KG,F,2023
+41276,13458,Leandro Lima,,Elder Junior,L,0,Pts: 4x2,SP BJJ Pro,82KG,4F,2023
+17984,13458,Leandro Lima,,Moises Souza,W,1,Loop choke,Manaus Open,76KG,4F,2018
+17985,13458,Leandro Lima,,Chairo Olimpio,W,1,Choke from back,Manaus Open,76KG,SF,2018
+17986,13458,Leandro Lima,,Pedro Asevedo,W,1,Loop choke,Manaus Open,76KG,F,2018
+18291,13458,Leandro Lima,,Marlus Salgado,W,1,Pts: 5x0,Grand Slam RJ,77KG,RPC,2018
+21718,13458,Leandro Lima,,Matheus Linhares,W,1,Points,Sao Paulo Open,76KG,R1,2019
+21719,13458,Leandro Lima,,Caio Wolga,W,1,Points,Sao Paulo Open,76KG,4F,2019
+21721,13458,Leandro Lima,,Ricardo Rocha,W,1,Pts: 6x4,Sao Paulo Open,76KG,SF,2019
+21722,13458,Leandro Lima,9312,Alexandre Cavaliere,W,1,Pts: 12x0,Sao Paulo Open,76KG,F,2019
+22563,13458,Leandro Lima,10232,Gabriel Figueiro,W,1,Loop choke,South American,76KG,R1,2019
+26395,13458,Leandro Lima,,Gustavo Fonseca,W,1,Pts: 14x0,SA Cont. Pro,77KG,R2,2021
+26405,13458,Leandro Lima,,Yago Espindola,W,1,Verbal tap,SA Cont. Pro,77KG,8F,2021
+26411,13458,Leandro Lima,5078,Luan Carvalho,W,1,Loop choke,SA Cont. Pro,77KG,4F,2021
+27106,13458,Leandro Lima,,Gustavo Oliveira,W,1,Armbar,AJP RJ Pro,77KG,4F,2021
+27109,13458,Leandro Lima,,Lucas Brito,W,1,Pts: 3x2,AJP RJ Pro,77KG,4F,2021
+27111,13458,Leandro Lima,,Marlon Ferreira,W,1,Pts: 4x0,AJP RJ Pro,77KG,SF,2021
+28520,13458,Leandro Lima,,Leonardo Cruz,W,1,Pts: 2x0,Grand Slam RJ,77KG,R1,2021
+29322,13458,Leandro Lima,12652,Marcelo Fausto,W,1,Loop choke,Balneario Open,76KG,4F,2021
+29323,13458,Leandro Lima,,Leo Domingos,W,1,Toe hold,Balneario Open,76KG,SF,2021
+29325,13458,Leandro Lima,11534,Raul Basilio,W,1,Loop choke,Balneario Open,76KG,F,2021
+29873,13458,Leandro Lima,,Luiz Santos,W,1,Botinha,Rio SMO,76KG,4F,2022
+29927,13458,Leandro Lima,,Thierry Reis,W,1,Armbar,Rio SMNGO,73KG,4F,2022
+29929,13458,Leandro Lima,,Leo Domingos,W,1,Toe hold,Rio SMNGO,73KG,SF,2022
+30129,13458,Leandro Lima,,Eduardo Jesus,W,1,Toe hold,Sul Brasileiro,76KG,4F,2022
+30132,13458,Leandro Lima,,Wesley Possamai,W,1,Pts: 7x4,Sul Brasileiro,76KG,SF,2022
+30133,13458,Leandro Lima,,Jadson Araujo,W,1,Botinha,Sul Brasileiro,76KG,F,2022
+31008,13458,Leandro Lima,,Iranslav Neoral,W,1,Botinha,Curitiba Open,76KG,R1,2022
+31010,13458,Leandro Lima,,Fernando Mano,W,1,Botinha,Curitiba Open,76KG,4F,2022
+31051,13458,Leandro Lima,,Cleiton Santos,W,1,Kneebar,Curitiba Open,ABS,R1,2022
+31057,13458,Leandro Lima,,Raimon Rosa,W,1,Toe hold,Curitiba Open,ABS,R2,2022
+31062,13458,Leandro Lima,,Gustavo Borges,W,1,Loop choke,Curitiba Open,ABS,4F,2022
+36581,13458,Leandro Lima,,Matheus Oliveira,W,1,Loop choke,Balneario Open,82KG,4F,2022
+38030,13458,Leandro Lima,,Vinicius Wolff,W,1,Choke from back,Curitiba SMO,82KG,8F,2023
+40116,13458,Leandro Lima,,Luis Eduhardo,W,1,Armbar,Floripa FO,76KG,4F,2023
+40117,13458,Leandro Lima,,Iranslav Neoral,W,1,Botinha,Floripa FO,76KG,SF,2023
+40119,13458,Leandro Lima,13245,Ademir Barreto,W,1,Pts: 14x0,Floripa FO,76KG,F,2023
+40595,13458,Leandro Lima,,G. Souza,W,1,Botinha,Grand Slam RJ,77KG,R1,2023
+40604,13458,Leandro Lima,,JP Sousa,W,1,Pts: 10x4,Grand Slam RJ,77KG,8F,2023
+40610,13458,Leandro Lima,,Wallisson Oliveira,W,1,Loop choke,Grand Slam RJ,77KG,4F,2023
+40612,13458,Leandro Lima,,Andre Cantanhede,W,1,Pts: 5x3,Grand Slam RJ,77KG,SF,2023
+40739,13458,Leandro Lima,,Brendo Babilonia,W,1,Botinha,Rio Open,76KG,4F,2023
+40742,13458,Leandro Lima,,Thiago Furtado,W,1,Loop choke,Rio Open,76KG,SF,2023
+40743,13458,Leandro Lima,,Gabriel Aromatis,W,1,Botinha,Rio Open,76KG,F,2023
+41050,13458,Leandro Lima,,Miguel Bitencourt,W,1,Pts: 3x2,Betim Open,76KG,4F,2023
+41054,13458,Leandro Lima,,Julio Arantes,W,1,Pts: 6x2,Betim Open,76KG,SF,2023
+41055,13458,Leandro Lima,9956,Vinicius Pereira,W,1,Loop choke,Betim Open,76KG,F,2023
+42521,13458,Leandro Lima,,Yan Garcia,W,1,Pts: 4x2,Desafio HG,77KG,4F,2023
+42522,13458,Leandro Lima,,Manoel Junior,W,1,"Pts: 2x2, Adv",Desafio HG,77KG,4F,2023
+42524,13458,Leandro Lima,,Guilherme Dal Pra,W,1,Pts: 4x0,Desafio HG,77KG,SF,2023
+42707,13458,Leandro Lima,,Anderson Batista,W,1,Choke from back,Sul Americano,76KG,8F,2023
+42712,13458,Leandro Lima,,Marlus Salgado,W,1,"Pts: 0x0, Adv",Sul Americano,76KG,4F,2023
+42715,13458,Leandro Lima,,Julio Arantes,W,1,"Pts: 2x2, Adv",Sul Americano,76KG,SF,2023
+42717,13458,Leandro Lima,11754,Victor Nithael,W,1,"Pts: 6x6, Adv",Sul Americano,76KG,F,2023

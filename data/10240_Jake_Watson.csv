@@ -1,0 +1,69 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21597,10240,Jake Watson,10103,Jonnatas Gracie,L,0,Pts: 11x2,No Gi Pan Am.,85KG,F,2019
+21614,10240,Jake Watson,10295,Italo Moura,L,0,Pts: 6x4,No Gi Pan Am.,ABS,R2,2019
+22693,10240,Jake Watson,4655,Michael Liera,L,0,Bow and arrow,F2W 132,84KG,SPF,2019
+22803,10240,Jake Watson,5636,Manuel Ribamar,L,0,Referee Decision,F2W 133,86KG,SPF,2019
+22884,10240,Jake Watson,9250,Gabriel Almeida,L,0,Anaconda choke,NoGi Worlds,85KG,R1,2019
+23754,10240,Jake Watson,6071,Gabriel Arges,L,0,RNC,3CG Kumite,88KG,4F,2020
+23769,10240,Jake Watson,6836,John Combs,L,0,Guillotine,Jitz King,84KG,R1,2020
+23780,10240,Jake Watson,8514,Fellipe Andrew,L,0,Points,3CG Kumite II,ABS,4F,2020
+24106,10240,Jake Watson,8357,Gustavo Batista,L,0,Katagatame,Pan American,ABS,4F,2020
+24189,10240,Jake Watson,10658,Matheus Luna,L,0,"Pts: 0x0, Adv",Pan American,88KG,4F,2020
+24602,10240,Jake Watson,2403,Joao Rocha,L,0,Pts: 10x0,American Nats,ABS,SF,2020
+26065,10240,Jake Watson,1044,Flavio Almeida,L,0,Pts: 4x2,JJWL AZ,ABS,N/A,2021
+26685,10240,Jake Watson,10176,Bruno Lima,L,0,Pts: 9x0,American Nats,94KG,SF,2021
+26700,10240,Jake Watson,8514,Fellipe Andrew,L,0,Pts: 5x2,American Nats,ABS,SF,2021
+26743,10240,Jake Watson,12069,Bruno Matias,L,0,Pts: 20x0,American NGN,91KG,F,2021
+27045,10240,Jake Watson,10162,Ronaldo Junior,L,0,N/A,Phoenix Open,88KG,F,2021
+27056,10240,Jake Watson,12203,Austin Baker,L,0,"Pts: 0x0, Adv",Phoenix Open,ABS,F,2021
+27512,10240,Jake Watson,10509,Mathias Luna,L,0,Pts: 4x0,Pan American,ABS,8F,2021
+27604,10240,Jake Watson,11991,Pedro Marinho,L,0,Pts: 4x2,Pan American,88KG,8F,2021
+29431,10240,Jake Watson,10159,Victor Hugo,L,0,Choke from back,World Champ.,ABS,8F,2021
+29546,10240,Jake Watson,8357,Gustavo Batista,L,0,Choke from back,World Champ.,88KG,8F,2021
+21174,10240,Jake Watson,7636,Vinicius Garcia,W,1,Straight ankle lock,Austin SMO,88KG,SF,2019
+21175,10240,Jake Watson,,Diego Gamonal,W,1,Choke from back,Austin SMO,88KG,F,2019
+21179,10240,Jake Watson,,Diego Gamonal,W,1,Pts: 10x2,Austin SMO,ABS,4F,2019
+21181,10240,Jake Watson,,Pedro Migliano,W,1,Arm in Ezekiel,Austin SMO,ABS,SF,2019
+21183,10240,Jake Watson,7636,Vinicius Garcia,W,1,Kimura,Austin SMO,ABS,F,2019
+21186,10240,Jake Watson,7636,Vinicius Garcia,W,1,Armbar,Austin SMNGO,85KG,F,2019
+21187,10240,Jake Watson,,Robby Malof,W,1,Referee Decision,Austin SMNGO,ABS,SF,2019
+21188,10240,Jake Watson,,Lucas Lima,W,1,Straight ankle lock,Austin SMNGO,ABS,F,2019
+21373,10240,Jake Watson,,Samir Abdolakder,W,1,Triangle,F2W 122,85KG,SPF,2019
+21538,10240,Jake Watson,,Adrian Nez,W,1,Straight ankle lock,Arizona State,ABS,F,2019
+21594,10240,Jake Watson,,Stanley Rosa,W,1,DQ,No Gi Pan Am.,85KG,4F,2019
+21595,10240,Jake Watson,9640,Brian Beaury,W,1,Armbar,No Gi Pan Am.,85KG,SF,2019
+21713,10240,Jake Watson,,Aaron Wilson,W,1,Triangle,Southwest Classic,ABS,F,2019
+21940,10240,Jake Watson,,Nathan Barreto,W,1,Pts: 2x0,Phoenix Open,88KG,SF,2019
+21942,10240,Jake Watson,10509,Mathias Luna,W,1,Pts: 2x0,Phoenix Open,88KG,F,2019
+21948,10240,Jake Watson,,Christian Broadnax,W,1,DQ,Phoenix Open,ABS,4F,2019
+21950,10240,Jake Watson,,Tyson Atillon,W,1,Pts: 12x0,Phoenix Open,ABS,SF,2019
+21952,10240,Jake Watson,10509,Mathias Luna,W,1,DQ,Phoenix Open,ABS,F,2019
+22401,10240,Jake Watson,,Mateo Tenzera,W,1,Straight ankle lock,Long Beach Open,94KG,SF,2019
+22403,10240,Jake Watson,7399,Horlando Monteiro,W,1,Pts: 12x8,Long Beach Open,94KG,F,2019
+22951,10240,Jake Watson,6337,Arnaldo Maidana,W,1,Referee Decision,F2W 134,88KG,SPF,2020
+23030,10240,Jake Watson,10162,Ronaldo Junior,W,1,Referee Decision,F2W 135,85KG,SPF,2020
+23344,10240,Jake Watson,,Carlos Souza,W,1,"Pts: 0x0, Adv",Arizona Open,88KG,F,2020
+23345,10240,Jake Watson,,Carlos Souza,W,1,Pts: 9x0,Arizona Open,ABS,F,2020
+23704,10240,Jake Watson,8100,Rudson Mateus,W,1,Referee Decision,F2W 137,88KG,SPF,2020
+24101,10240,Jake Watson,10509,Mathias Luna,W,1,DQ,Pan American,ABS,8F,2020
+24188,10240,Jake Watson,,Yuri Silva,W,1,Choke from back,Pan American,88KG,R1,2020
+24281,10240,Jake Watson,10658,Matheus Luna,W,1,Referee Decision,F2W 155,88KG,SPF,2020
+24386,10240,Jake Watson,,Scott Hoddick,W,1,RNC,Phoenix NG,N/A,RR,2020
+24387,10240,Jake Watson,,Scott Hoddick,W,1,Katagatame,Phoenix NG,N/A,F,2020
+24388,10240,Jake Watson,,Nathan Barreto,W,1,Pts: 4x2,Phoenix Gi,N/A,RR,2020
+24389,10240,Jake Watson,,Nathan Barreto,W,1,Arm in ezekiel,Phoenix Gi,N/A,F,2020
+24576,10240,Jake Watson,,Nathan Barreto,W,1,Armbar,American Nats,88KG,4F,2020
+24579,10240,Jake Watson,9250,Gabriel Almeida,W,1,Pts: 4x2,American Nats,88KG,SF,2020
+24580,10240,Jake Watson,,Josh McKinney,W,1,Pts: 2x0,American Nats,88KG,F,2020
+24593,10240,Jake Watson,11939,Jackson Douglas,W,1,Pts: 3x0,American Nats,ABS,8F,2020
+25264,10240,Jake Watson,11991,Pedro Marinho,W,1,Referee Decision,F2W 167,88KG,SPF,2021
+26064,10240,Jake Watson,1044,Flavio Almeida,W,1,Referee Decision,JJWL AZ,ABS,N/A,2021
+26066,10240,Jake Watson,1044,Flavio Almeida,W,1,"Pts: 4x4, Pen",JJWL AZ,ABS,N/A,2021
+26067,10240,Jake Watson,,Adrian Nez,W,1,Pts: 2x0,JJWL AZ NoGi,ABS,RR,2021
+26068,10240,Jake Watson,,Adrian Nez,W,1,Pts: 2x0,JJWL AZ NoGi,ABS,RR,2021
+26684,10240,Jake Watson,,Bradley Ringler,W,1,Triangle,American Nats,94KG,4F,2021
+26698,10240,Jake Watson,,Nathan Mendelshon,W,1,Botinha,American Nats,ABS,4F,2021
+26741,10240,Jake Watson,10176,Bruno Lima,W,1,Pts: 6x0,American NGN,91KG,SF,2021
+27050,10240,Jake Watson,,Thiago Calixto,W,1,Bow and arrow,Phoenix Open,ABS,4F,2021
+27054,10240,Jake Watson,12267,Lucas Norat,W,1,Pts: 7x4,Phoenix Open,ABS,SF,2021
+29539,10240,Jake Watson,5756,Wellington Luis,W,1,"Pts: 4x4, Pen",World Champ.,88KG,R1,2021

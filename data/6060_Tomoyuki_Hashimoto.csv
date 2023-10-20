@@ -1,0 +1,73 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8041,6060,Tomoyuki Hashimoto,1919,Koji Shibamoto,L,0,"Pts: 2x2, Adv",Asian Open,57KG,F,2015
+9229,6060,Tomoyuki Hashimoto,5447,Mikey Musumeci,L,0,"Pts: 2x2, Adv",Pan American,57KG,4F,2016
+9914,6060,Tomoyuki Hashimoto,2997,Joao Miyao,L,0,Pts: 6x4,World Champ.,57KG,R1,2016
+11444,6060,Tomoyuki Hashimoto,6151,Hiago George,L,0,"Pts: 2x2, Adv",Grand Slam AD,62KG,F,2017
+13054,6060,Tomoyuki Hashimoto,283,Bruno Malfacine,L,0,Armbar,World Champ.,58KG,SF,2017
+13681,6060,Tomoyuki Hashimoto,1919,Koji Shibamoto,L,0,Points,Asian Open,57KG,F,2017
+14593,6060,Tomoyuki Hashimoto,1436,Samir Chantre,L,0,Points,ACB JJ 9,60KG,4F,2017
+14648,6060,Tomoyuki Hashimoto,582,Caio Terra,L,0,"Pts: 0x0, Adv",NoGi Worlds,55KG,F,2017
+16438,6060,Tomoyuki Hashimoto,283,Bruno Malfacine,L,0,Arm in Ezekiel,World Champ.,57KG,SF,2018
+18579,6060,Tomoyuki Hashimoto,2997,Joao Miyao,L,0,Referee Decision,NoGi Worlds,61KG,F,2018
+18872,6060,Tomoyuki Hashimoto,6258,Rodnei Barbosa,L,0,"Pts: 4x4, Adv",European Open,57KG,F,2019
+20571,6060,Tomoyuki Hashimoto,7657,Cleber Sousa,L,0,Pts: 6x4,World Champ.,57KG,4F,2019
+21213,6060,Tomoyuki Hashimoto,10840,Diego Oliveira,L,0,"Pts: 0x0, Adv",King of Mats,69KG,RR,2019
+21221,6060,Tomoyuki Hashimoto,8632,Thiago Macedo,L,0,Bow and arrow,King of Mats,69KG,RR,2019
+21222,6060,Tomoyuki Hashimoto,6103,Isaac Doederlein,L,0,Armbar,King of Mats,69KG,RR,2019
+21229,6060,Tomoyuki Hashimoto,9051,Gabriel Sousa,L,0,Referee Decision,Grand Slam TYO,62KG,SF,2019
+22730,6060,Tomoyuki Hashimoto,9606,Inseong Jang,D,0.5,---,Quintet FN4,ABS,RR,2019
+29448,6060,Tomoyuki Hashimoto,10293,Jonas Andrade,L,0,"Pts: 2x2, Adv",World Champ.,57KG,4F,2021
+31620,6060,Tomoyuki Hashimoto,11423,Meyram Maquine,L,0,"Pts: 0x0, Adv",Pan American,64KG,SF,2022
+32860,6060,Tomoyuki Hashimoto,,Bebeto Oliveira,L,0,DQ,World Champ.,57KG,4F,2022
+36802,6060,Tomoyuki Hashimoto,6043,Lucas Pinheiro,L,0,Pts: 2x0,NoGi Worlds,61KG,4F,2022
+37167,6060,Tomoyuki Hashimoto,10155,Malachi Edmond,L,0,Referee Decision,European Open,64KG,SF,2023
+40207,6060,Tomoyuki Hashimoto,8536,Yuta Shimada,L,0,Straight ankle lock,World Champ.,64KG,8F,2023
+7872,6060,Tomoyuki Hashimoto,,Hisashi Ezaki,W,1,Choke from back,Grand Slam TYO,62KG,SF,2015
+8039,6060,Tomoyuki Hashimoto,,Makoto Sawada,W,1,Pts: 8x2,Asian Open,57KG,4F,2015
+8040,6060,Tomoyuki Hashimoto,,Hisashi Ezaki,W,1,Pts: 4x0,Asian Open,57KG,SF,2015
+9684,6060,Tomoyuki Hashimoto,,Hideyuki Yamada,W,1,Points,Japanese National,64KG,SF,2016
+9685,6060,Tomoyuki Hashimoto,,Shimon Kagiyama,W,1,Triangle armbar,Japanese National,64KG,F,2016
+10508,6060,Tomoyuki Hashimoto,,Kazuya Kawashima,W,1,Pts: 2x0,All Japan,64KG,4F,2016
+10509,6060,Tomoyuki Hashimoto,,Hideyuki Yamada,W,1,Referee Decision,All Japan,64KG,SF,2016
+10510,6060,Tomoyuki Hashimoto,,Yuuto Hirao,W,1,Pts: 4x2,All Japan,64KG,F,2016
+10512,6060,Tomoyuki Hashimoto,,Kazuyuki Miyazi,W,1,Pts: 7x2,Japanese Nat.,64KG,SF,2016
+10513,6060,Tomoyuki Hashimoto,,Shimon Kagiyama,W,1,Armbar,Japanese Nat.,64KG,F,2016
+10514,6060,Tomoyuki Hashimoto,,Masaaki Todokoro,W,1,"Pts: 0x0, Adv",Asian Open,57KG,SF,2016
+10515,6060,Tomoyuki Hashimoto,1919,Koji Shibamoto,W,1,"Pts: 2x2, Adv",Asian Open,57KG,F,2016
+10801,6060,Tomoyuki Hashimoto,,Kazuhiro Miyachi,W,1,Pts: 2x0,Grand Slam TYO,62KG,F,2016
+11442,6060,Tomoyuki Hashimoto,,Wellington Lima,W,1,Pts: 4x2,Grand Slam AD,62KG,SF,2017
+13052,6060,Tomoyuki Hashimoto,6258,Rodnei Barbosa,W,1,Referee Decision,World Champ.,58KG,4F,2017
+13680,6060,Tomoyuki Hashimoto,9502,Nobuhiro Sawada,W,1,Points,Asian Open,57KG,SF,2017
+14645,6060,Tomoyuki Hashimoto,,G. Rosenberg,W,1,Darce choke,NoGi Worlds,55KG,4F,2017
+14646,6060,Tomoyuki Hashimoto,,Nabuhiro Sawada,W,1,Pts: 4x2,NoGi Worlds,55KG,SF,2017
+15159,6060,Tomoyuki Hashimoto,,Doomon Kurosan,W,1,Triangle,All Japan,64KG,F,2018
+15312,6060,Tomoyuki Hashimoto,8218,Mayko Araujo,W,1,Points,ACBJJ 11,60KG,SPF,2018
+15363,6060,Tomoyuki Hashimoto,5114,Joao Somalia,W,1,Pts: 6x4,Pan American,58KG,4F,2018
+15364,6060,Tomoyuki Hashimoto,6043,Lucas Pinheiro,W,1,Pts: 6x0,Pan American,58KG,SF,2018
+15366,6060,Tomoyuki Hashimoto,1919,Koji Shibamoto,W,1,"Pts: 0x0, Adv",Pan American,58KG,F,2018
+16429,6060,Tomoyuki Hashimoto,,Matheus Magalhaes,W,1,Footlock,World Champ.,57KG,R1,2018
+16436,6060,Tomoyuki Hashimoto,6043,Lucas Pinheiro,W,1,Choke from back,World Champ.,57KG,4F,2018
+16995,6060,Tomoyuki Hashimoto,,Yuto Hirao,W,1,Triangle,Grand Slam TYO,62KG,4F,2018
+16998,6060,Tomoyuki Hashimoto,9051,Gabriel Sousa,W,1,"Pts: 0x0, Adv",Grand Slam TYO,62KG,F,2018
+17115,6060,Tomoyuki Hashimoto,,Jun Sakamoto,W,1,Omoplata,All Japan,64KG,4F,2018
+17116,6060,Tomoyuki Hashimoto,,Kako Takatori,W,1,"Pts: 4x4, Adv",All Japan,64KG,SF,2018
+17117,6060,Tomoyuki Hashimoto,,Kurosan Doomon,W,1,Points,All Japan,64KG,F,2018
+18572,6060,Tomoyuki Hashimoto,,Bendy Casimir,W,1,RNC,NoGi Worlds,61KG,R1,2018
+18574,6060,Tomoyuki Hashimoto,6043,Lucas Pinheiro,W,1,Referee Decision,NoGi Worlds,61KG,4F,2018
+18577,6060,Tomoyuki Hashimoto,6151,Hiago George,W,1,"Pts: 0x0, Adv",NoGi Worlds,61KG,SF,2018
+18867,6060,Tomoyuki Hashimoto,,Jorge Nakamura,W,1,Submission,European Open,57KG,4F,2019
+18871,6060,Tomoyuki Hashimoto,9541,Aniel Bonifacio,W,1,Pts: 3x0,European Open,57KG,SF,2019
+20564,6060,Tomoyuki Hashimoto,9502,Nobuhiro Sawada,W,1,Pts: 4x0,World Champ.,57KG,R1,2019
+21114,6060,Tomoyuki Hashimoto,6801,Jose Lima,W,1,Choke from back,F2W 118,57KG,SPF,2019
+23060,6060,Tomoyuki Hashimoto,9502,Nobuhiro Sawada,W,1,"Pts: 0x0, Adv",European Open,57KG,4F,2020
+23061,6060,Tomoyuki Hashimoto,7657,Cleber Sousa,W,1,Pts: 8x6,European Open,57KG,SF,2020
+23063,6060,Tomoyuki Hashimoto,10099,Thalison Soares,W,1,DQ,European Open,57KG,F,2020
+24297,6060,Tomoyuki Hashimoto,,Shinji Morito,D,0.5,---,Quintet FN5,ABS,SF,2020
+24299,6060,Tomoyuki Hashimoto,,Masakazu Imanari,D,0.5,---,Quintet FN5,ABS,F,2020
+29443,6060,Tomoyuki Hashimoto,,Igor Mancebo,W,1,Arm in Ezekiel,World Champ.,57KG,R1,2021
+31618,6060,Tomoyuki Hashimoto,8305,Pedro Dias,W,1,"Pts: 2x2, Adv",Pan American,64KG,4F,2022
+32855,6060,Tomoyuki Hashimoto,,Kevin Martincowski,W,1,Hashimoto choke,World Champ.,57KG,R1,2022
+35849,6060,Tomoyuki Hashimoto,,Josh Stolton,W,1,N/A,Pan Pacific,64KG,SF,2022
+35850,6060,Tomoyuki Hashimoto,,Yuma Nomura,W,1,Choke from back,Pan Pacific,64KG,F,2022
+35858,6060,Tomoyuki Hashimoto,,Josh Stolton,W,1,N/A,Pan Pacific NG,61KG,F,2022
+37165,6060,Tomoyuki Hashimoto,8536,Yuta Shimada,W,1,"Pts: 4x4, Adv",European Open,64KG,4F,2023

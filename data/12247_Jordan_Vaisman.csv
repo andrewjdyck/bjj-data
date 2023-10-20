@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27539,12247,Jordan Vaisman,8305,Pedro Dias,L,0,Pts: 2x0,Pan American,64KG,SF,2021
+28724,12247,Jordan Vaisman,11889,Keven Carrasco,L,0,Points,3CG Underdogs,64KG,SPF,2021
+29459,12247,Jordan Vaisman,10155,Malachi Edmond,L,0,Referee Decision,World Champ.,64KG,8F,2021
+30767,12247,Jordan Vaisman,11889,Keven Carrasco,L,0,Referee Decision,Dallas Open,64KG,4F,2022
+31610,12247,Jordan Vaisman,11889,Keven Carrasco,L,0,Referee Decision,Pan American,64KG,R2,2022
+32876,12247,Jordan Vaisman,6151,Hiago George,L,0,Pts: 9x2,World Champ.,64KG,4F,2022
+38337,12247,Jordan Vaisman,12848,Frank Cespedes,L,0,"Pts: 6x6, Adv",Pan American,58KG,R1,2023
+39854,12247,Jordan Vaisman,10155,Malachi Edmond,L,0,Referee Decision,Houston Open,64KG,F,2023
+40196,12247,Jordan Vaisman,,Bebeto Oliveira,L,0,Referee Decision,World Champ.,58KG,4F,2023
+41122,12247,Jordan Vaisman,,Bebeto Oliveira,L,0,Pts: 2x0,American Nats,64KG,SF,2023
+27326,12247,Jordan Vaisman,,Ram Ananda,W,1,Triangle,Charleston SO,64KG,F,2021
+27536,12247,Jordan Vaisman,12303,Marcus Beddor,W,1,"Pts: 4x4, Adv",Pan American,64KG,4F,2021
+27839,12247,Jordan Vaisman,,Gabriel Fernandes,W,1,Pts: 2x0,Atlanta SMOP,64KG,SF,2021
+27841,12247,Jordan Vaisman,,Ram Ananda,W,1,"Pts: 0x0, Adv",Atlanta SMOP,64KG,F,2021
+29010,12247,Jordan Vaisman,,Vinicius Saenz,W,1,Pts: 4x2,JJ CON,64KG,SF,2021
+29011,12247,Jordan Vaisman,,Bebeto Oliveira,W,1,Injury,JJ CON,64KG,F,2021
+32430,12247,Jordan Vaisman,,Andre Honda,W,1,Submission,SD Open,64KG,SF,2022
+32871,12247,Jordan Vaisman,10155,Malachi Edmond,W,1,Botinha,World Champ.,64KG,8F,2022
+36674,12247,Jordan Vaisman,,Luis Pinto,W,1,Choke from back,Waco Open,64KG,F,2022
+37853,12247,Jordan Vaisman,,Chris Tran,W,1,Mounted X choke,Dallas Open,58KG,SF,2023
+37854,12247,Jordan Vaisman,12940,Cory Walker,W,1,Hashimoto choke,Dallas Open,58KG,F,2023
+39038,12247,Jordan Vaisman,6258,Rodnei Barbosa,W,1,"Pts: 0x0, Adv",Santa Cruz O,64KG,F,2023
+39850,12247,Jordan Vaisman,11794,Willis Nunes,W,1,Points,Houston Open,64KG,4F,2023
+39852,12247,Jordan Vaisman,,Isaias Higino,W,1,Adv,Houston Open,64KG,SF,2023
+40036,12247,Jordan Vaisman,,Guilherme Monteiro,W,1,Triangle,SD Open,64KG,RR,2023
+40186,12247,Jordan Vaisman,12848,Frank Cespedes,W,1,Pts: 4x2,World Champ.,58KG,R1,2023

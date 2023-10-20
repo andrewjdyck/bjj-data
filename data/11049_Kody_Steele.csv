@@ -1,0 +1,28 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23172,11049,Kody Steele,6836,John Combs,L,0,RNC,JitzKing,82KG,SPF,2020
+23793,11049,Kody Steele,11789,Mason Fowler,L,0,EBI/OT,SUG 15,ABS,SF,2020
+23806,11049,Kody Steele,8394,Vagner Rocha,L,0,Points,3CG Kumite III,81KG,4F,2020
+24081,11049,Kody Steele,8116,Dante Leon,L,0,Referee Decision,WNO 4,77KG,SPF,2020
+24324,11049,Kody Steele,6836,John Combs,L,0,Referee Decision,Subversiv 4,81KG,SF,2020
+24331,11049,Kody Steele,,A. Murasaki,L,0,Referee Decision,Subversiv 4,81KG,F,2020
+24854,11049,Kody Steele,12003,Tye Ruotolo,L,0,Inside heel hook,WNO 5,SPF,77KG,2020
+28377,11049,Kody Steele,,Jed Hue,L,0,Referee Decision,Polaris 17,80KG,SPF,2021
+28870,11049,Kody Steele,11771,William Tackett,L,0,Referee Decision,ADCC EC Trials,77KG,SF,2021
+29683,11049,Kody Steele,,Gregory Rodrigues,D,0.5,---,UFC Inv.,ABS,RR,2021
+31411,11049,Kody Steele,,Chris Wojcik,L,0,Referee Decision,ADCC WC Trials,77KG,R1,2022
+23195,11049,Kody Steele,,Camron Couch,W,1,Pts: 8x4,Kasai Pro 7,80KG,SPF,2020
+23748,11049,Kody Steele,6351,Alec Baulding,W,1,Referee Decision,WNO,81KG,SPF,2020
+23762,11049,Kody Steele,,Mauricio Gomez,W,1,Points,Jitz King,82KG,SPF,2020
+23790,11049,Kody Steele,12703,Andy Varela,W,1,EBI/OT,SUG 15,ABS,4F,2020
+23883,11049,Kody Steele,9668,David Garmo,W,1,Referee Decision,F2W 150,86KG,SPF,2020
+24086,11049,Kody Steele,,Bryan Nuro,W,1,Outside heel hook,SUG 18,N/A,SPF,2020
+24301,11049,Kody Steele,,Zach Greene,W,1,Referee Decision,Subversiv 4,81KG,R1,2020
+24993,11049,Kody Steele,5238,Edwin Najmi,W,1,Referee Decision,Third Coast,82KG,SPF,2020
+26609,11049,Kody Steele,,Phillip Rowe,W,1,Referee Decision,WNO 10,83KG,SPF,2021
+28826,11049,Kody Steele,,Ruben Coronado,W,1,Pts: 6x0,ADCC EC Trials,77KG,R2,2021
+28839,11049,Kody Steele,,Roman Wheeler,W,1,RNC,ADCC EC Trials,77KG,R3,2021
+28852,11049,Kody Steele,,Adrian Gonzalez,W,1,Pts: 5x0,ADCC EC Trials,77KG,R4,2021
+28860,11049,Kody Steele,,Placido Santos,W,1,Referee Decision,ADCC EC Trials,77KG,R5,2021
+28867,11049,Kody Steele,6354,Jonathan Satava,W,1,"Pts: 0x0, Pen",ADCC EC Trials,77KG,4F,2021
+28872,11049,Kody Steele,9344,PJ Barch,W,1,Referee Decision,ADCC EC Trials,77KG,3RD,2021
+29674,11049,Kody Steele,,Jason High,D,0.5,---,UFC Inv.,ABS,RR,2021

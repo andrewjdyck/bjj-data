@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+5230,2304,Fernando Aleluia,2999,Paulo Miyao,L,0,Adv,World Pro Trial,70KG,F,2014
+5586,2304,Fernando Aleluia,4235,Victor Silverio,D,0.5,---,Copa Podio,77KG,GP,2014
+5595,2304,Fernando Aleluia,446,Gilbert Burns,L,0,Pts: 2x0,Copa Podio,77KG,GP,2014
+8630,2304,Fernando Aleluia,2999,Paulo Miyao,L,0,"Pts: 8x8, Adv",Grand Slam RJ,69KG,F,2015
+8688,2304,Fernando Aleluia,,V. Silva,L,0,Submission,Grand Slam RJ,ABS,R1,2015
+11793,2304,Fernando Aleluia,5715,Isaque Paiva,L,0,Points,Manaus Nat. Pro,69KG,F,2017
+14334,2304,Fernando Aleluia,6599,Rafael Mansur,L,0,"Pts: 0x0, Adv",Grand Slam RJ,69KG,SF,2017
+1050,2304,Fernando Aleluia,471,Bibiano Fernandes,W,1,Pts: 4x2,World Champ.,64KG,F,2004
+3451,2304,Fernando Aleluia,7872,Gilson Nunes,W,1,Points,Amazon Meeting,70KG,N/A,2011
+3755,2304,Fernando Aleluia,,Gabriel Willcox,W,1,Pts: 4x0,World Pro.,64KG,4F,2012
+3759,2304,Fernando Aleluia,,Bruno Lopes,W,1,Choke,World Pro.,64KG,SF,2012
+3761,2304,Fernando Aleluia,8819,Thiago Barreto,W,1,Adv,World Pro.,64KG,F,2012
+5228,2304,Fernando Aleluia,,Elton Tadeu,W,1,Submission,World Pro Trial,70KG,SF,2014
+5591,2304,Fernando Aleluia,,M. Andre,W,1,Pts: 6x2,Copa Podio,77KG,GP,2014
+5599,2304,Fernando Aleluia,4248,Gianni Grippo,D,0.5,---,Copa Podio,77KG,GP,2014
+8624,2304,Fernando Aleluia,,Laercio Barbosa,W,1,Choke,Grand Slam RJ,69KG,8F,2015
+8625,2304,Fernando Aleluia,,Victor Morais,W,1,Bow and arrow,Grand Slam RJ,69KG,4F,2015
+8629,2304,Fernando Aleluia,5715,Isaque Paiva,W,1,Pts: 11x4,Grand Slam RJ,69KG,SF,2015
+11789,2304,Fernando Aleluia,,Rodney F.,W,1,Submission,Manaus Nat. Pro,69KG,4F,2017
+11791,2304,Fernando Aleluia,,Caio Santos,W,1,Submission,Manaus Nat. Pro,69KG,SF,2017
+13616,2304,Fernando Aleluia,6419,Marcel Goncalves,D,0.5,---,Copa Podio,ABS,SPF,2017
+14327,2304,Fernando Aleluia,,Bruno Corra,W,1,Choke from back,Grand Slam RJ,69KG,R1,2017
+14328,2304,Fernando Aleluia,5715,Isaque Paiva,W,1,Pts: 9x0,Grand Slam RJ,69KG,8F,2017
+14331,2304,Fernando Aleluia,,F. Silva,W,1,Choke from back,Grand Slam RJ,69KG,4F,2017
+14336,2304,Fernando Aleluia,,J Rufino,W,1,Choke from back,Grand Slam RJ,69KG,RPC,2017
+14337,2304,Fernando Aleluia,,Victor Matos,W,1,Pts: 5x2,Grand Slam RJ,69KG,3RD,2017

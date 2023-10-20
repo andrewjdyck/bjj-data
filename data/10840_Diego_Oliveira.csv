@@ -1,0 +1,122 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21214,10840,Diego Oliveira,6103,Isaac Doederlein,L,0,"Pts: 4x4, Adv",King of Mats,69KG,RR,2019
+21225,10840,Diego Oliveira,9051,Gabriel Sousa,L,0,Pts: 4x2,King of Mats,69KG,SF,2019
+23070,10840,Diego Oliveira,5447,Mikey Musumeci,L,0,Botinha,European Open,64KG,SF,2020
+25099,10840,Diego Oliveira,9031,Kennedy Maciel,L,0,Referee Decision,F2W 163,65KG,SPF,2021
+26375,10840,Diego Oliveira,11497,Fabricio Andrey,L,0,Pts: 3x1,SA Cont. Pro,69KG,SF,2021
+26511,10840,Diego Oliveira,11497,Fabricio Andrey,L,0,Pts: 2x0,SA Cont. Pro,LWA,4F,2021
+27909,10840,Diego Oliveira,12005,Kade Ruotolo,L,0,Darce choke,WNO Champ.,70KG,4F,2021
+29020,10840,Diego Oliveira,6103,Isaac Doederlein,L,0,Adv,JJ CON,70KG,F,2021
+30018,10840,Diego Oliveira,11823,Diogo Reis,L,0,Referee Decision,ADCC BR1 Trials,66KG,F,2022
+32882,10840,Diego Oliveira,11423,Meyram Maquine,L,0,Referee Decision,World Champ.,64KG,F,2022
+34819,10840,Diego Oliveira,9250,Gabriel Almeida,L,0,Anaconda choke,JJ Con NG,ABS,F,2022
+35012,10840,Diego Oliveira,9051,Gabriel Sousa,L,0,Referee Decision,ADCC,66KG,SF,2022
+37169,10840,Diego Oliveira,10155,Malachi Edmond,L,0,Pts: 4x2,European Open,64KG,F,2023
+37907,10840,Diego Oliveira,5417,Guilherme Augusto,L,0,Referee Decision,Dallas NGO,ABS,SF,2023
+38361,10840,Diego Oliveira,11823,Diogo Reis,L,0,"Pts: 0x0, Adv",Pan American,64KG,F,2023
+41653,10840,Diego Oliveira,10509,Mathias Luna,L,0,Toe hold,Phoenix Open,ABS,4F,2023
+20777,10840,Diego Oliveira,,Alejandro Carreras,W,1,Pts: 13x2,Grand Slam MSK,69KG,4F,2019
+20779,10840,Diego Oliveira,10408,Israel Sousa,W,1,Referee Decision,Grand Slam MSK,69KG,SF,2019
+20780,10840,Diego Oliveira,8632,Thiago Macedo,W,1,"Pts: 2x2, Adv",Grand Slam MSK,69KG,F,2019
+21031,10840,Diego Oliveira,,Zaur Akhmedov,W,1,Armbar,ACB World Champ.,65KG,SF,2019
+21032,10840,Diego Oliveira,,Zainutdin Zainukov,W,1,Toe hold,ACB World Champ.,65KG,F,2019
+21213,10840,Diego Oliveira,6060,Tomoyuki Hashimoto,W,1,"Pts: 0x0, Adv",King of Mats,69KG,RR,2019
+21216,10840,Diego Oliveira,8632,Thiago Macedo,W,1,Pts: 2x0,King of Mats,69KG,RR,2019
+21226,10840,Diego Oliveira,7657,Cleber Sousa,W,1,Pts: 4x0,King of Mats,69KG,3RD,2019
+21663,10840,Diego Oliveira,,Alberto Serrano,W,1,Pts: 4x2,Grand Slam LA,69KG,4F,2019
+21665,10840,Diego Oliveira,6599,Rafael Mansur,W,1,Pts: 4x2,Grand Slam LA,69KG,SF,2019
+21666,10840,Diego Oliveira,10408,Israel Sousa,W,1,Pts: 4x2,Grand Slam LA,69KG,F,2019
+21963,10840,Diego Oliveira,10220,Paulo Gabriel,W,1,Referee Decision,World Festival,70KG,SPF,2019
+22261,10840,Diego Oliveira,,Carmones Alencar,W,1,Armbar,Grand Slam RJ,62KG,R1,2019
+22264,10840,Diego Oliveira,9051,Gabriel Sousa,W,1,Referee Decision,Grand Slam RJ,62KG,4F,2019
+22269,10840,Diego Oliveira,7657,Cleber Sousa,W,1,"Pts: 4x4, Adv",Grand Slam RJ,62KG,F,2019
+22732,10840,Diego Oliveira,,Jackson Monteiro,W,1,Choke from back,Florianopolis Pro,69KG,SF,2019
+22733,10840,Diego Oliveira,,Andrey Adam,W,1,Choke from back,Florianopolis Pro,69KG,F,2019
+22959,10840,Diego Oliveira,,Gabriel Frenhan,W,1,Choke from back,Grand Slam AD,62KG,4F,2020
+22961,10840,Diego Oliveira,,Bebeto Oliveira,W,1,Pts: 8x5,Grand Slam AD,62KG,SF,2020
+23068,10840,Diego Oliveira,8305,Pedro Dias,W,1,Triangle,European Open,64KG,4F,2020
+23186,10840,Diego Oliveira,,Savio Gomes,W,1,Submission,Swiss Nat Pro,69KG,SF,2020
+23294,10840,Diego Oliveira,,Savio Gomes,W,1,Submission,Austria Nat Pro,69KG,RR,2020
+23296,10840,Diego Oliveira,,Ivan Rakocija,W,1,Pts: 4x0,Austria Nat Pro,ABS,SF,2020
+23334,10840,Diego Oliveira,,Lucas Goncalves,W,1,Submission,France Nat. Pro,69KG,4F,2020
+23335,10840,Diego Oliveira,,Savio Gomes,W,1,Submission,France Nat. Pro,69KG,SF,2020
+23510,10840,Diego Oliveira,,Walter Alamo,W,1,"Pts: 4x4, Adv",Netherlands Pro,69KG,SF,2020
+23581,10840,Diego Oliveira,9051,Gabriel Sousa,W,1,Pts: 6x3,European Pro,69KG,SF,2020
+23582,10840,Diego Oliveira,,Iurii Vinogradov,W,1,Choke from back,European Pro,69KG,F,2020
+23608,10840,Diego Oliveira,,Igor Terreco,W,1,Pts: 2x0,Grand Slam LDN,62KG,F,2020
+23921,10840,Diego Oliveira,8884,Alex Sodre,W,1,Pts: 12x10,BJJ Bet,65KG,SPF,2020
+24254,10840,Diego Oliveira,,Elton Vasconcelos,W,1,N/A,Rio Challenge,77KG,R1,2020
+24257,10840,Diego Oliveira,,Igor Canedo,W,1,N/A,Rio Challenge,77KG,4F,2020
+24258,10840,Diego Oliveira,11248,Jonata Gomes,W,1,Pts: 11x4,Rio Challenge,77KG,SF,2020
+24260,10840,Diego Oliveira,10835,Eduardo Avelar,W,1,Pts: 6x2,Rio Challenge,77KG,F,2020
+25038,10840,Diego Oliveira,9051,Gabriel Sousa,W,1,Referee Decision,F2W 161,65KG,SPF,2021
+25495,10840,Diego Oliveira,,Leandro Lima,W,1,Referee Decision,Grand Slam AD,62KG,4F,2021
+25498,10840,Diego Oliveira,,Wesley Santos,W,1,Pts: 7x1,Grand Slam AD,62KG,SF,2021
+25649,10840,Diego Oliveira,,Mo-Ali Hayat,W,1,Armbar,World Pro,62KG,RR,2021
+26090,10840,Diego Oliveira,10953,Danilo Moreira,W,1,RNC,NoGi Pan Am.,67KG,8F,2021
+26093,10840,Diego Oliveira,,Kyvann Jimenez,W,1,Triangle,NoGi Pan Am.,67KG,4F,2021
+26098,10840,Diego Oliveira,,Orlando Castillo,W,1,Darce choke,NoGi Pan Am.,67KG,SF,2021
+26099,10840,Diego Oliveira,11568,Josh Cisneros,W,1,Kneebar,NoGi Pan Am.,67KG,F,2021
+26356,10840,Diego Oliveira,,Joao Oliveira,W,1,Pts: 8x1,SA Cont. Pro,69KG,R1,2021
+26366,10840,Diego Oliveira,6599,Rafael Mansur,W,1,Pts: 2x1,SA Cont. Pro,69KG,8F,2021
+26373,10840,Diego Oliveira,8884,Alex Sodre,W,1,Pts: 5x3,SA Cont. Pro,69KG,4F,2021
+26381,10840,Diego Oliveira,11754,Victor Nithael,W,1,Pts: 9x1,SA Cont. Pro,69KG,RPC,2021
+26382,10840,Diego Oliveira,8884,Alex Sodre,W,1,Pts: 4x0,SA Cont. Pro,69KG,3RD,2021
+27538,10840,Diego Oliveira,,Suraj Budhram,W,1,Choke from back,Pan American,64KG,4F,2021
+27540,10840,Diego Oliveira,,Bebeto Oliveira,W,1,Pts: 2x0,Pan American,64KG,SF,2021
+27918,10840,Diego Oliveira,,Demian Anderson,W,1,Referee Decision,WNO Champ.,70KG,RPC,2021
+27919,10840,Diego Oliveira,11568,Josh Cisneros,W,1,RNC,WNO Champ.,70KG,3RD,2021
+28228,10840,Diego Oliveira,,Kyvan Jimenez,W,1,Straight ankle lock,NoGi Worlds,67KG,8F,2021
+28230,10840,Diego Oliveira,8814,Adam Benayoun,W,1,"Pts: 0x0, Adv",NoGi Worlds,67KG,4F,2021
+28233,10840,Diego Oliveira,11919,Daniel Maira,W,1,Pts: 15x4,NoGi Worlds,67KG,SF,2021
+28235,10840,Diego Oliveira,9051,Gabriel Sousa,W,1,"Pts: 2x2, Adv",NoGi Worlds,67KG,F,2021
+28703,10840,Diego Oliveira,,Alika Villatore,W,1,Pts: 9x0,EUG NoGi,70KG,4F,2021
+28705,10840,Diego Oliveira,9051,Gabriel Sousa,W,1,Referee Decision,EUG NoGi,70KG,SF,2021
+28707,10840,Diego Oliveira,4248,Gianni Grippo,W,1,Referee Decision,EUG NoGi,70KG,F,2021
+29018,10840,Diego Oliveira,12356,Damion Oranday,W,1,Choke from back,JJ CON,70KG,4F,2021
+29019,10840,Diego Oliveira,,Matheus Onda,W,1,N/A,JJ CON,70KG,SF,2021
+29058,10840,Diego Oliveira,,Chris Gabrielson,W,1,Armbar,JJ CON,ABS,R1,2021
+29063,10840,Diego Oliveira,,Thiago Cesar,W,1,Points,JJ CON,ABS,4F,2021
+29461,10840,Diego Oliveira,11889,Keven Carrasco,W,1,Pts: 2x0,World Champ.,64KG,8F,2021
+29463,10840,Diego Oliveira,8536,Yuta Shimada,W,1,Pts: 4x2,World Champ.,64KG,4F,2021
+29468,10840,Diego Oliveira,11423,Meyram Maquine,W,1,Pts: 6x4,World Champ.,64KG,SF,2021
+29469,10840,Diego Oliveira,10155,Malachi Edmond,W,1,Katagatame,World Champ.,64KG,F,2021
+30004,10840,Diego Oliveira,,Guilherme Silva,W,1,Inside heel hook,ADCC BR1 Trials,66KG,R1,2022
+30012,10840,Diego Oliveira,,Lucas Arraes,W,1,Inside heel hook,ADCC BR1 Trials,66KG,4F,2022
+30016,10840,Diego Oliveira,7657,Cleber Sousa,W,1,Lateral kneebar,ADCC BR1 Trials,66KG,SF,2022
+32875,10840,Diego Oliveira,11889,Keven Carrasco,W,1,Pts: 7x0,World Champ.,64KG,8F,2022
+32879,10840,Diego Oliveira,12573,Sebastian Serpa,W,1,"Pts: 0x0, Adv",World Champ.,64KG,4F,2022
+32881,10840,Diego Oliveira,11823,Diogo Reis,W,1,Pts: 2x0,World Champ.,64KG,SF,2022
+33500,10840,Diego Oliveira,11223,Ethan Crelinsten,W,1,Referee Decision,RAW 2,70KG,SPF,2022
+34787,10840,Diego Oliveira,,Vinny Saenz,W,1,Outside heel hook,JJ Con NG,67KG,4F,2022
+34791,10840,Diego Oliveira,,Giovanni Marcelo,W,1,Lateral kneebar,JJ Con NG,67KG,SF,2022
+34792,10840,Diego Oliveira,11093,Emilio Hernandez,W,1,Lateral kneebar,JJ Con NG,67KG,F,2022
+34817,10840,Diego Oliveira,7519,Eliot Kelly,W,1,Violin armlock,JJ Con NG,ABS,SF,2022
+35005,10840,Diego Oliveira,12491,Keith Krikorian,W,1,Straight ankle lock,ADCC,66KG,R1,2022
+35010,10840,Diego Oliveira,9031,Kennedy Maciel,W,1,Z Lock,ADCC,66KG,4F,2022
+35015,10840,Diego Oliveira,11568,Josh Cisneros,W,1,"Pts: 0x0, Pen",ADCC,66KG,3RD,2022
+37164,10840,Diego Oliveira,,Marko Oikarainen,W,1,Choke from back,European Open,64KG,4F,2023
+37168,10840,Diego Oliveira,13062,Leonardo Mario,W,1,Pts: 3x0,European Open,64KG,SF,2023
+37861,10840,Diego Oliveira,,Nicholas Martinez,W,1,Pts: 20x2,Dallas Open,70KG,SF,2023
+37863,10840,Diego Oliveira,8632,Thiago Macedo,W,1,Triangle,Dallas Open,70KG,F,2023
+37879,10840,Diego Oliveira,,Carlos Neto,W,1,Pts: 8x2,Dallas Open,ABS,4F,2023
+37892,10840,Diego Oliveira,,Jesse Sosa,W,1,Inside heel hook,Dallas NGO,67KG,F,2023
+37929,10840,Diego Oliveira,,Edwin Lucero,W,1,Pts: 5x0,LA Open,70KG,SF,2023
+37931,10840,Diego Oliveira,,Mario Alvarado,W,1,"Pts: 2x2, Adv",LA Open,70KG,F,2023
+38349,10840,Diego Oliveira,,Nicholas Martinez,W,1,Amassa pao,Pan American,64KG,8F,2023
+38356,10840,Diego Oliveira,,Mario Alvarado,W,1,Straight ankle lock,Pan American,64KG,4F,2023
+38360,10840,Diego Oliveira,8536,Yuta Shimada,W,1,Pts: 4x2,Pan American,64KG,SF,2023
+38991,10840,Diego Oliveira,,Marcus Oliveira,W,1,Choke from back,Nashville SPO,70KG,SF,2023
+38993,10840,Diego Oliveira,11919,Daniel Maira,W,1,Choke from back,Nashville SPO,70KG,F,2023
+39788,10840,Diego Oliveira,,Felipe Brito,W,1,Pts: 17x0,Denver Open,70KG,SF,2023
+39789,10840,Diego Oliveira,,Edward Lucero,W,1,Arm in Ezekiel,Denver Open,70KG,F,2023
+39856,10840,Diego Oliveira,,Nicholas Martinez,W,1,N/A,Houston Open,70KG,SF,2023
+39858,10840,Diego Oliveira,12573,Sebastian Serpa,W,1,Adv,Houston Open,70KG,F,2023
+40206,10840,Diego Oliveira,,Andrew Soares,W,1,Pts: 7x2,World Champ.,64KG,8F,2023
+40216,10840,Diego Oliveira,8536,Yuta Shimada,W,1,Pts: 10x0,World Champ.,64KG,4F,2023
+40218,10840,Diego Oliveira,,Diogo Pinheiro,W,1,Pts: 6x4,World Champ.,64KG,SF,2023
+40219,10840,Diego Oliveira,11423,Meyram Maquine,W,1,"Pts: 6x6, Adv",World Champ.,64KG,F,2023
+41633,10840,Diego Oliveira,,Chad Meyers,W,1,Brabo choke,Phoenix Open,70KG,F,2023
+42265,10840,Diego Oliveira,,Sanghyun Lee,W,1,Straight ankle lock,JJ Con,70KG,4F,2023
+42269,10840,Diego Oliveira,,Edward Lucero,W,1,Pts: 10x0,JJ Con,70KG,SF,2023
+42270,10840,Diego Oliveira,,Kazuhiro Suzuki,W,1,Arm in Ezekiel,JJ Con,70KG,F,2023

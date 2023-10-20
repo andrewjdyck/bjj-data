@@ -1,0 +1,5 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+20,27,Rolls Gracie,,Mauricio Robbe,W,1,Submission,Guanabara S.,ABS,F,1973
+21,27,Rolls Gracie,,Edir da Silva,W,1,Armbar,Mello Champ.,ABS,F,1975
+22,27,Rolls Gracie,3505,Sergio Iris,W,1,Submission,C. Interno,ABS,SPF,1976
+24,27,Rolls Gracie,,Paulo Boca,W,1,Referee Decision,C. Zone Norte,ABS,SPF,1977

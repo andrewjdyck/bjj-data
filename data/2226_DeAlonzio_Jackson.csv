@@ -1,0 +1,133 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+3715,2226,DeAlonzio Jackson,875,Lucas Leite,L,0,Referee Decision,NYC World Trials,83KG,F,2012
+4276,2226,DeAlonzio Jackson,1188,Leandro Lo,L,0,"Pts: 0x0, Adv",NoGi Worlds,ABS,4F,2012
+4449,2226,DeAlonzio Jackson,410,Claudio Calasans,L,0,"Pts: 0x0, Pen",European Open,82KG,4F,2013
+4527,2226,DeAlonzio Jackson,425,Bernardo Faria,L,0,Pts: 12x0,Pan American,ABS,4F,2013
+4597,2226,DeAlonzio Jackson,1523,Clark Gracie,L,0,Referee Decision,Pan American,82KG,SF,2013
+4664,2226,DeAlonzio Jackson,410,Claudio Calasans,L,0,"Pts: 0x0, Adv",World Pro,82KG,R1,2013
+4755,2226,DeAlonzio Jackson,886,Leonardo Leite,L,0,Points,World Champ.,ABS,RDS,2013
+4850,2226,DeAlonzio Jackson,,Tio Chico,D,0.5,---,Copa Podio,76KG,GP,2013
+4862,2226,DeAlonzio Jackson,1600,Vinicius Marinho,L,0,Adv,Copa Podio,76KG,GP,2013
+4870,2226,DeAlonzio Jackson,1188,Leandro Lo,L,0,Pts: 6x2,Copa Podio,76KG,SF,2013
+4871,2226,DeAlonzio Jackson,1600,Vinicius Marinho,L,0,Pen,Copa Podio,76KG,3PLC,2013
+4991,2226,DeAlonzio Jackson,4328,AJ Agazarm,L,0,Referee Decision,ADCC,77KG,R1,2013
+5107,2226,DeAlonzio Jackson,2035,Vitor Oliveira,L,0,Points,NoGi Worlds,79KG,SF,2013
+5316,2226,DeAlonzio Jackson,144,Andre Galvao,L,0,Points,Pan American,ABS,R3,2014
+5379,2226,DeAlonzio Jackson,,Diego Hertzog,L,0,"Pts: 2x2, Adv",Pan American,88KG,R1,2014
+5780,2226,DeAlonzio Jackson,5930,Rodrigo Freitas,L,0,Pen,World Champ.,76KG,R1,2014
+8503,2226,DeAlonzio Jackson,2416,Felipe Pena,L,0,RNC,NoGi Worlds,ABS,SF,2015
+9680,2226,DeAlonzio Jackson,,Rustam Chsiev,L,0,EBI/OT,EBI 6,ABS,4F,2016
+12546,2226,DeAlonzio Jackson,10531,John Salter,L,0,Pen,ADCC WC Trials,88KG,F,2017
+12945,2226,DeAlonzio Jackson,224,Roberto Abreu,L,0,Pts: 25x0,Miami SPO,ABS,F,2017
+13424,2226,DeAlonzio Jackson,4789,Marcos Tinoco,L,0,Referee Decision,NY Summer Open,ABS,SF,2017
+13710,2226,DeAlonzio Jackson,,Greg Walker,L,0,"Pts: 0x0, Adv",Washington Open,82KG,F,2017
+13901,2226,DeAlonzio Jackson,8394,Vagner Rocha,L,0,Referee Decision,ADCC,77KG,4F,2017
+16104,2226,DeAlonzio Jackson,6156,Tanner Rice,L,0,"Pts: 0x0, Pen",WP US Qualifier,94KG,RR,2018
+16105,2226,DeAlonzio Jackson,6156,Tanner Rice,L,0,Adv,WP US Qualifier,94KG,RR,2018
+16558,2226,DeAlonzio Jackson,484,Murilo Santana,L,0,"Pts: 0x0, Pen",World Champ.,88KG,R1,2018
+18004,2226,DeAlonzio Jackson,446,Gilbert Burns,L,0,Points,Black Belt CBD,83KG,F,2018
+18093,2226,DeAlonzio Jackson,,V. Hugo,L,0,Pts: 16x0,Spyder Inv. Final,O76KG,SF,2018
+18821,2226,DeAlonzio Jackson,5636,Manuel Ribamar,L,0,Pts: 6x0,Grand Slam AD,85KG,4F,2019
+18858,2226,DeAlonzio Jackson,5636,Manuel Ribamar,L,0,Pts: 9x0,King of Mats II,85KG,RR,2019
+18859,2226,DeAlonzio Jackson,7552,Isaque Bahiense,L,0,Referee Decision,King of Mats II,85KG,RR,2019
+19327,2226,DeAlonzio Jackson,7552,Isaque Bahiense,L,0,Referee Decision,BJJ Stars,88KG,SPF,2019
+19468,2226,DeAlonzio Jackson,5636,Manuel Ribamar,L,0,Referee Decision,F2W 104,85KG,SPF,2019
+19777,2226,DeAlonzio Jackson,484,Murilo Santana,L,0,Referee Decision,F2W 108,85KG,SPF,2019
+19902,2226,DeAlonzio Jackson,4542,Felipe Cesar,L,0,Pts: 15x0,Washington DCO,82KG,SF,2019
+20122,2226,DeAlonzio Jackson,6301,Faisal AlKitbe,L,0,"Pts: 0x0, Adv",World Pro,85KG,SF,2019
+20645,2226,DeAlonzio Jackson,410,Claudio Calasans,L,0,"Pts: 0x0, Adv",World Champ.,82KG,R2,2019
+20856,2226,DeAlonzio Jackson,,K. Steele,L,0,Referee Decision,Third Coast,88KG,SPF,2019
+21257,2226,DeAlonzio Jackson,5238,Edwin Najmi,L,0,Referee Decision,F2W 120,82KG,SPF,2019
+21860,2226,DeAlonzio Jackson,967,JT Torres,L,0,Pts: 3x0,ADCC,77KG,4F,2019
+3714,2226,DeAlonzio Jackson,921,Rafael Barbosa,W,1,Points,NYC World Trials,83KG,SF,2012
+4231,2226,DeAlonzio Jackson,,Unknown,W,1,Wristlock,NoGi Worlds,82KG,R1,2012
+4234,2226,DeAlonzio Jackson,,Jason Manly,W,1,Pts: 11x0,NoGi Worlds,82KG,4F,2012
+4238,2226,DeAlonzio Jackson,2035,Vitor Oliveira,W,1,"Pts: 0x0, Adv",NoGi Worlds,82KG,SF,2012
+4240,2226,DeAlonzio Jackson,1523,Clark Gracie,W,1,Pts: 5x0,NoGi Worlds,82KG,F,2012
+4265,2226,DeAlonzio Jackson,1827,James Puopolo,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,R1,2012
+4272,2226,DeAlonzio Jackson,926,Roberto Alencar,W,1,Pts: 4x0,NoGi Worlds,ABS,8F,2012
+4492,2226,DeAlonzio Jackson,,Rodrigo Breves,W,1,Points,NYC World Trials,83KG,N/A,2013
+4508,2226,DeAlonzio Jackson,,Felipe Matos,W,1,Adv,Pan American,ABS,R1,2013
+4521,2226,DeAlonzio Jackson,607,Gabriel Vella,W,1,Pts: 2x0,Pan American,ABS,R2,2013
+4588,2226,DeAlonzio Jackson,5061,Gabriel Rollo,W,1,Adv,Pan American,82KG,R2,2013
+4595,2226,DeAlonzio Jackson,921,Rafael Barbosa,W,1,Wristlock,Pan American,82KG,4F,2013
+4745,2226,DeAlonzio Jackson,,Magid Hage,W,1,Pts: 2x0,World Champ.,ABS,RDS,2013
+4857,2226,DeAlonzio Jackson,256,Oliver Geddes,W,1,Wristlock,Copa Podio,76KG,GP,2013
+4865,2226,DeAlonzio Jackson,,Rodrigo Magalhaes,W,1,Pts: 2x0,Copa Podio,76KG,GP,2013
+5194,2226,DeAlonzio Jackson,390,Abmar Barbosa,W,1,Pts: 3x0,Boston W. Open,82KG,SF,2013
+5195,2226,DeAlonzio Jackson,1322,Gregor Gracie,W,1,Pts: 2x0,Boston W. Open,82KG,F,2013
+5197,2226,DeAlonzio Jackson,390,Abmar Barbosa,W,1,Points,Boston W. Open,ABS,SF,2013
+5198,2226,DeAlonzio Jackson,921,Rafael Barbosa,W,1,Pts: 6x0,Boston W. Open,ABS,F,2013
+5224,2226,DeAlonzio Jackson,5649,Garry Tonon,W,1,Points,ADCC Nationals,ABS,SPF,2014
+5297,2226,DeAlonzio Jackson,,Unknown,W,1,Submission,Pan American,ABS,R2,2014
+5776,2226,DeAlonzio Jackson,,Unknown,W,1,Wristlock,World Champ.,76KG,R1,2014
+8430,2226,DeAlonzio Jackson,5636,Manuel Ribamar,W,1,Pts: 2x0,NoGi Worlds,79KG,8F,2015
+8433,2226,DeAlonzio Jackson,,Vinicius Agudo,W,1,Pts: 5x0,NoGi Worlds,79KG,4F,2015
+8435,2226,DeAlonzio Jackson,2107,Otavio Sousa,W,1,Referee Decision,NoGi Worlds,79KG,SF,2015
+8437,2226,DeAlonzio Jackson,6354,Jonathan Satava,W,1,Pts: 3x0,NoGi Worlds,79KG,F,2015
+8489,2226,DeAlonzio Jackson,7519,Eliot Kelly,W,1,Referee Decision,NoGi Worlds,ABS,R1,2015
+8495,2226,DeAlonzio Jackson,9338,Guybson Sa,W,1,Pts: 6x0,NoGi Worlds,ABS,8F,2015
+8499,2226,DeAlonzio Jackson,582,Caio Terra,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,4F,2015
+9675,2226,DeAlonzio Jackson,637,Bruno Bastos,W,1,Arm in guillotine,EBI 6,ABS,R1,2016
+10541,2226,DeAlonzio Jackson,,Corey Brown,W,1,Pts: 24x0,Grappling Pro,77KG,4F,2016
+10544,2226,DeAlonzio Jackson,5649,Garry Tonon,W,1,Pts: 7x2,Grappling Pro,77KG,SF,2016
+10545,2226,DeAlonzio Jackson,5655,Lucas Barbosa,W,1,Pts: 6x3,Grappling Pro,77KG,F,2016
+11125,2226,DeAlonzio Jackson,6836,John Combs,W,1,Guillotine,F2W 18,82KG,SPF,2016
+12266,2226,DeAlonzio Jackson,,Vinicius Agudo,W,1,Brabo choke,F2W 29,82KG,SPF,2017
+12530,2226,DeAlonzio Jackson,,Cora Talamoni,W,1,Americana,ADCC WC Trials,88KG,R1,2017
+12537,2226,DeAlonzio Jackson,,Ty Freeman,W,1,Referee Decision,ADCC WC Trials,88KG,8F,2017
+12541,2226,DeAlonzio Jackson,,Kevin Crane,W,1,Pts: 4x0,ADCC WC Trials,88KG,4F,2017
+12545,2226,DeAlonzio Jackson,,Antonio Zuazo,W,1,Pts: 5x0,ADCC WC Trials,88KG,SF,2017
+12938,2226,DeAlonzio Jackson,,Jose Portillo,W,1,N/A,Miami SPO,88KG,SF,2017
+12939,2226,DeAlonzio Jackson,9711,Jurandir Conceicao,W,1,Pts: 3x0,Miami SPO,88KG,F,2017
+12941,2226,DeAlonzio Jackson,,Josh Littleton,W,1,Brabo choke,Miami SPO,ABS,4F,2017
+12943,2226,DeAlonzio Jackson,10501,Valdir Araujo,W,1,Points,Miami SPO,ABS,SF,2017
+13248,2226,DeAlonzio Jackson,8394,Vagner Rocha,W,1,Pts: 25x8,Grappling Pro,77KG,SPF,2017
+13417,2226,DeAlonzio Jackson,7914,Nick Calvanese,W,1,"Pts: 0x0, Adv",NY Summer Open,88KG,SF,2017
+13418,2226,DeAlonzio Jackson,6354,Jonathan Satava,W,1,N/A,NY Summer Open,88KG,F,2017
+13422,2226,DeAlonzio Jackson,,Enrique Galarza,W,1,N/A,NY Summer Open,ABS,4F,2017
+13434,2226,DeAlonzio Jackson,9246,Tex Johnson,W,1,Points,NY S. No-Gi Open,ABS,SF,2017
+13548,2226,DeAlonzio Jackson,1526,James Brasco,W,1,Inside heel hook,F2W 42,88KG,SPF,2017
+13602,2226,DeAlonzio Jackson,8105,Tommy Langaker,W,1,Points,Copa Podio,88KG,RR,2017
+13604,2226,DeAlonzio Jackson,,Kywan Gracie,W,1,"Pts: 0x0, Adv",Copa Podio,88KG,RR,2017
+13606,2226,DeAlonzio Jackson,,F. Andrew,W,1,"Pts: 0x0, Adv",Copa Podio,88KG,RR,2017
+13608,2226,DeAlonzio Jackson,8138,Hugo Marques,W,1,Pts: 4x2,Copa Podio,88KG,RR,2017
+13611,2226,DeAlonzio Jackson,,Gustavo Braguinha,W,1,Adv,Copa Podio,88KG,SF,2017
+13613,2226,DeAlonzio Jackson,,F. Andrew,W,1,Adv,Copa Podio,88KG,F,2017
+13894,2226,DeAlonzio Jackson,8231,Leo Saggioro,W,1,Referee Decision,ADCC,77KG,E1,2017
+14186,2226,DeAlonzio Jackson,,Donghyun Kim,W,1,Pts: 2x0,Spyder Invitational,ABS,SPF,2017
+14272,2226,DeAlonzio Jackson,446,Gilbert Burns,W,1,Referee Decision,F2W 53,82KG,SPF,2017
+15225,2226,DeAlonzio Jackson,,Alberto Gonzalez,W,1,Submission,Spain Nat. Pro,94KG,SF,2018
+15227,2226,DeAlonzio Jackson,7478,Adam Wardzinski,W,1,"Pts: 0x0, Adv",Spain Nat. Pro,94KG,F,2018
+15953,2226,DeAlonzio Jackson,7914,Nick Calvanese,W,1,Referee Decision,F2W 71,84KG,SPF,2018
+16103,2226,DeAlonzio Jackson,6156,Tanner Rice,W,1,"Pts: 0x0, Adv",WP US Qualifier,94KG,RR,2018
+16745,2226,DeAlonzio Jackson,,Sami Baki,W,1,Kimura,Boa Super 8,ABS,4F,2018
+16748,2226,DeAlonzio Jackson,,Stuart Cooper,W,1,Pts: 3x0,Boa Super 8,ABS,SF,2018
+16750,2226,DeAlonzio Jackson,8346,Craig Jones,W,1,"Pts: 0x0, Pen",Boa Super 8,ABS,F,2018
+16932,2226,DeAlonzio Jackson,8346,Craig Jones,W,1,Referee Decision,Spider Inv. 4F,O76KG,SPF,2018
+17014,2226,DeAlonzio Jackson,,Takagi Shota,W,1,Brabo choke,Grand Slam TYO,85KG,4F,2018
+17018,2226,DeAlonzio Jackson,,Alan Fidelis,W,1,Armbar,Grand Slam TYO,85KG,SF,2018
+17020,2226,DeAlonzio Jackson,,Bradley Hill,W,1,Pts: 5x0,Grand Slam TYO,85KG,F,2018
+17620,2226,DeAlonzio Jackson,,Jamie Fletcher,W,1,Guillotine,Subversiv,ABS,SF,2018
+17625,2226,DeAlonzio Jackson,6531,Richie Martinez,W,1,Kimura,Subversiv,ABS,F,2018
+18002,2226,DeAlonzio Jackson,,Rafael Domingos,W,1,Points,Black Belt CBD,83KG,SF,2018
+18855,2226,DeAlonzio Jackson,1824,Roberto Satoshi,W,1,Wristlock,King of Mats II,85KG,RR,2019
+18856,2226,DeAlonzio Jackson,7831,Diego Ramalho,W,1,"Pts: 0x0, Adv",King of Mats II,85KG,RR,2019
+19140,2226,DeAlonzio Jackson,,Marc Akakpovi,W,1,Submission,Netherlands Pro,85KG,SF,2019
+19141,2226,DeAlonzio Jackson,,Arthur Pucci,W,1,Submission,Netherlands Pro,85KG,F,2019
+19900,2226,DeAlonzio Jackson,,Scott Jutras,W,1,Kimura,Washington DCO,82KG,4F,2019
+19911,2226,DeAlonzio Jackson,9640,Brian Beaury,W,1,Injury,Washington DCO,ABS,4F,2019
+19913,2226,DeAlonzio Jackson,1003,Diogo Sampaio,W,1,"Pts: 0x0, Adv",Washington DCO,ABS,SF,2019
+19914,2226,DeAlonzio Jackson,9180,Vinicius Trator,W,1,"Pts: 0x0, Adv",Washington DCO,ABS,F,2019
+20022,2226,DeAlonzio Jackson,6337,Arnaldo Maidana,W,1,Referee Decision,F2W 109,85KG,SPF,2019
+20121,2226,DeAlonzio Jackson,,Viking Wong,W,1,Pts: 3x0,World Pro,85KG,4F,2019
+20127,2226,DeAlonzio Jackson,10399,Philippe Pomaski,W,1,Pts: 2x0,World Pro,85KG,RPC,2019
+20129,2226,DeAlonzio Jackson,9157,Devhonte Johnson,W,1,Referee Decision,World Pro,85KG,3RD,2019
+20480,2226,DeAlonzio Jackson,,Alexandre Pimentel,W,1,Points,Miami SPO,82KG,SF,2019
+20482,2226,DeAlonzio Jackson,9640,Brian Beaury,W,1,Points,Miami SPO,82KG,F,2019
+20512,2226,DeAlonzio Jackson,,Enrique Galarza,W,1,Submission,High Rollerz,ABS,4F,2019
+20513,2226,DeAlonzio Jackson,,Evani Chavez,W,1,Submission,High Rollerz,ABS,SF,2019
+20514,2226,DeAlonzio Jackson,,Michael Egley,W,1,Submission,High Rollerz,ABS,F,2019
+20643,2226,DeAlonzio Jackson,8081,Nathan Mendelsohn,W,1,Points,World Champ.,82KG,R1,2019
+21001,2226,DeAlonzio Jackson,,Ruben Rivera,W,1,EBI/OT,Subversiv 2,75KG,SPF,2019
+21852,2226,DeAlonzio Jackson,6836,John Combs,W,1,Pts: 5x0,ADCC,77KG,R1,2019

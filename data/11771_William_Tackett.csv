@@ -1,0 +1,62 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+22535,11771,William Tackett,9246,Tex Johnson,L,0,EBI/OT,BJJ Fanatics,ABS,4F,2019
+23752,11771,William Tackett,11991,Pedro Marinho,L,0,Points,3CG Kumite,88KG,4F,2020
+23773,11771,William Tackett,10880,Roberto Jimenez,L,0,Pts: 3x0,Jitz King,84KG,4F,2020
+24332,11771,William Tackett,5655,Lucas Barbosa,L,0,Referee Decision,Subversiv 4,ABS,F,2020
+25580,11771,William Tackett,10159,Victor Hugo,L,0,Points,3CG 6 Absolute,ABS,4F,2021
+25949,11771,William Tackett,8394,Vagner Rocha,L,0,Referee Decision,F2W 171,84KG,SPF,2021
+25965,11771,William Tackett,12003,Tye Ruotolo,L,0,Referee Decision,WNO 8,83KG,SPF,2021
+26922,11771,William Tackett,5655,Lucas Barbosa,L,0,Pts: 33x0,Road to ADCC,88KG,SPF,2021
+27081,11771,William Tackett,1188,Leandro Lo,L,0,Injury,BJJ Bet,88KG,SF,2021
+27903,11771,William Tackett,12122,Mica Galvao,L,0,Referee Decision,WNO Champ.,84KG,4F,2021
+27923,11771,William Tackett,13162,Jacob Couch,L,0,Referee Decision,WNO Champ.,84KG,3RD,2021
+28871,11771,William Tackett,12005,Kade Ruotolo,L,0,Referee Decision,ADCC EC Trials,77KG,F,2021
+35017,11771,William Tackett,,Mateusz Szczecinski,L,0,Straight ankle lock,ADCC,77KG,R1,2022
+40027,11771,William Tackett,13076,Francisco Lo,L,0,Referee Decision,WNO 18,84KG,SPF,2023
+20982,11771,William Tackett,,E. Hernandez,W,1,Armbar,Jitz King,75KG,R1,2019
+20987,11771,William Tackett,7247,Enrico Cocco,W,1,Outside heel hook,Jitz King,75KG,4F,2019
+20988,11771,William Tackett,,Werther Marciales,W,1,RNC,Jitz King,75KG,SF,2019
+20989,11771,William Tackett,,Mauricio Gomez,W,1,Pts: 12x0,Jitz King,75KG,F,2019
+21315,11771,William Tackett,,Mike Dewitt,W,1,Outside heel hook,MDW Finishers,77KG,R1,2019
+21317,11771,William Tackett,,Michael Carpenter,W,1,Calf slicer,MDW Finishers,77KG,4F,2019
+21318,11771,William Tackett,,P.O. Leclarc,W,1,EBI/OT,MDW Finishers,77KG,SF,2019
+21319,11771,William Tackett,,A. Sanchez,W,1,Kneebar,MDW Finishers,77KG,F,2019
+21392,11771,William Tackett,,Nick Ronan,W,1,Pts: 9x0,Kasai Pro 6,N/A,SPF,2019
+22521,11771,William Tackett,,Harry Gretch,W,1,Calf slicer,BJJ Fanatics,ABS,R1,2019
+22529,11771,William Tackett,,Nick Fiore,W,1,EBI/OT,BJJ Fanatics,ABS,R2,2019
+22540,11771,William Tackett,,Tom Cellamare,W,1,RNC,Grappling Idiots,ABS,4F,2019
+22541,11771,William Tackett,4542,Felipe Cesar,W,1,RNC,Grappling Idiots,ABS,SF,2019
+22542,11771,William Tackett,,Athos Miranda,W,1,RNC,Grappling Idiots,ABS,F,2019
+22937,11771,William Tackett,,Piter Taube,W,1,Toe hold,TMS Pro,ABS,RR,2019
+22938,11771,William Tackett,,Saar Shemesh,W,1,Calf Slicer,TMS Pro,ABS,RR,2019
+22939,11771,William Tackett,,Nimrod Ryder,W,1,RNC,TMS Pro,ABS,RR,2019
+22940,11771,William Tackett,,Alan Surmunt,W,1,Toe hold,TMS Pro,ABS,RR,2019
+22941,11771,William Tackett,,Omer Emanoely,W,1,Kneebar,TMS Pro,ABS,RR,2019
+23765,11771,William Tackett,,Jay Jay Wilson,W,1,Points,Jitz King,84KG,R1,2020
+23843,11771,William Tackett,,Aaron Harris,W,1,Katagatame,Sub Spectrum,84KG,SF,2020
+23844,11771,William Tackett,11808,Andrew Wiltse,W,1,Inside heel hook,Sub Spectrum,84KG,F,2020
+24083,11771,William Tackett,10759,Jason Rau,W,1,Triangle armlock,WNO 4,85KG,SPF,2020
+24088,11771,William Tackett,,Gabriel Checco,W,1,RNC,SUG 18,N/A,SPF,2020
+24302,11771,William Tackett,,N/A,W,1,Outside heel hook,Subversiv 4,ABS,R1,2020
+24316,11771,William Tackett,9246,Tex Johnson,W,1,Katagatame,Subversiv 4,ABS,4F,2020
+24325,11771,William Tackett,,G. Mione,W,1,RNC,Subversiv 4,ABS,SF,2020
+24991,11771,William Tackett,8514,Fellipe Andrew,W,1,Inside heel hook,Third Coast,ABS,SPF,2020
+25030,11771,William Tackett,6836,John Combs,W,1,Referee Decision,F2W 160,84KG,SPF,2021
+25257,11771,William Tackett,5636,Manuel Ribamar,W,1,Outside heel hook,F2W 166,84KG,SPF,2021
+27077,11771,William Tackett,431,Rousimar Palhares,W,1,Pts: 9x0,BJJ Bet,88KG,4F,2021
+27922,11771,William Tackett,8116,Dante Leon,W,1,Calf slicer,WNO Champ.,84KG,RPC,2021
+28827,11771,William Tackett,,H. Whyte,W,1,Inside heel hook,ADCC EC Trials,77KG,R2,2021
+28840,11771,William Tackett,,D. Braithwaite,W,1,Inside heel hook,ADCC EC Trials,77KG,R3,2021
+28853,11771,William Tackett,,Kirk Breneman,W,1,Inside heel hook,ADCC EC Trials,77KG,R4,2021
+28864,11771,William Tackett,,JZ Cavalcante,W,1,Pts: 10x0,ADCC EC Trials,77KG,R5,2021
+28868,11771,William Tackett,,Pierre Leclerc,W,1,Pts: 5x0,ADCC EC Trials,77KG,4F,2021
+28870,11771,William Tackett,11049,Kody Steele,W,1,Referee Decision,ADCC EC Trials,77KG,SF,2021
+31412,11771,William Tackett,,Forest Fraijo,W,1,Yoko sankaku,ADCC WC Trials,77KG,R2,2022
+31430,11771,William Tackett,,Michael Zindler,W,1,Outside heel hook,ADCC WC Trials,77KG,R3,2022
+31440,11771,William Tackett,,Bobby Winther,W,1,RNC,ADCC WC Trials,77KG,R4,2022
+31452,11771,William Tackett,,Nick Ronan,W,1,RNC,ADCC WC Trials,77KG,8F,2022
+31459,11771,William Tackett,6354,Jonathan Satava,W,1,Reverse triangle,ADCC WC Trials,77KG,4F,2022
+31464,11771,William Tackett,,Chris Wojcik,W,1,Pts: 4x0,ADCC WC Trials,77KG,SF,2022
+31465,11771,William Tackett,12703,Andy Varela,W,1,Pts: 4x2,ADCC WC Trials,77KG,F,2022
+37834,11771,William Tackett,,Kenta Iwamoto,W,1,Pts: 8x6,Unrivaled 2,SPF,84KG,2023
+41102,11771,William Tackett,,Bradley Hill,W,1,Ezekiel,GrappleFest 16,NA,SPF,2023

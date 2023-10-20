@@ -1,0 +1,29 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+281,292,Leonardo Santos,515,Royler Gracie,L,0,Adv,World Champ.,70KG,SF,1999
+389,292,Leonardo Santos,687,Marcio Feitosa,L,0,Adv,World Champ.,76KG,SF,2000
+479,292,Leonardo Santos,437,Fernando Terere,L,0,Pts: 4x0,Rio x Sao Paulo,75KG,SPF,2000
+517,292,Leonardo Santos,1858,Matt Serra,L,0,RNC,ADCC,77KG,SF,2001
+591,292,Leonardo Santos,687,Marcio Feitosa,L,0,Adv,World Champ.,76KG,F,2001
+1182,292,Leonardo Santos,16,Marcelo Garcia,L,0,"Pts: 0x0, Pen",ADCC,77KG,SF,2005
+1183,292,Leonardo Santos,1031,Jake Shields,L,0,RNC,ADCC,77KG,3PLC,2005
+1225,292,Leonardo Santos,,A. Cacareco,L,0,Heel hook,ADCC,ABS,R1,2005
+2251,292,Leonardo Santos,1322,Gregor Gracie,L,0,Pen,ADCC,77KG,4F,2009
+259,292,Leonardo Santos,6176,Suyan Queiroz,D,0.5,---,Brasileiro,82KG,SF,1999
+513,292,Leonardo Santos,419,Leonardo Vieira,W,1,Pts: 3x0,ADCC,77KG,4F,2001
+519,292,Leonardo Santos,10579,Rodrigo Gracie,W,1,Pts: 2x0,ADCC,77KG,3PLC,2001
+932,292,Leonardo Santos,,Roberto Werneck,W,1,Baseball choke,World Cup,76KG,4F,2003
+934,292,Leonardo Santos,,Rodrigo Feijao,W,1,Clock choke,World Cup,76KG,F,2003
+962,292,Leonardo Santos,,M. Hayakawa,W,1,Armbar,Shotoo,ABS,SPF,2004
+968,292,Leonardo Santos,396,Carlos Portugues,W,1,Pts: 9x0,BB Challenge 3,76KG,SPF,2004
+1080,292,Leonardo Santos,,Ricardo Luiz,W,1,Pts: 9x0,World Cup,76KG,R1,2004
+1081,292,Leonardo Santos,,Jackson Moura,W,1,Choke from back,World Cup,76KG,R2,2004
+1082,292,Leonardo Santos,,Gabriel Willcox,W,1,Choke from back,World Cup,76KG,4F,2004
+1108,292,Leonardo Santos,,Gustavo Falcirolli,W,1,Pts: 2x0,GP Blackbelt,70KG,R1,2004
+1113,292,Leonardo Santos,819,Fredson Paixao,W,1,Pts: 5x0,GP Blackbelt,70KG,SF,2004
+1114,292,Leonardo Santos,1149,Reinaldo Ribeiro,W,1,Pts: 4x0,GP Blackbelt,70KG,F,2004
+1175,292,Leonardo Santos,,Jason Brudvik,W,1,Points,ADCC,77KG,R1,2005
+1178,292,Leonardo Santos,,George St Pierre,W,1,Flying armbar,ADCC,77KG,4F,2005
+1260,292,Leonardo Santos,,Rodrigo Feijao,W,1,Katagatame,World Cup,76KG,F,2005
+1272,292,Leonardo Santos,,Roberto Ribeiro,W,1,Ezekiel,World Cup,75KG,SF,2005
+1334,292,Leonardo Santos,,Daisuke Sugie,W,1,Ezekiel,Bull Terrier Pro,ABS,SPF,2005
+2248,292,Leonardo Santos,,Yoshiyuki Yoshida,W,1,Points,ADCC,77KG,R1,2009

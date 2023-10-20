@@ -1,0 +1,58 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23963,11568,Joshua Cisneros,6103,Isaac Doederlein,L,0,Pts: 2x0,Austin Open,70KG,F,2020
+25757,11568,Joshua Cisneros,9031,Kennedy Maciel,L,0,RNC,F2W 169,65KG,SPF,2021
+25793,11568,Joshua Cisneros,9094,Richar Nogueira,L,0,Referee Decision,Houston Open,70KG,F,2021
+26099,11568,Joshua Cisneros,10840,Diego Oliveira,L,0,Kneebar,NoGi Pan Am.,67KG,F,2021
+27553,11568,Joshua Cisneros,9051,Gabriel Sousa,L,0,Pts: 4x2,Pan American,70KG,8F,2021
+27557,11568,Joshua Cisneros,9051,Gabriel Sousa,L,0,Pts: 4x2,Pan American,70KG,8F,2021
+27911,11568,Joshua Cisneros,12005,Kade Ruotolo,L,0,Injury,WNO Champ.,70KG,SF,2021
+27919,11568,Joshua Cisneros,10840,Diego Oliveira,L,0,RNC,WNO Champ.,70KG,3RD,2021
+30892,11568,Joshua Cisneros,12115,Kieran Kichuk,L,0,EBI/OT,Emerald City,70KG,4F,2022
+30940,11568,Joshua Cisneros,9031,Kennedy Maciel,L,0,Pts: 4x2,LA Open,70KG,SF,2022
+31526,11568,Joshua Cisneros,12491,Keith Krikorian,L,0,Inside heel hook,ADCC WC Trials,66KG,F,2022
+32896,11568,Joshua Cisneros,8632,Thiago Macedo,L,0,Pts: 2x0,World Champ.,70KG,8F,2022
+35013,11568,Joshua Cisneros,11823,Diogo Reis,L,0,Pts: 2x0,ADCC,66KG,SF,2022
+35015,11568,Joshua Cisneros,10840,Diego Oliveira,L,0,"Pts: 0x0, Pen",ADCC,66KG,3RD,2022
+39380,11568,Joshua Cisneros,11510,Samuel Nagai,L,0,Referee Decision,F2W 227,70KG,SPF,2023
+39792,11568,Joshua Cisneros,11248,Jonata Gomes,L,0,"Pts: 0x0, Adv",Denver Open,76KG,4F,2023
+39900,11568,Joshua Cisneros,11862,Pedro Alex,L,0,Points,Houston Open,ABS,R1,2023
+40033,11568,Joshua Cisneros,11510,Samuel Nagai,L,0,Referee Decision,F2W 227,70KG,SPF,2023
+40058,11568,Joshua Cisneros,12918,Daniel Sathler,L,0,Points,SD Open,ABS,R1,2023
+23958,11568,Joshua Cisneros,8632,Thiago Macedo,W,1,"Pts: 2x2, Adv",Austin Open,70KG,4F,2020
+23961,11568,Joshua Cisneros,11093,Emilio Hernandez,W,1,Triangle,Austin Open,70KG,SF,2020
+24117,11568,Joshua Cisneros,,Joao Soeiro,W,1,Pts: 12x6,Pan American,64KG,R1,2020
+24121,11568,Joshua Cisneros,2999,Paulo Miyao,W,1,Referee Decision,Pan American,64KG,4F,2020
+24125,11568,Joshua Cisneros,,Elijah Tagalog,W,1,Choke from back,Pan American,64KG,SF,2020
+24126,11568,Joshua Cisneros,8305,Pedro Dias,W,1,"Pts: 2x2, Adv",Pan American,64KG,F,2020
+24551,11568,Joshua Cisneros,10953,Danilo Moreira,W,1,Pts: 4x0,American Nats,70KG,4F,2020
+24554,11568,Joshua Cisneros,9094,Richar Nogueira,W,1,"Pts: 0x0, Adv",American Nats,70KG,SF,2020
+24556,11568,Joshua Cisneros,6103,Isaac Doederlein,W,1,Pts: 4x2,American Nats,70KG,F,2020
+25258,11568,Joshua Cisneros,6043,Lucas Pinheiro,W,1,Referee Decision,F2W 166,65KG,SPF,2021
+25594,11568,Joshua Cisneros,,Cody Stevens,W,1,Short choke,QC Grappling,ABS,4F,2021
+25596,11568,Joshua Cisneros,,Tyler Buechner,W,1,Triangle,QC Grappling,ABS,SF,2021
+25597,11568,Joshua Cisneros,,David Garcia,W,1,RNC,QC Grappling,ABS,SF,2021
+25598,11568,Joshua Cisneros,11093,Emilio Hernandez,W,1,50/50 armbar,QC Grappling,ABS,F,2021
+25791,11568,Joshua Cisneros,12419,Daniel Diniz,W,1,Adv,Houston Open,70KG,SF,2021
+26091,11568,Joshua Cisneros,,Scott Dance,W,1,Triangle,NoGi Pan Am.,67KG,8F,2021
+26095,11568,Joshua Cisneros,,Fernando Jesus,W,1,RNC,NoGi Pan Am.,67KG,4F,2021
+26097,11568,Joshua Cisneros,11338,Thiago Abud,W,1,Pts: 4x0,NoGi Pan Am.,67KG,SF,2021
+27028,11568,Joshua Cisneros,9031,Kennedy Maciel,W,1,Referee Decision,F2W 179,70KG,SPF,2021
+27907,11568,Joshua Cisneros,,Demian Anderson,W,1,Armbar,WNO Champ.,70KG,4F,2021
+28742,11568,Joshua Cisneros,,Erzhan Batyrov,W,1,RNC,AIGA World,70KG,R1,2021
+28744,11568,Joshua Cisneros,8525,Alexandre Vieira,W,1,Triangle,AIGA World,70KG,4F,2021
+28746,11568,Joshua Cisneros,,Aidar Tuleibayev,W,1,Pts: 3x0,AIGA World,70KG,SF,2021
+28748,11568,Joshua Cisneros,,Bilal Benmahammed,W,1,Kimura,AIGA World,70KG,F,2021
+31474,11568,Joshua Cisneros,,Mateen Stevens,W,1,Reverse triangle,ADCC WC Trials,66KG,R1,2022
+31489,11568,Joshua Cisneros,,Juan Londono,W,1,Reverse triangle,ADCC WC Trials,66KG,R2,2022
+31505,11568,Joshua Cisneros,,Blake Bradshaw,W,1,Kneebar,ADCC WC Trials,66KG,R3,2022
+31512,11568,Joshua Cisneros,8814,Adam Benayoun,W,1,Referee Decision,ADCC WC Trials,66KG,8F,2022
+31523,11568,Joshua Cisneros,,Gavin Corbe,W,1,Armbar,ADCC WC Trials,66KG,4F,2022
+31525,11568,Joshua Cisneros,4248,Gianni Grippo,W,1,Kneebar,ADCC WC Trials,66KG,SF,2022
+32889,11568,Joshua Cisneros,,Matheus Onda,W,1,Pts: 4x2,World Champ.,70KG,R1,2022
+34555,11568,Joshua Cisneros,12491,Keith Krikorian,W,1,Referee Decision,F2W 209,70KG,SPF,2022
+35006,11568,Joshua Cisneros,11223,Ethan Crelinsten,W,1,Armbar,ADCC,66KG,R1,2022
+35009,11568,Joshua Cisneros,12751,Sam McNally,W,1,Referee Decision,ADCC,66KG,4F,2022
+40041,11568,Joshua Cisneros,12918,Daniel Sathler,W,1,Adv,SD Open,76KG,SF,2023
+41203,11568,Joshua Cisneros,13487,Marco Mendes,W,1,Points,American NNG,73KG,4F,2023
+41206,11568,Joshua Cisneros,,Andrew Alexander,W,1,Kimura,American NNG,73KG,SF,2023
+41207,11568,Joshua Cisneros,13192,Carlos Henrique,W,1,"Pts: 0x0, Adv",American NNG,73KG,F,2023

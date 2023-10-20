@@ -1,0 +1,122 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2364,425,Bernardo Faria,505,Roger Gracie,L,0,Ezekiel,World Champ.,100KG,SF,2009
+2502,425,Bernardo Faria,543,Rodrigo Cavaca,L,0,Points,European,ABS,SF,2010
+2566,425,Bernardo Faria,576,Rafael Lovato,L,0,Pts: 7x0,Pan American,94KG,F,2010
+2744,425,Bernardo Faria,320,Romulo Barral,L,0,Triangle,World Champ.,ABS,4F,2010
+2840,425,Bernardo Faria,410,Claudio Calasans,L,0,"Pts: 4x4, Adv",European,ABS,SF,2011
+2894,425,Bernardo Faria,247,Rodolfo Vieira,L,0,Pts: 8x0,Pan American,94KG,F,2011
+2899,425,Bernardo Faria,247,Rodolfo Vieira,L,0,"Pts: 0x0, Adv",Pan American,ABS,F,2011
+2920,425,Bernardo Faria,1236,Antonio Carlos,L,0,Triangle-armbar,World Pro.,92KG,4F,2011
+2996,425,Bernardo Faria,247,Rodolfo Vieira,L,0,Pts: 9x0,World Champ.,ABS,F,2011
+3153,425,Bernardo Faria,247,Rodolfo Vieira,L,0,Pts: 3x0,World Champ.,94KG,F,2011
+3528,425,Bernardo Faria,247,Rodolfo Vieira,L,0,Pts: 7x0,European Open,ABS,F,2012
+3561,425,Bernardo Faria,1236,Antonio Carlos,L,0,Pts: 4x2,Pan American,ABS,SF,2012
+3818,425,Bernardo Faria,84,Alexandre Ribeiro,L,0,Pts: 2x0,World Pro.,99KG,F,2012
+3828,425,Bernardo Faria,247,Rodolfo Vieira,L,0,Mounted X choke,World Pro.,ABS,SF,2012
+3912,425,Bernardo Faria,984,Marcus Almeida,L,0,Choke from back,World Champ.,ABS,SF,2012
+4258,425,Bernardo Faria,644,Joao Assis,L,0,Pts: 3x0,NoGi Worlds,100KG,SF,2012
+4279,425,Bernardo Faria,84,Alexandre Ribeiro,L,0,Pts: 3x0,NoGi Worlds,ABS,SF,2012
+4529,425,Bernardo Faria,984,Marcus Almeida,L,0,Pts: 9x2,Pan American,ABS,SF,2013
+4760,425,Bernardo Faria,984,Marcus Almeida,L,0,Pts: 7x4,World Champ.,ABS,SF,2013
+5415,425,Bernardo Faria,3122,Luiz Panza,L,0,Armbar,Pan American,100KG,F,2014
+5724,425,Bernardo Faria,247,Rodolfo Vieira,L,0,Wristlock,World Champ.,ABS,SF,2014
+5851,425,Bernardo Faria,247,Rodolfo Vieira,L,0,Armbar,World Champ.,100KG,F,2014
+6015,425,Bernardo Faria,1740,Yuri Simoes,L,0,Armbar,NoGi Worlds,ABS,SF,2014
+10106,425,Bernardo Faria,4521,Erberth Santos,L,0,Armbar,World Champ.,ABS,SF,2016
+13038,425,Bernardo Faria,3122,Luiz Panza,L,0,"Pts: 4x4, Adv",World Champ.,ABS,4F,2017
+13210,425,Bernardo Faria,4521,Erberth Santos,L,0,Pts: 9x0,World Champ.,100KG,F,2017
+2203,425,Bernardo Faria,,Mauro Celso,W,1,Pts: 4x0,Brasileiro NoGi,94KG,F,2009
+2360,425,Bernardo Faria,559,Rodrigo Comprido,W,1,Pts: 5x2,World Champ.,100KG,R1,2009
+2562,425,Bernardo Faria,,Felipe Fogolin,W,1,Armbar,Pan American,94KG,4F,2010
+2582,425,Bernardo Faria,390,Abmar Barbosa,W,1,Points,Pan American,ABS,R2,2010
+2585,425,Bernardo Faria,607,Gabriel Vella,W,1,Pts: 2x0,Pan American,ABS,4F,2010
+2588,425,Bernardo Faria,543,Rodrigo Cavaca,W,1,Points,Pan American,ABS,SF,2010
+2590,425,Bernardo Faria,387,Braga Neto,W,1,Pts: 2x0,Pan American,ABS,F,2010
+2658,425,Bernardo Faria,576,Rafael Lovato,W,1,Pts: 3x0,Brasileiro,ABS,F,2010
+2710,425,Bernardo Faria,,Adriano Maciel,W,1,Mounted X choke,World Champ.,94KG,R1,2010
+2712,425,Bernardo Faria,,Alexandro Ceconi,W,1,Points,World Champ.,94KG,4F,2010
+2715,425,Bernardo Faria,576,Rafael Lovato,W,1,Points,World Champ.,94KG,SF,2010
+2717,425,Bernardo Faria,84,Alexandre Ribeiro,W,1,Pts: 2x0,World Champ.,94KG,F,2010
+2836,425,Bernardo Faria,3443,Leonardo Davila,W,1,Armbar,European,ABS,R1,2011
+2837,425,Bernardo Faria,868,B. Matias,W,1,Points,European,ABS,4F,2011
+2848,425,Bernardo Faria,,Fabiano Alves,W,1,Triangle,European,94KG,4F,2011
+2849,425,Bernardo Faria,671,Helvecio Penna,W,1,N/A,European,94KG,SF,2011
+2860,425,Bernardo Faria,,Thiago Souza,W,1,Omoplata,World Pro Trials,O92KG,SF,2011
+2862,425,Bernardo Faria,680,Igor Silva,W,1,Pts: 7x2,World Pro Trials,O92KG,F,2011
+2893,425,Bernardo Faria,926,Roberto Alencar,W,1,Armbar,Pan American,94KG,SF,2011
+2984,425,Bernardo Faria,,Unknown,W,1,Omoplata,World Champ.,ABS,R2,2011
+2989,425,Bernardo Faria,,Unknown,W,1,Choke,World Champ.,ABS,R3,2011
+2993,425,Bernardo Faria,576,Rafael Lovato,W,1,Pts: 2x0,World Champ.,ABS,4F,2011
+2995,425,Bernardo Faria,474,Alexandre Ceconi,W,1,Pts: 4x0,World Champ.,ABS,SF,2011
+3079,425,Bernardo Faria,,Luciando Queiroz,W,1,N/A,World Champ.,94KG,RDS,2011
+3121,425,Bernardo Faria,,Luke Stewart,W,1,Triangle,World Champ.,94KG,4F,2011
+3519,425,Bernardo Faria,,Lucio Lagarto,W,1,Pts: 4x0,European Open,100KG,F,2012
+3525,425,Bernardo Faria,926,Roberto Alencar,W,1,Omoplata,European Open,ABS,4F,2012
+3527,425,Bernardo Faria,576,Rafael Lovato,W,1,Pts: 4x2,European Open,ABS,SF,2012
+3532,425,Bernardo Faria,,George Murphy,W,1,Armbar,Pan American,ABS,R1,2012
+3553,425,Bernardo Faria,,Diogo Silva,W,1,Leglock,Pan American,ABS,R2,2012
+3558,425,Bernardo Faria,1827,James Puopolo,W,1,Armbar,Pan American,ABS,4F,2012
+3652,425,Bernardo Faria,,Vitor Schlosser,W,1,Points,Pan American,100KG,4F,2012
+3656,425,Bernardo Faria,644,Joao Assis,W,1,Pts: 3x2,Pan American,O100KG,SF,2012
+3658,425,Bernardo Faria,1236,Antonio Carlos,W,1,Pts: 10x5,Pan American,O100KG,F,2012
+3813,425,Bernardo Faria,,Christopher Bowe,W,1,N/A,World Pro.,99KG,4F,2012
+3816,425,Bernardo Faria,449,Alexandre Souza,W,1,Pts: 2x0,World Pro.,99KG,SF,2012
+3891,425,Bernardo Faria,256,Oliver Geddes,W,1,Points,World Champ.,ABS,R2,2012
+3902,425,Bernardo Faria,,Marcos de Souza,W,1,N/A,World Champ.,ABS,R2,2012
+3910,425,Bernardo Faria,224,Roberto Abreu,W,1,Armbar,World Champ.,ABS,4F,2012
+4115,425,Bernardo Faria,1440,Rodrigo Ranieri,W,1,Submission,World Champ.,100KG,R2,2012
+4121,425,Bernardo Faria,,Andre Simoes,W,1,Katagatame,World Champ.,100KG,4F,2012
+4124,425,Bernardo Faria,,Andre Campos,W,1,Baseball choke,World Champ.,100KG,SF,2012
+4254,425,Bernardo Faria,1827,James Puopolo,W,1,Points,NoGi Worlds,100KG,4F,2012
+4278,425,Bernardo Faria,1290,Tarcisio Jardim,W,1,RNC,NoGi Worlds,ABS,4F,2012
+4299,425,Bernardo Faria,8714,Max Carvalho,W,1,Points,European NoGi,ABS,SF,2012
+4429,425,Bernardo Faria,2235,Renato Cardoso,W,1,Omoplata,European Open,ABS,4F,2013
+4434,425,Bernardo Faria,410,Claudio Calasans,W,1,Pts: 4x0,European Open,ABS,SF,2013
+4459,425,Bernardo Faria,1263,Lucio Rodrigues,W,1,Pts: 4x0,European Open,100KG,F,2013
+4511,425,Bernardo Faria,,Unknown,W,1,Submission,Pan American,ABS,R1,2013
+4523,425,Bernardo Faria,,Brent Primus,W,1,Armbar,Pan American,ABS,R2,2013
+4527,425,Bernardo Faria,2226,DJ Jackson,W,1,Pts: 12x0,Pan American,ABS,4F,2013
+4737,425,Bernardo Faria,,Israel Reyes,W,1,N/A,World Champ.,ABS,RDS,2013
+4750,425,Bernardo Faria,7224,Diogo Almeida,W,1,N/A,World Champ.,ABS,RDS,2013
+4757,425,Bernardo Faria,1188,Leandro Lo,W,1,Points,World Champ.,ABS,4F,2013
+4815,425,Bernardo Faria,,Lucas Sachs,W,1,Triangle armbar,World Champ.,100KG,4F,2013
+4819,425,Bernardo Faria,3122,Luiz Panza,W,1,Triangle,World Champ.,100KG,SF,2013
+4821,425,Bernardo Faria,2403,Joao Rocha,W,1,Pts: 6x0,World Champ.,100KG,F,2013
+5405,425,Bernardo Faria,,Roger Ambrosi,W,1,Submission,Pan American,100KG,R1,2014
+5410,425,Bernardo Faria,,Bernardo Siqueira,W,1,Choke from back,Pan American,100KG,4F,2014
+5413,425,Bernardo Faria,,Andre Campos,W,1,Submission,Pan American,100KG,SF,2014
+5701,425,Bernardo Faria,,Gustavo Silva,W,1,Choke,World Champ.,ABS,R2,2014
+5711,425,Bernardo Faria,3083,Abraham Marte,W,1,Armbar,World Champ.,ABS,R3,2014
+5720,425,Bernardo Faria,422,Braulio Estima,W,1,Pts: 8x0,World Champ.,ABS,4F,2014
+5848,425,Bernardo Faria,680,Igor Silva,W,1,Choke from back,World Champ.,100KG,4F,2014
+5850,425,Bernardo Faria,1740,Yuri Simoes,W,1,Pts: 8x5,World Champ.,100KG,SF,2014
+6006,425,Bernardo Faria,3200,Jackson Sousa,W,1,Pts: 9x2,NoGi Worlds,ABS,RDS,2014
+6010,425,Bernardo Faria,7096,Josh Hinger,W,1,Armbar,NoGi Worlds,ABS,4F,2014
+6096,425,Bernardo Faria,5726,Gustavo Pires,W,1,Triangle,IBJJF Pro League,O100KG,SF,2014
+6097,425,Bernardo Faria,3122,Luiz Panza,W,1,Choke from back,IBJJF Pro League,O100KG,F,2014
+6118,425,Bernardo Faria,,Tiago Giussani,W,1,Kneebar,NYC Pro,O100KG,SF,2014
+6119,425,Bernardo Faria,3083,Abraham Marte,W,1,Kneebar,NYC Pro,O100KG,F,2014
+6751,425,Bernardo Faria,,Daniel Cobb,W,1,Kneebar,Pan American,ABS,R2,2015
+6762,425,Bernardo Faria,4328,AJ Agazarm,W,1,Points,Pan American,ABS,R3,2015
+6768,425,Bernardo Faria,3122,Luiz Panza,W,1,Pts: 9x4,Pan American,ABS,4F,2015
+6772,425,Bernardo Faria,1757,Alexander Trans,W,1,Pts: 2x0,Pan American,ABS,SF,2015
+6774,425,Bernardo Faria,1188,Leandro Lo,W,1,Lapel choke,Pan American,ABS,F,2015
+6879,425,Bernardo Faria,562,Eduardo Telles,W,1,Pts: 8x0,Pan American,100KG,4F,2015
+6883,425,Bernardo Faria,4521,Erberth Santos,W,1,Kneebar,Pan American,100KG,SF,2015
+7390,425,Bernardo Faria,926,Roberto Alencar,W,1,Bow and arrow,World Champ.,ABS,8F,2015
+7392,425,Bernardo Faria,4521,Erberth Santos,W,1,Kneebar,World Champ.,ABS,4F,2015
+7395,425,Bernardo Faria,1188,Leandro Lo,W,1,Armbar,World Champ.,ABS,SF,2015
+7507,425,Bernardo Faria,,Pedro Moura,W,1,Armbar,World Champ.,100KG,4F,2015
+7508,425,Bernardo Faria,680,Igor Silva,W,1,Kneebar,World Champ.,100KG,SF,2015
+7510,425,Bernardo Faria,2403,Joao Rocha,W,1,Pts: 8x2,World Champ.,100KG,F,2015
+9381,425,Bernardo Faria,,Ezra Lenon,W,1,Dogbar,Pan American,ABS,R2,2016
+9385,425,Bernardo Faria,4235,Victor Silverio,W,1,Triangle,Pan American,ABS,8F,2016
+9393,425,Bernardo Faria,6071,Gabriel Arges,W,1,Dogbar,Pan American,ABS,4F,2016
+9394,425,Bernardo Faria,4310,Tim Spriggs,W,1,Choke from back,Pan American,ABS,SF,2016
+9396,425,Bernardo Faria,1188,Leandro Lo,W,1,Arm in Ezekiel,Pan American,ABS,F,2016
+10087,425,Bernardo Faria,9246,Tex Johnson,W,1,Triangle armbar,World Champ.,ABS,R2,2016
+10097,425,Bernardo Faria,474,Alexandre Ceconi,W,1,Dogbar/Kneebar,World Champ.,ABS,8F,2016
+10105,425,Bernardo Faria,543,Rodrigo Cavaca,W,1,Points,World Champ.,ABS,4F,2016
+13031,425,Bernardo Faria,10501,Valdir Araujo,W,1,Pts: 16x0,World Champ.,ABS,8F,2017
+13207,425,Bernardo Faria,1986,Vitor Toledo,W,1,Pts: 5x2,World Champ.,100KG,4F,2017
+13209,425,Bernardo Faria,3122,Luiz Panza,W,1,"Pts: 6x6, Adv",World Champ.,100KG,SF,2017

@@ -1,0 +1,28 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23484,10928,Pedro Serrano,,Javier Gomez,L,0,Points,San Jose Open,64KG,F,2020
+23499,10928,Pedro Serrano,,Nathan Barreto,L,0,Points,San Jose Open,ABS,4F,2020
+23680,10928,Pedro Serrano,6043,Lucas Pinheiro,L,0,Pts: 12x4,Houston WO,64KG,F,2020
+24546,10928,Pedro Serrano,,Bebeto Oliveira,L,0,Pts: 8x4,American Nats,64KG,SF,2020
+29830,10928,Pedro Serrano,,Anthony Arnal,L,0,EBI/OT,M. Finishers 5,70KG,SF,2022
+30889,10928,Pedro Serrano,8767,Jon Calestine,L,0,EBI/OT,Emerald City,70KG,4F,2022
+31514,10928,Pedro Serrano,4248,Gianni Grippo,L,0,Kneebar,ADCC WC Trials,66KG,8F,2022
+32436,10928,Pedro Serrano,9074,Joao Mendes,L,0,Points,SD Open,70KG,F,2022
+34790,10928,Pedro Serrano,11093,Emilio Hernandez,L,0,Pts: 6x2,JJ Con NG,67KG,SF,2022
+35499,10928,Pedro Serrano,6151,Hiago George,L,0,Pts: 20x0,NoGi Pan,61KG,SF,2022
+36799,10928,Pedro Serrano,7657,Cleber Sousa,L,0,Toe hold,NoGi Worlds,61KG,R1,2022
+39042,10928,Pedro Serrano,6103,Isaac Doederlein,L,0,Hashimoto choke,Santa Cruz O,70KG,SF,2023
+42266,10928,Pedro Serrano,11093,Emilio Hernandez,L,0,Pts: 6x4,JJ Con,70KG,4F,2023
+23209,10928,Pedro Serrano,,Ram Ananda,W,1,Straight ankle lock,Fresno Open,64KG,SF,2020
+23210,10928,Pedro Serrano,,Kaio Fonseca,W,1,Straight ankle lock,Fresno Open,64KG,F,2020
+23483,10928,Pedro Serrano,12120,Estevan Martinez,W,1,Points,San Jose Open,64KG,SF,2020
+24544,10928,Pedro Serrano,,Dennis Presley,W,1,Choke from back,American Nats,64KG,4F,2020
+29827,10928,Pedro Serrano,,Jesus Villegas,W,1,EBI/OT,M. Finishers 5,70KG,4F,2022
+31479,10928,Pedro Serrano,,Cameron Adair,W,1,Katagatame,ADCC WC Trials,66KG,R1,2022
+31496,10928,Pedro Serrano,,Christopher Ashley,W,1,RNC,ADCC WC Trials,66KG,R2,2022
+31509,10928,Pedro Serrano,,Raphael Gomez,W,1,RNC,ADCC WC Trials,66KG,R3,2022
+32433,10928,Pedro Serrano,,Rodrigo Cardoso,W,1,RNC,SD Open,70KG,4F,2022
+32435,10928,Pedro Serrano,8305,Pedro Dias,W,1,Referee Decision,SD Open,70KG,SF,2022
+34784,10928,Pedro Serrano,,Ryan Jennerjohn,W,1,RNC,JJ Con NG,67KG,R1,2022
+34788,10928,Pedro Serrano,,Bebeto Oliveira,W,1,Inside heel hook,JJ Con NG,67KG,4F,2022
+35496,10928,Pedro Serrano,11889,Keven Carrasco,W,1,Pts: 9x0,NoGi Pan,61KG,4F,2022
+39039,10928,Pedro Serrano,,Elias Anderson,W,1,"Pts: 0x0, Adv",Santa Cruz O,70KG,4F,2023

@@ -1,0 +1,102 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+5002,5649,Gary Tonon,788,Kron Gracie,L,0,RNC,ADCC,77KG,4F,2013
+5058,5649,Gary Tonon,224,Roberto Abreu,L,0,Points,ADCC,ABS,R1,2013
+5061,5649,Gary Tonon,984,Marcus Almeida,L,0,Points,ADCC,ABS,4F,2013
+5183,5649,Gary Tonon,3200,Jackson Sousa,L,0,Pts: 2x0,FIVE Rd Robin,ABS,RR,2013
+5187,5649,Gary Tonon,3009,Keenan Cornelius,L,0,Pts: 14x0,FIVE Rd Robin,ABS,RR,2013
+5224,5649,Gary Tonon,2226,DJ Jackson,L,0,Points,ADCC Nationals,ABS,SPF,2014
+5285,5649,Gary Tonon,12617,Sean Roberts,L,0,Points,UFC Expo,ABS,SF,2014
+5453,5649,Gary Tonon,,Diego Ferreira,L,0,Pts: 5x0,FIVE Nevada,ABS,F,2014
+5975,5649,Gary Tonon,5930,Rodrigo Freitas,L,0,"Pts: 2x2, Adv",No Gi Pan Am.,73KG,F,2014
+5987,5649,Gary Tonon,4248,Gianni Grippo,L,0,Pts: 6x4,No Gi Pan Am.,ABS,R1,2014
+6014,5649,Gary Tonon,3009,Keenan Cornelius,L,0,Pts: 23x2,NoGi Worlds,ABS,SF,2014
+6030,5649,Gary Tonon,,Rafael Benedito,L,0,Pts: 2x0,NoGi Worlds,73KG,4F,2014
+7951,5649,Gary Tonon,358,Lucas Lepri,L,0,Pts: 10x0,ADCC,77KG,4F,2015
+7986,5649,Gary Tonon,733,Vinny Magalhaes,L,0,"Pts: 0x0, Pen",ADCC,ABS,R1,2015
+8204,5649,Gary Tonon,5423,Matheus Diniz,L,0,Wristlock,NoGi Pan Ams,ABS,F,2015
+8417,5649,Gary Tonon,122,Michael Langhi,L,0,Pts: 4x2,NoGi Worlds,73KG,4F,2015
+8485,5649,Gary Tonon,5423,Matheus Diniz,L,0,Pts: 4x0,NoGi Worlds,ABS,R1,2015
+9677,5649,Gary Tonon,1740,Yuri Simoes,L,0,EBI/OT,EBI 6,ABS,4F,2016
+10544,5649,Gary Tonon,2226,DJ Jackson,L,0,Pts: 7x2,Grappling Pro,77KG,SF,2016
+11672,5649,Gary Tonon,1236,Antonio Carlos,L,0,Flying triangle,SUG 3,ABS,SPF,2017
+13905,5649,Gary Tonon,967,JT Torres,L,0,Referee Decision,ADCC,77KG,SF,2017
+13906,5649,Gary Tonon,8394,Vagner Rocha,L,0,Pts: 2x0,ADCC,77KG,3RD,2017
+14586,5649,Gary Tonon,7539,Renato Canuto,L,0,Pts: 2x0,Kasai Pro,70KG,RR,2017
+14588,5649,Gary Tonon,4248,Gianni Grippo,L,0,Pts: 6x4,Kasai Pro,70KG,3RD,2017
+21895,5649,Gary Tonon,967,JT Torres,L,0,Pts: 2x0,ADCC,77KG,SF,2019
+21913,5649,Gary Tonon,6550,Gordon Ryan,L,0,Choke,ADCC,ABS,4F,2019
+32835,5649,Gary Tonon,12003,Tye Ruotolo,L,0,Darce choke,One FC,NA,SPF,2022
+35001,5649,Gary Tonon,12751,Sam McNally,L,0,Pts: 3x0,ADCC,66KG,R1,2022
+4993,5649,Gary Tonon,,Satori Kitaoka,W,1,RNC,ADCC,77KG,R1,2013
+5188,5649,Gary Tonon,5365,Beneil Dariush,W,1,Referee Decision,FIVE Rd Robin,ABS,RR,2013
+5189,5649,Gary Tonon,1827,James Puopolo,W,1,Inside heel hook,FIVE Rd Robin,ABS,RR,2013
+5227,5649,Gary Tonon,898,Bill Cooper,W,1,Heel hook,GQ King OTM,ABS,NA,2014
+5448,5649,Gary Tonon,,Daniel Almodovar,W,1,Guillotine,FIVE Nevada,ABS,4F,2014
+5449,5649,Gary Tonon,,Wallace Santos,W,1,Kimura,FIVE Nevada,ABS,SF,2014
+5450,5649,Gary Tonon,,Milan Zerjal,W,1,RNC,FIVE Nevada,ABS,F,2014
+5451,5649,Gary Tonon,,Guilherme Cotliarenko,W,1,Pts: 7x2,FIVE Nevada,77KG,SF,2014
+5452,5649,Gary Tonon,,Aaron Buck,W,1,Triangle,FIVE Nevada,77KG,F,2014
+5522,5649,Gary Tonon,,Matt Bagshaw,W,1,Inside heel hook,Submission Ace,ABS,SPF,2014
+5872,5649,Gary Tonon,9758,Kit Dale,W,1,Guillotine,Metamoris 4,ABS,SPF,2014
+5973,5649,Gary Tonon,4328,AJ Agazarm,W,1,RNC,No Gi Pan Am.,73KG,SF,2014
+6011,5649,Gary Tonon,3122,Luiz Panza,W,1,RNC,NoGi Worlds,ABS,4F,2014
+6180,5649,Gary Tonon,,PJ Linder,W,1,RNC,EBI,77KG,R1,2014
+6182,5649,Gary Tonon,,Lance Glynn,W,1,Inside heel hook,EBI,77KG,4F,2014
+6184,5649,Gary Tonon,,Javier Valenciano,W,1,Heel hook,EBI,77KG,SF,2014
+6185,5649,Gary Tonon,6531,Richie Martinez,W,1,Inside heel hook,EBI,77KG,F,2014
+6390,5649,Gary Tonon,,Josh Hayden,W,1,Kneebar,Rocksolid,ABS,SPF,2015
+6392,5649,Gary Tonon,,Marcin Held,W,1,Heel hook,Polaris,ABS,SPF,2015
+6665,5649,Gary Tonon,4706,Javier Vazquez,W,1,Triangle,Gracie Nationals,ABS,SPF,2015
+6972,5649,Gary Tonon,,M. Khera,W,1,Points,UGA Open,77KG,SPF,2015
+7083,5649,Gary Tonon,1440,Rodrigo Ranieri,W,1,Inside heel hook,UGL,77KG,SPF,2015
+7364,5649,Gary Tonon,,Josh Valles,W,1,Heel hook,EBI 3,77KG,R1,2015
+7368,5649,Gary Tonon,,Karen Darabedyan,W,1,EBI/OT,EBI 3,77KG,4F,2015
+7369,5649,Gary Tonon,7442,Eddie Cummings,W,1,Triangle armbar,EBI 3,77KG,SF,2015
+7371,5649,Gary Tonon,7096,Josh Hinger,W,1,EBI/OT,EBI 3,77KG,F,2015
+7782,5649,Gary Tonon,2997,Joao Miyao,W,1,Referee Decision,FIVE SL,72KG,SPF,2015
+7943,5649,Gary Tonon,5258,Dillon Danis,W,1,Inside heel hook,ADCC,77KG,R1,2015
+8038,5649,Gary Tonon,,Masakazu Imanari,W,1,Inside heel hook,Polaris 2,68KG,SPF,2015
+8177,5649,Gary Tonon,,Joao Ferreira,W,1,Points,NoGi Pan Ams,76KG,4F,2015
+8179,5649,Gary Tonon,,Renan Borges,W,1,Kneebar,NoGi Pan Ams,76KG,SF,2015
+8180,5649,Gary Tonon,5930,Rodrigo Freitas,W,1,Pts: 7x2,NoGi Pan Ams,76KG,F,2015
+8201,5649,Gary Tonon,,Washington Luis,W,1,Darce choke,NoGi Pan Ams,ABS,4F,2015
+8202,5649,Gary Tonon,4248,Gianni Grippo,W,1,"Pts: 6x6, Adv",NoGi Pan Ams,ABS,SF,2015
+8478,5649,Gary Tonon,,Marcel Gonçalves,W,1,DQ,NoGi Worlds,ABS,R1,2015
+8754,5649,Gary Tonon,,Jordon Tabor,W,1,Guillotine,GQ All Star,77KG,4F,2015
+8755,5649,Gary Tonon,,Joe Solecki,W,1,Inside heel hook,GQ All Star,77KG,SF,2015
+8756,5649,Gary Tonon,,Rob Greenidge,W,1,Calf slicer,GQ All Star,77KG,F,2015
+8757,5649,Gary Tonon,,Stephan Martinez,W,1,Bulldog choke,EBI 5,70KG,R1,2015
+8765,5649,Gary Tonon,,Javier Vasquez,W,1,Heel hook,EBI 5,70KG,4F,2015
+8769,5649,Gary Tonon,8682,Lachlan Giles,W,1,Armbar,EBI 5,70KG,SF,2015
+8771,5649,Gary Tonon,,Rafael Domingos,W,1,Heel hook,EBI 5,70KG,F,2015
+9412,5649,Gary Tonon,431,Rousimar Palhares,D,0.5,---,Polaris 3,82KG,SPF,2016
+9669,5649,Gary Tonon,,Felipe Fogolin,W,1,Inside heel hook,EBI 6,ABS,R1,2016
+10309,5649,Gary Tonon,,Ralek Gracie,W,1,Kneebar,Metamoris 7,ABS,SPF,2016
+10310,5649,Gary Tonon,,Dustin Akbari,W,1,Inside Heel hook,F2W 8,72KG,SPF,2016
+10542,5649,Gary Tonon,7332,Hunter Ewald,W,1,Injury,Grappling Pro,77KG,4F,2016
+10546,5649,Gary Tonon,7247,Enrico Cocco,W,1,Inside heel hook,Grappling Pro,77KG,3RD,2016
+10786,5649,Gary Tonon,,J. Friedrich,W,1,Heel hook,EBI 9,93KG,R1,2016
+10794,5649,Gary Tonon,,Adam Sanchoff,W,1,Inside heel hook,EBI 9,93KG,4F,2016
+10798,5649,Gary Tonon,,Daniel OBrien,W,1,EBI/OT,EBI 9,93KG,SF,2016
+10800,5649,Gary Tonon,733,Vinny Magalhaes,W,1,EBI/OT,EBI 9,93KG,F,2016
+10877,5649,Gary Tonon,446,Gilbert Burns,W,1,Inside heel hook,Polaris 4,77KG,SPF,2016
+11341,5649,Gary Tonon,4851,Kim Terra,W,1,Guillotine,Studio 540 SPF,ABS,SPF,2016
+11772,5649,Gary Tonon,4328,AJ Agazarm,W,1,Referee Decision,F2W 24,76KG,SPF,2017
+12261,5649,Gary Tonon,1398,Justin Rader,W,1,Referee Decision,F2W 28,75KG,SPF,2017
+13017,5649,Gary Tonon,1319,Shinya Aoki,W,1,Inside heel hook,One FC,76KG,SPF,2017
+13662,5649,Gary Tonon,5258,Dillon Danis,W,1,Referee Decision,Polaris 5,81KG,SPF,2017
+13898,5649,Gary Tonon,4542,Felipe Cesar,W,1,Pts: 2x0,ADCC,77KG,E1,2017
+13903,5649,Gary Tonon,9706,Marcelo Mafra,W,1,"Pts: 0x0, Pen",ADCC,77KG,4F,2017
+14221,5649,Gary Tonon,,Chance Braud,W,1,Inside heel hook,EBI 13,70KG,R1,2017
+14229,5649,Gary Tonon,,Ross Keeping,W,1,Armbar,EBI 13,70KG,4F,2017
+14233,5649,Gary Tonon,,L. Valente,W,1,Heel hook,EBI 13,70KG,SF,2017
+14235,5649,Gary Tonon,8394,Vagner Rocha,W,1,Inside heel hook,EBI 13,70KG,F,2017
+14579,5649,Gary Tonon,6095,Mansher Khera,D,0.5,---,Kasai Pro,70KG,RR,2017
+14583,5649,Gary Tonon,4328,AJ Agazarm,W,1,Pts: 2x0,Kasai Pro,70KG,RR,2017
+21854,5649,Gary Tonon,,Mateusz Garmot,W,1,RNC,ADCC,77KG,R1,2019
+21861,5649,Gary Tonon,7539,Renato Canuto,W,1,"Pts: 0x0, Pen",ADCC,77KG,4F,2019
+21897,5649,Gary Tonon,8116,Dante Leon,W,1,Outside heel hook,ADCC,77KG,3RD,2019
+21909,5649,Gary Tonon,5238,Edwin Najmi,W,1,Inside heel hook,ADCC,ABS,R1,2019
+22692,5649,Gary Tonon,1386,Davi Ramos,W,1,Referee Decision,F2W 132,80KG,SPF,2019
+23803,5649,Gary Tonon,5414,Osvaldo Moizinho,W,1,Inside heel hook,F2W 145,75KG,SPF,2020
+23856,5649,Gary Tonon,8116,Dante Leon,W,1,Referee Decision,WNO,77KG,SPF,2020

@@ -1,0 +1,42 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+60,727,Alexandre de Freitas,515,Royler Gracie,L,0,N/A,Brasileiro,70KG,F,1994
+71,727,Alexandre de Freitas,952,Joao Roque,L,0,Pts: 4x2,Pan American,70KG,SF,1996
+112,727,Alexandre de Freitas,515,Royler Gracie,L,0,N/A,World Champ.,70KG,SF,1997
+132,727,Alexandre de Freitas,81,Vitor Shaolin,L,0,Pts: 5x0,Team Nationals,88KG,SF,1997
+258,727,Alexandre de Freitas,492,Marco Barbosa,L,0,Points,Brasileiro,70KG,F,1999
+313,727,Alexandre de Freitas,515,Royler Gracie,L,0,Leglock,ADCC,66KG,F,1999
+385,727,Alexandre de Freitas,253,BJ Penn,L,0,Points,World Champ.,70KG,4F,2000
+413,727,Alexandre de Freitas,515,Royler Gracie,L,0,Pts: 5x0,ADCC,66KG,F,2000
+503,727,Alexandre de Freitas,1023,Baret Yoshida,L,0,Kneebar,ADCC,66KG,SF,2001
+505,727,Alexandre de Freitas,195,Robson Moura,L,0,Points,ADCC,66KG,3PLC,2001
+771,727,Alexandre de Freitas,1023,Baret Yoshida,L,0,Pts: 9x6,ADCC,66KG,SF,2003
+773,727,Alexandre de Freitas,515,Royler Gracie,L,0,Pts: 8x0,ADCC,66KG,3PLC,2003
+888,727,Alexandre de Freitas,790,Mario Reis,L,0,Pts: 8x4,World Champ.,70KG,F,2003
+58,727,Alexandre de Freitas,,Unknown,W,1,Triangle,Brasileiro,70KG,4F,1994
+59,727,Alexandre de Freitas,,Marcelo Mendes,W,1,Armbar,Brasileiro,70KG,SF,1994
+70,727,Alexandre de Freitas,,Eduardo Tita,W,1,Armbar,Pan American,70KG,4F,1996
+84,727,Alexandre de Freitas,,Marcelo Telo,W,1,Choke from back,Brasileiro,70KG,4F,1996
+85,727,Alexandre de Freitas,,Paulo Coelho,W,1,Points,Brasileiro,70KG,SF,1996
+110,727,Alexandre de Freitas,613,Wellington Dias,W,1,Points,World Champ.,70KG,4F,1997
+140,727,Alexandre de Freitas,,Trevor Lally,W,1,Armbar,ADCC,66KG,4F,1998
+143,727,Alexandre de Freitas,,Marc,W,1,Armbar,ADCC,66KG,SF,1998
+145,727,Alexandre de Freitas,,Robin Gracie,W,1,Choke,ADCC,66KG,F,1998
+253,727,Alexandre de Freitas,,Vinicius Cruz,W,1,Choke,Brasileiro,70KG,R1,1999
+255,727,Alexandre de Freitas,195,Robson Moura,W,1,Choke from back,Brasileiro,70KG,4F,1999
+256,727,Alexandre de Freitas,579,Octavio Couto,W,1,Points,Brasileiro,70KG,SF,1999
+306,727,Alexandre de Freitas,,T. Hirono,W,1,Armbar,ADCC,66KG,R1,1999
+309,727,Alexandre de Freitas,374,Vinicius Draculino,W,1,Pts: 2x0,ADCC,66KG,4F,1999
+311,727,Alexandre de Freitas,,Sasha Palvski,W,1,Choke,ADCC,66KG,SF,1999
+375,727,Alexandre de Freitas,,Fernando Lopes,W,1,Choke,Pan American,70KG,SF,2000
+376,727,Alexandre de Freitas,9941,Edson Diniz,W,1,Choke from back,Pan American,70KG,F,2000
+405,727,Alexandre de Freitas,,T. Yano,W,1,Pts: 10x0,ADCC,66KG,R1,2000
+409,727,Alexandre de Freitas,,Sasha Plavski,W,1,Points,ADCC,66KG,4F,2000
+411,727,Alexandre de Freitas,,Joe Gilbert,W,1,RNC,ADCC,66KG,SF,2000
+496,727,Alexandre de Freitas,,Y. Kinishi,W,1,Guillotine,ADCC,66KG,R1,2001
+499,727,Alexandre de Freitas,,T. Yano,W,1,Guillotine,ADCC,66KG,4F,2001
+761,727,Alexandre de Freitas,,K. Hirate,W,1,Points,ADCC,66KG,R1,2003
+769,727,Alexandre de Freitas,,Joaquim Hansen,W,1,Guillotine,ADCC,66KG,4F,2003
+883,727,Alexandre de Freitas,,Unknown,W,1,Choke from back,World Champ.,70KG,R1,2003
+884,727,Alexandre de Freitas,613,Wellington Dias,W,1,Choke from back,World Champ.,70KG,4F,2003
+887,727,Alexandre de Freitas,1149,Reinaldo Ribeiro,W,1,Pts: 7x4,World Champ.,70KG,SF,2003
+952,727,Alexandre de Freitas,996,Yuki Nakai,W,1,Points,G1-02 Pro League,70KG,SPF,2003

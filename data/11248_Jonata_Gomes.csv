@@ -1,0 +1,50 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24258,11248,Jonata Gomes,10840,Diego Oliveira,L,0,Pts: 11x4,Rio Challenge,77KG,SF,2020
+24681,11248,Jonata Gomes,,Antonio Felix,L,0,Pts: 2x1,Grand Slam RJ,69KG,8F,2020
+25307,11248,Jonata Gomes,11754,Victor Nithael,L,0,Pts: 4x2,Rio Open,76KG,F,2021
+27145,11248,Jonata Gomes,11949,Daniel Junior,L,0,Pts: 2x0,Copa Podio,70KG,RR,2021
+27158,11248,Jonata Gomes,,Wilhiam Mateus,L,0,Pts: 2x0,Copa Podio,70KG,RR,2021
+27162,11248,Jonata Gomes,11534,Raul Basilio,L,0,"Pts: 0x0, Adv",Copa Podio,70KG,RR,2021
+32627,11248,Jonata Gomes,10953,Danilo Moreira,L,0,Choke from back,Denver Open,76KG,SF,2022
+32653,11248,Jonata Gomes,8686,Fellipe Trovo,L,0,Referee Decision,Denver Open,ABS,SF,2022
+32910,11248,Jonata Gomes,9876,Alef Brito,L,0,"Pts: 0x0, Adv",World Champ.,76KG,R1,2022
+35531,11248,Jonata Gomes,12115,Kieran Kichuk,L,0,Inside heel hook,NoGi Pan,73KG,SF,2022
+36831,11248,Jonata Gomes,13192,Carlos Henrique,L,0,Pts: 2x0,NoGi Worlds,73KG,4F,2022
+40241,11248,Jonata Gomes,11497,Fabricio Andrey,L,0,Referee Decision,World Champ.,70KG,4F,2023
+24253,11248,Jonata Gomes,,Caio Santos,W,1,Points,Rio Challenge,77KG,R1,2020
+24256,11248,Jonata Gomes,,Antonio Henrique,W,1,Points,Rio Challenge,77KG,4F,2020
+24261,11248,Jonata Gomes,,Darlan Casaca,W,1,Points,Rio Challenge,77KG,3RD,2020
+24531,11248,Jonata Gomes,,Matheus Vieira,W,1,Points,CJJD S. Americano,76KG,4F,2020
+24532,11248,Jonata Gomes,,Johnatha Franca,W,1,Points,CJJD S. Americano,76KG,SF,2020
+24534,11248,Jonata Gomes,10835,Eduardo Avelar,W,1,Referee Decision,CJJD S. Americano,ABS,SF,2020
+24535,11248,Jonata Gomes,,Caio Felipe,W,1,Points,CJJD S. Americano,ABS,F,2020
+24671,11248,Jonata Gomes,,Marcos Coelho,W,1,Armbar,Grand Slam RJ,69KG,R1,2020
+24903,11248,Jonata Gomes,,Willian Sousa,W,1,Guillotine,South American,70KG,4F,2020
+24905,11248,Jonata Gomes,11949,Daniel Junior,W,1,"Pts: 0x0, Adv",South American,70KG,SF,2020
+24907,11248,Jonata Gomes,,Sergio Soares,W,1,RNC,South American,70KG,F,2020
+25085,11248,Jonata Gomes,,N/A,W,1,RNC,SJJSAF Pans,76KG,SF,2021
+25086,11248,Jonata Gomes,,Andre Torres,W,1,RNC,SJJSAF Pans,76KG,F,2021
+25301,11248,Jonata Gomes,,Luiz Santos,W,1,Pts: 2x0,Rio Open,76KG,4F,2021
+25305,11248,Jonata Gomes,,Darlan Casaca,W,1,Adv,Rio Open,76KG,SF,2021
+25889,11248,Jonata Gomes,,Breno Nascimento,W,1,"Pts: 0x0, Adv",S. American NG,73KG,R1,2021
+25891,11248,Jonata Gomes,,Cristian Polnov,W,1,RNC,S. American NG,73KG,4F,2021
+25895,11248,Jonata Gomes,12376,Rodrigo Francioni,W,1,"Pts: 0x0, Adv",S. American NG,73KG,SF,2021
+25896,11248,Jonata Gomes,,Rani Yahya,W,1,Pts: 2x0,S. American NG,73KG,F,2021
+26782,11248,Jonata Gomes,11963,Diego Sodre,W,1,Pts: 6x4,Rio Winter Open,76KG,4F,2021
+26784,11248,Jonata Gomes,11949,Daniel Junior,W,1,RNC,Rio Winter Open,76KG,SF,2021
+26786,11248,Jonata Gomes,9956,Vinicius Pereira,W,1,Choke from back,Rio Winter Open,76KG,F,2021
+27149,11248,Jonata Gomes,9956,Vinicius Pereira,W,1,RNC,Copa Podio,70KG,RR,2021
+32623,11248,Jonata Gomes,,Murilo Linhares,W,1,Choke from back,Denver Open,76KG,4F,2022
+32648,11248,Jonata Gomes,,Thiago Cintra,W,1,Triangle,Denver Open,ABS,R1,2022
+32651,11248,Jonata Gomes,12048,Rafael Anjos,W,1,Pts: 4x2,Denver Open,ABS,4F,2022
+35521,11248,Jonata Gomes,,Justin Fabac,W,1,Pts: 2x0,NoGi Pan,73KG,8F,2022
+35527,11248,Jonata Gomes,7664,Johnny Tama,W,1,Pts: 2x0,NoGi Pan,73KG,4F,2022
+39044,11248,Jonata Gomes,613,Wellington Dias,W,1,Choke from back,Santa Cruz O,76KG,4F,2023
+39048,11248,Jonata Gomes,9074,Joao Mendes,W,1,Referee Decision,Santa Cruz O,76KG,SF,2023
+39049,11248,Jonata Gomes,12918,Daniel Sathler,W,1,DQ,Santa Cruz O,76KG,F,2023
+39070,11248,Jonata Gomes,,Thiago Andrade,W,1,Adv,Santa Cruz O,ABS,SF,2023
+39792,11248,Jonata Gomes,11568,Josh Cisneros,W,1,"Pts: 0x0, Adv",Denver Open,76KG,4F,2023
+39794,11248,Jonata Gomes,12629,Fabricio Barbarotti,W,1,Pts: 3x2,Denver Open,76KG,SF,2023
+39795,11248,Jonata Gomes,13389,Youngseung Cho,W,1,"Pts: 0x0, Adv",Denver Open,76KG,F,2023
+40228,11248,Jonata Gomes,9094,Richar Nogueira,W,1,RNC,World Champ.,70KG,R1,2023
+40234,11248,Jonata Gomes,11919,Daniel Maira,W,1,Pts: 4x0,World Champ.,70KG,8F,2023

@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+37168,13062,Leonardo Mario,10840,Diego Oliveira,L,0,Pts: 3x0,European Open,64KG,SF,2023
+40917,13062,Leonardo Mario,12241,Higor Lima,L,0,Armbar,Brazil Nat Pro,ABS,SF,2023
+33297,13062,Leonardo Mario,,Jesse Araujo,W,1,Adv,Rio WO,64KG,SF,2022
+33298,13062,Leonardo Mario,,Ronald Alves,W,1,Kneebar,Rio WO,64KG,F,2022
+33567,13062,Leonardo Mario,,Oziel Santos,W,1,Omoplata choke,Betim Open,64KG,SF,2022
+33568,13062,Leonardo Mario,13209,Welerson Goncalves,W,1,Arm in Ezekiel,Betim Open,64KG,F,2022
+33917,13062,Leonardo Mario,12729,Nathannael Fernandes,W,1,Pts: 3x2,Grand Slam RJ,62KG,R1,2022
+33922,13062,Leonardo Mario,,Ariel Magalhaes,W,1,Pts: 3x0,Grand Slam RJ,62KG,4F,2022
+33925,13062,Leonardo Mario,,Ronald Dias,W,1,Pts: 3x2,Grand Slam RJ,62KG,SF,2022
+33926,13062,Leonardo Mario,13111,Matheus Lima,W,1,Triangle kimura,Grand Slam RJ,62KG,F,2022
+35671,13062,Leonardo Mario,,Baylor Chaves,W,1,Choke from back,South American,64KG,4F,2022
+35674,13062,Leonardo Mario,,Rodrigo Barbosa,W,1,Triangle,South American,64KG,SF,2022
+35675,13062,Leonardo Mario,,Ronald Alves,W,1,Pts: 8x6,South American,64KG,F,2022
+37161,13062,Leonardo Mario,,Ronald Dias,W,1,"Pts: 2x2, Pen",European Open,64KG,R1,2023
+37163,13062,Leonardo Mario,8069,Pablo Mantovani,W,1,Referee Decision,European Open,64KG,4F,2023
+37492,13062,Leonardo Mario,,Wagner Chrispim,W,1,Pts: 1x0,Grand Slam SYD,62KG,4F,2023
+37496,13062,Leonardo Mario,13515,Khaled Alshehi,W,1,Footlock,Grand Slam SYD,62KG,SF,2023
+38183,13062,Leonardo Mario,,Jeferson Fagundes,W,1,Kneebar,AJPGD LDN,62KG,4F,2023
+38187,13062,Leonardo Mario,,Wagner Crispim,W,1,Pts: 4x2,AJPGD LDN,62KG,SF,2023
+39384,13062,Leonardo Mario,,Guilherme Cordeiro,W,1,Pts: 13x2,SA Cont Pro,62KG,RR,2023
+39638,13062,Leonardo Mario,,Guthiery Melo,W,1,Pts: 1x1,ADGS ABD,62KG,4F,2023
+39644,13062,Leonardo Mario,,Nariman Mynbayev,W,1,Pts: 24x1,ADGS ABD,62KG,RPC,2023
+39645,13062,Leonardo Mario,,Guthiery Melo,W,1,Choke from back,ADGS ABD,62KG,3RD,2023
+40551,13062,Leonardo Mario,,Enrique Guerrero,W,1,Pts: 8x1,Grand Slam RJ,62KG,4F,2023
+40556,13062,Leonardo Mario,,Wagner Chrispim,W,1,RNC,Grand Slam RJ,62KG,F,2023
+40911,13062,Leonardo Mario,,Natanael Moreira,W,1,Choke from back,Brazil Nat Pro,69KG,SF,2023

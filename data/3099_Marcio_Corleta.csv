@@ -1,0 +1,25 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+580,3099,Marcio Corleta,9,Marcio Cruz,L,0,Triangle,World Champ.,ABS,4F,2001
+605,3099,Marcio Corleta,84,Alexandre Ribeiro,L,0,Points,Pan American,ABS,R1,2001
+843,3099,Marcio Corleta,505,Roger Gracie,L,0,Referee Decision,World Champ.,ABS,4F,2003
+851,3099,Marcio Corleta,886,Leonardo Leite,L,0,Pts: 4x2,World Champ.,O100KG,SF,2003
+1009,3099,Marcio Corleta,4864,Alexandre Dantas,L,0,Pts: 8x0,Pan American,O100KG,F,2004
+1030,3099,Marcio Corleta,16,Marcelo Garcia,L,0,Choke,Brasileiro,ABS,4F,2004
+1215,3099,Marcio Corleta,573,Fabricio Werdum,L,0,Pts: 2x0,ADCC,O99KG,4F,2005
+1242,3099,Marcio Corleta,,Gabriel Napao,L,0,Pts: 2x0,World Cup,O100KG,SF,2005
+1319,3099,Marcio Corleta,,Chico Cuiaba,L,0,Adv,World Champ.,O100KG,F,2005
+1858,3099,Marcio Corleta,,Big Mac,L,0,Pts: 4x2,European Open,O100KG,F,2008
+2371,3099,Marcio Corleta,543,Rodrigo Cavaca,L,0,"Pts: 0x0, Adv",World Champ.,O100KG,SF,2009
+603,3099,Marcio Corleta,9,Marcio Cruz,W,1,"Pts: 2x2, Adv",World Champ.,O100KG,SF,2001
+604,3099,Marcio Corleta,1696,Garth Taylor,W,1,Armbar,World Champ.,O100KG,F,2001
+1008,3099,Marcio Corleta,,Fabio Ribeiro,W,1,Cross choke,Pan American,O100KG,SF,2004
+1097,3099,Marcio Corleta,,Lenio Furtado,W,1,Armbar,World Cup,O100KG,4F,2004
+1098,3099,Marcio Corleta,,Otavio Duarte,W,1,N/A,World Cup,O100KG,SF,2004
+1212,3099,Marcio Corleta,,Jason White,W,1,Triangle-armbar,ADCC,O99KG,R1,2005
+1316,3099,Marcio Corleta,,Frank Alberto,W,1,Kneebar,World Champ.,O100KG,4F,2005
+1317,3099,Marcio Corleta,,Leo Lima,W,1,Armbar,World Champ.,O100KG,SF,2005
+1318,3099,Marcio Corleta,,Artur Cesar,W,1,Pts: 2x0,World Champ.,O100KG,SF,2005
+2182,3099,Marcio Corleta,,Unknown,W,1,Triangle,Pan American,O100KG,8F,2009
+2183,3099,Marcio Corleta,,Unknown,W,1,Armbar,Pan American,O100KG,4F,2009
+2185,3099,Marcio Corleta,8202,Ricardo Feliciano,W,1,Bread cutter,Pan American,O100KG,SF,2009
+2186,3099,Marcio Corleta,543,Rodrigo Cavaca,W,1,Armbar,Pan American,O100KG,F,2009

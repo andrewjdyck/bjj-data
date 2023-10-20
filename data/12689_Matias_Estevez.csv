@@ -1,0 +1,30 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+22280,12689,Matias Estevez,,Leandro Lima,L,0,Pts: 2x2,Grand Slam RJ,69KG,R2,2019
+30854,12689,Matias Estevez,8536,Yuta Shimada,L,0,Referee Decision,Indianapolis Open,70KG,SF,2022
+32147,12689,Matias Estevez,,Wilhiam Mateus,L,0,Pts: 5x2,Brasileiro,70KG,4F,2022
+36331,12689,Matias Estevez,11015,Pablo Lavaselli,L,0,Pts: 2x0,World Pro,69KG,SF,2022
+40583,12689,Matias Estevez,,Matheus Onda,L,0,Pts: 1x0,Grand Slam RJ,69KG,SF,2023
+40587,12689,Matias Estevez,12241,Higor Lima,L,0,Kneebar,Grand Slam RJ,69KG,RPC,2023
+22274,12689,Matias Estevez,9931,Arthur Detanico,W,1,DQ,Grand Slam RJ,69KG,R1,2019
+30773,12689,Matias Estevez,,Rene Lopez,W,1,Armbar,Dallas Open,70KG,4F,2022
+30774,12689,Matias Estevez,12633,Ismael Santos,W,1,Pts: 4x2,Dallas Open,70KG,SF,2022
+30775,12689,Matias Estevez,,Alef Lopez,W,1,Triangle,Dallas Open,70KG,F,2022
+30852,12689,Matias Estevez,,Charles Murdoch,W,1,Violin armlock,Indianapolis Open,70KG,4F,2022
+31233,12689,Matias Estevez,,Antonio Casarez,W,1,Choke from back,Charleston Open,70KG,4F,2022
+31234,12689,Matias Estevez,11093,Emilio Hernandez,W,1,"Pts: 2x2, Adv",Charleston Open,70KG,SF,2022
+31236,12689,Matias Estevez,8536,Yuta Shimada,W,1,Referee Decision,Charleston Open,70KG,F,2022
+32074,12689,Matias Estevez,,Gabriel Neves,W,1,Omoplata,SA Cont. Pro,69KG,R1,2022
+32077,12689,Matias Estevez,,Marlus Salgado,W,1,Pts: 5x4,SA Cont. Pro,69KG,4F,2022
+32079,12689,Matias Estevez,,Daniel Lima,W,1,Kimura,SA Cont. Pro,69KG,SF,2022
+32080,12689,Matias Estevez,,Rommel Fernandes,W,1,Botinha,SA Cont. Pro,69KG,F,2022
+36323,12689,Matias Estevez,,Antonio Buchwald,W,1,Pts: 7x6,World Pro,69KG,R1,2022
+36328,12689,Matias Estevez,13389,Youngseung Cho,W,1,Pts: 9x5,World Pro,69KG,4F,2022
+36339,12689,Matias Estevez,13175,Ariel Tabak,W,1,Pts: 2x0,World Pro,69KG,RPC,2022
+36340,12689,Matias Estevez,,Viki Dabush,W,1,Submission,World Pro,69KG,3RD,2022
+39385,12689,Matias Estevez,,Gabriel Silva,W,1,Choke from back,SA Cont Pro,69KG,R1,2023
+39388,12689,Matias Estevez,,Jefferson Fagundes,W,1,Pts: 6x3,SA Cont Pro,69KG,4F,2023
+39391,12689,Matias Estevez,,Ary Santos,W,1,Pts: 10x5,SA Cont Pro,69KG,SF,2023
+39393,12689,Matias Estevez,,Rafael Nascimento,W,1,DQ,SA Cont Pro,69KG,F,2023
+40565,12689,Matias Estevez,,Ricardo Guimaraes,W,1,Pts: 4x4,Grand Slam RJ,69KG,R1,2023
+40575,12689,Matias Estevez,,Antonio Buchawld,W,1,Pts: 3x1,Grand Slam RJ,69KG,8F,2023
+40579,12689,Matias Estevez,,Artur Oliveira,W,1,Pts: 2x0,Grand Slam RJ,69KG,4F,2023

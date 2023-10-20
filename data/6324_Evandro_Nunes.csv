@@ -1,0 +1,28 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6748,6324,Evandro Nunes,2107,Otavio Sousa,L,0,Pts: 10x0,Pan American,ABS,R2,2015
+6894,6324,Evandro Nunes,1827,James Puopolo,L,0,Pts: 9x0,Pan American,O100KG,SF,2015
+7633,6324,Evandro Nunes,8202,Ricardo Feliciano,L,0,Points,American Nat.,O100KG,F,2015
+7638,6324,Evandro Nunes,,Wellington Peroto,L,0,N/A,American Nat.,ABS,SF,2015
+7804,6324,Evandro Nunes,,Moku Kahawai,L,0,Triangle armbar,Metamoris UG,ABS,SPF,2015
+8267,6324,Evandro Nunes,4521,Erberth Santos,L,0,Pts: 10x0,Grand Slam LA,94KG,F,2015
+8280,6324,Evandro Nunes,4521,Erberth Santos,L,0,Pts: 4x0,Grand Slam LA,ABS,8F,2015
+8464,6324,Evandro Nunes,644,Joao Assis,L,0,Pts: 6x2,NoGi Worlds,97KG,4F,2015
+8481,6324,Evandro Nunes,4430,Patrick Gaudio,L,0,Toe hold,NoGi Worlds,ABS,R1,2015
+9670,6324,Evandro Nunes,1740,Yuri Simoes,L,0,EBI/OT,EBI 6,ABS,R1,2016
+11001,6324,Evandro Nunes,,Thiago Reinaldo,L,0,Kimura,SJJIF Worlds,ABS,4F,2016
+11007,6324,Evandro Nunes,,Thomas Mcmahon,L,0,Armbar,SJJIF Worlds,94KG,F,2016
+6885,6324,Evandro Nunes,8560,Gabriel Lucas,W,1,Triangle,Pan American,O100KG,R1,2015
+6890,6324,Evandro Nunes,637,Bruno Bastos,W,1,Armbar,Pan American,O100KG,4F,2015
+7332,6324,Evandro Nunes,,Jimmy Friedrich,D,0.5,---,Metamoris 6,ABS,SPF,2015
+7632,6324,Evandro Nunes,1827,James Puopolo,W,1,Points,American Nat.,O100KG,SF,2015
+7634,6324,Evandro Nunes,,Howon Jung,W,1,Submission,American Nat.,ABS,R1,2015
+7637,6324,Evandro Nunes,5930,Rodrigo Freitas,W,1,Kneebar,American Nat.,ABS,4F,2015
+8264,6324,Evandro Nunes,,Fernando Moya,W,1,Triangle,Grand Slam LA,94KG,4F,2015
+8266,6324,Evandro Nunes,6301,Faisal AlKitbe,W,1,Triangle,Grand Slam LA,94KG,SF,2015
+8460,6324,Evandro Nunes,,Nicholas Liaskos,W,1,Armbar,NoGi Worlds,97KG,8F,2015
+8787,6324,Evandro Nunes,,Unknown,W,1,Armbar,Gracie Nat. NoGi,ABS,4F,2015
+8788,6324,Evandro Nunes,,Unknown,W,1,Armbar,Gracie Nat. NoGi,ABS,SF,2015
+8789,6324,Evandro Nunes,,Unknown,W,1,Toe hold,Gracie Nat. NoGi,ABS,F,2015
+8790,6324,Evandro Nunes,,Mike Conzachi,W,1,Triangle,Gracie Nationals,ABS,SF,2015
+8791,6324,Evandro Nunes,,Morgan Neidlinger,W,1,Armbar,Gracie Nationals,ABS,F,2015
+8792,6324,Evandro Nunes,,Harold Lucambio,W,1,Bow and arrow,Gracie Nationals,94KG,F,2015

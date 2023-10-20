@@ -1,0 +1,54 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10424,8968,Admilson Gobi Junior,,Kitner Moura,L,0,Points,Curitiba W. Open,O100KG,F,2016
+10428,8968,Admilson Gobi Junior,7047,Matheus Spirandeli,L,0,Choke,Curitiba W. Open,ABS,SF,2016
+10731,8968,Admilson Gobi Junior,4521,Erberth Santos,L,0,Pts: 12x0,Floripa Open,O100KG,SF,2016
+12099,8968,Admilson Gobi Junior,2403,Joao Rocha,L,0,Pts: 11x2,Pan American,ABS,8F,2017
+12707,8968,Admilson Gobi Junior,3206,Rodrigo Conceicao,L,0,Pts: 2x0,Brasileiro,ABS,RDS,2017
+13511,8968,Admilson Gobi Junior,4960,Dimitrius Souza,L,0,Armbar,Curitiba W. Open,ABS,F,2017
+13577,8968,Admilson Gobi Junior,4960,Dimitrius Souza,L,0,Armbar,Vitoria Open,ABS,F,2017
+14877,8968,Admilson Gobi Junior,7539,Renato Canuto,L,0,Pts: 2x0,European Open,ABS,8F,2018
+14956,8968,Admilson Gobi Junior,5509,Victor Honorio,L,0,Pts: 4x0,European Open,O100KG,4F,2018
+16608,8968,Admilson Gobi Junior,2403,Joao Rocha,L,0,Pts: 17x0,World Champ.,O100KG,SF,2018
+16615,8968,Admilson Gobi Junior,8514,Fellipe Andrew,L,0,Botinha,World Champ.,ABS,RD,2018
+17086,8968,Admilson Gobi Junior,4521,Erberth Santos,L,0,Referee Decision,Vitoria Open,ABS,SF,2018
+17923,8968,Admilson Gobi Junior,,Igor Marques,L,0,N/A,Curitiba SPO,O100KG,F,2018
+17927,8968,Admilson Gobi Junior,8514,Fellipe Andrew,L,0,Triangle,Curitiba SPO,ABS,F,2018
+18330,8968,Admilson Gobi Junior,1534,R. Evangelista,L,0,Pts: 8x2,Grand Slam RJ,110KG,8F,2018
+10423,8968,Admilson Gobi Junior,,Unknown,W,1,Points,Curitiba W. Open,O100KG,SF,2016
+10426,8968,Admilson Gobi Junior,4430,Patrick Gaudio,W,1,Pts: 4x2,Curitiba W. Open,ABS,4F,2016
+10730,8968,Admilson Gobi Junior,,Edigar Souza,W,1,Referee Decision,Floripa Open,O100KG,4F,2016
+12084,8968,Admilson Gobi Junior,5861,Jared Dopp,W,1,Pts: 4x2,Pan American,ABS,R1,2017
+12253,8968,Admilson Gobi Junior,,Joseph Moku,W,1,"Pts: 0x0, Adv",Pan American,O100,8F,2017
+12255,8968,Admilson Gobi Junior,,Ricardo Evangelista,W,1,Triangle,Pan American,O100,4F,2017
+13508,8968,Admilson Gobi Junior,,Andre Rudolfo,W,1,Wristlock,Curitiba W. Open,O100KG,F,2017
+13509,8968,Admilson Gobi Junior,,Henrique Russi,W,1,N/A,Curitiba W. Open,ABS,SF,2017
+13567,8968,Admilson Gobi Junior,,Unknown,W,1,Armbar,Vitoria Open,O100KG,4F,2017
+13568,8968,Admilson Gobi Junior,,Antônio Assef,W,1,Points,Vitoria Open,O100KG,SF,2017
+13569,8968,Admilson Gobi Junior,,T. Gaia,W,1,Wristlock,Vitoria Open,O100KG,F,2017
+13570,8968,Admilson Gobi Junior,,Herbert Peinado,W,1,Choke from back,Vitoria Open,ABS,R1,2017
+13571,8968,Admilson Gobi Junior,,Unknown,W,1,Kimura,Vitoria Open,ABS,8F,2017
+13572,8968,Admilson Gobi Junior,,Unknown,W,1,Kimura,Vitoria Open,ABS,4F,2017
+13575,8968,Admilson Gobi Junior,6805,Max Gimenis,W,1,Toe hold,Vitoria Open,ABS,SF,2017
+14765,8968,Admilson Gobi Junior,,Wesley Mamede,W,1,Pts: 18x0,Manaus Open,O100KG,4F,2017
+14766,8968,Admilson Gobi Junior,,Unknown,W,1,Choke from back,Manaus Open,O100KG,SF,2017
+14767,8968,Admilson Gobi Junior,,Richard Barbosa,W,1,Choke from back,Manaus Open,ABS,R1,2017
+14768,8968,Admilson Gobi Junior,,Unknown,W,1,Submission,Manaus Open,ABS,4F,2017
+14769,8968,Admilson Gobi Junior,,Manoel Fernandes,W,1,Pts: 8x2,Manaus Open,ABS,SF,2017
+14770,8968,Admilson Gobi Junior,,Mikeias Bezerra,W,1,Pts: 6x0,Puro Impacto,ABS,4F,2017
+14771,8968,Admilson Gobi Junior,,Ailson Ferraz,W,1,Choke from back,Puro Impacto,ABS,SF,2017
+14772,8968,Admilson Gobi Junior,,Alessandro Cesario,W,1,Injury,Puro Impacto,ABS,F,2017
+14863,8968,Admilson Gobi Junior,2235,Renato Cardoso,W,1,Pts: 2x0,European Open,ABS,R1,2018
+16601,8968,Admilson Gobi Junior,1534,R. Evangelista,W,1,Points,World Champ.,O100KG,8F,2018
+16606,8968,Admilson Gobi Junior,4177,Gustavo Dias,W,1,"Pts: 0x0, Adv",World Champ.,O100KG,4F,2018
+16762,8968,Admilson Gobi Junior,387,Braga Neto,W,1,Pts: 6x2,SP BJJ Pro,O94KG,4F,2018
+17083,8968,Admilson Gobi Junior,,Sergio Teixeira,W,1,Adv,Vitoria Open,O100KG,SF,2018
+17085,8968,Admilson Gobi Junior,,Unknown,W,1,Choke from back,Vitoria Open,ABS,4F,2018
+17391,8968,Admilson Gobi Junior,,Luan Sousa,W,1,Pts: 7x0,Eunapolis Pro,ABS,SF,2018
+17392,8968,Admilson Gobi Junior,,Leandro Ribeiro,W,1,Injury,Eunapolis Pro,ABS,F,2018
+17727,8968,Admilson Gobi Junior,,Igor Barboza,W,1,Choke from back,Puro Impacto,O100KG,SF,2018
+17728,8968,Admilson Gobi Junior,,Ramon Marques,W,1,Wristlock,Puro Impacto,O100KG,F,2018
+17921,8968,Admilson Gobi Junior,,Renan Rodrigues,W,1,N/A,Curitiba SPO,O100KG,SF,2018
+17925,8968,Admilson Gobi Junior,,Manoel Miguel,W,1,N/A,Curitiba SPO,ABS,4F,2018
+17926,8968,Admilson Gobi Junior,,Diogo Nascimento,W,1,N/A,Curitiba SPO,ABS,SF,2018
+18325,8968,Admilson Gobi Junior,,Wilson Almeida,W,1,"Pts: 0x0, Adv",Grand Slam RJ,110KG,R1,2018
+31776,8968,Admilson Gobi Junior,,Hosana Barbosa,W,1,Wristlock,FBJJO Baiano,O100KG,F,2022

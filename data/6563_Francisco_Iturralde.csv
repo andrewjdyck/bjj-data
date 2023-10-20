@@ -1,0 +1,112 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4841,6563,Francisco Iturralde,,Renan Borges,L,0,Loop choke,Boston Summer O.,76KG,F,2013
+5133,6563,Francisco Iturralde,2035,Vitor Oliveira,L,0,"Pts: 0x0, Adv",IBJJF Pro League,82KG,SF,2013
+5362,6563,Francisco Iturralde,967,JT Torres,L,0,Adv,Pan American,76KG,4F,2014
+5466,6563,Francisco Iturralde,,M. Perez,L,0,Referee Decision,FIVE Cali. 2,77KG,SF,2014
+5475,6563,Francisco Iturralde,6337,Arnaldo Maidana,L,0,Adv,FIVE Cali. 2,ABS,4F,2014
+5784,6563,Francisco Iturralde,428,Celso Vinicius,L,0,Pts: 5x2,World Champ.,76KG,R1,2014
+5950,6563,Francisco Iturralde,967,JT Torres,L,0,Points,American Nat.,82KG,F,2014
+5959,6563,Francisco Iturralde,7096,Josh Hinger,L,0,DQ,Am. Nat. NoGi,82KG,SF,2014
+5961,6563,Francisco Iturralde,7096,Josh Hinger,L,0,Pts: 11x0,Am. Nat. NoGi,ABS,4F,2014
+5978,6563,Francisco Iturralde,2035,Vitor Oliveira,L,0,Points,No Gi Pan Am.,79KG,SF,2014
+6091,6563,Francisco Iturralde,2035,Vitor Oliveira,L,0,Pts: 4x2,IBJJF Pro League,82KG,F,2014
+6586,6563,Francisco Iturralde,1386,Davi Ramos,L,0,Pts: 2x0,European,82KG,SF,2015
+6827,6563,Francisco Iturralde,4542,Felipe Cesar,L,0,Pts: 4x2,Pan American,82KG,R1,2015
+7020,6563,Francisco Iturralde,,Rafael Rosendo,L,0,N/A,NY Spring Open,82KG,SF,2015
+7302,6563,Francisco Iturralde,484,Murilo Santana,L,0,Katagatame,Boston Spring Open,ABS,F,2015
+7459,6563,Francisco Iturralde,4460,Jaime Canuto,L,0,Armbar,World Champ.,82KG,8F,2015
+7666,6563,Francisco Iturralde,6354,Jonathan Satava,L,0,Pts: 5x2,NY Summer Open,82KG,F,2015
+8419,6563,Francisco Iturralde,5926,Thiago Gaia,L,0,Referee Decision,NoGi Worlds,73KG,4F,2015
+9104,6563,Francisco Iturralde,4542,Felipe Cesar,L,0,"Pts: 0x0, Adv",UAEJJF NYC Pro,77KG,F,2016
+9123,6563,Francisco Iturralde,4542,Felipe Cesar,L,0,"Pts: 2x2, Adv",UAEJJF NYC Pro,LWABS,F,2016
+9278,6563,Francisco Iturralde,5238,Edwin Najmi,L,0,Estima lock,Pan American,76KG,F,2016
+9984,6563,Francisco Iturralde,967,JT Torres,L,0,"Pts: 0x0, Adv",World Champ.,76KG,4F,2016
+10830,6563,Francisco Iturralde,2403,Joao Rocha,L,0,RNC,US Open,ABS,F,2016
+10919,6563,Francisco Iturralde,6354,Jonathan Satava,L,0,Pts: 2x0,NoGi Worlds,79KG,SF,2016
+12174,6563,Francisco Iturralde,4655,Michael Liera,L,0,Triangle,Pan American,76KG,4F,2017
+12647,6563,Francisco Iturralde,6354,Jonathan Satava,L,0,Pts: 3x0,World Pro,77KG,R1,2017
+13115,6563,Francisco Iturralde,428,Celso Vinicius,L,0,Pts: 2x0,World Champ.,76KG,8F,2017
+13447,6563,Francisco Iturralde,7002,Jamil Hill-Taylor,L,0,Referee Decision,FIVE Super League,70KG,4F,2017
+13812,6563,Francisco Iturralde,7539,Renato Canuto,L,0,Pts: 8x2,Grand Slam LA,77KG,F,2017
+14283,6563,Francisco Iturralde,7539,Renato Canuto,L,0,Pts: 9x0,Long Beach Open,76KG,F,2017
+14688,6563,Francisco Iturralde,4542,Felipe Cesar,L,0,Pts: 4x0,NoGi Worlds,79KG,R2,2017
+15403,6563,Francisco Iturralde,4655,Michael Liera,L,0,Choke from back,Pan American,76KG,4F,2018
+16489,6563,Francisco Iturralde,428,Celso Vinicius,L,0,Arm in guillotine,World Champ.,76KG,R2,2018
+16619,6563,Francisco Iturralde,4310,Tim Spriggs,L,0,Submission,World Champ.,ABS,RD,2018
+16971,6563,Francisco Iturralde,,J. Gracie,L,0,Choke from back,W.S.O.G.,81KG,F,2018
+18614,6563,Francisco Iturralde,4163,Marcio Andre,L,0,Toe hold,NoGi Worlds,73KG,4F,2018
+19599,6563,Francisco Iturralde,5061,Gabriel Rollo,L,0,Pts: 16x4,Pan American,76KG,4F,2019
+19686,6563,Francisco Iturralde,8357,Gustavo Batista,L,0,RNC,Pan American,ABS,4F,2019
+20719,6563,Francisco Iturralde,6631,Igor Schneider,L,0,Pts: 11x2,World Champ.,ABS,R1,2019
+23424,6563,Francisco Iturralde,,Dom Hoskins,L,0,Referee Decision,F2W 136,77KG,SPF,2020
+23711,6563,Francisco Iturralde,9440,Jeremy Jackson,L,0,"Pts: 4x4, Pen",Copa Podio,76KG,RR,2020
+23719,6563,Francisco Iturralde,,A. Munis,L,0,Pts: 2x0,Copa Podio,76KG,SF,2020
+23722,6563,Francisco Iturralde,10352,Leo Silva,L,0,Pts: 2x0,Copa Podio,76KG,3RD,2020
+4831,6563,Francisco Iturralde,,Bricklin Welch,W,1,N/A,Chicago S. Open,76KG,SF,2013
+4832,6563,Francisco Iturralde,,P. Della Monica,W,1,"Pts: 0x0, Adv",Chicago S. Open,76KG,F,2013
+4840,6563,Francisco Iturralde,,Keith Florian,W,1,Points,Boston Summer O.,76KG,SF,2013
+4964,6563,Francisco Iturralde,,Kenny Baker,W,1,RNC,NoGi Pan Am.,79KG,4F,2013
+4965,6563,Francisco Iturralde,,Daniel Tavares,W,1,Kneebar,NoGi Pan Am.,79KG,SF,2013
+4966,6563,Francisco Iturralde,2035,Vitor Oliveira,W,1,RNC,NoGi Pan Am.,79KG,F,2013
+5253,6563,Francisco Iturralde,,Pilo Stylin,W,1,Bow and arrow,European,76KG,4F,2014
+5256,6563,Francisco Iturralde,4328,AJ Agazarm,W,1,Points,European,76KG,SF,2014
+5777,6563,Francisco Iturralde,,Ruy Frade,W,1,Points,World Champ.,76KG,R1,2014
+5866,6563,Francisco Iturralde,,Bruno Sena,W,1,N/A,Boca Raton Open,76KG,SF,2014
+5867,6563,Francisco Iturralde,,Rafael Pereira,W,1,Pts: 10x0,Boca Raton Open,76KG,F,2014
+5948,6563,Francisco Iturralde,7096,Josh Hinger,W,1,Adv,American Nat.,82KG,SF,2014
+6090,6563,Francisco Iturralde,2107,Otavio Sousa,W,1,Pts: 2x0,IBJJF Pro League,82KG,SF,2014
+6580,6563,Francisco Iturralde,,Paulo Schauffler,W,1,Pts: 14x0,European,82KG,R2,2015
+6584,6563,Francisco Iturralde,7082,Luca Anacoreta,W,1,Choke,European,82KG,4F,2015
+7016,6563,Francisco Iturralde,7672,Caio Almeida,W,1,N/A,NY Spring Open,82KG,4F,2015
+7026,6563,Francisco Iturralde,6368,Kevin Mahecha,W,1,Choke,NY Spring Open,ABS,4F,2015
+7029,6563,Francisco Iturralde,,Jeferson Pereira,W,1,N/A,NY Spring Open,ABS,SF,2015
+7030,6563,Francisco Iturralde,4310,Tim Spriggs,W,1,DQ,NY Spring Open,ABS,F,2015
+7300,6563,Francisco Iturralde,6095,Mansher Khera,W,1,N/A,Boston Spring Open,ABS,SF,2015
+7330,6563,Francisco Iturralde,,Greg McIntyre,W,1,Armbar,Metamoris 6,ABS,SPF,2015
+7665,6563,Francisco Iturralde,4789,Marcos Tinoco,W,1,Points,NY Summer Open,82KG,SF,2015
+8112,6563,Francisco Iturralde,8632,Thiago Macedo,W,1,Points,Dallas Open,76KG,SF,2015
+8113,6563,Francisco Iturralde,4851,Kim Terra,W,1,Points,Dallas Open,76KG,F,2015
+8339,6563,Francisco Iturralde,,Issa Able,W,1,Armbar,Seattle Open,76KG,SF,2015
+8340,6563,Francisco Iturralde,4851,Kim Terra,W,1,Armbar,Seattle Open,76KG,F,2015
+8413,6563,Francisco Iturralde,,Rafael Benedito,W,1,"Pts: 2x2, Adv",NoGi Worlds,73KG,8F,2015
+8898,6563,Francisco Iturralde,,Daniel Rivas,W,1,RNC,F2W 2,ABS,SPF,2016
+9122,6563,Francisco Iturralde,,Charles Murdock,W,1,Choke,UAEJJF NYC Pro,LWABS,SF,2016
+9270,6563,Francisco Iturralde,1395,Luis Lima,W,1,Choke from back,Pan American,76KG,8F,2016
+9275,6563,Francisco Iturralde,5747,AJ Sousa,W,1,Pts: 4x2,Pan American,76KG,4F,2016
+9277,6563,Francisco Iturralde,5061,Gabriel Rollo,W,1,"Pts: 2x2, Adv",Pan American,76KG,SF,2016
+9969,6563,Francisco Iturralde,,Antonio Mugnaimi,W,1,Choke from back,World Champ.,76KG,R1,2016
+10824,6563,Francisco Iturralde,921,Rafael Barbosa,W,1,Pts: 7x0,US Open,82KG,RR,2016
+10825,6563,Francisco Iturralde,,Manny Gonzales,W,1,Kneebar,US Open,82KG,RR,2016
+10911,6563,Francisco Iturralde,7686,Sergio Ardila,W,1,"Pts: 0x0, Adv",NoGi Worlds,79KG,R1,2016
+10917,6563,Francisco Iturralde,8682,Lachlan Giles,W,1,Pts: 8x4,NoGi Worlds,79KG,4F,2016
+11272,6563,Francisco Iturralde,,Stephen Martinez,W,1,Referee Decision,FIVE Grappling,76KG,SPF,2016
+11779,6563,Francisco Iturralde,,Eduardo Vieira,W,1,Choke from back,Ecuador Pro,77KG,SF,2017
+12035,6563,Francisco Iturralde,,Magid Hage,W,1,Referee Decision,FIVE SL,82KG,SPF,2017
+12158,6563,Francisco Iturralde,,Enrique Galarza,W,1,Choke from back,Pan American,76KG,R2,2017
+12167,6563,Francisco Iturralde,4235,Victor Silverio,W,1,"Pts: 2x2, Adv",Pan American,76KG,8F,2017
+13109,6563,Francisco Iturralde,8112,Matheus Costa,W,1,Kneebar,World Champ.,76KG,R1,2017
+13516,6563,Francisco Iturralde,,Scott Thometz,W,1,N/A,San Jose Open,76KG,RR,2017
+13517,6563,Francisco Iturralde,7143,Breno Bittencourt,W,1,DQ,San Jose Open,76KG,F,2017
+13585,6563,Francisco Iturralde,,Blake Nolan,W,1,Necktie,Seattle Open,76KG,4F,2017
+13587,6563,Francisco Iturralde,9407,Alexandre Molinaro,W,1,RNC,Seattle Open,76KG,SF,2017
+13588,6563,Francisco Iturralde,,Ben Buttars,W,1,Armbar,Seattle Open,76KG,F,2017
+13809,6563,Francisco Iturralde,,Yago Espindola,W,1,Choke,Grand Slam LA,77KG,4F,2017
+13811,6563,Francisco Iturralde,6432,Yan Lucas,W,1,"Pts: 0x0, Adv",Grand Slam LA,77KG,SF,2017
+14281,6563,Francisco Iturralde,9407,Alexandre Molinaro,W,1,Kneebar,Long Beach Open,76KG,SF,2017
+15012,6563,Francisco Iturralde,,Piter Frank,W,1,Submission,LA Open,76KG,SF,2018
+15399,6563,Francisco Iturralde,5930,Rodrigo Freitas,W,1,Pts: 2x0,Pan American,76KG,8F,2018
+16328,6563,Francisco Iturralde,,Piter Frank,W,1,Submission,San Diego Open,76KG,F,2018
+16852,6563,Francisco Iturralde,,Dom Hoskins,W,1,Triangle,KO Finishers,76KG,4F,2018
+16853,6563,Francisco Iturralde,,Kolo Vida,W,1,Bow and arrow,KO Finishers,76KG,SF,2018
+16854,6563,Francisco Iturralde,,Jake Scovel,W,1,Bow and arrow,KO Finishers,76KG,F,2018
+16960,6563,Francisco Iturralde,8394,Vagner Rocha,W,1,Referee Decision,W.S.O.G.,81KG,8F,2018
+16965,6563,Francisco Iturralde,8427,Michael Perez,W,1,Referee Decision,W.S.O.G.,81KG,4F,2018
+16968,6563,Francisco Iturralde,,Ronaldo S.,W,1,Referee Decision,W.S.O.G.,81KG,SF,2018
+16970,6563,Francisco Iturralde,,J. Gracie,W,1,N/A,W.S.O.G.,81KG,3RD,2018
+17374,6563,Francisco Iturralde,,Arannick Montero,W,1,Choke,Elite Sub League,76KG,SPF,2018
+18604,6563,Francisco Iturralde,,Jeremiah Vance,W,1,Pts: 9x0,NoGi Worlds,73KG,R1,2018
+19339,6563,Francisco Iturralde,9440,Jeremy Jackson,W,1,Darce choke,Portland Open,76KG,SF,2019
+19340,6563,Francisco Iturralde,9407,Alexandre Molinaro,W,1,Bow and arrow,Portland Open,76KG,F,2019
+23708,6563,Francisco Iturralde,,Kanan Clarke,D,0.5,---,Copa Podio,76KG,RR,2020
+23714,6563,Francisco Iturralde,10352,Leo Silva,W,1,Armbar,Copa Podio,76KG,RR,2020
+34558,6563,Francisco Iturralde,6596,Jhonny Loureiro,W,1,Referee Decision,F2W 211,N/A,SPF,2022

@@ -1,0 +1,20 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+37182,13093,Lucas Rodrigues,11497,Fabricio Andrey,L,0,Kneebar,European Open,70KG,SF,2023
+39923,13093,Lucas Rodrigues,,Jun Yong Cho,L,0,Submission,Paris Open,70KG,F,2023
+33214,13093,Lucas Rodrigues,,Sebastian Palmdahl,W,1,Pts: 17x0,BJJ Nation,NA,SPF,2022
+33217,13093,Lucas Rodrigues,,Gabriel Azevedo,W,1,Triangle,Floripa WO,70KG,4F,2022
+33218,13093,Lucas Rodrigues,,Carlos Eduardo,W,1,Choke from back,Floripa WO,70KG,SF,2022
+33219,13093,Lucas Rodrigues,,Rafael Nascimento,W,1,Pts: 12x2,Floripa WO,70KG,F,2022
+35633,13093,Lucas Rodrigues,,Aleksandr Cassen,W,1,RNC,Finnish open,NA,4F,2022
+35634,13093,Lucas Rodrigues,,Kim Lipsanen,W,1,Armbar,Finnish open,NA,SF,2022
+35635,13093,Lucas Rodrigues,,Roni Silvennoimen,W,1,Armbar,Finnish open,NA,F,2022
+35638,13093,Lucas Rodrigues,,Ben Thompson,W,1,Armbar,London FO,76KG,4F,2022
+35641,13093,Lucas Rodrigues,,Sean White,W,1,Cross choke,London FO,76KG,SF,2022
+35642,13093,Lucas Rodrigues,11132,Leon Larman,W,1,"Pts: 2x2, Adv",London FO,76KG,F,2022
+36066,13093,Lucas Rodrigues,,Hanhee Kim,W,1,Triangle armlock,European NG,73KG,R1,2022
+36072,13093,Lucas Rodrigues,,Romao Carvalho,W,1,Guillotine,European NG,73KG,4F,2022
+36074,13093,Lucas Rodrigues,11187,Marcus Phelan,W,1,Triangle,European NG,73KG,SF,2022
+36076,13093,Lucas Rodrigues,,Ilias Dikelis,W,1,Inside heel hook,European NG,73KG,F,2022
+37176,13093,Lucas Rodrigues,,Artur Oliveita,W,1,RNC,European Open,70KG,R1,2023
+37178,13093,Lucas Rodrigues,,Wilhiam Mateus,W,1,Arm in Ezekiel,European Open,70KG,4F,2023
+39922,13093,Lucas Rodrigues,,Claudio Macedo,W,1,Choke from back,Paris Open,70KG,SF,2023

@@ -1,0 +1,26 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+766,177,Rany Yahya,419,Leonardo Vieira,L,0,Pts: 9x0,ADCC,66KG,4F,2003
+1078,177,Rany Yahya,790,Mario Reis,L,0,Omoplata,World Cup,70KG,R1,2004
+1168,177,Rany Yahya,419,Leonardo Vieira,L,0,Pts: 6x0,ADCC,66KG,F,2005
+1567,177,Rany Yahya,875,Lucas Leite,L,0,Pts: 8x3,GQ All Star Pro,72KG,SF,2007
+2241,177,Rany Yahya,147,Rubens Charles,L,0,Kimura,ADCC,66KG,SF,2009
+8766,177,Rany Yahya,8682,Lachlan Giles,L,0,Armbar,EBI 5,70KG,4F,2015
+14054,177,Rany Yahya,5909,Thiago Abreu,L,0,Guillotine,Brasileiro NoGi,73KG,F,2017
+763,177,Rany Yahya,,Teemu Launis,W,1,Submission,ADCC,66KG,R1,2003
+1162,177,Rany Yahya,,Mario Delgado,W,1,Darce choke,ADCC,66KG,R1,2005
+1164,177,Rany Yahya,2175,Wagnney Fabiano,W,1,Pts: 2x0,ADCC,66KG,4F,2005
+1166,177,Rany Yahya,687,Marcio Feitosa,W,1,Points,ADCC,66KG,SF,2005
+1527,177,Rany Yahya,,Daniel Aguilar,W,1,RNC,GQ All Star Pro,72KG,4F,2006
+1530,177,Rany Yahya,5992,Wilson Reis,W,1,Pts: 11x2,GQ All Star Pro,72KG,SF,2006
+1532,177,Rany Yahya,,Rob Di Censo,W,1,Arm in guillotine,GQ All Star Pro,72KG,F,2006
+1564,177,Rany Yahya,,Joe Stevenson,W,1,Pts: 7x0,GQ All Star Pro,72KG,4F,2007
+1674,177,Rany Yahya,,Darrel Moodley,W,1,Submission,ADCC,66KG,R1,2007
+1675,177,Rany Yahya,,Bruno Chavez,W,1,Points,ADCC,66KG,4F,2007
+1680,177,Rany Yahya,1023,Baret Yoshida,W,1,Points,ADCC,66KG,SF,2007
+1681,177,Rany Yahya,419,Leonardo Vieira,W,1,RNC,ADCC,66KG,F,2007
+2230,177,Rany Yahya,,Kouhei Yasumi,W,1,Choke,ADCC,66KG,R1,2009
+2236,177,Rany Yahya,610,Jeff Glover,W,1,Points,ADCC,66KG,4F,2009
+8760,177,Rany Yahya,,Jason Buzzard,W,1,Guillotine,EBI 5,70KG,R1,2015
+14049,177,Rany Yahya,,Ricardo Silva,W,1,N/A,Brasileiro NoGi,73KG,R1,2017
+14051,177,Rany Yahya,,Victor Matos,W,1,N/A,Brasileiro NoGi,73KG,4F,2017
+14053,177,Rany Yahya,,Pedro Alcantara,W,1,N/A,Brasileiro NoGi,73KG,SF,2017

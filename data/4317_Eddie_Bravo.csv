@@ -1,0 +1,5 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+770,4317,Eddie Bravo,419,Leonardo Vieira,L,0,Pts: 16x0,ADCC,66KG,SF,2003
+5277,4317,Eddie Bravo,515,Royler Gracie,D,0.5,---,Metamoris 3,ABS,SPF,2014
+762,4317,Eddie Bravo,620,Gustavo Dantas,W,1,RNC,ADCC,66KG,R1,2003
+767,4317,Eddie Bravo,515,Royler Gracie,W,1,Triangle,ADCC,66KG,4F,2003

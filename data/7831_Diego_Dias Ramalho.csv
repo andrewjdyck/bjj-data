@@ -1,0 +1,266 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+9141,7831,Diego Dias Ramalho,1263,Lucio Rodrigues,L,0,Points,London WO,ABS,SF,2016
+9312,7831,Diego Dias Ramalho,5423,Matheus Diniz,L,0,Pts: 13x0,Pan American,88KG,R1,2016
+9783,7831,Diego Dias Ramalho,4430,Patrick Gaudio,L,0,Triangle,Brasileiro,88KG,4F,2016
+9836,7831,Diego Dias Ramalho,2235,Renato Cardoso,L,0,Wristlock,Brasileiro,ABS,4F,2016
+12089,7831,Diego Dias Ramalho,1534,R. Evangelista,L,0,Referee Decision,Pan American,ABS,R1,2017
+12218,7831,Diego Dias Ramalho,2235,Renato Cardoso,L,0,Kneebar,Pan American,88KG,4F,2017
+12395,7831,Diego Dias Ramalho,7914,Nick Calvanese,L,0,Choke from back,NY Spring Open,88KG,F,2017
+12863,7831,Diego Dias Ramalho,4465,Andris Brunovskis,L,0,Baratoplata,Las Vegas Open,82KG,F,2017
+12956,7831,Diego Dias Ramalho,,Piter Frank,L,0,Kneebar,San Diego Open,82KG,4F,2017
+13130,7831,Diego Dias Ramalho,4235,Victor Silverio,L,0,"Pts: 2x2, Adv",World Champ.,82KG,R1,2017
+13313,7831,Diego Dias Ramalho,5655,Lucas Barbosa,L,0,"Pts: 0x0, Adv",American NG Nats,85KG,SF,2017
+13331,7831,Diego Dias Ramalho,7096,Josh Hinger,L,0,Guillotine,American NG Nats,ABS,F,2017
+13665,7831,Diego Dias Ramalho,,K. Duarte,L,0,Pts: 2x0,JJ Net Open,ABS,SF,2017
+13823,7831,Diego Dias Ramalho,4235,Victor Silverio,L,0,"Pts: 0x0, Adv",Grand Slam LA,85KG,F,2017
+14022,7831,Diego Dias Ramalho,6354,Jonathan Satava,L,0,Pts: 4x0,No Gi Pan Am.,85KG,SF,2017
+14034,7831,Diego Dias Ramalho,3200,Jackson Sousa,L,0,Pts: 4x0,No Gi Pan Am.,ABS,F,2017
+14260,7831,Diego Dias Ramalho,7922,Nick Schrock,L,0,Points,SJJIF Worlds,94KG,SF,2017
+14266,7831,Diego Dias Ramalho,4521,Erberth Santos,L,0,50/50 armbar,SJJIF Worlds,ABS,4F,2017
+14700,7831,Diego Dias Ramalho,3009,Keenan Cornelius,L,0,RNC,NoGi Worlds,85KG,SF,2017
+15018,7831,Diego Dias Ramalho,7143,Breno Bittencourt,L,0,Pts: 8x6,LA Open,82KG,SF,2018
+15037,7831,Diego Dias Ramalho,8357,Gustavo Batista,L,0,Pts: 16x0,LA Open,ABS,F,2018
+15151,7831,Diego Dias Ramalho,8516,Lucas Valente,L,0,Referee Decision,Houston Open,82KG,F,2018
+15412,7831,Diego Dias Ramalho,2107,Otavio Sousa,L,0,Ezekiel,Pan American,82KG,8F,2018
+16013,7831,Diego Dias Ramalho,7539,Renato Canuto,L,0,Points,Marianas Open,81KG,4F,2018
+16385,7831,Diego Dias Ramalho,8357,Gustavo Batista,L,0,Referee Decision,ACB North America,ABS,F,2018
+16386,7831,Diego Dias Ramalho,8357,Gustavo Batista,L,0,Referee Decision,ACB North America,ABS,3RD,2018
+16531,7831,Diego Dias Ramalho,7552,Isaque Bahiense,L,0,North south choke,World Champ.,82KG,R2,2018
+16820,7831,Diego Dias Ramalho,9067,Leonardo Lara,L,0,Pts: 2x0,ACBJJ World,75KG,4F,2018
+17138,7831,Diego Dias Ramalho,,Sandro Vieira,L,0,Referee Decision,ACBJJ Poland,85KG,F,2018
+17146,7831,Diego Dias Ramalho,9637,Sergio Rios,L,0,Submission,ACBJJ Poland,ABS,4F,2018
+17590,7831,Diego Dias Ramalho,5636,Manuel Ribamar,L,0,Referee Decision,Grand Slam LA,85KG,SF,2018
+18306,7831,Diego Dias Ramalho,7552,Isaque Bahiense,L,0,Pts: 11x0,Grand Slam RJ,85KG,F,2018
+18853,7831,Diego Dias Ramalho,5636,Manuel Ribamar,L,0,Armbar,King of Mats II,85KG,RR,2019
+18856,7831,Diego Dias Ramalho,2226,DJ Jackson,L,0,"Pts: 0x0, Adv",King of Mats II,85KG,RR,2019
+18857,7831,Diego Dias Ramalho,7552,Isaque Bahiense,L,0,Bow and arrow,King of Mats II,85KG,RR,2019
+19441,7831,Diego Dias Ramalho,8448,Pedro Ramalho,L,0,Pts: 6x0,Grand Slam LDN,77KG,4F,2019
+19447,7831,Diego Dias Ramalho,8448,Pedro Ramalho,L,0,"Pts: 2x2, Adv",Grand Slam LDN,77KG,3RD,2019
+20105,7831,Diego Dias Ramalho,8105,Tommy Langaker,L,0,Pts: 4x0,World Pro,77KG,4F,2019
+21624,7831,Diego Dias Ramalho,8105,Tommy Langaker,L,0,Armbar,King Of Mats,85KG,RR,2019
+21626,7831,Diego Dias Ramalho,4789,Marcos Tinoco,L,0,Footlock,King Of Mats,85KG,RR,2019
+21629,7831,Diego Dias Ramalho,8357,Gustavo Batista,L,0,Bow and arrow,King Of Mats,85KG,RR,2019
+21681,7831,Diego Dias Ramalho,4460,Jaime Canuto,L,0,"Pts: 2x2, Adv",Grand Slam LA,77KG,F,2019
+22169,7831,Diego Dias Ramalho,10506,Jeferson Guaresi,L,0,Pts: 8x0,European NoGi,79KG,F,2019
+22307,7831,Diego Dias Ramalho,11015,Pablo Lavaselli,L,0,Referee Decision,Grand Slam RJ,77KG,4F,2019
+22877,7831,Diego Dias Ramalho,,Felipe Silva,L,0,Pts: 4x2,NoGi Worlds,79KG,4F,2019
+22986,7831,Diego Dias Ramalho,8105,Tommy Langaker,L,0,Armbar,Grand Slam AD,77KG,F,2020
+23628,7831,Diego Dias Ramalho,8308,Max Lindblad,L,0,Pts: 7x6,Grand Slam LDN,77KG,4F,2020
+24508,7831,Diego Dias Ramalho,1534,R. Evangelista,L,0,Referee Decision,No Gi Pan Am.,O97KG,SF,2020
+25462,7831,Diego Dias Ramalho,11991,Pedro Marinho,L,0,Guillotine,Orlando NGO,91KG,SF,2021
+25475,7831,Diego Dias Ramalho,11797,Giancarlo Bodoni,L,0,Pts: 5x2,Orlando NGO,ABS,SF,2021
+26040,7831,Diego Dias Ramalho,9002,Matheus Gabriel,L,0,Pts: 2x0,N.Orleans NGO,ABS,F,2021
+26172,7831,Diego Dias Ramalho,9157,Devhonte Johnson,L,0,Referee Decision,NoGi Pan Am.,97KG,SF,2021
+26290,7831,Diego Dias Ramalho,4248,Gianni Grippo,L,0,Referee Decision,Miami NGO,ABS,F,2021
+26566,7831,Diego Dias Ramalho,7502,Paul Ardila,L,0,"Pts: 0x0, Adv",Atlanta NGO,100KG,F,2021
+26746,7831,Diego Dias Ramalho,9559,Rida Haisam,L,0,Armbar,American NGN,97KG,F,2021
+26884,7831,Diego Dias Ramalho,12236,Joao Costa,L,0,"Pts: 0x0, Adv",Chicago NGO,97KG,F,2021
+26889,7831,Diego Dias Ramalho,11707,Oliver Taza,L,0,Kneebar,Chicago NGO,ABS,SF,2021
+27511,7831,Diego Dias Ramalho,12203,Austin Baker,L,0,Choke from back,Pan American,ABS,8F,2021
+27617,7831,Diego Dias Ramalho,,Xavier Silva,L,0,Referee Decision,Pan American,94KG,8F,2021
+28318,7831,Diego Dias Ramalho,8394,Vagner Rocha,L,0,Referee Decision,NoGi Worlds,91KG,SF,2021
+30356,7831,Diego Dias Ramalho,10174,Rafael Paganini,L,0,Guillotine,ADCC BR2 Trials,88KG,4F,2022
+33727,7831,Diego Dias Ramalho,4460,Jaime Canuto,L,0,Pts: 2x0,Austin SMNGO,ABS,F,2022
+34813,7831,Diego Dias Ramalho,6337,Arnaldo Maidana,L,0,Referee Decision,JJ Con NG,,F,2022
+35287,7831,Diego Dias Ramalho,,Justin Primrose,L,0,Pts: 2x0,Charlotte Open,100KG,RR,2022
+35839,7831,Diego Dias Ramalho,11991,Pedro Marinho,L,0,RNC,Charleston FNGO,85KG,F,2022
+36888,7831,Diego Dias Ramalho,8686,Fellipe Trovo,L,0,RNC,NoGi Worlds,97KG,8F,2022
+39768,7831,Diego Dias Ramalho,6805,Max Gimenis,L,0,"Pts: 0x0, Adv",Atanta SPO,ABS,F,2023
+39784,7831,Diego Dias Ramalho,6805,Max Gimenis,L,0,Pts: 2x0,Atanta SPNG,ABS,F,2023
+39887,7831,Diego Dias Ramalho,6631,Igor Schneider,L,0,Referee Decision,Houston Open,O100KG,4F,2023
+41154,7831,Diego Dias Ramalho,13379,Felipe Costa,L,0,Referee Decision,American Nats,100KG,SF,2023
+41164,7831,Diego Dias Ramalho,10509,Mathias Luna,L,0,"Pts: 0x0, Pen",American Nats,ABS,R1,2023
+9088,7831,Diego Dias Ramalho,,Marko Jokmanovic,W,1,Botinha,Munich Open,88KG,F,2016
+9089,7831,Diego Dias Ramalho,,Tsuyoshi Tamaki,W,1,Botinha,Munich Open,ABS,4F,2016
+9090,7831,Diego Dias Ramalho,,Karim Khalifa,W,1,Points,Munich Open,ABS,SF,2016
+9091,7831,Diego Dias Ramalho,,Vinicius Nascimento,W,1,Adv,Munich Open,ABS,F,2016
+9093,7831,Diego Dias Ramalho,,Mladen Jokmanovic,W,1,Botinha,Munich No-Gi,85KG,F,2016
+9094,7831,Diego Dias Ramalho,,Haim Gozali,W,1,Botinha,Munich No-Gi,ABS,SF,2016
+9095,7831,Diego Dias Ramalho,,Vinicius Nascimento,W,1,Botinha,Munich No-Gi,ABS,F,2016
+9133,7831,Diego Dias Ramalho,,Marcos Filho,W,1,Botinha,London WO,88KG,SF,2016
+9134,7831,Diego Dias Ramalho,11111,Santeri Lilius,W,1,Points,London WO,88KG,F,2016
+9140,7831,Diego Dias Ramalho,,Sandro Vieira,W,1,Points,London WO,ABS,4F,2016
+9176,7831,Diego Dias Ramalho,,Matheus Souza,W,1,Adv,Rio Summer Open,88KG,4F,2016
+9178,7831,Diego Dias Ramalho,,Pedro Peres,W,1,Botinha,Rio Summer Open,88KG,SF,2016
+9180,7831,Diego Dias Ramalho,,Paulo Ledesma,W,1,Footlock,Rio Summer Open,88KG,F,2016
+9195,7831,Diego Dias Ramalho,7224,Diogo Almeida,W,1,Points,Rio S. No-Gi Open,85KG,SF,2016
+9196,7831,Diego Dias Ramalho,,Marcos Alves,W,1,Botinha,Rio S. No-Gi Open,85KG,F,2016
+9404,7831,Diego Dias Ramalho,,Romario Teodoro,W,1,Adv,Pernambucano,88KG,F,2016
+9774,7831,Diego Dias Ramalho,,Anderson Lira,W,1,Points,Brasileiro,88KG,R1,2016
+9778,7831,Diego Dias Ramalho,,Ludi Goulart,W,1,DQ,Brasileiro,88KG,8F,2016
+9817,7831,Diego Dias Ramalho,7224,Diogo Almeida,W,1,Points,Brasileiro,ABS,RD,2016
+9826,7831,Diego Dias Ramalho,6631,Igor Schneider,W,1,Adv,Brasileiro,ABS,8F,2016
+9839,7831,Diego Dias Ramalho,,Fabio Bolinho,W,1,Botinha,Copa Heroes,89KG,4F,2016
+9840,7831,Diego Dias Ramalho,,Armando,W,1,Botinha,Copa Heroes,89KG,SF,2016
+9841,7831,Diego Dias Ramalho,,Leandro Teodoro,W,1,Points,Pernambucano,88KG,SF,2016
+9842,7831,Diego Dias Ramalho,,Alysson Bruno,W,1,Points,Nordeste Open,88KG,4F,2016
+9843,7831,Diego Dias Ramalho,,Italo Goncalves,W,1,Points,Nordeste Open,88KG,SF,2016
+9844,7831,Diego Dias Ramalho,,Alvaro Fontes,W,1,Adv,Nordeste Open,88KG,F,2016
+9845,7831,Diego Dias Ramalho,,Pedro Henrique,W,1,Ezekiel,Nordeste Open,ABS,R1,2016
+9846,7831,Diego Dias Ramalho,,Italo Ramon,W,1,Injury,Nordeste Open,ABS,4F,2016
+9847,7831,Diego Dias Ramalho,,Rafael Aladin,W,1,Toe hold,Sandro Melo Cup,90KG,SF,2016
+9848,7831,Diego Dias Ramalho,,Edcarlos Beijamin,W,1,Toe hold,Sandro Melo Cup,90KG,F,2016
+9849,7831,Diego Dias Ramalho,,Unknown,W,1,Adv,Sandro Melo Cup,ABS,4F,2016
+9850,7831,Diego Dias Ramalho,,Unknown,W,1,Botinha,Sandro Melo Cup,ABS,SF,2016
+9851,7831,Diego Dias Ramalho,,Jackson Goncalves,W,1,Botinha,Sandro Melo Cup,ABS,F,2016
+10850,7831,Diego Dias Ramalho,6375,Ruan Oliveira,W,1,Points,Brasileiro NoGi,85KG,SF,2016
+10865,7831,Diego Dias Ramalho,,Silvano Dias,W,1,Choke,Copa RN,88KG,F,2016
+10866,7831,Diego Dias Ramalho,,Nilson Carvalho,W,1,Kimura,Copa RN,O77KG,4F,2016
+10867,7831,Diego Dias Ramalho,,Nilson Carvalho,W,1,Botinha,Copa RN,ABS,8F,2016
+10868,7831,Diego Dias Ramalho,,Herico Hesley,W,1,Adv,Copa RN,ABS,SF,2016
+10869,7831,Diego Dias Ramalho,,Ivaldo Natal,W,1,Points,Pernambucano NG,ABS,F,2016
+11419,7831,Diego Dias Ramalho,,Vinny Morais,W,1,Botinha,NABJJF LA Open,86KG,F,2017
+11420,7831,Diego Dias Ramalho,,Vinny Morais,W,1,Botinha,NABJJF LA Open,ABS,F,2017
+11855,7831,Diego Dias Ramalho,,Jose Portillo,W,1,Botinha,Houston Open,88KG,SF,2017
+11856,7831,Diego Dias Ramalho,7743,Inacio Neto,W,1,Botinha,Houston Open,88KG,F,2017
+12213,7831,Diego Dias Ramalho,,Esdras Barbosa,W,1,Pts: 6x2,Pan American,88KG,8F,2017
+12392,7831,Diego Dias Ramalho,,Vinicius Canabarro,W,1,Botinha,NY Spring Open,88KG,4F,2017
+12394,7831,Diego Dias Ramalho,7399,Horlando Monteiro,W,1,Pts: 6x4,NY Spring Open,88KG,SF,2017
+12412,7831,Diego Dias Ramalho,,Jarod Lawton,W,1,Pts: 2x0,NY Spring No-Gi,83KG,SF,2017
+12413,7831,Diego Dias Ramalho,,Samir Abdolkader,W,1,Pts: 2x0,NY Spring No-Gi,83KG,F,2017
+12862,7831,Diego Dias Ramalho,9706,Marcelo Mafra,W,1,"Pts: 0x0, Adv",Las Vegas Open,82KG,SF,2017
+13312,7831,Diego Dias Ramalho,,Cleves Matos,W,1,Pts: 4x2,American NG Nats,85KG,4F,2017
+13323,7831,Diego Dias Ramalho,,Joseph Moku,W,1,Pts: 2x0,American NG Nats,ABS,R1,2017
+13328,7831,Diego Dias Ramalho,6592,Dany Gerard,W,1,Pts: 6x4,American NG Nats,ABS,4F,2017
+13330,7831,Diego Dias Ramalho,,Daniel Hampton,W,1,Adv,American NG Nats,ABS,SF,2017
+13663,7831,Diego Dias Ramalho,,Aarion Brown,W,1,Kneebar,JJ Net Open,ABS,R1,2017
+13664,7831,Diego Dias Ramalho,,D. Vazquez,W,1,Pts: 2x0,JJ Net Open,ABS,4F,2017
+13816,7831,Diego Dias Ramalho,11257,Gabriel Procopio,W,1,"Pts: 8x8, Adv",Grand Slam LA,85KG,R1,2017
+13819,7831,Diego Dias Ramalho,,Steven Silva,W,1,Pts: 3x0,Grand Slam LA,85KG,4F,2017
+13821,7831,Diego Dias Ramalho,2107,Otavio Sousa,W,1,"Pts: 0x0, Adv",Grand Slam LA,85KG,SF,2017
+14018,7831,Diego Dias Ramalho,9640,Brian Beaury,W,1,Submission,No Gi Pan Am.,85KG,4F,2017
+14033,7831,Diego Dias Ramalho,,Eliott Kelly,W,1,Referee Decision,No Gi Pan Am.,ABS,SF,2017
+14506,7831,Diego Dias Ramalho,6836,John Combs,W,1,Referee Decision,F2W 56,82KG,SPF,2017
+14726,7831,Diego Dias Ramalho,,David Mitchell,W,1,DQ,NoGi Worlds,ABS,R1,2017
+15015,7831,Diego Dias Ramalho,,Rennick Kama,W,1,Bow and arrow,LA Open,82KG,4F,2018
+15032,7831,Diego Dias Ramalho,,Gianni Crivello,W,1,Adv,LA Open,ABS,4F,2018
+15035,7831,Diego Dias Ramalho,6592,Dany Gerard,W,1,Pts: 2x0,LA Open,ABS,SF,2018
+15150,7831,Diego Dias Ramalho,8477,Igor Paiva,W,1,Adv,Houston Open,82KG,SF,2018
+15306,7831,Diego Dias Ramalho,,Unknown,W,1,Clock choke,Marianas EP,85KG,4F,2018
+15307,7831,Diego Dias Ramalho,,Unknown,W,1,Botinha,Marianas EP,85KG,SF,2018
+15308,7831,Diego Dias Ramalho,,Unknown,W,1,Botinha,Marianas EP,85KG,F,2018
+16010,7831,Diego Dias Ramalho,,Thomas Metz,W,1,Referee Decision,Marianas Open,81KG,R1,2018
+16360,7831,Diego Dias Ramalho,,Stephen Martinez,W,1,Pts: 2x0,ACB North America,85KG,SF,2018
+16361,7831,Diego Dias Ramalho,,Thomas Keenan,W,1,Pts: 4x2,ACB North America,85KG,F,2018
+16373,7831,Diego Dias Ramalho,7143,Breno Bittencourt,W,1,Pts: 6x4,ACB North America,ABS,8F,2018
+16381,7831,Diego Dias Ramalho,9637,Sergio Rios,W,1,Referee Decision,ACB North America,ABS,4F,2018
+16383,7831,Diego Dias Ramalho,8634,Rafael Vasconcelos,W,1,Referee Decision,ACB North America,ABS,SF,2018
+16524,7831,Diego Dias Ramalho,,Thomas Oyarzun,W,1,Pts: 2x0,World Champ.,82KG,R1,2018
+17000,7831,Diego Dias Ramalho,9606,Inseong Jang,W,1,Pts: 2x0,Grand Slam TYO,77KG,R1,2018
+17004,7831,Diego Dias Ramalho,1014,Jake Mackenzie,W,1,Pts: 2x0,Grand Slam TYO,77KG,4F,2018
+17008,7831,Diego Dias Ramalho,,Yuji Okamoto,W,1,Botinha,Grand Slam TYO,77KG,SF,2018
+17010,7831,Diego Dias Ramalho,,Kleber Koike,W,1,"Pts: 8x8, Adv",Grand Slam TYO,77KG,F,2018
+17120,7831,Diego Dias Ramalho,,Roberto Pastuch,W,1,Pts: 6x0,ACBJJ NG Poland,85KG,SF,2018
+17121,7831,Diego Dias Ramalho,9117,Hygor Brito,W,1,Pts: 2x0,ACBJJ NG Poland,85KG,F,2018
+17134,7831,Diego Dias Ramalho,6351,Alec Baulding,W,1,Pts: 4x0,ACBJJ Poland,85KG,4F,2018
+17136,7831,Diego Dias Ramalho,,Piotr Frechowicz,W,1,Pts: 2x0,ACBJJ Poland,85KG,SF,2018
+17145,7831,Diego Dias Ramalho,,Andrzej Migaj,W,1,Submission,ACBJJ Poland,ABS,R1,2018
+17148,7831,Diego Dias Ramalho,,Antonio Junior,W,1,Submission,ACBJJ Poland,ABS,3RD,2018
+17588,7831,Diego Dias Ramalho,,Bradley Hill,W,1,"Pts: 0x0, Adv",Grand Slam LA,85KG,4F,2018
+17594,7831,Diego Dias Ramalho,,Victor Rodrigues,W,1,Pts: 8x2,Grand Slam LA,85KG,RR,2018
+17596,7831,Diego Dias Ramalho,8116,Dante Leon,W,1,Referee Decision,Grand Slam LA,85KG,3RD,2018
+17962,7831,Diego Dias Ramalho,,Alexander Neufang,W,1,Pts: 6x4,German Nat. Pro,110KG,4F,2018
+17964,7831,Diego Dias Ramalho,10318,Eldar Rafigaev,W,1,Pts: 4x2,German Nat. Pro,110KG,SF,2018
+17965,7831,Diego Dias Ramalho,,Walter Santos,W,1,"Pts: 0x0, Adv",German Nat. Pro,110KG,F,2018
+18024,7831,Diego Dias Ramalho,,Andreas Perales,W,1,"Pts: 0x0, Adv",Greece Nat. Pro,85KG,F,2018
+18298,7831,Diego Dias Ramalho,,Bradley Hill,W,1,Pts: 2x0,Grand Slam RJ,85KG,R2,2018
+18301,7831,Diego Dias Ramalho,,Edjonson Andrade,W,1,Botinha,Grand Slam RJ,85KG,4F,2018
+18302,7831,Diego Dias Ramalho,,Henrique Moreira,W,1,Botinha,Grand Slam RJ,85KG,SF,2018
+18433,7831,Diego Dias Ramalho,,Pedro Melo,W,1,N/A,Salvador SPO.,88KG,SF,2018
+18434,7831,Diego Dias Ramalho,9700,David Raab,W,1,N/A,Salvador SPO.,88KG,F,2018
+18810,7831,Diego Dias Ramalho,9407,Alexandre Molinaro,W,1,Pts: 2x0,Grand Slam AD,77KG,4F,2019
+18813,7831,Diego Dias Ramalho,8290,Marcos Costa,W,1,Pts: 2x0,Grand Slam AD,77KG,SF,2019
+18814,7831,Diego Dias Ramalho,9014,Levi Jones,W,1,"Pts: 0x0, Adv",Grand Slam AD,77KG,F,2019
+19257,7831,Diego Dias Ramalho,,Josue Silva,W,1,"Pts: 0x0, Adv",US Continental,110KG,F,2019
+19261,7831,Diego Dias Ramalho,,Ramon Gomez,W,1,N/A,EU Continental,85KG,SF,2019
+19262,7831,Diego Dias Ramalho,,Jonathan Maflin,W,1,N/A,EU Continental,85KG,F,2019
+19436,7831,Diego Dias Ramalho,,Bradley Hill,W,1,Referee Decision,Grand Slam LDN,77KG,R1,2019
+19446,7831,Diego Dias Ramalho,,David Zeken,W,1,Botinha,Grand Slam LDN,77KG,RPC,2019
+20095,7831,Diego Dias Ramalho,10004,Ali Monfaradi,W,1,Botinha,World Pro,77KG,R2,2019
+20111,7831,Diego Dias Ramalho,10004,Ali Monfaradi,W,1,Botinha,World Pro,77KG,RPC,2019
+20113,7831,Diego Dias Ramalho,8308,Max Lindblad,W,1,Pts: 6x4,World Pro,77KG,RPC,2019
+20115,7831,Diego Dias Ramalho,,Bradley Hill,W,1,"Pts: 0x0, Adv",World Pro,77KG,RPC,2019
+20116,7831,Diego Dias Ramalho,7321,Darragh OConaill,W,1,Pts: 2x0,World Pro,77KG,3RD,2019
+20785,7831,Diego Dias Ramalho,10216,Natan Chueng,W,1,Pts: 2x0,Grand Slam MSK,77KG,SF,2019
+20787,7831,Diego Dias Ramalho,,Andre Cantanhede,W,1,Pts: 6x4,Grand Slam MSK,77KG,F,2019
+20895,7831,Diego Dias Ramalho,,Kalil Nascimento,W,1,Pts: 4x2,British NGN,83KG,F,2019
+20896,7831,Diego Dias Ramalho,,Kalil Nascimento,W,1,Toe hold,British NGN,ABS,SF,2019
+20899,7831,Diego Dias Ramalho,,Charles McGuire,W,1,Baseball choke,British National,94KG,F,2019
+21044,7831,Diego Dias Ramalho,,M. Almeida,W,1,Pts: 2x0,ACB World Champ.,80KG,4F,2019
+21045,7831,Diego Dias Ramalho,,Islam Dolgatov,W,1,Botinha,ACB World Champ.,80KG,SF,2019
+21046,7831,Diego Dias Ramalho,9637,Sergio Rios,W,1,Botinha,ACB World Champ.,80KG,F,2019
+21241,7831,Diego Dias Ramalho,8308,Max Lindblad,W,1,Pts: 4x2,Grand Slam TYO,77KG,SF,2019
+21244,7831,Diego Dias Ramalho,9014,Levi Jones,W,1,Pts: 4x2,Grand Slam TYO,77KG,F,2019
+21465,7831,Diego Dias Ramalho,11027,Pedro Rocha,W,1,Botinha,Las Vegas NGO,85KG,SF,2019
+21466,7831,Diego Dias Ramalho,631,Rodrigo Caporal,W,1,Points,Las Vegas NGO,85KG,F,2019
+21676,7831,Diego Dias Ramalho,10216,Natan Chueng,W,1,Pts: 2x0,Grand Slam LA,77KG,4F,2019
+21679,7831,Diego Dias Ramalho,9217,Caio Caetano,W,1,"Pts: 2x2, Adv",Grand Slam LA,77KG,SF,2019
+21957,7831,Diego Dias Ramalho,898,Bill Cooper,W,1,Botinha,World Festival,82KG,SPF,2019
+21995,7831,Diego Dias Ramalho,,Giovanni Marcelo,W,1,N/A,Atlanta SM NGO,ABS,4F,2019
+21997,7831,Diego Dias Ramalho,,Manuel Macias,W,1,N/A,Atlanta SM NGO,ABS,SF,2019
+22163,7831,Diego Dias Ramalho,,Adriano Araujo,W,1,Points,European NoGi,79KG,R1,2019
+22166,7831,Diego Dias Ramalho,,Kaakko Vilander,W,1,N/A,European NoGi,79KG,4F,2019
+22167,7831,Diego Dias Ramalho,,Dudi Zaken,W,1,N/A,European NoGi,79KG,SF,2019
+22299,7831,Diego Dias Ramalho,9312,Alexandre Cavaliere,W,1,Referee Decision,Grand Slam RJ,77KG,R1,2019
+22313,7831,Diego Dias Ramalho,,Marcelo Pereira,W,1,Botinha,Grand Slam RJ,77KG,RPC,2019
+22314,7831,Diego Dias Ramalho,9121,Ygor Rodrigues,W,1,"Pts: 0x0, Adv",Grand Slam RJ,77KG,RPC,2019
+22316,7831,Diego Dias Ramalho,11015,Pablo Lavaselli,W,1,Pts: 4x2,Grand Slam RJ,77KG,3RD,2019
+22866,7831,Diego Dias Ramalho,9253,Michael Trasso,W,1,"Pts: 0x0, Adv",NoGi Worlds,79KG,R1,2019
+22981,7831,Diego Dias Ramalho,,Adriano Araujo,W,1,Points,Grand Slam AD,77KG,4F,2020
+22984,7831,Diego Dias Ramalho,11039,Flavio Vianna,W,1,Pts: 2x1,Grand Slam AD,77KG,SF,2020
+23242,7831,Diego Dias Ramalho,,Gabriel Araujo,W,1,N/A,Atlanta WO,94KG,SF,2020
+23243,7831,Diego Dias Ramalho,,Walton Presto,W,1,N/A,Atlanta WO,94KG,F,2020
+23585,7831,Diego Dias Ramalho,,Bryn Jenkins,W,1,Pts: 2x0,European Pro,77KG,RR,2020
+23586,7831,Diego Dias Ramalho,,Alberto Govea,W,1,Submission,European Pro,77KG,RR,2020
+23627,7831,Diego Dias Ramalho,,Alberto Serrano,W,1,Botinha,Grand Slam LDN,77KG,R1,2020
+23636,7831,Diego Dias Ramalho,,Lucas Silva,W,1,Botinha,Grand Slam LDN,77KG,RPC,2020
+23638,7831,Diego Dias Ramalho,8647,Igor Verissimo,W,1,Pts: 4x2,Grand Slam LDN,77KG,RPC,2020
+23639,7831,Diego Dias Ramalho,,Pedro Neto,W,1,Submission,Grand Slam LDN,77KG,3RD,2020
+23798,7831,Diego Dias Ramalho,,Alex Larmey,W,1,Referee Decision,F2W 145,88KG,SPF,2020
+24505,7831,Diego Dias Ramalho,,Jordan More,W,1,DQ,No Gi Pan Am.,O97KG,4F,2020
+25266,7831,Diego Dias Ramalho,,Jason Bucher,W,1,Toe hold,F2W 167,ABS,SPF,2021
+25473,7831,Diego Dias Ramalho,11384,Andre Porfirio,W,1,Heel hook,Orlando NGO,ABS,4F,2021
+25841,7831,Diego Dias Ramalho,12378,Joe Dierkhising,W,1,Pts: 2x0,Houston NGO,97KG,SF,2021
+25842,7831,Diego Dias Ramalho,,Daniel Hampton,W,1,Pts: 9x0,Houston NGO,97KG,F,2021
+26033,7831,Diego Dias Ramalho,,Robert Dunn,W,1,Botinha,N.Orleans NGO,97KG,SF,2021
+26034,7831,Diego Dias Ramalho,,Jae McIntosh,W,1,Botinha,N.Orleans NGO,97KG,F,2021
+26038,7831,Diego Dias Ramalho,11797,Giancarlo Bodoni,W,1,Footlock,N.Orleans NGO,ABS,SF,2021
+26165,7831,Diego Dias Ramalho,,Antonio Zuazo,W,1,Pts: 2x0,NoGi Pan Am.,97KG,R1,2021
+26168,7831,Diego Dias Ramalho,11939,Jackson Douglas,W,1,Pts: 4x2,NoGi Pan Am.,97KG,4F,2021
+26248,7831,Diego Dias Ramalho,,Jae McIntosh,W,1,Armbar,Memphis NGO,97KG,F,2021
+26286,7831,Diego Dias Ramalho,,Daniel Rivera,W,1,Pts: 18x0,Miami NGO,ABS,4F,2021
+26288,7831,Diego Dias Ramalho,,Suraj Budhram,W,1,Adv,Miami NGO,ABS,SF,2021
+26572,7831,Diego Dias Ramalho,12338,Gialysson Freitas,W,1,Pts: 9x4,Atlanta NGO,ABS,4F,2021
+26574,7831,Diego Dias Ramalho,7704,Helton Jose,W,1,Referee Decision,Atlanta NGO,ABS,SF,2021
+26575,7831,Diego Dias Ramalho,12372,Francisco Cuneo,W,1,Pts: 2x0,Atlanta NGO,ABS,F,2021
+26745,7831,Diego Dias Ramalho,,Daniel Hampton,W,1,Pts: 5x0,American NGN,97KG,SF,2021
+26887,7831,Diego Dias Ramalho,,Charles Radtke,W,1,Inside heel hook,Chicago NGO,ABS,4F,2021
+26972,7831,Diego Dias Ramalho,,Charles McGuire,W,1,Inside heel hook,Austin NGO,97KG,F,2021
+27358,7831,Diego Dias Ramalho,12275,Davi Cabral,W,1,Pts: 14x2,Charleston SNG,97KG,F,2021
+27507,7831,Diego Dias Ramalho,,Garrett Beck,W,1,Pts: 14x0,Pan American,ABS,R1,2021
+28148,7831,Diego Dias Ramalho,13031,Lucas Lisboa,W,1,"Pts: 4x4, Adv",Charlotte Open,94KG,4F,2021
+28149,7831,Diego Dias Ramalho,,C. Passarrello,W,1,"Pts: 0x0, Pen",Charlotte Open,94KG,SF,2021
+28150,7831,Diego Dias Ramalho,,Diego Gamonal,W,1,"Pts: 0x0, Adv",Charlotte Open,94KG,F,2021
+28168,7831,Diego Dias Ramalho,,Aaron Russell,W,1,Guillotine,Charlotte NGO,91KG,SF,2021
+28312,7831,Diego Dias Ramalho,,Jorge Escudero,W,1,"Pts: 0x0, Adv",NoGi Worlds,91KG,8F,2021
+28316,7831,Diego Dias Ramalho,12069,Bruno Matias,W,1,Inside heel hook,NoGi Worlds,91KG,4F,2021
+29397,7831,Diego Dias Ramalho,,Jarod Lawton,W,1,Points,Toro Cup 18,94KG,SPF,2021
+30307,7831,Diego Dias Ramalho,,Rafael Rodrigues,W,1,Inside heel hook,ADCC BR2 Trials,88KG,R2,2022
+30335,7831,Diego Dias Ramalho,,Gabriel Martins,W,1,Inside heel hook,ADCC BR2 Trials,88KG,R3,2022
+30349,7831,Diego Dias Ramalho,,Vitor Souza,W,1,Calf slicer,ADCC BR2 Trials,88KG,8F,2022
+33726,7831,Diego Dias Ramalho,,Austin Oranday,W,1,Calf slicer,Austin SMNGO,ABS,SF,2022
+33813,7831,Diego Dias Ramalho,,Pablo Almeida,W,1,Verbal tap,Orlando SMNGO,O97KG,F,2022
+34419,7831,Diego Dias Ramalho,9157,Devhonte Johnson,W,1,Points,N. Haven NGO,97KG,F,2022
+34811,7831,Diego Dias Ramalho,11939,Jackson Douglas,W,1,Referee Decision,JJ Con NG,O97KG,SF,2022
+35286,7831,Diego Dias Ramalho,,Justin Primrose,W,1,Referee Decision,Charlotte Open,100KG,RR,2022
+35837,7831,Diego Dias Ramalho,,Charles Lynch,W,1,Aoki lock,Charleston FNGO,85KG,SF,2022
+35841,7831,Diego Dias Ramalho,,Clay Mayfield,W,1,Points,Charleston FNGO,ABS,4F,2022
+35844,7831,Diego Dias Ramalho,12372,Francisco Cuneo,W,1,Referee Decision,Charleston FNGO,ABS,SF,2022
+39783,7831,Diego Dias Ramalho,,Lucas Brito,W,1,Pts: 2x0,Atanta SPNG,ABS,SF,2023
+40799,7831,Diego Dias Ramalho,11093,Emilio Hernandez,W,1,Pts: 6x0,Indianap. NGO,91KG,SF,2023
+40800,7831,Diego Dias Ramalho,,Max Hanson,W,1,Pts: 9x0,Indianap. NGO,91KG,F,2023
+41226,7831,Diego Dias Ramalho,,Adam Bradley,W,1,"Pts: 0x0, Adv",American NNG,97KG,F,2023
+41363,7831,Diego Dias Ramalho,,Matheus Bloemer,W,1,Armbar,NOrleans NGO,ABS,SF,2023
+41365,7831,Diego Dias Ramalho,10509,Mathias Luna,W,1,"Pts: 0x0, Adv",NOrleans NGO,ABS,F,2023
+41562,7831,Diego Dias Ramalho,11939,Jackson Douglas,W,1,N/A,Orlando SMO,100KG,F,2023
+41592,7831,Diego Dias Ramalho,,Adolfo Santiago,W,1,Pts: 4x0,Orlando SMNGO,97KG,F,2023

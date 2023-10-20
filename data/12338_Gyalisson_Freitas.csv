@@ -1,0 +1,42 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+17430,12338,Gyalisson Freitas,9253,Michael Trasso,L,0,Pts: 2x0,No Gi Pan Am.,79KG,R1,2018
+17869,12338,Gyalisson Freitas,9440,Jeremy Jackson,L,0,Pts: 4x2,Twin Cities Open,76KG,F,2018
+17874,12338,Gyalisson Freitas,8729,Matt Leighton,L,0,Pts: 4x2,Twin Cities Open,ABS,SF,2018
+19506,12338,Gyalisson Freitas,,Daniel Speirn,L,0,Pts: 4x2,Cincinnati Open,82KG,F,2019
+19611,12338,Gyalisson Freitas,,Piter Frank,L,0,Kneebar,Pan American,82KG,R1,2019
+19901,12338,Gyalisson Freitas,9640,Brian Beaury,L,0,Points,Washington DCO,82KG,SF,2019
+19951,12338,Gyalisson Freitas,,Olivier Kee-Seng,L,0,Points,Boston Sp. Open,82KG,4F,2019
+22517,12338,Gyalisson Freitas,7872,Gilson Nunes,L,0,Points,Kansas Open,ABS,F,2019
+24469,12338,Gyalisson Freitas,11646,Andre Gois,L,0,Pts: 2x0,No Gi Pan Am.,79KG,R1,2020
+25418,12338,Gyalisson Freitas,10506,Jeferson Guaresi,L,0,Choke from back,Orlando Open,82KG,4F,2021
+25742,12338,Gyalisson Freitas,11697,Tainan Dalpra,L,0,Kneebar,Charleston Open,82KG,F,2021
+26542,12338,Gyalisson Freitas,,Frederico Alves,L,0,"Pts: 0x0, Adv",Atlanta Open,82KG,F,2021
+26553,12338,Gyalisson Freitas,11384,Andre Porfirio,L,0,Botinha,Atlanta Open,ABS,F,2021
+26572,12338,Gyalisson Freitas,7831,Diego Ramalho,L,0,Pts: 9x4,Atlanta NGO,ABS,4F,2021
+26912,12338,Gyalisson Freitas,,Hunter Colvin,L,0,RNC,F2W 176,N/A,SPF,2021
+27246,12338,Gyalisson Freitas,10085,Johnatha Alves,L,0,Armbar,Grand Slam MIA,77KG,SF,2021
+27251,12338,Gyalisson Freitas,12629,Fabricio Barbarotti,L,0,Pts: 7x5,Grand Slam MIA,77KG,RPC,2021
+28146,12338,Gyalisson Freitas,6354,Jonathan Satava,L,0,"Pts: 2x2, Adv",Charlotte Open,82KG,SF,2021
+28157,12338,Gyalisson Freitas,9637,Sergio Rios,L,0,Triangle,Charlotte Open,ABS,4F,2021
+28278,12338,Gyalisson Freitas,8138,Hugo Marques,L,0,RNC,NoGi Worlds,79KG,8F,2021
+31664,12338,Gyalisson Freitas,,Carlos Castro,L,0,Referee Decision,Pan American,82KG,R1,2022
+35818,12338,Gyalisson Freitas,11878,Andy Murasaki,L,0,Armbar,Charleston FO,82KG,F,2022
+35836,12338,Gyalisson Freitas,12372,Francisco Cuneo,L,0,Points,Charleston FNGO,79KG,F,2022
+17867,12338,Gyalisson Freitas,11465,Kauan Barboza,W,1,Referee Decision,Twin Cities Open,76KG,SF,2018
+18086,12338,Gyalisson Freitas,,Adam Junior,W,1,Choke from back,Charlotte Open,82KG,SF,2018
+18087,12338,Gyalisson Freitas,,James Hamilton,W,1,Armbar,Charlotte Open,82KG,F,2018
+19504,12338,Gyalisson Freitas,,N/A,W,1,Choke from back,Cincinnati Open,82KG,4F,2019
+19505,12338,Gyalisson Freitas,,Brennan Schroeder,W,1,Choke from back,Cincinnati Open,82KG,SF,2019
+20420,12338,Gyalisson Freitas,,Lucas Hilario,W,1,Pts: 7x0,Atlanta SPO,82KG,4F,2019
+20422,12338,Gyalisson Freitas,6836,John Combs,W,1,Pts: 14x2,Atlanta SPO,82KG,F,2019
+22515,12338,Gyalisson Freitas,,Joshua McKinney,W,1,Points,Kansas Open,ABS,SF,2019
+25741,12338,Gyalisson Freitas,,Rehan Muttalib,W,1,Points,Charleston Open,82KG,SF,2021
+26540,12338,Gyalisson Freitas,,Jonathan Roberts,W,1,Choke from back,Atlanta Open,82KG,SF,2021
+26549,12338,Gyalisson Freitas,,Josh Murdock,W,1,Choke from back,Atlanta Open,ABS,4F,2021
+26551,12338,Gyalisson Freitas,12356,Damion Oranday,W,1,Armbar,Atlanta Open,ABS,SF,2021
+26569,12338,Gyalisson Freitas,11384,Andre Porfirio,W,1,Pts: 4x0,Atlanta NGO,ABS,R1,2021
+26816,12338,Gyalisson Freitas,11707,Oliver Taza,W,1,Referee Decision,F2W 175,77KG,SPF,2021
+27242,12338,Gyalisson Freitas,,Frederico Alves,W,1,Pts: 9x1,Grand Slam MIA,77KG,4F,2021
+28267,12338,Gyalisson Freitas,,Todd Walling,W,1,Pts: 10x0,NoGi Worlds,79KG,R2,2021
+35816,12338,Gyalisson Freitas,,Clay Mayfield,W,1,Points,Charleston FO,82KG,SF,2022
+35834,12338,Gyalisson Freitas,,Clay Mayfield,W,1,Points,Charleston FNGO,79KG,SF,2022

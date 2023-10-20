@@ -1,0 +1,116 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6313,4115,Fabio Caloi,5061,Gabriel Rollo,L,0,Armbar,King of Fights,76KG,SPF,2014
+6798,4115,Fabio Caloi,5414,Osvaldo Moizinho,L,0,"Pts: 0x0, Adv",Pan American,70KG,4F,2015
+7233,4115,Fabio Caloi,5078,Luan Carvalho,L,0,Injury,Brasileiro,76KG,4F,2015
+7723,4115,Fabio Caloi,,Sandro Vieira,L,0,Points,Rio Winter Open,82KG,F,2015
+7833,4115,Fabio Caloi,5715,Isaque Paiva,L,0,Triangle armbar,SP Open,70KG,F,2015
+7864,4115,Fabio Caloi,5909,Thiago Abreu,L,0,Points,SP Open NoGi,74KG,F,2015
+8056,4115,Fabio Caloi,2999,Paulo Miyao,L,0,Points,Brazil Nat. Pro,69KG,4F,2015
+8212,4115,Fabio Caloi,1923,David Lemes,L,0,"Pts: 6x6, Pen",Floripa Open,70KG,F,2015
+8230,4115,Fabio Caloi,1923,David Lemes,L,0,"Pts: 6x6, Adv",Floripa NoGi Open,70KG,SF,2015
+8308,4115,Fabio Caloi,5926,Thiago Gaia,L,0,Points,Brasileiro NoGi,73KG,4F,2015
+8418,4115,Fabio Caloi,5909,Thiago Abreu,L,0,Botinha,NoGi Worlds,73KG,4F,2015
+8574,4115,Fabio Caloi,,Lucas Valle,L,0,Pts: 3x0,South American,76KG,4F,2015
+9247,4115,Fabio Caloi,4163,Marcio Andre,L,0,Pts: 11x0,Pan American,70KG,8F,2016
+9737,4115,Fabio Caloi,2999,Paulo Miyao,L,0,Pts: 10x4,Brasileiro,70KG,SF,2016
+9954,4115,Fabio Caloi,5414,Osvaldo Moizinho,L,0,Armbar,World Champ.,70KG,R2,2016
+10562,4115,Fabio Caloi,,Victor Moraes,L,0,Pts: 2x0,Sao Paulo Open,70KG,4F,2016
+10726,4115,Fabio Caloi,5909,Thiago Abreu,L,0,Adv,Floripa Open,76KG,F,2016
+10846,4115,Fabio Caloi,4851,Kim Terra,L,0,Points,Brasileiro NoGi,73KG,F,2016
+10862,4115,Fabio Caloi,6805,Max Gimenis,L,0,Points,Brasileiro NoGi,ABS,SF,2016
+10902,4115,Fabio Caloi,7247,Enrico Cocco,L,0,"Pts: 0x0, Adv",NoGi Worlds,73KG,R2,2016
+10952,4115,Fabio Caloi,7111,Muslim Patsarigov,L,0,Straight ankle lock,NoGi Worlds,ABS,R1,2016
+12764,4115,Fabio Caloi,8112,Matheus Costa,L,0,Toe hold,Brasileiro,76KG,4F,2017
+13099,4115,Fabio Caloi,7002,Jamil Hill-Taylor,L,0,Triangle,World Champ.,70KG,4F,2017
+15638,4115,Fabio Caloi,,Caio Cipriano,L,0,Points,Floripa Fall Open,76KG,SF,2018
+16233,4115,Fabio Caloi,6432,Yan Lucas,L,0,Points,Brasileiro,76KG,SF,2018
+16492,4115,Fabio Caloi,,Ricardo Rocha,L,0,Pts: 4x0,World Champ.,76KG,R2,2018
+17091,4115,Fabio Caloi,,Chairo Olimpio,L,0,Points,Vitoria NGO,79KG,4F,2018
+17627,4115,Fabio Caloi,8138,Hugo Marques,L,0,Pts: 2x0,Hadron SF,76KG,SPF,2018
+17696,4115,Fabio Caloi,,Celso Ricardo,L,0,Points,Brasileiro NoGi,79KG,R1,2018
+21787,4115,Fabio Caloi,9121,Ygor Rodrigues,L,0,Pts: 4x2,Brasileiro NoGi,73KG,F,2019
+21809,4115,Fabio Caloi,10644,Marcelo Gomide,L,0,Straight ankle lock,Brasileiro NoGi,ABS,R2,2019
+22863,4115,Fabio Caloi,7664,Johnny Tama,L,0,Pts: 4x2,NoGi Worlds,73KG,SF,2019
+23367,4115,Fabio Caloi,,Felipe Ribas,L,0,Points,Curitiba SO,76KG,SF,2020
+28258,4115,Fabio Caloi,4248,Gianni Grippo,L,0,Pts: 2x0,NoGi Worlds,73KG,SF,2021
+30299,4115,Fabio Caloi,10880,Roberto Jimenez,L,0,RNC,ADCC BR2 Trials,77KG,F,2022
+36821,4115,Fabio Caloi,13192,Carlos Henrique,L,0,Pts: 2x0,NoGi Worlds,73KG,8F,2022
+43030,4115,Fabio Caloi,9121,Ygor Rodrigues,L,0,Referee Decision,Brasileiro NoGi,79KG,F,2023
+6437,4115,Fabio Caloi,,Alexandre Rosa,W,1,Pts: 6x0,Brazil Nat. Pro,75KG,R1,2015
+6439,4115,Fabio Caloi,,Pedro Farias,W,1,Pts: 2x0,Brazil Nat. Pro,75KG,R2,2015
+6441,4115,Fabio Caloi,,Vitor Matos,W,1,Armbar,Brazil Nat. Pro,75KG,4F,2015
+7718,4115,Fabio Caloi,,Flavio Macedo,W,1,Armbar,Rio Winter Open,76KG,R1,2015
+7720,4115,Fabio Caloi,,Bruno Rafael,W,1,Points,Rio Winter Open,76KG,4F,2015
+7830,4115,Fabio Caloi,,V. Ferreira,W,1,Choke,SP Open,70KG,4F,2015
+7832,4115,Fabio Caloi,,Victor de Matos,W,1,Choke from back,SP Open,70KG,SF,2015
+7862,4115,Fabio Caloi,,Marco Queiroz,W,1,Guillotine,SP Open NoGi,74KG,SF,2015
+8211,4115,Fabio Caloi,5715,Isaque Paiva,W,1,Adv,Floripa Open,70KG,SF,2015
+8228,4115,Fabio Caloi,5715,Isaque Paiva,W,1,Points,Floripa NoGi Open,70KG,SF,2015
+8235,4115,Fabio Caloi,,Herbert Maeda,W,1,Points,Floripa NoGi Open,70KG,SF,2015
+8237,4115,Fabio Caloi,5715,Isaque Paiva,W,1,Points,Floripa NoGi Open,70KG,F,2015
+8412,4115,Fabio Caloi,,Marcelo Motta,W,1,Armbar,NoGi Worlds,73KG,8F,2015
+9158,4115,Fabio Caloi,,João Francisco,W,1,Choke from back,Rio Summer Open,70KG,4F,2016
+9161,4115,Fabio Caloi,,Luciano Queiroz,W,1,Adv,Rio Summer Open,70KG,SF,2016
+9163,4115,Fabio Caloi,,Victor Matos,W,1,Armbar,Rio Summer Open,70KG,F,2016
+9246,4115,Fabio Caloi,,Issa Able,W,1,Armbar,Pan American,70KG,R1,2016
+9725,4115,Fabio Caloi,,Thiago Santos,W,1,Armbar,Brasileiro,70KG,R1,2016
+9728,4115,Fabio Caloi,,Filipe Ciabotti,W,1,Points,Brasileiro,70KG,8F,2016
+9733,4115,Fabio Caloi,,Victor Matos,W,1,Armbar,Brasileiro,70KG,4F,2016
+9947,4115,Fabio Caloi,,Daisuke Shiraki,W,1,Pts: 2x0,World Champ.,70KG,R1,2016
+10722,4115,Fabio Caloi,,Matheus Knorr,W,1,Armbar,Floripa Open,76KG,4F,2016
+10724,4115,Fabio Caloi,7143,Breno Bittencourt,W,1,Toe hold,Floripa Open,76KG,SF,2016
+10838,4115,Fabio Caloi,,Caio Gregório,W,1,Adv,Brasileiro NoGi,73KG,R1,2016
+10843,4115,Fabio Caloi,,Leo Carlos,W,1,Referee Decision,Brasileiro NoGi,73KG,4F,2016
+10845,4115,Fabio Caloi,5453,Herbert Burns,W,1,Points,Brasileiro NoGi,73KG,SF,2016
+10857,4115,Fabio Caloi,,Junior Greco,W,1,Guillotine,Brasileiro NoGi,ABS,R1,2016
+10859,4115,Fabio Caloi,6375,Ruan Oliveira,W,1,Points,Brasileiro NoGi,ABS,4F,2016
+11236,4115,Fabio Caloi,,Rodrigo Santos,W,1,Armbar,South American,76KG,R1,2016
+11238,4115,Fabio Caloi,,Unknown,W,1,Armbar,South American,76KG,4F,2016
+11239,4115,Fabio Caloi,,Ricardo Rocha,W,1,Pts: 4x2,South American,76KG,SF,2016
+12426,4115,Fabio Caloi,,Osmar Telles,W,1,Armbar,Floripa Fall Open,76KG,4F,2017
+12428,4115,Fabio Caloi,7256,Jan Buatim,W,1,Omoplata,Floripa Fall Open,76KG,SF,2017
+12748,4115,Fabio Caloi,10172,Nuno Martins,W,1,"Pts: 2x2, Adv",Brasileiro,76KG,R1,2017
+12762,4115,Fabio Caloi,7256,Jan Buatim,W,1,Estima lock,Brasileiro,76KG,8F,2017
+13082,4115,Fabio Caloi,,Eduardo Botega,W,1,Kneebar,World Champ.,70KG,R1,2017
+13090,4115,Fabio Caloi,1761,Samuel Braga,W,1,"Pts: 6x6, Adv",World Champ.,70KG,8F,2017
+15635,4115,Fabio Caloi,,Mackson,W,1,Armbar,Floripa Fall Open,76KG,4F,2018
+15654,4115,Fabio Caloi,,Andrey Martins,W,1,Pts: 6x0,Floripa NG Open,73KG,SF,2018
+15655,4115,Fabio Caloi,,Matheus Knorr,W,1,RNC,Floripa NG Open,73KG,F,2018
+16222,4115,Fabio Caloi,,Thiano Alves,W,1,Points,Brasileiro,76KG,R1,2018
+16225,4115,Fabio Caloi,,Ricardo Rocha,W,1,Referee Decision,Brasileiro,76KG,8F,2018
+16231,4115,Fabio Caloi,,Jonas Campos,W,1,Points,Brasileiro,76KG,4F,2018
+17068,4115,Fabio Caloi,9121,Ygor Rodrigues,W,1,Referee Decision,Vitoria Open,76KG,4F,2018
+17069,4115,Fabio Caloi,,Eduardo Campos,W,1,Armbar,Vitoria Open,76KG,SF,2018
+17070,4115,Fabio Caloi,,Aquila de Paula,W,1,Bow and arrow,Vitoria Open,76KG,F,2018
+17097,4115,Fabio Caloi,12372,Francisco Cuneo,W,1,Straight ankle lock,Vitoria NGO,ABS,SF,2018
+21573,4115,Fabio Caloi,,Garett Beck,W,1,RNC,No Gi Pan Am.,73KG,R1,2019
+21579,4115,Fabio Caloi,12376,Rodrigo Francioni,W,1,Footlock,No Gi Pan Am.,73KG,4F,2019
+21582,4115,Fabio Caloi,,Fred Alves,W,1,"Pts: 2x2, Adv",No Gi Pan Am.,73KG,SF,2019
+21583,4115,Fabio Caloi,,Athos Miranda,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,73KG,F,2019
+21779,4115,Fabio Caloi,,Lucas Brandao,W,1,Armbar,Brasileiro NoGi,73KG,R1,2019
+21782,4115,Fabio Caloi,10216,Natan Chueng,W,1,"Pts: 0x0, Adv",Brasileiro NoGi,73KG,4F,2019
+21786,4115,Fabio Caloi,,Rodrigo Costa,W,1,Adv,Brasileiro NoGi,73KG,SF,2019
+22158,4115,Fabio Caloi,,Marko Jokmanovic,W,1,RNC,European NoGi,73KG,4F,2019
+22162,4115,Fabio Caloi,10295,Italo Moura,W,1,Adv,European NoGi,73KG,SF,2019
+22186,4115,Fabio Caloi,12751,Sam McNally,W,1,Adv,European NoGi,ABS,R1,2019
+22192,4115,Fabio Caloi,,Dudi Zaken,W,1,Body choke,European NoGi,ABS,R2,2019
+22368,4115,Fabio Caloi,,Eduardo Jantzen,W,1,N/A,South American NG,73KG,SF,2019
+22369,4115,Fabio Caloi,10835,Eduardo Avelar,W,1,Armbar,South American NG,73KG,F,2019
+22853,4115,Fabio Caloi,,Lachlan Warne,W,1,Armbar,NoGi Worlds,73KG,R2,2019
+22861,4115,Fabio Caloi,,Lucas Araujo,W,1,Referee Decision,NoGi Worlds,73KG,4F,2019
+23358,4115,Fabio Caloi,,Caio Silva,W,1,Points,Curitiba SO,76KG,R1,2020
+23365,4115,Fabio Caloi,,Victor Matos,W,1,Points,Curitiba SO,76KG,4F,2020
+28243,4115,Fabio Caloi,,Corey Brown,W,1,Pts: 7x0,NoGi Worlds,73KG,R2,2021
+28250,4115,Fabio Caloi,,Giann Moramarco,W,1,Straight ankle lock,NoGi Worlds,73KG,8F,2021
+28254,4115,Fabio Caloi,,Josh Bacallao,W,1,"Pts: 0x0, Adv",NoGi Worlds,73KG,4F,2021
+30258,4115,Fabio Caloi,,Italo Oliveira,W,1,Guillotine,ADCC BR2 Trials,77KG,R2,2022
+30280,4115,Fabio Caloi,,Felipe Esser,W,1,Straight ankle lock,ADCC BR2 Trials,77KG,R3,2022
+30290,4115,Fabio Caloi,,Athos Miranda,W,1,Referee Decision,ADCC BR2 Trials,77KG,8F,2022
+30295,4115,Fabio Caloi,,Luis Ribas,W,1,Pts: 6x0,ADCC BR2 Trials,77KG,4F,2022
+30297,4115,Fabio Caloi,,Carlos Campos,W,1,Referee Decision,ADCC BR2 Trials,77KG,SF,2022
+31212,4115,Fabio Caloi,,Eduardo C.,W,1,Armbar,Curitiba NGO,79KG,4F,2022
+31213,4115,Fabio Caloi,,Pierpaolo Chiappe,W,1,Inside heel hook,Curitiba NGO,79KG,SF,2022
+31214,4115,Fabio Caloi,,Marcus Aurelio,W,1,Pts: 2x0,Curitiba NGO,79KG,F,2022
+43022,4115,Fabio Caloi,,Carlos Favetta,W,1,Outside heel hook,Brasileiro NoGi,79KG,8F,2023
+43026,4115,Fabio Caloi,,Joao Santos,W,1,RNC,Brasileiro NoGi,79KG,4F,2023
+43029,4115,Fabio Caloi,,Pierpaolo Chiappe,W,1,Inside heel hook,Brasileiro NoGi,79KG,SF,2023

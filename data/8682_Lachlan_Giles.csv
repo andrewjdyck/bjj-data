@@ -1,0 +1,58 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6668,8682,Lachlan Giles,,William Dias,L,0,Adv,Boa Super 8,85KG,4F,2015
+6677,8682,Lachlan Giles,1824,Roberto Satoshi,L,0,Choke,Boa Super 8,77KG,F,2015
+7946,8682,Lachlan Giles,446,Gilbert Burns,L,0,Armbar,ADCC,77KG,R1,2015
+8030,8682,Lachlan Giles,,Leon Amancio,L,0,Pts: 2x0,Boa Super 8,70KG,F,2015
+8769,8682,Lachlan Giles,5649,Garry Tonon,L,0,Armbar,EBI 5,70KG,SF,2015
+9976,8682,Lachlan Giles,967,JT Torres,L,0,Choke from back,World Champ.,76KG,R2,2016
+10917,8682,Lachlan Giles,6563,Francisco Iturralde,L,0,Pts: 8x4,NoGi Worlds,79KG,4F,2016
+13145,8682,Lachlan Giles,2107,Otavio Sousa,L,0,Mounted X choke,World Champ.,82KG,8F,2017
+13896,8682,Lachlan Giles,967,JT Torres,L,0,Pts: 2x0,ADCC,77KG,E1,2017
+14678,8682,Lachlan Giles,4328,AJ Agazarm,L,0,Pts: 2x0,NoGi Worlds,73KG,SF,2017
+14831,8682,Lachlan Giles,11039,Flavio Vianna,L,0,"Pts: 0x0, Adv",Grand Slam AD,77KG,F,2018
+16141,8682,Lachlan Giles,1014,Jake Mackenzie,L,0,Referee Decision,World Pro,77KG,R1,2018
+16909,8682,Lachlan Giles,11707,Oliver Taza,L,0,Referee Decision,Polaris 7,77KG,SPF,2018
+18512,8682,Lachlan Giles,6095,Mansher Khera,L,0,Referee Decision,Polaris 8,77KG,SPF,2018
+18630,8682,Lachlan Giles,2035,Vitor Oliveira,L,0,"Pts: 0x0, Adv",NoGi Worlds,79KG,R1,2018
+21857,8682,Lachlan Giles,358,Lucas Lepri,L,0,Pts: 3x0,ADCC,77KG,R1,2019
+21916,8682,Lachlan Giles,6550,Gordon Ryan,L,0,RNC,ADCC,ABS,SF,2019
+35022,8682,Lachlan Giles,12005,Kade Ruotolo,L,0,Armbar,ADCC,77KG,R1,2022
+35095,8682,Lachlan Giles,1740,Yuri Simoes,L,0,"Pts: 0x0, Pen",ADCC,ABS,8F,2022
+6673,8682,Lachlan Giles,,Marcio Lemos,W,1,Crucifix armbar,Boa Super 8,77KG,4F,2015
+6675,8682,Lachlan Giles,,Leo Arruda,W,1,Referee Decision,Boa Super 8,77KG,SF,2015
+8028,8682,Lachlan Giles,5238,Edwin Najmi,W,1,"Pts: 4x4, Adv",Boa Super 8,70KG,4F,2015
+8029,8682,Lachlan Giles,,Peter Vela,W,1,Armbar,Boa Super 8,70KG,SF,2015
+8759,8682,Lachlan Giles,,Nathan Orchard,W,1,EBI/OT,EBI 5,70KG,R1,2015
+8766,8682,Lachlan Giles,177,Rany Yahya,W,1,Armbar,EBI 5,70KG,4F,2015
+9970,8682,Lachlan Giles,,Renan Borges,W,1,Americana,World Champ.,76KG,R1,2016
+10116,8682,Lachlan Giles,,William Dias,W,1,Choke from back,Pan Pacific,82KG,RR,2016
+10117,8682,Lachlan Giles,,William Dias,W,1,Pts: 4x2,Pan Pacific,82KG,F,2016
+13136,8682,Lachlan Giles,,Samuel Snow,W,1,Pts: 5x0,World Champ.,82KG,R1,2017
+13958,8682,Lachlan Giles,,Tyrone Coppedge,W,1,Anaconda choke,Pan Pacific,82KG,SF,2017
+13959,8682,Lachlan Giles,,Diego Colino,W,1,Pts: 10x0,Pan Pacific,82KG,F,2017
+13960,8682,Lachlan Giles,,Michael Tohme,W,1,Crucifix armbar,Pan Pacific,ABS,SF,2017
+13961,8682,Lachlan Giles,,Robert Frias,W,1,RNC,Pan Pacific,ABS,F,2017
+14668,8682,Lachlan Giles,9668,David Garmo,W,1,Crucifix armbar,NoGi Worlds,73KG,R2,2017
+14676,8682,Lachlan Giles,,Frederico Augusto,W,1,Pts: 6x2,NoGi Worlds,73KG,4F,2017
+14827,8682,Lachlan Giles,,Raphael Mello,W,1,Pts: 4x0,Grand Slam AD,77KG,4F,2018
+14830,8682,Lachlan Giles,7006,Julio Anjos,W,1,"Pts: 2x2, Adv",Grand Slam AD,77KG,SF,2018
+15340,8682,Lachlan Giles,,Renato Silva,W,1,Pts: 3x0,Continental Pro,85KG,RR,2018
+15341,8682,Lachlan Giles,,Burak Sarman,W,1,"Pts: 2x2, Adv",Continental Pro,85KG,F,2018
+18009,8682,Lachlan Giles,9559,Rida Haisam,W,1,Inside heel hook,Wu Lin Fang,ABS,R1,2018
+18010,8682,Lachlan Giles,9559,Rida Haisam,W,1,Outside heel hook,Wu Lin Fang,ABS,R2,2018
+19322,8682,Lachlan Giles,,Bradley Hill,W,1,Inside heel hook,GrappleFest 4,ABS,SPF,2019
+20436,8682,Lachlan Giles,,Shinji Morito,W,1,Inside heel hook,ADCC Asia Trials,77KG,R1,2019
+20437,8682,Lachlan Giles,,Hayden Limebeer,W,1,Inside heel hook,ADCC Asia Trials,77KG,4F,2019
+20439,8682,Lachlan Giles,7645,Masahiro Iwasaki,W,1,Referee Decision,ADCC Asia Trials,77KG,SF,2019
+20440,8682,Lachlan Giles,,O. Kassimov,W,1,Inside heel hook,ADCC Asia Trials,77KG,F,2019
+20741,8682,Lachlan Giles,9261,Ross Nicholls,W,1,Referee Decision,GrappleFest 5,80KG,SPF,2019
+21360,8682,Lachlan Giles,6095,Mansher Khera,W,1,Inside heel hook,Kinektic 1,ABS,R1,2019
+21361,8682,Lachlan Giles,,Will Weed,W,1,Inside heel hook,Kinektic 1,ABS,R2,2019
+21362,8682,Lachlan Giles,,Joe Riggs,W,1,Armbar,Kinektic 1,ABS,R3,2019
+21363,8682,Lachlan Giles,,Chris Lyttle,W,1,Inside heel hook,Kinektic 1,ABS,R4,2019
+21364,8682,Lachlan Giles,6167,Ricco Rodriguez,W,1,Inside heel hook,Kinektic 1,ABS,R5,2019
+21908,8682,Lachlan Giles,8974,Kaynan Duarte,W,1,Inside heel hook,ADCC,ABS,R1,2019
+21914,8682,Lachlan Giles,4430,Patrick Gaudio,W,1,Inside heel hook,ADCC,ABS,4F,2019
+21917,8682,Lachlan Giles,5842,Mahamed Aly,W,1,Inside heel hook,ADCC,ABS,3RD,2019
+34512,8682,Lachlan Giles,,Thomas Messo,W,1,Inside heel hook,Australia Nat.,85KG,SF,2022
+34513,8682,Lachlan Giles,,Thomas Messo,W,1,Triangle Shld lock,Australia Nat.,85KG,F,2022

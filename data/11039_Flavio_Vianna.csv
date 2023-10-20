@@ -1,0 +1,32 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+11385,11039,Flavio Vianna,,Igor Sousa,L,0,Points,Fujairah Pro,85KG,F,2017
+11415,11039,Flavio Vianna,7156,Tiago Bravo,L,0,Pts: 2x0,Sharjah Pro,77KG,SF,2017
+11452,11039,Flavio Vianna,9312,Alexandre Cavaliere,L,0,Referee Decision,Grand Slam AD,75KG,4F,2017
+14166,11039,Flavio Vianna,8290,Marcos Costa,L,0,Pts: 2x0,Al Ain Pro,85KG,4F,2017
+14748,11039,Flavio Vianna,10698,Matheus Godoy,L,0,Pts: 2x0,Ajman Int. Pro,94KG,F,2017
+14852,11039,Flavio Vianna,,Igor Sousa,L,0,"Pts: 0x0, Adv",Fujairah Pro,77KG,SF,2019
+14856,11039,Flavio Vianna,,Igor Sousa,L,0,DQ,RAK Int. Pro,85KG,F,2018
+16142,11039,Flavio Vianna,8308,Max Lindblad,L,0,Pts: 2x0,World Pro,77KG,8F,2018
+16154,11039,Flavio Vianna,8308,Max Lindblad,L,0,Pts: 2x0,World Pro,77KG,RPC,2018
+20038,11039,Flavio Vianna,9635,Guilherme Rocha,L,0,Pts: 2x0,WP BR Qualifier,77KG,R1,2019
+22984,11039,Flavio Vianna,7831,Diego Ramalho,L,0,Pts: 2x1,Grand Slam AD,77KG,SF,2020
+22990,11039,Flavio Vianna,10216,Natan Chueng,L,0,Pts: 2x0,Grand Slam AD,77KG,RPC,2020
+30907,11039,Flavio Vianna,12671,Uanderson Ferreira,L,0,Pts: 7x2,Dubai Pro,85KG,F,2022
+33734,11039,Flavio Vianna,12671,Uanderson Ferreira,L,0,Armbar,Fujairah Pro,85KG,SF,2022
+11376,11039,Flavio Vianna,,N/A,W,1,Adv,C. Gracie Cup,82KG,SF,2016
+11377,11039,Flavio Vianna,9312,Alexandre Cavaliere,W,1,Adv,C. Gracie Cup,82KG,F,2016
+11384,11039,Flavio Vianna,,Thabet AlTaher,W,1,Pts: 2x0,Fujairah Pro,85KG,SF,2017
+14746,11039,Flavio Vianna,,Oriones Netto,W,1,Pts: 4x0,Ajman Int. Pro,94KG,SF,2017
+14828,11039,Flavio Vianna,,Mohamed Qbasi,W,1,Adv,Grand Slam AD,77KG,4F,2018
+14829,11039,Flavio Vianna,,Burak Sarman,W,1,"Pts: 0x0, Adv",Grand Slam AD,77KG,SF,2018
+14831,11039,Flavio Vianna,8682,Lachlan Giles,W,1,"Pts: 0x0, Adv",Grand Slam AD,77KG,F,2018
+14853,11039,Flavio Vianna,,Mario Goncalves,W,1,Armbar,Fujairah Pro,77KG,3RD,2019
+14855,11039,Flavio Vianna,,Melksedec Franco,W,1,Pts: 4x2,RAK Int. Pro,85KG,SF,2018
+16081,11039,Flavio Vianna,8290,Marcos Costa,W,1,"Pts: 0x0, Adv",WP Br Qualifier,77KG,SF,2018
+16082,11039,Flavio Vianna,,Adriano Araujo,W,1,"Pts: 0x0, Adv",WP Br Qualifier,77KG,F,2018
+22980,11039,Flavio Vianna,11044,Pedro Veras,W,1,Referee Decision,Grand Slam AD,77KG,4F,2020
+23187,11039,Flavio Vianna,,Francisco Souza,W,1,Armbar,Emirates Pro,77KG,SF,2020
+23188,11039,Flavio Vianna,,Andre Cantanhede,W,1,Pts: 1x0,Emirates Pro,77KG,F,2020
+30904,11039,Flavio Vianna,,A. Baasandorj,W,1,Submission,Dubai Pro,85KG,4F,2022
+30905,11039,Flavio Vianna,,Igor Sousa,W,1,"Pts: 2x2, Pen",Dubai Pro,85KG,SF,2022
+33733,11039,Flavio Vianna,,Jakson Bernardo,W,1,Pts: 4x1,Fujairah Pro,85KG,4F,2022

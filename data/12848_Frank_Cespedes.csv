@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27215,12848,Frank Cespedes,10293,Jonas Andrade,L,0,Pts: 4x3,Grand Slam MIA,56KG,SF,2021
+27218,12848,Frank Cespedes,11794,Willis Nunes,L,0,Pts: 7x1,Grand Slam MIA,56KG,3RD,2021
+30459,12848,Frank Cespedes,10380,Junny Ocasio,L,0,Pts: 10x8,Atlanta WO,64KG,F,2022
+30931,12848,Frank Cespedes,12615,Osamah Almarwai,L,0,Pts: 4x2,LA Open,57KG,F,2022
+31606,12848,Frank Cespedes,,Bebeto Oliveira,L,0,Pts: 10x8,Pan American,57KG,SF,2022
+32612,12848,Frank Cespedes,12615,Osamah Almarwai,L,0,Pts: 6x4,Denver Open,58KG,F,2022
+32861,12848,Frank Cespedes,10099,Thalison Soares,L,0,Pts: 14x8,World Champ.,57KG,4F,2022
+34578,12848,Frank Cespedes,12968,Zayed Alkatheeri,L,0,Pts: 5x5,Grand Slam MIA,56KG,F,2022
+37157,12848,Frank Cespedes,13209,Welerson Goncalves,L,0,Pts: 8x4,European Open,58KG,SF,2023
+38344,12848,Frank Cespedes,13326,Hiryu Niwa,L,0,Pts: 6x4,Pan American,58KG,SF,2023
+40186,12848,Frank Cespedes,12247,Jordan Vaisman,L,0,Pts: 4x2,World Champ.,58KG,R1,2023
+41115,12848,Frank Cespedes,,Everton Teixeira,L,0,"Pts: 2x2, Adv",American Nats,58KG,SF,2023
+30458,12848,Frank Cespedes,,Dennis Pressey,W,1,Armbar,Atlanta WO,64KG,SF,2022
+31602,12848,Frank Cespedes,,Italo Bonfim,W,1,Bow and arrow,Pan American,57KG,4F,2022
+32611,12848,Frank Cespedes,,Dustin Ordinario,W,1,RNC,Denver Open,58KG,RR,2022
+32858,12848,Frank Cespedes,,Marko Oikarainan,W,1,Pts: 10x0,World Champ.,57KG,R1,2022
+33378,12848,Frank Cespedes,9502,Nobuhiro Sawada,W,1,Pts: 7x0,American Nat.,58KG,SF,2022
+33379,12848,Frank Cespedes,12615,Osamah Almarwai,W,1,"Pts: 12x12, Adv",American Nat.,58KG,F,2022
+34577,12848,Frank Cespedes,,Italo Frota,W,1,Violin armlock,Grand Slam MIA,56KG,SF,2022
+34698,12848,Frank Cespedes,,Gregory Hernandez,W,1,Bow and arrow,JJ Con,57KG,SF,2022
+34699,12848,Frank Cespedes,,Luciano Vieira,W,1,Choke from back,JJ Con,57KG,F,2022
+38337,12848,Frank Cespedes,12247,Jordan Vaisman,W,1,"Pts: 6x6, Adv",Pan American,58KG,R1,2023
+38342,12848,Frank Cespedes,6258,Rodnei Barbosa,W,1,"Pts: 0x0, Adv",Pan American,58KG,4F,2023
+42259,12848,Frank Cespedes,,Leonardo Souza,W,1,Points,JJ Con,64KG,SF,2023
+42260,12848,Frank Cespedes,11794,Willis Nunes,W,1,"Pts: 0x0, Adv",JJ Con,64KG,F,2023
+42483,12848,Frank Cespedes,12120,Estevan Martinez,W,1,Referee Decision,EUG JJB,NA,SPF,2023

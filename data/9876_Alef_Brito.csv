@@ -1,0 +1,80 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+17579,9876,Alef Brito,9217,Caio Caetano,L,0,Kneebar,Grand Slam LA,77KG,SF,2018
+17582,9876,Alef Brito,,Bruno Tosto,L,0,DQ,Grand Slam LA,77KG,RR,2018
+18362,9876,Alef Brito,9793,Alexandre Jesus,L,0,Pts: 5x0,South American,82KG,4F,2018
+19216,9876,Alef Brito,12654,Tarik Hopstock,L,0,Footlock,Copa Podio,77KG,SF,2019
+20625,9876,Alef Brito,7539,Renato Canuto,L,0,Pts: 4x2,World Champ.,76KG,R2,2019
+21122,9876,Alef Brito,,Piter Frank,L,0,Referee Decision,Portland SMO,76KG,F,2019
+21572,9876,Alef Brito,,Fred Alves,L,0,Pts: 2x0,No Gi Pan Am.,73KG,R1,2019
+22573,9876,Alef Brito,9465,Endres Barbosa,L,0,Choke from back,South American,76KG,F,2019
+22707,9876,Alef Brito,9312,Alexandre Cavaliere,L,0,Referee Decision,Salvador SPO,82KG,F,2019
+32629,9876,Alef Brito,9217,Caio Caetano,L,0,Referee Decision,Denver Open,82KG,SF,2022
+32652,9876,Alef Brito,12537,Pedro Machado,L,0,Americana,Denver Open,ABS,4F,2022
+32918,9876,Alef Brito,9002,Matheus Gabriel,L,0,Pts: 2x0,World Champ.,76KG,8F,2022
+34724,9876,Alef Brito,11015,Pablo Lavaselli,L,0,Choke from back,JJ Con,76KG,SF,2022
+35206,9876,Alef Brito,,Lucas Brito,L,0,RNC,Atlanta FO,82KG,F,2022
+35475,9876,Alef Brito,8261,Rolando Samson,L,0,Armbar,Twin Cities Open,82KG,SF,2022
+35898,9876,Alef Brito,11878,Andy Murasaki,L,0,Submission,Houston FO,82KG,F,2022
+38399,9876,Alef Brito,11015,Pablo Lavaselli,L,0,Referee Decision,Pan American,76KG,SF,2023
+40267,9876,Alef Brito,8215,Espen Mathiesen,L,0,Referee Decision,World Champ.,76KG,8F,2023
+41141,9876,Alef Brito,11208,Jackson Nagai,L,0,Choke from back,American Nats,82KG,SF,2023
+41170,9876,Alef Brito,10509,Mathias Luna,L,0,Referee Decision,American Nats,ABS,4F,2023
+42286,9876,Alef Brito,,Guilherme Cleovan,L,0,"Pts: 0x0, Adv",JJ Con,82KG,F,2023
+17481,9876,Alef Brito,,Andre Costa,W,1,Points,Sao Paulo Open,82KG,4F,2018
+17484,9876,Alef Brito,8602,Eduardo Tinoco,W,1,Points,Sao Paulo Open,82KG,4F,2018
+17485,9876,Alef Brito,,Ygor Dantas,W,1,Points,Sao Paulo Open,82KG,SF,2018
+17573,9876,Alef Brito,4851,Kim Terra,W,1,Referee Decision,Grand Slam LA,77KG,R1,2018
+17577,9876,Alef Brito,,Gustav Apee,W,1,DQ,Grand Slam LA,77KG,4F,2018
+18058,9876,Alef Brito,4235,Victor Silverio,W,1,Pen,SJJIF Worlds,82KG,4F,2018
+19209,9876,Alef Brito,5078,Luan Carvalho,D,0.5,---,Copa Podio,77KG,RR,2019
+19211,9876,Alef Brito,,Diego Pato,D,0.5,---,Copa Podio,77KG,RR,2019
+19213,9876,Alef Brito,,P. Rocha,W,1,Pts: 4x2,Copa Podio,77KG,RR,2019
+19214,9876,Alef Brito,8105,Tommy Langaker,W,1,50/50 armbar,Copa Podio,77KG,RR,2019
+19780,9876,Alef Brito,,Diego Nunes,W,1,Pts: 2x0,Coliseu JJ,76KG,RR,2019
+19781,9876,Alef Brito,,Davi Carlos,W,1,Submission,Coliseu JJ,76KG,RR,2019
+19782,9876,Alef Brito,,Marcelo Marques,W,1,Choke from back,Coliseu JJ,76KG,RR,2019
+19783,9876,Alef Brito,,Marlus Salgado,W,1,Referee Decision,Coliseu JJ,76KG,SF,2019
+19784,9876,Alef Brito,,Marcelo Marques,W,1,Bow and arrow,Coliseu JJ,76KG,F,2019
+19877,9876,Alef Brito,,Ricky Semiglia,W,1,Points,Orlando SPO,76KG,SF,2019
+19878,9876,Alef Brito,,Jeovany Ortiz,W,1,Botinha,Orlando SPO,76KG,F,2019
+19987,9876,Alef Brito,5926,Thiago Gaia,W,1,Points,San Jose Open,76KG,4F,2019
+19988,9876,Alef Brito,10220,Paulo Gabriel,W,1,Triangle,San Jose Open,76KG,SF,2019
+19990,9876,Alef Brito,9440,Jeremy Jackson,W,1,Points,San Jose Open,76KG,F,2019
+20417,9876,Alef Brito,,Colin Taylor,W,1,Triangle,Atlanta SPO,76KG,SF,2019
+20418,9876,Alef Brito,,K. Yamanaka,W,1,Triangle,Atlanta SPO,76KG,F,2019
+20619,9876,Alef Brito,,Tommi Pulkkanen,W,1,Bow and arrow,World Champ.,76KG,R1,2019
+20929,9876,Alef Brito,,Tyson Antillon,W,1,"Pts: 4x4, Adv",American Nats,76KG,4F,2019
+20933,9876,Alef Brito,7664,Johnny Tama,W,1,"Pts: 0x0, Adv",American Nats,76KG,SF,2019
+20934,9876,Alef Brito,10220,Paulo Gabriel,W,1,Pts: 4x2,American Nats,76KG,F,2019
+21120,9876,Alef Brito,,Robert Wolfe,W,1,Points,Portland SMO,76KG,SF,2019
+21126,9876,Alef Brito,,Vinicius Wong,W,1,N/A,Portland SMO,ABS,4F,2019
+21127,9876,Alef Brito,,Juan Kleber,W,1,N/A,Portland SMO,ABS,SF,2019
+21129,9876,Alef Brito,7332,Hunter Ewald,W,1,Canto choke,Portland SMO,ABS,F,2019
+21131,9876,Alef Brito,,Sebastian Goin,W,1,Points,Fresno Open,76KG,SF,2019
+21133,9876,Alef Brito,9150,Cole Franson,W,1,Points,Fresno Open,76KG,F,2019
+22565,9876,Alef Brito,,Giusley Francisco,W,1,Bow and arrow,South American,76KG,R1,2019
+22570,9876,Alef Brito,13458,Leandro Rounaud,W,1,50/50 armbar,South American,76KG,4F,2019
+22571,9876,Alef Brito,,Bruno Bressan,W,1,Pts: 7x4,South American,76KG,SF,2019
+22705,9876,Alef Brito,3110,Victor Genovesi,W,1,Points,Salvador SPO,82KG,SF,2019
+24560,9876,Alef Brito,,Carlos Souza,W,1,Bow and arrow,American Nats,76KG,R1,2020
+24561,9876,Alef Brito,11044,Pedro Veras,W,1,Referee Decision,American Nats,76KG,4F,2020
+24565,9876,Alef Brito,5930,Rodrigo Freitas,W,1,Bow and arrow,American Nats,76KG,SF,2020
+24566,9876,Alef Brito,11015,Pablo Lavaselli,W,1,"Pts: 4x4, Adv",American Nats,76KG,F,2020
+24964,9876,Alef Brito,,Edson Ricardo,W,1,Bow and arrow,Orlando Open,76KG,SF,2020
+24965,9876,Alef Brito,,Leo Pinargote,W,1,Bow and arrow,Orlando Open,76KG,F,2020
+32645,9876,Alef Brito,,A. Mendonca,W,1,Pts: 4x0,Denver Open,ABS,R1,2022
+32910,9876,Alef Brito,11248,Jonata Gomes,W,1,"Pts: 0x0, Adv",World Champ.,76KG,R1,2022
+34224,9876,Alef Brito,,Michael Khatchikian,W,1,Katagatame,Santa Cruz Open,82KG,SF,2022
+34226,9876,Alef Brito,,Rehan Muttalib,W,1,Choke from back,Santa Cruz Open,82KG,F,2022
+34720,9876,Alef Brito,6368,Kevin Mahecha,W,1,"Pts: 2x2, Adv",JJ Con,76KG,4F,2022
+35204,9876,Alef Brito,,Clay Mayfield,W,1,Bow and arrow,Atlanta FO,82KG,4F,2022
+35205,9876,Alef Brito,9217,Caio Caetano,W,1,"Pts: 4x4, Adv",Atlanta FO,82KG,SF,2022
+35895,9876,Alef Brito,12629,Fabricio Barbarotti,W,1,Points,Houston FO,82KG,4F,2022
+35897,9876,Alef Brito,,Chris Gores,W,1,Choke from back,Houston FO,82KG,SF,2022
+37360,9876,Alef Brito,,Daniel Donahue,W,1,Pts: 8x4,Oklahoma Open,82KG,SF,2023
+37362,9876,Alef Brito,,Rehan Muttalib,W,1,Choke from back,Oklahoma Open,82KG,F,2023
+37870,9876,Alef Brito,,Austin Oranday,W,1,Points,Dallas Open,82KG,SF,2023
+38396,9876,Alef Brito,10352,Leo Silva,W,1,"Pts: 0x0, Pen",Pan American,76KG,4F,2023
+40259,9876,Alef Brito,5061,Gabriel Rollo,W,1,Pts: 4x0,World Champ.,76KG,R1,2023
+42283,9876,Alef Brito,,Carlos Andre,W,1,Points,JJ Con,82KG,4F,2023
+42285,9876,Alef Brito,,Rafael Silveira,W,1,Referee Decision,JJ Con,82KG,SF,2023

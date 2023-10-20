@@ -1,0 +1,102 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2076,179,Rafael Mendes,147,Rubens Charles,L,0,Points,Capital Challenge,70KG,F,2008
+2155,179,Rafael Mendes,147,Rubens Charles,L,0,DQ,Pan American,70KG,SF,2009
+2329,179,Rafael Mendes,147,Rubens Charles,L,0,Referee Decision,World Champ.,70KG,SF,2009
+2909,179,Rafael Mendes,188,Augusto Mendes,L,0,Referee Decision,World Pro.,65KG,F,2011
+2950,179,Rafael Mendes,247,Rodolfo Vieira,L,0,Referee Decision,World P. NoGi,ABS,F,2011
+4787,179,Rafael Mendes,188,Augusto Mendes,L,0,"Pts: 2x2, Adv",World Champ.,70KG,F,2013
+4990,179,Rafael Mendes,147,Rubens Charles,L,0,Referee Decision,ADCC,66KG,F,2013
+5278,179,Rafael Mendes,1523,Clark Gracie,D,0.5,---,Metamoris 3,ABS,SPF,2014
+2073,179,Rafael Mendes,,Michael Reyna,W,1,Choke,Capital Challenge,70KG,4F,2008
+2075,179,Rafael Mendes,790,Mario Reis,W,1,Points,Capital Challenge,70KG,SF,2008
+2099,179,Rafael Mendes,,Katsuya Toida,W,1,RNC,Deep X III,NA,SPF,2009
+2132,179,Rafael Mendes,,Van Baardewijk,W,1,Triangle,World Pro.,65KG,R1,2009
+2134,179,Rafael Mendes,195,Robson Moura,W,1,Points,World Pro.,65KG,4F,2009
+2137,179,Rafael Mendes,588,Renato Tavares,W,1,Pts: 6x0,World Pro.,65KG,SF,2009
+2138,179,Rafael Mendes,147,Rubens Charles,W,1,Points,World Pro.,65KG,F,2009
+2151,179,Rafael Mendes,1440,Rodrigo Ranieri,W,1,Pts: 14x6,Pan American,70KG,4F,2009
+2234,179,Rafael Mendes,,Jayson Patino,W,1,Triangle,ADCC,66KG,R1,2009
+2238,179,Rafael Mendes,1398,Justin Rader,W,1,Anaconda,ADCC,66KG,4F,2009
+2240,179,Rafael Mendes,419,Leonardo Vieira,W,1,RNC,ADCC,66KG,SF,2009
+2242,179,Rafael Mendes,147,Rubens Charles,W,1,Points,ADCC,66KG,F,2009
+2326,179,Rafael Mendes,1594,Carlos Lemos,W,1,Pts: 4x0,World Champ.,70KG,4F,2009
+2485,179,Rafael Mendes,613,Wellington Dias,W,1,Armbar,European,70KG,SF,2010
+2486,179,Rafael Mendes,,Renan Borges,W,1,Pts: 2x0,European,70KG,F,2010
+2505,179,Rafael Mendes,244,Denilson Pimenta,W,1,Pts: 2x0,WPC SD trials,65KG,SF,2010
+2513,179,Rafael Mendes,244,Denilson Pimenta,W,1,Choke from back,WPC Gr Trials,65KG,SF,2010
+2515,179,Rafael Mendes,1178,Theodoro Canal,W,1,Choke from back,WPC Gr Trials,65KG,F,2010
+2637,179,Rafael Mendes,415,Guilherme Mendes,W,1,Pts: 4x2,World Pro.,65KG,F,2010
+2651,179,Rafael Mendes,147,Rubens Charles,W,1,Pts: 4x2,Brasileiro,70KG,F,2010
+2670,179,Rafael Mendes,725,Ryan Hall,W,1,Pts: 5x2,World Champ.,70KG,R1,2010
+2671,179,Rafael Mendes,,Gustavo Caprio,W,1,Choke from back,World Champ.,70KG,R2,2010
+2677,179,Rafael Mendes,2221,Daisuke Nakamura,W,1,Armbar,World Champ.,70KG,4F,2010
+2679,179,Rafael Mendes,244,Denilson Pimenta,W,1,Choke from back,World Champ.,70KG,SF,2010
+2680,179,Rafael Mendes,147,Rubens Charles,W,1,"Pts: 4x4, Adv",World Champ.,70KG,F,2010
+2901,179,Rafael Mendes,570,Marcelino Freitas,W,1,Brabo choke,World Pro.,65KG,R1,2011
+2905,179,Rafael Mendes,,Gustavo Falciroli,W,1,Choke from back,World Pro.,65KG,4F,2011
+2907,179,Rafael Mendes,283,Bruno Malfacine,W,1,Pts: 7x0,World Pro.,65KG,SF,2011
+2949,179,Rafael Mendes,,Gilmar Oliveira,W,1,Points,World P. NoGi,ABS,4F,2011
+3011,179,Rafael Mendes,2221,Daisuke Nakamura,W,1,Choke,World Champ.,70KG,RDS,2011
+3023,179,Rafael Mendes,1398,Justin Rader,W,1,Choke,World Champ.,70KG,RDS,2011
+3108,179,Rafael Mendes,8231,Leo Saggioro,W,1,Inverted triangle,World Champ.,70KG,4F,2011
+3136,179,Rafael Mendes,790,Mario Reis,W,1,Pts: 4x2,World Champ.,70KG,SF,2011
+3149,179,Rafael Mendes,188,Augusto Mendes,W,1,"Pts: 4x4, Adv",World Champ.,70KG,F,2011
+3220,179,Rafael Mendes,174,Bruno Frazatto,W,1,Pts: 6x0,ADCC,66KG,R1,2011
+3260,179,Rafael Mendes,1398,Justin Rader,W,1,RNC,ADCC,66KG,4F,2011
+3281,179,Rafael Mendes,195,Robson Moura,W,1,Points,ADCC,66KG,SF,2011
+3295,179,Rafael Mendes,147,Rubens Charles,W,1,Pen,ADCC,66KG,F,2011
+3586,179,Rafael Mendes,1640,Andre Monteiro,W,1,Armbar,Pan American,70KG,4F,2012
+3587,179,Rafael Mendes,1398,Justin Rader,W,1,Triangle,Pan American,70KG,4F,2012
+3591,179,Rafael Mendes,790,Mario Reis,W,1,Wristlock,Pan American,70KG,SF,2012
+3593,179,Rafael Mendes,147,Rubens Charles,W,1,Armbar,Pan American,70KG,F,2012
+3966,179,Rafael Mendes,,Sandro Batata,W,1,Brabo choke,World Champ.,70KG,R2,2012
+3978,179,Rafael Mendes,,Cristiano Renato,W,1,Kimura,World Champ.,70KG,R3,2012
+3985,179,Rafael Mendes,,Takayuki Koyama,W,1,Choke from back,World Champ.,70KG,4F,2012
+3989,179,Rafael Mendes,790,Mario Reis,W,1,Pts: 2x0,World Champ.,70KG,SF,2012
+3991,179,Rafael Mendes,147,Rubens Charles,W,1,Referee Decision,World Champ.,70KG,F,2012
+4172,179,Rafael Mendes,1640,Andre Monteiro,W,1,Brabo choke,Houston Open,70KG,F,2012
+4553,179,Rafael Mendes,,Renato Vieira,W,1,Armbar,Pan American,70KG,4F,2013
+4555,179,Rafael Mendes,790,Mario Reis,W,1,Pts: 2x0,Pan American,70KG,SF,2013
+4556,179,Rafael Mendes,147,Rubens Charles,W,1,Referee Decision,Pan American,70KG,F,2013
+4784,179,Rafael Mendes,,Mayko Borges,W,1,Armbar,World Champ.,70KG,4F,2013
+4785,179,Rafael Mendes,790,Mario Reis,W,1,Adv,World Champ.,70KG,SF,2013
+4976,179,Rafael Mendes,,Y. Takahito,W,1,Kimura,ADCC,66KG,R1,2013
+4985,179,Rafael Mendes,,Tetsu Suzuki,W,1,Armbar,ADCC,66KG,4F,2013
+4987,179,Rafael Mendes,2997,Joao Miyao,W,1,Pts: 2x0,ADCC,66KG,SF,2013
+5141,179,Rafael Mendes,,Geoffrey Villareal,W,1,Armbar,SF Open,70KG,SF,2013
+5150,179,Rafael Mendes,,Gustavo Carpio,W,1,Wristlock,Houston Open,70KG,SF,2013
+5156,179,Rafael Mendes,,Unknown,W,1,Triangle armbar,Rickson Cup,70KG,4F,2013
+5157,179,Rafael Mendes,,Unknown,W,1,Armbar,Rickson Cup,70KG,SF,2013
+5158,179,Rafael Mendes,,Unknown,W,1,Armbar,Rickson Cup,70KG,F,2013
+5249,179,Rafael Mendes,4248,Gianni Grippo,W,1,Pts: 5x0,European,70KG,SF,2014
+5251,179,Rafael Mendes,2999,Paulo Miyao,W,1,Pts: 3x0,European,70KG,F,2014
+5756,179,Rafael Mendes,,Tumas Kristen,W,1,Choke from back,World Champ.,70KG,RDS,2014
+5759,179,Rafael Mendes,,Nicollas Araujo,W,1,Choke from back,World Champ.,70KG,RDS,2014
+5769,179,Rafael Mendes,4248,Gianni Grippo,W,1,Choke from back,World Champ.,70KG,4F,2014
+5772,179,Rafael Mendes,790,Mario Reis,W,1,Choke from back,World Champ.,70KG,SF,2014
+5774,179,Rafael Mendes,147,Rubens Charles,W,1,Pts: 10x8,World Champ.,70KG,F,2014
+6223,179,Rafael Mendes,,Yagi Vicente,W,1,Triangle armbar,Rickson Cup,70KG,R1,2014
+6224,179,Rafael Mendes,,Tsukada Ichitaro,W,1,Wristlock,Rickson Cup,70KG,R2,2014
+6225,179,Rafael Mendes,,Hirao Yuto,W,1,Cross choke,Rickson Cup,70KG,4F,2014
+6226,179,Rafael Mendes,,Okamoto Yuji,W,1,Armbar,Rickson Cup,70KG,SF,2014
+6231,179,Rafael Mendes,,Charles Gaspar,W,1,Bow and arrow,Rickson Cup,ABS,SF,2014
+6657,179,Rafael Mendes,5414,Osvaldo Moizinho,W,1,Choke from back,Berkut Open,ABS,SPF,2015
+6663,179,Rafael Mendes,5414,Osvaldo Moizinho,W,1,RNC,Berkut Open NoGi,ABS,SPF,2015
+7420,179,Rafael Mendes,1640,Andre Monteiro,W,1,Bow and arrow,World Champ.,70KG,8F,2015
+7429,179,Rafael Mendes,,Phillipe D. Monica,W,1,Choke from back,World Champ.,70Kg,4F,2015
+7430,179,Rafael Mendes,790,Mario Reis,W,1,Wristlock,World Champ.,70KG,SF,2015
+7431,179,Rafael Mendes,147,Rubens Charles,W,1,Pts: 6x0,World Champ.,70KG,F,2015
+7588,179,Rafael Mendes,,Unknown,W,1,Armbar,Bullterrier Cup,70KG,4F,2015
+7589,179,Rafael Mendes,,Unknown,W,1,Armbar,Bullterrier Cup,70KG,SF,2015
+7590,179,Rafael Mendes,,Unknown,W,1,Armbar,Bullterrier Cup,70KG,F,2015
+7591,179,Rafael Mendes,,Unknown,W,1,Armbar,Bullterrier Cup,ABS,4F,2015
+7594,179,Rafael Mendes,,Anderson Takahashi,W,1,Armbar,Bullterrier Cup,ABS,SF,2015
+9693,179,Rafael Mendes,,Brian Stuebner,W,1,Armbar,San Antonio Open,70KG,4F,2016
+9695,179,Rafael Mendes,6103,Isaac Doederlein,W,1,"Pts: 0x0, Adv",San Antonio Open,70KG,SF,2016
+9696,179,Rafael Mendes,7698,Gabriel Marangoni,W,1,Pts: 12x0,San Antonio Open,70KG,F,2016
+9871,179,Rafael Mendes,,Vitor Paschoal,W,1,Armbar,Las Vegas Open,70KG,SF,2016
+9872,179,Rafael Mendes,1436,Samir Chantre,W,1,Armbar,Las Vegas Open,70KG,F,2016
+9951,179,Rafael Mendes,,Ichitaro Tsukada,W,1,Choke from back,World Champ.,70KG,R2,2016
+9959,179,Rafael Mendes,8231,Leo Saggioro,W,1,Pts: 6x0,World Champ.,70KG,4F,2016
+9961,179,Rafael Mendes,5414,Osvaldo Moizinho,W,1,Triangle armbar,World Champ.,70KG,SF,2016
+9963,179,Rafael Mendes,4163,Marcio Andre,W,1,"Pts: 10x10, Adv",World Champ.,70KG,F,2016

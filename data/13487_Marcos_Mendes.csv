@@ -1,0 +1,20 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+41203,13487,Marcos Mendes,11568,Josh Cisneros,L,0,Points,American NNG,73KG,4F,2023
+41710,13487,Marcos Mendes,11510,Samuel Nagai,L,0,Points,Dallas SNGO,73KG,RR,2023
+41712,13487,Marcos Mendes,11510,Samuel Nagai,L,0,Katagatame,Dallas SNGO,73KG,F,2023
+41718,13487,Marcos Mendes,13076,Francisco Lo,L,0,Toe hold,Dallas SNGO,ABS,F,2023
+42261,13487,Marcos Mendes,,An Vu,L,0,Referee Decision,JJ Con,70KG,R1,2023
+42868,13487,Marcos Mendes,6368,Kevin Mahecha,L,0,Pts: 2x1,ADGS Miami,69KG,8F,2023
+43227,13487,Marcos Mendes,4248,Gianni Grippo,L,0,Pts: 2x0,NoGi Pan,67KG,SF,2023
+41124,13487,Marcos Mendes,,Jesse Araujo,W,1,Choke from back,American Nats,70KG,R1,2023
+41127,13487,Marcos Mendes,,Luan Gomes,W,1,Pts: 16x12,American Nats,70KG,4F,2023
+41129,13487,Marcos Mendes,,Edward Lucero,W,1,Omoplata,American Nats,70KG,SF,2023
+41131,13487,Marcos Mendes,,Huthayfah Penney,W,1,"Pts: 2x2, Adv",American Nats,70KG,F,2023
+41202,13487,Marcos Mendes,,Alika Villiatora,W,1,Lateral kneebar,American NNG,73KG,R1,2023
+41687,13487,Marcos Mendes,,Carlos Neto,W,1,Omoplata,Dallas SMO,70KG,SF,2023
+41689,13487,Marcos Mendes,,Augusto Pereira,W,1,Referee Decision,Dallas SMO,70KG,F,2023
+41711,13487,Marcos Mendes,11512,Lukete Silva,W,1,"Pts: 2x2, Pen",Dallas SNGO,73KG,RR,2023
+41717,13487,Marcos Mendes,11093,Emilio Hernandez,W,1,Points,Dallas SNGO,ABS,SF,2023
+42482,13487,Marcos Mendes,,Michael Alvarez,W,1,Guillotine,EUG JJB,NA,SPF,2023
+43219,13487,Marcos Mendes,,Caleb Johnson,W,1,Inside heel hook,NoGi Pan,67KG,R1,2023
+43224,13487,Marcos Mendes,,Chad Myers,W,1,RNC,NoGi Pan,67KG,4F,2023

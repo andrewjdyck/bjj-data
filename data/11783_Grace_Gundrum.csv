@@ -1,0 +1,11 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24851,11783,Grace Gundrum,9271,Mayssa Bastos,L,0,Referee Decision,WNO 5,SPF,52KG,2020
+27933,11783,Grace Gundrum,9271,Mayssa Bastos,L,0,Referee Decision,WNO Champ.,52KG,F,2021
+37103,11783,Grace Gundrum,12569,Alex Enriquez,L,0,EBI/OT,Finishers 18,57KG,F,2023
+24280,11783,Grace Gundrum,,Patricia Fontes,W,1,Armbar,F2W 155,58KG,SPF,2020
+25963,11783,Grace Gundrum,13084,Alex Nguyen,W,1,Armlock,WNO 8,52KG,SPF,2021
+27914,11783,Grace Gundrum,,Danielle Kelly,W,1,Referee Decision,WNO Champ.,52KG,4F,2021
+27917,11783,Grace Gundrum,11690,Jessa Khan,W,1,Twister,WNO Champ.,52KG,SF,2021
+37091,11783,Grace Gundrum,,Cindy Ung,W,1,Outside heel hook,Finishers 18,57KG,RR,2023
+37095,11783,Grace Gundrum,,Erin Brenew,W,1,Armbar,Finishers 18,57KG,RR,2023
+37099,11783,Grace Gundrum,,Nicole Mathew,W,1,Armbar,Finishers 18,57KG,RR,2023

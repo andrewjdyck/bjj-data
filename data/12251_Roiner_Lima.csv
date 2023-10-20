@@ -1,0 +1,50 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24648,12251,Roiner Lima,11212,Yuri Hendrex,L,0,Pts: 10x9,Grand Slam RJ,56KG,4F,2020
+26077,12251,Roiner Lima,12120,Estevan Martinez,L,0,Inside heel hook,NoGi Pan Am.,55KG,F,2021
+26650,12251,Roiner Lima,9044,Livio Ribeiro,L,0,"Pts: 8x8, Adv",American Nats,57KG,SF,2021
+27528,12251,Roiner Lima,8038,Hiago Gama,L,0,Referee Decision,Pan American,58KG,SF,2021
+28206,12251,Roiner Lima,12120,Estevan Martinez,L,0,RNC,NoGi Worlds,55KG,F,2021
+29449,12251,Roiner Lima,6258,Rodnei Barbosa,L,0,Pts: 8x6,World Champ.,57KG,4F,2021
+30935,12251,Roiner Lima,6043,Lucas Pinheiro,L,0,Pts: 4x2,LA Open,64KG,F,2022
+32873,12251,Roiner Lima,6043,Lucas Pinheiro,L,0,Pts: 8x2,World Champ.,64KG,8F,2022
+35497,12251,Roiner Lima,13360,David Terao,L,0,Pts: 2x0,NoGi Pan,61KG,4F,2022
+36796,12251,Roiner Lima,12615,Osamah Almarwai,L,0,"Pts: 0x0, Adv",NoGi Worlds,55KG,F,2022
+37926,12251,Roiner Lima,13341,Zach Kaina,L,0,"Pts: 2x2, Adv",LA Open,64KG,SF,2023
+38351,12251,Roiner Lima,13341,Zach Kaina,L,0,Choke from back,Pan American,64KG,8F,2023
+40197,12251,Roiner Lima,10099,Thalison Soares,L,0,Triangle armlock,World Champ.,58KG,SF,2023
+41123,12251,Roiner Lima,,Bebeto Oliveira,L,0,Pts: 10x8,American Nats,64KG,F,2023
+41666,12251,Roiner Lima,10509,Mathias Luna,L,0,"Pts: 0x0, Adv",Phoenix NGO,ABS,SF,2023
+42855,12251,Roiner Lima,,Jefferson Fagundes,L,0,Pts: 1x1,ADGS Miami,62KG,4F,2023
+42863,12251,Roiner Lima,,Marcos Froede,L,0,Pts: 4x2,ADGS Miami,62KG,RPC,2023
+43212,12251,Roiner Lima,10380,Junny Ocasio,L,0,"Pts: 2x2, Adv",NoGi Pan,61KG,SF,2023
+24655,12251,Roiner Lima,6258,Rodnei Barbosa,W,1,Pts: 2x1,Grand Slam RJ,56KG,RPC,2020
+24657,12251,Roiner Lima,11212,Yuri Hendrex,W,1,Pts: 3x3,Grand Slam RJ,56KG,3RD,2020
+25783,12251,Roiner Lima,,Henrique Rossi,W,1,Pts: 2x0,Houston Open,57KG,SF,2021
+25784,12251,Roiner Lima,,Jorge Vasquez,W,1,Pts: 2x0,Houston Open,57KG,F,2021
+26069,12251,Roiner Lima,,A. Poveda,W,1,Kneebar,NoGi Pan Am.,55KG,R1,2021
+26072,12251,Roiner Lima,9044,Livio Ribeiro,W,1,Pts: 11x4,NoGi Pan Am.,55KG,4F,2021
+26076,12251,Roiner Lima,,Lee Rosenfield,W,1,"Pts: 0x0, Adv",NoGi Pan Am.,55KG,SF,2021
+27035,12251,Roiner Lima,12120,Estevan Martinez,W,1,Pts: 2x0,Phoenix Open,56KG,F,2021
+27216,12251,Roiner Lima,11794,Willis Nunes,W,1,DQ,Grand Slam MIA,56KG,SF,2021
+27217,12251,Roiner Lima,10293,Jonas Andrade,W,1,Pts: 7x5,Grand Slam MIA,56KG,F,2021
+27526,12251,Roiner Lima,12120,Estevan Martinez,W,1,"Pts: 2x2, Adv",Pan American,58KG,4F,2021
+28203,12251,Roiner Lima,,Dean Lewis,W,1,Pts: 4x2,NoGi Worlds,55KG,4F,2021
+28205,12251,Roiner Lima,8361,Marcelo Cohen,W,1,Violin armlock,NoGi Worlds,55KG,SF,2021
+33848,12251,Roiner Lima,,Darryl Lebus,W,1,N/A,Phoenix Open,64KG,F,2022
+35494,12251,Roiner Lima,,Vinny Saenz,W,1,Pts: 2x0,NoGi Pan,61KG,R1,2022
+36792,12251,Roiner Lima,,Denis Beenen,W,1,Kneebar,NoGi Worlds,55KG,4F,2022
+36795,12251,Roiner Lima,12120,Estevan Martinez,W,1,"Pts: 6x6, Adv",NoGi Worlds,55KG,SF,2022
+40072,12251,Roiner Lima,,Valor Boyer,W,1,N/A,B Raton Open,64KG,4F,2023
+40074,12251,Roiner Lima,,Luis Ninja,W,1,Points,B Raton Open,64KG,SF,2023
+40075,12251,Roiner Lima,,Italo Bonfim,W,1,Points,B Raton Open,64KG,F,2023
+40191,12251,Roiner Lima,6258,Rodnei Barbosa,W,1,Pts: 8x6,World Champ.,58KG,R1,2023
+40193,12251,Roiner Lima,12968,Zayed Alkatheeri,W,1,Referee Decision,World Champ.,58KG,4F,2023
+41119,12251,Roiner Lima,,Jacob Sandoval,W,1,"Pts: 2x2, Adv",American Nats,64KG,4F,2023
+41121,12251,Roiner Lima,13341,Zach Kaina,W,1,Referee Decision,American Nats,64KG,SF,2023
+41193,12251,Roiner Lima,,Darryl Lebus,W,1,Armbar,American NNG,61KG,SF,2023
+41195,12251,Roiner Lima,,Valor Boyer,W,1,Pts: 2x0,American NNG,61KG,F,2023
+41630,12251,Roiner Lima,,Rene Lopez,W,1,Pts: 4x2,Phoenix Open,64KG,SF,2023
+41632,12251,Roiner Lima,,Matheus Azancot,W,1,Toe hold,Phoenix Open,64KG,F,2023
+42852,12251,Roiner Lima,,Pedro Nakano,W,1,Pts: 4x3,ADGS Miami,62KG,R1,2023
+42861,12251,Roiner Lima,,Jairo Alejandro,W,1,Pts: 6x3,ADGS Miami,62KG,RPC,2023
+43210,12251,Roiner Lima,,Valor Boyer,W,1,Pts: 6x2,NoGi Pan,61KG,4F,2023

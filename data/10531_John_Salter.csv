@@ -1,0 +1,14 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+13881,10531,John Salter,84,Alexandre Ribeiro,L,0,Armbar,ADCC,88KG,E1,2017
+28913,10531,John Salter,12922,Elder Cruz,L,0,Referee Decision,ADCC EC Trials,88KG,SF,2021
+28916,10531,John Salter,13162,Jacob Couch,L,0,"Pts: 0x0, Pen",ADCC EC Trials,88KG,3RD,2021
+12526,10531,John Salter,,Kenneth Tenorio,W,1,Japanese necktie,ADCC WC Trials,88KG,R1,2017
+12534,10531,John Salter,,Josh Hayden,W,1,Pts: 3x0,ADCC WC Trials,88KG,8F,2017
+12538,10531,John Salter,,Sid Skrob,W,1,Pts: 3x0,ADCC WC Trials,88KG,8F,2017
+12544,10531,John Salter,7096,Josh Hinger,W,1,Pts: 2x0,ADCC WC Trials,88KG,SF,2017
+12546,10531,John Salter,2226,DJ Jackson,W,1,Pen,ADCC WC Trials,88KG,F,2017
+28876,10531,John Salter,,Ian Poole,W,1,Pts: 8x0,ADCC EC Trials,88KG,R1,2021
+28885,10531,John Salter,,Javi Barter,W,1,Pts: 5x0,ADCC EC Trials,88KG,R2,2021
+28895,10531,John Salter,,Sal Vega,W,1,Pts: 9x0,ADCC EC Trials,88KG,R3,2021
+28903,10531,John Salter,,Benji Silva,W,1,Pts: 4x0,ADCC EC Trials,88KG,R4,2021
+28910,10531,John Salter,,Adrian Nez,W,1,Referee Decision,ADCC EC Trials,88KG,4F,2021

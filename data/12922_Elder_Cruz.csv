@@ -1,0 +1,61 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+28915,12922,Elder Cruz,11797,Giancarlo Bodoni,L,0,Pts: 3x0,ADCC EC Trials,88KG,F,2021
+31294,12922,Elder Cruz,9559,Rida Haisam,L,0,RNC,WNO 12,92KG,SPF,2022
+31349,12922,Elder Cruz,7502,Paul Ardila,L,0,Inside heel hook,ADCC WC Trials,99KG,SF,2022
+34201,12922,Elder Cruz,,Ryan Aitken,L,0,EBI/OT,Sapateiro Inv,93KG,4F,2022
+35056,12922,Elder Cruz,8974,Kaynan Duarte,L,0,Pts: 5x2,ADCC,99KG,4F,2022
+35096,12922,Elder Cruz,224,Roberto Abreu,L,0,Pts: 3x0,ADCC,ABS,8F,2022
+35569,12922,Elder Cruz,11027,Pedro Rocha,L,0,Pts: 4x0,NoGi Pan,91KG,4F,2022
+35585,12922,Elder Cruz,9554,Henrique Cardoso,L,0,Inside heel hook,NoGi Pan,ABS,8F,2022
+37328,12922,Elder Cruz,,Carlos Neto,L,0,Pts: 2x0,Austin WO,ABS,R1,2023
+37735,12922,Elder Cruz,13051,Caio Vinicius,L,0,Pts: 10x0,Memphis Open,94KG,SF,2023
+37748,12922,Elder Cruz,13051,Caio Vinicius,L,0,Pts: 4x0,Memphis Open,ABS,4F,2023
+37941,12922,Elder Cruz,11960,Joao Cizeski,L,0,Referee Decision,LA Open,88KG,SF,2023
+37968,12922,Elder Cruz,10085,Johnatha Alves,L,0,Pts: 22x0,LA Open,ABS,SF,2023
+38414,12922,Elder Cruz,12215,Sebastian Rodriguez,L,0,"Pts: 2x2, Pen",Pan American,88KG,R1,2023
+39055,12922,Elder Cruz,10162,Ronaldo Junior,L,0,Pts: 20x4,Santa Cruz O,88KG,SF,2023
+40031,12922,Elder Cruz,576,Rafael Lovato,L,0,RNC,WNO 18,92KG,SPF,2023
+40298,12922,Elder Cruz,7047,Matheus Spirandeli,L,0,Pts: 21x2,World Champ.,88KG,R1,2023
+40481,12922,Elder Cruz,8974,Kaynan Duarte,L,0,Choke from back,World Champ.,ABS,8F,2023
+40884,12922,Elder Cruz,,Luke Griffith,L,0,RNC,ADCC Dallas,ABS,F,2023
+42393,12922,Elder Cruz,11797,Giancarlo Bodoni,L,0,Points,Blue Collar,ABS,4F,2023
+43180,12922,Elder Cruz,2403,Joao Rocha,L,0,Pts: 3x0,NoGi Pan,ABS,8F,2023
+25973,12922,Elder Cruz,,Daniel Manasoiu,W,1,Referee Decision,SUBVERSIV 5,ABS,4F,2021
+25982,12922,Elder Cruz,,Rene Sousa,W,1,Referee Decision,SUBVERSIV 5,ABS,SF,2021
+28880,12922,Elder Cruz,,Pablo Montes,W,1,Pts: 7x0,ADCC EC Trials,88KG,R2,2021
+28890,12922,Elder Cruz,,Daishi Goto,W,1,Pts: 13x0,ADCC EC Trials,88KG,R3,2021
+28901,12922,Elder Cruz,,Devon Cura,W,1,Pts: 7x0,ADCC EC Trials,88KG,R4,2021
+28909,12922,Elder Cruz,,Sean Yadimarco,W,1,Pts: 3x0,ADCC EC Trials,88KG,4F,2021
+28913,12922,Elder Cruz,10531,John Salter,W,1,Referee Decision,ADCC EC Trials,88KG,SF,2021
+29822,12922,Elder Cruz,12110,Nick Rodriguez,W,1,Referee Decision,WNO 11,O93KG,SPF,2022
+31335,12922,Elder Cruz,,Jason Patterson,W,1,Pts: 9x0,ADCC WC Trials,99KG,R1,2022
+31339,12922,Elder Cruz,,Mateusz Lim,W,1,Pts: 6x0,ADCC WC Trials,99KG,R2,2022
+31343,12922,Elder Cruz,,Michael Lady,W,1,Pts: 3x0,ADCC WC Trials,99KG,8F,2022
+31346,12922,Elder Cruz,,Adrian Nez,W,1,Pts: 3x0,ADCC WC Trials,99KG,4F,2022
+34198,12922,Elder Cruz,,Josiah Harrell,W,1,EBI/OT,Sapateiro Inv,93KG,8F,2022
+35049,12922,Elder Cruz,4430,Patrick Gaudio,W,1,Referee Decision,ADCC,99KG,R1,2022
+35567,12922,Elder Cruz,,Nicolae Cury,W,1,Pts: 10x0,NoGi Pan,91KG,R1,2022
+35582,12922,Elder Cruz,12267,Lucas Norat,W,1,"Pts: 0x0, Adv",NoGi Pan,ABS,R1,2022
+37321,12922,Elder Cruz,,Rafael Fernando,W,1,Pts: 2x0,Austin WO,94KG,4F,2023
+37323,12922,Elder Cruz,,Marlon Tanaka,W,1,Cachecol choke,Austin WO,94KG,SF,2023
+37324,12922,Elder Cruz,,Thiago Andrade,W,1,Pts: 4x0,Austin WO,94KG,F,2023
+37746,12922,Elder Cruz,13379,Felipe Costa,W,1,"Pts: 0x0, Adv",Memphis Open,ABS,R1,2023
+37964,12922,Elder Cruz,,Thiago Andrade,W,1,Pts: 4x0,LA Open,ABS,R1,2023
+38762,12922,Elder Cruz,,Kevin Crane,W,1,N/A,F2W 226,ABS,SPF,2023
+39054,12922,Elder Cruz,,Matheus Gomes,W,1,Cachecol choke,Santa Cruz O,88KG,4F,2023
+40474,12922,Elder Cruz,,Sean Coates,W,1,"Pts: 2x2, Adv",World Champ.,ABS,R1,2023
+40869,12922,Elder Cruz,,H. Alabed,W,1,RNC,ADCC Dallas,ABS,R1,2023
+40873,12922,Elder Cruz,,G. Lamanna,W,1,Pts: 5x0,ADCC Dallas,ABS,R2,2023
+40875,12922,Elder Cruz,,J. McLoughlin,W,1,Pts: 12x0,ADCC Dallas,ABS,R3,2023
+40879,12922,Elder Cruz,,A. La Montagne,W,1,Pts: 3x0,ADCC Dallas,ABS,8F,2023
+40882,12922,Elder Cruz,,Caleb Crump,W,1,Pts: 4x0,ADCC Dallas,ABS,SF,2023
+41222,12922,Elder Cruz,,Thiago Andrade,W,1,Pts: 7x0,American NNG,91KG,4F,2023
+41223,12922,Elder Cruz,9668,David Garmo,W,1,Pts: 4x0,American NNG,91KG,SF,2023
+41225,12922,Elder Cruz,,Sean Yadimarco,W,1,Pts: 7x0,American NNG,91KG,F,2023
+41230,12922,Elder Cruz,,Adam Bradley,W,1,"Pts: 0x0, Adv",American NNG,ABS,R1,2023
+41233,12922,Elder Cruz,12372,Francisco Cuneo,W,1,Pts: 8x0,American NNG,ABS,4F,2023
+41239,12922,Elder Cruz,13192,Carlos Henrique,W,1,Pts: 2x0,American NNG,ABS,SF,2023
+41790,12922,Elder Cruz,,Javier Saul,W,1,Pts: 4x0,SD SMNGO,ABS,SF,2023
+43275,12922,Elder Cruz,,Jose Jurema,W,1,"Pts: 0x0, Adv",NoGi Pan,91KG,R1,2023
+43278,12922,Elder Cruz,,Andrew Marrero,W,1,Anaconda choke,NoGi Pan,91KG,4F,2023
+43282,12922,Elder Cruz,,Hunter Colvin,W,1,Pts: 6x0,NoGi Pan,91KG,SF,2023

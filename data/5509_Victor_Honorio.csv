@@ -1,0 +1,94 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+9554,5509,Victor Honorio,,E. Santos,L,0,DQ,World Pro,ABS,4F,2016
+9667,5509,Victor Honorio,1534,R. Evangelista,L,0,Pts: 6x0,World Pro,O94KG,F,2016
+12717,5509,Victor Honorio,4521,Erberth Santos,L,0,Pts: 4x2,Brasileiro,ABS,SF,2017
+13855,5509,Victor Honorio,224,Roberto Abreu,L,0,Referee Decision,ADCC,O99KG,4F,2017
+13933,5509,Victor Honorio,2416,Felipe Pena,L,0,Pts: 12x0,ADCC,ABS,4F,2017
+14885,5509,Victor Honorio,3009,Keenan Cornelius,L,0,Omoplata,European Open,ABS,SF,2018
+14961,5509,Victor Honorio,1534,R. Evangelista,L,0,"Pts: 0x0, Adv",European Open,O100KG,F,2018
+16607,5509,Victor Honorio,984,Marcus Almeida,L,0,Kimura,World Champ.,O100KG,SF,2018
+16635,5509,Victor Honorio,1188,Leandro Lo,L,0,Pts: 4x0,World Champ.,ABS,SF,2018
+20357,5509,Victor Honorio,9483,Eduardo Lopes,L,0,Pts: 2x0,Brasileiro,O100KG,SF,2019
+20712,5509,Victor Honorio,7537,Felipe Bezerra,L,0,"Pts: 2x2, Adv",World Champ.,O100KG,4F,2019
+20726,5509,Victor Honorio,9180,Vinicius Trator,L,0,"Pts: 0x0, Adv",World Champ.,ABS,R2,2019
+34056,5509,Victor Honorio,,Daniel Ribeiro,L,0,Pts: 1x1,Grand Slam RJ,120KG,8F,2022
+39544,5509,Victor Honorio,10159,Victor Hugo,L,0,Pts: 2x0,Brasileiro,O100KG,SF,2023
+39562,5509,Victor Honorio,10159,Victor Hugo,L,0,Choke from back,Brasileiro,ABS,F,2023
+8671,5509,Victor Honorio,,Kaue Damasceno,W,1,"Pts: 2x2, Adv",Grand Slam RJ,O94KG,8F,2015
+8679,5509,Victor Honorio,,Antidio Neto,W,1,Pts: 2x0,Grand Slam RJ,O94KG,4F,2015
+8682,5509,Victor Honorio,,Andre Campos,W,1,Choke,Grand Slam RJ,O94KG,SF,2015
+9083,5509,Victor Honorio,8762,Rodrigo Ribeiro,W,1,Lapel choke,Gramado Nat. Pro,O94KG,SF,2016
+9084,5509,Victor Honorio,,Wellington Modena,W,1,Pts: 6x0,Gramado Nat. Pro,O94KG,F,2016
+9146,5509,Victor Honorio,,Kitner Mendonça,W,1,Lapel choke,Expo Fight,ABS,4F,2016
+9148,5509,Victor Honorio,,Otavio Nalati,W,1,Pts: 2x0,Expo Fight,ABS,SF,2016
+9151,5509,Victor Honorio,4521,Erberth Santos,W,1,"Pts: 0x0, Pen",Expo Fight,ABS,F,2016
+9524,5509,Victor Honorio,,Cesar Miyahira,W,1,Pts: 6x0,World Pro,ABS,R1,2016
+9540,5509,Victor Honorio,,Thiago Aragao,W,1,Pts: 3x0,World Pro,ABS,R2,2016
+9548,5509,Victor Honorio,1188,Leandro Lo,W,1,"Pts: 0x0, Adv",World Pro,ABS,8F,2016
+9660,5509,Victor Honorio,,Otavio Nalati,W,1,Pts: 4x0,World Pro,O94KG,R1,2016
+9662,5509,Victor Honorio,680,Igor Silva,W,1,N/A,World Pro,O94KG,4F,2016
+9665,5509,Victor Honorio,,Andre Campos,W,1,Referee Decision,World Pro,O94KG,SF,2016
+9820,5509,Victor Honorio,,Jackson Monguilhott,W,1,Wristlock,Brasileiro,ABS,RD,2016
+9829,5509,Victor Honorio,,Otavio Nalati,W,1,DQ,Brasileiro,ABS,8F,2016
+9833,5509,Victor Honorio,,Kitner Moura,W,1,Points,Brasileiro,ABS,4F,2016
+10999,5509,Victor Honorio,8560,Gabriel Lucas,W,1,Pts: 3x0,BJJ Rio Pro,O94KG,F,2016
+11174,5509,Victor Honorio,,Hugo Alves,W,1,Points,Curitiba Pro,110KG,RR,2016
+11175,5509,Victor Honorio,,Hugo Alves,W,1,Choke,Curitiba Pro,110KG,F,2016
+11179,5509,Victor Honorio,,Hugo Alves,W,1,Points,Curitiba Pro,ABS,RR,2016
+11180,5509,Victor Honorio,,Hugo Alves,W,1,Choke,Curitiba Pro,ABS,F,2016
+11219,5509,Victor Honorio,,Otavio Serafim,W,1,Pts: 8x0,South American,ABS,R1,2016
+11222,5509,Victor Honorio,,Kitner Moura,W,1,Lapel choke,South American,ABS,4F,2016
+11225,5509,Victor Honorio,6631,Igor Schneider,W,1,Lapel choke,South American,ABS,SF,2016
+11226,5509,Victor Honorio,4521,Erberth Santos,W,1,Pts: 8x2,South American,ABS,F,2016
+11249,5509,Victor Honorio,,Leandro Pedrosa,W,1,Points,South American,O100KG,4F,2016
+11251,5509,Victor Honorio,,Otavio Seravim,W,1,Lapel choke,South American,O100KG,SF,2016
+11252,5509,Victor Honorio,6631,Igor Schneider,W,1,"Pts: 0x0, Adv",South American,O100KG,F,2016
+11349,5509,Victor Honorio,,Rafael Ferreira,W,1,N/A,Petropolis Pro,110KG,SF,2016
+11350,5509,Victor Honorio,,Agnaldo Silveira,W,1,N/A,Petropolis Pro,110KG,F,2016
+11769,5509,Victor Honorio,,Fabio Silva,W,1,Points,ADCC RJ,O99KG,4F,2017
+11770,5509,Victor Honorio,8560,Gabriel Lucas,W,1,Points,ADCC RJ,O99KG,SF,2017
+11771,5509,Victor Honorio,,L. Chocolate,W,1,Points,ADCC RJ,O99KG,F,2017
+12702,5509,Victor Honorio,,Adriano Sousa,W,1,Points,Brasileiro,ABS,RDS,2017
+12710,5509,Victor Honorio,6631,Igor Schneider,W,1,Pts: 9x0,Brasileiro,ABS,RDS,2017
+12713,5509,Victor Honorio,4960,Dimitrius Souza,W,1,Referee Decision,Brasileiro,ABS,4F,2017
+12821,5509,Victor Honorio,,Roger Ambrosio,W,1,Pts: 2x0,Brasileiro,O100KG,R1,2017
+12822,5509,Victor Honorio,,Otavio Nalati,W,1,Lapel choke,Brasileiro,O100KG,4F,2017
+12824,5509,Victor Honorio,,Kitner Moura,W,1,Choke,Brasileiro,O100KG,SF,2017
+12826,5509,Victor Honorio,6631,Igor Schneider,W,1,Pts: 3x0,Brasileiro,O100KG,F,2017
+13851,5509,Victor Honorio,,Jesseray Childrey,W,1,Pts: 5x0,ADCC,O99KG,E1,2017
+13926,5509,Victor Honorio,,A. Zhanpeisov,W,1,Dogbar,ADCC,ABS,E1,2017
+14246,5509,Victor Honorio,,Joseph Moku,W,1,Points,ACBJJ 8,O95KG,4F,2017
+14248,5509,Victor Honorio,2403,Joao Rocha,W,1,Points,ACBJJ 8,O95KG,SF,2017
+14249,5509,Victor Honorio,4430,Patrick Gaudio,W,1,Guillotine,ACBJJ 8,O95KG,F,2017
+14879,5509,Victor Honorio,,R. Silva,W,1,Pts: 6x0,European Open,ABS,8F,2018
+14882,5509,Victor Honorio,3200,Jackson Sousa,W,1,Pts: 2x0,European Open,ABS,4F,2018
+14956,5509,Victor Honorio,8968,Admilson Gobi,W,1,Pts: 4x0,European Open,O100KG,4F,2018
+14960,5509,Victor Honorio,,Otavio Nalati,W,1,Pts: 2x0,European Open,O100KG,SF,2018
+15318,5509,Victor Honorio,4521,Erberth Santos,W,1,Referee Decision,ACBJJ 11,O95KG,SPF,2018
+15849,5509,Victor Honorio,,Muhammad Kerimov,W,1,Points,ACBJJ 12,O95KG,SPF,2018
+16304,5509,Victor Honorio,,Rodrigo Martins,W,1,"Pts: 0x0, Adv",Brasileiro,ABS,4F,2018
+16306,5509,Victor Honorio,7507,Nicholas Meregali,W,1,Pts: 5x2,Brasileiro,ABS,SF,2018
+16599,5509,Victor Honorio,,T. Gaia,W,1,Pts: 4x2,World Champ.,O100KG,8F,2018
+16604,5509,Victor Honorio,,Alex Aparecido,W,1,"Pts: 2x2, Adv",World Champ.,O100KG,4F,2018
+16627,5509,Victor Honorio,8100,Rudson Mateus,W,1,"Pts: 2x2, Adv",World Champ.,ABS,8F,2018
+16633,5509,Victor Honorio,4310,Tim Spriggs,W,1,Pts: 2x0,World Champ.,ABS,4F,2018
+18940,5509,Victor Honorio,,Renan Marcel,W,1,Points,European Open,O100KG,4F,2019
+18942,5509,Victor Honorio,9515,Seif Houmine,W,1,Pts: 7x0,European Open,O100KG,SF,2019
+18944,5509,Victor Honorio,6156,Tanner Rice,W,1,Pts: 6x0,European Open,O100KG,F,2019
+20350,5509,Victor Honorio,,Antonio Ricardo,W,1,Bread cutter,Brasileiro,O100KG,R2,2019
+20355,5509,Victor Honorio,,Andre Lobato,W,1,"Pts: 0x0, Adv",Brasileiro,O100KG,4F,2019
+20369,5509,Victor Honorio,,Alvaro Walter,W,1,Adv,Brasileiro,ABS,R2,2019
+20372,5509,Victor Honorio,9180,Vinicius Trator,W,1,Referee Decision,Brasileiro,ABS,R3,2019
+38603,5509,Victor Honorio,,Luiz Bonfim,W,1,Cachecol Choke,Rio Fall Open,O100KG,4F,2023
+38607,5509,Victor Honorio,,Daniel Conceicao,W,1,Cachecol Choke,Rio Fall Open,O100KG,SF,2023
+38608,5509,Victor Honorio,13053,Luis Oliveira,W,1,Cachecol Choke,Rio Fall Open,O100KG,F,2023
+38615,5509,Victor Honorio,,Jhonathan Marques,W,1,Cachecol choke,Rio Fall Open,ABS,8F,2023
+38619,5509,Victor Honorio,,Henrique Silva,W,1,Cachecol choke,Rio Fall Open,ABS,4F,2023
+38623,5509,Victor Honorio,,Ian Cerqueira,W,1,Cachecol choke,Rio Fall Open,ABS,SF,2023
+38624,5509,Victor Honorio,,Cleyton Flores,W,1,Cachecol choke,Rio Fall Open,ABS,F,2023
+39539,5509,Victor Honorio,7704,Helton Jose,W,1,"Pts: 0x0, Adv",Brasileiro,O100KG,4F,2023
+39548,5509,Victor Honorio,,Cleiton Flores,W,1,Pts: 5x0,Brasileiro,ABS,8F,2023
+39556,5509,Victor Honorio,11215,Harryson Pereira,W,1,Referee Decision,Brasileiro,ABS,4F,2023
+39560,5509,Victor Honorio,13053,Luis Oliveira,W,1,Choke from back,Brasileiro,ABS,SF,2023
+40766,5509,Victor Honorio,,Mikhail Pankov,W,1,Cachecol choke,Rio Open,ABS,4F,2023
+40770,5509,Victor Honorio,10964,Caio Paganini,W,1,N/A,Rio Open,ABS,SF,2023

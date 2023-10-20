@@ -1,0 +1,22 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+14477,11456,Flavio Junqueira,4145,Thiago Sa,L,0,Points,South American,88KG,4F,2017
+16246,11456,Flavio Junqueira,12629,Fabricio Barbarotti,L,0,Points,Brasileiro,82KG,8F,2018
+17174,11456,Flavio Junqueira,7047,Matheus Spirandeli,L,0,"Pts: 2x2, Adv",Floripa W. Open,88KG,SF,2018
+18371,11456,Flavio Junqueira,9117,Hygor Brito,L,0,Pts: 2x0,South American,94KG,SF,2018
+20830,11456,Flavio Junqueira,9554,Henrique Cardoso,L,0,Choke from back,Rio Open,ABS,SF,2019
+21291,11456,Flavio Junqueira,12243,Leon Brito,L,0,Submission,Vitoria Open,94KG,F,2019
+21814,11456,Flavio Junqueira,10644,Marcelo Gomide,L,0,Points,Brasileiro NoGi,ABS,SF,2019
+22585,11456,Flavio Junqueira,6432,Yan Lucas,L,0,Pts: 2x0,South American,88KG,4F,2019
+16772,11456,Flavio Junqueira,,N/A,W,1,Choke from back,Mundial CBJJE,88KG,R1,2018
+16773,11456,Flavio Junqueira,,N/A,W,1,Botinha,Mundial CBJJE,88KG,4F,2018
+16774,11456,Flavio Junqueira,,Robson Vieira,W,1,Botinha,Mundial CBJJE,88KG,SF,2018
+16775,11456,Flavio Junqueira,,Rene Soldado,W,1,Arm in Ezekiel,Mundial CBJJE,88KG,F,2018
+17173,11456,Flavio Junqueira,,Pedro Paulo,W,1,Points,Floripa W. Open,88KG,4F,2018
+17190,11456,Flavio Junqueira,,Henrique Russi,W,1,N/A,Floripa W. NGO,94KG,SF,2018
+17192,11456,Flavio Junqueira,,Luciano Bernert,W,1,Points,Floripa W. NGO,ABS,SF,2018
+19301,11456,Flavio Junqueira,,N/A,W,1,Points,Curitiba SMO,88KG,R1,2019
+19302,11456,Flavio Junqueira,,N/A,W,1,Submission,Curitiba SMO,88KG,4F,2019
+19303,11456,Flavio Junqueira,7672,Caio Almeida,W,1,Pts: 14x2,Curitiba SMO,88KG,SF,2019
+19304,11456,Flavio Junqueira,,A. Vieira,W,1,RNC,Curitiba SMO,88KG,F,2019
+20820,11456,Flavio Junqueira,,Gus Mascarenhas,W,1,Points,Rio Open,88KG,R1,2019
+21309,11456,Flavio Junqueira,,Yuri Santos,W,1,Guillotine,Vitoria NGO,91KG,F,2019

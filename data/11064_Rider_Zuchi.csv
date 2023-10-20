@@ -1,0 +1,103 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+22933,11064,Rider Zuchi,10644,Marcelo Gomide,D,0.5,---,Copa Podio,100KG,RR,2019
+22944,11064,Rider Zuchi,,E. Muniz,L,0,"Pts: 0x0, Adv",Copa Podio,100KG,F,2019
+23399,11064,Rider Zuchi,4521,Erberth Santos,L,0,Choke,Curitiba SO,ABS,F,2020
+23920,11064,Rider Zuchi,8195,Gutemberg Pereira,L,0,Katagatame,BJJ Bet,95KG,SPF,2020
+24764,11064,Rider Zuchi,8195,Gutemberg Pereira,L,0,Pts: 8x0,Grand Slam RJ,94KG,F,2020
+24940,11064,Rider Zuchi,,Felipe Pinheiro,L,0,Points,South American,94KG,SF,2020
+27087,11064,Rider Zuchi,7507,Nicholas Meregali,L,0,Pts: 2x0,BJJ Bet,98KG,SPF,2021
+28085,11064,Rider Zuchi,,Vitor Chelloni,L,0,Pts: 2x0,Brasileiro,100KG,4F,2021
+28110,11064,Rider Zuchi,11693,Erich Munis,L,0,Pts: 4x2,Brasileiro,ABS,F,2021
+29565,11064,Rider Zuchi,10741,Luan Azevedo,L,0,Referee Decision,World Champ.,94KG,4F,2021
+30153,11064,Rider Zuchi,10130,Marcus Ribeiro,L,0,RNC,Sul Brasileiro,ABS,SF,2022
+31705,11064,Rider Zuchi,12537,Pedro Machado,L,0,Pts: 2x0,Pan American,94KG,4F,2022
+32990,11064,Rider Zuchi,8974,Kaynan Duarte,L,0,"Pts: 0x0, Adv",World Champ.,94KG,SF,2022
+37154,11064,Rider Zuchi,8974,Kaynan Duarte,L,0,Short choke,European Open,ABS,F,2023
+37239,11064,Rider Zuchi,7478,Adam Wardzinski,L,0,Arm in Ezekiel,European Open,94KG,SF,2023
+39524,11064,Rider Zuchi,10817,Gabriel Henrique,L,0,Referee Decision,Brasileiro,94KG,SF,2023
+40347,11064,Rider Zuchi,8514,Fellipe Andrew,L,0,"Pts: 2x2, Adv",World Champ.,94KG,SF,2023
+40657,11064,Rider Zuchi,,Marcos Carrozzino,L,0,Pts: 4x1,Grand Slam RJ,94KG,SF,2023
+22747,11064,Rider Zuchi,,Rafael Message,W,1,Referee Decision,Porto Alegre Open,100KG,F,2019
+22748,11064,Rider Zuchi,,Thiago Saldanha,W,1,Arm in ezekiel,Porto Alegre Open,ABS,SF,2019
+22926,11064,Rider Zuchi,,M. Godoy,W,1,Pts: 2x0,Copa Podio,100KG,RR,2019
+22930,11064,Rider Zuchi,,Davi Pedra,W,1,Pts: 8x4,Copa Podio,100KG,RR,2019
+22934,11064,Rider Zuchi,10130,Marcus Ribeiro,W,1,"Pts: 0x0, Adv",Copa Podio,100KG,SF,2019
+23393,11064,Rider Zuchi,,Rafael Message,W,1,RNC,Curitiba SO,ABS,R1,2020
+23396,11064,Rider Zuchi,9554,Henrique Cardoso,W,1,Guillotine,Curitiba SO,ABS,4F,2020
+23398,11064,Rider Zuchi,,Wellinton Neller,W,1,Pts: 8x0,Curitiba SO,ABS,SF,2020
+24276,11064,Rider Zuchi,,Everton Leme,W,1,Pts: 7x0,Brasileiro CBJJE,100KG,R1,2020
+24277,11064,Rider Zuchi,,Anderson Santos,W,1,Points,Brasileiro CBJJE,100KG,4F,2020
+24751,11064,Rider Zuchi,,Uilton Silva,W,1,Pts: 10x0,Grand Slam RJ,94KG,R1,2020
+24754,11064,Rider Zuchi,,Davi Souza,W,1,Pts: 5x0,Grand Slam RJ,94KG,8F,2020
+24760,11064,Rider Zuchi,,Lucas Bernardes,W,1,Katagatame,Grand Slam RJ,94KG,4F,2020
+24762,11064,Rider Zuchi,11215,Harryson Pereira,W,1,Pts: 10x0,Grand Slam RJ,94KG,SF,2020
+24938,11064,Rider Zuchi,,Uilton Moreira,W,1,Points,South American,94KG,4F,2020
+24979,11064,Rider Zuchi,,Anderson Lourenco,W,1,Katagatame,Sul. Am. CBJJE,N/A,R1,2020
+24980,11064,Rider Zuchi,,Geraldo M.,W,1,Armbar,Sul. Am. CBJJE,N/A,4F,2020
+24982,11064,Rider Zuchi,11766,Gabriel Costa,W,1,RNC,Sul. Am. CBJJE,N/A,SF,2020
+24983,11064,Rider Zuchi,,Cleyton Rafael,W,1,Pts: 2x0,Sul. Am. CBJJE,N/A,F,2020
+24990,11064,Rider Zuchi,,Denis Silva,W,1,Points,Big Deal Pro,100KG,SPF,2020
+25169,11064,Rider Zuchi,10252,Fabio Alano,W,1,RNC,Big Deal Pro 2,100KG,SPF,2021
+26846,11064,Rider Zuchi,,Henrique Moicano,W,1,Pts: 2x0,Big Deal Pro 3,N/A,SPF,2021
+27885,11064,Rider Zuchi,,Leandro ST.,W,1,Triangle,Paulista,100KG,4F,2021
+27886,11064,Rider Zuchi,,Marlon Godoy,W,1,Pts: 16x2,Paulista,100KG,SF,2021
+27887,11064,Rider Zuchi,,Advilson Gallego,W,1,Guillotine,Paulista,100KG,F,2021
+28101,11064,Rider Zuchi,,Filipe Pimentel,W,1,Choke from back,Brasileiro,ABS,8F,2021
+28106,11064,Rider Zuchi,4430,Patrick Gaudio,W,1,Referee Decision,Brasileiro,ABS,4F,2021
+28108,11064,Rider Zuchi,4960,Dimitrius Souza,W,1,Kneebar,Brasileiro,ABS,SF,2021
+29557,11064,Rider Zuchi,,Vitor Cheloni,W,1,Injury,World Champ.,94KG,R1,2021
+29757,11064,Rider Zuchi,,Arsen Shapiev,W,1,Pts: 5x0,ACB Worlds,95KG,RR,2021
+29758,11064,Rider Zuchi,,Viacheslav Ilin,W,1,Katagatame,ACB Worlds,95KG,RR,2021
+29764,11064,Rider Zuchi,,Ali Magomedov,W,1,Submission,ACB Worlds,ABS,SF,2021
+29765,11064,Rider Zuchi,7657,Cleber Sousa,W,1,Submission,ACB Worlds,ABS,F,2021
+29775,11064,Rider Zuchi,,Arsen Shapiev,W,1,Pts: 4x3,ACB World NG,95KG,SF,2021
+29897,11064,Rider Zuchi,,Uilton Moreira,W,1,Pts: 13x0,Rio SMO,94KG,4F,2022
+29899,11064,Rider Zuchi,,Jeancemy Santos,W,1,RNC,Rio SMO,94KG,SF,2022
+29914,11064,Rider Zuchi,,Marcus Vinicius,W,1,Triangle,Rio SMO,ABS,R1,2022
+29921,11064,Rider Zuchi,,Maique Azevedo,W,1,RNC,Rio SMO,ABS,4F,2022
+29925,11064,Rider Zuchi,,Davi Menezes,W,1,Pts: 13x0,Rio SMO,ABS,SF,2022
+29926,11064,Rider Zuchi,10880,Roberto Jimenez,W,1,Pts: 18x0,Rio SMO,ABS,F,2022
+30144,11064,Rider Zuchi,,Felipe Silva,W,1,Choke from back,Sul Brasileiro,94KG,SF,2022
+31035,11064,Rider Zuchi,,Lafayette Pinheiro,W,1,Bow and arrow,Curitiba Open,94KG,F,2022
+31056,11064,Rider Zuchi,,Matheus Oliveira,W,1,Kimura,Curitiba Open,ABS,R2,2022
+31061,11064,Rider Zuchi,,Raphael Monteiro,W,1,Choke from back,Curitiba Open,ABS,4F,2022
+31064,11064,Rider Zuchi,13458,Leandro Rounaud,W,1,Pts: 8x2,Curitiba Open,ABS,SF,2022
+31700,11064,Rider Zuchi,10698,Matheus Godoy,W,1,Armbar,Pan American,94KG,R2,2022
+31907,11064,Rider Zuchi,,Felipe Silva,W,1,Katagatame,Rio Fall Open,94KG,4F,2022
+31910,11064,Rider Zuchi,,Jeancemy Santos,W,1,Arm in Ezekiel,Rio Fall Open,94KG,SF,2022
+31911,11064,Rider Zuchi,12243,Leon Brito,W,1,Katagatame,Rio Fall Open,94KG,F,2022
+31926,11064,Rider Zuchi,,Erick Diovano,W,1,Choke from back,Rio Fall Open,ABS,R2,2022
+31930,11064,Rider Zuchi,,Maique Azevedo,W,1,Choke from back,Rio Fall Open,ABS,4F,2022
+31935,11064,Rider Zuchi,,Elder Gomes,W,1,Shoulder lock,Rio Fall Open,ABS,SF,2022
+32187,11064,Rider Zuchi,,Adam Bradley,W,1,Arm in Ezekiel,Brasileiro,94KG,4F,2022
+32190,11064,Rider Zuchi,13392,Gabriel Volante,W,1,Pts: 4x2,Brasileiro,94KG,SF,2022
+32192,11064,Rider Zuchi,12243,Leon Brito,W,1,RNC,Brasileiro,94KG,F,2022
+32722,11064,Rider Zuchi,,Edcarlos Leopoldo,W,1,RNC,Salvador Open,94KG,SF,2022
+32723,11064,Rider Zuchi,,Felipe Pimentel,W,1,RNC,Salvador Open,94KG,F,2022
+32725,11064,Rider Zuchi,,Alexandre Silva,W,1,Choke from back,Salvador Open,ABS,R1,2022
+32727,11064,Rider Zuchi,,Paulo Dantas,W,1,Katagatame,Salvador Open,ABS,4F,2022
+32731,11064,Rider Zuchi,,Sergio Diniz,W,1,Choke from back,Salvador Open,ABS,SF,2022
+32732,11064,Rider Zuchi,,Davi Souza,W,1,RNC,Salvador Open,ABS,F,2022
+32981,11064,Rider Zuchi,12069,Bruno Matias,W,1,Pts: 6x2,World Champ.,94KG,8F,2022
+32988,11064,Rider Zuchi,5423,Matheus Diniz,W,1,Pts: 4x2,World Champ.,94KG,4F,2022
+33595,11064,Rider Zuchi,,Matheus Marques,W,1,Choke from back,Betim Open,94KG,SF,2022
+33597,11064,Rider Zuchi,10817,Gabriel Henrique,W,1,Pts: 2x0,Betim Open,94KG,F,2022
+34033,11064,Rider Zuchi,,Igor Sousa,W,1,Pts: 1x0,Grand Slam RJ,94KG,R1,2022
+34042,11064,Rider Zuchi,9117,Hygor Brito,W,1,Pts: 2x0,Grand Slam RJ,94KG,4F,2022
+34047,11064,Rider Zuchi,10817,Gabriel Henrique,W,1,Pts: 2x0,Grand Slam RJ,94KG,F,2022
+34885,11064,Rider Zuchi,,Eli Braz,W,1,Pts: 4x0,Serra Confere,NA,SPF,2022
+35158,11064,Rider Zuchi,,Rafael Xavier,W,1,Armbar,SP Open,100KG,SF,2022
+35160,11064,Rider Zuchi,,Lucas Andrade,W,1,Katagatame,SP Open,100KG,F,2022
+35731,11064,Rider Zuchi,,Lucas Cazuza,W,1,Verbal tap,South American,100KG,SF,2022
+35771,11064,Rider Zuchi,12537,Pedro Machado,W,1,"Pts: 0x0, Adv",BJJ Stars,100KG,SPF,2022
+37147,11064,Rider Zuchi,,Clay Mayfield,W,1,Triangle,European Open,ABS,R2,2023
+37149,11064,Rider Zuchi,9515,Seif Houmine,W,1,Pts: 2x0,European Open,ABS,4F,2023
+37152,11064,Rider Zuchi,10176,Bruno Lima,W,1,Pts: 4x2,European Open,ABS,SF,2023
+37237,11064,Rider Zuchi,10817,Gabriel Henrique,W,1,Verbal tap,European Open,94KG,4F,2023
+38590,11064,Rider Zuchi,,Ney Medeiros,W,1,Katagatame,Rio Fall Open,94KG,SF,2023
+38591,11064,Rider Zuchi,10669,Lucas Alves,W,1,Katagatame,Rio Fall Open,94KG,F,2023
+39519,11064,Rider Zuchi,13392,Gabriel Volante,W,1,Pts: 4x2,Brasileiro,94KG,4F,2023
+40342,11064,Rider Zuchi,,Javier Barter,W,1,Pts: 4x0,World Champ.,94KG,8F,2023
+40343,11064,Rider Zuchi,5655,Lucas Barbosa,W,1,Referee Decision,World Champ.,94KG,4F,2023
+40649,11064,Rider Zuchi,,Jackson Ferreira,W,1,Armbar,Grand Slam RJ,94KG,8F,2023
+40655,11064,Rider Zuchi,,Matheus Marques,W,1,Pts: 15x2,Grand Slam RJ,94KG,4F,2023

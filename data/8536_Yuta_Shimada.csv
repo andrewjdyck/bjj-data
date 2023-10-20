@@ -1,0 +1,85 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+12124,8536,Yuta Shimada,2997,Joao Miyao,L,0,Pts: 6x0,Pan American,64KG,4F,2017
+13066,8536,Yuta Shimada,2997,Joao Miyao,L,0,Pts: 4x0,World Champ.,64KG,8F,2017
+13912,8536,Yuta Shimada,188,Augusto Mendes,L,0,Pts: 4x0,ADCC,66KG,E1,2017
+15371,8536,Yuta Shimada,2997,Joao Miyao,L,0,"Pts: 4x4, Adv",Pan American,64KG,SF,2018
+16456,8536,Yuta Shimada,2997,Joao Miyao,L,0,"Pts: 4x4, Adv",World Champ.,64KG,4F,2018
+18873,8536,Yuta Shimada,8305,Pedro Dias,L,0,"Pts: 0x0, Pen",European Open,64KG,R1,2019
+20232,8536,Yuta Shimada,8884,Alex Sodre,L,0,Points,Brasileiro,64KG,4F,2019
+20577,8536,Yuta Shimada,8884,Alex Sodre,L,0,Pts: 8x2,World Champ.,64KG,R2,2019
+22560,8536,Yuta Shimada,9094,Richar Nogueira,L,0,Pts: 4x0,South American,70KG,SF,2019
+22741,8536,Yuta Shimada,9486,Murilo Amaral,L,0,Choke from back,Porto Alegre Open,70KG,F,2019
+29009,8536,Yuta Shimada,,Bebeto Oliveira,L,0,"Pts: 0x0, Adv",JJ CON,64KG,SF,2021
+29463,8536,Yuta Shimada,10840,Diego Oliveira,L,0,Pts: 4x2,World Champ.,64KG,4F,2021
+30464,8536,Yuta Shimada,9031,Kennedy Maciel,L,0,Pts: 6x0,Atlanta WO,70KG,F,2022
+31236,8536,Yuta Shimada,12689,Matias Estevez,L,0,Referee Decision,Charleston Open,70KG,F,2022
+31631,8536,Yuta Shimada,8884,Alex Sodre,L,0,"Pts: 2x2, Adv",Pan American,70KG,R2,2022
+32870,8536,Yuta Shimada,6151,Hiago George,L,0,Choke from back,World Champ.,64KG,8F,2022
+36224,8536,Yuta Shimada,,Christian Banghart,L,0,"Pts: 2x2, Adv",C. Virginia NG,ABS,F,2022
+37165,8536,Yuta Shimada,6060,Tomoyuki Hashimoto,L,0,"Pts: 4x4, Adv",European Open,64KG,4F,2023
+38360,8536,Yuta Shimada,10840,Diego Oliveira,L,0,Pts: 4x2,Pan American,64KG,SF,2023
+40216,8536,Yuta Shimada,10840,Diego Oliveira,L,0,Pts: 10x0,World Champ.,64KG,4F,2023
+41681,8536,Yuta Shimada,,Jamil Hill,L,0,Choke from back,PO Peace,70KG,SPF,2023
+41726,8536,Yuta Shimada,,Luan Gomes,L,0,Pts: 4x2,NYC Open,70KG,F,2023
+10516,8536,Yuta Shimada,,Kouhei Ebashi,W,1,Points,Asian Open,64KG,R1,2016
+10517,8536,Yuta Shimada,,Takuto Kako,W,1,Points,Asian Open,64KG,4F,2016
+10518,8536,Yuta Shimada,,Hideyuki Yamada,W,1,RNC,Asian Open,64KG,SF,2016
+10519,8536,Yuta Shimada,,Kazuhiro Miyachi,W,1,Points,Asian Open,64KG,F,2016
+11367,8536,Yuta Shimada,,Yoshiyuki Onishi,W,1,Mounted guillotine,Tokyo Open,70KG,F,2016
+11408,8536,Yuta Shimada,,Nariman Mynbayev,W,1,Points,ADCC Trials,66KG,R1,2017
+11409,8536,Yuta Shimada,,Robert Sabaruddin,W,1,Points,ADCC Trials,66KG,4F,2017
+11410,8536,Yuta Shimada,,Kaldar Abdikabyl,W,1,Points,ADCC Trials,66KG,SF,2017
+11411,8536,Yuta Shimada,,Takafumi Sano,W,1,RNC,ADCC Trials,66KG,F,2017
+12119,8536,Yuta Shimada,,Rene Lopez,W,1,"Pts: 2x2, Adv",Pan American,64KG,R1,2017
+13058,8536,Yuta Shimada,,Wallace Santos,W,1,Adv,World Champ.,64KG,R1,2017
+13682,8536,Yuta Shimada,,William Melo,W,1,Bow and arrow,Asian Open,64KG,4F,2017
+13683,8536,Yuta Shimada,,Hitoshi Tomita,W,1,Cross choke,Asian Open,64KG,SF,2017
+13684,8536,Yuta Shimada,,Hideyuki Yamada,W,1,Pts: 2x0,Asian Open,64KG,F,2017
+15370,8536,Yuta Shimada,,Manuel Macias,W,1,Choke from back,Pan American,64KG,4F,2018
+16444,8536,Yuta Shimada,,Washington Lima,W,1,Choke from back,World Champ.,64KG,R1,2018
+16453,8536,Yuta Shimada,2401,Gabriel Moraes,W,1,Injury,World Champ.,64KG,R2,2018
+17317,8536,Yuta Shimada,,Gyeongseop Lee,W,1,Choke,Asian Open,64KG,4F,2018
+17318,8536,Yuta Shimada,,Yuto Hirao,W,1,Pts: 20x2,Asian Open,64KG,SF,2018
+17319,8536,Yuta Shimada,,Shimon Kagiyama,W,1,North south choke,Asian Open,64KG,F,2018
+20230,8536,Yuta Shimada,,N/A,W,1,Loop choke,Brasileiro,64KG,R1,2019
+22553,8536,Yuta Shimada,,Josias Ferreira,W,1,Points,South American,70KG,R1,2019
+22558,8536,Yuta Shimada,,Osmar Telles,W,1,RNC,South American,70KG,4F,2019
+22699,8536,Yuta Shimada,,Leonardo Cruz,W,1,Choke from back,Salvador SPO,70KG,4F,2019
+22700,8536,Yuta Shimada,,Matheus Carlos,W,1,Points,Salvador SPO,70KG,SF,2019
+22702,8536,Yuta Shimada,10953,Danilo Moreira,W,1,Pts: 4x2,Salvador SPO,70KG,F,2019
+22713,8536,Yuta Shimada,,Matheus Carlos,W,1,Kimura,Salvador SNGO,67KG,F,2019
+22740,8536,Yuta Shimada,,Gabriel Machado,W,1,N/A,Porto Alegre Open,70KG,SF,2019
+23224,8536,Yuta Shimada,,Felipe Reis,W,1,Pts: 12x0,Atlanta WO,70KG,4F,2020
+23228,8536,Yuta Shimada,,Rodrigo Francione,W,1,Clock choke,Atlanta WO,70KG,SF,2020
+23230,8536,Yuta Shimada,8814,Adam Benayoun,W,1,Referee Decision,Atlanta WO,70KG,F,2020
+29007,8536,Yuta Shimada,,Igor Mancebo,W,1,Cross choke,JJ CON,64KG,4F,2021
+29460,8536,Yuta Shimada,9074,Joao Mendes,W,1,"Pts: 0x0, Adv",World Champ.,64KG,8F,2021
+30100,8536,Yuta Shimada,,Justin Ternes,W,1,Clock choke,Oklahoma Open,70KG,SF,2022
+30102,8536,Yuta Shimada,6043,Lucas Pinheiro,W,1,Crucifix choke,Oklahoma Open,70KG,F,2022
+30461,8536,Yuta Shimada,,Luan Gomes,W,1,Pts: 2x0,Atlanta WO,70KG,4F,2022
+30463,8536,Yuta Shimada,11093,Emilio Hernandez,W,1,Injury,Atlanta WO,70KG,SF,2022
+30843,8536,Yuta Shimada,,Joshua Lorton,W,1,Choke from back,Fuji,70KG,RR,2022
+30844,8536,Yuta Shimada,,Joshua Lorton,W,1,Armlock,Fuji,70KG,RR,2022
+30851,8536,Yuta Shimada,,Eric Llerena,W,1,Armbar,Indianapolis Open,70KG,4F,2022
+30854,8536,Yuta Shimada,12689,Matias Estevez,W,1,Referee Decision,Indianapolis Open,70KG,SF,2022
+30855,8536,Yuta Shimada,11093,Emilio Hernandez,W,1,Choke from back,Indianapolis Open,70KG,F,2022
+31230,8536,Yuta Shimada,,Michael Mehl,W,1,Armbar,Charleston Open,70KG,4F,2022
+31235,8536,Yuta Shimada,6366,Brian Mahecha,W,1,Armbar,Charleston Open,70KG,SF,2022
+31624,8536,Yuta Shimada,,Thierry Faria,W,1,Pts: 17x0,Pan American,70KG,R1,2022
+32867,8536,Yuta Shimada,10380,Junny Ocasio,W,1,"Pts: 4x4, Adv",World Champ.,64KG,R1,2022
+35814,8536,Yuta Shimada,11093,Emilio Hernandez,W,1,Choke from back,Charleston FO,70KG,F,2022
+35865,8536,Yuta Shimada,,Joshua Murdok,W,1,Baratoplata,FUJIBJJ Raleigh,76KG,RR,2022
+35866,8536,Yuta Shimada,,Joshua Murdok,W,1,Points,FUJIBJJ Raleigh,76KG,RR,2022
+36219,8536,Yuta Shimada,,Travis Outten,W,1,Clock choke,Copa Virginia,76KG,F,2022
+36220,8536,Yuta Shimada,,Charlie McCloskey,W,1,Katagatame,C. Virginia NG,67KG,SF,2022
+36221,8536,Yuta Shimada,,Kaushik Saikumar,W,1,RNC,C. Virginia NG,67KG,F,2022
+36222,8536,Yuta Shimada,,Carter Brownrigg,W,1,Triangle,C. Virginia NG,ABS,4F,2022
+36223,8536,Yuta Shimada,,Ray Venzor,W,1,Katagatame,C. Virginia NG,ABS,SF,2022
+36529,8536,Yuta Shimada,,Luan Gomes,W,1,Pts: 6x2,N. Haven FO,70KG,SF,2022
+36531,8536,Yuta Shimada,4248,Gianni Grippo,W,1,"Pts: 6x6, Adv",N. Haven FO,70KG,F,2022
+37174,8536,Yuta Shimada,,Mario Alvarado,W,1,Pts: 4x0,European Open,70KG,R1,2023
+38350,8536,Yuta Shimada,,Matheus Rossi,W,1,RNC,Pan American,64KG,8F,2023
+38358,8536,Yuta Shimada,12573,Sebastian Serpa,W,1,"Pts: 4x4, Adv",Pan American,64KG,4F,2023
+40207,8536,Yuta Shimada,6060,Tomoyuki Hashimoto,W,1,Straight ankle lock,World Champ.,64KG,8F,2023
+41682,8536,Yuta Shimada,,Taniel Jesus,W,1,Choke from back,Copa Elite 2,70KG,SPF,2023
+41724,8536,Yuta Shimada,,Felipe Simplicio,W,1,Armbar,NYC Open,70KG,SF,2023

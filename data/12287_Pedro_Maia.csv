@@ -1,0 +1,50 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+26415,12287,Pedro Maia,11658,Lucas Gualberto,L,0,Referee Decision,SA Cont. Pro,77KG,F,2021
+26513,12287,Pedro Maia,11658,Lucas Gualberto,L,0,Referee Decision,SA Cont. Pro,LWA,SF,2021
+28522,12287,Pedro Maia,11872,Luiz Paulo,L,0,Pts: 3x2,Grand Slam RJ,77KG,8F,2021
+31662,12287,Pedro Maia,10880,Roberto Jimenez,L,0,RNC,Pan American,82KG,R1,2022
+32172,12287,Pedro Maia,12122,Mica Galvao,L,0,Yoko sankaku,Brasileiro,82KG,SF,2022
+32945,12287,Pedro Maia,11697,Tainan Dalpra,L,0,Pts: 6x0,World Champ.,82KG,4F,2022
+33969,12287,Pedro Maia,,Elder Junior,L,0,Botinha,Grand Slam RJ,77KG,R2,2022
+35778,12287,Pedro Maia,11423,Meyram Maquine,L,0,Pts: 7x0,BJJ Stars,76KG,4F,2022
+36584,12287,Pedro Maia,12348,Lucas Protasio,L,0,"Pts: 0x0, Adv",Balneario Open,82KG,F,2022
+38039,12287,Pedro Maia,11872,Luiz Paulo,L,0,Referee Decision,Curitiba SMO,82KG,SF,2023
+38413,12287,Pedro Maia,11697,Tainan Dalpra,L,0,Choke from back,Pan American,82KG,F,2023
+39503,12287,Pedro Maia,11697,Tainan Dalpra,L,0,Pts: 6x2,Brasileiro,82KG,F,2023
+40276,12287,Pedro Maia,10085,Johnatha Alves,L,0,Pts: 4x2,World Champ.,76KG,F,2023
+26399,12287,Pedro Maia,10216,Natan Chueng,W,1,Pts: 1x1,SA Cont. Pro,77KG,R2,2021
+26407,12287,Pedro Maia,12241,Higor Lima,W,1,Armbar,SA Cont. Pro,77KG,8F,2021
+26412,12287,Pedro Maia,5061,Gabriel Rollo,W,1,Pts: 3x0,SA Cont. Pro,77KG,4F,2021
+26414,12287,Pedro Maia,13458,Leandro Rounaud,W,1,Pts: 4x0,SA Cont. Pro,77KG,SF,2021
+26510,12287,Pedro Maia,11423,Meyram Maquine,W,1,Pts: 2x1,SA Cont. Pro,LWA,4F,2021
+28510,12287,Pedro Maia,11534,Raul Basilio,W,1,Pts: 6x1,Grand Slam RJ,77KG,R1,2021
+29415,12287,Pedro Maia,,Alysson Xavier,W,1,Submission,Florianopolis Pro,85KG,4F,2021
+29417,12287,Pedro Maia,11766,Gabriel Costa,W,1,Pts: 3x3,Florianopolis Pro,85KG,SF,2021
+29418,12287,Pedro Maia,,Rhuan Duarte,W,1,Submission,Florianopolis Pro,85KG,F,2021
+30134,12287,Pedro Maia,,Hugo Gambino,W,1,Pts: 6x0,Sul Brasileiro,82KG,4F,2022
+30136,12287,Pedro Maia,,Daniel Nunes,W,1,Pts: 2x0,Sul Brasileiro,82KG,SF,2022
+30137,12287,Pedro Maia,11646,Andre Gois,W,1,Choke,Sul Brasileiro,82KG,F,2022
+32163,12287,Pedro Maia,,Bruno Bressan,W,1,Choke from back,Brasileiro,82KG,R1,2022
+32167,12287,Pedro Maia,,Darlan Casaca,W,1,Submission,Brasileiro,82KG,4F,2022
+32706,12287,Pedro Maia,,Fernando Santos,W,1,Choke from back,Salvador Open,82KG,4F,2022
+32708,12287,Pedro Maia,,Lucas Serrado,W,1,Injury,Salvador Open,82KG,SF,2022
+32710,12287,Pedro Maia,,Darlan Casaca,W,1,Pts: 5x0,Salvador Open,82KG,F,2022
+32929,12287,Pedro Maia,,Oscar Gugala,W,1,Pts: 4x0,World Champ.,82KG,R1,2022
+32937,12287,Pedro Maia,4460,Jaime Canuto,W,1,Pts: 4x2,World Champ.,82KG,8F,2022
+36583,12287,Pedro Maia,13269,Lucas Foguinho,W,1,Pts: 6x0,Balneario Open,82KG,SF,2022
+36625,12287,Pedro Maia,,Gabriel Machado,W,1,Pts: 5x2,Brasilia Open,82KG,SF,2022
+36626,12287,Pedro Maia,,Elder Junior,W,1,Pts: 4x0,Brasilia Open,82KG,F,2022
+37004,12287,Pedro Maia,,Guilherme Jhonis,W,1,Loop choke,Rio SMO,82KG,4F,2023
+37008,12287,Pedro Maia,13269,Lucas Foguinho,W,1,Pts: 6x0,Rio SMO,82KG,SF,2023
+37009,12287,Pedro Maia,11872,Luiz Paulo,W,1,"Pts: 2x2, Adv",Rio SMO,82KG,F,2023
+38031,12287,Pedro Maia,,Caio Silva,W,1,Verbal tap,Curitiba SMO,82KG,8F,2023
+38035,12287,Pedro Maia,,Gabriel Avila,W,1,Pts: 6x0,Curitiba SMO,82KG,4F,2023
+38410,12287,Pedro Maia,6354,Jonathan Satava,W,1,Pts: 2x0,Pan American,82KG,4F,2023
+38412,12287,Pedro Maia,10835,Eduardo Avelar,W,1,Cachecol choke,Pan American,82KG,SF,2023
+39492,12287,Pedro Maia,13269,Lucas Foguinho,W,1,Cachecol choke,Brasileiro,82KG,R1,2023
+39497,12287,Pedro Maia,13450,Vinicius Martins,W,1,Cachecol choke,Brasileiro,82KG,4F,2023
+39501,12287,Pedro Maia,,Yuri Rodrigues,W,1,Referee Decision,Brasileiro,82KG,SF,2023
+40250,12287,Pedro Maia,,Lucas Alcantara,W,1,Choke,World Champ.,76KG,R1,2023
+40263,12287,Pedro Maia,12897,Elijah Dorsey,W,1,Cross choke,World Champ.,76KG,8F,2023
+40270,12287,Pedro Maia,8516,Lucas Valente,W,1,DQ,World Champ.,76KG,4F,2023
+40274,12287,Pedro Maia,9486,Murilo Amaral,W,1,Pts: 3x0,World Champ.,76KG,SF,2023

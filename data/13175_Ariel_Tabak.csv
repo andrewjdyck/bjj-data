@@ -1,0 +1,49 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21662,13175,Ariel Tabak,6599,Rafael Mansur,L,0,"Pts: 0x0, Adv",Grand Slam LA,69KG,4F,2019
+21670,13175,Ariel Tabak,8632,Thiago Macedo,L,0,Pts: 9x2,Grand Slam LA,69KG,RPC,2019
+22292,13175,Ariel Tabak,10232,Gabriel Figueiro,L,0,Pts: 2x0,Grand Slam RJ,69KG,SF,2019
+22967,13175,Ariel Tabak,10408,Israel Sousa,L,0,Points,Grand Slam AD,69KG,4F,2020
+22975,13175,Ariel Tabak,8632,Thiago Macedo,L,0,Pts: 3x2,Grand Slam AD,69KG,3RD,2020
+23082,13175,Ariel Tabak,8884,Alex Sodre,L,0,"Pts: 2x2, Adv",European Open,70KG,R2,2020
+30713,13175,Ariel Tabak,,Cooper Burnham,L,0,Adv,Boa Super 8,N/A,83KG,2022
+32504,13175,Ariel Tabak,6368,Kevin Mahecha,L,0,Pts: 6x4,Atlanta SPO,76KG,F,2022
+32621,13175,Ariel Tabak,9074,Joao Mendes,L,0,Pts: 4x0,Denver Open,70KG,F,2022
+32895,13175,Ariel Tabak,11963,Diego Sodre,L,0,Choke from back,World Champ.,70KG,8F,2022
+33162,13175,Ariel Tabak,12259,Jeremy Skinner,L,0,Inside heel hook,ADCC AUS Trials,66KG,SF,2022
+35852,13175,Ariel Tabak,9486,Murilo Amaral,L,0,Referee Decision,Pan Pacific,76KG,F,2022
+36326,13175,Ariel Tabak,,Kalel Santos,L,0,Terra lock,World Pro,69KG,R1,2022
+36339,13175,Ariel Tabak,12689,Matias Estevez,L,0,Pts: 2x0,World Pro,69KG,RPC,2022
+37190,13175,Ariel Tabak,11132,Leon Larman,L,0,N/A,European Open,76KG,R1,2023
+37506,13175,Ariel Tabak,8632,Thiago Macedo,L,0,Pts: 2x2,Grand Slam SYD,69KG,F,2023
+38755,13175,Ariel Tabak,9486,Murilo Amaral,L,0,"Pts: 0x0, Adv",Sydney Open,76KG,F,2023
+40254,13175,Ariel Tabak,9486,Murilo Amaral,L,0,Triangle,World Champ.,76KG,R1,2023
+21667,13175,Ariel Tabak,,Alberto Serrano,W,1,Pts: 6x0,Grand Slam LA,69KG,RPC,2019
+22223,13175,Ariel Tabak,,Mile Ivankovic,W,1,Straight ankle lock,Pan Pac,76KG,4F,2019
+22224,13175,Ariel Tabak,,Chris Nini,W,1,Points,Pan Pac,76KG,SF,2019
+22225,13175,Ariel Tabak,,Tomoshige Sera,W,1,Triangle,Pan Pac,76KG,F,2019
+22275,13175,Ariel Tabak,,Evandro Filho,W,1,"Pts: 2x2, Adv",Grand Slam RJ,69KG,R1,2019
+22283,13175,Ariel Tabak,,Walter Alamo,W,1,Pts: 2x0,Grand Slam RJ,69KG,8F,2019
+22287,13175,Ariel Tabak,,Kennedy Silva,W,1,Pts: 8x0,Grand Slam RJ,69KG,4F,2019
+22294,13175,Ariel Tabak,,Pedro Neto,W,1,Choke from back,Grand Slam RJ,69KG,RPC,2019
+22296,13175,Ariel Tabak,,Marlus Salgado,W,1,Pts: 4x2,Grand Slam RJ,69KG,3RD,2019
+22972,13175,Ariel Tabak,,Diogo Freitas,W,1,Straight ankle lock,Grand Slam AD,69KG,RPC,2020
+22974,13175,Ariel Tabak,,Abdullah Nabas,W,1,Straight ankle lock,Grand Slam AD,69KG,RPC,2020
+23075,13175,Ariel Tabak,6366,Brian Mahecha,W,1,Choke from back,European Open,70KG,R1,2020
+30711,13175,Ariel Tabak,,Sean Gourrierec,W,1,Adv,Boa Super 8,N/A,83KG,2022
+30712,13175,Ariel Tabak,,Eoin Coughlan,W,1,Triangle,Boa Super 8,N/A,83KG,2022
+32502,13175,Ariel Tabak,,Matheus Galvao,W,1,Straight ankle lock,Atlanta SPO,76KG,SF,2022
+32620,13175,Ariel Tabak,,Michael Diaz,W,1,Choke from back,Denver Open,70KG,SF,2022
+32747,13175,Ariel Tabak,,Alef Silva,W,1,Points,Houston Open,70KG,SF,2022
+32749,13175,Ariel Tabak,6366,Brian Mahecha,W,1,Referee Decision,Houston Open,70KG,F,2022
+32888,13175,Ariel Tabak,,Jun Yong Cho,W,1,Pts: 4x2,World Champ.,70KG,R1,2022
+33154,13175,Ariel Tabak,,Mykelti Klink,W,1,RNC,ADCC AUS Trials,66KG,R1,2022
+33157,13175,Ariel Tabak,,Samil Atlihan,W,1,RNC,ADCC AUS Trials,66KG,R2,2022
+33159,13175,Ariel Tabak,,Michael Marco,W,1,Footlock,ADCC AUS Trials,66KG,4F,2022
+33164,13175,Ariel Tabak,,Sean He,W,1,Pts: 5x0,ADCC AUS Trials,66KG,3RD,2022
+35851,13175,Ariel Tabak,,Hanhee Kim,W,1,Choke from back,Pan Pacific,76KG,SF,2022
+35855,13175,Ariel Tabak,,Ramon Rosa,W,1,Points,Pan Pacific,ABS,4F,2022
+35857,13175,Ariel Tabak,10644,Marcelo Gomide,W,1,Points,Pan Pacific,ABS,F,2022
+36334,13175,Ariel Tabak,,Jose Rios,W,1,Pts: 14x0,World Pro,69KG,RPC,2022
+36335,13175,Ariel Tabak,,D. Razmadze,W,1,Pts: 9x0,World Pro,69KG,RPC,2022
+36336,13175,Ariel Tabak,,Haidar Abbas,W,1,Pts: 4x2,World Pro,69KG,RPC,2022
+37505,13175,Ariel Tabak,,Vinicius Soares,W,1,Pts: 6x2,Grand Slam SYD,69KG,SF,2023

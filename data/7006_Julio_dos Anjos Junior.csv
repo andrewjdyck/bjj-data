@@ -1,0 +1,54 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10573,7006,Julio dos Anjos Junior,5061,Gabriel Rollo,L,0,Referee Decision,Sao Paulo Open,76KG,F,2016
+10991,7006,Julio dos Anjos Junior,5078,Luan Carvalho,L,0,Referee Decision,BJJ Rio Pro,82KG,SF,2016
+11343,7006,Julio dos Anjos Junior,5078,Luan Carvalho,L,0,Points,Petropolis Pro,77KG,SF,2016
+12594,7006,Julio dos Anjos Junior,,Claudevan Oliveira,L,0,Pts: 4x2,WP BR Qualifier,77KG,4F,2017
+14830,7006,Julio dos Anjos Junior,8682,Lachlan Giles,L,0,"Pts: 2x2, Adv",Grand Slam AD,77KG,SF,2018
+14833,7006,Julio dos Anjos Junior,,Adriano Araujo,L,0,Referee Decision,Grand Slam AD,77KG,RPC,2018
+16078,7006,Julio dos Anjos Junior,,Adriano Araujo,L,0,Pts: 2x0,WP Br Qualifier,77KG,4F,2018
+18016,7006,Julio dos Anjos Junior,,Igor Sousa,L,0,"Pts: 2x2, Adv",Al Ain Pro,85KG,SF,2018
+20042,7006,Julio dos Anjos Junior,7156,Tiago Bravo,L,0,"Pts: 0x0, Adv",WP BR Qualifier,77KG,SF,2019
+22996,7006,Julio dos Anjos Junior,7652,C. Negromonte,L,0,Points,Grand Slam AD,85KG,F,2020
+23647,7006,Julio dos Anjos Junior,10986,Jakub Zajkowski,L,0,Terra footlock,Grand Slam LDN,85KG,SF,2020
+23651,7006,Julio dos Anjos Junior,2235,Renato Cardoso,L,0,Pts: 2x0,Grand Slam LDN,85KG,RPC,2020
+25278,7006,Julio dos Anjos Junior,,Andre Cantanhede,L,0,Pts: 6x4,Abu Dhabi Pro,85KG,F,2021
+25539,7006,Julio dos Anjos Junior,7552,Isaque Bahiense,L,0,Pts: 4x1,Grand Slam AD,85KG,SF,2021
+25618,7006,Julio dos Anjos Junior,410,Claudio Calasans,L,0,Pts: 3x2,WP BR Qualifier,85KG,RR,2021
+25621,7006,Julio dos Anjos Junior,5756,Wellington Luis,L,0,Pts: 3x2,WP BR Qualifier,85KG,RR,2021
+25622,7006,Julio dos Anjos Junior,7552,Isaque Bahiense,L,0,Submission,WP BR Qualifier,85KG,RR,2021
+29140,7006,Julio dos Anjos Junior,12122,Mica Galvao,L,0,Choke from back,BRA Qualifiers,77KG,F,2021
+29723,7006,Julio dos Anjos Junior,,Alessandro Botelho,L,0,Kneebar,Teams Cup,N/A,RR,2021
+10245,7006,Julio dos Anjos Junior,,Carlos Fellini,W,1,Armbar,Rio Winter Open,76KG,R1,2016
+10248,7006,Julio dos Anjos Junior,,J. Rocha,W,1,Wristlock,Rio Winter Open,76KG,8F,2016
+10249,7006,Julio dos Anjos Junior,,Pedro Fernandes,W,1,Triangle,Rio Winter Open,76KG,4F,2016
+10251,7006,Julio dos Anjos Junior,7672,Caio Almeida,W,1,Adv,Rio Winter Open,76KG,SF,2016
+10253,7006,Julio dos Anjos Junior,,Claudevan Oliveira,W,1,Referee Decision,Rio Winter Open,76KG,F,2016
+10567,7006,Julio dos Anjos Junior,6599,Rafael Mansur,W,1,Pts: 6x2,Sao Paulo Open,76KG,R1,2016
+10570,7006,Julio dos Anjos Junior,3206,Rodrigo Conceicao,W,1,Adv,Sao Paulo Open,76KG,4F,2016
+10572,7006,Julio dos Anjos Junior,7672,Caio Almeida,W,1,Adv,Sao Paulo Open,76KG,SF,2016
+10987,7006,Julio dos Anjos Junior,,Leo Jacinto,W,1,Choke,BJJ Rio Pro,82KG,4F,2016
+12591,7006,Julio dos Anjos Junior,,Romario Gonzales,W,1,Omoplata,WP BR Qualifier,77KG,R1,2017
+14750,7006,Julio dos Anjos Junior,,Antonio Junior,W,1,Pts: 4x0,Dubai Nat. Pro,77KG,4F,2017
+14752,7006,Julio dos Anjos Junior,,Samuel Canquerino,W,1,"Pts: 2x2, Adv",Dubai Nat. Pro,77KG,SF,2017
+14754,7006,Julio dos Anjos Junior,10004,Ali Monfaradi,W,1,Pts: 11x2,Dubai Nat. Pro,77KG,F,2017
+14826,7006,Julio dos Anjos Junior,10004,Ali Monfaradi,W,1,Pts: 4x2,Grand Slam AD,77KG,4F,2018
+16077,7006,Julio dos Anjos Junior,428,Celso Vinicius,W,1,"Pts: 0x0, Adv",WP Br Qualifier,77KG,R1,2018
+18018,7006,Julio dos Anjos Junior,,Robson Nascimento,W,1,Submission,Al Ain Pro,85KG,3RD,2018
+20037,7006,Julio dos Anjos Junior,5660,Lucas Rocha,W,1,Referee Decision,WP BR Qualifier,77KG,R1,2019
+20039,7006,Julio dos Anjos Junior,9067,Leonardo Lara,W,1,Referee Decision,WP BR Qualifier,77KG,4F,2019
+22995,7006,Julio dos Anjos Junior,,Igor Sousa,W,1,Pts: 3x1,Grand Slam AD,85KG,SF,2020
+23189,7006,Julio dos Anjos Junior,,Michael Douglas,W,1,Choke,Emirates Pro,85KG,SF,2020
+23190,7006,Julio dos Anjos Junior,,M. Murtazaliev,W,1,Submission,Emirates Pro,85KG,F,2020
+23640,7006,Julio dos Anjos Junior,,Karol Kania,W,1,Triangle,Grand Slam LDN,85KG,R1,2020
+23643,7006,Julio dos Anjos Junior,,Gilvan Costa,W,1,Pts: 8x1,Grand Slam LDN,85KG,4F,2020
+25277,7006,Julio dos Anjos Junior,,Gerson Carvalho,W,1,Triangle,Abu Dhabi Pro,85KG,SF,2021
+25533,7006,Julio dos Anjos Junior,,Nathan Santos,W,1,Armlock,Grand Slam AD,85KG,R1,2021
+25537,7006,Julio dos Anjos Junior,,Javier Valenciano,W,1,Pts: 2x1,Grand Slam AD,85KG,4F,2021
+26899,7006,Julio dos Anjos Junior,11872,Luiz Paulo,W,1,Pts: 1x1,Asia Cont. Pro,85KG,SF,2021
+27720,7006,Julio dos Anjos Junior,,R. Berezovchuck,W,1,Armbar,Grand Slam MSK,85KG,SF,2021
+27721,7006,Julio dos Anjos Junior,,Andre Cantanhede,W,1,Pts: 2x0,Grand Slam MSK,85KG,F,2021
+29137,7006,Julio dos Anjos Junior,9121,Ygor Rodrigues,W,1,Pts: 1x0,BRA Qualifiers,77KG,4F,2021
+29139,7006,Julio dos Anjos Junior,,Wallison Oliveira,W,1,Pts: 4x0,BRA Qualifiers,77KG,SF,2021
+29697,7006,Julio dos Anjos Junior,,Y. Souza,W,1,Armbar,Teams Cup,N/A,RR,2021
+29702,7006,Julio dos Anjos Junior,,Joao Bezerra,W,1,Triangle,Teams Cup,N/A,RR,2021
+29712,7006,Julio dos Anjos Junior,,Hebert Costa,W,1,Armbar,Teams Cup,N/A,RR,2021

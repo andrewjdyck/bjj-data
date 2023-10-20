@@ -1,0 +1,60 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+26407,12241,Higor Lima,12287,Pedro Maia,L,0,Armbar,SA Cont. Pro,77KG,8F,2021
+26783,12241,Higor Lima,11949,Daniel Junior,L,0,Points,Rio Winter Open,76KG,4F,2021
+27131,12241,Higor Lima,,Leandro Souza,L,0,Pts: 2x0,AJP RJ Pro,LWA,SF,2021
+27947,12241,Higor Lima,11497,Fabricio Andrey,L,0,Pts: 5x2,Brasilia Pro,69KG,SF,2021
+28502,12241,Higor Lima,11423,Meyram Maquine,L,0,RNC,Grand Slam RJ,69KG,SF,2021
+28507,12241,Higor Lima,,Marlus Salgado,L,0,Pts: 7x1,Grand Slam RJ,69KG,RPC,2021
+29130,12241,Higor Lima,8231,Leo Saggioro,L,0,Pts: 6x2,BRA Qualifiers,69KG,SF,2021
+29880,12241,Higor Lima,11465,Kauan Barboza,L,0,Choke from back,Rio SMO,82KG,R1,2022
+31009,12241,Higor Lima,8884,Alex Sodre,L,0,Pts: 11x8,Curitiba Open,76KG,4F,2022
+31063,12241,Higor Lima,10174,Rafael Paganini,L,0,Guillotine,Curitiba Open,ABS,SF,2022
+33949,12241,Higor Lima,,Artur Oliveira,L,0,Pts: 4x3,Grand Slam RJ,69KG,8F,2022
+37112,12241,Higor Lima,10408,Israel Sousa,L,0,Pts: 15x0,North East BRA,77KG,F,2023
+40580,12241,Higor Lima,,Marlus Salgado,L,0,Pts: 3x0,Grand Slam RJ,69KG,4F,2023
+40588,12241,Higor Lima,,Marlus Salgado,L,0,Submission,Grand Slam RJ,69KG,3RD,2023
+40915,12241,Higor Lima,,Erick Chaves,L,0,Submission,Brazil Nat Pro,77KG,F,2023
+27032,12241,Higor Lima,,Ismael Mendes,W,1,Armbar,Paranaense,82KG,F,2021
+27033,12241,Higor Lima,,Luan Pinheiro,W,1,Choke from back,Paranaense,ABS,F,2021
+27034,12241,Higor Lima,,Welliton Carvalho,W,1,Choke from back,N. Nordeste,76KG,F,2021
+27092,12241,Higor Lima,,Alisson Silva,W,1,Pts: 6x1,AJP RJ Pro,69KG,R1,2021
+27097,12241,Higor Lima,6043,Lucas Pinheiro,W,1,Choke from back,AJP RJ Pro,69KG,4F,2021
+27101,12241,Higor Lima,,Yago Rodrigues,W,1,Pts: 4x1,AJP RJ Pro,69KG,SF,2021
+27102,12241,Higor Lima,,Luiz Costa,W,1,Pts: 4x2,AJP RJ Pro,69KG,F,2021
+27130,12241,Higor Lima,,Yago Rodrigues,W,1,Pts: 3x1,AJP RJ Pro,LWA,4F,2021
+27303,12241,Higor Lima,,Francisco Filho,W,1,Triangle,Goiania Pro,69KG,4F,2021
+27307,12241,Higor Lima,,Adolfo Neto,W,1,Toe hold,Goiania Pro,69KG,SF,2021
+27308,12241,Higor Lima,,Davi Carlos,W,1,Toe hold,Goiania Pro,69KG,F,2021
+27317,12241,Higor Lima,,Aniel Candido,W,1,Botinha,Goiania Pro,LWA,4F,2021
+27318,12241,Higor Lima,6432,Yan Lucas,W,1,Pts: 3x2,Goiania Pro,LWA,SF,2021
+27319,12241,Higor Lima,,Carlos Garcia,W,1,Cross choke,Goiania Pro,LWA,F,2021
+27467,12241,Higor Lima,,Alan Gumbs,W,1,Pts: 5x5,Colombia Pro,77KG,SF,2021
+27468,12241,Higor Lima,,F. Abramowicz,W,1,Pts: 10x1,Colombia Pro NG,77KG,F,2021
+27469,12241,Higor Lima,,Mauricio Orozoco,W,1,Triangle,Colombia Pro NG,77KG,SF,2021
+27470,12241,Higor Lima,,Jonathan Barragan,W,1,Pts: 3x0,Colombia Pro,77KG,F,2021
+27949,12241,Higor Lima,,Fernando Favari,W,1,Pts: 5x3,Brasilia Pro,69KG,3RD,2021
+28481,12241,Higor Lima,,Claudiney Xavier,W,1,Pts: 5x4,Grand Slam RJ,69KG,R1,2021
+28490,12241,Higor Lima,,Artur Lanes,W,1,Pts: 3x2,Grand Slam RJ,69KG,8F,2021
+28497,12241,Higor Lima,,Wilhiam Mateus,W,1,Pts: 4x1,Grand Slam RJ,69KG,4F,2021
+29127,12241,Higor Lima,,Alessandro Botelho,W,1,Pts: 3x2,BRA Qualifiers,69KG,4F,2021
+31007,12241,Higor Lima,,Wesley Possamai,W,1,"Pts: 2x2, Adv",Curitiba Open,76KG,R1,2022
+31047,12241,Higor Lima,,Rhuan Duarte,W,1,Pts: 2x0,Curitiba Open,ABS,R1,2022
+31053,12241,Higor Lima,,Hugo Gambino,W,1,N/A,Curitiba Open,ABS,R2,2022
+31059,12241,Higor Lima,,Joao Freitas,W,1,Points,Curitiba Open,ABS,4F,2022
+32827,12241,Higor Lima,,Luan Silva,W,1,Submission,Belem Pro,76KG,SF,2022
+32828,12241,Higor Lima,,Anderson Macedo,W,1,Pts: 1x0,Belem Pro,76KG,F,2022
+33939,12241,Higor Lima,,Gabriel Neves,W,1,Armbar,Grand Slam RJ,69KG,R1,2022
+37109,12241,Higor Lima,,Joao Carvalho,W,1,Armbar,North East BRA,77KG,4F,2023
+37111,12241,Higor Lima,,Matheus Silva,W,1,Submission,North East BRA,77KG,SF,2023
+39179,12241,Higor Lima,,M. Da Silva,W,1,Armbar,Belem Pro,77KG,SF,2023
+39180,12241,Higor Lima,,Erick Chaves,W,1,Pts: 4x4,Belem Pro,77KG,F,2023
+40522,12241,Higor Lima,,Matheus Silva,W,1,Submission,Macapa Pro,77KG,SF,2023
+40523,12241,Higor Lima,,Alessandre Ferreira,W,1,Pts: 9x2,Macapa Pro,77KG,F,2023
+40570,12241,Higor Lima,,Jose Neto,W,1,Straight ankle lock,Grand Slam RJ,69KG,R1,2023
+40573,12241,Higor Lima,,Nicholas Martinez,W,1,Pts: 4x1,Grand Slam RJ,69KG,8F,2023
+40585,12241,Higor Lima,,Artur Lanes,W,1,Kneebar,Grand Slam RJ,69KG,RPC,2023
+40587,12241,Higor Lima,12689,Matias Estevez,W,1,Kneebar,Grand Slam RJ,69KG,RPC,2023
+40913,12241,Higor Lima,,Matheus Silva,W,1,Pts: 2x0,Brazil Nat Pro,77KG,SF,2023
+40916,12241,Higor Lima,,Erick Chaves,W,1,Pts: 3x3,Brazil Nat Pro,ABS,4F,2023
+40917,12241,Higor Lima,13062,Leonardo Mario,W,1,Armbar,Brazil Nat Pro,ABS,SF,2023
+40919,12241,Higor Lima,,Jefferson Fagundes,W,1,Pts: 5x4,Brazil Nat Pro,ABS,F,2023

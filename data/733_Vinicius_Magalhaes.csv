@@ -1,0 +1,64 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1389,733,Vinicius Magalhaes,505,Roger Gracie,L,0,Choke from back,Pan American,ABS,4F,2006
+2280,733,Vinicius Magalhaes,84,Alexandre Ribeiro,L,0,Points,ADCC,99KG,SF,2009
+2306,733,Vinicius Magalhaes,422,Braulio Estima,L,0,Points,ADCC,ABS,SF,2009
+2380,733,Vinicius Magalhaes,1145,Daniel Valverde,L,0,"Pts: 0x0, Adv",UFC Expo,ABS,SPF,2009
+3176,733,Vinicius Magalhaes,144,Andre Galvao,L,0,Pts: 4x0,Ultimate Abs.,ABS,SF,2011
+3314,733,Vinicius Magalhaes,484,Murilo Santana,L,0,Referee Decision,ADCC,ABS,4F,2011
+5045,733,Vinicius Magalhaes,5861,Jared Dopp,L,0,Pen,ADCC,O99KG,4F,2013
+5871,733,Vinicius Magalhaes,3009,Keenan Cornelius,D,0.5,---,Metamoris 4,ABS,SPF,2014
+7313,733,Vinicius Magalhaes,4521,Erberth Santos,L,0,Pts: 6x4,Copa Podio,95KG,GP,2015
+7319,733,Vinicius Magalhaes,4310,Tim Spriggs,L,0,Adv,Copa Podio,95KG,GP,2015
+7905,733,Vinicius Magalhaes,2452,Orlando Sanchez,L,0,Referee Decision,ADCC,O99KG,SF,2015
+7994,733,Vinicius Magalhaes,410,Claudio Calasans,L,0,Referee Decision,ADCC,ABS,4F,2015
+10800,733,Vinicius Magalhaes,5649,Garry Tonon,L,0,EBI/OT,EBI 9,93KG,F,2016
+11296,733,Vinicius Magalhaes,5861,Jared Dopp,L,0,Pts: 12x9,Grappling Pro 2,120KG,4F,2016
+11698,733,Vinicius Magalhaes,5655,Lucas Barbosa,L,0,"Pts: 2x2, Adv",San Jose Open,ABS,F,2017
+11968,733,Vinicius Magalhaes,7079,Carlos Farias,L,0,Referee Decision,Mexico City Open,O100KG,F,2017
+12572,733,Vinicius Magalhaes,224,Roberto Abreu,L,0,Pts: 3x0,ADCC WC Trials,O99KG,SPF,2017
+12899,733,Vinicius Magalhaes,7478,Adam Wardzinski,L,0,Points,ACBJJ 5,95KG,4F,2017
+13852,733,Vinicius Magalhaes,5861,Jared Dopp,L,0,Referee Decision,ADCC,O99KG,4F,2017
+15314,733,Vinicius Magalhaes,,Joseph Moku,L,0,Referee Decision,ACBJJ 11,O95KG,SPF,2018
+15847,733,Vinicius Magalhaes,8560,Gabriel Lucas,L,0,Points,ACBJJ 12,O95KG,SPF,2018
+21889,733,Vinicius Magalhaes,9180,Vinicius Trator,L,0,Pts: 2x0,ADCC,99KG,SF,2019
+23202,733,Vinicius Magalhaes,12110,Nick Rodriguez,D,0.5,---,Kasai Pro 7,120KG,RR,2020
+23724,733,Vinicius Magalhaes,8346,Craig Jones,L,0,verbal tap,SUG 13,ABS,SPF,2020
+24090,733,Vinicius Magalhaes,11789,Mason Fowler,L,0,EBI/OT,SUG 18,N/A,SPF,2020
+35065,733,Vinicius Magalhaes,,John Hansen,L,0,Injury,ADCC,O99KG,R1,2022
+1386,733,Vinicius Magalhaes,,Carlos Francis,W,1,Toe hold,Pan American,ABS,R1,2006
+1481,733,Vinicius Magalhaes,378,Robert Drysdale,W,1,Pts: 1x0,LA Sub-X,ABS,SPF,2006
+2273,733,Vinicius Magalhaes,543,Rodrigo Cavaca,W,1,Heel hook,ADCC,99KG,R1,2009
+2277,733,Vinicius Magalhaes,9,Marcio Cruz,W,1,Flying armbar,ADCC,99KG,4F,2009
+2283,733,Vinicius Magalhaes,,Glover Teixeira,W,1,Triangle armbar,ADCC,99KG,3RD,2009
+2296,733,Vinicius Magalhaes,1369,Dean Lister,W,1,Points,ADCC,ABS,R1,2009
+2302,733,Vinicius Magalhaes,,Chris Wideman,W,1,Flying armbar,ADCC,ABS,4F,2009
+2309,733,Vinicius Magalhaes,1388,Gunnar Nelson,W,1,Pts: 3x0,ADCC,ABS,3RD,2009
+3169,733,Vinicius Magalhaes,1736,Daniel Simoes,W,1,Banana split,Ultimate Abs.,ABS,R1,2011
+3174,733,Vinicius Magalhaes,984,Marcus Almeida,W,1,Heel hook,Ultimate Abs.,ABS,4F,2011
+3256,733,Vinicius Magalhaes,,Luke Costello,W,1,Pts: 2x0,ADCC,O99KG,R1,2011
+3278,733,Vinicius Magalhaes,1548,Jose Junior,W,1,Footlock,ADCC,O99KG,4F,2011
+3288,733,Vinicius Magalhaes,1329,Gerardi Rinaldi,W,1,Pts: 3x0,ADCC,O99KG,SF,2011
+3299,733,Vinicius Magalhaes,573,Fabricio Werdum,W,1,Pts: 2x0,ADCC,O99KG,F,2011
+3308,733,Vinicius Magalhaes,637,Bruno Bastos,W,1,Heel hook,ADCC,ABS,R1,2011
+5037,733,Vinicius Magalhaes,,Wang Yan Bo,W,1,Heel hook,ADCC,O99KG,R1,2013
+6215,733,Vinicius Magalhaes,5423,Matheus Diniz,D,0.5,---,Metamoris 5,ABS,SPF,2014
+6656,733,Vinicius Magalhaes,3200,Jackson Sousa,W,1,Referee Decision,Berkut Open,ABS,SPF,2015
+6662,733,Vinicius Magalhaes,3200,Jackson Sousa,W,1,Toe hold,Berkut Open NoGi,ABS,SPF,2015
+7305,733,Vinicius Magalhaes,,F. Reis,W,1,"Pts: 2x2, Adv",Copa Podio,95KG,GP,2015
+7321,733,Vinicius Magalhaes,7543,Nelton Pontes,W,1,Pts: 4x2,Copa Podio,95KG,GP,2015
+7893,733,Vinicius Magalhaes,,P. Ardilla,W,1,Heel hook,ADCC,O99KG,R1,2015
+7901,733,Vinicius Magalhaes,,Rodrigo Artilheiro,W,1,Twister,ADCC,O99KG,4F,2015
+7907,733,Vinicius Magalhaes,2403,Joao Rocha,W,1,Heel hook,ADCC,O99KG,3RD,2015
+7986,733,Vinicius Magalhaes,5649,Garry Tonon,W,1,"Pts: 0x0, Pen",ADCC,ABS,R1,2015
+10339,733,Vinicius Magalhaes,,Ronny Markes,W,1,Heel hook,Sub Underground,ABS,SPF,2016
+10597,733,Vinicius Magalhaes,,Ronny Marques,W,1,Heel hook,SUG 3,ABS,SPF,2016
+10790,733,Vinicius Magalhaes,,Tom Breese,W,1,Inside heel hook,EBI 9,93KG,R1,2016
+10796,733,Vinicius Magalhaes,7519,Eliot Kelly,W,1,EBI/OT,EBI 9,93KG,4F,2016
+10799,733,Vinicius Magalhaes,,Matt Kirchwehm,W,1,Kimura,EBI 9,93KG,SF,2016
+11857,733,Vinicius Magalhaes,,Frederico Silva,W,1,Toe hold,Houston Open,ABS,4F,2017
+11860,733,Vinicius Magalhaes,8632,Thiago Macedo,W,1,Kneebar,Houston Open,ABS,SF,2017
+13846,733,Vinicius Magalhaes,637,Bruno Bastos,W,1,Toe hold,ADCC,O99KG,E1,2017
+16348,733,Vinicius Magalhaes,6550,Gordon Ryan,W,1,Points,ACBJJ 13,O95KG,SPF,2018
+21833,733,Vinicius Magalhaes,,Dan Martinez,W,1,Pts: 4x0,ADCC,99KG,R1,2019
+21838,733,Vinicius Magalhaes,1827,James Puopolo,W,1,Pts: 2x0,ADCC,99KG,4F,2019
+22809,733,Vinicius Magalhaes,9959,Perttu Tepponen,W,1,Pts: 5x4,NoGi Worlds,ABS,R1,2019

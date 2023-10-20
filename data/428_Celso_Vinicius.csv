@@ -1,0 +1,87 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1152,428,Celso Vinicius,396,Carlos Portugues,L,0,Adv,Brasileiro,76KG,F,2005
+1750,428,Celso Vinicius,358,Lucas Lepri,L,0,Kneebar,World Champ.,76KG,SF,2007
+2518,428,Celso Vinicius,446,Gilbert Burns,L,0,Pts: 7x2,WPC Gr Trials,74KG,F,2010
+2640,428,Celso Vinicius,446,Gilbert Burns,L,0,Points,World Pro.,74KG,SF,2010
+2689,428,Celso Vinicius,122,Michael Langhi,L,0,Referee Decision,World Champ.,76KG,F,2010
+2914,428,Celso Vinicius,1188,Leandro Lo,L,0,Adv,World Pro.,74KG,F,2011
+3113,428,Celso Vinicius,967,JT Torres,L,0,Pts: 2x0,World Champ.,76KG,4F,2011
+5789,428,Celso Vinicius,1824,Roberto Satoshi,L,0,Pts: 2x0,World Champ.,76KG,4F,2014
+7879,428,Celso Vinicius,1824,Roberto Satoshi,L,0,Adv,Grand Slam TYO,77KG,F,2015
+10010,428,Celso Vinicius,6071,Gabriel Arges,L,0,Pts: 8x7,World Champ.,82KG,8F,2016
+11053,428,Celso Vinicius,5061,Gabriel Rollo,L,0,"Pts: 2x2, Adv",Grand Slam RJ,77KG,R2,2016
+11890,428,Celso Vinicius,7552,Isaque Bahiense,L,0,Arm in guillotine,Copa Podio,77KG,RR,2017
+13125,428,Celso Vinicius,6596,Jhonny Loureiro,L,0,"Pts: 0x0, Adv",World Champ.,76KG,4F,2017
+13295,428,Celso Vinicius,5078,Luan Carvalho,L,0,Referee Decision,SP BJJ Pro,82KG,F,2017
+13902,428,Celso Vinicius,967,JT Torres,L,0,"Pts: 0x0, Pen",ADCC,77KG,4F,2017
+13925,428,Celso Vinicius,2416,Felipe Pena,L,0,Pts: 6x0,ADCC,ABS,E1,2017
+14300,428,Celso Vinicius,4460,Jaime Canuto,L,0,"Pts: 2x2, Adv",IBJJF Rio Pro,82KG,F,2017
+14345,428,Celso Vinicius,4460,Jaime Canuto,L,0,Referee Decision,Grand Slam RJ,77KG,8F,2017
+14589,428,Celso Vinicius,7539,Renato Canuto,L,0,Referee Decision,Kasai Pro,70KG,F,2017
+16043,428,Celso Vinicius,8819,Thiago Barreto,L,0,Referee Decision,King of Mats,69KG,RR,2018
+16077,428,Celso Vinicius,7006,Julio Anjos,L,0,"Pts: 0x0, Adv",WP Br Qualifier,77KG,R1,2018
+16508,428,Celso Vinicius,8215,Espen Mathiesen,L,0,DQ,World Champ.,76KG,R3,2018
+16966,428,Celso Vinicius,,J. Gracie,L,0,Referee Decision,W.S.O.G.,81KG,4F,2018
+19324,428,Celso Vinicius,5061,Gabriel Rollo,L,0,Adv,BJJ Stars,82KG,SPF,2019
+20974,428,Celso Vinicius,8394,Vagner Rocha,L,0,Pts: 4x2,KASAI SS Florida,77KG,SPF,2019
+21863,428,Celso Vinicius,8394,Vagner Rocha,L,0,Referee Decision,ADCC,77KG,4F,2019
+1289,428,Celso Vinicius,,R. Barbosa,W,1,Points,World Champ.,76KG,SF,2005
+1290,428,Celso Vinicius,1055,Tiago Alves,W,1,Pts: 2x0,World Champ.,76KG,F,2005
+1418,428,Celso Vinicius,,Daisuke Sugie,W,1,Pts: 18x0,World Champ.,76KG,R1,2006
+1421,428,Celso Vinicius,,Carlos Diego,W,1,Pts: 8x0,World Champ.,76KG,4F,2006
+1426,428,Celso Vinicius,1116,Adriano Martins,W,1,Pts: 10x0,World Champ.,76KG,SF,2006
+1427,428,Celso Vinicius,790,Mario Reis,W,1,Pts: 5x0,World Champ.,76KG,F,2006
+1522,428,Celso Vinicius,,Unknown,W,1,Points,Team Nationals,88KG,4F,2006
+1552,428,Celso Vinicius,921,Rafael Barbosa,W,1,Pts: 2x0,Rio Teams GP,76KG,R1,2007
+1553,428,Celso Vinicius,570,Marcelino Freitas,W,1,Pts: 2x0,Rio Teams GP,76KG,SF,2007
+1588,428,Celso Vinicius,,Michel Maia,W,1,Pts: 4x0,Brasileiro,76KG,F,2007
+1868,428,Celso Vinicius,122,Michael Langhi,W,1,Referee Decision,Pan American,76KG,SF,2008
+1870,428,Celso Vinicius,358,Lucas Lepri,W,1,Pts: 4x0,Pan American,76KG,F,2008
+1919,428,Celso Vinicius,7075,Jack McVicker,W,1,Pts: 21x0,World Champ.,76KG,R1,2008
+1922,428,Celso Vinicius,,Daisuke,W,1,Pts: 14x0,World Champ.,76KG,R2,2008
+1924,428,Celso Vinicius,,Rafael Rosendo,W,1,Triangle armbar,World Champ.,76KG,4F,2008
+1928,428,Celso Vinicius,122,Michael Langhi,W,1,Points,World Champ.,76KG,SF,2008
+1929,428,Celso Vinicius,358,Lucas Lepri,W,1,Pts: 2x0,World Champ.,76KG,F,2008
+2379,428,Celso Vinicius,,Orlando Zanetti,W,1,Pts: 4x2,Sul Americano,76KG,F,2009
+2516,428,Celso Vinicius,790,Mario Reis,W,1,Referee Decision,WPC Gr Trials,74KG,SF,2010
+2638,428,Celso Vinicius,256,Oliver Geddes,W,1,Pts: 16x0,World Pro.,74KG,R1,2010
+2639,428,Celso Vinicius,,R. Olivier,W,1,Kimura,World Pro.,74KG,4F,2010
+2681,428,Celso Vinicius,7865,Tiago Rocha,W,1,Points,World Champ.,76KG,R1,2010
+2682,428,Celso Vinicius,174,Bruno Frazatto,W,1,Adv,World Champ.,76KG,R2,2010
+2684,428,Celso Vinicius,1386,Davi Ramos,W,1,Choke from back,World Champ.,76KG,4F,2010
+2688,428,Celso Vinicius,358,Lucas Lepri,W,1,Referee Decision,World Champ.,76KG,SF,2010
+2912,428,Celso Vinicius,147,Rubens Charles,W,1,Referee Decision,World Pro.,74KG,SF,2011
+3022,428,Celso Vinicius,,Yuji Okamoto,W,1,Armbar,World Champ.,76KG,RDS,2011
+3488,428,Celso Vinicius,1774,Mark Ramos,W,1,RNC,Ultimate Abs.,76KG,R1,2012
+3493,428,Celso Vinicius,,G. Tonon,W,1,Points,Ultimate Abs.,76KG,4F,2012
+3496,428,Celso Vinicius,,Renan Borges,W,1,RNC,Ultimate Abs.,76KG,SF,2012
+3498,428,Celso Vinicius,1398,Justin Rader,W,1,Points,Ultimate Abs.,76KG,F,2012
+5784,428,Celso Vinicius,6563,Francisco Iturralde,W,1,Pts: 5x2,World Champ.,76KG,R1,2014
+7878,428,Celso Vinicius,,Kleber Koike,W,1,Pts: 2x0,Grand Slam TYO,77KG,SF,2015
+8251,428,Celso Vinicius,,Stephen Martinez,W,1,Pts: 7x0,Grand Slam LA,77KG,4F,2015
+8254,428,Celso Vinicius,4163,Marcio Andre,W,1,Pts: 2x0,Grand Slam LA,77KG,SF,2015
+8256,428,Celso Vinicius,1824,Roberto Satoshi,W,1,Injury,Grand Slam LA,77KG,F,2015
+8642,428,Celso Vinicius,,Rafael Suzuki,W,1,Pts: 6x0,Grand Slam RJ,77KG,8F,2015
+8646,428,Celso Vinicius,,Pedro Fernandes,W,1,"Pts: 2x2, Adv",Grand Slam RJ,77KG,4F,2015
+8647,428,Celso Vinicius,8112,Matheus Costa,W,1,Choke from back,Grand Slam RJ,77KG,SF,2015
+8649,428,Celso Vinicius,,Lucas Valle,W,1,"Pts: 0x0, Adv",Grand Slam RJ,77KG,F,2015
+9993,428,Celso Vinicius,5747,AJ Sousa,W,1,Pts: 2x0,World Champ.,82KG,R2,2016
+11886,428,Celso Vinicius,1820,Delson Heleno,D,0.5,---,Copa Podio,77KG,RR,2017
+11898,428,Celso Vinicius,5756,Wellington Luis,W,1,Pts: 2x0,Copa Podio,77KG,RR,2017
+11902,428,Celso Vinicius,7672,Caio Almeida,W,1,Points,Copa Podio,77KG,RR,2017
+13115,428,Celso Vinicius,6563,Francisco Iturralde,W,1,Pts: 2x0,World Champ.,76KG,8F,2017
+13291,428,Celso Vinicius,,Luciano Bernert,W,1,N/A,SP BJJ Pro,82KG,4F,2017
+13293,428,Celso Vinicius,7636,Vinicius Garcia,W,1,Pts: 4x0,SP BJJ Pro,82KG,SF,2017
+13897,428,Celso Vinicius,7247,Enrico Cocco,W,1,Pts: 3x0,ADCC,77KG,E1,2017
+14299,428,Celso Vinicius,5078,Luan Carvalho,W,1,Adv,IBJJF Rio Pro,82KG,SF,2017
+14340,428,Celso Vinicius,,Geovani Bernardo,W,1,Choke,Grand Slam RJ,77KG,R1,2017
+14578,428,Celso Vinicius,,Edwin Ocasio,D,0.5,---,Kasai Pro,70KG,RR,2017
+14581,428,Celso Vinicius,4248,Gianni Grippo,D,0.5,---,Kasai Pro,70KG,RR,2017
+14587,428,Celso Vinicius,7247,Enrico Cocco,W,1,Guillotine,Kasai Pro,70KG,RR,2017
+16028,428,Celso Vinicius,4248,Gianni Grippo,W,1,"Pts: 0x0, Adv",King of Mats,69KG,RR,2018
+16032,428,Celso Vinicius,8842,Wanki Chae,W,1,"Pts: 0x0, Adv",King of Mats,69KG,RR,2018
+16038,428,Celso Vinicius,7156,Tiago Bravo,W,1,Referee Decision,King of Mats,69KG,RR,2018
+16489,428,Celso Vinicius,6563,Francisco Iturralde,W,1,Arm in guillotine,World Champ.,76KG,R2,2018
+16961,428,Celso Vinicius,,Rafael Dutra,W,1,Referee Decision,W.S.O.G.,81KG,8F,2018
+21859,428,Celso Vinicius,5238,Edwin Najmi,W,1,Referee Decision,ADCC,77KG,R1,2019
+28992,428,Celso Vinicius,4328,AJ Agazarm,W,1,"Pts: 0x0, Adv",BJJ Stars,76KG,SPF,2021

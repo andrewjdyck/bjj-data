@@ -1,0 +1,72 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+12142,7002,Shane Hill-Taylor,5414,Osvaldo Moizinho,L,0,DQ,Pan American,70KG,SF,2017
+13101,7002,Shane Hill-Taylor,147,Rubens Charles,L,0,Referee Decision,World Champ.,70KG,SF,2017
+13451,7002,Shane Hill-Taylor,4248,Gianni Grippo,L,0,Referee Decision,FIVE Super League,70KG,F,2017
+13709,7002,Shane Hill-Taylor,4248,Gianni Grippo,L,0,Points,Washington Open,76KG,F,2017
+14008,7002,Shane Hill-Taylor,4248,Gianni Grippo,L,0,Pts: 2x0,No Gi Pan Am.,67KG,F,2017
+15389,7002,Shane Hill-Taylor,4248,Gianni Grippo,L,0,"Pts: 2x2, Adv",Pan American,70KG,F,2018
+16934,7002,Shane Hill-Taylor,,J. Alves,L,0,"Pts: 0x0, Adv",Spider Inv. 4F,76KG,SPF,2018
+19585,7002,Shane Hill-Taylor,9002,Matheus Gabriel,L,0,"Pts: 4x4, Pen",Pan American,70KG,F,2019
+21160,7002,Shane Hill-Taylor,10295,Italo Moura,L,0,Referee Decision,Washington SMO,76KG,F,2019
+21865,7002,Shane Hill-Taylor,11735,Nicky Ryan,L,0,Pts: 2x0,ADCC,66KG,R1,2019
+22649,7002,Shane Hill-Taylor,10085,Johnatha Alves,L,0,RNC,Spyder Invitational,76KG,4F,2019
+29489,7002,Shane Hill-Taylor,11497,Fabricio Andrey,L,0,Triangle,World Champ.,70KG,F,2021
+31638,7002,Shane Hill-Taylor,9094,Richar Nogueira,L,0,Referee Decision,Pan American,70KG,4F,2022
+37593,7002,Shane Hill-Taylor,11423,Meyram Maquine,L,0,Pts: 4x0,Spyder RTBB,65KG,SF,2023
+38392,7002,Shane Hill-Taylor,10352,Leo Silva,L,0,"Pts: 0x0, Adv",Pan American,76KG,8F,2023
+10504,7002,Shane Hill-Taylor,,Eddie Aponte,W,1,RNC,NAGA BATB,70KG,SF,2016
+10505,7002,Shane Hill-Taylor,,Joseph Bubble,W,1,Short choke,NAGA BATB,70KG,F,2016
+12133,7002,Shane Hill-Taylor,4248,Gianni Grippo,W,1,Referee Decision,Pan American,70KG,8F,2017
+12139,7002,Shane Hill-Taylor,9064,Silvio Duran,W,1,Bow and arrow,Pan American,70KG,4F,2017
+12380,7002,Shane Hill-Taylor,9064,Silvio Duran,W,1,"Pts: 2x2, Adv",NY Spring Open,70KG,SF,2017
+12381,7002,Shane Hill-Taylor,,Windson Ramos,W,1,"Pts: 4x4, Adv",NY Spring Open,70KG,F,2017
+12916,7002,Shane Hill-Taylor,,Yungseung Cho,W,1,"Pts: 2x2, Adv",Spyder Inv.,70KG,4F,2017
+13091,7002,Shane Hill-Taylor,8632,Thiago Macedo,W,1,Arm in Ezekiel,World Champ.,70KG,8F,2017
+13099,7002,Shane Hill-Taylor,4115,Fabio Caloi,W,1,Triangle,World Champ.,70KG,4F,2017
+13447,7002,Shane Hill-Taylor,6563,Francisco Iturralde,W,1,Referee Decision,FIVE Super League,70KG,4F,2017
+13449,7002,Shane Hill-Taylor,,Yago Espindola,W,1,Referee Decision,FIVE Super League,70KG,SF,2017
+13708,7002,Shane Hill-Taylor,1640,Andre Monteiro,W,1,Submission,Washington Open,76KG,SF,2017
+14007,7002,Shane Hill-Taylor,,Sylvio Duran,W,1,Referee Decision,No Gi Pan Am.,67KG,SF,2017
+14180,7002,Shane Hill-Taylor,,Kyungsub Lee,W,1,Pts: 9x0,Spyder Invitational,76KG,SF,2017
+14182,7002,Shane Hill-Taylor,9606,Inseong Jang,W,1,Pts: 4x0,Spyder Invitational,76KG,F,2017
+14185,7002,Shane Hill-Taylor,10698,Matheus Godoy,W,1,"Pts: 4x4, Adv",Spyder Invitational,ABS,SPF,2017
+14275,7002,Shane Hill-Taylor,,Joseph Overstreet,W,1,Choke,F2W 53,70KG,SPF,2017
+14400,7002,Shane Hill-Taylor,8632,Thiago Macedo,W,1,Choke from back,BJJ NY Pro,70KG,4F,2017
+14403,7002,Shane Hill-Taylor,,Felipe Simplicio,W,1,Toe hook,BJJ NY Pro,70KG,SF,2017
+14405,7002,Shane Hill-Taylor,9064,Silvio Duran,W,1,Choke from back,BJJ NY Pro,70KG,F,2017
+15377,7002,Shane Hill-Taylor,,Deivines Lima,W,1,Canto choke,Pan American,70KG,8F,2018
+15384,7002,Shane Hill-Taylor,1436,Samir Chantre,W,1,RNC,Pan American,70KG,4F,2018
+15387,7002,Shane Hill-Taylor,7872,Gilson Nunes,W,1,"Pts: 0x0, Adv",Pan American,70KG,SF,2018
+15771,7002,Shane Hill-Taylor,,Frederico Alves,W,1,Choke from back,Washington SPO,70KG,SF,2018
+15772,7002,Shane Hill-Taylor,6103,Isaac Doederlein,W,1,Pts: 2x0,Washington SPO,70KG,F,2018
+15789,7002,Shane Hill-Taylor,,Khristopher Santos,W,1,Botinha,Washington SNGO,73KG,F,2018
+15864,7002,Shane Hill-Taylor,,Bruno Cesar,W,1,Botinha,F2W 70,70KG,SPF,2018
+16472,7002,Shane Hill-Taylor,8632,Thiago Macedo,W,1,"Pts: 0x0, Adv",World Champ.,70KG,R2,2018
+16479,7002,Shane Hill-Taylor,5715,Isaque Paiva,W,1,Pts: 2x0,World Champ.,70KG,4F,2018
+16481,7002,Shane Hill-Taylor,4163,Marcio Andre,W,1,"Pts: 0x0, Adv",World Champ.,70KG,SF,2018
+16483,7002,Shane Hill-Taylor,8231,Leo Saggioro,W,1,Pts: 4x2,World Champ.,70KG,F,2018
+16861,7002,Shane Hill-Taylor,9407,Alexandre Molinaro,W,1,Submission,NY BJJ Pro,70KG,SF,2018
+16863,7002,Shane Hill-Taylor,8632,Thiago Macedo,W,1,"Pts: 0x0, Adv",NY BJJ Pro,70KG,F,2018
+17377,7002,Shane Hill-Taylor,9309,Felipe Linhares,W,1,Armbar,Washington SU.O.,70KG,SF,2018
+17378,7002,Shane Hill-Taylor,,Joao Pereira,W,1,Katagatame,Washington SU.O.,70KG,F,2018
+18096,7002,Shane Hill-Taylor,,Jooyoung Cho,W,1,N/A,Spyder Inv. Final,70KG,SPF,2018
+18387,7002,Shane Hill-Taylor,8800,Matheus Gonzaga,W,1,Armbar,NY Fall Open,70KG,F,2018
+19578,7002,Shane Hill-Taylor,9385,Brandon Walensky,W,1,Armbar,Pan American,70KG,8F,2019
+19579,7002,Shane Hill-Taylor,8632,Thiago Macedo,W,1,"Pts: 0x0, Adv",Pan American,70KG,4F,2019
+19583,7002,Shane Hill-Taylor,6103,Isaac Doederlein,W,1,Pts: 2x0,Pan American,70KG,SF,2019
+19898,7002,Shane Hill-Taylor,9309,Felipe Linhares,W,1,Armbar,Washington DCO,76KG,SF,2019
+20023,7002,Shane Hill-Taylor,8231,Leo Saggioro,W,1,Referee Decision,F2W 109,70KG,SPF,2019
+20163,7002,Shane Hill-Taylor,,Garrett Bishop,W,1,Submission,NY Spring Open,76KG,4F,2019
+20167,7002,Shane Hill-Taylor,9309,Felipe Linhares,W,1,Points,NY Spring Open,76KG,SF,2019
+20169,7002,Shane Hill-Taylor,7664,Johnny Tama,W,1,Adv,NY Spring Open,76KG,F,2019
+21159,7002,Shane Hill-Taylor,,Garrett Beck,W,1,Toe hold,Washington SMO,76KG,SF,2019
+26230,7002,Shane Hill-Taylor,9407,Alexandre Molinaro,W,1,Pts: 8x0,Memphis Open,76KG,F,2021
+27555,7002,Shane Hill-Taylor,11963,Diego Sodre,W,1,"Pts: 4x4, Adv",Pan American,70KG,8F,2021
+27561,7002,Shane Hill-Taylor,9094,Richar Nogueira,W,1,DQ,Pan American,70KG,4F,2021
+27563,7002,Shane Hill-Taylor,11497,Fabricio Andrey,W,1,"Pts: 0x0, Adv",Pan American,70KG,SF,2021
+27564,7002,Shane Hill-Taylor,9051,Gabriel Sousa,W,1,Pts: 4x2,Pan American,70KG,F,2021
+29481,7002,Shane Hill-Taylor,7698,Gabriel Marangoni,W,1,Choke from back,World Champ.,70KG,8F,2021
+29486,7002,Shane Hill-Taylor,9031,Kennedy Maciel,W,1,"Pts: 0x0, Pen",World Champ.,70KG,4F,2021
+29488,7002,Shane Hill-Taylor,11963,Diego Sodre,W,1,Pts: 4x2,World Champ.,70KG,SF,2021
+31635,7002,Shane Hill-Taylor,,Giovanni Marcelo,W,1,Reverse triangle,Pan American,70KG,R2,2022
+37590,7002,Shane Hill-Taylor,11889,Keven Carrasco,W,1,"Pts: 0x0, Pen",Spyder RTBB,65KG,4F,2023

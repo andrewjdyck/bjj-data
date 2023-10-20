@@ -1,0 +1,76 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+19797,11991,Pedro Marinho,8346,Craig Jones,D,0.5,---,Kasai 5,93KG,RR,2019
+19799,11991,Pedro Marinho,8974,Kaynan Duarte,L,0,Pts: 11x0,Kasai 5,93KG,RR,2019
+19802,11991,Pedro Marinho,10588,Jon Blank,L,0,Armlock,Kasai 5,93KG,RR,2019
+21847,11991,Pedro Marinho,5423,Matheus Diniz,L,0,Pts: 5x0,ADCC,88KG,R1,2019
+21906,11991,Pedro Marinho,6550,Gordon Ryan,L,0,Outside heel hook,ADCC,ABS,R1,2019
+23756,11991,Pedro Marinho,10880,Roberto Jimenez,L,0,Armbar,3CG Kumite,88KG,SF,2020
+23782,11991,Pedro Marinho,10103,Jonnatas Gracie,L,0,Points,3CG Kumite II,ABS,4F,2020
+23809,11991,Pedro Marinho,8394,Vagner Rocha,L,0,Points,3CG Kumite III,81KG,SF,2020
+24994,11991,Pedro Marinho,6836,John Combs,L,0,Points,Third Coast,88KG,SPF,2020
+25264,11991,Pedro Marinho,10240,Jake Watson,L,0,Referee Decision,F2W 167,88KG,SPF,2021
+25579,11991,Pedro Marinho,12110,Nick Rodriguez,L,0,Referee Decision,3CG 6 Absolute,ABS,4F,2021
+26620,11991,Pedro Marinho,12122,Mica Galvao,L,0,Armlock,3CG MW GP,85KG,F,2021
+26825,11991,Pedro Marinho,10705,Kyle Boehm,L,0,EBI/OT,SUG 24,ABS,F,2021
+27614,11991,Pedro Marinho,11384,Andre Porfirio,L,0,Botinha,Pan American,88KG,F,2021
+30962,11991,Pedro Marinho,8686,Fellipe Trovo,L,0,Katagatame,LA Open,94KG,SF,2022
+31594,11991,Pedro Marinho,11693,Erich Munis,L,0,Pts: 11x4,Pan American,ABS,4F,2022
+31709,11991,Pedro Marinho,4960,Dimitrius Souza,L,0,Armbar,Pan American,94KG,SF,2022
+32967,11991,Pedro Marinho,12215,Sebastian Rodriguez,L,0,"Pts: 4x4, Adv",World Champ.,88KG,8F,2022
+33034,11991,Pedro Marinho,8357,Gustavo Batista,L,0,Pts: 17x0,World Champ.,ABS,8F,2022
+33640,11991,Pedro Marinho,6550,Gordon Ryan,L,0,RNC,WNO 13,O93KG,SPF,2022
+35043,11991,Pedro Marinho,8394,Vagner Rocha,L,0,Referee Decision,ADCC,88KG,4F,2022
+35099,11991,Pedro Marinho,12003,Tye Ruotolo,L,0,Arm in RNC,ADCC,ABS,8F,2022
+40032,11991,Pedro Marinho,7507,Nicholas Meregali,L,0,Triangle,WNO 18,ABS,SPF,2023
+14854,11991,Pedro Marinho,,Mike Torres,W,1,RNC,Sub Hunter Pro,ABS,SPF,2019
+19461,11991,Pedro Marinho,,Alec Hooben,W,1,Guillotine,Elite Grappling 3,ABS,R1,2019
+19463,11991,Pedro Marinho,,Q. Rosenzweig,W,1,Pts: 12x0,Elite Grappling 3,ABS,4F,2019
+19465,11991,Pedro Marinho,,Amr Ghoneim,W,1,Guillotine,Elite Grappling 3,ABS,SF,2019
+19467,11991,Pedro Marinho,9180,Vinicius Trator,W,1,Pts: 3x2,Elite Grappling 3,ABS,F,2019
+23752,11991,Pedro Marinho,11771,William Tackett,W,1,Points,3CG Kumite,88KG,4F,2020
+23766,11991,Pedro Marinho,9668,David Garmo,W,1,Guillotine,Jitz King,84KG,R1,2020
+23772,11991,Pedro Marinho,10759,Jason Rau,W,1,Pts: 3x0,Jitz King,84KG,4F,2020
+23776,11991,Pedro Marinho,10880,Roberto Jimenez,W,1,Outside heel hook,Jitz King,84KG,SF,2020
+23778,11991,Pedro Marinho,11707,Oliver Taza,W,1,Pts: 2x0,Jitz King,84KG,F,2020
+23807,11991,Pedro Marinho,7664,Johnny Tama,W,1,Guillotine,3CG Kumite III,81KG,4F,2020
+23861,11991,Pedro Marinho,11384,Andre Porfirio,W,1,Referee Decision,Kumite V,ABS,SPF,2020
+25032,11991,Pedro Marinho,9250,Gabriel Almeida,W,1,Referee Decision,F2W 160,84KG,SPF,2021
+25103,11991,Pedro Marinho,10658,Matheus Luna,W,1,Referee Decision,F2W 163,88KG,SPF,2021
+25462,11991,Pedro Marinho,7831,Diego Ramalho,W,1,Guillotine,Orlando NGO,91KG,SF,2021
+25463,11991,Pedro Marinho,11797,Giancarlo Bodoni,W,1,Guillotine,Orlando NGO,91KG,F,2021
+26615,11991,Pedro Marinho,,Pat Downey,W,1,Kneebar,3CG MW GP,85KG,4F,2021
+26618,11991,Pedro Marinho,10880,Roberto Jimenez,W,1,Points,3CG MW GP,85KG,SF,2021
+26682,11991,Pedro Marinho,8634,Rafael Vasconcelos,W,1,Botinha,American Nats,94KG,4F,2021
+26686,11991,Pedro Marinho,,Nathan Mendelshon,W,1,Guillotine,American Nats,94KG,SF,2021
+26687,11991,Pedro Marinho,10176,Bruno Lima,W,1,Pts: 6x2,American Nats,94KG,F,2021
+26822,11991,Pedro Marinho,,Andrew Sidelinger,W,1,Inside heel hook,SUG 24,ABS,4F,2021
+26823,11991,Pedro Marinho,10880,Roberto Jimenez,W,1,Inside heel hook,SUG 24,ABS,SF,2021
+26926,11991,Pedro Marinho,1386,Davi Ramos,W,1,Referee Decision,F2W 177,N/A,SPF,2021
+26982,11991,Pedro Marinho,12703,Andy Varela,W,1,Guillotine,SUG 25,ABS,SPF,2021
+27604,11991,Pedro Marinho,10240,Jake Watson,W,1,Pts: 4x2,Pan American,88KG,8F,2021
+27609,11991,Pedro Marinho,9250,Gabriel Almeida,W,1,Referee Decision,Pan American,88KG,4F,2021
+27612,11991,Pedro Marinho,4460,Jaime Canuto,W,1,Guillotine,Pan American,88KG,SF,2021
+28187,11991,Pedro Marinho,11354,Brian Giorgio,W,1,RNC,NoGi Worlds,ABS,8F,2021
+28196,11991,Pedro Marinho,10159,Victor Hugo,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,4F,2021
+28197,11991,Pedro Marinho,7478,Adam Wardzinski,W,1,Pts: 5x0,NoGi Worlds,ABS,SF,2021
+28199,11991,Pedro Marinho,224,Roberto Abreu,W,1,Referee Decision,NoGi Worlds,ABS,F,2021
+28309,11991,Pedro Marinho,,Adam Bradley,W,1,Pts: 2x0,NoGi Worlds,91KG,8F,2021
+28313,11991,Pedro Marinho,,Yuri Santos,W,1,RNC,NoGi Worlds,91KG,4F,2021
+28317,11991,Pedro Marinho,7478,Adam Wardzinski,W,1,Pts: 6x0,NoGi Worlds,91KG,SF,2021
+28319,11991,Pedro Marinho,8394,Vagner Rocha,W,1,Pts: 4x2,NoGi Worlds,91KG,F,2021
+29819,11991,Pedro Marinho,8346,Craig Jones,W,1,Referee Decision,WNO 11,93KG,SPF,2022
+30960,11991,Pedro Marinho,,Italo Costa,W,1,Kneebar,LA Open,94KG,4F,2022
+31590,11991,Pedro Marinho,10199,Guthierry Barbosa,W,1,Choke from back,Pan American,ABS,R2,2022
+31703,11991,Pedro Marinho,9250,Gabriel Almeida,W,1,Kneebar,Pan American,94KG,R2,2022
+31706,11991,Pedro Marinho,11384,Andre Porfirio,W,1,Pts: 4x2,Pan American,94KG,4F,2022
+32959,11991,Pedro Marinho,11646,Andre Gois,W,1,Guillotine,World Champ.,88KG,R1,2022
+33026,11991,Pedro Marinho,9361,Guilherme Cordiviola,W,1,Pts: 2x0,World Champ.,ABS,R1,2022
+34257,11991,Pedro Marinho,11939,Jackson Douglas,W,1,Guillotine,Santa Cruz NGO,ABS,SF,2022
+34258,11991,Pedro Marinho,,Benjamin Silva,W,1,RNC,Santa Cruz NGO,ABS,F,2022
+35038,11991,Pedro Marinho,,Jacob Rodriguez,W,1,Pts: 3x2,ADCC,88KG,R1,2022
+35838,11991,Pedro Marinho,,Charles Lynch,W,1,Short choke,Charleston FNGO,85KG,SF,2022
+35839,11991,Pedro Marinho,7831,Diego Ramalho,W,1,RNC,Charleston FNGO,85KG,F,2022
+35843,11991,Pedro Marinho,11093,Emilio Hernandez,W,1,Guillotine,Charleston FNGO,ABS,SF,2022
+36714,11991,Pedro Marinho,,Austin Oranday,W,1,Katagatame,Waco NGO,ABS,SF,2022
+36716,11991,Pedro Marinho,12372,Francisco Cuneo,W,1,RNC,Waco NGO,ABS,F,2022
+37780,11991,Pedro Marinho,11797,Giancarlo Bodoni,W,1,Referee Decision,WNO,92KG,SPF,2023

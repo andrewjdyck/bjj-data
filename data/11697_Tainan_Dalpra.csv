@@ -1,0 +1,74 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+26600,11697,Tainan Dalpra,12122,Mica Galvao,L,0,Referee Decision,EUG 2,77KG,SF,2021
+40297,11697,Tainan Dalpra,12506,Jansen Gomes,L,0,"Pts: 0x0, Adv",World Champ.,82KG,F,2023
+25197,11697,Tainan Dalpra,12566,Rodrigo Tatu,W,1,Cross choke,Dallas Open,82KG,4F,2021
+25200,11697,Tainan Dalpra,4655,Michael Liera,W,1,Pts: 5x2,Dallas Open,82KG,SF,2021
+25201,11697,Tainan Dalpra,9217,Caio Caetano,W,1,Choke from back,Dallas Open,82KG,F,2021
+25211,11697,Tainan Dalpra,8634,Rafael Vasconcelos,W,1,Pts: 2x0,Dallas Open,ABS,4F,2021
+25416,11697,Tainan Dalpra,,Alexander Lane,W,1,Armbar,Orlando Open,82KG,4F,2021
+25420,11697,Tainan Dalpra,9217,Caio Caetano,W,1,Choke from back,Orlando Open,82KG,SF,2021
+25421,11697,Tainan Dalpra,10506,Jeferson Guaresi,W,1,Pts: 5x0,Orlando Open,82KG,F,2021
+25740,11697,Tainan Dalpra,,Eric Ingram,W,1,Triangle,Charleston Open,82KG,SF,2021
+25742,11697,Tainan Dalpra,12338,Gialysson Freitas,W,1,Kneebar,Charleston Open,82KG,F,2021
+25800,11697,Tainan Dalpra,,Arian Macedo,W,1,Submission,Houston Open,82KG,SF,2021
+25801,11697,Tainan Dalpra,10835,Eduardo Avelar,W,1,Armbar,Houston Open,82KG,F,2021
+25816,11697,Tainan Dalpra,,Joshua Guerra,W,1,Choke from back,Houston Open,ABS,R1,2021
+25819,11697,Tainan Dalpra,12069,Bruno Matias,W,1,Ezekiel,Houston Open,ABS,4F,2021
+25822,11697,Tainan Dalpra,,Joseph Watson,W,1,Pts: 72x0,Houston Open,ABS,SF,2021
+25950,11697,Tainan Dalpra,10658,Matheus Luna,W,1,Armbar,Artista JJ,N/A,SPF,2021
+26267,11697,Tainan Dalpra,,Giann Moramarco,W,1,Choke from back,Miami Open,82KG,SF,2021
+26269,11697,Tainan Dalpra,,Lucas Valle,W,1,Choke from back,Miami Open,82KG,F,2021
+26597,11697,Tainan Dalpra,,Cesar Predes,W,1,Reverse triangle,EUG 2,77KG,4F,2021
+26765,11697,Tainan Dalpra,,Athos Miranda,W,1,Choke from back,BJJ Stars,82KG,SPF,2021
+26943,11697,Tainan Dalpra,,Rennick Kama,W,1,Choke from back,Austin Open,88KG,SF,2021
+26944,11697,Tainan Dalpra,,Nathan Santos,W,1,Armbar,Austin Open,88KG,F,2021
+27240,11697,Tainan Dalpra,,Rodrigo Gortari,W,1,Pts: 15x1,Grand Slam MIA,77KG,R1,2021
+27244,11697,Tainan Dalpra,12629,Fabricio Barbarotti,W,1,Choke from back,Grand Slam MIA,77KG,4F,2021
+27247,11697,Tainan Dalpra,9217,Caio Caetano,W,1,Armbar,Grand Slam MIA,77KG,SF,2021
+27590,11697,Tainan Dalpra,10295,Italo Moura,W,1,Pts: 29x0,Pan American,82KG,8F,2021
+27596,11697,Tainan Dalpra,9793,Alexandre Jesus,W,1,Kimura,Pan American,82KG,4F,2021
+27599,11697,Tainan Dalpra,10162,Ronaldo Junior,W,1,Injury,Pan American,82KG,SF,2021
+27601,11697,Tainan Dalpra,5347,Yago Souza,W,1,Pts: 2x0,Pan American,82KG,F,2021
+28674,11697,Tainan Dalpra,,Clay Mayfield,W,1,Armbar,Nashville Open,82KG,F,2021
+28988,11697,Tainan Dalpra,11658,Lucas Gualberto,W,1,Toe hold,BJJ Stars,82KG,SPF,2021
+29098,11697,Tainan Dalpra,7539,Renato Canuto,W,1,Pts: 9x2,IBJJF GP,82KG,SF,2021
+29099,11697,Tainan Dalpra,10103,Jonnatas Gracie,W,1,Choke from back,IBJJF GP,82KG,F,2021
+29525,11697,Tainan Dalpra,10506,Jeferson Guaresi,W,1,Toe hold,World Champ.,82KG,8F,2021
+29529,11697,Tainan Dalpra,10162,Ronaldo Junior,W,1,Pts: 8x4,World Champ.,82KG,4F,2021
+29531,11697,Tainan Dalpra,8105,Tommy Langaker,W,1,Choke from back,World Champ.,82KG,SF,2021
+29533,11697,Tainan Dalpra,7552,Isaque Bahiense,W,1,Pts: 8x6,World Champ.,82KG,F,2021
+30580,11697,Tainan Dalpra,,Jaakko Johanes,W,1,Mounted X choke,European Open,82KG,R1,2022
+30581,11697,Tainan Dalpra,,Pedro Matias,W,1,Violin armlock,European Open,82KG,4F,2022
+30584,11697,Tainan Dalpra,12654,Tarik Hopstock,W,1,Bow and arrow,European Open,82KG,SF,2022
+30586,11697,Tainan Dalpra,8105,Tommy Langaker,W,1,Armbar,European Open,82KG,F,2022
+30945,11697,Tainan Dalpra,,Erick Barroso,W,1,Triangle,LA Open,82KG,4F,2022
+30948,11697,Tainan Dalpra,,Vinicius Wong,W,1,Triangle,LA Open,82KG,SF,2022
+30950,11697,Tainan Dalpra,10509,Mathias Luna,W,1,Choke from back,LA Open,82KG,F,2022
+31670,11697,Tainan Dalpra,10880,Roberto Jimenez,W,1,Triangle,Pan American,82KG,R2,2022
+31676,11697,Tainan Dalpra,10835,Eduardo Avelar,W,1,Choke from back,Pan American,82KG,4F,2022
+31679,11697,Tainan Dalpra,10162,Ronaldo Junior,W,1,Pts: 2x0,Pan American,82KG,SF,2022
+31681,11697,Tainan Dalpra,10506,Jeferson Guaresi,W,1,Pts: 3x0,Pan American,82KG,F,2022
+32938,11697,Tainan Dalpra,9217,Caio Caetano,W,1,Choke from back,World Champ.,82KG,8F,2022
+32945,11697,Tainan Dalpra,12287,Pedro Maia,W,1,Pts: 6x0,World Champ.,82KG,4F,2022
+32949,11697,Tainan Dalpra,10162,Ronaldo Junior,W,1,Pts: 10x0,World Champ.,82KG,SF,2022
+32951,11697,Tainan Dalpra,11878,Andy Murasaki,W,1,Cachecol choke,World Champ.,82KG,F,2022
+34729,11697,Tainan Dalpra,,Rehan Muttalib,W,1,Triangle,JJ Con,82KG,SF,2022
+34731,11697,Tainan Dalpra,10835,Eduardo Avelar,W,1,Toe hold,JJ Con,82KG,F,2022
+35876,11697,Tainan Dalpra,12566,Rodrigo Tatu,W,1,Armbar,IBJJF GP,88KG,SPF,2022
+37210,11697,Tainan Dalpra,,Elder Junior,W,1,Choke from back,European Open,82KG,4F,2023
+37212,11697,Tainan Dalpra,12348,Lucas Protasio,W,1,Choke from back,European Open,82KG,SF,2023
+37213,11697,Tainan Dalpra,,Pavel Kalesnik,W,1,Choke from back,European Open,82KG,F,2023
+37851,11697,Tainan Dalpra,7552,Isaque Bahiense,W,1,Pts: 19x2,IBJJF GP,82KG,SPF,2023
+38409,11697,Tainan Dalpra,4542,Felipe Cesar,W,1,Pts: 11x0,Pan American,82KG,4F,2023
+38411,11697,Tainan Dalpra,8261,Rolando Samson,W,1,Choke from back,Pan American,82KG,SF,2023
+38413,11697,Tainan Dalpra,12287,Pedro Maia,W,1,Choke from back,Pan American,82KG,F,2023
+39500,11697,Tainan Dalpra,,Pedro Henrik,W,1,Armbar,Brasileiro,82KG,4F,2023
+39502,11697,Tainan Dalpra,9793,Alexandre Jesus,W,1,Choke from back,Brasileiro,82KG,SF,2023
+39503,11697,Tainan Dalpra,12287,Pedro Maia,W,1,Pts: 6x2,Brasileiro,82KG,F,2023
+40289,11697,Tainan Dalpra,,Bradley Hill,W,1,Armbar,World Champ.,82KG,8F,2023
+40294,11697,Tainan Dalpra,,Austin Oranday,W,1,Choke from back,World Champ.,82KG,4F,2023
+40296,11697,Tainan Dalpra,8261,Rolando Samson,W,1,Pts: 9x2,World Champ.,82KG,SF,2023
+41260,11697,Tainan Dalpra,,Paulo Ferreira,W,1,Choke from back,Asian Open,88KG,SF,2023
+41261,11697,Tainan Dalpra,,Rodrigo Lino,W,1,Armbar,Asian Open,88KG,F,2023
+41625,11697,Tainan Dalpra,,Burak Sarman,W,1,Cross choke,Tough Roll,82KG,SPF,2023
+42384,11697,Tainan Dalpra,6432,Yan Lucas,W,1,Armbar,IBJJF GP,82KG,SPF,2023

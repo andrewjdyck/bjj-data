@@ -1,0 +1,30 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+30623,12563,Guilherme Bacha,576,Rafael Lovato,L,0,Pts: 7x2,European Open,O100KG,F,2022
+30912,12563,Guilherme Bacha,8762,Rodrigo Ribeiro,L,0,Pts: 1x0,Dubai Pro,120KG,4F,2022
+31770,12563,Guilherme Bacha,2235,Renato Cardoso,L,0,Referee Decision,NAS Sports,100KG,F,2022
+32387,12563,Guilherme Bacha,,Anton Sleznev,L,0,Pts: 4x1,Grand Slam AD,120KG,SF,2022
+32390,12563,Guilherme Bacha,7537,Felipe Bezerra,L,0,Pts: 3x2,Grand Slam AD,120KG,RPC,2022
+33016,12563,Guilherme Bacha,10159,Victor Hugo,L,0,Bow and arrow,World Champ.,O100KG,4F,2022
+34857,12563,Guilherme Bacha,,Daniel Conceicao,L,0,Pts: 2x2,UAE Nat Pro,120KG,4F,2022
+35344,12563,Guilherme Bacha,8762,Rodrigo Ribeiro,L,0,Referee Decision,Asia Pro,120KG,F,2022
+36266,12563,Guilherme Bacha,8762,Rodrigo Ribeiro,L,0,Pts: 8x0,WP Qualifier,120KG,RR,2022
+36737,12563,Guilherme Bacha,11471,Tacio Carneiro,L,0,Referee Decision,Dublin Open,O100KG,F,2022
+36751,12563,Guilherme Bacha,,Karol Kania,L,0,N/A,Dublin NGO,ABS,4F,2022
+30614,12563,Guilherme Bacha,11471,Tacio Carneiro,W,1,Pts: 5x0,European Open,O100KG,R1,2022
+30619,12563,Guilherme Bacha,,Almog Britsch,W,1,Kimura,European Open,O100KG,4F,2022
+30621,12563,Guilherme Bacha,,Felipe Mauricio,W,1,Pts: 9x0,European Open,O100KG,SF,2022
+31764,12563,Guilherme Bacha,,Lucas Giraud,W,1,"Pts: 0x0, Adv",NAS Sports,100KG,4F,2022
+31768,12563,Guilherme Bacha,,S. Ramazan,W,1,Armbar,NAS Sports,100KG,SF,2022
+31815,12563,Guilherme Bacha,,Saquid Naser,W,1,Reverse triangle,President Cup,NA,NA,2022
+31824,12563,Guilherme Bacha,,Faisal Alharthi,W,1,Submission,President Cup,NA,NA,2022
+32383,12563,Guilherme Bacha,,Mansur Makh.,W,1,Pts: 4x2,Grand Slam AD,120KG,R1,2022
+32386,12563,Guilherme Bacha,12055,Yatan Bueno,W,1,Referee Decision,Grand Slam AD,120KG,4F,2022
+33012,12563,Guilherme Bacha,,Otavio Nalati,W,1,Referee Decision,World Champ.,O100KG,8F,2022
+34901,12563,Guilherme Bacha,,Ali AlMeqbali,W,1,Submission,VP Cup,120KG,4F,2022
+35343,12563,Guilherme Bacha,,Ithalo Lopes,W,1,Pts: 3x2,Asia Pro,120KG,SF,2022
+36265,12563,Guilherme Bacha,,Felippe Praia,W,1,Pts: 2x0,WP Qualifier,120KG,RR,2022
+36735,12563,Guilherme Bacha,,Patryc Wysocki,W,1,Kimura,Dublin Open,O100KG,SF,2022
+36743,12563,Guilherme Bacha,,Michael Arshag,W,1,Pts: 11x0,Dublin Open,ABS,SF,2022
+36744,12563,Guilherme Bacha,,Sean Coates,W,1,Pts: 2x0,Dublin Open,ABS,F,2022
+36959,12563,Guilherme Bacha,,Artur Gareev,W,1,Pts: 3x1,ACB World,O95KG,4F,2022
+36961,12563,Guilherme Bacha,,Eldar Sayidov,W,1,Submission,ACB World,O95KG,F,2022

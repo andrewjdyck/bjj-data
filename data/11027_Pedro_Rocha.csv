@@ -1,0 +1,62 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21465,11027,Pedro Rocha,7831,Diego Ramalho,L,0,Botinha,Las Vegas NGO,85KG,SF,2019
+21550,11027,Pedro Rocha,5417,Guilherme Augusto,L,0,Armbar,Dallas SMO,ABS,4F,2019
+22876,11027,Pedro Rocha,8116,Dante Leon,L,0,Triangle armbar,NoGi Worlds,79KG,4F,2019
+23207,11027,Pedro Rocha,6836,John Combs,L,0,Arm in guillotine,Kasai Pro 7,84KG,SPF,2020
+23811,11027,Pedro Rocha,8516,Lucas Valente,L,0,Points,3CG Kumite III,85KG,SPF,2020
+23975,11027,Pedro Rocha,10085,Johnatha Alves,L,0,RNC,Austin Open,ABS,SF,2020
+23994,11027,Pedro Rocha,10352,Leo Silva,L,0,Pts: 2x0,Oklahoma Open,82KG,SF,2020
+24398,11027,Pedro Rocha,10162,Ronaldo Junior,L,0,Pts: 22x2,Houston Open,88KG,F,2020
+24492,11027,Pedro Rocha,11808,Andrew Wiltse,L,0,"Pts: 0x0, Pen",No Gi Pan Am.,85KG,F,2020
+24585,11027,Pedro Rocha,11384,Andre Porfirio,L,0,"Pts: 0x0, Adv",American Nats,100KG,4F,2020
+25235,11027,Pedro Rocha,,Stanley Rosa,L,0,Outside heel hook,Dallas NGO,85KG,F,2021
+25836,11027,Pedro Rocha,,Stanley Rosa,L,0,N/A,Houston NGO,85KG,F,2021
+26147,11027,Pedro Rocha,10501,Valdir Araujo,L,0,Pts: 2x0,NoGi Pan Am.,85KG,8F,2021
+26619,11027,Pedro Rocha,12122,Mica Galvao,L,0,Inside heel hook,3CG MW GP,85KG,SF,2021
+26968,11027,Pedro Rocha,11707,Oliver Taza,L,0,Kneebar,Austin NGO,85KG,F,2021
+28306,11027,Pedro Rocha,10506,Jeferson Guaresi,L,0,Pts: 2x0,NoGi Worlds,85KG,F,2021
+33720,11027,Pedro Rocha,4460,Jaime Canuto,L,0,Pts: 2x0,Austin SMNGO,85KG,SF,2022
+33725,11027,Pedro Rocha,4460,Jaime Canuto,L,0,Pts: 2x0,Austin SMNGO,ABS,SF,2022
+36878,11027,Pedro Rocha,11384,Andre Porfirio,L,0,DQ,NoGi Worlds,91KG,4F,2022
+21470,11027,Pedro Rocha,8686,Fellipe Trovo,W,1,Pts: 2x0,Las Vegas NGO,ABS,F,2019
+21547,11027,Pedro Rocha,7636,Vinicius Garcia,W,1,Pts: 2x0,Dallas SMO,88KG,F,2019
+21556,11027,Pedro Rocha,7636,Vinicius Garcia,W,1,Guillotine,Dallas SNGO,85KG,F,2019
+21557,11027,Pedro Rocha,,Renato Tagliari,W,1,Reverse triangle,Dallas SNGO,88KG,SF,2019
+21558,11027,Pedro Rocha,,Tom Loubersanes,W,1,DQ,Dallas SNGO,88KG,F,2019
+21794,11027,Pedro Rocha,,Thiago Saldanha,W,1,RNC,Brasileiro NoGi,85KG,R1,2019
+21796,11027,Pedro Rocha,,Pedro Matias,W,1,Arm in guillotine,Brasileiro NoGi,85KG,4F,2019
+21798,11027,Pedro Rocha,,Joao Oliveira,W,1,Arm in guillotine,Brasileiro NoGi,85KG,SF,2019
+21799,11027,Pedro Rocha,9573,Marcos Martins,W,1,"Pts: 2x2, Adv",Brasileiro NoGi,85KG,F,2019
+23318,11027,Pedro Rocha,,David Olivier,W,1,RNC,New Orleans NGO,85KG,F,2020
+23971,11027,Pedro Rocha,,Orlando Castillo,W,1,Pts: 4x9,Austin Open,ABS,4F,2020
+23978,11027,Pedro Rocha,9407,Alexandre Molinaro,W,1,Pts: 2x0,Austin NGO,ABS,F,2020
+24487,11027,Pedro Rocha,,Timothy Welch,W,1,Pts: 4x2,No Gi Pan Am.,85KG,4F,2020
+24490,11027,Pedro Rocha,,Juan Cleber,W,1,Guillotine,No Gi Pan Am.,85KG,SF,2020
+24620,11027,Pedro Rocha,,Victor Braz,W,1,Guillotine,American NGN,85KG,SF,2020
+24621,11027,Pedro Rocha,,Enrique March,W,1,Guillotine,American NGN,85KG,F,2020
+25152,11027,Pedro Rocha,11707,Oliver Taza,W,1,Referee Decision,F2W 164,85KG,SPF,2021
+25233,11027,Pedro Rocha,,Avery Brooks,W,1,Arm in guillotine,Dallas NGO,85KG,SF,2021
+25759,11027,Pedro Rocha,,Tony Tipton,W,1,Guillotine,F2W 169,83KG,SPF,2021
+25834,11027,Pedro Rocha,,Arian Macedo,W,1,Guillotine,Houston NGO,85KG,SF,2021
+26617,11027,Pedro Rocha,8357,Gustavo Batista,W,1,Referee Decision,3CG MW GP,85KG,4F,2021
+26967,11027,Pedro Rocha,,Rennick Kama,W,1,Pts: 14x0,Austin NGO,85KG,SF,2021
+28295,11027,Pedro Rocha,,Enrique March,W,1,Guillotine,NoGi Worlds,85KG,8F,2021
+28303,11027,Pedro Rocha,8427,Michael Perez,W,1,Guillotine,NoGi Worlds,85KG,4F,2021
+28304,11027,Pedro Rocha,,Hunter Newton,W,1,Guillotine,NoGi Worlds,85KG,SF,2021
+35247,11027,Pedro Rocha,,Joao Braz,W,1,Guillotine,Atlanta FNGO,91KG,SF,2022
+35249,11027,Pedro Rocha,,Hunter Colvin,W,1,"Pts: 0x0, Adv",Atlanta FNGO,91KG,F,2022
+35569,11027,Pedro Rocha,12922,Elder Cruz,W,1,Pts: 4x0,NoGi Pan,91KG,4F,2022
+35572,11027,Pedro Rocha,,Alejandro Tolmos,W,1,Guillotine,NoGi Pan,91KG,SF,2022
+35573,11027,Pedro Rocha,,Thiago Saldanha,W,1,Guillotine,NoGi Pan,91KG,F,2022
+36873,11027,Pedro Rocha,,Jhonnan Carreno,W,1,Guillotine,NoGi Worlds,91KG,R1,2022
+37342,11027,Pedro Rocha,,Thiago Andrade,W,1,Guillotine,Austin WNGO,91KG,F,2023
+37766,11027,Pedro Rocha,11939,Jackson Douglas,W,1,Pts: 2x0,Memphis NGO,ABS,SF,2023
+37768,11027,Pedro Rocha,,Omer Emanoely,W,1,Pts: 8x0,Memphis NGO,ABS,F,2023
+37902,11027,Pedro Rocha,,Alejandro Tolmos,W,1,"Pts: 0x0, Adv",Dallas NGO,91KG,SF,2023
+37903,11027,Pedro Rocha,,Ben Hodgkinson,W,1,Guillotine,Dallas NGO,91KG,F,2023
+42351,11027,Pedro Rocha,,Dilano Taylor,W,1,"Pts: 0x0, Adv",JJ Con NG,91KG,4F,2023
+42353,11027,Pedro Rocha,,Timothy Dawson,W,1,Guillotine,JJ Con NG,91KG,SF,2023
+42355,11027,Pedro Rocha,5655,Lucas Barbosa,W,1,Guillotine,JJ Con NG,91KG,F,2023
+43184,11027,Pedro Rocha,,Marcos Carrozzino,W,1,Pts: 4x0,NoGi Pan,ABS,8F,2023
+43188,11027,Pedro Rocha,13076,Francisco Lo,W,1,"Pts: 2x2, Adv",NoGi Pan,ABS,4F,2023
+43190,11027,Pedro Rocha,13432,Luccas Lira,W,1,Guillotine,NoGi Pan,ABS,SF,2023

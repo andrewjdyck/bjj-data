@@ -1,0 +1,51 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4201,4859,Ricardo Rezende,3443,Leonardo Davila,L,0,Points,Miami Open,ABS,SF,2012
+4747,4859,Ricardo Rezende,2403,Joao Rocha,L,0,Submission,World Champ.,ABS,RDS,2013
+5087,4859,Ricardo Rezende,1827,James Puopolo,L,0,Kneebar,World Expo,ABS,GP,2013
+5118,4859,Ricardo Rezende,576,Rafael Lovato,L,0,Points,NoGi Worlds,O100KG,SF,2013
+6008,4859,Ricardo Rezende,1740,Yuri Simoes,L,0,Pts: 2x0,NoGi Worlds,ABS,RDS,2014
+6041,4859,Ricardo Rezende,3009,Keenan Cornelius,L,0,North South choke,NoGi Worlds,88KG,R1,2014
+8291,4859,Ricardo Rezende,4235,Victor Silverio,L,0,"Pts: 0x0, Adv",Miami Open,88KG,SF,2015
+8294,4859,Ricardo Rezende,4145,Thiago Sa,L,0,Referee Decision,Miami Open,ABS,SF,2015
+9890,4859,Ricardo Rezende,9711,Jurandir Conceicao,L,0,Omoplata,Miami SPO,88KG,F,2016
+10004,4859,Ricardo Rezende,4460,Jaime Canuto,L,0,Adv,World Champ.,82KG,R2,2016
+10083,4859,Ricardo Rezende,1188,Leandro Lo,L,0,Pts: 11x0,World Champ.,ABS,R2,2016
+27256,4859,Ricardo Rezende,4460,Jaime Canuto,L,0,Pts: 3x0,Grand Slam MIA,85KG,SF,2021
+27258,4859,Ricardo Rezende,,Lucas Moutinho,L,0,Pts: 4x1,Grand Slam MIA,85KG,RPC,2021
+33764,4859,Ricardo Rezende,4542,Felipe Cesar,L,0,N/A,Orlando SMO,88KG,4F,2022
+33778,4859,Ricardo Rezende,12897,Elijah Dorsey,L,0,Pts: 2x0,Orlando SMO,ABS,R1,2022
+33808,4859,Ricardo Rezende,10506,Jeferson Guaresi,L,0,Adv,Orlando SMNGO,85KG,SF,2022
+39250,4859,Ricardo Rezende,10880,Roberto Jimenez,L,0,Triangle,Miami Open,94KG,F,2023
+39259,4859,Ricardo Rezende,12215,Sebastian Rodriguez,L,0,Pts: 17x0,Miami Open,ABS,4F,2023
+4197,4859,Ricardo Rezende,1986,Vitor Toledo,W,1,DQ,Miami Open,88KG,F,2012
+4199,4859,Ricardo Rezende,921,Rafael Barbosa,W,1,Points,Miami Open,ABS,4F,2012
+4385,4859,Ricardo Rezende,6156,Tanner Rice,W,1,Points,Miami Pro Trials,85KG,NA,2013
+4731,4859,Ricardo Rezende,,Motta,W,1,N/A,World Champ.,ABS,RDS,2013
+5089,4859,Ricardo Rezende,7519,Eliot Kelly,W,1,Armbar,World Expo,ABS,GP,2013
+5091,4859,Ricardo Rezende,,T. Stevens,W,1,Triangle armbar,World Expo,ABS,GP,2013
+5092,4859,Ricardo Rezende,,Alessandro Ferreira,W,1,Triangle armbar,World Expo,ABS,GP,2013
+5093,4859,Ricardo Rezende,3200,Jackson Sousa,W,1,"Pts: 0x0, Adv",World Expo,ABS,SF,2013
+5095,4859,Ricardo Rezende,1827,James Puopolo,W,1,Toe hold,World Expo,ABS,F,2013
+5180,4859,Ricardo Rezende,,Marcus Vinicius,W,1,Points,Miami Open,88KG,F,2013
+5424,4859,Ricardo Rezende,,Unknown,W,1,Triangle armbar,Copa America,ABS,GP,2014
+5425,4859,Ricardo Rezende,,Nic. Recanati,W,1,Pts: 4x0,Copa America,ABS,GP,2014
+5426,4859,Ricardo Rezende,,Unknown,W,1,Armbar,Copa America,ABS,GP,2014
+6004,4859,Ricardo Rezende,4328,AJ Agazarm,W,1,"Pts: 2x2, Adv",NoGi Worlds,ABS,RDS,2014
+6078,4859,Ricardo Rezende,,Danilo Indio,W,1,Armbar,World Expo,ABS,SPF,2014
+6263,4859,Ricardo Rezende,1523,Clark Gracie,W,1,Pts: 11x2,FIVE NAIC,82KG,NA,2014
+6276,4859,Ricardo Rezende,,Ezra Lenon,W,1,Pts: 6x0,FIVE NAIC,ABS,RR,2014
+6281,4859,Ricardo Rezende,6368,Kevin Mahecha,W,1,Pts: 2x0,FIVE NAIC,ABS,F,2014
+7355,4859,Ricardo Rezende,,Jack Magee,W,1,Armbar,British Open,88KG,F,2015
+9889,4859,Ricardo Rezende,1322,Gregor Gracie,W,1,Americana,Miami SPO,88KG,SF,2016
+9897,4859,Ricardo Rezende,,Jollyson Francino,W,1,Triangle armbar,Miami SPO,ABS,4F,2016
+9900,4859,Ricardo Rezende,4235,Victor Silverio,W,1,Armbar,Miami SPO,ABS,SF,2016
+10075,4859,Ricardo Rezende,,Augusto Mugnami,W,1,"Pts: 2x2, Adv",World Champ.,ABS,R1,2016
+18750,4859,Ricardo Rezende,,Alex Moran,W,1,Outside heel hook,SubStars,ABS,RR,2018
+18751,4859,Ricardo Rezende,,Tommy Kuno,W,1,Points,SubStars,ABS,RR,2018
+18752,4859,Ricardo Rezende,10501,Valdir Araujo,W,1,Points,SubStars,ABS,RR,2018
+21116,4859,Ricardo Rezende,,Broc Hooten,W,1,Submission,Sub Stars,SPF,SPF,2019
+27254,4859,Ricardo Rezende,11646,Andre Gois,W,1,Triangle,Grand Slam MIA,85KG,4F,2021
+33806,4859,Ricardo Rezende,,Matt Kelley,W,1,N/A,Orlando SMNGO,85KG,4F,2022
+39255,4859,Ricardo Rezende,,Joao Oliveira,W,1,Kimura,Miami Open,ABS,R1,2023
+41029,4859,Ricardo Rezende,,Heitor Senra,W,1,Pts: 1x0,Jacksonville Pro,85KG,SF,2023
+41031,4859,Ricardo Rezende,,Adolfo Suarez,W,1,Pts: 5x0,Jacksonville Pro,85KG,F,2023

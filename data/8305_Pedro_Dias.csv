@@ -1,0 +1,90 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+14043,8305,Pedro Dias,6151,Hiago George,L,0,Pts: 2x0,Brasileiro NoGi,61KG,F,2017
+14322,8305,Pedro Dias,6151,Hiago George,L,0,Armbar,Grand Slam RJ,62KG,SF,2017
+14326,8305,Pedro Dias,5789,Tiago Barros,L,0,"Pts: 0x0, Adv",Grand Slam RJ,62KG,3RD,2017
+14607,8305,Pedro Dias,6258,Rodnei Barbosa,L,0,Referee Decision,ACB JJ Worlds,60KG,F,2017
+14625,8305,Pedro Dias,7704,Helton Jose,L,0,Pts: 4x0,ACB JJ Worlds,ABS,4F,2017
+15477,8305,Pedro Dias,6151,Hiago George,L,0,"Pts: 2x2, Adv",Grand Slam LDN,62KG,SF,2018
+16445,8305,Pedro Dias,8874,Thomas Lisboa,L,0,Injury,World Champ.,64KG,R1,2018
+17549,8305,Pedro Dias,9051,Gabriel Sousa,L,0,Referee Decision,Grand Slam LA,62KG,SF,2018
+18034,8305,Pedro Dias,6151,Hiago George,L,0,Points,Rio BJJ Pro,70KG,F,2018
+18791,8305,Pedro Dias,6151,Hiago George,L,0,"Pts: 0x0, Adv",Grand Slam AD,62KG,4F,2019
+18879,8305,Pedro Dias,6151,Hiago George,L,0,Violin armlock,European Open,64KG,SF,2019
+19416,8305,Pedro Dias,6151,Hiago George,L,0,Choke from back,Grand Slam LDN,62KG,4F,2019
+19421,8305,Pedro Dias,2997,Joao Miyao,L,0,"Pts: 0x0, Adv",Grand Slam LDN,62KG,RR,2019
+19562,8305,Pedro Dias,,Fernando Soares,L,0,"Pts: 2x2, Adv",Pan American,64KG,8F,2019
+19915,8305,Pedro Dias,8351,Joao Neto,L,0,N/A,Curitiba Pro,70KG,4F,2019
+20585,8305,Pedro Dias,6151,Hiago George,L,0,Pts: 2x0,World Champ.,64KG,4F,2019
+21649,8305,Pedro Dias,6151,Hiago George,L,0,Botinha,Grand Slam LA,62KG,4F,2019
+22561,8305,Pedro Dias,9094,Richar Nogueira,L,0,"Pts: 0x0, Adv",South American,70KG,F,2019
+23068,8305,Pedro Dias,10840,Diego Oliveira,L,0,Triangle,European Open,64KG,4F,2020
+24005,8305,Pedro Dias,,Suraj Budhram,L,0,Referee Decision,Grand Slam MIA,62KG,SF,2020
+24009,8305,Pedro Dias,,Bebeto Oliveira,L,0,Pts: 2x0,Grand Slam MIA,62KG,3RD,2020
+24126,8305,Pedro Dias,11568,Josh Cisneros,L,0,"Pts: 2x2, Adv",Pan American,64KG,F,2020
+26988,8305,Pedro Dias,5414,Osvaldo Moizinho,L,0,Referee Decision,F2W 178,70KG,SPF,2021
+29464,8305,Pedro Dias,10155,Malachi Edmond,L,0,Referee Decision,World Champ.,64KG,4F,2021
+31618,8305,Pedro Dias,6060,Tomoyuki Hashimoto,L,0,"Pts: 2x2, Adv",Pan American,64KG,4F,2022
+32435,8305,Pedro Dias,10928,Pedro Serrano,L,0,Referee Decision,SD Open,70KG,SF,2022
+32877,8305,Pedro Dias,11423,Meyram Maquine,L,0,Choke from back,World Champ.,64KG,4F,2022
+34704,8305,Pedro Dias,11889,Keven Carrasco,L,0,Referee Decision,JJ Con,64KG,SF,2022
+37859,8305,Pedro Dias,13341,Zach Kaina,L,0,"Pts: 0x0, Adv",Dallas Open,64KG,SF,2023
+38346,8305,Pedro Dias,11889,Keven Carrasco,L,0,Referee Decision,Pan American,64KG,R1,2023
+40210,8305,Pedro Dias,7657,Cleber Sousa,L,0,"Pts: 0x0, Adv",World Champ.,64KG,8F,2023
+41544,8305,Pedro Dias,12573,Sebastian Serpa,L,0,"Pts: 0x0, Adv",Orlando SMO,70KG,F,2023
+42130,8305,Pedro Dias,12573,Sebastian Serpa,L,0,Points,Chicago SMO,70KG,RR,2023
+42258,8305,Pedro Dias,11794,Willis Nunes,L,0,Pts: 2x0,JJ Con,64KG,SF,2023
+13501,8305,Pedro Dias,,Unknown,W,1,Pts: 2x0,Curitiba W. Open,64KG,4F,2017
+13502,8305,Pedro Dias,,Douglas Machado,W,1,Pts: 4x2,Curitiba W. Open,64KG,SF,2017
+13553,8305,Pedro Dias,,Fernando Gomes,W,1,Choke from back,Vitoria Open,64KG,4F,2017
+13555,8305,Pedro Dias,,Gustavo Leal,W,1,Pts: 6x0,Vitoria Open,64KG,SF,2017
+14039,8305,Pedro Dias,,Thales Nakassu,W,1,Pts: 2x0,Brasileiro NoGi,61KG,4F,2017
+14041,8305,Pedro Dias,,Kevlyn Pontes,W,1,Pts: 4x0,Brasileiro NoGi,61KG,SF,2017
+14316,8305,Pedro Dias,,Kevlyn Pontes,W,1,Pts: 5x0,Grand Slam RJ,62KG,R1,2017
+14320,8305,Pedro Dias,8038,Hiago Gama,W,1,DQ,Grand Slam RJ,62KG,4F,2017
+14323,8305,Pedro Dias,,Luis Costa,W,1,"Pts: 0x0, Adv",Grand Slam RJ,62KG,RPC,2017
+14605,8305,Pedro Dias,3028,Leandro Escobar,W,1,Points,ACB JJ Worlds,60KG,SF,2017
+15476,8305,Pedro Dias,9377,Alexis Alduncin,W,1,Pts: 2x0,Grand Slam LDN,62KG,4F,2018
+15480,8305,Pedro Dias,,Jorge Nakamura,W,1,"Pts: 2x2, Adv",Grand Slam LDN,62KG,RPC,2018
+15482,8305,Pedro Dias,,Wellington Lima,W,1,Pts: 4x0,Grand Slam LDN,62KG,RPC,2018
+15678,8305,Pedro Dias,,Bruno Celio,W,1,Points,Rome Open,64KG,SF,2018
+15679,8305,Pedro Dias,,Anthony Oliveira,W,1,Points,Rome Open,64KG,F,2018
+17547,8305,Pedro Dias,,G. Carvalho,W,1,Pts: 10x0,Grand Slam LA,62KG,4F,2018
+17553,8305,Pedro Dias,,Matheus Magalhaes,W,1,Pts: 3x0,Grand Slam LA,62KG,RR,2018
+17555,8305,Pedro Dias,,Rene Lopez,W,1,Pts: 2x0,Grand Slam LA,62KG,3RD,2018
+18032,8305,Pedro Dias,,Pedro Azevedo,W,1,Points,Rio BJJ Pro,70KG,SF,2018
+18873,8305,Pedro Dias,8536,Yuta Shimada,W,1,"Pts: 0x0, Pen",European Open,64KG,R1,2019
+18876,8305,Pedro Dias,,Willian Oliveira,W,1,Pts: 4x2,European Open,64KG,4F,2019
+19537,8305,Pedro Dias,9502,Nobuhiro Sawada,W,1,Referee Decision,Polaris 9,62KG,SPF,2019
+20581,8305,Pedro Dias,,Hideyuki Yamada,W,1,Pts: 2x0,World Champ.,64KG,R2,2019
+20923,8305,Pedro Dias,6043,Lucas Pinheiro,W,1,"Pts: 2x2, Adv",American Nats,64KG,F,2019
+21270,8305,Pedro Dias,11093,Emilio Hernandez,W,1,Pts: 4x0,Chicago SMO,70KG,F,2019
+21278,8305,Pedro Dias,11093,Emilio Hernandez,W,1,Pts: 2x0,Chicago SMNGO,67KG,F,2019
+21408,8305,Pedro Dias,,Douglas Lima,W,1,Points,Las Vegas Open,64KG,4F,2019
+21411,8305,Pedro Dias,,Suraj Budhram,W,1,Points,Las Vegas Open,64KG,SF,2019
+22555,8305,Pedro Dias,,Leandro Gabriel,W,1,Pts: 6x4,South American,70KG,R1,2019
+22556,8305,Pedro Dias,,Felipe Wolga,W,1,Pts: 10x0,South American,70KG,4F,2019
+22559,8305,Pedro Dias,,Edward Hohl,W,1,Points,South American,70KG,SF,2019
+24008,8305,Pedro Dias,,Connor Welle,W,1,Pts: 5x0,Grand Slam MIA,62KG,RPC,2020
+24119,8305,Pedro Dias,,Vinny Saenz,W,1,Pts: 2x0,Pan American,64KG,R1,2020
+24122,8305,Pedro Dias,,Bebeto Oliveira,W,1,Pts: 2x0,Pan American,64KG,4F,2020
+24124,8305,Pedro Dias,,Taniel Jesus,W,1,Pts: 10x0,Pan American,64KG,SF,2020
+26653,8305,Pedro Dias,,Joao Soeiro,W,1,"Pts: 0x0, Adv",American Nats,64KG,F,2021
+27532,8305,Pedro Dias,12487,Gabriel Gaudio,W,1,Pts: 5x0,Pan American,64KG,8F,2021
+27535,8305,Pedro Dias,11889,Keven Carrasco,W,1,"Pts: 0x0, Adv",Pan American,64KG,4F,2021
+27539,8305,Pedro Dias,12247,Jordan Vaisman,W,1,Pts: 2x0,Pan American,64KG,SF,2021
+28426,8305,Pedro Dias,6043,Lucas Pinheiro,W,1,Referee Decision,SUBVERSIV 6,65KG,SPF,2021
+29458,8305,Pedro Dias,,Matheus Onda,W,1,Pts: 4x2,World Champ.,64KG,8F,2021
+31611,8305,Pedro Dias,,Vinny Saenz,W,1,Referee Decision,Pan American,64KG,R2,2022
+32572,8305,Pedro Dias,,Pierre Pires,W,1,Pts: 19x0,Chicago SPO,64KG,SF,2022
+32573,8305,Pedro Dias,,Luis Ninja,W,1,Arm in Ezekiel,Chicago SPO,64KG,F,2022
+34520,8305,Pedro Dias,11093,Emilio Hernandez,W,1,Points,Chicago SMO,70KG,SF,2022
+34521,8305,Pedro Dias,12573,Sebastian Serpa,W,1,Pts: 4x2,Chicago SMO,70KG,F,2022
+34700,8305,Pedro Dias,,Shoya Ishiguro,W,1,Pts: 2x0,JJ Con,64KG,4F,2022
+37783,8305,Pedro Dias,,Matheus Fonseca,W,1,Pts: 6x0,Tampa Open,64KG,SF,2023
+37784,8305,Pedro Dias,12940,Cory Walker,W,1,Referee Decision,Tampa Open,64KG,F,2023
+37856,8305,Pedro Dias,,Matheus Azancot,W,1,Adv,Dallas Open,64KG,4F,2023
+39181,8305,Pedro Dias,,Misha Kanai,W,1,Points,Chicago SPO,64KG,F,2023
+40201,8305,Pedro Dias,,Kalel Santos,W,1,Pts: 2x0,World Champ.,64KG,R1,2023
+41542,8305,Pedro Dias,,JP Rocha,W,1,"Pts: 2x2, Adv",Orlando SMO,70KG,SF,2023
+42129,8305,Pedro Dias,11093,Emilio Hernandez,W,1,Points,Chicago SMO,70KG,RR,2023
+42257,8305,Pedro Dias,,Isaiah Madrid,W,1,Pts: 33x0,JJ Con,64KG,4F,2023

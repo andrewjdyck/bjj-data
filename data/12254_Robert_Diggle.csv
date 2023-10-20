@@ -1,0 +1,57 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27482,12254,Robert Diggle,9934,Deandre Corbe,L,0,Pts: 2x0,Newbreed,71KG,F,2021
+27740,12254,Robert Diggle,,D. Groot,L,0,"Pts: 2x2, Pen",GI Amsterdam,70KG,RR,2021
+28374,12254,Robert Diggle,,Kamil Wilk,L,0,Referee Decision,Polaris 17,70KG,SPF,2021
+28783,12254,Robert Diggle,11093,Emilio Hernandez,L,0,"Pts: 0x0, Pen",ADCC EC Trials,66KG,R2,2021
+29783,12254,Robert Diggle,9401,Ashley Williams,L,0,RNC,Grapple Kings,73KG,SPF,2021
+31515,12254,Robert Diggle,12491,Keith Krikorian,L,0,Inside heel hook,ADCC WC Trials,66KG,8F,2022
+42559,12254,Robert Diggle,,O. Jones,L,0,Pts: 5x0,ADCC EU Trials,66KG,8F,2023
+27480,12254,Robert Diggle,,Timothy Johnson,W,1,Inside heel hook,Newbreed,71KG,SF,2021
+27485,12254,Robert Diggle,,Omar Lane,W,1,Inside heel hook,Newbreed,76KG,SF,2021
+27486,12254,Robert Diggle,9934,Deandre Corbe,W,1,Pts: 4x2,Newbreed,76KG,F,2021
+27736,12254,Robert Diggle,,Jan Brand,W,1,Inside heel hook,GI Amsterdam,70KG,RR,2021
+27737,12254,Robert Diggle,,Guillaume Prada,W,1,Inside heel hook,GI Amsterdam,70KG,RR,2021
+27738,12254,Robert Diggle,,Jesse Comer,W,1,Inside heel hook,GI Amsterdam,70KG,RR,2021
+27739,12254,Robert Diggle,,Bart Dubbeldam,W,1,Inside heel hook,GI Amsterdam,70KG,RR,2021
+28414,12254,Robert Diggle,,Davis Giadoo,W,1,RNC,G.I. Austin,70KG,RR,2021
+28415,12254,Robert Diggle,,Sean Bleamaster,W,1,Heel hook,G.I. Austin,70KG,RR,2021
+28416,12254,Robert Diggle,,Ryan Ruiz,W,1,RNC,G.I. Austin,70KG,RR,2021
+28417,12254,Robert Diggle,,Gabriel Litman,W,1,Heel hook,G.I. Austin,70KG,RR,2021
+28698,12254,Robert Diggle,,Jose Fernandez,W,1,Submission,G.I. Boston,70KG,RR,2021
+28699,12254,Robert Diggle,,Ben Deschenes,W,1,Reverse triangle,G.I. Boston,70KG,RR,2021
+28700,12254,Robert Diggle,,R. Shaughnessy,W,1,Inside heel hook,G.I. Boston,70KG,RR,2021
+28770,12254,Robert Diggle,,Jason Valle,W,1,Inside heel hook,ADCC EC Trials,66KG,R1,2021
+29686,12254,Robert Diggle,,A. Auriemma,W,1,Pts: 10x0,Grappling Ind.,77KG,RR,2021
+29687,12254,Robert Diggle,,Joseph Ronan,W,1,Heel hook,Grappling Ind.,77KG,RR,2021
+29688,12254,Robert Diggle,,Nathan Ray,W,1,Heel hook,Grappling Ind.,77KG,RR,2021
+29689,12254,Robert Diggle,,Nicholas Toscano,W,1,Heel hook,Grappling Ind.,77KG,RR,2021
+29808,12254,Robert Diggle,,Andrew Auriemma,W,1,Pts: 10x0,Grappling Ind.,77KG,RR,2021
+29809,12254,Robert Diggle,,Joseph Ronan,W,1,Inside heel hook,Grappling Ind.,77KG,RR,2021
+29810,12254,Robert Diggle,,Nathan Ray,W,1,Inside heel hook,Grappling Ind.,77KG,RR,2021
+29811,12254,Robert Diggle,,Nicholas Toscano,W,1,Inside heel hook,Grappling Ind.,77KG,RR,2021
+29849,12254,Robert Diggle,,Dylan Spyer,W,1,Pts: 7x0,NAGA Austin,72KG,4F,2022
+29850,12254,Robert Diggle,,Jay Little,W,1,Mikey lock,NAGA Austin,72KG,SF,2022
+29851,12254,Robert Diggle,,Zade Anbar,W,1,Inside heel hook,NAGA Austin,72KG,F,2022
+30172,12254,Robert Diggle,,Angel Cruz,W,1,Referee Decision,F2W 193,73KG,SPF,2022
+31468,12254,Robert Diggle,,Jordan Wirth,W,1,Inside heel hook,ADCC WC Trials,66KG,R1,2022
+31483,12254,Robert Diggle,,Dillon Drewberry,W,1,Pts: 3x0,ADCC WC Trials,66KG,R2,2022
+31499,12254,Robert Diggle,,CJ Murdock,W,1,Inside heel hook,ADCC WC Trials,66KG,R3,2022
+32831,12254,Robert Diggle,,Linus Tefke,W,1,Inside heel hook,ADCC Sweden,66KG,R1,2022
+32832,12254,Robert Diggle,,Isak Helin,W,1,Inside heel hook,ADCC Sweden,66KG,4F,2022
+32833,12254,Robert Diggle,,Pontus Agren,W,1,Inside heel hook,ADCC Sweden,66KG,SF,2022
+32834,12254,Robert Diggle,,Aziz Makhmudov,W,1,Inside heel hook,ADCC Sweden,66KG,F,2022
+36974,12254,Robert Diggle,,M. Kuznetsov,W,1,Pts: 9x0,Siam Cup,73KG,4F,2022
+36975,12254,Robert Diggle,,Ben Boyle,W,1,Pts: 2x0,Siam Cup,73KG,SF,2022
+36976,12254,Robert Diggle,,Denny Sisti,W,1,Inside heel hook,Siam Cup,73KG,F,2022
+36977,12254,Robert Diggle,,Paul Lim,W,1,Inside heel hook,ADCC SG,77KG,4F,2022
+36978,12254,Robert Diggle,,Glen Lee,W,1,Inside heel hook,ADCC SG,77KG,SF,2022
+36979,12254,Robert Diggle,,Maher Aseeri,W,1,Inside heel hook,ADCC SG,77KG,F,2022
+36980,12254,Robert Diggle,,Alik Khadartsev,W,1,Inside heel hook,ADCC SEA,66KG,4F,2023
+36981,12254,Robert Diggle,,Hayden Baldwin,W,1,Outside heel hook,ADCC SEA,66KG,SF,2023
+36982,12254,Robert Diggle,,Hisyam Osman,W,1,Inside heel hook,ADCC SEA,66KG,F,2023
+40516,12254,Robert Diggle,,B. Karymbay,W,1,Outside heel hook,AIGA,70KG,NA,2023
+40518,12254,Robert Diggle,,Henrique Cordeiro,W,1,Inside heel hook,AIGA,70KG,4F,2023
+40520,12254,Robert Diggle,,Sejlhan Bohatek,W,1,Inside heel hook,AIGA,70KG,SF,2023
+42533,12254,Robert Diggle,,Nikola Mitev,W,1,Inside heel hook,ADCC EU Trials,66KG,R1,2023
+42534,12254,Robert Diggle,,Mateusz Okurowski,W,1,Inside heel hook,ADCC EU Trials,66KG,R2,2023
+42549,12254,Robert Diggle,,Huseyn Abaszada,W,1,Inside heel hook,ADCC EU Trials,66KG,16F,2023

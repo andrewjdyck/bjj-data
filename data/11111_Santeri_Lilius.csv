@@ -1,0 +1,111 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+7036,11111,Santeri Lilius,7321,Darragh OConaill,L,0,Baseball bat choke,Rome Open,88KG,SF,2015
+8826,11111,Santeri Lilius,7082,Luca Anacoreta,L,0,Armbar,London FO,88KG,F,2015
+8830,11111,Santeri Lilius,7082,Luca Anacoreta,L,0,Armbar,London FO,ABS,SF,2015
+8833,11111,Santeri Lilius,7652,C. Negromonte,L,0,Triangle armbar,London FNGO,85KG,F,2015
+9134,11111,Santeri Lilius,7831,Diego Ramalho,L,0,Points,London WO,88KG,F,2016
+9996,11111,Santeri Lilius,2107,Otavio Sousa,L,0,Choke from back,World Champ.,82KG,R2,2016
+10750,11111,Santeri Lilius,7082,Luca Anacoreta,L,0,Choke from back,London F. Open,88KG,SF,2016
+11291,11111,Santeri Lilius,7399,Horlando Monteiro,L,0,Pts: 4x2,Berlin Open,82KG,RR,2016
+11293,11111,Santeri Lilius,7399,Horlando Monteiro,L,0,Monted triangle,Berlin Open,82KG,F,2016
+11596,11111,Santeri Lilius,,Bruno Borzani,L,0,Submission,European Open,88KG,R1,2017
+12024,11111,Santeri Lilius,3200,Jackson Sousa,L,0,Kneebar,London WO,ABS,SF,2017
+12068,11111,Santeri Lilius,7652,C. Negromonte,L,0,Ezekiel,Grand Slam LDN,85KG,F,2017
+13138,11111,Santeri Lilius,5636,Manuel Ribamar,L,0,Pts: 19x0,World Champ.,82KG,R1,2017
+14930,11111,Santeri Lilius,8105,Tommy Langaker,L,0,RNC,European Open,82KG,R2,2018
+15170,11111,Santeri Lilius,,Bradley Hill,L,0,Referee Decision,Polaris 6,84KG,SPF,2018
+15333,11111,Santeri Lilius,9554,Henrique Cardoso,L,0,Bow and arrow,London WO,88KG,SF,2018
+15465,11111,Santeri Lilius,,Mathias Ribeiro,L,0,Referee Decision,Spanish Nat.,82KG,F,2018
+15846,11111,Santeri Lilius,8308,Max Lindblad,L,0,Choke from back,Finnish Open,82KG,F,2018
+17960,11111,Santeri Lilius,7652,C. Negromonte,L,0,Pts: 8x0,German Nat. Pro,85KG,F,2018
+18921,11111,Santeri Lilius,7399,Horlando Monteiro,L,0,Triangle armbar,European Open,88KG,4F,2019
+19541,11111,Santeri Lilius,9587,Eduardo Rios,L,0,Referee Decision,Polaris 9,85KG,SPF,2019
+20992,11111,Santeri Lilius,4145,Thiago Sa,L,0,Pts: 2x9,Spanish Nats,94KG,SF,2019
+21396,11111,Santeri Lilius,7652,C. Negromonte,D,0.5,---,Battle Grapple,85KG,SPF,2019
+22179,11111,Santeri Lilius,7478,Adam Wardzinski,L,0,Pts: 13x9,European NoGi,91KG,SF,2019
+22190,11111,Santeri Lilius,9157,Devhonte Johnson,L,0,Pts: 6x0,European NoGi,ABS,R1,2019
+23048,11111,Santeri Lilius,8514,Fellipe Andrew,L,0,Triangle,European Open,ABS,R2,2020
+23130,11111,Santeri Lilius,10176,Bruno Lima,L,0,"Pts: 0x0, Adv",European Open,88KG,SF,2020
+23657,11111,Santeri Lilius,3200,Jackson Sousa,L,0,Pts: 9x4,Grand Slam LDN,94KG,SF,2020
+30708,11111,Santeri Lilius,13162,Jacob Couch,L,0,Referee Decision,GrappleFest 11,90KG,SPF,2022
+31143,11111,Santeri Lilius,12346,Catriel Oliveira,L,0,Pts: 1x0,Grand Slam LDN,94KG,SF,2022
+35033,11111,Santeri Lilius,5655,Lucas Barbosa,L,0,Pts: 3x0,ADCC,88KG,R1,2022
+36882,11111,Santeri Lilius,11384,Andre Porfirio,L,0,Kneebar,NoGi Worlds,91KG,SF,2022
+38526,11111,Santeri Lilius,,Luke Griffith,L,0,Inside heel hook,GrappleFest,92KG,SPF,2023
+42512,11111,Santeri Lilius,11735,Nicky Ryan,D,0.5,---,Quintet 4,ABS,NA,2023
+7035,11111,Santeri Lilius,,Gareth Neal,W,1,Pts: 4x2,Rome Open,88KG,SF,2015
+8804,11111,Santeri Lilius,,Ertan Balaban,W,1,Bow and arrow,Berlin Open,88KG,SF,2015
+8805,11111,Santeri Lilius,,Radoslaw Turek,W,1,Injury,Berlin Open,88KG,F,2015
+8809,11111,Santeri Lilius,,Radoslaw Turek,W,1,Estima lock,Berlin NoGi Open,85KG,SF,2015
+8810,11111,Santeri Lilius,,Marco Machado,W,1,Triangle armbar,Berlin NoGi Open,85KG,F,2015
+8825,11111,Santeri Lilius,,Francisco Caraballo,W,1,Toe hold,London FO,88KG,SF,2015
+8827,11111,Santeri Lilius,,Hassine Azarkan,W,1,Toe hold,London FO,ABS,4F,2015
+8838,11111,Santeri Lilius,,Jesse Vuorio,W,1,Toe hold,Primates II,ABS,4F,2015
+8839,11111,Santeri Lilius,,Harri Paakkola,W,1,Straight ankle lock,Primates II,ABS,SF,2015
+8840,11111,Santeri Lilius,,S. Brosche,W,1,Triangle,Primates II,ABS,F,2015
+9132,11111,Santeri Lilius,,Marcos Filho,W,1,Katagatame,London WO,88KG,SF,2016
+9418,11111,Santeri Lilius,,Julien Crazier,W,1,Estima lock,Rome Open,88KG,SF,2016
+9419,11111,Santeri Lilius,8714,Max Carvalho,W,1,Pts: 4x0,Rome Open,88KG,F,2016
+9990,11111,Santeri Lilius,,Alessandro Silva,W,1,Pts: 6x4,World Champ.,82KG,R1,2016
+10749,11111,Santeri Lilius,,Gareth Neale,W,1,Pts: 7x0,London F. Open,88KG,4F,2016
+11292,11111,Santeri Lilius,,Felipe Cancado,W,1,Toe hold,Berlin Open,82KG,RR,2016
+11294,11111,Santeri Lilius,,Felipe Cancado,W,1,Toe hold,Berlin NGO,85KG,F,2016
+12022,11111,Santeri Lilius,,Pedro Bessa,W,1,Pts: 4x2,London WO,ABS,4F,2017
+12063,11111,Santeri Lilius,,Mathias Ribeiro,W,1,"Pts: 6x6, Adv",Grand Slam LDN,85KG,4F,2017
+12067,11111,Santeri Lilius,,Bradley Hill,W,1,Pts: 2x0,Grand Slam LDN,85KG,SF,2017
+14928,11111,Santeri Lilius,,Raphael Silva,W,1,Pts: 6x2,European Open,82KG,R1,2018
+15461,11111,Santeri Lilius,,Guillermo Pons,W,1,RNC,Spanish NGN,85KG,SF,2018
+15462,11111,Santeri Lilius,,Auyb Magomedov,W,1,"Pts: 0x0, Adv",Spanish NGN,85KG,F,2018
+15464,11111,Santeri Lilius,,Arthur Pucci,W,1,Pts: 4x2,Spanish Nat.,82KG,SF,2018
+15841,11111,Santeri Lilius,,Tore Erevik,W,1,Referee Decision,Finnish Open,82KG,R1,2018
+15843,11111,Santeri Lilius,,Toni Toivanen,W,1,Estima lock,Finnish Open,82KG,4F,2018
+15845,11111,Santeri Lilius,,Tuomas Ylinampa,W,1,Pts: 4x2,Finnish Open,82KG,SF,2018
+17958,11111,Santeri Lilius,,Z. Abderrahman,W,1,Estima lock,German Nat. Pro,85KG,SF,2018
+18217,11111,Santeri Lilius,,Pedro Farkas,W,1,RNC,Lisbon Open,88KG,F,2018
+18510,11111,Santeri Lilius,,Pedro Bessa,W,1,Referee Decision,Polaris 8,82KG,SPF,2018
+18918,11111,Santeri Lilius,10399,Philippe Pomaski,W,1,Pts: 2x0,European Open,88KG,R1,2019
+20994,11111,Santeri Lilius,,Angel Cicero,W,1,Pts: 3x0,Spanish Nats,ABS,4F,2019
+20995,11111,Santeri Lilius,4145,Thiago Sa,W,1,Estima lock,Spanish Nats,ABS,SF,2019
+20996,11111,Santeri Lilius,,Alex Cabanes,W,1,Pts: 6x4,Spanish Nats,ABS,F,2019
+22176,11111,Santeri Lilius,,Charles Mcguire,W,1,RNC,European NoGi,91KG,4F,2019
+22618,11111,Santeri Lilius,,Ivan Grade,W,1,Bow and arrow,Madrid Open,94KG,SF,2019
+22619,11111,Santeri Lilius,,Guilherme Jardim,W,1,Pts: 4x0,Madrid Open,94KG,F,2019
+23035,11111,Santeri Lilius,,Thomas Julien,W,1,Estima lock,European Open,ABS,R1,2020
+23040,11111,Santeri Lilius,,Thomas Julien,W,1,Footlock,European Open,ABS,R1,2020
+23121,11111,Santeri Lilius,6351,Alec Baulding,W,1,Pts: 12x4,European Open,88KG,R1,2020
+23126,11111,Santeri Lilius,,Angel Cicero,W,1,Choke from mount,European Open,88KG,4F,2020
+23525,11111,Santeri Lilius,,Stuart Cooper,W,1,Katagatame,Grapplefest 8,90KG,SPF,2020
+23654,11111,Santeri Lilius,,Matko Kvesic,W,1,Katagatame,Grand Slam LDN,94KG,4F,2020
+23660,11111,Santeri Lilius,9741,Pedro Elias,W,1,Pts: 6x5,Grand Slam LDN,94KG,RPC,2020
+23661,11111,Santeri Lilius,,Stan Varshavskiy,W,1,Pts: 10x0,Grand Slam LDN,94KG,3RD,2020
+24066,11111,Santeri Lilius,,Taylor Pearman,D,0.5,---,Polaris Squads,ABS,RR,2020
+24075,11111,Santeri Lilius,7321,Darragh OConaill,D,0.5,---,Polaris Squads,ABS,RR,2020
+26325,11111,Santeri Lilius,,Fernando Mera,W,1,Katagatame,ADCC Spain,ABS,4F,2021
+26326,11111,Santeri Lilius,,Seba Santana,W,1,RNC,ADCC Spain,ABS,SF,2021
+26327,11111,Santeri Lilius,,Dimitris Marga.,W,1,Heel hook,ADCC Spain,ABS,F,2021
+31142,11111,Santeri Lilius,7478,Adam Wardzinski,W,1,Pts: 4x4,Grand Slam LDN,94KG,4F,2022
+32282,11111,Santeri Lilius,,Mehdad Kavand,W,1,DQ,ADCC EU Trials,88KG,R1,2022
+32284,11111,Santeri Lilius,,Manuel Pilato,W,1,Heel hook,ADCC EU Trials,88KG,R2,2022
+32287,11111,Santeri Lilius,,Freddie Barker,W,1,Pts: 4x2,ADCC EU Trials,88KG,R3,2022
+32289,11111,Santeri Lilius,,Adam Niedzwiedz,W,1,Referee Decision,ADCC EU Trials,88KG,8F,2022
+32292,11111,Santeri Lilius,,Ben Dyson,W,1,Pts: 3x0,ADCC EU Trials,88KG,4F,2022
+32293,11111,Santeri Lilius,,Piotr Frechowicz,W,1,Armbar,ADCC EU Trials,88KG,SF,2022
+32295,11111,Santeri Lilius,10176,Bruno Lima,W,1,Pen,ADCC EU Trials,99KG,F,2022
+36106,11111,Santeri Lilius,,Bradley Hill,W,1,RNC,European NG,91KG,R1,2022
+36109,11111,Santeri Lilius,,Antonio Stanic,W,1,RNC,European NG,91KG,4F,2022
+36111,11111,Santeri Lilius,,Hunter Colvin,W,1,RNC,European NG,91KG,SF,2022
+36113,11111,Santeri Lilius,,Janis Riekstins,W,1,Pts: 6x0,European NG,91KG,F,2022
+36875,11111,Santeri Lilius,,Juan Escudero,W,1,RNC,NoGi Worlds,91KG,8F,2022
+36879,11111,Santeri Lilius,,Alejandro Tolmos,W,1,Pts: 4x0,NoGi Worlds,91KG,4F,2022
+41599,11111,Santeri Lilius,,Alvaro Martinez,W,1,Inside heel hook,ADCC SPA Cup,91KG,SF,2023
+41600,11111,Santeri Lilius,,Abimael Garcia,W,1,RNC,ADCC SPA Cup,91KG,F,2023
+41601,11111,Santeri Lilius,,Rafael Rodriguez,W,1,RNC,ADCC SPA Cup,ABS,R1,2023
+41602,11111,Santeri Lilius,,Roger Dominguez,W,1,Inside heel hook,ADCC SPA Cup,ABS,4F,2023
+41603,11111,Santeri Lilius,,Artem Shevchuk,W,1,Outside heel hook,ADCC SPA Cup,ABS,SF,2023
+41604,11111,Santeri Lilius,,Caue Leal,W,1,RNC,ADCC SPA Cup,ABS,F,2023
+42605,11111,Santeri Lilius,,Faris Lamkadem,W,1,Pts: 3x0,ADCC EU Trials,88KG,R2,2023
+42606,11111,Santeri Lilius,,Mantas Daublys,W,1,Pts: 3x0,ADCC EU Trials,88KG,16F,2023
+42614,11111,Santeri Lilius,,Kris Leeson,W,1,Pts: 2x0,ADCC EU Trials,88KG,8F,2023
+42618,11111,Santeri Lilius,,Roger Lopez,W,1,Pts: 2x0,ADCC EU Trials,88KG,4F,2023
+42620,11111,Santeri Lilius,,Christopher Wojcik,W,1,Pts: 3x0,ADCC EU Trials,88KG,SF,2023
+42622,11111,Santeri Lilius,,Tuomas Simola,W,1,Armbar,ADCC EU Trials,88KG,F,2023

@@ -1,0 +1,45 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+30774,12633,Ismael Santos,12689,Matias Estevez,L,0,Pts: 4x2,Dallas Open,70KG,SF,2022
+30870,12633,Ismael Santos,6631,Igor Schneider,L,0,Points,Indianapolis Open,O100KG,F,2022
+31612,12633,Ismael Santos,6151,Hiago George,L,0,Pts: 6x0,Pan American,64KG,R2,2022
+32498,12633,Ismael Santos,11919,Daniel Maira,L,0,Pts: 8x4,Atlanta SPO,70KG,F,2022
+32578,12633,Ismael Santos,11919,Daniel Maira,L,0,"Pts: 2x2, Adv",Chicago SPO,70KG,SF,2022
+32897,12633,Ismael Santos,11919,Daniel Maira,L,0,Pts: 6x2,World Champ.,70KG,4F,2022
+33752,12633,Ismael Santos,11510,Samuel Nagai,L,0,Pts: 11x4,Orlando SMO,70KG,SF,2022
+33783,12633,Ismael Santos,,Eric Schlosser,L,0,N/A,Orlando SMO,ABS,8F,2022
+34525,12633,Ismael Santos,,Sergio Soares,L,0,Points,Chicago SMO,76KG,SF,2022
+34592,12633,Ismael Santos,10953,Danilo Moreira,L,0,Pts: 3x2,Grand Slam MIA,69KG,R1,2022
+34722,12633,Ismael Santos,10953,Danilo Moreira,L,0,Pts: 4x2,JJ Con,76KG,4F,2022
+35238,12633,Ismael Santos,11510,Samuel Nagai,L,0,Pts: 4x0,Atlanta FNGO,73KG,SF,2022
+35504,12633,Ismael Santos,12102,Nick Salles,L,0,Inside heel hook,NoGi Pan,67KG,R1,2022
+37358,12633,Ismael Santos,10953,Danilo Moreira,L,0,Pts: 8x6,Oklahoma Open,76KG,F,2023
+38366,12633,Ismael Santos,12918,Daniel Sathler,L,0,Referee Decision,Pan American,70KG,R1,2023
+39467,12633,Ismael Santos,12573,Sebastian Serpa,L,0,Pts: 2x0,Brasileiro,70KG,R1,2023
+42013,12633,Ismael Santos,,Jeferson Fagundes,L,0,"Pts: 10x10, Adv",Floripa WO,70KG,F,2023
+42078,12633,Ismael Santos,,Leonardo Domingos,L,0,Armbar,Floripa WNGO,73KG,SF,2023
+42695,12633,Ismael Santos,,Lucas Maquine,L,0,Pts: 5x4,Sul Americano,70KG,4F,2023
+30772,12633,Ismael Santos,,Thiago Cintra,W,1,"Pts: 4x4, Adv",Dallas Open,70KG,4F,2022
+31983,12633,Ismael Santos,,Giovanni Marcelo,W,1,Points,Nashville Open,70KG,4F,2022
+31984,12633,Ismael Santos,11093,Emilio Hernandez,W,1,Points,Nashville Open,70KG,SF,2022
+32495,12633,Ismael Santos,12573,Sebastian Serpa,W,1,"Pts: 6x6, Adv",Atlanta SPO,70KG,4F,2022
+32496,12633,Ismael Santos,,Giovanni Carvalho,W,1,Pts: 8x4,Atlanta SPO,70KG,SF,2022
+32577,12633,Ismael Santos,9956,Vinicius Pereira,W,1,"Pts: 0x0, Adv",Chicago SPO,70KG,4F,2022
+32887,12633,Ismael Santos,12751,Sam McNally,W,1,"Pts: 6x6, Adv",World Champ.,70KG,R1,2022
+32894,12633,Ismael Santos,9031,Kennedy Maciel,W,1,DQ,World Champ.,70KG,8F,2022
+33751,12633,Ismael Santos,6366,Brian Mahecha,W,1,Points,Orlando SMO,70KG,4F,2022
+34523,12633,Ismael Santos,,Michael Robert,W,1,Points,Chicago SMO,76KG,4F,2022
+34718,12633,Ismael Santos,,Lucas Nabuco,W,1,Choke from back,JJ Con,76KG,R1,2022
+34794,12633,Ismael Santos,11919,Daniel Maira,W,1,Pts: 4x2,JJ Con NG,73KG,SF,2022
+34796,12633,Ismael Santos,,Manuel Aguilar,W,1,RNC,JJ Con NG,73KG,F,2022
+35195,12633,Ismael Santos,,Michael Mehl,W,1,Footlock,Atlanta FO,70KG,4F,2022
+35197,12633,Ismael Santos,6366,Brian Mahecha,W,1,Pts: 10x4,Atlanta FO,70KG,SF,2022
+35199,12633,Ismael Santos,12573,Sebastian Serpa,W,1,"Pts: 10x10, Adv",Atlanta FO,70KG,F,2022
+37357,12633,Ismael Santos,,Moolele Cuellar,W,1,Pts: 2x0,Oklahoma Open,76KG,SF,2023
+37719,12633,Ismael Santos,,Isaias Higino,W,1,"Pts: 2x2, Adv",Memphis Open,70KG,F,2023
+41612,12633,Ismael Santos,,Ronaldo Benitez,W,1,Pts: 10x0,ESL PanAm,76KG,RR,2023
+41613,12633,Ismael Santos,,Cristian Etzael,W,1,Choke from back,ESL PanAm,76KG,RR,2023
+41614,12633,Ismael Santos,,Ronaldo Benitez,W,1,Pts: 14x0,ESL PanAm,76KG,F,2023
+42011,12633,Ismael Santos,,Guilherme Silva,W,1,"Pts: 2x2, Adv",Floripa WO,70KG,SF,2023
+43004,12633,Ismael Santos,,Jose Espinosa,W,1,Pts: 9x0,Brasileiro NoGi,67KG,4F,2023
+43008,12633,Ismael Santos,,Ronald Alves,W,1,RNC,Brasileiro NoGi,67KG,SF,2023
+43009,12633,Ismael Santos,,Jonas Lisboa,W,1,Inside heel hook,Brasileiro NoGi,67KG,F,2023

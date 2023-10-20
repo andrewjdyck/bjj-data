@@ -1,0 +1,80 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1413,174,Bruno Frazatto,147,Rubens Charles,L,0,Toe hold,World Champ.,70KG,SF,2006
+1747,174,Bruno Frazatto,147,Rubens Charles,L,0,Points,World Champ.,70KG,SF,2007
+1893,174,Bruno Frazatto,570,Marcelino Freitas,L,0,Referee Decision,Brasileiro,70KG,F,2008
+1918,174,Bruno Frazatto,147,Rubens Charles,L,0,Toe hold,World Champ.,70KG,F,2008
+2330,174,Bruno Frazatto,147,Rubens Charles,L,0,Referee Decision,World Champ.,70KG,F,2009
+2507,174,Bruno Frazatto,443,Claudio Mattos,L,0,Pts: 2x0,WPC SD trials,74KG,SF,2010
+2682,174,Bruno Frazatto,428,Celso Vinicius,L,0,Adv,World Champ.,76KG,R2,2010
+2906,174,Bruno Frazatto,283,Bruno Malfacine,L,0,Points,World Pro.,65KG,4F,2011
+3107,174,Bruno Frazatto,188,Augusto Mendes,L,0,Pen,World Champ.,70KG,4F,2011
+3220,174,Bruno Frazatto,179,Rafael Mendes,L,0,Pts: 6x0,ADCC,66KG,R1,2011
+3304,174,Bruno Frazatto,1388,Gunnar Nelson,L,0,Points,ADCC,ABS,R1,2011
+3742,174,Bruno Frazatto,5715,Isaque Paiva,L,0,Triangle,Gramado Trials,65KG,F,2012
+7971,174,Bruno Frazatto,147,Rubens Charles,L,0,Pts: 3x0,ADCC,66KG,F,2015
+9258,174,Bruno Frazatto,2999,Paulo Miyao,L,0,Pts: 4x2,Pan American,70KG,SF,2016
+9699,174,Bruno Frazatto,6095,Mansher Khera,L,0,Pts: 2x0,San Antonio Open,76KG,F,2016
+9856,174,Bruno Frazatto,2997,Joao Miyao,L,0,Points,Atlanta BJJ Pro,70KG,F,2016
+9960,174,Bruno Frazatto,4163,Marcio Andre,L,0,Pts: 9x6,World Champ.,70KG,4F,2016
+10618,174,Bruno Frazatto,1436,Samir Chantre,L,0,Referee Decision,Atlanta S. Open,70KG,F,2016
+10625,174,Bruno Frazatto,1436,Samir Chantre,L,0,Pen,Atlanta S. NoGi,67KG,F,2016
+11127,174,Bruno Frazatto,4248,Gianni Grippo,L,0,Pts: 4x2,NY BJJ Pro,70KG,SF,2016
+11728,174,Bruno Frazatto,5414,Osvaldo Moizinho,L,0,Referee Decision,F2Win 23,70KG,SPF,2017
+12137,174,Bruno Frazatto,8525,Alexandre Vieira,L,0,Crucifix choke,Pan American,70KG,8F,2017
+13016,174,Bruno Frazatto,1398,Justin Rader,L,0,Referee Decision,F2W 35,70KG,SPF,2017
+16736,174,Bruno Frazatto,,Ali Magomedov,L,0,Toe hold,ACBJJ 14,65KG,SPF,2018
+18194,174,Bruno Frazatto,4996,Geo Martinez,L,0,Pts: 3x2,Kasai Pro 4,65KG,R1,2018
+19875,174,Bruno Frazatto,2999,Paulo Miyao,L,0,Pts: 4x0,Orlando SPO,70KG,SF,2019
+21869,174,Bruno Frazatto,12003,Tye Ruotolo,L,0,Pts: 2x0,ADCC,66KG,R1,2019
+28991,174,Bruno Frazatto,188,Augusto Mendes,L,0,Referee Decision,BJJ Stars,70KG,SPF,2021
+1151,174,Bruno Frazatto,1155,Cicero Costha,W,1,Pts: 2x0,Brasileiro,70KG,F,2005
+1412,174,Bruno Frazatto,,Wagner Nascimento,W,1,Points,World Champ.,70KG,4F,2006
+1492,174,Bruno Frazatto,975,Jonatas Gurgel,W,1,Pts: 2x0,Brasileiro,70KG,F,2006
+1639,174,Bruno Frazatto,,Rafa Mendes,W,1,Pts: 5x0,ADCC Trials,66KG,F,2007
+1912,174,Bruno Frazatto,,Yuji Uchida,W,1,Triangle armbar,World Champ.,70KG,R1,2008
+1913,174,Bruno Frazatto,188,Augusto Mendes,W,1,Points,World Champ.,70KG,4F,2008
+1917,174,Bruno Frazatto,790,Mario Reis,W,1,Points,World Champ.,70KG,SF,2008
+2003,174,Bruno Frazatto,244,Denilson Pimenta,W,1,"Pts: 4x4, Adv",NoGi Worlds,70KG,F,2008
+2116,174,Bruno Frazatto,5715,Isaque Paiva,W,1,Points,Brasileiro CBJJE,70KG,F,2009
+2325,174,Bruno Frazatto,975,Jonatas Gurgel,W,1,"Pts: 2x2, Adv",World Champ.,70KG,4F,2009
+2328,174,Bruno Frazatto,790,Mario Reis,W,1,Pts: 2x0,World Champ.,70KG,SF,2009
+2876,174,Bruno Frazatto,5414,Osvaldo Moizinho,W,1,Pts: 4x2,Pan American,70KG,4F,2011
+2936,174,Bruno Frazatto,1149,Reinaldo Ribeiro,W,1,Pts: 2x0,World P. NoGi,64KG,R1,2011
+2940,174,Bruno Frazatto,283,Bruno Malfacine,W,1,"Pts: 2x2, Adv",World P. NoGi,64KG,4F,2011
+2941,174,Bruno Frazatto,1149,Reinaldo Ribeiro,W,1,Pts: 2x0,World P. NoGi,64KG,SF,2011
+2955,174,Bruno Frazatto,,Bruno Fonseca,W,1,N/A,Brasileiro,70KG,SF,2011
+2957,174,Bruno Frazatto,8231,Leo Saggioro,W,1,Points,Brasileiro,70KG,F,2011
+3010,174,Bruno Frazatto,588,Renato Tavares,W,1,Triangle,World Champ.,70KG,RDS,2011
+3019,174,Bruno Frazatto,,Gabriel Willcox,W,1,RNC,World Champ.,70KG,RDS,2011
+3211,174,Bruno Frazatto,,R. Vieira,W,1,RNC,ADCC Rio Trials,66KG,4F,2011
+3213,174,Bruno Frazatto,7698,Gabriel Marangoni,W,1,Pts: 3x0,ADCC Rio Trials,66KG,SF,2011
+3214,174,Bruno Frazatto,,Caio Izidro,W,1,Triangle,ADCC Rio Trials,66KG,F,2011
+3501,174,Bruno Frazatto,8231,Leo Saggioro,W,1,Triangle,European Open,70KG,4F,2012
+3502,174,Bruno Frazatto,,Max Campos,W,1,N/A,European Open,70KG,SF,2012
+3741,174,Bruno Frazatto,,Luciano Aldiguieri,W,1,Triangle armbar,Gramado Trials,65KG,SF,2012
+6075,174,Bruno Frazatto,4328,AJ Agazarm,W,1,"Pts: 0x0, Adv",World Expo,ABS,SPF,2014
+7031,174,Bruno Frazatto,7376,Ilke Bulut,W,1,Referee Decision,Rome Open,76KG,SF,2015
+7032,174,Bruno Frazatto,,Samuel Hertzog,W,1,Points,Rome Open,76KG,F,2015
+7956,174,Bruno Frazatto,1774,Mark Ramos,W,1,RNC,ADCC,66KG,R1,2015
+7966,174,Bruno Frazatto,,Renan Sancar,W,1,Referee Decision,ADCC,66KG,4F,2015
+7968,174,Bruno Frazatto,4996,Geo Martinez,W,1,Pts: 2x0,ADCC,66KG,SF,2015
+9038,174,Bruno Frazatto,,Lucas Dantas,W,1,Points,PNBJJC,ABS,SPF,2016
+9252,174,Bruno Frazatto,,Rodrigo Cardoso,W,1,"Pts: 2x2, Adv",Pan American,70KG,8F,2016
+9256,174,Bruno Frazatto,,Niccolas Araujo,W,1,N/A,Pan American,70KG,4F,2016
+9409,174,Bruno Frazatto,4248,Gianni Grippo,D,0.5,---,Polaris 3,70KG,SPF,2016
+9697,174,Bruno Frazatto,,Marcus Wilson,W,1,Pts: 4x0,San Antonio Open,76KG,SF,2016
+9853,174,Bruno Frazatto,,Rodrigo Lima,W,1,N/A,Atlanta BJJ Pro,70KG,4F,2016
+9855,174,Bruno Frazatto,,Victor Paschoal,W,1,N/A,Atlanta BJJ Pro,70KG,SF,2016
+9955,174,Bruno Frazatto,1542,Italo Lins,W,1,"Pts: 4x4, Adv",World Champ.,70KG,R2,2016
+11126,174,Bruno Frazatto,,Joseph Conery,W,1,Armbar,NY BJJ Pro,70KG,4F,2016
+11355,174,Bruno Frazatto,,Franciscso Matos,W,1,N/A,Miami FO,70KG,SF,2016
+11356,174,Bruno Frazatto,,Rodrigo Lima,W,1,N/A,Miami FO,70KG,F,2016
+11427,174,Bruno Frazatto,,Chad Bingham,W,1,Armbar,F2W 20,76KG,SPF,2017
+12573,174,Bruno Frazatto,4996,Geo Martinez,W,1,Pts: 5x0,ADCC WC Trials,66KG,SPF,2017
+15321,174,Bruno Frazatto,7698,Gabriel Marangoni,W,1,Points,ACBJJ 11,65KG,SPF,2018
+16338,174,Bruno Frazatto,,Nicholas Welker,W,1,Referee Decision,ACBJJ 13,65KG,SPF,2018
+19873,174,Bruno Frazatto,12376,Rodrigo Francioni,W,1,"Pts: 0x0, Adv",Orlando SPO,70KG,4F,2019
+20412,174,Bruno Frazatto,,Joshua Murdock,W,1,"Pts: 2x2, Adv",Atlanta SPO,70KG,4F,2019
+20414,174,Bruno Frazatto,,Orlando Andaviza,W,1,"Pts: 0x0, Adv",Atlanta SPO,70KG,SF,2019
+20415,174,Bruno Frazatto,,Rick Slomba,W,1,"Pts: 0x0, Adv",Atlanta SPO,70KG,F,2019
+21262,174,Bruno Frazatto,,Lucas Araujo,W,1,Pts: 2x0,Orlando SNGO,67KG,F,2019

@@ -1,5 +1,5 @@
 # Directories
-data/*.csv
+# data/*.csv
 processed/*.csv
 
 # Byte-compiled / optimized / DLL files

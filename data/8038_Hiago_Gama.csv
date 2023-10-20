@@ -1,0 +1,31 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+14320,8038,Hiago Gama,8305,Pedro Dias,L,0,DQ,Grand Slam RJ,62KG,4F,2017
+14325,8038,Hiago Gama,5789,Tiago Barros,L,0,Pts: 5x0,Grand Slam RJ,62KG,RPC,2017
+15798,8038,Hiago Gama,,Magno Mota,L,0,Points,Rio Open,64KG,F,2018
+16437,8038,Hiago Gama,6258,Rodnei Barbosa,L,0,Choke from back,World Champ.,57KG,SF,2018
+19560,8038,Hiago Gama,7657,Cleber Sousa,L,0,Referee Decision,Pan American,57KG,F,2019
+19945,8038,Hiago Gama,,Fernando Soares,L,0,N/A,Boston Sp. Open,57KG,F,2019
+21565,8038,Hiago Gama,11338,Thiago Abud,L,0,DQ,No Gi Pan Am.,67KG,R1,2019
+24426,8038,Hiago Gama,,Bebeto Oliveira,L,0,"Pts: 6x6, Adv",Atlanta Open,64KG,F,2020
+24445,8038,Hiago Gama,6043,Lucas Pinheiro,L,0,Pts: 6x2,No Gi Pan Am.,62KG,SF,2020
+27529,8038,Hiago Gama,9044,Livio Ribeiro,L,0,Pts: 6x2,Pan American,58KG,F,2021
+34409,8038,Hiago Gama,10380,Junny Ocasio,L,0,Straight ankle lock,N. Haven NGO,61KG,F,2022
+14317,8038,Hiago Gama,,Wilian Chavez,W,1,Pts: 7x2,Grand Slam RJ,62KG,R1,2017
+14324,8038,Hiago Gama,,Fellipe Melo,W,1,RNC,Grand Slam RJ,62KG,RPC,2017
+14891,8038,Hiago Gama,1919,Koji Shibamoto,W,1,"Pts: 4x4, Adv",European Open,57KG,SF,2018
+14893,8038,Hiago Gama,8870,Cleito Soares,W,1,Kneebar,European Open,57KG,F,2018
+15797,8038,Hiago Gama,,Eduardo Campos,W,1,Points,Rio Open,64KG,SF,2018
+16431,8038,Hiago Gama,7405,Eduardo Barboza,W,1,Short choke,World Champ.,57KG,R1,2018
+16435,8038,Hiago Gama,1919,Koji Shibamoto,W,1,Pts: 4x2,World Champ.,57KG,4F,2018
+19361,8038,Hiago Gama,,Angel Rodriguez,W,1,Crucifix choke,NAGA B. NoGi,68KG,F,2019
+19362,8038,Hiago Gama,,Jack Stapleton,W,1,N/A,NAGA Boston,68KG,F,2019
+19557,8038,Hiago Gama,9044,Livio Ribeiro,W,1,"Pts: 2x2, Adv",Pan American,57KG,4F,2019
+19559,8038,Hiago Gama,1919,Koji Shibamoto,W,1,"Pts: 2x2, Adv",Pan American,57KG,SF,2019
+19774,8038,Hiago Gama,,Bruno Dias,W,1,Referee Decision,F2W 107,64KG,SPF,2019
+21189,8038,Hiago Gama,1440,Rodrigo Ranieri,W,1,Adv,Boston SMO,64KG,SF,2019
+21191,8038,Hiago Gama,,Thiago Brito,W,1,Adv,Boston SMO,64KG,F,2019
+24424,8038,Hiago Gama,,Matheus Magalhaes,W,1,"Pts: 2x2, Adv",Atlanta Open,64KG,SF,2020
+24443,8038,Hiago Gama,10357,Richard Alarcon,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,62KG,4F,2020
+27528,8038,Hiago Gama,12251,Roiter Lima,W,1,Referee Decision,Pan American,58KG,SF,2021
+34375,8038,Hiago Gama,,Joseph Peter,W,1,Armbar,N. Haven Open,64KG,F,2022
+34408,8038,Hiago Gama,,Reynaldo Leon,W,1,Pts: 13x2,N. Haven NGO,61KG,SF,2022

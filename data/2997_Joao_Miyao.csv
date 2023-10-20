@@ -1,0 +1,244 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4987,2997,Joao Miyao,179,Rafael Mendes,L,0,Pts: 2x0,ADCC,66KG,SF,2013
+4989,2997,Joao Miyao,1398,Justin Rader,L,0,Points,ADCC,66KG,3PLC,2013
+5738,2997,Joao Miyao,283,Bruno Malfacine,L,0,Referee Decision,World Champ.,57KG,F,2014
+7091,2997,Joao Miyao,7872,Gilson Nunes,L,0,"Pts: 0x0, Adv",World Pro,65KG,4F,2015
+7403,2997,Joao Miyao,283,Bruno Malfacine,L,0,Adv,World Champ.,57KG,F,2015
+7609,2997,Joao Miyao,5447,Mikey Musumeci,L,0,"Pts: 4x4, Adv",American Nat.,64KG,F,2015
+7782,2997,Joao Miyao,5649,Garry Tonon,L,0,Referee Decision,FIVE SL,72KG,SPF,2015
+7817,2997,Joao Miyao,,Joe Soto,L,0,EBI/OT,EBI 4,65KG,SF,2015
+8085,2997,Joao Miyao,5414,Osvaldo Moizinho,L,0,Points,GT Open,ABS,SPF,2015
+8093,2997,Joao Miyao,5414,Osvaldo Moizinho,L,0,Pts: 6x4,GT Open,76KG,F,2015
+8544,2997,Joao Miyao,5414,Osvaldo Moizinho,D,0.5,---,Berkut 2,ABS,SPF,2015
+9922,2997,Joao Miyao,582,Caio Terra,L,0,Pts: 8x6,World Champ.,57KG,SF,2016
+10197,2997,Joao Miyao,5447,Mikey Musumeci,L,0,"Pts: 2x2, Adv",American Nats,64KG,F,2016
+10436,2997,Joao Miyao,5447,Mikey Musumeci,L,0,Pts: 2x0,Grand Slam LA,62KG,F,2016
+10887,2997,Joao Miyao,5447,Mikey Musumeci,L,0,Pts: 10x8,NoGi Worlds,62KG,F,2016
+11543,2997,Joao Miyao,2401,Gabriel Moraes,L,0,Pts: 5x4,European Open,64KG,SF,2017
+11942,2997,Joao Miyao,7664,Johnny Tama,L,0,Pts: 3x2,UAEJJF NY Pro,U77KG,4F,2017
+13078,2997,Joao Miyao,5447,Mikey Musumeci,L,0,"Pts: 0x0, Adv",World Champ.,64KG,F,2017
+14594,2997,Joao Miyao,188,Augusto Mendes,L,0,Points,ACB JJ 9,60KG,SF,2017
+16459,2997,Joao Miyao,260,Ary Farias,L,0,Pts: 2x0,World Champ.,64KG,SF,2018
+19417,2997,Joao Miyao,9051,Gabriel Sousa,L,0,"Pts: 4x4, Adv",Grand Slam LDN,62KG,SF,2019
+20079,2997,Joao Miyao,9051,Gabriel Sousa,L,0,"Pts: 2x2, Adv",World Pro,62KG,F,2019
+20236,2997,Joao Miyao,8884,Alex Sodre,L,0,Pts: 10x4,Brasileiro,64KG,SF,2019
+21000,2997,Joao Miyao,4996,Geo Martinez,L,0,EBI/OT,Subversiv 2,65KG,SPF,2019
+22031,2997,Joao Miyao,6043,Lucas Pinheiro,L,0,Referee Decision,F2W 128,65KG,SPF,2019
+4368,2997,Joao Miyao,562,Eduardo Telles,W,1,Adv,World Expo,ABS,SPF,2013
+4885,2997,Joao Miyao,,Naudimar Amaral,W,1,Choke from back,Brasileiro CBJJE,NA,NA,2013
+4978,2997,Joao Miyao,1774,Mark Ramos,W,1,Calf slicer,ADCC,66KG,R1,2013
+4986,2997,Joao Miyao,338,Ricardo Vieira,W,1,Heel hook,ADCC,66KG,4F,2013
+5247,2997,Joao Miyao,,Hideyuki Yamada,W,1,Choke from back,European,64KG,SF,2014
+5337,2997,Joao Miyao,,F. Spessoto,W,1,Choke from back,Pan American,64KG,4F,2014
+5339,2997,Joao Miyao,,Rafael Barata,W,1,Choke from back,Pan American,64KG,SF,2014
+5538,2997,Joao Miyao,,Unknown,W,1,Choke from back,Brasileiro,64KG,4F,2014
+5541,2997,Joao Miyao,,Giusley Santos,W,1,Pts: 4x0,Brasileiro,64KG,SF,2014
+5639,2997,Joao Miyao,,John Cho,W,1,Pts: 9x0,World Pro.,64KG,4F,2014
+5643,2997,Joao Miyao,7156,Tiago Bravo,W,1,Referee Decision,World Pro.,64KG,F,2014
+5733,2997,Joao Miyao,1919,Koji Shibamoto,W,1,Pts: 25x4,World Champ.,57KG,4F,2014
+5737,2997,Joao Miyao,1874,Ivaniel Oliveira,W,1,Pts: 2x0,World Champ.,57KG,SF,2014
+5875,2997,Joao Miyao,,Ivanildo Lima,W,1,Choke from back,Rio Open,64KG,F,2014
+5889,2997,Joao Miyao,,Leandro Silva,W,1,Choke from back,SP Open,64KG,SF,2014
+5890,2997,Joao Miyao,8874,Thomas Lisboa,W,1,Choke from back,SP Open,64KG,F,2014
+5898,2997,Joao Miyao,8874,Thomas Lisboa,W,1,Points,SP Open NoGi,63KG,F,2014
+5928,2997,Joao Miyao,,Alexandre Oliveira,W,1,Choke from back,Mundial CBJJE,64KG,SF,2014
+5929,2997,Joao Miyao,,Johnatha Guido,W,1,Choke from back,Mundial CBJJE,64KG,F,2014
+5969,2997,Joao Miyao,,Jorge Elias,W,1,Triangle armbar,No Gi Pan Am.,64KG,SF,2014
+5970,2997,Joao Miyao,1774,Mark Ramos,W,1,Armbar,No Gi Pan Am.,64KG,F,2014
+6018,2997,Joao Miyao,,Jorge Elias,W,1,Points,NoGi Worlds,61KG,4F,2014
+6022,2997,Joao Miyao,9725,Fabbio Passos,W,1,Armbar,NoGi Worlds,61KG,SF,2014
+6023,2997,Joao Miyao,8874,Thomas Lisboa,W,1,Pts: 10x4,NoGi Worlds,61KG,F,2014
+6106,2997,Joao Miyao,1774,Mark Ramos,W,1,Choke from back,NYC Pro,70KG,4F,2014
+6109,2997,Joao Miyao,,Paulo Santana,W,1,Bow and arrow,NYC Pro,70KG,SF,2014
+6110,2997,Joao Miyao,4248,Gianni Grippo,W,1,Pts: 6x4,NYC Pro,70KG,F,2014
+6189,2997,Joao Miyao,4248,Gianni Grippo,W,1,Pen,Copa Podio,70KG,SPF,2014
+6252,2997,Joao Miyao,,Walter Telles,W,1,Arm in Ezekiel,South American,64KG,4F,2014
+6253,2997,Joao Miyao,1799,Leandro Martins,W,1,N/A,South American,64KG,SF,2014
+6303,2997,Joao Miyao,,Unknown,W,1,RNC,ADCC Trials,77KG,4F,2014
+6304,2997,Joao Miyao,,Bruno Aparecido,W,1,Points,ADCC Trials,77KG,F,2014
+6524,2997,Joao Miyao,,Lucas Dantas,W,1,Pts: 8x4,European,64KG,4F,2015
+6527,2997,Joao Miyao,,S. Franceschini,W,1,Bow and arrow,European,64KG,SF,2015
+6783,2997,Joao Miyao,1870,Paulo Filho,W,1,Choke from back,Pan American,64KG,4F,2015
+6787,2997,Joao Miyao,1753,Rafael Freitas,W,1,Choke,Pan American,64KG,SF,2015
+6965,2997,Joao Miyao,,David Domzalski,W,1,Submission,Chicago Spring,64KG,SF,2015
+6966,2997,Joao Miyao,613,Wellington Dias,W,1,Choke from back,Chicago Spring,64KG,F,2015
+7009,2997,Joao Miyao,,Paulo Silva,W,1,Points,NY Spring Open,64KG,F,2015
+7220,2997,Joao Miyao,,Pedro Azevedo,W,1,Choke from back,Brasileiro,64KG,SF,2015
+7222,2997,Joao Miyao,8874,Thomas Lisboa,W,1,Choke from back,Brasileiro,64KG,F,2015
+7337,2997,Joao Miyao,,Andre Pontes,W,1,Triangle,Las Vegas Open,64KG,F,2015
+7398,2997,Joao Miyao,1919,Koji Shibamoto,W,1,Pts: 6x2,World Champ.,57KG,4F,2015
+7401,2997,Joao Miyao,1874,Ivaniel Oliveira,W,1,Choke from back,World Champ.,57KG,SF,2015
+7577,2997,Joao Miyao,,Ramon Flores,W,1,N/A,BJJ Tour,64KG,F,2015
+7595,2997,Joao Miyao,,Ruben Alvarez,W,1,Omoplata,Grapplers Quest,65KG,4F,2015
+7596,2997,Joao Miyao,,Mike Main,W,1,Heel hook,Grapplers Quest,65KG,SF,2015
+7600,2997,Joao Miyao,,Luis Pinto,W,1,Choke f. omoplata,US No Gi Nat.,64KG,F,2015
+7608,2997,Joao Miyao,,Luis Pinto,W,1,Points,American Nat.,64KG,SF,2015
+7671,2997,Joao Miyao,,David Herndon,W,1,Choke from back,NY Summer Open,64KG,F,2015
+7678,2997,Joao Miyao,,Luis Pantoja,W,1,Triangle,NY No Gi Open,64KG,F,2015
+7747,2997,Joao Miyao,,Jose Alvarez,W,1,Points,Austin Open,70KG,SF,2015
+7748,2997,Joao Miyao,,Gabriel Martins,W,1,Choke from back,Austin Open,70KG,F,2015
+7783,2997,Joao Miyao,,Luis Ninja Pinto,W,1,Choke from back,LV Summer Open,64KG,F,2015
+7786,2997,Joao Miyao,,Julian Marquez,W,1,Points,LV Summer Open,ABS,4F,2015
+7787,2997,Joao Miyao,4851,Kim Terra,W,1,Referee Decision,LV Summer Open,ABS,SF,2015
+7788,2997,Joao Miyao,7079,Carlos Farias,W,1,"Pts: 0x0, Adv",LV Summer Open,ABS,F,2015
+7809,2997,Joao Miyao,,Mike Main,W,1,RNC,EBI 4,65KG,R1,2015
+7815,2997,Joao Miyao,,Geoff Real,W,1,RNC,EBI 4,65KG,4F,2015
+8002,2997,Joao Miyao,2401,Gabriel Moraes,W,1,Points,Santa Cruz Pro,70KG,F,2015
+8086,2997,Joao Miyao,4996,Geo Martinez,W,1,Pts: 4x2,GT Open,ABS,SPF,2015
+8089,2997,Joao Miyao,,Julio Cordova,W,1,Points,GT Open,76KG,SF,2015
+8168,2997,Joao Miyao,,Joseph Best,W,1,RNC,NoGi Pan Ams,64KG,SF,2015
+8169,2997,Joao Miyao,1774,Mark Ramos,W,1,RNC,NoGi Pan Ams,64KG,F,2015
+8243,2997,Joao Miyao,1753,Rafael Freitas,W,1,Pts: 2x0,Grand Slam LA,62KG,SF,2015
+8244,2997,Joao Miyao,5114,Joao Somalia,W,1,Choke from back,Grand Slam LA,62KG,F,2015
+8391,2997,Joao Miyao,1774,Mark Ramos,W,1,Toe hold,NoGi Worlds,61KG,4F,2015
+8394,2997,Joao Miyao,8874,Thomas Lisboa,W,1,Pts: 6x4,NoGi Worlds,61KG,SF,2015
+8396,2997,Joao Miyao,1436,Samir Chantre,W,1,Pts: 6x4,NoGi Worlds,61KG,F,2015
+8607,2997,Joao Miyao,6258,Rodnei Barbosa,W,1,"Pts: 0x0, Adv",Grand Slam RJ,62KG,R1,2015
+8613,2997,Joao Miyao,,Pedro Azevedo,W,1,Pts: 14x0,Grand Slam RJ,62KG,8F,2015
+8614,2997,Joao Miyao,,Rodnei Junior,W,1,Choke from back,Grand Slam RJ,62KG,4F,2015
+8619,2997,Joao Miyao,,Jorge Nakamura,W,1,Pts: 4x0,Grand Slam RJ,62KG,SF,2015
+8910,2997,Joao Miyao,,Tsuyoshi Tamaki,W,1,Choke from back,European Open,64KG,4F,2016
+8912,2997,Joao Miyao,,Gabriel Willcox,W,1,Choke from back,European Open,64KG,SF,2016
+9239,2997,Joao Miyao,,Tsuyoshi Tamaki,W,1,Choke from back,Pan American,64KG,4F,2016
+9243,2997,Joao Miyao,,Vitor Paschoal,W,1,Choke from back,Pan American,64KG,SF,2016
+9245,2997,Joao Miyao,2401,Gabriel Moraes,W,1,Pts: 2x0,Pan American,64KG,F,2016
+9406,2997,Joao Miyao,3348,Yukinori Sasa,D,0.5,---,Polaris 3,70KG,SPF,2016
+9459,2997,Joao Miyao,,Thomas Costa,W,1,Choke from back,NY Spring Open,64KG,SF,2016
+9460,2997,Joao Miyao,,Tadashi Takashima,W,1,Choke from back,NY Spring Open,64KG,F,2016
+9560,2997,Joao Miyao,6258,Rodnei Barbosa,W,1,Pts: 4x2,World Pro,62KG,4F,2016
+9561,2997,Joao Miyao,,Wellington Lima,W,1,Choke,World Pro,62KG,SF,2016
+9852,2997,Joao Miyao,,Jeffrey Cummings,W,1,N/A,Atlanta BJJ Pro,70KG,4F,2016
+9854,2997,Joao Miyao,,Nicollas Welker,W,1,N/A,Atlanta BJJ Pro,70KG,SF,2016
+9856,2997,Joao Miyao,174,Bruno Frazatto,W,1,Points,Atlanta BJJ Pro,70KG,F,2016
+9914,2997,Joao Miyao,6060,Tomoyuki Hashimoto,W,1,Pts: 6x4,World Champ.,57KG,R1,2016
+9919,2997,Joao Miyao,6043,Lucas Pinheiro,W,1,"Pts: 2x2, Adv",World Champ.,57KG,4F,2016
+10283,2997,Joao Miyao,,Bruno Braz,W,1,Armbar,NY Summer Open,64KG,F,2016
+10323,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Pts: 13x0,Austin Open,70KG,SF,2016
+10324,2997,Joao Miyao,,Wellington Lima,W,1,Choke from back,Austin Open,70KG,F,2016
+10336,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Pts: 6x2,Austin NG Open,67KG,SF,2016
+10337,2997,Joao Miyao,,Wellington Lima,W,1,Choke from back,Austin NG Open,67KG,F,2016
+10366,2997,Joao Miyao,,Mayko Borges,W,1,Pts: 8x2,Ch. Summer Open,64KG,SF,2016
+10367,2997,Joao Miyao,,Anthony Ferro,W,1,Brabo choke,Ch. Summer Open,64KG,F,2016
+10386,2997,Joao Miyao,,Ben Pitchford,W,1,Pts: 21x0,Chicago NoGi SO,67KG,SF,2016
+10387,2997,Joao Miyao,,Bruce Guevara,W,1,Pts: 9x0,Chicago NoGi SO,67KG,F,2016
+10401,2997,Joao Miyao,,Joseph Conery,W,1,Kneebar,Boston SIO,64KG,F,2016
+10435,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Pts: 5x0,Grand Slam LA,62KG,SF,2016
+10470,2997,Joao Miyao,,Arthur Molina,W,1,Pts: 12x4,G. Slam NG LA,67KG,SF,2016
+10883,2997,Joao Miyao,,Alexis Barragan,W,1,Pts: 36x0,NoGi Worlds,62KG,4F,2016
+10885,2997,Joao Miyao,,Rene Lopez,W,1,DQ,NoGi Worlds,62KG,SF,2016
+11128,2997,Joao Miyao,7872,Gilson Nunes,W,1,Pts: 4x2,NY BJJ Pro,70KG,SF,2016
+11129,2997,Joao Miyao,4248,Gianni Grippo,W,1,Pts: 2x0,NY BJJ Pro,70KG,F,2016
+11539,2997,Joao Miyao,,Rene Lopez,W,1,Choke from back,European Open,64KG,4F,2017
+11922,2997,Joao Miyao,,Daniel Covel,W,1,DQ,UAEJJF NY Pro,69KG,4F,2017
+11924,2997,Joao Miyao,1640,Andre Monteiro,W,1,Points,UAEJJF NY Pro,69KG,SF,2017
+11925,2997,Joao Miyao,,Isac Chaves,W,1,N/A,UAEJJF NY Pro,69KG,F,2017
+12124,2997,Joao Miyao,8536,Yuta Shimada,W,1,Pts: 6x0,Pan American,64KG,4F,2017
+12127,2997,Joao Miyao,1436,Samir Chantre,W,1,Pts: 22x2,Pan American,64KG,SF,2017
+12315,2997,Joao Miyao,,Anthony Ferro,W,1,N/A,Chicago Sp. Open,64KG,SF,2017
+12316,2997,Joao Miyao,8361,Marcelo Cohen,W,1,N/A,Chicago Sp. Open,64KG,F,2017
+12376,2997,Joao Miyao,,Tadashi Takashima,W,1,Points,Boston Spring O.,64KG,F,2017
+12379,2997,Joao Miyao,,Tadashi Takashima,W,1,Choke from back,NY Spring Open,64KG,F,2017
+12693,2997,Joao Miyao,,Tadashi Takashima,W,1,Toe hold,Boston Sp. Open,64KG,F,2017
+12924,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Points,Miami SPO,64KG,SF,2017
+12925,2997,Joao Miyao,6043,Lucas Pinheiro,W,1,Pts: 2x0,Miami SPO,64KG,F,2017
+12947,2997,Joao Miyao,,Christopher Kriebel,W,1,Toe hold,Miami Spring NGO,62KG,F,2017
+13066,2997,Joao Miyao,8536,Yuta Shimada,W,1,Pts: 4x0,World Champ.,64KG,8F,2017
+13074,2997,Joao Miyao,7698,Gabriel Marangoni,W,1,Pts: 2x0,World Champ.,64KG,4F,2017
+13076,2997,Joao Miyao,2401,Gabriel Moraes,W,1,Pts: 8x4,World Champ.,64KG,SF,2017
+13454,2997,Joao Miyao,8218,Mayko Araujo,W,1,Toe hold,ACBJJ 6,60KG,4F,2017
+13457,2997,Joao Miyao,1041,Laercio Fernandes,W,1,Choke from back,ACBJJ 6,60KG,SF,2017
+13458,2997,Joao Miyao,6103,Isaac Doederlein,W,1,Points,ACBJJ 6,60KG,F,2017
+13531,2997,Joao Miyao,,David Herndon,W,1,Choke from back,Boston SM. Open,64KG,SF,2017
+13533,2997,Joao Miyao,,Ryan Clay,W,1,DQ,Boston SM. Open,64KG,F,2017
+13619,2997,Joao Miyao,,Anthony Ferro,W,1,Choke from back,Chicago SMO,64KG,SF,2017
+13621,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Pts: 31x0,Chicago SMO,64KG,F,2017
+13644,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Points,Chicago SMNGO,61KG,F,2017
+13786,2997,Joao Miyao,,Jorge Nakamura,W,1,Pts: 8x4,Grand Slam LA,62KG,4F,2017
+13788,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Choke from back,Grand Slam LA,62KG,SF,2017
+13789,2997,Joao Miyao,6151,Hiago George,W,1,"Pts: 0x0, Adv",Grand Slam LA,62KG,F,2017
+14004,2997,Joao Miyao,8131,Adam Ferrara,W,1,RNC,No Gi Pan Am.,61KG,SF,2017
+14005,2997,Joao Miyao,7405,Eduardo Barboza,W,1,RNC,No Gi Pan Am.,61KG,F,2017
+14191,2997,Joao Miyao,,R. Costa,W,1,Choke from back,Miami FO,64KG,F,2017
+14313,2997,Joao Miyao,,F. Angelino,W,1,Pts: 10x0,Grand Slam RJ,62KG,R1,2017
+14318,2997,Joao Miyao,,D. Moreira,W,1,Pts: 2x0,Grand Slam RJ,62KG,4F,2017
+14592,2997,Joao Miyao,1753,Rafael Freitas,W,1,Armbar,ACB JJ 9,60KG,4F,2017
+14650,2997,Joao Miyao,,Alex Ecklin,W,1,Armbar,NoGi Worlds,61KG,4F,2017
+14652,2997,Joao Miyao,5114,Joao Somalia,W,1,Pts: 14x0,NoGi Worlds,61KG,SF,2017
+14653,2997,Joao Miyao,6043,Lucas Pinheiro,W,1,RNC,NoGi Worlds,61KG,F,2017
+14819,2997,Joao Miyao,,J. Alhazza,W,1,Armbar,Grand Slam AD,62KG,RR,2018
+14895,2997,Joao Miyao,,Rene Lopez,W,1,Choke from back,European Open,64KG,SF,2018
+15074,2997,Joao Miyao,,Unknown,W,1,Choke from back,ACB S. American,60KG,4F,2018
+15075,2997,Joao Miyao,,Felipe N.,W,1,Armbar,ACB S. American,60KG,SF,2018
+15076,2997,Joao Miyao,,Thales Nakassu,W,1,Mounted triangle,ACB S. American,60KG,F,2018
+15199,2997,Joao Miyao,,Sop Mu Huh,W,1,Submission,Continental Pro,62KG,RR,2018
+15200,2997,Joao Miyao,,Sop Mu Huh,W,1,Choke from back,Continental Pro,62KG,RR,2018
+15367,2997,Joao Miyao,6493,Darson Hemmings,W,1,Pts: 10x0,Pan American,64KG,4F,2018
+15371,2997,Joao Miyao,8536,Yuta Shimada,W,1,"Pts: 4x4, Adv",Pan American,64KG,SF,2018
+15373,2997,Joao Miyao,8069,Pablo Mantovani,W,1,Pts: 6x4,Pan American,64KG,F,2018
+15860,2997,Joao Miyao,1436,Samir Chantre,W,1,Points,ACBJJ 12,60KG,SPF,2018
+16071,2997,Joao Miyao,,Wellington Lima,W,1,Choke from back,WP Br Qualifier,62KG,RR,2018
+16072,2997,Joao Miyao,,F. Silva,W,1,Choke from back,WP Br Qualifier,62KG,RR,2018
+16121,2997,Joao Miyao,,David Younan,W,1,Choke from back,World Pro,62KG,4F,2018
+16125,2997,Joao Miyao,8842,Wanki Chae,W,1,Pts: 7x2,World Pro,62KG,F,2018
+16387,2997,Joao Miyao,,Carlos Perez,W,1,Choke from back,Miami SPO,64KG,SF,2018
+16388,2997,Joao Miyao,,Washington Luis,W,1,Choke from back,Miami SPO,64KG,F,2018
+16447,2997,Joao Miyao,8842,Wanki Chae,W,1,"Pts: 0x0, Adv",World Champ.,64KG,R1,2018
+16456,2997,Joao Miyao,8536,Yuta Shimada,W,1,"Pts: 4x4, Adv",World Champ.,64KG,4F,2018
+16742,2997,Joao Miyao,260,Ary Farias,W,1,Points,ACBJJ 14,60KG,SPF,2018
+17032,2997,Joao Miyao,,Paulo Santana,W,1,Choke from back,Orlando Open,64KG,SF,2018
+17033,2997,Joao Miyao,,Suraj Budhram,W,1,Choke from back,Orlando Open,64KG,F,2018
+17196,2997,Joao Miyao,,Perez Figueiroa,W,1,Points,Chicago SM Open,64KG,SF,2018
+17198,2997,Joao Miyao,,Suraj Budhram,W,1,Arm in Ezekiel,Chicago SM Open,64KG,F,2018
+17214,2997,Joao Miyao,9934,Deandre Corbe,W,1,Pts: 6x2,Chicago SM NGO,67KG,F,2018
+17255,2997,Joao Miyao,,Bebeto Oliveira,W,1,Choke,Las Vegas Open,64KG,SF,2018
+17257,2997,Joao Miyao,5114,Joao Somalia,W,1,Armbar,Las Vegas Open,64KG,F,2018
+17363,2997,Joao Miyao,,Argen Kaidybaev,W,1,Pts: 15x4,UWW NG World,62KG,4F,2018
+17364,2997,Joao Miyao,,Nathaniel Ortiz,W,1,Pts: 9x2,UWW NG World,62KG,SF,2018
+17365,2997,Joao Miyao,,Akhmed Iasaev,W,1,Triangle,UWW NG World,62KG,F,2018
+17369,2997,Joao Miyao,,Muhammad A.,W,1,Verbal,UWW World,62KG,R1,2018
+17370,2997,Joao Miyao,,M. Temeev,W,1,Pts: 5x2,UWW World,62KG,4F,2018
+17371,2997,Joao Miyao,,Nathaniel Ortiz,W,1,Choke,UWW World,62KG,SF,2018
+17372,2997,Joao Miyao,,Dmytro Baranov,W,1,Pts: 12x6,UWW World,62KG,F,2018
+17409,2997,Joao Miyao,,A. Ecklin,W,1,Pts: 18x0,No Gi Pan Am.,61KG,SF,2018
+17410,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Armbar,No Gi Pan Am.,61KG,F,2018
+17849,2997,Joao Miyao,,Suraj Budhram,W,1,Choke from back,Miami FO,64KG,F,2018
+18575,2997,Joao Miyao,,Suraj Budhram,W,1,RNC,NoGi Worlds,61KG,4F,2018
+18578,2997,Joao Miyao,7657,Cleber Sousa,W,1,RNC,NoGi Worlds,61KG,SF,2018
+18579,2997,Joao Miyao,6060,Tomoyuki Hashimoto,W,1,Referee Decision,NoGi Worlds,61KG,F,2018
+18792,2997,Joao Miyao,,Isa Karasanov,W,1,Pts: 2x0,Grand Slam AD,62KG,SF,2019
+18877,2997,Joao Miyao,,Hideyuki Yamada,W,1,Arm in Ezekiel,European Open,64KG,4F,2019
+18880,2997,Joao Miyao,7657,Cleber Sousa,W,1,Points,European Open,64KG,SF,2019
+19414,2997,Joao Miyao,,Anthony Oliveira,W,1,Pts: 8x0,Grand Slam LDN,62KG,4F,2019
+19421,2997,Joao Miyao,8305,Pedro Dias,W,1,"Pts: 0x0, Adv",Grand Slam LDN,62KG,RR,2019
+19423,2997,Joao Miyao,,Fernando Soares,W,1,Choke from back,Grand Slam LDN,62KG,3RD,2019
+19564,2997,Joao Miyao,,Shimon Kagiyama,W,1,Armbar,Pan American,64KG,4F,2019
+19568,2997,Joao Miyao,8884,Alex Sodre,W,1,Referee Decision,Pan American,64KG,SF,2019
+19871,2997,Joao Miyao,,Martin Davila,W,1,Armbar,Orlando SPO,64KG,SF,2019
+19872,2997,Joao Miyao,,Antonio Casarez,W,1,Footlock,Orlando SPO,64KG,F,2019
+20031,2997,Joao Miyao,,D. Moreira,W,1,Pts: 9x0,WP BR Qualifier,62KG,SF,2019
+20033,2997,Joao Miyao,8069,Pablo Mantovani,W,1,Pts: 4x2,WP BR Qualifier,62KG,F,2019
+20076,2997,Joao Miyao,9377,Alexis Alduncin,W,1,Omoplata,World Pro,62KG,RR,2019
+20077,2997,Joao Miyao,,Virgilio Carvalho,W,1,Armbar,World Pro,62KG,RR,2019
+20078,2997,Joao Miyao,,Mohd Ali Hayat,W,1,DQ,World Pro,62KG,RR,2019
+20229,2997,Joao Miyao,,Matheus Oliveira,W,1,Choke from back,Brasileiro,64KG,R1,2019
+20233,2997,Joao Miyao,,Jonas Lisboa,W,1,Injury,Brasileiro,64KG,4F,2019
+20578,2997,Joao Miyao,,Ram Ananda,W,1,Arm in Ezekiel,World Champ.,64KG,R2,2019
+20586,2997,Joao Miyao,,Rene Lopez,W,1,"Pts: 2x2, Adv",World Champ.,64KG,4F,2019
+20867,2997,Joao Miyao,,Zach Maslany,W,1,Inside heel hook,Rise Invitational,63KG,SPF,2019
+21022,2997,Joao Miyao,9934,Deandre Corbe,W,1,Pts: 5x0,Toro Cup,70KG,SPF,2019
+21119,2997,Joao Miyao,,Marvin Castelle,W,1,Points,Sub Stars,65KG,SPF,2019
+21375,2997,Joao Miyao,10357,Richard Alarcon,W,1,RNC,Kasai Pro 6,61KG,RR,2019
+21377,2997,Joao Miyao,1753,Rafael Freitas,W,1,Inside heel hook,Kasai Pro 6,61KG,RR,2019
+21378,2997,Joao Miyao,9401,Ashley Williams,D,0.5,---,Kasai Pro 6,61KG,RR,2019
+21386,2997,Joao Miyao,10380,Junny Ocasio,W,1,Pts: 2x1,Kasai Pro 6,61KG,F,2019
+21518,2997,Joao Miyao,9760,Frank Rosenthal,W,1,Cross face,GrappleFest 6,65KG,SPF,2019
+21767,2997,Joao Miyao,,Diego Vieira,W,1,Armbar,Brasileiro NoGi,61KG,4F,2019
+21769,2997,Joao Miyao,,Jonas Lisboa,W,1,RNC,Brasileiro NoGi,61KG,SF,2019
+22010,2997,Joao Miyao,9697,Sergio Calderon,W,1,RNC,Templum FN,70KG,SPF,2019
+22678,2997,Joao Miyao,,Vincent Saenz,W,1,Points,NYC Fall NGO,61KG,SF,2019
+22835,2997,Joao Miyao,10357,Richard Alarcon,W,1,Pts: 13x2,NoGi Worlds,61KG,4F,2019
+22837,2997,Joao Miyao,,Anthony Oliveira,W,1,RNC,NoGi Worlds,61KG,SF,2019
+23223,2997,Joao Miyao,,Vincent Saenz,W,1,Pts: 4x0,Atlanta WO,64KG,F,2020
+23297,2997,Joao Miyao,,Washington Lima,W,1,RNC,New Orleans Open,64KG,F,2020
+23425,2997,Joao Miyao,,Jon Pineiro,W,1,Submission,Miami WO,64KG,SF,2020
+23426,2997,Joao Miyao,,Luis Ninja,W,1,Triangle,Miami WO,64KG,F,2020

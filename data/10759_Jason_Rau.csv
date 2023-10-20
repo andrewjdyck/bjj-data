@@ -1,0 +1,66 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+11373,10759,Jason Rau,9344,PJ Barch,L,0,Armbar,Show the Art,N/A,N/A,2016
+11725,10759,Jason Rau,9344,PJ Barch,L,0,Inside heel hook,Sapateiro 10,72KG,SF,2017
+14791,10759,Jason Rau,,Dan Martinez,L,0,EBI/OT,Olympus Inv.,ABS,F,2018
+14803,10759,Jason Rau,6419,Marcel Goncalves,L,0,EBI/OT,Finishers 5,85KG,SPF,2018
+17236,10759,Jason Rau,7539,Renato Canuto,L,0,Pts: 11x0,Kasai Pro 3,77KG,RR,2018
+17248,10759,Jason Rau,,M. Lutes,L,0,Pts: 3x0,Kasai Pro 3,77KG,3RD,2018
+18143,10759,Jason Rau,6354,Jonathan Satava,L,0,Pts: 2x0,ADCC EC Trials,77KG,F,2018
+19101,10759,Jason Rau,,W. Tackett,L,0,Pts: 4x2,ADCC WC Trials,77KG,4F,2019
+22532,10759,Jason Rau,10705,Kyle Boehm,L,0,EBI/OT,BJJ Fanatics,ABS,4F,2019
+23772,10759,Jason Rau,11991,Pedro Marinho,L,0,Pts: 3x0,Jitz King,84KG,4F,2020
+24083,10759,Jason Rau,11771,William Tackett,L,0,Triangle armlock,WNO 4,85KG,SPF,2020
+31392,10759,Jason Rau,9668,David Garmo,L,0,Darce choke,ADCC WC Trials,88KG,4F,2022
+33827,10759,Jason Rau,9157,Devhonte Johnson,L,0,Katagatame,Rise 9,ABS,F,2022
+43172,10759,Jason Rau,8974,Kaynan Duarte,L,0,Katagatame,Polaris 25,ABS,4F,2023
+9477,10759,Jason Rau,,Javier Yamuni,W,1,Points,NY Spring NGO,85KG,F,2016
+11386,10759,Jason Rau,,Quentin Rosensweig,W,1,Inside heel hook,Sub Spectrum,N/A,SPF,2017
+11387,10759,Jason Rau,,Aaron Harris,W,1,Armlock,Grappling Ind.,N/A,RR,2017
+11388,10759,Jason Rau,,Todd Muckenheim,W,1,Inside heel hook,Grappling Ind.,N/A,RR,2017
+11389,10759,Jason Rau,9338,Guybson Sa,W,1,Inside heel hook,843 Invitational,ABS,SPF,2017
+11488,10759,Jason Rau,,Werther Mericales,W,1,Outside heel hook,Sapateiro 8,N/A,N/A,2017
+11489,10759,Jason Rau,,Chase Hannah,W,1,Outside heel hook,Sapateiro 8,N/A,N/A,2017
+11721,10759,Jason Rau,,Bryan Tidwell,W,1,Triangle armbar,Sapateiro 10,72KG,R1,2017
+11723,10759,Jason Rau,,Danilo Bergener,W,1,Outside heel hook,Sapateiro 10,72KG,4F,2017
+11727,10759,Jason Rau,,Josh Hayden,W,1,Inside heel hook,Sapateiro 11,N/A,SPF,2017
+13649,10759,Jason Rau,,Matteo Martinez,W,1,Inside heel hook,Grappling Ind.,F,ABS,2017
+14783,10759,Jason Rau,,Adam Colaralie,W,1,Inside heel hook,RISE I,77KG,4F,2017
+14784,10759,Jason Rau,,James Hasseman,W,1,Outside heel hook,RISE I,77KG,SF,2017
+14785,10759,Jason Rau,,Alex Oliveira,W,1,Inside heel hook,RISE I,77KG,F,2017
+14786,10759,Jason Rau,,Chris Schlesinger,W,1,Outside heel hook,RISE 2,77KG,SPF,2017
+14787,10759,Jason Rau,,Elijah Carlton,W,1,Inside heel hook,Olympus Inv.,ABS,R1,2018
+14788,10759,Jason Rau,,Stuart Cox,W,1,Outside heel hook,Olympus Inv.,ABS,R2,2018
+14789,10759,Jason Rau,,Kevin Gallagher,W,1,Kneebar,Olympus Inv.,ABS,4F,2018
+14790,10759,Jason Rau,,Rob Donofrio,W,1,Inside heel hook,Olympus Inv.,ABS,SF,2018
+14792,10759,Jason Rau,,Quentin Rosensweig,W,1,Katagatame,Pilgrim Inv.,N/A,SPF,2018
+17239,10759,Jason Rau,4235,Victor Silverio,W,1,Inside heel hook,Kasai Pro 3,77KG,RR,2018
+17247,10759,Jason Rau,9344,PJ Barch,W,1,Pts: 10x3,Kasai Pro 3,77KG,RR,2018
+17652,10759,Jason Rau,,Leon Jackson,W,1,Inside heel hook,GGL Invitational,ABS,N/A,2018
+17653,10759,Jason Rau,,Inacio Santos,W,1,Outside heel hook,GGL Invitational,ABS,N/A,2018
+17654,10759,Jason Rau,,Christian Banghart,W,1,Outside heel hook,GGL Invitational,ABS,N/A,2018
+17657,10759,Jason Rau,,J. Blank,W,1,Armbar,RISE 3,77KG,SF,2018
+17661,10759,Jason Rau,,Mike Padilla,W,1,RNC,RISE 4,N/A,SPF,2018
+17663,10759,Jason Rau,6095,Mansher Khera,W,1,Referee Decision,RISE 5,77KG,SPF,2018
+18125,10759,Jason Rau,,Calon Sabino,W,1,RNC,ADCC EC Trials,77KG,R1,2018
+18132,10759,Jason Rau,,D. Maira,W,1,Heel hook,ADCC EC Trials,77KG,R2,2018
+18134,10759,Jason Rau,,Michael Arrieta,W,1,Inside heel hook,ADCC EC Trials,77KG,8F,2018
+18141,10759,Jason Rau,,G. Lavaggi,W,1,Inside heel hook,ADCC EC Trials,77KG,4F,2018
+18142,10759,Jason Rau,,Dustin Akbari,W,1,Inside heel hook,ADCC EC Trials,77KG,SF,2018
+19089,10759,Jason Rau,,Javier Cardenas,W,1,Footlock,ADCC WC Trials,77KG,R1,2019
+19094,10759,Jason Rau,,Gustavo Bessa,W,1,Kimura,ADCC WC Trials,77KG,R2,2019
+19095,10759,Jason Rau,,Josh Bacallau,W,1,Inside heel hook,ADCC WC Trials,77KG,R3,2019
+20869,10759,Jason Rau,5453,Herbert Burns,W,1,Inside heel hook,Rise Invitational,77KG,SPF,2019
+22520,10759,Jason Rau,,Quentin Rosensweig,W,1,Straight ankle lock,BJJ Fanatics,ABS,R1,2019
+22527,10759,Jason Rau,,Joe Baize,W,1,Outside heel hook,BJJ Fanatics,ABS,R2,2019
+23764,10759,Jason Rau,,JB Betchloff,W,1,Outside heel hook,Jitz King,84KG,R1,2020
+23943,10759,Jason Rau,,Andrew Franco,W,1,Outside heel hook,SOGI,ABS,R1,2020
+23945,10759,Jason Rau,,Samuel Barbosa,W,1,Armbar,SOGI,ABS,4F,2020
+23947,10759,Jason Rau,,Luis Cabreira,W,1,Anaconda choke,SOGI,ABS,SF,2020
+23949,10759,Jason Rau,,Matt Secor,W,1,Inside heel hook,SOGI,ABS,F,2020
+24251,10759,Jason Rau,,Bassil Hafez,W,1,Referee Decision,F2W 154,88KG,SPF,2020
+25040,10759,Jason Rau,,JZ Cavalcante,W,1,Referee Decision,F2W 161,83KG,SPF,2021
+31365,10759,Jason Rau,,Mathew Cox,W,1,Shoulder lock,ADCC WC Trials,88KG,R2,2022
+31374,10759,Jason Rau,,Mike Dewitt,W,1,Outside heel hook,ADCC WC Trials,88KG,R3,2022
+31387,10759,Jason Rau,,Joseph Watson,W,1,Inside heel hook,ADCC WC Trials,88KG,8F,2022
+33820,10759,Jason Rau,,Luis Cabrera,W,1,Outside heel hook,Rise 9,ABS,4F,2022
+33825,10759,Jason Rau,,Mateo Martinez,W,1,EBI/OT,Rise 9,ABS,SF,2022

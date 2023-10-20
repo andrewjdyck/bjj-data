@@ -1,0 +1,82 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+15042,8814,Adam Benayoun,,Chris Kriebel,L,0,Referee Decision,Atlanta W. Open,70KG,4F,2018
+15585,8814,Adam Benayoun,8632,Thiago Macedo,L,0,Points,Chicago Sp. Open,70KG,SF,2018
+15768,8814,Adam Benayoun,,Frederico Alves,L,0,"Pts: 2x2, Adv",Washington SPO,70KG,4F,2018
+15885,8814,Adam Benayoun,9064,Silvio Duran,L,0,Pts: 8x6,Atlanta Sp. Open,70KG,F,2018
+15891,8814,Adam Benayoun,,Thomas Keenan,L,0,Arm in Ezekiel,Atlanta Sp. Open,ABS,SF,2018
+17053,8814,Adam Benayoun,8800,Matheus Gonzaga,L,0,Points,Boston SMO,70KG,F,2018
+17412,8814,Adam Benayoun,8069,Pablo Mantovani,L,0,Kneebar,No Gi Pan Am.,67KG,SF,2018
+17852,8814,Adam Benayoun,2999,Paulo Miyao,L,0,Pts: 9x4,Miami FO,70KG,F,2018
+18085,8814,Adam Benayoun,9309,Felipe Linhares,L,0,Choke from back,Charlotte Open,70KG,F,2018
+18117,8814,Adam Benayoun,,T. Ruotolo,L,0,Referee Decision,ADCC EC Trials,66KG,4F,2018
+18590,8814,Adam Benayoun,8632,Thiago Macedo,L,0,Referee Decision,NoGi Worlds,67KG,R2,2018
+19177,8814,Adam Benayoun,8800,Matheus Gonzaga,L,0,Adv,Atlanta WO,70KG,SF,2019
+19254,8814,Adam Benayoun,9051,Gabriel Sousa,L,0,Points,US Continental,69KG,F,2019
+19354,8814,Adam Benayoun,,Igor Mocaiber,L,0,Referee Decision,Canada Pro,ABS,SF,2019
+23230,8814,Adam Benayoun,8536,Yuta Shimada,L,0,Referee Decision,Atlanta WO,70KG,F,2020
+23545,8814,Adam Benayoun,9064,Silvio Duran,L,0,N/A,Kansas Open,70KG,SF,2020
+24140,8814,Adam Benayoun,8632,Thiago Macedo,L,0,50/50 armbar,Pan American,70KG,8F,2020
+24463,8814,Adam Benayoun,12372,Francisco Cuneo,L,0,Referee Decision,No Gi Pan Am.,73KG,4F,2020
+28230,8814,Adam Benayoun,10840,Diego Oliveira,L,0,"Pts: 0x0, Adv",NoGi Worlds,67KG,4F,2021
+28803,8814,Adam Benayoun,10380,Junny Ocasio,L,0,Referee Decision,ADCC EC Trials,66KG,R4,2021
+30895,8814,Adam Benayoun,12115,Kieran Kichuk,L,0,EBI/OT,Emerald City,70KG,F,2022
+31512,8814,Adam Benayoun,11568,Josh Cisneros,L,0,Referee Decision,ADCC WC Trials,66KG,8F,2022
+35513,8814,Adam Benayoun,,Gavin Corbe,L,0,"Pts: 0x0, Adv",NoGi Pan,67KG,F,2022
+36816,8814,Adam Benayoun,,Gavin Corbe,L,0,Referee Decision,NoGi Worlds,67KG,4F,2022
+15547,8814,Adam Benayoun,,Reuben Sagman,W,1,Triangle,Canada Nat. Pro,69KG,SF,2018
+15548,8814,Adam Benayoun,,Thiago Barbosa,W,1,"Pts: 0x0, Adv",Canada Nat. Pro,69KG,F,2018
+15552,8814,Adam Benayoun,,Chris Bumgardner,W,1,Triangle,Copa Virginia,76KG,SF,2018
+15553,8814,Adam Benayoun,,Scott Dance,W,1,Omoplata,Copa Virginia,76KG,F,2018
+15884,8814,Adam Benayoun,,Fred Alves,W,1,"Pts: 2x2, Adv",Atlanta Sp. Open,70KG,SF,2018
+15890,8814,Adam Benayoun,,Christopher Carmo,W,1,Pts: 12x8,Atlanta Sp. Open,ABS,4F,2018
+15962,8814,Adam Benayoun,9064,Silvio Duran,W,1,Adv,NY Spring Open,70KG,4F,2018
+15964,8814,Adam Benayoun,,Tiago Ribeiro,W,1,Triangle,NY Spring Open,70KG,SF,2018
+15965,8814,Adam Benayoun,8800,Matheus Gonzaga,W,1,Adv,NY Spring Open,70KG,F,2018
+17052,8814,Adam Benayoun,,Joshua Presley,W,1,N/A,Boston SMO,70KG,SF,2018
+17851,8814,Adam Benayoun,,Daniel Paulino,W,1,Katagatame,Miami FO,70KG,SF,2018
+18083,8814,Adam Benayoun,,Charles Murdock,W,1,N/A,Charlotte Open,70KG,SF,2018
+18101,8814,Adam Benayoun,,M. Zindler,W,1,Anaconda choke,ADCC EC Trials,66KG,R1,2018
+18113,8814,Adam Benayoun,9150,Cole Franson,W,1,Referee Decision,ADCC EC Trials,66KG,8F,2018
+18452,8814,Adam Benayoun,,Spencer Nogawa,W,1,N/A,Denver Open,70KG,SF,2018
+18454,8814,Adam Benayoun,9385,Brandon Walensky,W,1,Points,Denver Open,70KG,F,2018
+18583,8814,Adam Benayoun,,Tomoshige Sera,W,1,Pts: 8x4,NoGi Worlds,67KG,R1,2018
+19174,8814,Adam Benayoun,,Orlando Andaviza,W,1,Points,Atlanta WO,70KG,4F,2019
+19253,8814,Adam Benayoun,,Luan da Silva,W,1,N/A,US Continental,69KG,RR,2019
+19352,8814,Adam Benayoun,,Jon Lau,W,1,Pts: 2x0,Canada Pro,70KG,SF,2019
+19353,8814,Adam Benayoun,,Reuben Sagman,W,1,Bow and arrow,Canada Pro,70KG,F,2019
+19355,8814,Adam Benayoun,,Reuben Sagman,W,1,Submission,Canada Pro,ABS,3RD,2019
+23227,8814,Adam Benayoun,,Giovani Marcelo,W,1,"Pts: 2x2, Adv",Atlanta WO,70KG,4F,2020
+23229,8814,Adam Benayoun,11093,Emilio Hernandez,W,1,Armbar,Atlanta WO,70KG,SF,2020
+23542,8814,Adam Benayoun,,Victor Paschoal,W,1,Points,Kansas Open,70KG,4F,2020
+23989,8814,Adam Benayoun,,Edward Hohl,W,1,Points,Oklahoma Open,70KG,SF,2020
+23991,8814,Adam Benayoun,11510,Samuel Nagai,W,1,Pts: 6x2,Oklahoma Open,70KG,F,2020
+24137,8814,Adam Benayoun,,Edward Hohl,W,1,Pts: 4x2,Pan American,70KG,R1,2020
+24461,8814,Adam Benayoun,,Mauricio Gomez,W,1,Pts: 2x0,No Gi Pan Am.,73KG,R1,2020
+25448,8814,Adam Benayoun,12303,Marcus Beddor,W,1,Points,Orlando NGO,67KG,4F,2021
+25450,8814,Adam Benayoun,,Suraj Budhram,W,1,Points,Orlando NGO,67KG,SF,2021
+25451,8814,Adam Benayoun,,Orlando Castillo,W,1,Verbal tap,Orlando NGO,67KG,F,2021
+26621,8814,Adam Benayoun,,Jordan Holy,W,1,Points,3CG MW GP,73KG,SPF,2021
+27168,8814,Adam Benayoun,,Kieran Davern,D,0.5,---,Polaris Squads,ABS,RR,2021
+27181,8814,Adam Benayoun,,Bradley Hill,D,0.5,---,Polaris Squads,ABS,RR,2021
+27190,8814,Adam Benayoun,,Jed Hue,D,0.5,---,Polaris Squads,ABS,RR,2021
+28225,8814,Adam Benayoun,,Elijah Tagalog,W,1,Pts: 10x0,NoGi Worlds,67KG,8F,2021
+28689,8814,Adam Benayoun,,Felipe Makoto,W,1,Estima lock,Nashville NGO,67KG,4F,2021
+28690,8814,Adam Benayoun,,Huthayfah Penney,W,1,RNC,Nashville NGO,67KG,SF,2021
+28692,8814,Adam Benayoun,11093,Emilio Hernandez,W,1,RNC,Nashville NGO,67KG,F,2021
+28769,8814,Adam Benayoun,,Kaleb Wats,W,1,Darce choke,ADCC EC Trials,66KG,R1,2021
+28782,8814,Adam Benayoun,,Joey Diehl,W,1,Pts: 2x0,ADCC EC Trials,66KG,R2,2021
+28794,8814,Adam Benayoun,,Samson Sausser,W,1,Referee Decision,ADCC EC Trials,66KG,R3,2021
+29995,8814,Adam Benayoun,,Miha Perhavec,W,1,Pts: 4x2,Austin WNGO,ABS,SF,2022
+29996,8814,Adam Benayoun,,Austin Oranday,W,1,Referee Decision,Austin WNGO,ABS,F,2022
+30526,8814,Adam Benayoun,,Dany Vega,W,1,Darce choke,N. Orleans NGO,73KG,RR,2022
+30527,8814,Adam Benayoun,12356,Damion Oranday,W,1,Inside heel hook,N. Orleans NGO,73KG,F,2022
+30890,8814,Adam Benayoun,9051,Gabriel Sousa,W,1,EBI/OT,Emerald City,70KG,4F,2022
+30893,8814,Adam Benayoun,8767,Jon Calestine,W,1,EBI/OT,Emerald City,70KG,SF,2022
+31475,8814,Adam Benayoun,,Easton Farr,W,1,Anaconda choke,ADCC WC Trials,66KG,R1,2022
+31490,8814,Adam Benayoun,,Riley Golden,W,1,Inside heel hook,ADCC WC Trials,66KG,R2,2022
+31506,8814,Adam Benayoun,,Kristofer Arrey,W,1,Armbar,ADCC WC Trials,66KG,R3,2022
+31511,8814,Adam Benayoun,,Cameron Mellott,W,1,Pts: 3x0,ADCC WC Trials,66KG,R4,2022
+35502,8814,Adam Benayoun,11093,Emilio Hernandez,W,1,Pts: 8x6,NoGi Pan,67KG,R1,2022
+35507,8814,Adam Benayoun,11512,Lukete Silva,W,1,Referee Decision,NoGi Pan,67KG,4F,2022
+35511,8814,Adam Benayoun,4248,Gianni Grippo,W,1,"Pts: 8x8, Adv",NoGi Pan,67KG,SF,2022
+36811,8814,Adam Benayoun,10357,Richard Alarcon,W,1,Pts: 4x2,NoGi Worlds,67KG,R1,2022

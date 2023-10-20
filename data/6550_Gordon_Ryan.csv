@@ -1,0 +1,108 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8858,6550,Gordon Ryan,9246,Tex Johnson,L,0,Points,Grappling Ind.,ABS,F,2016
+11340,6550,Gordon Ryan,2416,Felipe Pena,L,0,RNC,Studio 540 SPF,ABS,SPF,2016
+12570,6550,Gordon Ryan,1188,Leandro Lo,L,0,Pts: 4x0,ADCC WC Trials,ABS,SPF,2017
+13939,6550,Gordon Ryan,2416,Felipe Pena,L,0,Pts: 6x0,ADCC,ABS,F,2017
+16348,6550,Gordon Ryan,733,Vinny Magalhaes,L,0,Points,ACBJJ 13,O95KG,SPF,2018
+9124,6550,Gordon Ryan,,Ian Murray,W,1,Inside heel hook,Sapateiro Inv.,ABS,R1,2016
+9128,6550,Gordon Ryan,,Elliott Hill,W,1,Armlock,Sapateiro Inv.,ABS,4F,2016
+9130,6550,Gordon Ryan,9344,PJ Barch,W,1,Kneebar,Sapateiro Inv.,ABS,SF,2016
+9131,6550,Gordon Ryan,7247,Enrico Cocco,W,1,Inside heel hook,Sapateiro Inv.,ABS,F,2016
+9452,6550,Gordon Ryan,,Pat Sabatini,W,1,Inside heel hook,Goodfight Pro,77KG,SF,2016
+9453,6550,Gordon Ryan,,Kevin Berbrich,W,1,Choke,Goodfight Pro,77KG,F,2016
+9454,6550,Gordon Ryan,,Joshua Bacallao,W,1,Inside heel hook,PTL Sunday Open,ABS,SF,2016
+9456,6550,Gordon Ryan,,Nathan Orchard,W,1,Reverse triangle,PTL Sunday Open,ABS,SPF,2016
+9487,6550,Gordon Ryan,,James Partridge,W,1,Inside heel hook,Onnit Inv. 2,ABS,SPF,2016
+9671,6550,Gordon Ryan,,Jacen Flynn,W,1,RNC,EBI 6,ABS,R1,2016
+9678,6550,Gordon Ryan,,Marcello Salazar,W,1,Kneebar,EBI 6,ABS,4F,2016
+9681,6550,Gordon Ryan,1740,Yuri Simoes,W,1,EBI/OT,EBI 6,ABS,SF,2016
+9683,6550,Gordon Ryan,,Rustam Chsiev,W,1,EBI/OT,EBI 6,ABS,F,2016
+10355,6550,Gordon Ryan,3009,Keenan Cornelius,W,1,Inside heel hook,Grappling Ind.,ABS,SPF,2016
+10488,6550,Gordon Ryan,,Matt Arroyo,W,1,Inside heel hook,EBI 8,84KG,R1,2016
+10496,6550,Gordon Ryan,,Mike Hillebrand,W,1,RNC,EBI 8,84KG,4F,2016
+10500,6550,Gordon Ryan,,Josh Hayden,W,1,EBI/OT,EBI 8,84KG,SF,2016
+10502,6550,Gordon Ryan,,Kyle Griffin,W,1,Inside heel hook,EBI 8,84KG,F,2016
+10762,6550,Gordon Ryan,,Todd Mueckemheim,W,1,Kimura,Sapateiro Inv.,ABS,SPF,2016
+10763,6550,Gordon Ryan,8394,Vagner Rocha,D,0.5,---,Sapateiro 2,ABS,SPF,2016
+11474,6550,Gordon Ryan,,Bryan Brown,W,1,RNC,Sapateiro 6,ABS,R1,2017
+11481,6550,Gordon Ryan,1236,Antonio Carlos,W,1,Reverse triangle,Sapateiro 6,ABS,4F,2017
+11485,6550,Gordon Ryan,,Jesseray Childrey,W,1,RNC,Sapateiro 6,ABS,SF,2017
+11487,6550,Gordon Ryan,,Matthew Tesla,W,1,Reverse triangle,Sapateiro 6,ABS,F,2017
+11675,6550,Gordon Ryan,,Joe Baize,W,1,Reverse triangle,SUG 3,ABS,SPF,2017
+12005,6550,Gordon Ryan,,JP Lebosnoyani,W,1,RNC,EBI 11,77KG,R1,2017
+12013,6550,Gordon Ryan,,C. MacKarski,W,1,Arm in guillotine,EBI 11,77KG,4F,2017
+12018,6550,Gordon Ryan,6419,Marcel Goncalves,W,1,Short choke,EBI 11,77KG,SF,2017
+12019,6550,Gordon Ryan,8394,Vagner Rocha,W,1,RNC,EBI 11,77KG,F,2017
+12374,6550,Gordon Ryan,5655,Lucas Barbosa,W,1,Referee Decision,F2W 30,92KG,SPF,2017
+12917,6550,Gordon Ryan,7519,Eliot Kelly,W,1,Triangle armbar,F2W 34,ABS,SPF,2017
+13646,6550,Gordon Ryan,,M. Jokmanovic,W,1,Kimura,Grappling Ind.,ABS,4F,2017
+13647,6550,Gordon Ryan,9246,Tex Johnson,W,1,Reverse triangle,Grappling Ind.,ABS,SF,2017
+13648,6550,Gordon Ryan,,D. Johnson,W,1,RNC,Grappling Ind.,ABS,F,2017
+13883,6550,Gordon Ryan,5258,Dillon Danis,W,1,Referee Decision,ADCC,88KG,E1,2017
+13887,6550,Gordon Ryan,320,Romulo Barral,W,1,RNC,ADCC,88KG,4F,2017
+13889,6550,Gordon Ryan,84,Alexandre Ribeiro,W,1,Referee Decision,ADCC,88KG,SF,2017
+13891,6550,Gordon Ryan,3009,Keenan Cornelius,W,1,Mounted guillotine,ADCC,88KG,F,2017
+13931,6550,Gordon Ryan,224,Roberto Abreu,W,1,Inside heel hook,ADCC,ABS,E1,2017
+13935,6550,Gordon Ryan,8346,Craig Jones,W,1,Katagatame,ADCC,ABS,4F,2017
+13936,6550,Gordon Ryan,5842,Mahamed Aly,W,1,Heel hook,ADCC,ABS,SF,2017
+14503,6550,Gordon Ryan,,Ralek Gracie,W,1,Reverse triangle,Metamoris,ABS,SPF,2017
+14539,6550,Gordon Ryan,,D. Borovic,W,1,Outside heel hook,EBI 14,ABS,R1,2017
+14547,6550,Gordon Ryan,,P. Donabedian,W,1,Armbar,EBI 14,ABS,4F,2017
+14551,6550,Gordon Ryan,,C. Hellenberg,W,1,EBI/OT,EBI 14,ABS,SF,2017
+14553,6550,Gordon Ryan,8346,Craig Jones,W,1,EBI/OT,EBI 14,ABS,F,2017
+14574,6550,Gordon Ryan,1740,Yuri Simoes,W,1,RNC,Kasai Pro,ABS,SPF,2017
+17404,6550,Gordon Ryan,6805,Max Gimenis,W,1,RNC,No Gi Pan Am.,ABS,SF,2018
+17406,6550,Gordon Ryan,8974,Kaynan Duarte,W,1,RNC,No Gi Pan Am.,ABS,F,2018
+17457,6550,Gordon Ryan,,Charles McGuire,W,1,Tarikoplata,No Gi Pan Am.,O97KG,SF,2018
+17459,6550,Gordon Ryan,6805,Max Gimenis,W,1,RNC,No Gi Pan Am.,O97KG,F,2018
+17732,6550,Gordon Ryan,,Josh Barnett,W,1,Triangle,Quintet 3,ABS,SF,2018
+17733,6550,Gordon Ryan,1848,Marcos Souza,W,1,RNC,Quintet 3,ABS,SF,2018
+17734,6550,Gordon Ryan,1824,Roberto Satoshi,D,0.5,---,Quintet 3,ABS,SF,2018
+17746,6550,Gordon Ryan,8346,Craig Jones,W,1,Short choke,Quintet 3,ABS,F,2018
+17747,6550,Gordon Ryan,81,Vitor Shaolin,W,1,Armbar,Quintet 3,ABS,F,2018
+17748,6550,Gordon Ryan,1322,Gregor Gracie,D,0.5,---,Quintet 3,ABS,F,2018
+18686,6550,Gordon Ryan,,Evangelous Moumtzis,W,1,Armbar,NoGi Worlds,O97KG,R1,2018
+18695,6550,Gordon Ryan,1740,Yuri Simoes,W,1,Pts: 11x0,NoGi Worlds,O97KG,SF,2018
+18696,6550,Gordon Ryan,224,Roberto Abreu,W,1,DQ,NoGi Worlds,O97KG,F,2018
+18705,6550,Gordon Ryan,,Kalil Fadlallah,W,1,Choke,NoGi Worlds,ABS,R1,2018
+18711,6550,Gordon Ryan,,Vegard Randeberg,W,1,RNC,NoGi Worlds,ABS,R2,2018
+18716,6550,Gordon Ryan,4430,Patrick Gaudio,W,1,"Pts: 4x4, Adv",NoGi Worlds,ABS,4F,2018
+18719,6550,Gordon Ryan,3200,Jackson Sousa,W,1,RNC,NoGi Worlds,ABS,SF,2018
+18720,6550,Gordon Ryan,1740,Yuri Simoes,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,F,2018
+19020,6550,Gordon Ryan,2403,Joao Rocha,W,1,Pts: 1x0,Kasai Dallas,120KG,SPF,2019
+21367,6550,Gordon Ryan,,Gabriel Checco,W,1,Kimura,Kinektic 1,ABS,R3,2019
+21368,6550,Gordon Ryan,,Rafael Domingos,W,1,RNC,Kinektic 1,ABS,R4,2019
+21369,6550,Gordon Ryan,,G. Vasconcelos,W,1,Arm in guillotine,Kinektic 1,ABS,R5,2019
+21828,6550,Gordon Ryan,,Ben Hodgkinson,W,1,RNC,ADCC,99KG,R1,2019
+21836,6550,Gordon Ryan,4310,Tim Spriggs,W,1,RNC,ADCC,99KG,4F,2019
+21888,6550,Gordon Ryan,5655,Lucas Barbosa,W,1,Pts: 3x0,ADCC,99KG,SF,2019
+21890,6550,Gordon Ryan,9180,Vinicius Trator,W,1,Choke,ADCC,99KG,F,2019
+21906,6550,Gordon Ryan,11991,Pedro Marinho,W,1,Outside heel hook,ADCC,ABS,R1,2019
+21913,6550,Gordon Ryan,5649,Garry Tonon,W,1,Choke,ADCC,ABS,4F,2019
+21916,6550,Gordon Ryan,8682,Lachlan Giles,W,1,RNC,ADCC,ABS,SF,2019
+21918,6550,Gordon Ryan,984,Marcus Almeida,W,1,"Pts: 0x0, Pen",ADCC,ABS,F,2019
+21964,6550,Gordon Ryan,431,Rousimar Palhares,W,1,Referee Decision,World Festival,ABS,SPF,2019
+22798,6550,Gordon Ryan,,Bo Nickal,W,1,Triangle,Third Coast III,94KG,SPF,2019
+22807,6550,Gordon Ryan,,Aleksei Oleinik,W,1,Kneebar,Quintet Ultra,ABS,SPF,2019
+22920,6550,Gordon Ryan,10430,Gabriel Gonzaga,W,1,Outside heel hook,SUG 10,ABS,SPF,2019
+23452,6550,Gordon Ryan,9246,Tex Johnson,W,1,Katagatame,Sub Stars,N/A,SPF,2020
+23523,6550,Gordon Ryan,,Pat Downey,W,1,Verbal tap,BJJ Fanatics GP,ABS,SPF,2020
+23742,6550,Gordon Ryan,,David Newton,W,1,RNC,Grappling Ind.,ABS,SPF,2020
+23743,6550,Gordon Ryan,,Abraham Hall,W,1,Triangle,Grappling Ind.,ABS,SPF,2020
+23744,6550,Gordon Ryan,,Benjamin Dixon,W,1,RNC,Grappling Ind.,ABS,SPF,2020
+23745,6550,Gordon Ryan,,Chad Allen,W,1,RNC,Grappling Ind.,ABS,SPF,2020
+23746,6550,Gordon Ryan,,Austin Tracy,W,1,RNC,Grappling Ind.,ABS,SPF,2020
+23751,6550,Gordon Ryan,10705,Kyle Boehm,W,1,Armlock,WNO,ABS,SPF,2020
+24078,6550,Gordon Ryan,5423,Matheus Diniz,W,1,Inside heel hook,WNO 4,ABS,SPF,2020
+25174,6550,Gordon Ryan,10880,Roberto Jimenez,W,1,Armbar,WNO 6,ABS,SPF,2021
+25396,6550,Gordon Ryan,8394,Vagner Rocha,W,1,Reverse triangle,WNO 7,93KG,SPF,2021
+31297,6550,Gordon Ryan,13162,Jacob Couch,W,1,Pressure,WNO 12,O92KG,SPF,2022
+33640,6550,Gordon Ryan,11991,Pedro Marinho,W,1,RNC,WNO 13,O93KG,SPF,2022
+34216,6550,Gordon Ryan,2416,Felipe Pena,W,1,Verbal tap,WNO 14,ABS,SPF,2022
+35064,6550,Gordon Ryan,,Heikki Jussila,W,1,RNC,ADCC,O99KG,R1,2022
+35072,6550,Gordon Ryan,10159,Victor Hugo,W,1,Pts: 8x0,ADCC,O99KG,4F,2022
+35076,6550,Gordon Ryan,11499,Roosevelt Sousa,W,1,Outside heel hook,ADCC,O99KG,SF,2022
+35078,6550,Gordon Ryan,12110,Nick Rodriguez,W,1,Outside heel hook,ADCC,O99KG,F,2022
+35109,6550,Gordon Ryan,144,Andre Galvao,W,1,RNC,ADCC,ABS,SPF,2022
+36948,6550,Gordon Ryan,12110,Nick Rodriguez,W,1,EBI/OT,UFC Invitational,ABS,SPF,2022
+43166,6550,Gordon Ryan,4430,Patrick Gaudio,W,1,Armbar,WNO 20,ABS,SPF,2023

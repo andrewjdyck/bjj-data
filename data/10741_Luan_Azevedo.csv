@@ -1,0 +1,24 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+22999,10741,Luan Azevedo,6301,Faisal AlKitbe,L,0,Pts: 3x0,Grand Slam AD,94KG,R1,2020
+27619,10741,Luan Azevedo,,R. Vasconcelos,L,0,"Pts: 0x0, Pen",Pan American,94KG,8F,2021
+29568,10741,Luan Azevedo,8974,Kaynan Duarte,L,0,RNC,World Champ.,94KG,F,2021
+33699,10741,Luan Azevedo,6631,Igor Schneider,L,0,Points,Austin SMO,ABS,SF,2022
+38446,10741,Luan Azevedo,12267,Lucas Norat,L,0,Referee Decision,Pan American,94KG,R1,2023
+40335,10741,Luan Azevedo,3200,Jackson Sousa,L,0,Pts: 6x0,World Champ.,94KG,8F,2023
+22113,10741,Luan Azevedo,,Erick Guaraci,W,1,Points,Curitiba SPO,94KG,SF,2019
+22115,10741,Luan Azevedo,6825,Fernando Reis,W,1,Referee Decision,Curitiba SPO,94KG,F,2019
+22339,10741,Luan Azevedo,,Caue Rodrigues,W,1,Pts: 4x0,Grand Slam RJ,94KG,4F,2019
+22342,10741,Luan Azevedo,8686,Fellipe Trovo,W,1,"Pts: 0x0, Adv",Grand Slam RJ,94KG,SF,2019
+22344,10741,Luan Azevedo,7478,Adam Wardzinski,W,1,"Pts: 0x0, Adv",Grand Slam RJ,94KG,F,2019
+23269,10741,Luan Azevedo,,Lucas Moutinho,W,1,Points,Sul Brasileiro,94KG,SF,2020
+23270,10741,Luan Azevedo,,Marcos Aurelio,W,1,Points,Sul Brasileiro,94KG,F,2020
+23378,10741,Luan Azevedo,,Gabriel Busque,W,1,Pts: 5x0,Curitiba SO,94KG,4F,2020
+23379,10741,Luan Azevedo,,Thiago Vicente,W,1,Choke,Curitiba SO,94KG,SF,2020
+23380,10741,Luan Azevedo,,Ricardo Peruffo,W,1,Pts: 9x0,Curitiba SO,94KG,F,2020
+29556,10741,Luan Azevedo,7478,Adam Wardzinski,W,1,"Pts: 0x0, Adv",World Champ.,94KG,R1,2021
+29565,10741,Luan Azevedo,11064,Rider Zuchi,W,1,Referee Decision,World Champ.,94KG,4F,2021
+29567,10741,Luan Azevedo,4960,Dimitrius Souza,W,1,Referee Decision,World Champ.,94KG,SF,2021
+33420,10741,Luan Azevedo,,Filipe Pimentel,W,1,Choke,American Nat.,94KG,SF,2022
+33689,10741,Luan Azevedo,,Patrick Goncalves,W,1,Baseball bat choke,Austin SMO,94KG,SF,2022
+33691,10741,Luan Azevedo,,Filipe Pimentel,W,1,Pts: 4x0,Austin SMO,94KG,F,2022
+41500,10741,Luan Azevedo,,Marlon Tanaka,W,1,Points,Austin SMO,94KG,RR,2023

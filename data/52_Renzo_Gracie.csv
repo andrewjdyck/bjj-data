@@ -1,0 +1,21 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+55,52,Renzo Gracie,508,Wallid Ismail,L,0,Pts: 6x0,Desafio WxR,82KG,SPF,1993
+325,52,Renzo Gracie,6518,Egan Inoue,L,0,Pts: 2x0,ADCC,88KG,4F,1999
+781,52,Renzo Gracie,16,Marcelo Garcia,L,0,Pts: 9x0,ADCC,77KG,4F,2003
+1176,52,Renzo Gracie,919,Pablo Popovitch,L,0,Pts: 4x0,ADCC,77KG,R1,2005
+3320,52,Renzo Gracie,232,Mario Sperry,L,0,Pts: 2x0,ADCC,ABS,SPF,2011
+54,52,Renzo Gracie,,De La Riva,W,1,Adv,Brasileiro,76KG,NA,1993
+61,52,Renzo Gracie,666,Alexandre Paiva,W,1,Referee Decision,Atlantico Sul,82KG,SF,1994
+62,52,Renzo Gracie,,Rogerio,W,1,Bread cutter,Atlantico Sul,82KG,F,1994
+153,52,Renzo Gracie,,Frank Trigg,W,1,Referee Decision,ADCC,77KG,R1,1998
+157,52,Renzo Gracie,,Rodrigo Modrias,W,1,Pts: 3x0,ADCC,77KG,4F,1998
+159,52,Renzo Gracie,,Fabiano Iha,W,1,Pts: 3x0,ADCC,77KG,SF,1998
+161,52,Renzo Gracie,,Luis Brito,W,1,Guillotine,ADCC,77KG,F,1998
+322,52,Renzo Gracie,,Fan Yi,W,1,Submission,ADCC,88KG,R1,1999
+415,52,Renzo Gracie,,Dennis Hallman,W,1,Pts: 7x0,ADCC,77KG,R1,2000
+421,52,Renzo Gracie,,Israel Albuquerque,W,1,Pts: 3x0,ADCC,77KG,4F,2000
+424,52,Renzo Gracie,687,Marcio Feitosa,W,1,Guillotine,ADCC,77KG,SF,2000
+426,52,Renzo Gracie,88,JJ Machado,W,1,Adv,ADCC,77KG,F,2000
+522,52,Renzo Gracie,,Chris Brown,W,1,Adv,ADCC,88KG,R1,2001
+778,52,Renzo Gracie,,G. Sotiropoulos,W,1,Points,ADCC,77KG,R1,2003
+6219,52,Renzo Gracie,,Sakuraba,D,0.5,---,Metamoris 5,ABS,SPF,2014

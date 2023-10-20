@@ -1,0 +1,56 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24550,12419,Daniel Diniz,6103,Isaac Doederlein,L,0,Referee Decision,American Nats,70KG,4F,2020
+25405,12419,Daniel Diniz,4248,Gianni Grippo,L,0,Referee Decision,Orlando Open,70KG,SF,2021
+25791,12419,Daniel Diniz,11568,Josh Cisneros,L,0,Adv,Houston Open,70KG,SF,2021
+25826,12419,Daniel Diniz,12372,Francisco Cuneo,L,0,Adv,Houston NGO,73KG,4F,2021
+26100,12419,Daniel Diniz,10220,Paulo Gabriel,L,0,Pts: 2x0,NoGi Pan Am.,73KG,R1,2021
+26207,12419,Daniel Diniz,8427,Michael Perez,L,0,Guillotine,NoGi Pan Am.,ABS,8F,2021
+26577,12419,Daniel Diniz,9407,Alexandre Molinaro,L,0,Points,Boise Open,76KG,SF,2021
+26668,12419,Daniel Diniz,9407,Alexandre Molinaro,L,0,Pts: 8x6,American Nats,76KG,F,2021
+27543,12419,Daniel Diniz,10953,Danilo Moreira,L,0,"Pts: 2x2, Adv",Pan American,70KG,R1,2021
+27847,12419,Daniel Diniz,11878,Andy Murasaki,L,0,Katagatame,Atlanta SMOP,82KG,F,2021
+27866,12419,Daniel Diniz,,Rodrigo Gortari,L,0,Pts: 4x2,Atlanta SMNG,73KG,SF,2021
+28249,12419,Daniel Diniz,11512,Lukete Silva,L,0,"Pts: 2x2, Adv",NoGi Worlds,73KG,8F,2021
+29030,12419,Daniel Diniz,11015,Pablo Lavaselli,L,0,"Pts: 2x2, Adv",JJ CON,76KG,SF,2021
+29492,12419,Daniel Diniz,8138,Hugo Marques,L,0,"Pts: 0x0, Adv",World Champ.,76KG,R1,2021
+30780,12419,Daniel Diniz,12629,Fabricio Barbarotti,L,0,"Pts: 4x4, Adv",Dallas Open,76KG,4F,2022
+31656,12419,Daniel Diniz,10085,Johnatha Alves,L,0,Toe hold,Pan American,76KG,4F,2022
+32905,12419,Daniel Diniz,8516,Lucas Valente,L,0,Pts: 2x0,World Champ.,76KG,R1,2022
+33858,12419,Daniel Diniz,4163,Marcio Andre,L,0,Choke from back,Phoenix Open,82KG,F,2022
+34223,12419,Daniel Diniz,10953,Danilo Moreira,L,0,"Pts: 0x0, Adv",Santa Cruz Open,76KG,F,2022
+35520,12419,Daniel Diniz,,Daniel Seth,L,0,Inside heel hook,NoGi Pan,73KG,R1,2022
+36825,12419,Daniel Diniz,10953,Danilo Moreira,L,0,Armbar,NoGi Worlds,73KG,8F,2022
+37724,12419,Daniel Diniz,9051,Gabriel Sousa,L,0,Pts: 2x0,Memphis Open,76KG,SF,2023
+37793,12419,Daniel Diniz,10352,Leo Silva,L,0,Referee Decision,Tampa Open,76KG,SF,2023
+37804,12419,Daniel Diniz,,Chris Passarrello,L,0,N/A,Tampa Open,ABS,SF,2023
+38393,12419,Daniel Diniz,10216,Natan Chueng,L,0,Choke from back,Pan American,76KG,8F,2023
+39047,12419,Daniel Diniz,12918,Daniel Sathler,L,0,"Pts: 0x0, Adv",Santa Cruz O,76KG,SF,2023
+40227,12419,Daniel Diniz,11919,Daniel Maira,L,0,Referee Decision,World Champ.,70KG,R1,2023
+41774,12419,Daniel Diniz,13051,Caio Vinicius,L,0,"Pts: 0x0, Adv",SDiego SMO,ABS,SF,2023
+24548,12419,Daniel Diniz,,Max DeBeen,W,1,Triangle,American Nats,70KG,R1,2020
+25404,12419,Daniel Diniz,,Thiago Cintra,W,1,Points,Orlando Open,70KG,4F,2021
+25790,12419,Daniel Diniz,,Juan Garcia,W,1,Pts: 12x0,Houston Open,70KG,4F,2021
+26193,12419,Daniel Diniz,,Alex Larmey,W,1,Pts: 2x0,NoGi Pan Am.,ABS,R1,2021
+26194,12419,Daniel Diniz,7519,Eliot Kelly,W,1,Adv,NoGi Pan Am.,ABS,R2,2021
+26576,12419,Daniel Diniz,,David Sigler,W,1,Choke from back,Boise Open,76KG,4F,2021
+26665,12419,Daniel Diniz,7143,Breno Bittencourt,W,1,"Pts: 4x4, Adv",American Nats,76KG,4F,2021
+26666,12419,Daniel Diniz,8632,Thiago Macedo,W,1,Referee Decision,American Nats,76KG,SF,2021
+27846,12419,Daniel Diniz,,Yue Goh,W,1,Pts: 6x4,Atlanta SMOP,82KG,SF,2021
+28242,12419,Daniel Diniz,9309,Felipe Linhares,W,1,"Pts: 0x0, Pen",NoGi Worlds,73KG,R2,2021
+29023,12419,Daniel Diniz,6368,Kevin Mahecha,W,1,Adv,JJ CON,76KG,R1,2021
+29027,12419,Daniel Diniz,4851,Kim Terra,W,1,Adv,JJ CON,76KG,4F,2021
+30778,12419,Daniel Diniz,,Victor Junqueira,W,1,Toe hook,Dallas Open,76KG,R1,2022
+31642,12419,Daniel Diniz,,Leonardo Silva,W,1,Adv,Pan American,76KG,R1,2022
+31650,12419,Daniel Diniz,9407,Alexandre Molinaro,W,1,Pts: 4x0,Pan American,76KG,R2,2022
+32440,12419,Daniel Diniz,,Cameron Chaffee,W,1,Adv,SD Open,76KG,4F,2022
+32442,12419,Daniel Diniz,7664,Johnny Tama,W,1,Pts: 4x2,SD Open,76KG,SF,2022
+32643,12419,Daniel Diniz,,Joao Albuquerque,W,1,Pts: 4x2,Denver Open,ABS,R1,2022
+33857,12419,Daniel Diniz,,Thiago Amorim,W,1,Choke from back,Phoenix Open,82KG,SF,2022
+34222,12419,Daniel Diniz,,Rodrigo Cardoso,W,1,Choke from Omoplata,Santa Cruz Open,76KG,SF,2022
+34245,12419,Daniel Diniz,,Edward Hohl,W,1,Pts: 2x2,Santa Cruz NGO,79KG,SF,2022
+34247,12419,Daniel Diniz,,Jonathan Roberts,W,1,Pts: 2x0,Santa Cruz NGO,79KG,F,2022
+36820,12419,Daniel Diniz,,Leonardo Domingos,W,1,Terra lock,NoGi Worlds,73KG,R1,2022
+37722,12419,Daniel Diniz,,Theodore Sanders,W,1,Omoplata,Memphis Open,76KG,4F,2023
+37792,12419,Daniel Diniz,,Ari Pollan,W,1,Referee Decision,Tampa Open,76KG,4F,2023
+38387,12419,Daniel Diniz,,Theodore Sanders,W,1,Points,Pan American,76KG,R1,2023
+39046,12419,Daniel Diniz,,Henry Clark,W,1,"Pts: 0x0, Adv",Santa Cruz O,76KG,4F,2023

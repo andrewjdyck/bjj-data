@@ -1,0 +1,20 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2697,901,Kayron Gracie,16,Marcelo Garcia,L,0,Pts: 5x0,World Champ.,82KG,SF,2010
+3327,901,Kayron Gracie,1386,Davi Ramos,L,0,Calf slicer,NoGi Pan Ams,ABS,F,2011
+4150,901,Kayron Gracie,576,Rafael Lovato,L,0,Kimura,Metamoris,ABS,SPF,2012
+4593,901,Kayron Gracie,,Marcelo Lapela,L,0,Guillotine,Pan American,82KG,4F,2013
+7019,901,Kayron Gracie,6354,Jonathan Satava,L,0,North South Choke,NY Spring Open,82KG,SF,2015
+2550,901,Kayron Gracie,,Diego Gamonal,W,1,Cross choke,Pan American,82KG,R1,2010
+2553,901,Kayron Gracie,9706,Marcelo Mafra,W,1,N/A,Pan American,82KG,4F,2010
+2555,901,Kayron Gracie,138,Sergio Moraes,W,1,"Pts: 2x2, Adv",Pan American,82KG,SF,2010
+2557,901,Kayron Gracie,390,Abmar Barbosa,W,1,Pts: 6x4,Pan American,82KG,F,2010
+3637,901,Kayron Gracie,,Diogo Silva,W,1,Ezekiel,Pan American,88KG,4F,2012
+3639,901,Kayron Gracie,7224,Diogo Almeida,W,1,Pts: 6x2,Pan American,88KG,SF,2012
+3641,901,Kayron Gracie,1986,Vitor Toledo,W,1,Choke from back,Pan American,88KG,F,2012
+4586,901,Kayron Gracie,,Romulo Melo,W,1,N/A,Pan American,82KG,R2,2013
+7017,901,Kayron Gracie,,Phil Miller,W,1,N/A,NY Spring Open,82KG,4F,2015
+7295,901,Kayron Gracie,,Sean Fisher,W,1,Points,Boston Spring Open,82KG,SF,2015
+7296,901,Kayron Gracie,9640,Brian Beaury,W,1,Botinha,Boston Spring Open,82KG,F,2015
+13693,901,Kayron Gracie,,Young Kim,W,1,N/A,Asian Open,82KG,4F,2017
+13695,901,Kayron Gracie,,Javier Valenciano,W,1,N/A,Asian Open,82KG,SF,2017
+13696,901,Kayron Gracie,8081,Nathan Mendelsohn,W,1,Arm in Ezekiel,Asian Open,82KG,F,2017

@@ -1,0 +1,200 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2465,5414,Osvaldo Moizinho,6503,Marcel Fortuna,L,0,Armbar,AZ Open,ABS,SF,2010
+2876,5414,Osvaldo Moizinho,174,Bruno Frazatto,L,0,Pts: 4x2,Pan American,70KG,4F,2011
+3986,5414,Osvaldo Moizinho,8231,Leo Saggioro,L,0,RNC,World Champ.,70KG,4F,2012
+4446,5414,Osvaldo Moizinho,147,Rubens Charles,L,0,Inverted triangle,European Open,70KG,SF,2013
+4783,5414,Osvaldo Moizinho,790,Mario Reis,L,0,Pts: 6x2,World Champ.,70KG,4F,2013
+4955,5414,Osvaldo Moizinho,562,Eduardo Telles,L,0,Pts: 4x0,American NNG,ABS,SF,2013
+5102,5414,Osvaldo Moizinho,1398,Justin Rader,L,0,Referee Decision,NoGi Worlds,70KG,F,2013
+5132,5414,Osvaldo Moizinho,1617,Victor Estima,L,0,Pts: 8x2,IBJJF Pro League,82KG,SF,2013
+5142,5414,Osvaldo Moizinho,415,Guilherme Mendes,L,0,Points,SF Open,70KG,SF,2013
+5144,5414,Osvaldo Moizinho,4177,Gustavo Dias,L,0,Kneebar,SF Open,ABS,SF,2013
+5351,5414,Osvaldo Moizinho,790,Mario Reis,L,0,Pts: 6x4,Pan American,70KG,SF,2014
+5644,5414,Osvaldo Moizinho,4248,Gianni Grippo,L,0,Pts: 2x0,World Pro.,70KG,R1,2014
+5765,5414,Osvaldo Moizinho,1542,Italo Lins,L,0,Pts: 2x0,World Champ.,70KG,RDS,2014
+5903,5414,Osvaldo Moizinho,4248,Gianni Grippo,L,0,Pts: 2x0,SF Open,70KG,F,2014
+5905,5414,Osvaldo Moizinho,3009,Keenan Cornelius,L,0,Triangle,SF Open,ABS,F,2014
+5909,5414,Osvaldo Moizinho,1827,James Puopolo,L,0,Choke,Dallas Open,ABS,SF,2014
+6108,5414,Osvaldo Moizinho,4248,Gianni Grippo,L,0,Referee Decision,NYC Pro,70KG,SF,2014
+6657,5414,Osvaldo Moizinho,179,Rafael Mendes,L,0,Choke from back,Berkut Open,ABS,SPF,2015
+6663,5414,Osvaldo Moizinho,179,Rafael Mendes,L,0,RNC,Berkut Open NoGi,ABS,SPF,2015
+6800,5414,Osvaldo Moizinho,4248,Gianni Grippo,L,0,Pts: 6x4,Pan American,70KG,F,2015
+7427,5414,Osvaldo Moizinho,147,Rubens Charles,L,0,Pts: 3x0,World Champ.,70KG,4F,2015
+8248,5414,Osvaldo Moizinho,2999,Paulo Miyao,L,0,Pts: 6x4,Grand Slam LA,69KG,SF,2015
+9061,5414,Osvaldo Moizinho,1272,Leo Nogueira,L,0,Pts: 9x0,Atlanta W. Open,ABS,F,2016
+9259,5414,Osvaldo Moizinho,2999,Paulo Miyao,L,0,"Pts: 6x6, Adv",Pan American,70KG,F,2016
+9961,5414,Osvaldo Moizinho,179,Rafael Mendes,L,0,Triangle armbar,World Champ.,70KG,SF,2016
+10209,5414,Osvaldo Moizinho,5747,AJ Sousa,L,0,Armbar,American Nats,76KG,F,2016
+10364,5414,Osvaldo Moizinho,5238,Edwin Najmi,L,0,Referee Decision,Berkut 3,ABS,SPF,2016
+10701,5414,Osvaldo Moizinho,6368,Kevin Mahecha,L,0,Adv,Guatemala Open,76KG,F,2016
+11681,5414,Osvaldo Moizinho,7872,Gilson Nunes,L,0,Points,Atlanta W. Open,76KG,F,2017
+12143,5414,Osvaldo Moizinho,147,Rubens Charles,L,0,Pts: 9x2,Pan American,70KG,F,2017
+12375,5414,Osvaldo Moizinho,4248,Gianni Grippo,L,0,Referee Decision,F2W 30,70KG,SPF,2017
+13098,5414,Osvaldo Moizinho,4248,Gianni Grippo,L,0,Pts: 6x6,World Champ.,70KG,4F,2017
+13462,5414,Osvaldo Moizinho,2999,Paulo Miyao,L,0,Points,ACBJJ 6,65KG,4F,2017
+13967,5414,Osvaldo Moizinho,9407,Alexandre Molinaro,L,0,Pts: 2x0,Atlanta SM Open,76KG,F,2017
+14240,5414,Osvaldo Moizinho,4851,Kim Terra,L,0,Referee Decision,ACBJJ 8,65KG,SF,2017
+15388,5414,Osvaldo Moizinho,4248,Gianni Grippo,L,0,"Pts: 2x2, Adv",Pan American,70KG,SF,2018
+15861,5414,Osvaldo Moizinho,2999,Paulo Miyao,L,0,Points,ACBJJ 12,65KG,SPF,2018
+16482,5414,Osvaldo Moizinho,8231,Leo Saggioro,L,0,Pts: 2x0,World Champ.,70KG,SF,2018
+16735,5414,Osvaldo Moizinho,7698,Gabriel Marangoni,L,0,Points,ACBJJ 14,65KG,SPF,2018
+19370,5414,Osvaldo Moizinho,,M. Lutes,L,0,"Pts: 2x2, Adv",Spyder Inv.,76KG,F,2019
+19603,5414,Osvaldo Moizinho,7539,Renato Canuto,L,0,Pts: 4x0,Pan American,76KG,SF,2019
+20606,5414,Osvaldo Moizinho,9002,Matheus Gabriel,L,0,Pts: 4x2,World Champ.,70KG,SF,2019
+23803,5414,Osvaldo Moizinho,5649,Garry Tonon,L,0,Inside heel hook,F2W 145,75KG,SPF,2020
+23815,5414,Osvaldo Moizinho,5238,Edwin Najmi,L,0,RNC,F2W 146,75KG,SPF,2020
+23930,5414,Osvaldo Moizinho,9031,Kennedy Maciel,L,0,Referee Decision,F2W 151,70KG,SPF,2020
+24564,5414,Osvaldo Moizinho,11015,Pablo Lavaselli,L,0,"Pts: 6x6, Adv",American Nats,76KG,SF,2020
+25265,5414,Osvaldo Moizinho,9051,Gabriel Sousa,L,0,Referee Decision,F2W 167,70KG,SPF,2021
+27547,5414,Osvaldo Moizinho,11497,Fabricio Andrey,L,0,Choke from back,Pan American,70KG,R1,2021
+29483,5414,Osvaldo Moizinho,11963,Diego Sodre,L,0,"Pts: 0x0, Adv",World Champ.,70KG,4F,2021
+33402,5414,Osvaldo Moizinho,4655,Michael Liera,L,0,"Pts: 4x4, Adv",American Nat.,76KG,SF,2022
+40233,5414,Osvaldo Moizinho,11963,Diego Sodre,L,0,"Pts: 6x6, Adv",World Champ.,70KG,8F,2023
+2462,5414,Osvaldo Moizinho,2378,Ryan Beauregard,W,1,Points,AZ Open,ABS,4F,2010
+2875,5414,Osvaldo Moizinho,,Chris Westfall,W,1,Choke from back,Pan American,70KG,8F,2011
+3197,5414,Osvaldo Moizinho,,Gustavo Carpio,W,1,DQ,American Nationals,70KG,SF,2011
+3198,5414,Osvaldo Moizinho,,Della Monica,W,1,Points,No Gi Nationals,70KG,SF,2011
+3425,5414,Osvaldo Moizinho,,Lahat Noadya,W,1,Triangle,Las Vegas Open,70KG,SF,2011
+3486,5414,Osvaldo Moizinho,,Nate Diaz,W,1,Toe hold,Gracie Open,ABS,SPF,2012
+3487,5414,Osvaldo Moizinho,2290,Marcos Torregrosa,W,1,Points,American Cup,70KG,F,2012
+3585,5414,Osvaldo Moizinho,,J. Echeverria,W,1,Toe hold,Pan American,70KG,R1,2012
+3701,5414,Osvaldo Moizinho,,Unknown,W,1,Points,No Gi Nationals,70KG,4F,2012
+3702,5414,Osvaldo Moizinho,,Della Monica,W,1,Points,No Gi Nationals,70KG,SF,2012
+3983,5414,Osvaldo Moizinho,,Samuel Hertzog,W,1,DQ,World Champ.,70KG,R3,2012
+4212,5414,Osvaldo Moizinho,,Sidemar Honorio,W,1,Points,NoGi Pan American,70KG,R1,2012
+4306,5414,Osvaldo Moizinho,,Steven Rosenberg,W,1,Pts: 2x0,American Nationals,70KG,SF,2012
+4307,5414,Osvaldo Moizinho,,Della Monica,W,1,Points,American Nationals,70KG,F,2012
+4352,5414,Osvaldo Moizinho,,Ramiro Camacho,W,1,DQ,US Open XVIII,76KG,F,2013
+4443,5414,Osvaldo Moizinho,1923,David Lemes,W,1,Pts: 2x0,European Open,70KG,4F,2013
+4484,5414,Osvaldo Moizinho,5930,Rodrigo Freitas,W,1,Points,SD Pro Trials,74KG,SF,2013
+4485,5414,Osvaldo Moizinho,,Choi Choi,W,1,Points,SD Pro Trials,74KG,F,2013
+4549,5414,Osvaldo Moizinho,1542,Italo Lins,W,1,N/A,Pan American,70KG,R1,2013
+4898,5414,Osvaldo Moizinho,,Della Monica,W,1,Referee Decision,LV Summer Open,70KG,F,2013
+4936,5414,Osvaldo Moizinho,,Geoffrey Villarreal,W,1,Pts: 2x0,American Nats,70KG,RR,2013
+4946,5414,Osvaldo Moizinho,,Geoffrey Villarreal,W,1,Points,American NNG,70KG,SF,2013
+4952,5414,Osvaldo Moizinho,5930,Rodrigo Freitas,W,1,Pts: 2x0,American NNG,ABS,4F,2013
+4959,5414,Osvaldo Moizinho,,John Nam Cho,W,1,Points,NoGi Pan Am.,70KG,SF,2013
+5099,5414,Osvaldo Moizinho,1023,Baret Yoshida,W,1,Pts: 6x2,NoGi Worlds,70KG,4F,2013
+5100,5414,Osvaldo Moizinho,963,Carlos Esquisito,W,1,Points,NoGi Worlds,70KG,SF,2013
+5143,5414,Osvaldo Moizinho,,Choi Choi,W,1,Points,SF Open,ABS,4F,2013
+5145,5414,Osvaldo Moizinho,,Fletcher Linton Jr,W,1,Choke,NY Summer Op.,70KG,SF,2013
+5146,5414,Osvaldo Moizinho,,Renan Borges,W,1,DQ,NY Summer Op.,70KG,F,2013
+5160,5414,Osvaldo Moizinho,4328,AJ Agazarm,W,1,Adv,Las Vegas Open,76KG,SF,2013
+5161,5414,Osvaldo Moizinho,,Della Monica,W,1,Points,Las Vegas Open,76KG,F,2013
+5162,5414,Osvaldo Moizinho,,Antonio Antoniolli,W,1,Pts: 4x0,Las Vegas Open,ABS,4F,2013
+5164,5414,Osvaldo Moizinho,7519,Eliot Kelly,W,1,Triangle,Las Vegas Open,ABS,SF,2013
+5341,5414,Osvaldo Moizinho,,Luke Hacker,W,1,Footlock,Pan American,70KG,R1,2014
+5348,5414,Osvaldo Moizinho,1398,Justin Rader,W,1,Pts: 4x0,Pan American,70KG,4F,2014
+5428,5414,Osvaldo Moizinho,,Lance Glynn,W,1,Pts: 7x0,American Cup,76KG,F,2014
+5429,5414,Osvaldo Moizinho,,Lance Glynn,W,1,Points,American Cup,ABS,4F,2014
+5430,5414,Osvaldo Moizinho,7519,Eliot Kelly,W,1,"Pts: 0x0, Adv",American Cup,ABS,SF,2014
+5431,5414,Osvaldo Moizinho,6503,Marcel Fortuna,W,1,"Pts: 0x0, Adv",American Cup,ABS,F,2014
+5740,5414,Osvaldo Moizinho,,Paul Barbosa,W,1,Triangle,World Champ.,64KG,R1,2014
+5904,5414,Osvaldo Moizinho,4248,Gianni Grippo,W,1,Referee Decision,SF Open,ABS,SF,2014
+5907,5414,Osvaldo Moizinho,6337,Arnaldo Maidana,W,1,Omoplata,Dallas Open,ABS,4F,2014
+5914,5414,Osvaldo Moizinho,,Travis Orr,W,1,Toe hold,Dallas Open,70KG,SF,2014
+5944,5414,Osvaldo Moizinho,,Choi Choi,W,1,Points,American Nat.,76KG,SF,2014
+5945,5414,Osvaldo Moizinho,4465,Andris Brunovskis,W,1,DQ,American Nat.,76KG,F,2014
+5956,5414,Osvaldo Moizinho,,Choi Choi,W,1,Points,Am. Nat. NoGi,70KG,4F,2014
+5957,5414,Osvaldo Moizinho,5930,Rodrigo Freitas,W,1,Pts: 2x0,Am. Nat. NoGi,70KG,SF,2014
+5971,5414,Osvaldo Moizinho,4248,Gianni Grippo,W,1,"Pts: 2x2, Adv",No Gi Pan Am.,70KG,SF,2014
+6024,5414,Osvaldo Moizinho,,Arther dane,W,1,Pts: 4x0,NoGi Worlds,67KG,4F,2014
+6028,5414,Osvaldo Moizinho,4248,Gianni Grippo,W,1,Referee Decision,NoGi Worlds,67KG,SF,2014
+6086,5414,Osvaldo Moizinho,1874,Ivaniel Oliveira,W,1,Choke from back,IBJJF Pro League,70KG,SF,2014
+6088,5414,Osvaldo Moizinho,2999,Paulo Miyao,W,1,Referee Decision,IBJJF Pro League,70KG,F,2014
+6790,5414,Osvaldo Moizinho,,Vitor Atalla,W,1,Choke from back,Pan American,70KG,R1,2015
+6798,5414,Osvaldo Moizinho,4115,Fabio Caloi,W,1,"Pts: 0x0, Adv",Pan American,70KG,4F,2015
+6799,5414,Osvaldo Moizinho,8231,Leo Saggioro,W,1,"Pts: 0x0, Adv",Pan American,70KG,SF,2015
+7426,5414,Osvaldo Moizinho,3110,Victor Genovesi,W,1,Pts: 4x2,World Champ.,70KG,8F,2015
+7581,5414,Osvaldo Moizinho,,Vinny Di Lucia,W,1,Choke from back,BJJ All Stars,82KG,SF,2015
+7582,5414,Osvaldo Moizinho,,Vitor Paschoal,W,1,Pts: 6x4,BJJ All Stars,82KG,F,2015
+7620,5414,Osvaldo Moizinho,5747,AJ Sousa,W,1,Points,American Nat.,76KG,4F,2015
+7622,5414,Osvaldo Moizinho,6368,Kevin Mahecha,W,1,Armbar,American Nat.,76KG,SF,2015
+7785,5414,Osvaldo Moizinho,613,Wellington Dias,W,1,Omoplata,LV Summer Open,76KG,F,2015
+8085,5414,Osvaldo Moizinho,2997,Joao Miyao,W,1,Points,GT Open,ABS,SPF,2015
+8090,5414,Osvaldo Moizinho,,Rafael Panato,W,1,Points,GT Open,76KG,SF,2015
+8093,5414,Osvaldo Moizinho,2997,Joao Miyao,W,1,Pts: 6x4,GT Open,76KG,F,2015
+8249,5414,Osvaldo Moizinho,,Vitor Paschoal,W,1,Referee Decision,Grand Slam LA,69KG,3RD,2015
+8402,5414,Osvaldo Moizinho,,Berndt Forsell,W,1,Omoplata,NoGi Worlds,67KG,8F,2015
+8405,5414,Osvaldo Moizinho,4851,Kim Terra,W,1,Referee Decision,NoGi Worlds,67KG,4F,2015
+8407,5414,Osvaldo Moizinho,2999,Paulo Miyao,W,1,"Pts: 8x8, Adv",NoGi Worlds,67KG,SF,2015
+8544,5414,Osvaldo Moizinho,2997,Joao Miyao,D,0.5,---,Berkut 2,ABS,SPF,2015
+9051,5414,Osvaldo Moizinho,,Jason Lawrence,W,1,N/A,Atlanta W. Open,76KG,SF,2016
+9052,5414,Osvaldo Moizinho,9864,Diego Bispo,W,1,N/A,Atlanta W. Open,76KG,F,2016
+9251,5414,Osvaldo Moizinho,,Sergio Hernandes,W,1,N/A,Pan American,70KG,8F,2016
+9255,5414,Osvaldo Moizinho,5715,Isaque Paiva,W,1,"Pts: 8x8, Adv",Pan American,70KG,4F,2016
+9257,5414,Osvaldo Moizinho,4163,Marcio Andre,W,1,Loop choke,Pan American,70KG,SF,2016
+9954,5414,Osvaldo Moizinho,4115,Fabio Caloi,W,1,Armbar,World Champ.,70KG,R2,2016
+9958,5414,Osvaldo Moizinho,7698,Gabriel Marangoni,W,1,Pts: 2x0,World Champ.,70KG,4F,2016
+10121,5414,Osvaldo Moizinho,,Royi Neeman,W,1,Toe hold,British National,76KG,SF,2016
+10123,5414,Osvaldo Moizinho,,Max Campos,W,1,Choke from back,British National,76KG,F,2016
+10133,5414,Osvaldo Moizinho,,Royi Neeman,W,1,Armbar,Brit. No-Gi Nat.,73KG,SF,2016
+10134,5414,Osvaldo Moizinho,9261,Ross Nicholls,W,1,Points,Brit. No-Gi Nat.,73KG,F,2016
+10206,5414,Osvaldo Moizinho,,Omar French,W,1,N/A,American Nats,76KG,4F,2016
+10208,5414,Osvaldo Moizinho,,Marcus Wilson,W,1,N/A,American Nats,76KG,SF,2016
+10326,5414,Osvaldo Moizinho,,Chris Westfall,W,1,N/A,Austin Open,76KG,SF,2016
+10327,5414,Osvaldo Moizinho,8632,Thiago Macedo,W,1,Pts: 2x0,Austin Open,76KG,F,2016
+10333,5414,Osvaldo Moizinho,8632,Thiago Macedo,W,1,Pts: 2x0,Austin Open,ABS,SF,2016
+10335,5414,Osvaldo Moizinho,7743,Inacio Neto,W,1,Points,Austin Open,ABS,F,2016
+10694,5414,Osvaldo Moizinho,6103,Isaac Doederlein,D,0.5,---,Guatemala Open,ABS,SPF,2016
+10698,5414,Osvaldo Moizinho,,Ricardo P.,W,1,Brabo choke,Guatemala Open,76KG,4F,2016
+10700,5414,Osvaldo Moizinho,4851,Kim Terra,W,1,Points,Guatemala Open,76KG,SF,2016
+10893,5414,Osvaldo Moizinho,9401,Ashley Williams,W,1,Kneebar,NoGi Worlds,67KG,4F,2016
+10895,5414,Osvaldo Moizinho,4851,Kim Terra,W,1,"Pts: 0x0, Adv",NoGi Worlds,67KG,SF,2016
+11691,5414,Osvaldo Moizinho,,Ross Keeping,W,1,N/A,San Jose Open,70KG,SF,2017
+11693,5414,Osvaldo Moizinho,9064,Silvio Duran,W,1,Pts: 6x0,San Jose Open,70KG,F,2017
+11728,5414,Osvaldo Moizinho,174,Bruno Frazatto,W,1,Referee Decision,F2Win 23,70KG,SPF,2017
+12131,5414,Osvaldo Moizinho,6599,Rafael Mansur,W,1,Pts: 4x2,Pan American,70KG,8F,2017
+12138,5414,Osvaldo Moizinho,7872,Gilson Nunes,W,1,Pts: 8x4,Pan American,70KG,4F,2017
+12142,5414,Osvaldo Moizinho,7002,Jamil Hill-Taylor,W,1,DQ,Pan American,70KG,SF,2017
+12967,5414,Osvaldo Moizinho,,Unknown,W,1,Choke from back,Zurich Open,76KG,F,2017
+13094,5414,Osvaldo Moizinho,4328,AJ Agazarm,W,1,Pts: 2x0,World Champ.,70KG,8F,2017
+13336,5414,Osvaldo Moizinho,,Felipe Simplicio,W,1,N/A,American Nats,70KG,4F,2017
+13339,5414,Osvaldo Moizinho,9064,Silvio Duran,W,1,Pts: 8x6,American Nats,70KG,SF,2017
+13340,5414,Osvaldo Moizinho,8632,Thiago Macedo,W,1,Adv,American Nats,70KG,F,2017
+13722,5414,Osvaldo Moizinho,,Alci Costa,W,1,Choke from back,Mexico City Open,82KG,F,2017
+13727,5414,Osvaldo Moizinho,,Rodrigo Kim,W,1,N/A,Mexico City Open,ABS,SF,2017
+13728,5414,Osvaldo Moizinho,8261,Rolando Samson,W,1,Loop choke,Mexico City Open,ABS,F,2017
+14199,5414,Osvaldo Moizinho,11465,Kauan Barboza,W,1,Referee Decision,Miami FO,76KG,SF,2017
+14201,5414,Osvaldo Moizinho,9407,Alexandre Molinaro,W,1,Points,Miami FO,76KG,F,2017
+14238,5414,Osvaldo Moizinho,1923,David Lemes,W,1,Inside heel hook,ACBJJ 8,65KG,4F,2017
+14659,5414,Osvaldo Moizinho,,D. Augusto,W,1,Kimura,NoGi Worlds,67KG,4F,2017
+14662,5414,Osvaldo Moizinho,9064,Silvio Duran,W,1,"Pts: 4x4, Adv",NoGi Worlds,67KG,SF,2017
+14663,5414,Osvaldo Moizinho,8069,Pablo Mantovani,W,1,Pts: 4x2,NoGi Worlds,67KG,F,2017
+14963,5414,Osvaldo Moizinho,,Nicholas Welker,W,1,Omoplata,ACB 10,65KG,SPF,2018
+15285,5414,Osvaldo Moizinho,,Cesar Cardoso,W,1,N/A,San Francisco Open,76KG,SF,2018
+15287,5414,Osvaldo Moizinho,9407,Alexandre Molinaro,W,1,Points,San Francisco Open,76KG,F,2018
+15381,5414,Osvaldo Moizinho,9385,Brandon Walensky,W,1,Pts: 6x2,Pan American,70KG,8F,2018
+15386,5414,Osvaldo Moizinho,,Hiroaki Otsuka,W,1,Armbar,Pan American,70KG,4F,2018
+16466,5414,Osvaldo Moizinho,4328,AJ Agazarm,W,1,Pts: 10x0,World Champ.,70KG,R1,2018
+16470,5414,Osvaldo Moizinho,7698,Gabriel Marangoni,W,1,Pts: 2x0,World Champ.,70KG,R2,2018
+16478,5414,Osvaldo Moizinho,4248,Gianni Grippo,W,1,Pts: 4x2,World Champ.,70KG,4F,2018
+17971,5414,Osvaldo Moizinho,11132,Leon Larman,W,1,Pts: 4x2,Geneva Open,76KG,SF,2018
+17972,5414,Osvaldo Moizinho,,Franck Hart,W,1,N/A,Geneva Open,76KG,F,2018
+17982,5414,Osvaldo Moizinho,,Juliano Rocha,W,1,Flying armbar,Geneva NGO,73KG,F,2018
+18207,5414,Osvaldo Moizinho,,Josh Rodriguez,W,1,Omoplata,F2W 93,70KG,SPF,2018
+19179,5414,Osvaldo Moizinho,,Evan Ramdsen,W,1,N/A,Atlanta WO,76KG,4F,2019
+19182,5414,Osvaldo Moizinho,,Felipe Simplicio,W,1,N/A,Atlanta WO,76KG,SF,2019
+19184,5414,Osvaldo Moizinho,12376,Rodrigo Francioni,W,1,Choke from back,Atlanta WO,76KG,F,2019
+19367,5414,Osvaldo Moizinho,,S.H. Lee,W,1,Armlock,Spyder Inv.,76KG,4F,2019
+19369,5414,Osvaldo Moizinho,9014,Levi Jones,W,1,Referee Decision,Spyder Inv.,76KG,SF,2019
+19596,5414,Osvaldo Moizinho,9440,Jeremy Jackson,W,1,"Pts: 4x4, Adv",Pan American,76KG,8F,2019
+19600,5414,Osvaldo Moizinho,9407,Alexandre Molinaro,W,1,Pts: 8x6,Pan American,76KG,4F,2019
+20587,5414,Osvaldo Moizinho,,Caio Tamura,W,1,Pts: 6x4,World Champ.,70KG,R1,2019
+20596,5414,Osvaldo Moizinho,8632,Thiago Macedo,W,1,"Pts: 0x0, Adv",World Champ.,70KG,R2,2019
+20603,5414,Osvaldo Moizinho,,Luciano Queiroz,W,1,Footlock,World Champ.,70KG,4F,2019
+21371,5414,Osvaldo Moizinho,5789,Tiago Barros,W,1,Referee Decision,F2W 122,70KG,SPF,2019
+21640,5414,Osvaldo Moizinho,9094,Richar Nogueira,W,1,Omoplata,F2W 125,70KG,SPF,2019
+23289,5414,Osvaldo Moizinho,,Jose Pablos,W,1,Submission,Mexico Pro,77KG,SF,2020
+23290,5414,Osvaldo Moizinho,,Rene Karamanites,W,1,Choke from back,Mexico Pro,77KG,F,2020
+23730,5414,Osvaldo Moizinho,4328,AJ Agazarm,W,1,Referee Decision,F2W 140,75KG,SPF,2020
+23935,5414,Osvaldo Moizinho,7664,Johnny Tama,W,1,Referee Decision,Kumite 6,76KG,SPF,2020
+24563,5414,Osvaldo Moizinho,12629,Fabricio Barbarotti,W,1,"Pts: 2x2, Adv",American Nats,76KG,4F,2020
+26988,5414,Osvaldo Moizinho,8305,Pedro Dias,W,1,Referee Decision,F2W 178,70KG,SPF,2021
+29482,5414,Osvaldo Moizinho,12356,Damion Oranday,W,1,Choke from back,World Champ.,70KG,8F,2021
+33400,5414,Osvaldo Moizinho,12629,Fabricio Barbarotti,W,1,DQ,American Nat.,76KG,4F,2022
+33561,5414,Osvaldo Moizinho,,Damon Morgan,W,1,Points,Sal Lake CNGO,73KG,F,2022
+33855,5414,Osvaldo Moizinho,,Cesar Predes,W,1,Loop choke,Phoenix Open,76KG,SF,2022
+40038,5414,Osvaldo Moizinho,,Felipe Makoto,W,1,Submission,SD Open,70KG,RR,2023
+40039,5414,Osvaldo Moizinho,,Thiago Calixto,W,1,Armbar,SD Open,70KG,F,2023
+40231,5414,Osvaldo Moizinho,6366,Brian Mahecha,W,1,Armbar,World Champ.,70KG,R1,2023

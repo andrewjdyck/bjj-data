@@ -1,0 +1,62 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+16074,8351,Joao Paulo Neto,2999,Paulo Miyao,L,0,Pts: 3x0,WP Br Qualifier,69KG,4F,2018
+16469,8351,Joao Paulo Neto,9385,Brandon Walensky,L,0,Pts: 2x0,World Champ.,70KG,R1,2018
+19041,8351,Joao Paulo Neto,8884,Alex Sodre,L,0,Pts: 2x0,South Brazilian,70KG,SF,2019
+19076,8351,Joao Paulo Neto,9180,Vinicius Trator,L,0,North south choke,South Brazilian,ABS,F,2019
+19430,8351,Joao Paulo Neto,2999,Paulo Miyao,L,0,"Pts: 2x2, Adv",Grand Slam LDN,69KG,SF,2019
+19479,8351,Joao Paulo Neto,9051,Gabriel Sousa,L,0,"Pts: 0x0, Adv",King of Mats,69KG,RR,2019
+19919,8351,Joao Paulo Neto,,Pedro Valenca,L,0,Referee Decision,Curitiba Pro,70KG,F,2019
+20257,8351,Joao Paulo Neto,6103,Isaac Doederlein,L,0,Choke from back,Brasileiro,70KG,F,2019
+20600,8351,Joao Paulo Neto,8231,Leo Saggioro,L,0,"Pts: 2x2, Adv",World Champ.,70KG,R2,2019
+31872,8351,Joao Paulo Neto,9956,Vinicius Pereira,L,0,Pts: 2x0,Rio Fall Open,76KG,4F,2022
+31932,8351,Joao Paulo Neto,,Gabriel Ventura,L,0,Referee Decision,Rio Fall Open,ABS,4F,2022
+32709,8351,Joao Paulo Neto,,Darlan Casaca,L,0,Referee Decision,Salvador Open,82KG,SF,2022
+33231,8351,Joao Paulo Neto,,Darlan Casaca,L,0,Referee Decision,Floripa WO,82KG,F,2022
+38019,8351,Joao Paulo Neto,,Alessandro Botelho,L,0,Referee Decision,Curitiba SMO,76KG,SF,2023
+38929,8351,Joao Paulo Neto,,Jonatan Batista,L,0,RNC,Salvador NGO,67KG,RR,2023
+40262,8351,Joao Paulo Neto,8516,Lucas Valente,L,0,Pts: 4x0,World Champ.,76KG,8F,2023
+41057,8351,Joao Paulo Neto,,Gabriel Avila,L,0,Arm in Ezekiel,Betim Open,82KG,4F,2023
+42024,8351,Joao Paulo Neto,,Guilherme Dalpra,L,0,Katagatame,Floripa WO,76KG,SF,2023
+42520,8351,Joao Paulo Neto,,Guilherme Dal Pra,L,0,"Pts: 2x2, Adv",Desafio HG,77KG,R1,2023
+14158,8351,Joao Paulo Neto,12376,Rodrigo Francioni,W,1,Referee Decision,Bento Ribeiro Pro,LWA,SF,2017
+14160,8351,Joao Paulo Neto,,Gustavo Telles,W,1,Triangle,Bento Ribeiro Pro,LWA,F,2017
+14161,8351,Joao Paulo Neto,,Gustavo Telles,W,1,Armbar,Bento Ribeiro Pro,77KG,SF,2017
+14162,8351,Joao Paulo Neto,,Richard Filho,W,1,Pts: 4x0,Bento Ribeiro Pro,77KG,F,2017
+14329,8351,Joao Paulo Neto,,Raphael Cadena,W,1,Pts: 2x0,Grand Slam RJ,69KG,8F,2017
+14332,8351,Joao Paulo Neto,,Julio Rufino,W,1,Choke from back,Grand Slam RJ,69KG,4F,2017
+14333,8351,Joao Paulo Neto,,Pedro Neto,W,1,Choke from back,Grand Slam RJ,69KG,SF,2017
+14335,8351,Joao Paulo Neto,6599,Rafael Mansur,W,1,Triangle,Grand Slam RJ,69KG,F,2017
+16073,8351,Joao Paulo Neto,,Thiago Dutra,W,1,Pts: 4x0,WP Br Qualifier,69KG,R1,2018
+18741,8351,Joao Paulo Neto,,Vitor Matos,W,1,N/A,Porto Alegre Open,76KG,SF,2018
+18742,8351,Joao Paulo Neto,,Matheus Linhares,W,1,N/A,Porto Alegre Open,76KG,F,2018
+19038,8351,Joao Paulo Neto,,Osmar Telles,W,1,N/A,South Brazilian,70KG,4F,2019
+19069,8351,Joao Paulo Neto,,Rafael Message,W,1,Adv,South Brazilian,ABS,R1,2019
+19071,8351,Joao Paulo Neto,,Rafael Message,W,1,Choke from back,South Brazilian,ABS,4F,2019
+19075,8351,Joao Paulo Neto,,Agnaldo Silveira,W,1,Choke from back,South Brazilian,ABS,SF,2019
+19425,8351,Joao Paulo Neto,,Lee Ting,W,1,Pts: 2x0,Grand Slam LDN,69KG,R1,2019
+19433,8351,Joao Paulo Neto,,Victor Matos,W,1,"Pts: 0x0, Adv",Grand Slam LDN,69KG,RPC,2019
+19434,8351,Joao Paulo Neto,7156,Tiago Bravo,W,1,"Pts: 0x0, Adv",Grand Slam LDN,69KG,3RD,2019
+19473,8351,Joao Paulo Neto,9502,Nobuhiro Sawada,W,1,Pts: 3x0,King of Mats,69KG,RR,2019
+19475,8351,Joao Paulo Neto,,Lee Ting,W,1,Pts: 2x0,King of Mats,69KG,RR,2019
+19477,8351,Joao Paulo Neto,6151,Hiago George,W,1,Referee Decision,King of Mats,69KG,RR,2019
+19703,8351,Joao Paulo Neto,11512,Lukete Silva,W,1,"Pts: 0x0, Adv",Floripa Fall Open,70KG,SF,2019
+19704,8351,Joao Paulo Neto,,Osmar Telles,W,1,Triangle,Floripa Fall Open,70KG,F,2019
+19805,8351,Joao Paulo Neto,,Gabriel Azevedo,W,1,Choke from back,Rio FO,70KG,4F,2019
+19807,8351,Joao Paulo Neto,,Antonio Felix,W,1,Choke from back,Rio FO,70KG,SF,2019
+19809,8351,Joao Paulo Neto,,Yago Rodrigues,W,1,Choke from back,Rio FO,70KG,F,2019
+19915,8351,Joao Paulo Neto,8305,Pedro Dias,W,1,N/A,Curitiba Pro,70KG,4F,2019
+20247,8351,Joao Paulo Neto,,Pedro Petronio,W,1,Points,Brasileiro,70KG,R2,2019
+20250,8351,Joao Paulo Neto,,John Lenno,W,1,Toe hold,Brasileiro,70KG,R3,2019
+20252,8351,Joao Paulo Neto,,Davi Carlos,W,1,Points,Brasileiro,70KG,4F,2019
+20256,8351,Joao Paulo Neto,,Breno Celio,W,1,Pts: 2x0,Brasileiro,70KG,SF,2019
+20593,8351,Joao Paulo Neto,,Orlando Andaviza,W,1,Brabo choke,World Champ.,70KG,R1,2019
+31869,8351,Joao Paulo Neto,,Renan Soares,W,1,Choke from back,Rio Fall Open,76KG,8F,2022
+31929,8351,Joao Paulo Neto,,Yann Cathalat,W,1,Pts: 9x2,Rio Fall Open,ABS,R2,2022
+32707,8351,Joao Paulo Neto,,Romario Teodoro,W,1,Pts: 7x2,Salvador Open,82KG,4F,2022
+33228,8351,Joao Paulo Neto,,Francis Quinn,W,1,Pts: 4x2,Floripa WO,82KG,4F,2022
+33230,8351,Joao Paulo Neto,,Rhuan Duarte,W,1,"Pts: 0x0, Adv",Floripa WO,82KG,SF,2022
+35812,8351,Joao Paulo Neto,,Otavio Santos,W,1,"Pts: 0x0, Adv",S. Leopoldo OP,ABS,SF,2022
+38006,8351,Joao Paulo Neto,,Murilo Parra,W,1,Pts: 5x0,Curitiba SMO,76KG,R1,2023
+38014,8351,Joao Paulo Neto,,Joao Machado,W,1,Choke from back,Curitiba SMO,76KG,4F,2023
+40249,8351,Joao Paulo Neto,13192,Carlos Henrique,W,1,"Pts: 4x4, Adv",World Champ.,76KG,R1,2023
+42023,8351,Joao Paulo Neto,,Gui Silva,W,1,"Pts: 2x2, Adv",Floripa WO,76KG,4F,2023

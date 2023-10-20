@@ -1,0 +1,49 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24780,11685,Anderson Munis,11709,Wallace Costa,L,0,"Pts: 4x4, Pen",Grand Slam RJ,120KG,SF,2020
+24785,11685,Anderson Munis,7537,Felipe Bezerra,L,0,Referee Decision,Grand Slam RJ,120KG,RPC,2020
+25558,11685,Anderson Munis,11499,Roosevelt Sousa,L,0,Botinha,Grand Slam AD,120KG,F,2021
+25634,11685,Anderson Munis,11709,Wallace Costa,L,0,Pts: 2x0,WP BR Qualifier,120KG,4F,2021
+26464,11685,Anderson Munis,7537,Felipe Bezerra,L,0,Pts: 3x1,SA Cont. Pro,120KG,SF,2021
+26469,11685,Anderson Munis,11709,Wallace Costa,L,0,Referee Decision,SA Cont. Pro,120KG,3RD,2021
+28086,11685,Anderson Munis,10130,Marcus Ribeiro,L,0,"Pts: 0x0, Adv",Brasileiro,100KG,4F,2021
+29149,11685,Anderson Munis,9230,Matheus Felipe,L,0,Pts: 2x1,BRA Qualifiers,94KG,RR,2021
+29574,11685,Anderson Munis,8686,Fellipe Trovo,L,0,Injury,World Champ.,100KG,8F,2021
+31587,11685,Anderson Munis,8514,Fellipe Andrew,L,0,Botinha,Pan American,ABS,R2,2022
+31712,11685,Anderson Munis,8514,Fellipe Andrew,L,0,Botinha,Pan American,100KG,4F,2022
+32125,11685,Anderson Munis,8195,Gutemberg Pereira,L,0,RNC,Brasileiro,ABS,R1,2022
+32200,11685,Anderson Munis,8514,Fellipe Andrew,L,0,Armbar,Brasileiro,100KG,SF,2022
+33004,11685,Anderson Munis,8514,Fellipe Andrew,L,0,Katagatame,World Champ.,100KG,4F,2022
+40354,11685,Anderson Munis,,Eric Bergmann,L,0,Kneebar,World Champ.,100KG,8F,2023
+42045,11685,Anderson Munis,11215,Harryson Pereira,L,0,Pts: 2x0,Floripa WO,100KG,RR,2023
+42775,11685,Anderson Munis,10817,Gabriel Henrique,L,0,Pts: 2x0,Sul Americano,100KG,SF,2023
+42812,11685,Anderson Munis,,Anderson Kauan,L,0,Straight ankle lock,Sul Americano,ABS,SF,2023
+24768,11685,Anderson Munis,,Herico Hesley,W,1,Pts: 4x2,Grand Slam RJ,120KG,R1,2020
+24771,11685,Anderson Munis,,Marcelo Monteiro,W,1,Kimura,Grand Slam RJ,120KG,8F,2020
+24777,11685,Anderson Munis,10644,Marcelo Gomide,W,1,Pts: 2x0,Grand Slam RJ,120KG,4F,2020
+25334,11685,Anderson Munis,12084,G. Lambertucci,W,1,Choke from back,Rio Open,100KG,R1,2021
+25336,11685,Anderson Munis,,Haroldo Bunn,W,1,Bow and arrow,Rio Open,100KG,4F,2021
+25338,11685,Anderson Munis,,Wildemar Matheus,W,1,"Pts: 0x0, Adv",Rio Open,100KG,SF,2021
+25555,11685,Anderson Munis,5417,Guilherme Augusto,W,1,Referee Decision,Grand Slam AD,120KG,4F,2021
+26461,11685,Anderson Munis,11862,Pedro Alex,W,1,Pts: 2x0,SA Cont. Pro,120KG,4F,2021
+26468,11685,Anderson Munis,,Leo Andrade,W,1,Pts: 7x3,SA Cont. Pro,120KG,RPC,2021
+26852,11685,Anderson Munis,11215,Harryson Pereira,W,1,Pts: 2x0,Big Deal Pro 3,O100KG,4F,2021
+26854,11685,Anderson Munis,10817,Gabriel Henrique,W,1,Referee Decision,Big Deal Pro 3,O100KG,SF,2021
+26855,11685,Anderson Munis,4521,Erberth Santos,W,1,"Pts: 0x0, Adv",Big Deal Pro 3,O100KG,F,2021
+28082,11685,Anderson Munis,9711,Jurandir Conceicao,W,1,Pts: 9x0,Brasileiro,100KG,R1,2021
+29569,11685,Anderson Munis,11939,Jackson Douglas,W,1,Injury,World Champ.,100KG,R1,2021
+31036,11685,Anderson Munis,,Maique Azevedo,W,1,Pts: 4x2,Curitiba Open,100KG,4F,2022
+31038,11685,Anderson Munis,,Romes Ramos,W,1,Pts: 4x2,Curitiba Open,100KG,SF,2022
+31040,11685,Anderson Munis,12277,Pedro Agrizzi,W,1,"Pts: 4x4, Adv",Curitiba Open,100KG,F,2022
+31582,11685,Anderson Munis,12120,Estevan Martinez,W,1,Points,Pan American,ABS,R1,2022
+31710,11685,Anderson Munis,11939,Jackson Douglas,W,1,Pts: 4x0,Pan American,100KG,R1,2022
+32195,11685,Anderson Munis,,Harrysson Pereira,W,1,"Pts: 0x0, Adv",Brasileiro,100KG,R1,2022
+32995,11685,Anderson Munis,9180,Vinicius Trator,W,1,"Pts: 4x4, Adv",World Champ.,100KG,8F,2022
+40142,11685,Anderson Munis,,Vitor Cheloni,W,1,Pts: 5x4,Floripa FO,100KG,SF,2023
+40154,11685,Anderson Munis,,Lucas Silva,W,1,Pts: 5x0,Floripa FO,ABS,8F,2023
+42043,11685,Anderson Munis,,Elionai Braz,W,1,"Pts: 0x0, Adv",Floripa WO,100KG,RR,2023
+42055,11685,Anderson Munis,,Tyrone Gonsalves,W,1,Pts: 2x0,Floripa WO,ABS,4F,2023
+42058,11685,Anderson Munis,11658,Lucas Gualberto,W,1,"Pts: 0x0, Adv",Floripa WO,ABS,SF,2023
+42774,11685,Anderson Munis,,Nicollas Santos,W,1,Pts: 2x0,Sul Americano,100KG,4F,2023
+42798,11685,Anderson Munis,,Gabriel Martins,W,1,Choke from back,Sul Americano,ABS,R1,2023
+42801,11685,Anderson Munis,13190,Vinicius Lessa,W,1,Choke from back,Sul Americano,ABS,8F,2023
+42808,11685,Anderson Munis,,Cleyton Flores,W,1,Pts: 6x0,Sul Americano,ABS,4F,2023

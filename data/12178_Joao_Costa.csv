@@ -1,0 +1,26 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27261,12178,Joao Costa,12641,Renan Cruz,L,0,Triangle,Grand Slam MIA,94KG,F,2021
+27874,12178,Joao Costa,11939,Jackson Douglas,L,0,Straight ankle lock,Atlanta SMNG,O97KG,F,2021
+28315,12178,Joao Costa,7478,Adam Wardzinski,L,0,Referee Decision,NoGi Worlds,91KG,4F,2021
+32676,12178,Joao Costa,967,JT Torres,L,0,Kneebar,Denver NGO,ABS,SF,2022
+35051,12178,Joao Costa,8346,Craig Jones,L,0,Violin armlock,ADCC,99KG,R1,2022
+36553,12178,Joao Costa,12372,Francisco Cuneo,L,0,Points,NHaven FNGO,97KG,F,2022
+43185,12178,Joao Costa,13076,Francisco Lo,L,0,Inside heel hook,NoGi Pan,ABS,8F,2023
+43283,12178,Joao Costa,7478,Adam Wardzinski,L,0,Outside heel hook,NoGi Pan,91KG,SF,2023
+26884,12178,Joao Costa,7831,Diego Ramalho,W,1,"Pts: 0x0, Adv",Chicago NGO,97KG,F,2021
+27002,12178,Joao Costa,,Jorge Barba,W,1,DQ,Orlando Open,100KG,F,2021
+27018,12178,Joao Costa,,William Shannon,W,1,Heel hook,Orlando NGO,97KG,F,2021
+28308,12178,Joao Costa,,Charles McGuire,W,1,Kneebar,NoGi Worlds,91KG,8F,2021
+30072,12178,Joao Costa,,Patrick Quadros,W,1,Pts: 2x0,ADCC BR1 Trials,99KG,R1,2022
+30077,12178,Joao Costa,,Jorge Escudero,W,1,Referee Decision,ADCC BR1 Trials,99KG,R2,2022
+30083,12178,Joao Costa,,L. Lira,W,1,Referee Decision,ADCC BR1 Trials,99KG,4F,2022
+30086,12178,Joao Costa,,Salomao Ribeiro,W,1,Pts: 2x0,ADCC BR1 Trials,99KG,SF,2022
+30088,12178,Joao Costa,9554,Henrique Cardoso,W,1,Referee Decision,ADCC BR1 Trials,99KG,F,2022
+31265,12178,Joao Costa,,Thomas Bracher,W,1,"Pts: 2x2, Adv",Charleston NGO,97KG,F,2022
+32559,12178,Joao Costa,,Clay Mayfield,W,1,"Pts: 0x0, Adv",Atlanta SPNGO,ABS,RR,2022
+32561,12178,Joao Costa,12372,Francisco Cuneo,W,1,"Pts: 0x0, Pen",Atlanta SPNGO,ABS,F,2022
+32672,12178,Joao Costa,,Chris Diaz,W,1,Pts: 9x0,Denver NGO,ABS,4F,2022
+32677,12178,Joao Costa,,Nikoll Domgjoni,W,1,N/A,Denver NGO,ABS,F,2022
+37770,12178,Joao Costa,,Carmichael Leiva,W,1,Referee Decision,Combat SC,ABS,SPF,2023
+43277,12178,Joao Costa,,Jose Munoz,W,1,"Pts: 0x0, Adv",NoGi Pan,91KG,R1,2023
+43280,12178,Joao Costa,,Freddy Vosgrone,W,1,Pts: 2x0,NoGi Pan,91KG,4F,2023

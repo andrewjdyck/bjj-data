@@ -1,0 +1,83 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24654,11823,Diogo Reis,10293,Jonas Andrade,L,0,Referee Decision,Grand Slam RJ,56KG,F,2020
+26594,11823,Diogo Reis,9074,Joao Mendes,L,0,Pts: 2x0,EUG 2,65KG,SPF,2021
+26622,11823,Diogo Reis,,Noah Wyatt,L,0,Inside heel hook,3CG MW GP,70KG,SPF,2021
+29722,11823,Diogo Reis,13245,Ademir Barreto,L,0,Pts: 5x4,Teams Cup,N/A,RR,2021
+29728,11823,Diogo Reis,6599,Rafael Mansur,D,0.5,---,Teams Cup,N/A,RR,2021
+31609,11823,Diogo Reis,11423,Meyram Maquine,L,0,Pts: 12x10,Pan American,64KG,R2,2022
+32881,11823,Diogo Reis,10840,Diego Oliveira,L,0,Pts: 2x0,World Champ.,64KG,SF,2022
+24646,11823,Diogo Reis,,Andre Militao,W,1,Tarikoplata,Grand Slam RJ,56KG,R1,2020
+24649,11823,Diogo Reis,,Emerson Monteiro,W,1,Armlock,Grand Slam RJ,56KG,4F,2020
+24653,11823,Diogo Reis,11212,Yuri Hendrex,W,1,Pts: 11x2,Grand Slam RJ,56KG,SF,2020
+25479,11823,Diogo Reis,,M. Almenhali,W,1,Choke from back,VP Cup - 2R,69KG,R1,2021
+25480,11823,Diogo Reis,,A. Almarzouqi,W,1,Toe hold,VP Cup - 2R,69KG,4F,2021
+25481,11823,Diogo Reis,,Ahmed Ali,W,1,Submission,VP Cup - 2R,69KG,SF,2021
+25482,11823,Diogo Reis,,Giovanny Lemos,W,1,"Pts: 0x0, Adv",VP Cup - 2R,69KG,F,2021
+25860,11823,Diogo Reis,,Pedro Conceicao,W,1,Pts: 3x0,VP Cup R3,69KG,R1,2021
+25861,11823,Diogo Reis,,K. Armarzoqi,W,1,Armbar,VP Cup R3,69KG,4F,2021
+25862,11823,Diogo Reis,,G. Lemos,W,1,Pts: 2x0,VP Cup R3,69KG,SF,2021
+25863,11823,Diogo Reis,,Khalid Al-Ali,W,1,Armbar,VP Cup R3,69KG,F,2021
+27220,11823,Diogo Reis,12487,Gabriel Gaudio,W,1,Pts: 3x0,Grand Slam MIA,62KG,4F,2021
+27222,11823,Diogo Reis,,Kalel Santos,W,1,Pts: 3x1,Grand Slam MIA,62KG,SF,2021
+27223,11823,Diogo Reis,,Bebeto Oliveira,W,1,Pts: 1x0,Grand Slam MIA,62KG,F,2021
+27706,11823,Diogo Reis,6151,Hiago George,W,1,Pts: 5x3,Grand Slam MSK,62KG,F,2021
+27972,11823,Diogo Reis,,Saeed Fahad,W,1,Pts: 6x2,VP Cup,69KG,4F,2021
+27973,11823,Diogo Reis,,P. Conceicao,W,1,Points,VP Cup,69KG,SF,2021
+27974,11823,Diogo Reis,,Mo Almenhali,W,1,Submission,VP Cup,69KG,F,2021
+28471,11823,Diogo Reis,,Andre Moura,W,1,Pts: 6x1,Grand Slam RJ,62KG,4F,2021
+28474,11823,Diogo Reis,6043,Lucas Pinheiro,W,1,Pts: 8x6,Grand Slam RJ,62KG,SF,2021
+28475,11823,Diogo Reis,,Ronald Alves,W,1,Pts: 4x1,Grand Slam RJ,62KG,F,2021
+29114,11823,Diogo Reis,,Valcemir Junior,W,1,Pts: 16x0,BRA Qualifiers,62KG,RR,2021
+29116,11823,Diogo Reis,,Matheus Fonseca,W,1,Pts: 7x0,BRA Qualifiers,62KG,RR,2021
+29119,11823,Diogo Reis,6043,Lucas Pinheiro,W,1,Pts: 2x1,BRA Qualifiers,62KG,RR,2021
+29123,11823,Diogo Reis,11423,Meyram Maquine,W,1,Referee Decision,BRA Qualifiers,62KG,RR,2021
+29179,11823,Diogo Reis,,Hyeonwoo Han,W,1,Pts: 2x0,World Pro,62KG,R1,2021
+29181,11823,Diogo Reis,,Mani Tavanaei,W,1,Pts: 7x3,World Pro,62KG,4F,2021
+29182,11823,Diogo Reis,6151,Hiago George,W,1,Pts: 1x0,World Pro,62KG,SF,2021
+29183,11823,Diogo Reis,,Giorgi Razmadze,W,1,Pts: 7x3,World Pro,62KG,F,2021
+29664,11823,Diogo Reis,,Mohamed H.,W,1,Katagatame,President Cup,77KG,RR,2021
+29667,11823,Diogo Reis,6043,Lucas Pinheiro,W,1,Pts: 2x0,President Cup,77KG,RR,2021
+29670,11823,Diogo Reis,,Pedro Conceicao,W,1,Pts: 10x10,President Cup,77KG,RR,2021
+29733,11823,Diogo Reis,,Pedro Conceicao,W,1,Pts: 2x1,Teams Cup,N/A,RR,2021
+29736,11823,Diogo Reis,,C. Lara,W,1,Points,Teams Cup,N/A,RR,2021
+29738,11823,Diogo Reis,,G. Nascimento,W,1,Points,Teams Cup,N/A,RR,2021
+30001,11823,Diogo Reis,,Dinei Souza,W,1,RNC,ADCC BR1 Trials,66KG,R1,2022
+30011,11823,Diogo Reis,,Kaua Gabriel,W,1,Referee Decision,ADCC BR1 Trials,66KG,R2,2022
+30014,11823,Diogo Reis,12376,Rodrigo Francioni,W,1,Referee Decision,ADCC BR1 Trials,66KG,4F,2022
+30017,11823,Diogo Reis,11497,Fabricio Andrey,W,1,Inside heel hook,ADCC BR1 Trials,66KG,SF,2022
+30018,11823,Diogo Reis,10840,Diego Oliveira,W,1,Referee Decision,ADCC BR1 Trials,66KG,F,2022
+30994,11823,Diogo Reis,,Paulo Oliveira,W,1,Toe hold,Curitiba Open,64KG,4F,2022
+30996,11823,Diogo Reis,,Fernando Favari,W,1,Hashimoto choke,Curitiba Open,64KG,F,2022
+31608,11823,Diogo Reis,,Matheus Fonseca,W,1,Pts: 6x2,Pan American,64KG,R1,2022
+31842,11823,Diogo Reis,,Carlos Geovani,W,1,Yoko Sankaku,Rio Fall Open,64KG,4F,2022
+31846,11823,Diogo Reis,,Kaique Affonso,W,1,Pts: 31x0,Rio Fall Open,64KG,SF,2022
+32140,11823,Diogo Reis,,Suraj Budhram,W,1,Triangle,Brasileiro,64KG,4F,2022
+32142,11823,Diogo Reis,,Matheus Rossi,W,1,Triangle,Brasileiro,64KG,SF,2022
+32143,11823,Diogo Reis,,Cleber Fernandes,W,1,Pts: 8x0,Brasileiro,64KG,F,2022
+32872,11823,Diogo Reis,,Joao Soeiro,W,1,Pts: 2x0,World Champ.,64KG,8F,2022
+32878,11823,Diogo Reis,6043,Lucas Pinheiro,W,1,Toe hold,World Champ.,64KG,4F,2022
+33267,11823,Diogo Reis,,Nick Ronan,D,0.5,---,Polaris 20,ABS,RR,2022
+33276,11823,Diogo Reis,,Nathan Orchard,D,0.5,---,Polaris 20,ABS,RR,2022
+34210,11823,Diogo Reis,12120,Estevan Martinez,W,1,Referee Decision,WNO 14,NA,SPF,2022
+35000,11823,Diogo Reis,9401,Ashley Williams,W,1,Pts: 2x0,ADCC,66KG,R1,2022
+35008,11823,Diogo Reis,11497,Fabricio Andrey,W,1,Referee Decision,ADCC,66KG,4F,2022
+35013,11823,Diogo Reis,11568,Josh Cisneros,W,1,Pts: 2x0,ADCC,66KG,SF,2022
+35014,11823,Diogo Reis,9051,Gabriel Sousa,W,1,Pts: 3x0,ADCC,66KG,F,2022
+38000,11823,Diogo Reis,,Leonardo Lucindo,W,1,N/A,Curitiba SMO,70KG,4F,2023
+38001,11823,Diogo Reis,,Rafael Campos,W,1,Pts: 10x0,Curitiba SMO,70KG,SF,2023
+38003,11823,Diogo Reis,,Luis Barroso,W,1,Armbar,Curitiba SMO,70KG,F,2023
+38119,11823,Diogo Reis,,Felipe Machado,W,1,Pts: 6x0,Curitiba SMNGO,67KG,SF,2023
+38121,11823,Diogo Reis,,Kennedy Silva,W,1,RNC,Curitiba SMNGO,67KG,F,2023
+38354,11823,Diogo Reis,12303,Marcus Beddor,W,1,Bow and arrow,Pan American,64KG,8F,2023
+38357,11823,Diogo Reis,11889,Keven Carrasco,W,1,Pts: 2x0,Pan American,64KG,4F,2023
+38359,11823,Diogo Reis,13341,Zach Kaina,W,1,"Pts: 2x2, Adv",Pan American,64KG,SF,2023
+38361,11823,Diogo Reis,10840,Diego Oliveira,W,1,"Pts: 0x0, Adv",Pan American,64KG,F,2023
+38779,11823,Diogo Reis,,Abd. Khamad,W,1,Baratoplata,Presidents Cup,69KG,RR,2023
+38786,11823,Diogo Reis,,A. Alfarsi,W,1,Choke,Presidents Cup,69KG,SF,2023
+39456,11823,Diogo Reis,,Jhonatha Angelim,W,1,Arm in Ezekiel,Brasileiro,64KG,4F,2023
+39460,11823,Diogo Reis,,Wesley Santos,W,1,Pts: 5x0,Brasileiro,64KG,SF,2023
+39462,11823,Diogo Reis,7657,Cleber Sousa,W,1,Pts: 6x2,Brasileiro,64KG,F,2023
+41108,11823,Diogo Reis,,Jack Sear,W,1,Referee Decision,Honor Challenge,70KG,SPF,2023
+42502,11823,Diogo Reis,11510,Samuel Nagai,W,1,Referee Decision,BJJ Stars,70KG,SPF,2023
+43159,11823,Diogo Reis,12491,Keith Krikorian,W,1,Referee Decision,WNO 20,70KG,SF,2023
+43160,11823,Diogo Reis,9051,Gabriel Sousa,W,1,N/A,WNO 20,70KG,F,2023

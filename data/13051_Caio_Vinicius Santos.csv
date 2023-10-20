@@ -1,0 +1,26 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+22109,13051,Caio Vinicius Santos,10174,Rafael Paganini,L,0,Arm in guillotine,Curitiba SPO,88KG,4F,2019
+30347,13051,Caio Vinicius Santos,,Bernardo Passos,L,0,Inside heel hook,ADCC BR2 Trials,88KG,R3,2022
+37737,13051,Caio Vinicius Santos,12544,Mateus Rodrigues,L,0,Referee Decision,Memphis Open,94KG,F,2023
+37946,13051,Caio Vinicius Santos,8514,Fellipe Andrew,L,0,Mounted X choke,LA Open,94KG,SF,2023
+37967,13051,Caio Vinicius Santos,10085,Johnatha Alves,L,0,Pts: 2x0,LA Open,ABS,4F,2023
+38317,13051,Caio Vinicius Santos,10880,Roberto Jimenez,L,0,Kneebar,Pan American,ABS,8F,2023
+38449,13051,Caio Vinicius Santos,8514,Fellipe Andrew,L,0,Mounted X choke,Pan American,94KG,4F,2023
+39058,13051,Caio Vinicius Santos,9250,Gabriel Almeida,L,0,Kneebar,Santa Cruz O,94KG,SF,2023
+40327,13051,Caio Vinicius Santos,10880,Roberto Jimenez,L,0,Triangle,World Champ.,94KG,R1,2023
+41760,13051,Caio Vinicius Santos,12537,Pedro Machado,L,0,"Pts: 0x0, Adv",SDiego SMO,94KG,4F,2023
+41775,13051,Caio Vinicius Santos,8514,Fellipe Andrew,L,0,Katagatame,SDiego SMO,ABS,F,2023
+42296,13051,Caio Vinicius Santos,12544,Mateus Rodrigues,L,0,Pts: 6x4,JJ Con,94KG,4F,2023
+42311,13051,Caio Vinicius Santos,5655,Lucas Barbosa,L,0,Katagatame,JJ Con,ABS,SF,2023
+30325,13051,Caio Vinicius Santos,,Vitor Soares,W,1,Inside heel hook,ADCC BR2 Trials,88KG,R2,2022
+37734,13051,Caio Vinicius Santos,,Mair Amaral,W,1,N/A,Memphis Open,94KG,4F,2023
+37735,13051,Caio Vinicius Santos,12922,Elder Cruz,W,1,Pts: 10x0,Memphis Open,94KG,SF,2023
+37745,13051,Caio Vinicius Santos,,Michael Laci,W,1,Americana,Memphis Open,ABS,R1,2023
+37748,13051,Caio Vinicius Santos,12922,Elder Cruz,W,1,Pts: 4x0,Memphis Open,ABS,4F,2023
+37753,13051,Caio Vinicius Santos,,Javier Barter,W,1,Pts: 6x4,Memphis Open,ABS,SF,2023
+37754,13051,Caio Vinicius Santos,,Rafael Silva,W,1,Pts: 3x2,Memphis Open,ABS,F,2023
+37943,13051,Caio Vinicius Santos,10509,Mathias Luna,W,1,Pts: 2x0,LA Open,94KG,4F,2023
+37963,13051,Caio Vinicius Santos,7664,Johnny Tama,W,1,"Pts: 0x0, Adv",LA Open,ABS,R1,2023
+41772,13051,Caio Vinicius Santos,12544,Mateus Rodrigues,W,1,Pts: 4x2,SDiego SMO,ABS,4F,2023
+41774,13051,Caio Vinicius Santos,12419,Daniel Diniz,W,1,"Pts: 0x0, Adv",SDiego SMO,ABS,SF,2023
+42308,13051,Caio Vinicius Santos,,Clay Mayfield,W,1,Pts: 4x0,JJ Con,ABS,4F,2023

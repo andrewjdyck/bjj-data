@@ -1,0 +1,91 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8607,6258,Rodnei Barbosa,2997,Joao Miyao,L,0,"Pts: 0x0, Adv",Grand Slam RJ,62KG,R1,2015
+8906,6258,Rodnei Barbosa,1919,Koji Shibamoto,L,0,Referee Decision,European Open,57KG,SF,2016
+9560,6258,Rodnei Barbosa,2997,Joao Miyao,L,0,Pts: 4x2,World Pro,62KG,4F,2016
+9921,6258,Rodnei Barbosa,283,Bruno Malfacine,L,0,Pts: 7x0,World Champ.,57KG,4F,2016
+11018,6258,Rodnei Barbosa,6151,Hiago George,L,0,Pts: 2x0,Grand Slam RJ,62KG,4F,2016
+11537,6258,Rodnei Barbosa,1919,Koji Shibamoto,L,0,Pts: 6x2,European Open,58KG,F,2017
+12045,6258,Rodnei Barbosa,6151,Hiago George,L,0,Pts: 2x0,Grand Slam LDN,62KG,SF,2017
+13052,6258,Rodnei Barbosa,6060,Tomoyuki Hashimoto,L,0,Referee Decision,World Champ.,58KG,4F,2017
+13532,6258,Rodnei Barbosa,,Ryan Clay,L,0,Points,Boston SM. Open,64KG,SF,2017
+13785,6258,Rodnei Barbosa,6801,Jose Lima,L,0,Referee Decision,Grand Slam LA,56KG,F,2017
+14889,6258,Rodnei Barbosa,8870,Cleito Soares,L,0,"Pts: 2x2, Pen",European Open,57KG,4F,2018
+16118,6258,Rodnei Barbosa,6801,Jose Lima,L,0,Referee Decision,World Pro,56KG,RR,2018
+16439,6258,Rodnei Barbosa,283,Bruno Malfacine,L,0,Armbar,World Champ.,57KG,F,2018
+20227,6258,Rodnei Barbosa,7657,Cleber Sousa,L,0,Pts: 4x2,Brasileiro,57KG,F,2019
+20574,6258,Rodnei Barbosa,5447,Mikey Musumeci,L,0,Straight ankle lock,World Champ.,57KG,F,2019
+22146,6258,Rodnei Barbosa,10293,Jonas Andrade,L,0,Pts: 2x0,European NoGi,61KG,F,2019
+22833,6258,Rodnei Barbosa,10099,Thalison Soares,L,0,Pts: 2x0,NoGi Worlds,55KG,F,2019
+24652,6258,Rodnei Barbosa,10293,Jonas Andrade,L,0,Pts: 7x3,Grand Slam RJ,56KG,SF,2020
+24655,6258,Rodnei Barbosa,12251,Roiter Lima,L,0,Pts: 2x1,Grand Slam RJ,56KG,RPC,2020
+29452,6258,Rodnei Barbosa,283,Bruno Malfacine,L,0,"Pts: 2x2, Adv",World Champ.,57KG,SF,2021
+32328,6258,Rodnei Barbosa,8884,Alex Sodre,L,0,Pts: 5x1,King of Mats,69KG,RR,2022
+32329,6258,Rodnei Barbosa,11423,Meyram Maquine,L,0,Pts: 8x0,King of Mats,69KG,RR,2022
+32340,6258,Rodnei Barbosa,6151,Hiago George,L,0,Pts: 2x0,Grand Slam AD,62KG,SF,2022
+32344,6258,Rodnei Barbosa,11212,Yuri Hendrex,L,0,Pts: 7x5,Grand Slam AD,62KG,RPC,2022
+32863,6258,Rodnei Barbosa,,Bebeto Oliveira,L,0,Pts: 4x2,World Champ.,57KG,SF,2022
+38342,6258,Rodnei Barbosa,12848,Frank Cespedes,L,0,"Pts: 0x0, Adv",Pan American,58KG,4F,2023
+39038,6258,Rodnei Barbosa,12247,Jordan Vaisman,L,0,"Pts: 0x0, Adv",Santa Cruz O,64KG,F,2023
+40191,6258,Rodnei Barbosa,12251,Roiter Lima,L,0,Pts: 8x6,World Champ.,58KG,R1,2023
+41117,6258,Rodnei Barbosa,,Everton Teixeira,L,0,Pts: 4x2,American Nats,58KG,F,2023
+41539,6258,Rodnei Barbosa,12644,Tadiyah Danforth,L,0,Pts: 4x2,Orlando SMO,64KG,F,2023
+8904,6258,Rodnei Barbosa,,Nicolas Gaillard,W,1,Toe hold,European Open,57KG,4F,2016
+9085,6258,Rodnei Barbosa,,Jordy Peute,W,1,Points,Munich Open,57KG,SF,2016
+9086,6258,Rodnei Barbosa,,Lucas Dantas,W,1,Pts: 8x4,Munich Open,57KG,F,2016
+9203,6258,Rodnei Barbosa,,Michel Tavares,W,1,"Pts: 0x0, Adv",Grand Slam LDN,62KG,SF,2016
+9206,6258,Rodnei Barbosa,,Wojciech Piekut,W,1,Pts: 2x0,Grand Slam LDN,62KG,F,2016
+9557,6258,Rodnei Barbosa,,Joao Gouveia,W,1,Choke from back,World Pro,62KG,R1,2016
+9717,6258,Rodnei Barbosa,,Helio Guilherme,W,1,Choke from back,Brasileiro,57KG,4F,2016
+9718,6258,Rodnei Barbosa,7757,Juan Lopes,W,1,Choke from back,Brasileiro,57KG,F,2016
+9915,6258,Rodnei Barbosa,,Andrea Verdemare,W,1,Botinha,World Champ.,57KG,R1,2016
+11013,6258,Rodnei Barbosa,,Jorge Nakamura,W,1,Choke from back,Grand Slam RJ,62KG,R1,2016
+11227,6258,Rodnei Barbosa,,Luiz Sobral,W,1,RNC,South American,57KG,SF,2016
+11228,6258,Rodnei Barbosa,,Rafael Oliveira,W,1,Choke from back,South American,57KG,F,2016
+11533,6258,Rodnei Barbosa,,Masaaki Todokoro,W,1,Choke from back,European Open,58KG,4F,2017
+11536,6258,Rodnei Barbosa,,Guilherme Montenegro,W,1,Toe Hold,European Open,58KG,SF,2017
+12625,6258,Rodnei Barbosa,,Wellington Lima,W,1,Botinha,World Pro,56KG,SF,2017
+12626,6258,Rodnei Barbosa,,Todokoro Masaaki,W,1,Choke from back,World Pro,56KG,F,2017
+12722,6258,Rodnei Barbosa,,Ariel Amaral,W,1,Choke from back,Brasileiro,57KG,4F,2017
+12724,6258,Rodnei Barbosa,,Paulo Pizziali,W,1,Points,Brasileiro,57KG,SF,2017
+13045,6258,Rodnei Barbosa,8213,Raul Gomes,W,1,Pts: 6x2,World Champ.,58KG,8F,2017
+13530,6258,Rodnei Barbosa,6493,Darson Hemmings,W,1,Points,Boston SM. Open,64KG,4F,2017
+13784,6258,Rodnei Barbosa,,Jose Kurowoka,W,1,Pts: 9x0,Grand Slam LA,56KG,SF,2017
+14454,6258,Rodnei Barbosa,7757,Juan Lopes,W,1,Choke from back,South American,57KG,SF,2017
+14455,6258,Rodnei Barbosa,7757,Juan Lopes,W,1,Pts: 6x0,South American,57KG,F,2017
+14606,6258,Rodnei Barbosa,3028,Leandro Escobar,W,1,Triangle armbar,ACB JJ Worlds,60KG,SF,2017
+14607,6258,Rodnei Barbosa,8305,Pedro Dias,W,1,Referee Decision,ACB JJ Worlds,60KG,F,2017
+15848,6258,Rodnei Barbosa,8218,Mayko Araujo,W,1,Points,ACBJJ 12,60KG,SPF,2018
+15931,6258,Rodnei Barbosa,,Mayko Arajo,W,1,Points,ACB Asian Open,65KG,F,2018
+16113,6258,Rodnei Barbosa,,Joao Kuruoka,W,1,"Pts: 2x2, Adv",World Pro,56KG,RR,2018
+16116,6258,Rodnei Barbosa,,Andrea Verdemare,W,1,Choke from back,World Pro,56KG,RR,2018
+16117,6258,Rodnei Barbosa,,Takahito Yoshioka,W,1,Pts: 3x0,World Pro,56KG,RR,2018
+16433,6258,Rodnei Barbosa,,Carlos Perez,W,1,Choke from back,World Champ.,57KG,4F,2018
+16437,6258,Rodnei Barbosa,8038,Hiago Gama,W,1,Choke from back,World Champ.,57KG,SF,2018
+16732,6258,Rodnei Barbosa,1436,Samir Chantre,W,1,Points,ACBJJ 14,60KG,SPF,2018
+18350,6258,Rodnei Barbosa,,Gequiel Amorim,W,1,Choke from back,South American,64KG,4F,2018
+18351,6258,Rodnei Barbosa,,Marcio Nascimento,W,1,Pts: 6x2,South American,64KG,SF,2018
+18352,6258,Rodnei Barbosa,,Willian Melo,W,1,Pts: 2x0,South American,64KG,F,2018
+18868,6258,Rodnei Barbosa,,Gabriel Roseberg,W,1,N/A,European Open,57KG,4F,2019
+18870,6258,Rodnei Barbosa,,Bebeto Oliveira,W,1,"Pts: 2x2, Adv",European Open,57KG,SF,2019
+18872,6258,Rodnei Barbosa,6060,Tomoyuki Hashimoto,W,1,"Pts: 4x4, Adv",European Open,57KG,F,2019
+20221,6258,Rodnei Barbosa,,Joao Guilherme,W,1,Armlock,Brasileiro,57KG,R1,2019
+20223,6258,Rodnei Barbosa,,Ricardo Rodrigues,W,1,Crucifix armlock,Brasileiro,57KG,4F,2019
+20226,6258,Rodnei Barbosa,7757,Juan Lopes,W,1,Pts: 6x4,Brasileiro,57KG,SF,2019
+20567,6258,Rodnei Barbosa,,Gabriel Roseberg,W,1,Kneebar,World Champ.,57KG,R2,2019
+20570,6258,Rodnei Barbosa,,Carlos Alberto,W,1,RNC,World Champ.,57KG,4F,2019
+20572,6258,Rodnei Barbosa,7657,Cleber Sousa,W,1,"Pts: 0x0, Adv",World Champ.,57KG,SF,2019
+22144,6258,Rodnei Barbosa,10380,Junny Ocasio,W,1,Points,European NoGi,61KG,SF,2019
+22830,6258,Rodnei Barbosa,,Taniel Jesus,W,1,RNC,NoGi Worlds,55KG,4F,2019
+22832,6258,Rodnei Barbosa,9502,Nobuhiro Sawada,W,1,Referee Decision,NoGi Worlds,55KG,SF,2019
+24645,6258,Rodnei Barbosa,,Oziel Carvalho,W,1,Pts: 2x1,Grand Slam RJ,56KG,R1,2020
+24650,6258,Rodnei Barbosa,,Lucas Feitosa,W,1,Pts: 3x0,Grand Slam RJ,56KG,4F,2020
+26331,6258,Rodnei Barbosa,,Valmecir Junior,W,1,Choke from back,UAE Nat Pro,62KG,F,2021
+29446,6258,Rodnei Barbosa,,Andrea Verdemare,W,1,Choke from back,World Champ.,57KG,R1,2021
+29449,6258,Rodnei Barbosa,12251,Roiter Lima,W,1,Pts: 8x6,World Champ.,57KG,4F,2021
+32337,6258,Rodnei Barbosa,,Xavi Bas,W,1,Submission,Grand Slam AD,62KG,4F,2022
+32852,6258,Rodnei Barbosa,12644,Tadiyah Danforth,W,1,Choke from back,World Champ.,57KG,R1,2022
+32859,6258,Rodnei Barbosa,10293,Jonas Andrade,W,1,Adv,World Champ.,57KG,4F,2022
+39037,6258,Rodnei Barbosa,,Reon Niwa,W,1,"Pts: 0x0, Adv",Santa Cruz O,64KG,SF,2023
+41112,6258,Rodnei Barbosa,,Abraham Majedi,W,1,Choke from back,American Nats,58KG,4F,2023
+41116,6258,Rodnei Barbosa,,Antonio Villiatora,W,1,Choke from back,American Nats,58KG,SF,2023
+41537,6258,Rodnei Barbosa,,Samat Aitapanbet,W,1,Pts: 5x2,Orlando SMO,64KG,SF,2023

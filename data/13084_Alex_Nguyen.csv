@@ -1,0 +1,31 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25963,13084,Alex Nguyen,11783,Grace Gundrum,L,0,Armlock,WNO 8,52KG,SPF,2021
+27912,13084,Alex Nguyen,9271,Mayssa Bastos,L,0,Referee Decision,WNO Champ.,52KG,4F,2021
+27928,13084,Alex Nguyen,7012,Amanda Alequin,L,0,Kneebar,WNO Champ.,52KG,RPC,2021
+29856,13084,Alex Nguyen,,Sophia Casella,L,0,EBI/OT,Finishers Only,52KG,F,2022
+31532,13084,Alex Nguyen,13205,Sheliah Lindsey,L,0,Points,ADCC WC Trials,60KG,R1,2022
+29852,13084,Alex Nguyen,,Lauren Sears,W,1,Armbar,Finishers Only,52KG,SPF,2022
+29853,13084,Alex Nguyen,,Christina Kruse,W,1,RNC,Finishers Only,52KG,R1,2022
+29854,13084,Alex Nguyen,,Liliana Ramos,W,1,Points,Finishers Only,52KG,4F,2022
+29855,13084,Alex Nguyen,,Lauren Sears,W,1,Armbar,Finishers Only,52KG,SF,2022
+29861,13084,Alex Nguyen,,Jessica Crane,W,1,RNC,Toro Cup,N/A,SPF,2022
+29862,13084,Alex Nguyen,,Sophia Cassella,W,1,Referee Decision,Fury Grappling,N/A,SPF,2022
+35605,13084,Alex Nguyen,,Brittany Way,W,1,RNC,NoGi Pan,51KG,SF,2022
+35606,13084,Alex Nguyen,,Thamires Aquino,W,1,RNC,NoGi Pan,51KG,F,2022
+35973,13084,Alex Nguyen,,Olivia Beeskau,W,1,RNC,Midwest F7,56KG,4F,2022
+35974,13084,Alex Nguyen,,Autumn Gordon,W,1,Straight ankle lock,Midwest F7,56KG,SF,2022
+35975,13084,Alex Nguyen,,Trinity Pun,W,1,Armlock,Midwest F7,56KG,F,2022
+35976,13084,Alex Nguyen,,Brittany Way,W,1,Armlock,The Finishers,56KG,SPF,2022
+35977,13084,Alex Nguyen,,Tam Dang,W,1,RNC,Midwest F9,52KG,4F,2022
+35978,13084,Alex Nguyen,,Theresa Calloway,W,1,Armlock,Midwest F9,52KG,SF,2022
+35979,13084,Alex Nguyen,,Brittany Way,W,1,EBI/OT,Midwest F9,52KG,F,2022
+36006,13084,Alex Nguyen,,Chelsea Mapa,W,1,EBI/OT,Halloween Havoc,N/A,SPF,2022
+36908,13084,Alex Nguyen,,Andressa Morais,W,1,Inside heel hook,NoGi Worlds,51KG,SF,2022
+36910,13084,Alex Nguyen,,Jessica Crane,W,1,RNC,NoGi Worlds,51KG,F,2022
+38537,13084,Alex Nguyen,,Tara Harbaugh,W,1,Armbar,M. Finishers 17,57KG,4F,2023
+38540,13084,Alex Nguyen,,Lauren Sears,W,1,Triangle armbar,M. Finishers 20,57KG,SF,2023
+38541,13084,Alex Nguyen,,Emily Nicholson,W,1,RNC,M. Finishers 21,57KG,F,2023
+40885,13084,Alex Nguyen,,Natasha Druggan,W,1,"Pts: 0x0, Pen",ADCC Dallas,55KG,R1,2023
+40886,13084,Alex Nguyen,,Alexa Trevino,W,1,Pts: 13x0,ADCC Dallas,55KG,4F,2023
+40887,13084,Alex Nguyen,,Cindy Ung,W,1,Pts: 9x0,ADCC Dallas,55KG,SF,2023
+40888,13084,Alex Nguyen,,Andrea Amaro,W,1,Pts: 4x2,ADCC Dallas,55KG,F,2023

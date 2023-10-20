@@ -1,0 +1,45 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+382,86,Fernando Vieira,559,Rodrigo Comprido,L,0,Pts: 2x0,World Champ.,ABS,F,2000
+395,86,Fernando Vieira,550,Roberto Roleta,L,0,Pts: 4x0,World Champ.,88KG,F,2000
+469,86,Fernando Vieira,1152,Eduardo Jamelao,L,0,Pts: 8x2,Rickson Cup,ABS,GP,2000
+480,86,Fernando Vieira,12,Nino Schembri,L,0,Pts: 5x0,Rio x Sao Paulo,ABS,SPF,2000
+757,86,Fernando Vieira,117,Ronaldo Souza,L,0,Points,ADCC Trials,88KG,NA,2003
+793,86,Fernando Vieira,4965,David Terrell,L,0,Points,ADCC,88KG,4F,2003
+1076,86,Fernando Vieira,117,Ronaldo Souza,L,0,Pts: 7x0,World Cup,ABS,F,2004
+1269,86,Fernando Vieira,84,Alexandre Ribeiro,L,0,Pts: 9x2,World Cup,O75KG,SF,2005
+1314,86,Fernando Vieira,505,Roger Gracie,L,0,Choke from back,World Champ.,100KG,SF,2005
+1780,86,Fernando Vieira,505,Roger Gracie,L,0,Pts: 9x5,World Champ.,ABS,4F,2007
+377,86,Fernando Vieira,,Francisco Mello,W,1,Armbar,World Champ.,ABS,R1,2000
+378,86,Fernando Vieira,1044,Flavio Almeida,W,1,Baseball choke,World Champ.,ABS,R2,2000
+379,86,Fernando Vieira,4864,Alexandre Dantas,W,1,Armbar,World Champ.,ABS,4F,2000
+381,86,Fernando Vieira,886,Leonardo Leite,W,1,Pts: 9x2,World Champ.,ABS,SF,2000
+393,86,Fernando Vieira,1044,Flavio Almeida,W,1,Points,World Champ.,88KG,SF,2000
+473,86,Fernando Vieira,6403,Leo Dalla,W,1,Pts: 7x0,Rickson Cup,ABS,GP,2000
+474,86,Fernando Vieira,1044,Flavio Almeida,W,1,Pts: 14x0,Rickson Cup,ABS,GP,2000
+475,86,Fernando Vieira,12,Nino Schembri,W,1,Injury,Rickson Cup,ABS,F,2000
+578,86,Fernando Vieira,,Paulo Streckert,W,1,Choke,World Champ.,ABS,R1,2001
+579,86,Fernando Vieira,,Adriano Maciel,W,1,Armbar,World Champ.,ABS,R2,2001
+581,86,Fernando Vieira,6403,Leo Dalla,W,1,Armbar,World Champ.,ABS,4F,2001
+583,86,Fernando Vieira,559,Rodrigo Comprido,W,1,Pts: 13x8,World Champ.,ABS,SF,2001
+584,86,Fernando Vieira,481,Saulo Ribeiro,W,1,Pts: 2x0,World Champ.,ABS,F,2001
+596,86,Fernando Vieira,,Marcos Sheffer,W,1,Points,World Champ.,88KG,4F,2001
+597,86,Fernando Vieira,,Leandro Borgo,W,1,Points,World Champ.,88KG,SF,2001
+599,86,Fernando Vieira,481,Saulo Ribeiro,W,1,Baseball choke,World Champ.,88KG,F,2001
+613,86,Fernando Vieira,,Adriano Maciel,W,1,Submission,Pan American,94KG,4F,2001
+614,86,Fernando Vieira,658,Fabio Leopoldo,W,1,Submission,Pan American,94KG,SF,2001
+615,86,Fernando Vieira,322,Fabio Gurgel,W,1,Cross choke,Pan American,94KG,F,2001
+756,86,Fernando Vieira,,Unknown,W,1,Points,ADCC Trials,88KG,NA,2003
+788,86,Fernando Vieira,,Robert Sulski,W,1,Points,ADCC,88KG,R1,2003
+1071,86,Fernando Vieira,,Ronirlei Souza,W,1,Armbar,World Cup,ABS,R1,2004
+1073,86,Fernando Vieira,84,Alexandre Ribeiro,W,1,"Pts: 2x2, Adv",World Cup,ABS,4F,2004
+1075,86,Fernando Vieira,1382,Marcel Louzado,W,1,Pts: 12x2,World Cup,ABS,SF,2004
+1091,86,Fernando Vieira,,Wellington Araujo,W,1,Armbar,World Cup,94KG,4F,2004
+1093,86,Fernando Vieira,481,Saulo Ribeiro,W,1,Pts: 4x2,World Cup,94KG,SF,2004
+1094,86,Fernando Vieira,562,Eduardo Telles,W,1,Toe hold,World Cup,94KG,F,2004
+1249,86,Fernando Vieira,,Roberto Piasa,W,1,Wristlock,World Cup,94KG,4F,2005
+1250,86,Fernando Vieira,,Rafael Louzada,W,1,Armbar,World Cup,94KG,SF,2005
+1266,86,Fernando Vieira,,Fabio Trindade,W,1,Submission,World Cup,O75KG,4F,2005
+1307,86,Fernando Vieira,,Vitor Hugo,W,1,Guillotine,World Champ.,100KG,R1,2005
+1311,86,Fernando Vieira,562,Eduardo Telles,W,1,Adv,World Champ.,100KG,4F,2005
+1329,86,Fernando Vieira,9,Marcio Cruz,W,1,Armbar,Yamasaki Cup,ABS,SPF,2005
+1775,86,Fernando Vieira,,T. Gaia,W,1,Armbar,World Champ.,ABS,R1,2007

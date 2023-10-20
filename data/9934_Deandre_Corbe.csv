@@ -1,0 +1,110 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+16875,9934,Deandre Corbe,6368,Kevin Mahecha,L,0,Armbar,Nashville Open,70KG,F,2018
+17035,9934,Deandre Corbe,6366,Brian Mahecha,L,0,Points,Orlando Open,70KG,SF,2018
+17200,9934,Deandre Corbe,8632,Thiago Macedo,L,0,Points,Chicago SM Open,70KG,SF,2018
+17214,9934,Deandre Corbe,2997,Joao Miyao,L,0,Pts: 6x2,Chicago SM NGO,67KG,F,2018
+17376,9934,Deandre Corbe,9309,Felipe Linhares,L,0,Points,Washington SU.O.,70KG,4F,2018
+18084,9934,Deandre Corbe,9309,Felipe Linhares,L,0,Points,Charlotte Open,70KG,SF,2018
+20575,9934,Deandre Corbe,9051,Gabriel Sousa,L,0,Pts: 19x4,World Champ.,64KG,R1,2019
+21022,9934,Deandre Corbe,2997,Joao Miyao,L,0,Pts: 5x0,Toro Cup,70KG,SPF,2019
+21071,9934,Deandre Corbe,6103,Isaac Doederlein,L,0,Bow and arrow,NY BJJ Pro,70KG,SF,2019
+21157,9934,Deandre Corbe,10155,Malachi Edmond,L,0,Pts: 4x0,Washington SMO,70KG,F,2019
+23087,9934,Deandre Corbe,9051,Gabriel Sousa,L,0,Referee Decision,European Open,70KG,4F,2020
+26118,9934,Deandre Corbe,4248,Gianni Grippo,L,0,Pts: 8x2,NoGi Pan Am.,73KG,SF,2021
+27486,9934,Deandre Corbe,12254,Robert Degle,L,0,Pts: 4x2,Newbreed,76KG,F,2021
+28255,9934,Deandre Corbe,4248,Gianni Grippo,L,0,Katagatame,NoGi Worlds,73KG,4F,2021
+28810,9934,Deandre Corbe,12950,Cole Abate,L,0,Pts: 2x0,ADCC EC Trials,66KG,SF,2021
+28812,9934,Deandre Corbe,4248,Gianni Grippo,L,0,Pts: 2x0,ADCC EC Trials,66KG,3RD,2021
+30098,9934,Deandre Corbe,9051,Gabriel Sousa,L,0,Points,Toro Cup,N/A,SPF,2022
+30740,9934,Deandre Corbe,12115,Kieran Kichuk,L,0,EBI/OT,Finishers SO,70KG,4F,2022
+31520,9934,Deandre Corbe,4248,Gianni Grippo,L,0,Pts: 2x0,ADCC WC Trials,66KG,4F,2022
+32850,9934,Deandre Corbe,,Andrew Kochel,L,0,Straight ankle lock,Survivor 2,ABS,RR,2022
+33466,9934,Deandre Corbe,4328,AJ Agazarm,L,0,Pts: 2x0,American NGN,73KG,F,2022
+33534,9934,Deandre Corbe,,Jordan Holy,L,0,EBI/OT,M. Finishers 7,70KG,F,2022
+36832,9934,Deandre Corbe,8116,Dante Leon,L,0,Short choke,NoGi Worlds,73KG,SF,2022
+16874,9934,Deandre Corbe,6366,Brian Mahecha,W,1,"Pts: 0x0, Adv",Nashville Open,70KG,SF,2018
+17034,9934,Deandre Corbe,8632,Thiago Macedo,W,1,Adv,Orlando Open,70KG,4F,2018
+17519,9934,Deandre Corbe,8632,Thiago Macedo,W,1,Pts: 4x2,Atlanta SMO,70KG,SF,2018
+17520,9934,Deandre Corbe,,Josh Murdock,W,1,Choke from back,Atlanta SMO,70KG,F,2018
+18415,9934,Deandre Corbe,,Charles Murdock,W,1,Armbar,Nashville Fall Open,70KG,SF,2018
+18416,9934,Deandre Corbe,5114,Joao Somalia,W,1,Choke from back,Nashville Fall Open,70KG,F,2018
+19497,9934,Deandre Corbe,,Orlando Andaviza,W,1,Choke from back,Cincinnati Open,70KG,SF,2019
+19498,9934,Deandre Corbe,,Rick Slomba,W,1,Pts: 7x4,Cincinnati Open,70KG,F,2019
+19894,9934,Deandre Corbe,,Eduard Hohl,W,1,Choke from back,Washington DCO,70KG,SF,2019
+19896,9934,Deandre Corbe,8800,Matheus Gonzaga,W,1,Pts: 4x2,Washington DCO,70KG,F,2019
+20161,9934,Deandre Corbe,,Thiago Brito,W,1,Pts: 4x2,NY Spring Open,70KG,SF,2019
+20162,9934,Deandre Corbe,,Victor Paschoal,W,1,Pts: 4x2,NY Spring Open,70KG,F,2019
+20516,9934,Deandre Corbe,9385,Brandon Walensky,W,1,Points,Chicago SPO,70KG,SF,2019
+20517,9934,Deandre Corbe,,Frederico Alves,W,1,"Pts: 6x6, Adv",Chicago SPO,70KG,F,2019
+21069,9934,Deandre Corbe,,Thiago Cintra,W,1,Adv,NY BJJ Pro,70KG,4F,2019
+21156,9934,Deandre Corbe,,Dennis Pressey,W,1,N/A,Washington SMO,70KG,SF,2019
+21258,9934,Deandre Corbe,10623,Eric Phan,W,1,Referee Decision,Orlando SMO,70KG,SF,2019
+21259,9934,Deandre Corbe,,Yijad Charif,W,1,Straight ankle lock,Orlando SMO,70KG,F,2019
+23079,9934,Deandre Corbe,,S. McNally,W,1,Pts: 4x2,European Open,70KG,R1,2020
+23453,9934,Deandre Corbe,,Jon Lau,W,1,Armbar,Canada Pro,69KG,RR,2020
+23454,9934,Deandre Corbe,,Jon Lau,W,1,Armbar,Canada Pro,69KG,F,2020
+26104,9934,Deandre Corbe,9309,Felipe Linhares,W,1,Inside heel hook,NoGi Pan Am.,73KG,R1,2021
+26112,9934,Deandre Corbe,,Charles Murdock,W,1,RNC,NoGi Pan Am.,73KG,8F,2021
+26115,9934,Deandre Corbe,12376,Rodrigo Francioni,W,1,Referee Decision,NoGi Pan Am.,73KG,4F,2021
+27481,9934,Deandre Corbe,,Justin Pack,W,1,Heel hook,Newbreed,71KG,SF,2021
+27482,9934,Deandre Corbe,12254,Robert Degle,W,1,Pts: 2x0,Newbreed,71KG,F,2021
+27483,9934,Deandre Corbe,,Alejandro Lopez,W,1,Armbar,Newbreed,76KG,4F,2021
+27484,9934,Deandre Corbe,,Jonathan Deyette,W,1,Heel hook,Newbreed,76KG,SF,2021
+28253,9934,Deandre Corbe,11187,Marcus Phelan,W,1,Pts: 4x0,NoGi Worlds,73KG,8F,2021
+28429,9934,Deandre Corbe,,Nick Ortiz,W,1,Referee Decision,Ironman GC,N/A,SPF,2021
+28784,9934,Deandre Corbe,,B. Cohen-Vera,W,1,RNC,ADCC EC Trials,66KG,R2,2021
+28796,9934,Deandre Corbe,,Gabriel Daffron,W,1,Pts: 5x0,ADCC EC Trials,66KG,R3,2021
+28804,9934,Deandre Corbe,11093,Emilio Hernandez,W,1,Kimura,ADCC EC Trials,66KG,R4,2021
+28808,9934,Deandre Corbe,10380,Junny Ocasio,W,1,Referee Decision,ADCC EC Trials,66KG,4F,2021
+29857,9934,Deandre Corbe,,Fabian Ramirez,W,1,EBI/OT,Finishers Only,70KG,SF,2022
+29858,9934,Deandre Corbe,,Zach Green,W,1,Armbar,Finishers Only,70KG,F,2022
+30737,9934,Deandre Corbe,,James Vanosdol,W,1,Submission,Finishers SO,70KG,R1,2022
+31477,9934,Deandre Corbe,12303,Marcus Beddor,W,1,"Pts: 0x0, Pen",ADCC WC Trials,66KG,R1,2022
+31492,9934,Deandre Corbe,,Jacob Semsem,W,1,Pts: 3x0,ADCC WC Trials,66KG,R2,2022
+31493,9934,Deandre Corbe,,Z. Kaina,W,1,"Pts: 0x0, Pen",ADCC WC Trials,66KG,R2,2022
+31519,9934,Deandre Corbe,10380,Junny Ocasio,W,1,Pts: 2x0,ADCC WC Trials,66KG,8F,2022
+32550,9934,Deandre Corbe,11919,Daniel Maira,W,1,"Pts: 0x0, Adv",Atlanta SPNGO,73KG,SF,2022
+32552,9934,Deandre Corbe,12376,Rodrigo Francioni,W,1,"Pts: 0x0, Adv",Atlanta SPNGO,73KG,F,2022
+32846,9934,Deandre Corbe,,Pete Shoemaker,W,1,Short choke,Survivor 2,ABS,RR,2022
+32847,9934,Deandre Corbe,,Mike Padilla,W,1,Suloev stretch,Survivor 2,ABS,RR,2022
+32848,9934,Deandre Corbe,,Zach Green,W,1,Armbar,Survivor 2,ABS,RR,2022
+32849,9934,Deandre Corbe,,John Battle,W,1,Kneebar,Survivor 2,ABS,RR,2022
+33462,9934,Deandre Corbe,,Julio Arantes,W,1,Katagatame,American NGN,73KG,4F,2022
+33464,9934,Deandre Corbe,5930,Rodrigo Freitas,W,1,Inside heel hook,American NGN,73KG,SF,2022
+33528,9934,Deandre Corbe,,David Barnes,W,1,Katagatame,M. Finishers 7,70KG,R1,2022
+33533,9934,Deandre Corbe,,Max Hanson,W,1,EBI/OT,M. Finishers 7,70KG,SF,2022
+34923,9934,Deandre Corbe,,J. Cisneros,W,1,Pts: 2x0,ADCC Vegas,70KG,R1,2022
+34925,9934,Deandre Corbe,,Jacob Semsen,W,1,Inside heel hook,ADCC Vegas,70KG,8F,2022
+34928,9934,Deandre Corbe,,Naser Abdulkareem,W,1,Aoki lock,ADCC Vegas,70KG,4F,2022
+34931,9934,Deandre Corbe,,Mauricio Gomez,W,1,Pts: 2x0,ADCC Vegas,70KG,SF,2022
+34932,9934,Deandre Corbe,,Henrique Barreto,W,1,Inside heel hook,ADCC Vegas,70KG,F,2022
+35526,9934,Deandre Corbe,,Daniel Seth,W,1,Shoulder lock,NoGi Pan,73KG,8F,2022
+35530,9934,Deandre Corbe,12376,Rodrigo Francioni,W,1,RNC,NoGi Pan,73KG,4F,2022
+35532,9934,Deandre Corbe,10953,Danilo Moreira,W,1,Inside heel hook,NoGi Pan,73KG,SF,2022
+35533,9934,Deandre Corbe,12115,Kieran Kichuk,W,1,Pts: 2x0,NoGi Pan,73KG,F,2022
+36562,9934,Deandre Corbe,,Jonathan Lopez,W,1,Triangle armlock,Finishers 17,70KG,R1,2022
+36824,9934,Deandre Corbe,,Andrew Alexander,W,1,Shoulder lock,NoGi Worlds,73KG,8F,2022
+36828,9934,Deandre Corbe,10953,Danilo Moreira,W,1,Pts: 4x2,NoGi Worlds,73KG,4F,2022
+39132,9934,Deandre Corbe,,Aashish Ajit,W,1,Submission,ADCC CAN,70KG,R1,2023
+39134,9934,Deandre Corbe,,M. Hanson,W,1,Pts: 3x0,ADCC CAN,70KG,4F,2023
+39135,9934,Deandre Corbe,,Robert Santos,W,1,Submission,ADCC CAN,70KG,SF,2023
+39137,9934,Deandre Corbe,,Alexis Jacques,W,1,Pts: 3x0,ADCC CAN,70KG,F,2023
+39947,9934,Deandre Corbe,,Brandon Ferguson,W,1,Kimura,ADCC Denver,70KG,R1,2023
+39949,9934,Deandre Corbe,,Thien Nguyen,W,1,Pts: 3x0,ADCC Denver,70KG,4F,2023
+39951,9934,Deandre Corbe,,TJ Steinebach,W,1,Armbar,ADCC Denver,70KG,SF,2023
+39952,9934,Deandre Corbe,,Robert Parish,W,1,Armbar,ADCC Denver,70KG,F,2023
+40802,9934,Deandre Corbe,,John Garcia,W,1,Submission,ADCC Dallas,70KG,R1,2023
+40804,9934,Deandre Corbe,,R. Golden,W,1,RNC,ADCC Dallas,70KG,R2,2023
+40806,9934,Deandre Corbe,,D. Lyons,W,1,Armbar,ADCC Dallas,70KG,4F,2023
+40807,9934,Deandre Corbe,,Reece Lafever,W,1,Pts: 3x0,ADCC Dallas,70KG,SF,2023
+40808,9934,Deandre Corbe,,L. McLendon,W,1,Back triangle,ADCC Dallas,70KG,F,2023
+41911,9934,Deandre Corbe,,Kristofer Arrey,W,1,Pts: 6x0,ADCC Arizona,70KG,R1,2023
+41915,9934,Deandre Corbe,,Joshua Murdock,W,1,RNC,ADCC Arizona,70KG,8F,2023
+41917,9934,Deandre Corbe,,Ronnie LaBella,W,1,RNC,ADCC Arizona,70KG,4F,2023
+41919,9934,Deandre Corbe,,Henrique Barreto,W,1,Inside heel hook,ADCC Arizona,70KG,SF,2023
+41920,9934,Deandre Corbe,,Dominic Mejia,W,1,Pts: 2x0,ADCC Arizona,70KG,F,2023
+42250,9934,Deandre Corbe,,Anthony Valdes,W,1,Shoulder lock,FSM Bash,70KG,SPF,2023
+43104,9934,Deandre Corbe,,Augusto Rabelo,W,1,Inside heel hook,Enigma Inv,70KG,R1,2023
+43108,9934,Deandre Corbe,,Landon Elmore,W,1,Reverse triangle,Enigma Inv,70KG,4F,2023
+43111,9934,Deandre Corbe,,Dominic Mejia,W,1,Shoulder lock,Enigma Inv,70KG,SF,2023
+43112,9934,Deandre Corbe,,D. Stoilescu,W,1,RNC,Enigma Inv,70KG,F,2023

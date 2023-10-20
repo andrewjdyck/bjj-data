@@ -1,0 +1,39 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27576,12225,Igor Feliz,10085,Johnatha Alves,L,0,Choke from back,Pan American,76KG,4F,2021
+30577,12225,Igor Feliz,12652,Marcelo Fausto,L,0,Pts: 2x0,European Open,76KG,SF,2022
+31660,12225,Igor Feliz,11878,Andy Murasaki,L,0,Pts: 5x0,Pan American,76KG,SF,2022
+32920,12225,Igor Feliz,10103,Jonnatas Gracie,L,0,Pts: 7x0,World Champ.,76KG,8F,2022
+35537,12225,Igor Feliz,10506,Jeferson Guaresi,L,0,"Pts: 0x0, Adv",NoGi Pan,79KG,8F,2022
+36851,12225,Igor Feliz,11878,Andy Murasaki,L,0,Inside heel hook,NoGi Worlds,79KG,F,2022
+39663,12225,Igor Feliz,,Adriano Araujo,L,0,Pts: 2x1,ADGS ABD,77KG,R1,2023
+40602,12225,Igor Feliz,,Luiz Santos,L,0,Pts: 4x2,Grand Slam RJ,77KG,8F,2023
+41028,12225,Igor Feliz,,Lucas Brito,L,0,Pts: 6x3,Jacksonville Pro,77KG,F,2023
+42489,12225,Igor Feliz,11707,Oliver Taza,L,0,Referee Decision,EUG JJB,82KG,SF,2023
+26860,12225,Igor Feliz,,Roger Kremer,W,1,Cachecol choke,Chicago Open,76KG,SF,2021
+26862,12225,Igor Feliz,9407,Alexandre Molinaro,W,1,Pts: 7x2,Chicago Open,76KG,F,2021
+26936,12225,Igor Feliz,9931,Arthur Detanico,W,1,Pts: 12x2,Austin Open,76KG,4F,2021
+26938,12225,Igor Feliz,7664,Johnny Tama,W,1,"Pts: 2x2, Adv",Austin Open,76KG,SF,2021
+26940,12225,Igor Feliz,12115,Kieran Kichuk,W,1,Pts: 2x0,Austin Open,76KG,F,2021
+27040,12225,Igor Feliz,,Yue Goh,W,1,Cachecol choke,Phoenix Open,76KG,SF,2021
+27042,12225,Igor Feliz,,Gabriel Silva,W,1,Pts: 11x4,Phoenix Open,76KG,F,2021
+30568,12225,Igor Feliz,,Bryn Jenkins,W,1,Pts: 8x0,European Open,76KG,R1,2022
+30576,12225,Igor Feliz,9407,Alexandre Molinaro,W,1,Referee Decision,European Open,76KG,4F,2022
+31652,12225,Igor Feliz,12629,Fabricio Barbarotti,W,1,Referee Decision,Pan American,76KG,R2,2022
+31655,12225,Igor Feliz,8138,Hugo Marques,W,1,Referee Decision,Pan American,76KG,4F,2022
+32909,12225,Igor Feliz,6368,Kevin Mahecha,W,1,"Pts: 2x2, Adv",World Champ.,76KG,R1,2022
+34372,12225,Igor Feliz,,Alef Silva,W,1,Choke from back,N. Orleans SMO,76KG,SF,2022
+34373,12225,Igor Feliz,9931,Arthur Detanico,W,1,Pts: 10x2,N. Orleans SMO,76KG,F,2022
+34384,12225,Igor Feliz,,Isaiah Vicens,W,1,Choke from back,N. Haven Open,82KG,4F,2022
+34388,12225,Igor Feliz,,Marcus Johnson,W,1,Pts: 16x0,N. Haven Open,82KG,SF,2022
+34390,12225,Igor Feliz,10295,Italo Moura,W,1,Referee Decision,N. Haven Open,82KG,F,2022
+35536,12225,Igor Feliz,,James Partridge,W,1,Pts: 11x0,NoGi Pan,79KG,R1,2022
+36077,12225,Igor Feliz,,Pierre Manzo,W,1,Pts: 12x0,European NG,79KG,R1,2022
+36081,12225,Igor Feliz,,Jed Hue,W,1,Pts: 5x0,European NG,79KG,8F,2022
+36085,12225,Igor Feliz,,Ellis Younger,W,1,Pts: 18x0,European NG,79KG,4F,2022
+36089,12225,Igor Feliz,,Gyula Szabo,W,1,Adv,European NG,79KG,SF,2022
+36090,12225,Igor Feliz,,Pierpaolo Chiappe,W,1,Pts: 4x0,European NG,79KG,F,2022
+36839,12225,Igor Feliz,,Lucas Queiroz,W,1,RNC,NoGi Worlds,79KG,8F,2022
+36845,12225,Igor Feliz,7664,Johnny Tama,W,1,Referee Decision,NoGi Worlds,79KG,4F,2022
+36849,12225,Igor Feliz,6836,John Combs,W,1,Pts: 4x0,NoGi Worlds,79KG,SF,2022
+40592,12225,Igor Feliz,,Renan Rodrigues,W,1,Choke from back,Grand Slam RJ,77KG,R1,2023
+42488,12225,Igor Feliz,12215,Sebastian Rodriguez,W,1,Referee Decision,EUG JJB,82KG,4F,2023

@@ -1,0 +1,64 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6185,6531,Richard Martinez,5649,Garry Tonon,L,0,Inside heel hook,EBI,77KG,F,2014
+7209,6531,Richard Martinez,4328,AJ Agazarm,L,0,Toe hold,ADCC US Trials,77KG,8F,2015
+7366,6531,Richard Martinez,7321,Darragh OConaill,L,0,North south choke,EBI 3,77KG,4F,2015
+8781,6531,Richard Martinez,,Jose Portillo,L,0,Heel hook,Onnit Invit.,ABS,F,2015
+8786,6531,Richard Martinez,,Karen darabedyan,L,0,Heel hook,Kakuto Challenge,ABS,F,2015
+9679,6531,Richard Martinez,5423,Matheus Diniz,L,0,Violin armlock,EBI 6,ABS,4F,2016
+10689,6531,Richard Martinez,6836,John Combs,L,0,Armbar,Guatemala Open,82KG,SPF,2016
+10978,6531,Richard Martinez,289,Alan Finfou,L,0,Pts: 10x0,NoGi Worlds,83KG,F,2016
+11486,6531,Richard Martinez,,Matthew Tesla,L,0,Outside heel hook,Sapateiro 6,ABS,SF,2017
+12009,6531,Richard Martinez,7686,Sergio Ardila,L,0,Botinha,EBI 11,77KG,R1,2017
+13439,6531,Richard Martinez,9706,Marcelo Mafra,L,0,Referee Decision,FIVE Super League,ABS,SPF,2017
+15876,6531,Richard Martinez,5423,Matheus Diniz,L,0,Pts: 7x0,Kasai Pro 2,84KG,RR,2018
+15881,6531,Richard Martinez,8346,Craig Jones,L,0,Inside heel hook,Kasai Pro 2,84KG,3RD,2018
+16925,6531,Richard Martinez,,H. Rida,L,0,Armbar,Quintet II,ABS,N/A,2018
+17625,6531,Richard Martinez,2226,DJ Jackson,L,0,Kimura,Subversiv,ABS,F,2018
+17741,6531,Richard Martinez,8346,Craig Jones,L,0,Terra footlock,Quintet 3,ABS,SF,2018
+21960,6531,Richard Martinez,576,Rafael Lovato,L,0,Kimura,World Festival,ABS,SPF,2019
+23171,6531,Richard Martinez,7247,Enrico Cocco,L,0,Inside heel hook,JitzKing,84KG,SPF,2020
+23725,6531,Richard Martinez,,Austin Vanderford,L,0,EBI/OT,SUG 13,ABS,SPF,2020
+25491,6531,Richard Martinez,11789,Mason Fowler,L,0,Armbar,SUG 21,ABS,SPF,2021
+33264,6531,Richard Martinez,7552,Isaque Bahiense,D,0.5,---,Polaris 20,ABS,RR,2022
+36942,6531,Richard Martinez,11707,Oliver Taza,L,0,Outside heel hook,UFC Invitational,ABS,4F,2022
+42516,6531,Richard Martinez,8346,Craig Jones,L,0,Toe hold,Quintet 4,ABS,NA,2023
+6167,6531,Richard Martinez,,Damien Nitkin,W,1,Carney lock,NAGA Las Vegas,85KG,4F,2014
+6168,6531,Richard Martinez,,Gary Cruz,W,1,Japanese necktie,NAGA Las Vegas,85KG,SF,2014
+6178,6531,Richard Martinez,,John Morgan,W,1,Omoplata,EBI,77KG,R1,2014
+6181,6531,Richard Martinez,,Matt Kaiser,W,1,Kimura,EBI,77KG,4F,2014
+6183,6531,Richard Martinez,,Jake Swimney,W,1,Omoplata/RNC,EBI,77KG,SF,2014
+6186,6531,Richard Martinez,,Joe Murphy,W,1,Japanese necktie,NAGA Phoenix,85KG,SF,2014
+6187,6531,Richard Martinez,,Jose Cardinas,W,1,Japanese necktie,NAGA Phoenix,85KG,F,2014
+6188,6531,Richard Martinez,,Dan Schon,D,0.5,---,Elite Submission,85KG,SPF,2014
+7203,6531,Richard Martinez,,Unknown,W,1,RNC,ADCC US Trials,77KG,R1,2015
+7360,6531,Richard Martinez,,Julio Cordova,W,1,Kneebar,EBI 3,77KG,R1,2015
+8776,6531,Richard Martinez,,Derrick Garza,W,1,Heel hook,Onnit Invit.,ABS,4F,2015
+8779,6531,Richard Martinez,,Jose Lianas,W,1,EBI/OT,Onnit Invit.,ABS,SF,2015
+8784,6531,Richard Martinez,,Blake Carroll,W,1,Heel hook,Kakuto Challenge,ABS,4F,2015
+8785,6531,Richard Martinez,9246,Tex Johnson,W,1,Heel hook,Kakuto Challenge,ABS,SF,2015
+9673,6531,Richard Martinez,,Jimmy Friedrich,W,1,EBI/OT,EBI 6,ABS,R1,2016
+9865,6531,Richard Martinez,,Ryan Robinson,W,1,Heel hook,FTW Pro 5,ABS,SPF,2016
+10307,6531,Richard Martinez,,Kevin Casey,D,0.5,---,Metamoris 7,ABS,SPF,2016
+10974,6531,Richard Martinez,,Leonardo Oliveira,W,1,Omoplata,NoGi Worlds,83KG,4F,2016
+10976,6531,Richard Martinez,,Euclides Barboza,W,1,Japanese necktie,NoGi Worlds,83KG,SF,2016
+11478,6531,Richard Martinez,,Chase Davis,W,1,EBI/OT,Sapateiro 6,ABS,R1,2017
+11483,6531,Richard Martinez,,Kevin Gallagher,W,1,EBI/OT,Sapateiro 6,ABS,4F,2017
+13270,6531,Richard Martinez,,Daniel Hampton,W,1,Armbar,F2W 37,ABS,SPF,2017
+15878,6531,Richard Martinez,,Pierre Leclerc,D,0.5,---,Kasai Pro 2,84KG,RR,2018
+15880,6531,Richard Martinez,6209,Felipe Mota,W,1,Armlock,Kasai Pro 2,84KG,RR,2018
+16918,6531,Richard Martinez,644,Joao Assis,D,0.5,---,Quintet II,ABS,N/A,2018
+16924,6531,Richard Martinez,,Kazushi Sakuraba,W,1,Darce choke,Quintet II,ABS,N/A,2018
+17621,6531,Richard Martinez,,Samir Abdolakder,W,1,Heel hook,Subversiv,ABS,SF,2018
+17740,6531,Richard Martinez,,Marcin Held,W,1,Shoulder lock,Quintet 3,ABS,SF,2018
+20547,6531,Richard Martinez,,M. Perhavec,W,1,RNC,Polaris 10,85KG,SPF,2019
+20971,6531,Richard Martinez,,Gleison Tibau,W,1,DQ,KASAI SS Florida,88KG,SPF,2019
+23515,6531,Richard Martinez,1031,Jake Shields,W,1,EBI/OT,SUG,ABS,SPF,2020
+23834,6531,Richard Martinez,,Kevin Casey,W,1,EBI/OT,SUG 16,ABS,SPF,2020
+23914,6531,Richard Martinez,,Ben Egli,W,1,EBI/OT,SUG 17,ABS,SPF,2020
+24999,6531,Richard Martinez,,CB Dolloway,W,1,Violin armlock,SUG 20,ABS,SPF,2020
+26291,6531,Richard Martinez,,Don Stoner,W,1,Japanese necktie,SUG 23,ABS,SPF,2021
+27170,6531,Richard Martinez,,Ben Dyson,D,0.5,---,Polaris Squads,ABS,RR,2021
+27182,6531,Richard Martinez,,Dan Strauss,D,0.5,---,Polaris Squads,ABS,RR,2021
+27191,6531,Richard Martinez,,Ben Dyson,D,0.5,---,Polaris Squads,ABS,RR,2021
+33274,6531,Richard Martinez,,Kywan Gracie,D,0.5,---,Polaris 20,ABS,RR,2022
+42506,6531,Richard Martinez,9559,Rida Haisam,D,0.5,---,Quintet 4,ABS,NA,2023

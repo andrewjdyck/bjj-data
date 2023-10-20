@@ -1,0 +1,61 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+18120,12491,Keith Krikorian,11223,Ethan Crelinsten,L,0,Pts: 3x0,ADCC EC Trials,66KG,F,2018
+19086,12491,Keith Krikorian,,N. Ryan,L,0,RNC,ADCC WC Trials,66KG,F,2019
+21866,12491,Keith Krikorian,188,Augusto Mendes,L,0,Katagatame,ADCC,66KG,R1,2019
+21903,12491,Keith Krikorian,984,Marcus Almeida,L,0,Armbar,ADCC,ABS,R1,2019
+22525,12491,Keith Krikorian,9246,Tex Johnson,L,0,EBI/OT,BJJ Fanatics,ABS,R1,2019
+22786,12491,Keith Krikorian,11223,Ethan Crelinsten,L,0,RNC,Shugyo Inv.,ABS,F,2019
+27212,12491,Keith Krikorian,9031,Kennedy Maciel,L,0,EBI/OT,Emerald City,65KG,SF,2021
+28811,12491,Keith Krikorian,12950,Cole Abate,L,0,Pts: 10x0,ADCC EC Trials,66KG,F,2021
+29314,12491,Keith Krikorian,12005,Kade Ruotolo,L,0,Referee Decision,GrappleFest,73KG,SPF,2021
+32810,12491,Keith Krikorian,9401,Ashley Williams,L,0,Referee Decision,GrappleFest 12,73KG,SPF,2022
+33266,12491,Keith Krikorian,12122,Mica Galvao,D,0.5,---,Polaris 20,ABS,RR,2022
+33278,12491,Keith Krikorian,12122,Mica Galvao,L,0,Armbar,Polaris 20,ABS,RR,2022
+33285,12491,Keith Krikorian,12122,Mica Galvao,L,0,Triangle,Polaris 20,ABS,RR,2022
+34555,12491,Keith Krikorian,11568,Josh Cisneros,L,0,Referee Decision,F2W 209,70KG,SPF,2022
+35005,12491,Keith Krikorian,10840,Diego Oliveira,L,0,Straight ankle lock,ADCC,66KG,R1,2022
+39444,12491,Keith Krikorian,,Keita Iwamoto,L,0,EBI/OT,SOGI,NA,SPF,2023
+41111,12491,Keith Krikorian,11497,Fabricio Andrey,L,0,Referee Decision,Honor Challenge,70KG,F,2023
+43159,12491,Keith Krikorian,11823,Diogo Reis,L,0,Referee Decision,WNO 20,70KG,SF,2023
+18100,12491,Keith Krikorian,,Jimmy Santiago,W,1,Darce choke,ADCC EC Trials,66KG,R1,2018
+18106,12491,Keith Krikorian,,Damon Morgan,W,1,Armbar,ADCC EC Trials,66KG,R2,2018
+18111,12491,Keith Krikorian,,Luis Quinones,W,1,RNC,ADCC EC Trials,66KG,8F,2018
+18115,12491,Keith Krikorian,,J. Ocasio,W,1,Outside heel hook,ADCC EC Trials,66KG,4F,2018
+18118,12491,Keith Krikorian,,Sal Guerriero,W,1,Inside heel hook,ADCC EC Trials,66KG,SF,2018
+19080,12491,Keith Krikorian,,James Barnes,W,1,Pts: 3x0,ADCC WC Trials,66KG,R1,2019
+19082,12491,Keith Krikorian,,Aaron Phillips,W,1,RNC,ADCC WC Trials,66KG,R2,2019
+19083,12491,Keith Krikorian,,Ronnie LaBella,W,1,Pts: 3x0,ADCC WC Trials,66KG,8F,2019
+19084,12491,Keith Krikorian,,P. Serrano,W,1,Darce choke,ADCC WC Trials,66KG,4F,2019
+19085,12491,Keith Krikorian,,Sal Guerriero,W,1,Triangle,ADCC WC Trials,66KG,SF,2019
+22782,12491,Keith Krikorian,,Josh Bacallao,W,1,Inside heel hook,Shugyo Inv.,ABS,4F,2019
+22784,12491,Keith Krikorian,,Max Rohskopf,W,1,Darce choke,Shugyo Inv.,ABS,SF,2019
+24087,12491,Keith Krikorian,,Rafael Domingos,W,1,No arm triangle,SUG 18,N/A,SPF,2020
+25005,12491,Keith Krikorian,,Roberto Hernandez,W,1,Armbar,UMW 6,ABS,R1,2020
+25006,12491,Keith Krikorian,,Elias Anderson,W,1,Inside heel hook,UMW 6,ABS,4F,2020
+25007,12491,Keith Krikorian,,Derek Rayfield,W,1,Armbar,UMW 6,ABS,SF,2020
+25008,12491,Keith Krikorian,,Kevin Berbrich,W,1,EBI/OT,UMW 6,ABS,F,2020
+25009,12491,Keith Krikorian,,R. Degle,W,1,Inside heel hook,Sin City Inv.,N/A,SPF,2020
+26980,12491,Keith Krikorian,,Joey McKay,W,1,EBI/OT,SUG 25,N/A,SPF,2021
+27202,12491,Keith Krikorian,,Suraj Budhram,W,1,RNC,Emerald City,65KG,R1,2021
+27209,12491,Keith Krikorian,12120,Estevan Martinez,W,1,EBI/OT,Emerald City,65KG,4F,2021
+28764,12491,Keith Krikorian,,Samuel Davis,W,1,RNC,ADCC EC Trials,66KG,R1,2021
+28775,12491,Keith Krikorian,,Andrew Franco,W,1,Submission,ADCC EC Trials,66KG,R2,2021
+28788,12491,Keith Krikorian,,Jake Norton,W,1,Inside heel hook,ADCC EC Trials,66KG,R3,2021
+28797,12491,Keith Krikorian,,Wilson Sojo,W,1,Pts: 3x0,ADCC EC Trials,66KG,R4,2021
+28805,12491,Keith Krikorian,,Ben Eddy,W,1,Pts: 2x0,ADCC EC Trials,66KG,4F,2021
+28809,12491,Keith Krikorian,4248,Gianni Grippo,W,1,RNC,ADCC EC Trials,66KG,SF,2021
+29658,12491,Keith Krikorian,,Dane Leak,W,1,EBI/OT,High Rollerz 10K,77KG,R1,2021
+29660,12491,Keith Krikorian,,G. Karakhanian,W,1,RNC,High Rollerz 10K,77KG,4F,2021
+29662,12491,Keith Krikorian,,Jordan Wirth,W,1,Inside heel hook,High Rollerz 10K,77KG,SF,2021
+29663,12491,Keith Krikorian,12115,Kieran Kichuk,W,1,Inside heel hook,High Rollerz 10K,77KG,F,2021
+31293,12491,Keith Krikorian,9051,Gabriel Sousa,W,1,Referee Decision,WNO 12,70KG,SPF,2022
+31467,12491,Keith Krikorian,,Thien Luu,W,1,RNC,ADCC WC Trials,66KG,R1,2022
+31482,12491,Keith Krikorian,,Anthony Arnal,W,1,Pts: 3x0,ADCC WC Trials,66KG,R2,2022
+31498,12491,Keith Krikorian,,Elias Anderson,W,1,Pts: 2x0,ADCC WC Trials,66KG,R3,2022
+31515,12491,Keith Krikorian,12254,Robert Degle,W,1,Inside heel hook,ADCC WC Trials,66KG,8F,2022
+31521,12491,Keith Krikorian,,Mauricio Gomez,W,1,Inside heel hook,ADCC WC Trials,66KG,4F,2022
+31524,12491,Keith Krikorian,,Damien Anderson,W,1,Pts: 5x2,ADCC WC Trials,66KG,SF,2022
+31526,12491,Keith Krikorian,11568,Josh Cisneros,W,1,Inside heel hook,ADCC WC Trials,66KG,F,2022
+33273,12491,Keith Krikorian,11497,Fabricio Andrey,D,0.5,---,Polaris 20,ABS,RR,2022
+38527,12491,Keith Krikorian,12751,Sam McNally,W,1,RNC,GrappleFest,70KG,SPF,2023
+41109,12491,Keith Krikorian,,Alessio Sacchetti,W,1,Referee Decision,Honor Challenge,70KG,SF,2023

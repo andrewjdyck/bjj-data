@@ -1,0 +1,5 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+37259,13241,Kjetil Lydvo,11789,Mason Fowler,L,0,RNC,European Open,O100KG,F,2023
+40370,13241,Kjetil Lydvo,12203,Austin Baker,L,0,Pts: 17x7,World Champ.,O100KG,8F,2023
+37256,13241,Kjetil Lydvo,,Pedro Bisneto,W,1,Pts: 5x0,European Open,O100KG,4F,2023
+37257,13241,Kjetil Lydvo,,Cleyton Flores,W,1,Cachecol choke,European Open,O100KG,SF,2023

@@ -1,0 +1,73 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+22364,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 4x2,Grand Slam RJ,95KG,SF,2019
+23018,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 10x7,Grand Slam AD,95KG,F,2020
+23679,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 4x3,Grand Slam LDN,95KG,F,2020
+23929,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 12x10,BJJ Bet,85KG,SPF,2020
+24806,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 1x0,Grand Slam RJ,95KG,F,2020
+25714,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 3x3,World Pro,95KG,RR,2021
+27671,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 4x2,Pan American,84KG,F,2021
+29287,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 3x2,World Pro,95KG,RR,2021
+29604,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Points,World Champ.,ABS,F,2021
+29654,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 2x0,World Champ.,O79KG,F,2021
+31205,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 2x0,Grand Slam LDN,95KG,F,2022
+31730,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,N/A,Pan American,ABS,F,2022
+31763,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Pts: 4x0,Pan American,O79KG,F,2022
+33119,10897,Yara Soares,12639,Amy Campo,L,0,Pts: 4x2,World Champ.,ABS,4F,2022
+42498,10897,Yara Soares,10153,Gabrieli Pessanha,L,0,Straight ankle lock,BJJ Stars,ABS,F,2023
+42986,10897,Yara Soares,13473,Kauane Silva,L,0,Pts: 3x3,ADGS Miami,95KG,SF,2023
+22361,10897,Yara Soares,,Ericka Cunha,W,1,Submission,Grand Slam RJ,95KG,R1,2019
+22362,10897,Yara Soares,,Mayara Oishi,W,1,Submission,Grand Slam RJ,95KG,4F,2019
+23014,10897,Yara Soares,7000,Nathiely Jesus,W,1,Referee Decision,Grand Slam AD,95KG,4F,2020
+23016,10897,Yara Soares,10885,Kendall Reusing,W,1,Submission,Grand Slam AD,95KG,SF,2020
+23676,10897,Yara Soares,,Claire Thevenon,W,1,Pts: 3x2,Grand Slam LDN,95KG,4F,2020
+23677,10897,Yara Soares,,Ane Svendsen,W,1,Submission,Grand Slam LDN,95KG,SF,2020
+24803,10897,Yara Soares,,Thaynara Dias,W,1,Choke from back,Grand Slam RJ,95KG,4F,2020
+24804,10897,Yara Soares,,Ingridd Sousa,W,1,Pts: 2x0,Grand Slam RJ,95KG,SF,2020
+25575,10897,Yara Soares,,Thayara Dias,W,1,Americana,Grand Slam AD,95KG,RR,2021
+25576,10897,Yara Soares,,Michele Xavier,W,1,Pts: 3x1,Grand Slam AD,95KG,F,2021
+25642,10897,Yara Soares,,Michele Xavier,W,1,Pts: 7x0,WP BR Qualifier,95KG,RR,2021
+25643,10897,Yara Soares,,Thaynara Dias,W,1,Pts: 2x0,WP BR Qualifier,95KG,RR,2021
+25713,10897,Yara Soares,10885,Kendall Reusing,W,1,Pts: 4x0,World Pro,95KG,RR,2021
+25716,10897,Yara Soares,13095,Eleftheria Christodoulou,W,1,Choke,World Pro,95KG,RR,2021
+26504,10897,Yara Soares,,Adriane Alves,W,1,Choke from back,SA Cont. Pro,95KG,4F,2021
+26505,10897,Yara Soares,11929,Ingridd Alves,W,1,Pts: 2x0,SA Cont. Pro,95KG,SF,2021
+26507,10897,Yara Soares,10153,Gabrieli Pessanha,W,1,Pts: 4x2,SA Cont. Pro,95KG,F,2021
+27285,10897,Yara Soares,,Sarah Rice,W,1,Choke,Grand Slam MIA,95KG,RR,2021
+27286,10897,Yara Soares,,Tara White,W,1,Armbar,Grand Slam MIA,95KG,RR,2021
+27673,10897,Yara Soares,,Sarah Rice,W,1,Choke from back,Pan American,ABS,8F,2021
+27676,10897,Yara Soares,,Nathalie Ribeiro,W,1,Choke from back,Pan American,ABS,4F,2021
+27680,10897,Yara Soares,7535,Bianca Basilio,W,1,Referee Decision,Pan American,ABS,SF,2021
+27681,10897,Yara Soares,6979,Ana Vieira,W,1,Pts: 2x0,Pan American,ABS,F,2021
+27734,10897,Yara Soares,,Y. Poznyakova,W,1,Choke from back,Grand Slam MSK,95KG,RR,2021
+27735,10897,Yara Soares,,Y. Poznyakova,W,1,Clock choke,Grand Slam MSK,95KG,RR,2021
+28127,10897,Yara Soares,,Joaquina Bonfim,W,1,Reverse triangle,Brasileiro,O79KG,SF,2021
+28129,10897,Yara Soares,10153,Gabrieli Pessanha,W,1,Pts: 6x4,Brasileiro,O79KG,F,2021
+28130,10897,Yara Soares,,Juliana Araujo,W,1,Kneebar,Brasileiro,ABS,4F,2021
+28134,10897,Yara Soares,,Graciele Fava,W,1,Choke from back,Brasileiro,ABS,SF,2021
+28135,10897,Yara Soares,10153,Gabrieli Pessanha,W,1,Injury,Brasileiro,ABS,F,2021
+28656,10897,Yara Soares,,Graciele Carvalho,W,1,Pts: 5x0,Grand Slam RJ,95KG,SF,2021
+28657,10897,Yara Soares,10153,Gabrieli Pessanha,W,1,Pts: 2x0,Grand Slam RJ,95KG,F,2021
+29280,10897,Yara Soares,,Claire Thevenon,W,1,Choke from back,World Pro,95KG,RR,2021
+29284,10897,Yara Soares,,Yasmira Dias,W,1,Pts: 1x0,World Pro,95KG,RR,2021
+29286,10897,Yara Soares,,Lama Qubbaj,W,1,Choke from back,World Pro,95KG,RR,2021
+29601,10897,Yara Soares,8759,Maria Malyjasiak,W,1,N/A,World Champ.,ABS,4F,2021
+29602,10897,Yara Soares,595,Gabrielle Garcia,W,1,Choke,World Champ.,ABS,SF,2021
+29652,10897,Yara Soares,,Mayara Custodio,W,1,Verbal tap,World Champ.,O79KG,SF,2021
+29958,10897,Yara Soares,,Juliana Araujo,W,1,Pts: 8x2,Guarapari Pro,95KG,F,2022
+30725,10897,Yara Soares,,Cintia Honorato,W,1,Submission,Gramado Pro,95KG,F,2022
+31203,10897,Yara Soares,,Yasmira Dias,W,1,Kneebar,Grand Slam LDN,95KG,SF,2022
+31726,10897,Yara Soares,,Elizabeth Mitrov,W,1,Bow and arrow,Pan American,ABS,4F,2022
+31728,10897,Yara Soares,8759,Maria Malyjasiak,W,1,Bow and arrow,Pan American,ABS,SF,2022
+31761,10897,Yara Soares,,Mayara Custodio,W,1,Bow and arrow,Pan American,O79KG,RR,2022
+32314,10897,Yara Soares,,Rebeca Lima,W,1,Pts: 7x6,Queen of Mats,95KG,RR,2022
+32316,10897,Yara Soares,,Thalyta Lima,W,1,Pts: 2x1,Queen of Mats,95KG,RR,2022
+32320,10897,Yara Soares,11929,Ingridd Alves,W,1,Pts: 3x2,Queen of Mats,95KG,SF,2022
+32322,10897,Yara Soares,,Rafaela Bertolot,W,1,Choke,Queen of Mats,95KG,F,2022
+32424,10897,Yara Soares,,M. Cantanhede,W,1,Pts: 10x0,Grand Slam AD,95KG,SF,2022
+32426,10897,Yara Soares,,Silvia Scomparin,W,1,Bow and arrow,Grand Slam AD,95KG,F,2022
+33110,10897,Yara Soares,,Claire Thevenon,W,1,Armbar,World Champ.,O79KG,SF,2022
+42071,10897,Yara Soares,,Patricia Ferreira,W,1,Pts: 4x0,Floripa WO,ABS,SF,2023
+42495,10897,Yara Soares,,Mica Lima,W,1,"Pts: 2x2, Adv",BJJ Stars,ABS,4F,2023
+42497,10897,Yara Soares,6761,Tayane Porfirio,W,1,Points,BJJ Stars,ABS,SF,2023
+42983,10897,Yara Soares,,Raiane Santos,W,1,Choke,ADGS Miami,95KG,4F,2023
+42989,10897,Yara Soares,,Tammy Griego,W,1,Pts: 8x1,ADGS Miami,95KG,RPC,2023

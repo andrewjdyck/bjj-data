@@ -1,0 +1,45 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8098,3206,Rodrigo Conceicao,,Geraldo Freitas,L,0,Points,Sub. Campos X,77KG,RR,2015
+8100,3206,Rodrigo Conceicao,,Leonardo Vasconcelos,L,0,Points,Sub. Campos X,77KG,RR,2015
+9747,3206,Rodrigo Conceicao,,Sandro Vieira,L,0,N/A,Brasileiro,76KG,8F,2016
+10252,3206,Rodrigo Conceicao,,Claudevan Oliveira,L,0,Points,Rio Winter Open,76KG,SF,2016
+10570,3206,Rodrigo Conceicao,7006,Julio Anjos,L,0,Adv,Sao Paulo Open,76KG,4F,2016
+10842,3206,Rodrigo Conceicao,5453,Herbert Burns,L,0,Points,Brasileiro NoGi,73KG,4F,2016
+11055,3206,Rodrigo Conceicao,,Pedro Farias,L,0,Referee Decision,Grand Slam RJ,77KG,8F,2016
+11120,3206,Rodrigo Conceicao,6301,Faisal AlKitbe,L,0,"Pts: 0x0, Adv",G.S. Rio NoGi,83KG,SF,2016
+11751,3206,Rodrigo Conceicao,9706,Marcelo Mafra,L,0,RNC,ADCC RJ,77KG,4F,2017
+12715,3206,Rodrigo Conceicao,4521,Erberth Santos,L,0,RNC,Brasileiro,ABS,4F,2017
+12765,3206,Rodrigo Conceicao,5061,Gabriel Rollo,L,0,Pts: 3x0,Brasileiro,76KG,4F,2017
+13257,3206,Rodrigo Conceicao,8112,Matheus Costa,L,0,"Pts: 10x10, Adv",Rio Winter Open,76KG,F,2017
+15685,3206,Rodrigo Conceicao,4655,Michael Liera,L,0,Pts: 10x8,Rome Open,76KG,F,2018
+16229,3206,Rodrigo Conceicao,6432,Yan Lucas,L,0,"Pts: 0x0, Adv",Brasileiro,76KG,4F,2018
+17936,3206,Rodrigo Conceicao,8308,Max Lindblad,L,0,Choke from back,London FO,82KG,SF,2018
+17946,3206,Rodrigo Conceicao,3200,Jackson Sousa,L,0,Armbar,London FO,ABS,SF,2018
+31881,3206,Rodrigo Conceicao,,Matheus Paula,L,0,Pts: 5x0,Rio Fall Open,82KG,R1,2022
+31924,3206,Rodrigo Conceicao,,Lafayette Pinheiro,L,0,"Pts: 2x2, Adv",Rio Fall Open,ABS,R1,2022
+8094,3206,Rodrigo Conceicao,,Robson Maia,W,1,"Pts: 0x0, Adv",Mundial CBLP,76KG,4F,2015
+8095,3206,Rodrigo Conceicao,,L. Vieira,W,1,Points,Mundial CBLP,76KG,SF,2015
+8096,3206,Rodrigo Conceicao,,Erick Morais,W,1,Triangle armbar,Mundial CBLP,76KG,F,2015
+8097,3206,Rodrigo Conceicao,,Wellington L.,W,1,Triangle,Sub. Campos X,77KG,RR,2015
+9739,3206,Rodrigo Conceicao,,Gustavo Zueli,W,1,N/A,Brasileiro,76KG,R1,2016
+10244,3206,Rodrigo Conceicao,,Luciano Bernert,W,1,Armbar,Rio Winter Open,76KG,R1,2016
+10247,3206,Rodrigo Conceicao,,L. Correa,W,1,Armbar,Rio Winter Open,76KG,8F,2016
+10250,3206,Rodrigo Conceicao,1178,Theodoro Canal,W,1,Adv,Rio Winter Open,76KG,4F,2016
+10565,3206,Rodrigo Conceicao,,Rodrigo Almeida,W,1,DQ,Sao Paulo Open,76KG,R1,2016
+10839,3206,Rodrigo Conceicao,,Vitor Matos,W,1,Points,Brasileiro NoGi,73KG,R1,2016
+11046,3206,Rodrigo Conceicao,7256,Jan Buatim,W,1,Points,Grand Slam RJ,77KG,R2,2016
+11113,3206,Rodrigo Conceicao,,Gabriel Lima,W,1,RNC,G.S. Rio NoGi,83KG,R1,2016
+11118,3206,Rodrigo Conceicao,,Renan Gomes,W,1,Pts: 2x0,G.S. Rio NoGi,83KG,4F,2016
+11121,3206,Rodrigo Conceicao,,Jose Alves,W,1,Pts: 6x0,G.S. Rio NoGi,83KG,3RD,2016
+11745,3206,Rodrigo Conceicao,8112,Matheus Costa,W,1,Points,ADCC RJ,77KG,R1,2017
+11749,3206,Rodrigo Conceicao,,Eric Souza,W,1,Points,ADCC RJ,77KG,R2,2017
+12707,3206,Rodrigo Conceicao,8968,Admilson Gobi,W,1,Pts: 2x0,Brasileiro,ABS,RDS,2017
+12751,3206,Rodrigo Conceicao,,Raphaello Pinheiro,W,1,Armbar,Brasileiro,76KG,R1,2017
+12759,3206,Rodrigo Conceicao,,Rafael Suzuki,W,1,Pts: 2x0,Brasileiro,76KG,R2,2017
+13251,3206,Rodrigo Conceicao,,Talles Benjamim,W,1,N/A,Rio Winter Open,76KG,R1,2017
+13254,3206,Rodrigo Conceicao,,Talison Costa,W,1,Points,Rio Winter Open,76KG,4F,2017
+13256,3206,Rodrigo Conceicao,,Luciano Bernert,W,1,N/A,Rio Winter Open,76KG,SF,2017
+15684,3206,Rodrigo Conceicao,,Tommi Pulkkanen,W,1,Points,Rome Open,76KG,SF,2018
+16219,3206,Rodrigo Conceicao,,Cesar Casamajo,W,1,Triangle armbar,Brasileiro,76KG,R1,2018
+16226,3206,Rodrigo Conceicao,8112,Matheus Costa,W,1,Pts: 6x2,Brasileiro,76KG,8F,2018
+17945,3206,Rodrigo Conceicao,,Azzedine Taz,W,1,N/A,London FO,ABS,4F,2018

@@ -1,0 +1,42 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+32739,13078,Amanda Magda,6765,Fernanda Mazzelli,L,0,Pts: 7x2,Salvador Open,79KG,F,2022
+32741,13078,Amanda Magda,10153,Gabrieli Pessanha,L,0,Armbar,Salvador Open,ABS,SF,2022
+33617,13078,Amanda Magda,6765,Fernanda Mazzelli,L,0,Points,Betim Open,ABS,F,2022
+34774,13078,Amanda Magda,8759,Maria Malyjasiak,L,0,RNC,JJ Con,79KG,SF,2022
+34775,13078,Amanda Magda,,Melissa Cueto,L,0,Points,JJ Con,79KG,SF,2022
+36600,13078,Amanda Magda,,Maisa Gurgel,L,0,"Pts: 0x0, Pen",Balneario Open,79KG,F,2022
+38089,13078,Amanda Magda,,Jeane Pinto,L,0,Referee Decision,Curitiba SMO,79KG,F,2023
+38516,13078,Amanda Magda,11929,Ingridd Alves,L,0,Pts: 4x2,Pan American,79KG,SF,2023
+39625,13078,Amanda Magda,,Tamaris Fernanda,L,0,Pts: 6x0,Brasileiro,79KG,SF,2023
+40455,13078,Amanda Magda,10153,Gabrieli Pessanha,L,0,Straight ankle lock,World Champ.,O79KG,SF,2023
+41306,13078,Amanda Magda,,Jaine Fragoso,L,0,Botinha,SP BJJ Pro,ABS,4F,2023
+41870,13078,Amanda Magda,13332,Aurelie Vern,L,0,Choke from back,Vitoria Open,79KG,F,2023
+32738,13078,Amanda Magda,,Pollyanna Costa,W,1,Armlock,Salvador Open,79KG,SF,2022
+33615,13078,Amanda Magda,,Isabela Resende,W,1,Points,Betim Open,79KG,SF,2022
+33616,13078,Amanda Magda,,Graciele Fava,W,1,Toe hold,Betim Open,79KG,F,2022
+34178,13078,Amanda Magda,,Eduarda Gonzaga,W,1,Armbar,Vitoria Open,79KG,F,2022
+34179,13078,Amanda Magda,,Marcia Karina,W,1,Armlock,Vitoria Open,ABS,SF,2022
+34180,13078,Amanda Magda,,Thais Gomes,W,1,Adv,Vitoria Open,ABS,F,2022
+35177,13078,Amanda Magda,11314,Jessica Caroline,W,1,"Pts: 2x2, Adv",SP Open,ABS,SF,2022
+35395,13078,Amanda Magda,11314,Jessica Caroline,W,1,Toe hold,Rio BJJ Pro,ABS,4F,2022
+35452,13078,Amanda Magda,,Deise Rocha,W,1,Kimura,Curitiba SPO,79KG,F,2022
+35453,13078,Amanda Magda,,Juliana Teixeira,W,1,Pts: 2x0,Curitiba SPO,ABS,F,2022
+35755,13078,Amanda Magda,,Maisa Santos,W,1,Pts: 2x0,South American,74KG,SF,2022
+35756,13078,Amanda Magda,,Marilia Freire,W,1,Pts: 11x0,South American,74KG,F,2022
+35971,13078,Amanda Magda,,Yuri Nadine,W,1,Armlock,Salvador SPO,ABS,SF,2022
+35972,13078,Amanda Magda,,Andreia Cavalcante,W,1,Armlock,Salvador SPO,ABS,F,2022
+36168,13078,Amanda Magda,,Julia Saboya,W,1,Armbar,Fortaleza Open,ABS,4F,2022
+36169,13078,Amanda Magda,,Karen Suely,W,1,Knee choke,Fortaleza Open,ABS,SF,2022
+36170,13078,Amanda Magda,,Brenda Ariane,W,1,Pts: 5x4,Fortaleza Open,ABS,F,2022
+36603,13078,Amanda Magda,,Juliana Teixeira,W,1,Toe hold,Balneario Open,ABS,SF,2022
+37304,13078,Amanda Magda,,Leticia Cardozo,W,1,Kimura,European Open,79KG,SF,2023
+37305,13078,Amanda Magda,,Elizabeth Mitrovic,W,1,Toe hold,European Open,79KG,F,2023
+38088,13078,Amanda Magda,,Thaynara Aparecida,W,1,Pts: 4x2,Curitiba SMO,79KG,SF,2023
+39564,13078,Amanda Magda,,Rogeria Ataide,W,1,Wristlock,Brasileiro,ABS,R1,2023
+39621,13078,Amanda Magda,,Maisa Gurgel,W,1,Kneebar,Brasileiro,79KG,4F,2023
+40454,13078,Amanda Magda,,Heather Dunn,W,1,Amassa pao choke,World Champ.,O79KG,4F,2023
+41301,13078,Amanda Magda,,Stephanie Aparecida,W,1,Americana,SP BJJ Pro,79KG,SF,2023
+41302,13078,Amanda Magda,,Mayara Moreira,W,1,Kneebar,SP BJJ Pro,79KG,F,2023
+41868,13078,Amanda Magda,,Eduarda Gonzaga,W,1,Kimura,Vitoria Open,79KG,SF,2023
+42831,13078,Amanda Magda,,Marilia Freire,W,1,Violin armlock,Sul Americano,79KG,SF,2023
+42833,13078,Amanda Magda,,Geovana Malta,W,1,Armbar,Sul Americano,79KG,F,2023

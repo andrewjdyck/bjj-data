@@ -1,0 +1,81 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+12017,8346,Craig Jones,8394,Vagner Rocha,L,0,EBI/OT,EBI 11,77KG,SF,2017
+13888,8346,Craig Jones,3009,Keenan Cornelius,L,0,Pts: 13x0,ADCC,88KG,SF,2017
+13890,8346,Craig Jones,84,Alexandre Ribeiro,L,0,Pts: 2x0,ADCC,88KG,3RD,2017
+13935,8346,Craig Jones,6550,Gordon Ryan,L,0,Katagatame,ADCC,ABS,4F,2017
+14553,8346,Craig Jones,6550,Gordon Ryan,L,0,EBI/OT,EBI 14,ABS,F,2017
+14575,8346,Craig Jones,484,Murilo Santana,L,0,"Pts: 4x4, Pen",Kasai Pro,ABS,SPF,2017
+14698,8346,Craig Jones,7652,C. Negromonte,L,0,Pts: 7x0,NoGi Worlds,85KG,4F,2017
+15874,8346,Craig Jones,8427,Michael Perez,L,0,Pts: 3x2,Kasai Pro 2,84KG,RR,2018
+16750,8346,Craig Jones,2226,DJ Jackson,L,0,"Pts: 0x0, Pen",Boa Super 8,ABS,F,2018
+16932,8346,Craig Jones,2226,DJ Jackson,L,0,Referee Decision,Spider Inv. 4F,O76KG,SPF,2018
+17746,8346,Craig Jones,6550,Gordon Ryan,L,0,Short choke,Quintet 3,ABS,F,2018
+19801,8346,Craig Jones,8974,Kaynan Duarte,L,0,Short choke,Kasai 5,93KG,RR,2019
+20865,8346,Craig Jones,5423,Matheus Diniz,L,0,Points,Third Coast,85KG,SPF,2019
+21894,8346,Craig Jones,5423,Matheus Diniz,L,0,Pts: 2x0,ADCC,88KG,F,2019
+23833,8346,Craig Jones,11789,Mason Fowler,L,0,EBI/OT,SUG 16,ABS,SPF,2020
+23913,8346,Craig Jones,11789,Mason Fowler,L,0,EBI/OT,SUG 17,ABS,SPF,2020
+29782,8346,Craig Jones,,Sean Brady,L,0,Referee Decision,Fury Pro,90KG,SPF,2021
+29819,8346,Craig Jones,11991,Pedro Marinho,L,0,Referee Decision,WNO 11,93KG,SPF,2022
+35062,8346,Craig Jones,8974,Kaynan Duarte,L,0,Pts: 12x0,ADCC,99KG,F,2022
+12012,8346,Craig Jones,,Nathan Orchard,W,1,Inside heel hook,EBI 11,77KG,R1,2017
+12016,8346,Craig Jones,7321,Darragh OConaill,W,1,Kneebar,EBI 11,77KG,4F,2017
+12985,8346,Craig Jones,,Micah Brakefield,W,1,RNC,SUG 4,N/A,SPF,2017
+13877,8346,Craig Jones,1188,Leandro Lo,W,1,RNC,ADCC,88KG,E1,2017
+13885,8346,Craig Jones,484,Murilo Santana,W,1,Flying triangle,ADCC,88KG,4F,2017
+13930,8346,Craig Jones,,Chael Sonnen,W,1,Outside heel hook,ADCC,ABS,E1,2017
+14035,8346,Craig Jones,,Ben Egli,W,1,Outside heel hook,SUG 5,88KG,SPF,2017
+14219,8346,Craig Jones,,Bob Firas,W,1,Heel hook,Coffs Harbour Inv,ABS,SPF,2017
+14546,8346,Craig Jones,,Andy Burke,W,1,Inside heel hook,EBI 14,ABS,R1,2017
+14550,8346,Craig Jones,6419,Marcel Goncalves,W,1,Inside heel hook,EBI 14,ABS,4F,2017
+14552,8346,Craig Jones,9246,Tex Johnson,W,1,Inside heel hook,EBI 14,ABS,SF,2017
+15168,8346,Craig Jones,1031,Jake Shields,W,1,Inside heel hook,Polaris 6,84KG,SPF,2018
+15829,8346,Craig Jones,,Mindas Verzbickas,W,1,Kneebar,Quintet,ABS,RR,2018
+15830,8346,Craig Jones,,Sergei Grecicho,D,0.5,---,Quintet,ABS,RR,2018
+15839,8346,Craig Jones,1848,Marcos Souza,W,1,Kneebar,Quintet,ABS,RR,2018
+15869,8346,Craig Jones,7914,Nick Calvanese,W,1,Triangle,Kasai Pro 2,84KG,RR,2018
+15871,8346,Craig Jones,8116,Dante Leon,W,1,Pts: 2x0,Kasai Pro 2,84KG,RR,2018
+15881,8346,Craig Jones,6531,Richie Martinez,W,1,Inside heel hook,Kasai Pro 2,84KG,3RD,2018
+16746,8346,Craig Jones,,Roberto Frias,W,1,Pts: 7x0,Boa Super 8,ABS,4F,2018
+16749,8346,Craig Jones,,Ben Hodgkinson,W,1,Outside heel hook,Boa Super 8,ABS,SF,2018
+17229,8346,Craig Jones,431,Rousimar Palhares,W,1,Referee Decision,Kasai Pro 3,ABS,SPF,2018
+17463,8346,Craig Jones,5423,Matheus Diniz,W,1,Referee Decision,Grapple Fest,ABS,SPF,2018
+17741,8346,Craig Jones,6531,Richie Martinez,W,1,Terra footlock,Quintet 3,ABS,SF,2018
+17742,8346,Craig Jones,,Adam Sachnoff,W,1,RNC,Quintet 3,ABS,SF,2018
+17745,8346,Craig Jones,,Antoine Jaoude,W,1,RNC,Quintet 3,ABS,F,2018
+18514,8346,Craig Jones,3009,Keenan Cornelius,W,1,Referee Decision,Polaris 8,93KG,SPF,2018
+19321,8346,Craig Jones,6071,Gabriel Arges,W,1,RNC,GrappleFest 4,ABS,SPF,2019
+19471,8346,Craig Jones,4310,Tim Spriggs,W,1,Inside heel hook,Grappling Ind.,ABS,SPF,2019
+19797,8346,Craig Jones,11991,Pedro Marinho,D,0.5,---,Kasai 5,93KG,RR,2019
+19800,8346,Craig Jones,10588,Jon Blank,W,1,RNC,Kasai 5,93KG,RR,2019
+19803,8346,Craig Jones,3200,Jackson Sousa,W,1,Terra footlock,Kasai 5,93KG,3RD,2019
+20465,8346,Craig Jones,,Denis Hallman,W,1,Toe hold,SUG 8,88KG,SPF,2019
+20548,8346,Craig Jones,,M. Lutes,W,1,Referee Decision,Polaris 10,85KG,SPF,2019
+20740,8346,Craig Jones,,M. Perhavec,W,1,Inside heel hook,GrappleFest 5,88KG,SPF,2019
+20973,8346,Craig Jones,9246,Tex Johnson,W,1,RNC,KASAI SS Florida,92KG,SPF,2019
+20997,8346,Craig Jones,,Anthony Johnson,W,1,Inside heel hook,SUG 9,ABS,SPF,2019
+21840,8346,Craig Jones,,Ben Dyson,W,1,Inside heel hook,ADCC,88KG,R1,2019
+21848,8346,Craig Jones,11789,Mason Fowler,W,1,Arm in guillotine,ADCC,88KG,4F,2019
+21891,8346,Craig Jones,10588,Jon Blank,W,1,RNC,ADCC,88KG,SF,2019
+22696,8346,Craig Jones,7478,Adam Wardzinski,W,1,Reverse triangle,GrappleFest 7,100KG,SPF,2019
+22806,8346,Craig Jones,819,Fredson Paixao,W,1,RNC,Quintet Ultra,ABS,SPF,2019
+22919,8346,Craig Jones,446,Gilbert Burns,W,1,Outside heel hook,SUG 10,88KG,SPF,2019
+23723,8346,Craig Jones,,Kevin Casey,W,1,Outside heel hook,SUG 12,ABS,SPF,2020
+23724,8346,Craig Jones,733,Vinny Magalhaes,W,1,verbal tap,SUG 13,ABS,SPF,2020
+23740,8346,Craig Jones,8394,Vagner Rocha,W,1,EBI/OT,SUG 14,88KG,SPF,2020
+23796,8346,Craig Jones,,Gabriel Checco,W,1,EBI/OT,SUG 15,ABS,SPF,2020
+24079,8346,Craig Jones,10880,Roberto Jimenez,W,1,Inside heel hook,WNO 4,93KG,SPF,2020
+24996,8346,Craig Jones,,Brent Primus,W,1,RNC,SUG 19,ABS,SPF,2020
+25001,8346,Craig Jones,,Satoshi Ishii,W,1,RNC,SUG 20,ABS,SPF,2020
+25175,8346,Craig Jones,10162,Ronaldo Junior,W,1,Inside heel hook,WNO 6,88KG,SPF,2021
+26301,8346,Craig Jones,3122,Luiz Panza,W,1,Inside heel hook,WNO 9,92KG,SPF,2021
+26602,8346,Craig Jones,12003,Tye Ruotolo,W,1,Referee Decision,WNO 10,90KG,SPF,2021
+28379,8346,Craig Jones,1386,Davi Ramos,W,1,Referee Decision,Polaris 17,85KG,SPF,2021
+33728,8346,Craig Jones,,Eldar Savidov,W,1,RNC,AIGA,ABS,SPF,2022
+35051,8346,Craig Jones,12236,Joao Costa,W,1,Violin armlock,ADCC,99KG,R1,2022
+35058,8346,Craig Jones,10705,Kyle Boehm,W,1,Guillotine,ADCC,99KG,4F,2022
+35061,8346,Craig Jones,7507,Nicholas Meregali,W,1,Referee Decision,ADCC,99KG,SF,2022
+42513,8346,Craig Jones,1322,Gregor Gracie,D,0.5,---,Quintet 4,ABS,NA,2023
+42516,8346,Craig Jones,6531,Richie Martinez,W,1,Toe hold,Quintet 4,ABS,NA,2023
+42517,8346,Craig Jones,4996,Geo Martinez,W,1,Triangle armlock,Quintet 4,ABS,NA,2023
+42518,8346,Craig Jones,10705,Kyle Boehm,D,0.5,---,Quintet 4,ABS,NA,2023

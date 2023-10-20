@@ -1,0 +1,171 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2410,1436,Samir Chantre,1023,Baret Yoshida,L,0,RNC,NoGi Worlds,70KG,F,2009
+3135,1436,Samir Chantre,260,Ary Farias,L,0,Pts: 3x0,World Champ.,64KG,SF,2011
+3369,1436,Samir Chantre,1398,Justin Rader,L,0,Pts: 2x0,No Gi Worlds,70KG,SF,2011
+3574,1436,Samir Chantre,,Henrique Rezende,L,0,Armbar,Pan American,64KG,4F,2012
+3707,1436,Samir Chantre,2048,Rodrigo Antunes,L,0,Triangle armbar,American Nat.,ABS,SF,2012
+3710,1436,Samir Chantre,283,Bruno Malfacine,L,0,Points,NYC World Trials,65KG,F,2012
+3979,1436,Samir Chantre,790,Mario Reis,L,0,Armbar,World Champ.,70KG,R3,2012
+4223,1436,Samir Chantre,1398,Justin Rader,L,0,Pts: 2x0,NoGi Worlds,70KG,SF,2012
+4311,1436,Samir Chantre,,Bruno Togni,L,0,N/A,American Nationals,ABS,SF,2012
+4351,1436,Samir Chantre,6503,Marcel Fortuna,L,0,Armbar,US Open XVIII,ABS,F,2013
+4355,1436,Samir Chantre,7519,Eliot Kelly,L,0,Kimura,US Open XVIII,94KG,F,2013
+4552,1436,Samir Chantre,147,Rubens Charles,L,0,Choke,Pan American,70KG,4F,2013
+4943,1436,Samir Chantre,4328,AJ Agazarm,L,0,Points,American Nats,ABS,SF,2013
+4956,1436,Samir Chantre,4328,AJ Agazarm,L,0,Points,American NNG,ABS,SF,2013
+5101,1436,Samir Chantre,1398,Justin Rader,L,0,Calf Slicer,NoGi Worlds,70KG,SF,2013
+5281,1436,Samir Chantre,415,Guilherme Mendes,L,0,Baseball choke,Metamoris 3,ABS,SPF,2014
+5352,1436,Samir Chantre,4248,Gianni Grippo,L,0,Pts: 2x0,Pan American,70KG,SF,2014
+5642,1436,Samir Chantre,7156,Tiago Bravo,L,0,Referee Decision,World Pro.,64KG,SF,2014
+5767,1436,Samir Chantre,244,Denilson Pimenta,L,0,Adv,World Champ.,70KG,RDS,2014
+7413,1436,Samir Chantre,5789,Tiago Barros,L,0,"Pts: 0x0, Adv",World Champ.,64KG,4F,2015
+7585,1436,Samir Chantre,7519,Eliot Kelly,L,0,N/A,US Open,ABS,GP,2015
+7602,1436,Samir Chantre,8842,Wanki Chae,L,0,Pts: 4x0,US No Gi Nat.,70KG,SF,2015
+7615,1436,Samir Chantre,2999,Paulo Miyao,L,0,Choke from back,American Nat.,70KG,F,2015
+8111,1436,Samir Chantre,,Eduardo Ramos,L,0,Armbar,Dallas Open,70KG,F,2015
+8250,1436,Samir Chantre,2999,Paulo Miyao,L,0,Pts: 5x0,Grand Slam LA,69KG,F,2015
+8338,1436,Samir Chantre,,Vitor Paschoal,L,0,Points,Seattle Open,70KG,F,2015
+8396,1436,Samir Chantre,2997,Joao Miyao,L,0,Pts: 6x4,NoGi Worlds,61KG,F,2015
+8547,1436,Samir Chantre,2999,Paulo Miyao,L,0,Referee Decision,Berkut 2,ABS,SPF,2015
+9036,1436,Samir Chantre,9706,Marcelo Mafra,L,0,Ankle lock,SJose NoGi Open,82KG,F,2016
+9872,1436,Samir Chantre,179,Rafael Mendes,L,0,Armbar,Las Vegas Open,70KG,F,2016
+9957,1436,Samir Chantre,147,Rubens Charles,L,0,Pts: 7x0,World Champ.,70KG,4F,2016
+10627,1436,Samir Chantre,,Pedro Palhares,L,0,N/A,Atlanta S. NoGi,ABS,SF,2016
+11777,1436,Samir Chantre,4248,Gianni Grippo,L,0,Referee Decision,F2W 25,N/A,SPF,2017
+12127,1436,Samir Chantre,2997,Joao Miyao,L,0,Pts: 22x2,Pan American,64KG,SF,2017
+12444,1436,Samir Chantre,7442,Eddie Cummings,L,0,Referee Decision,F2W 31,70KG,SPF,2017
+12928,1436,Samir Chantre,9367,Jonathan Thomas,L,0,Pts: 5x4,Miami SPO,70KG,F,2017
+13073,1436,Samir Chantre,260,Ary Farias,L,0,Pts: 13x0,World Champ.,64KG,4F,2017
+13456,1436,Samir Chantre,6103,Isaac Doederlein,L,0,Points,ACBJJ 6,60KG,SF,2017
+13726,1436,Samir Chantre,8261,Rolando Samson,L,0,Points,Mexico City Open,ABS,SF,2017
+14237,1436,Samir Chantre,7698,Gabriel Marangoni,L,0,Points,ACBJJ 8,65KG,4F,2017
+14596,1436,Samir Chantre,188,Augusto Mendes,L,0,Arm in guillotine,ACB JJ 9,60KG,F,2017
+15284,1436,Samir Chantre,6103,Isaac Doederlein,L,0,Armbar,San Francisco Open,70KG,F,2018
+15384,1436,Samir Chantre,7002,Jamil Hill-Taylor,L,0,RNC,Pan American,70KG,4F,2018
+15860,1436,Samir Chantre,2997,Joao Miyao,L,0,Points,ACBJJ 12,60KG,SPF,2018
+16732,1436,Samir Chantre,6258,Rodnei Barbosa,L,0,Points,ACBJJ 14,60KG,SPF,2018
+17828,1436,Samir Chantre,8632,Thiago Macedo,L,0,Points,LA BJJ Pro,70KG,SF,2018
+18055,1436,Samir Chantre,9031,Kennedy Maciel,L,0,Triangle,SJJIF Worlds,70KG,F,2018
+18598,1436,Samir Chantre,8069,Pablo Mantovani,L,0,Pts: 2x0,NoGi Worlds,67KG,4F,2018
+19484,1436,Samir Chantre,,Bebeto Oliveira,L,0,"Pts: 2x2, Adv",King of Mats,69KG,RR,2019
+19487,1436,Samir Chantre,7156,Tiago Bravo,L,0,"Pts: 2x2, Adv",King of Mats,69KG,RR,2019
+19489,1436,Samir Chantre,2999,Paulo Miyao,L,0,Pts: 3x0,King of Mats,69KG,RR,2019
+19491,1436,Samir Chantre,6103,Isaac Doederlein,L,0,Pts: 4x0,King of Mats,69KG,RR,2019
+19582,1436,Samir Chantre,6599,Rafael Mansur,L,0,Pts: 2x0,Pan American,70KG,4F,2019
+22850,1436,Samir Chantre,,Pedro Segura,L,0,Pts: 5x2,NoGi Worlds,73KG,R1,2019
+22857,1436,Samir Chantre,11044,Pedro Veras,L,0,Pts: 5x2,NoGi Worlds,73KG,R1,2019
+24466,1436,Samir Chantre,9407,Alexandre Molinaro,L,0,"Pts: 2x2, Adv",No Gi Pan Am.,73KG,4F,2020
+26722,1436,Samir Chantre,,Joshua Bacallao,L,0,Pts: 2x0,American NGN,73KG,F,2021
+27503,1436,Samir Chantre,4248,Gianni Grippo,L,0,Referee Decision,F2W 182,70KG,SPF,2021
+2409,1436,Samir Chantre,,Daniel Roupinol,W,1,N/A,NoGi Worlds,70KG,SF,2009
+2440,1436,Samir Chantre,938,Pablo Silva,W,1,Points,Rio Open,70KG,SF,2009
+2441,1436,Samir Chantre,,Sebastian Lali,W,1,Points,Rio Open,70KG,F,2009
+2442,1436,Samir Chantre,,Douglas Rufino,W,1,Triangle,S. American CBJJE,70KG,F,2009
+2446,1436,Samir Chantre,,Alfred Thompkins,W,1,Kneebar,No Gi Nationals,70KG,SF,2009
+2749,1436,Samir Chantre,1433,Bernardo Pitel,W,1,Calf slicer,Rio Open,70KG,SF,2010
+2750,1436,Samir Chantre,,Jose Luis,W,1,Toe hold,Rio Open,70KG,F,2010
+2751,1436,Samir Chantre,1023,Baret Yoshida,W,1,Adv,American Nat.,70KG,SF,2010
+2752,1436,Samir Chantre,613,Wellington Dias,W,1,Armbar,American Nat.,70KG,F,2010
+2753,1436,Samir Chantre,,Joseph Capizzi,W,1,Triangle,NY Open,70KG,SF,2010
+3007,1436,Samir Chantre,,Bruno Maniaudet,W,1,Referee Decision,World Champ.,64KG,RDS,2011
+3026,1436,Samir Chantre,,Unknown,W,1,Referee Decision,World Champ.,76KG,RDS,2011
+3105,1436,Samir Chantre,,Gabriel Afonso,W,1,Referee Decision,World Champ.,64KG,4F,2011
+3349,1436,Samir Chantre,,Lahat Noadya,W,1,Armbar,No Gi Worlds,70KG,4F,2011
+3426,1436,Samir Chantre,,Michael Chapman,W,1,Points,Las Vegas Open,70KG,SF,2011
+3703,1436,Samir Chantre,5930,Rodrigo Freitas,W,1,Ankle lock,No Gi Nationals,70KG,SF,2012
+3723,1436,Samir Chantre,,Noah booth,W,1,Shoulder lock,SD World Trials,70KG,SF,2012
+3724,1436,Samir Chantre,,Albert Huges,W,1,Kneebar,SD World Trials,70KG,F,2012
+3969,1436,Samir Chantre,,Kahil Moreland,W,1,RNC,World Champ.,70KG,R2,2012
+4154,1436,Samir Chantre,,Sandro Santiago,W,1,Pts: 4x0,IBJJF Pro League,70KG,4F,2012
+4185,1436,Samir Chantre,256,Oliver Geddes,W,1,Points,Las Vegas Open,ABS,SF,2012
+4186,1436,Samir Chantre,,Bruno Antunes,W,1,Points,Las Vegas Open,ABS,SF,2012
+4187,1436,Samir Chantre,1137,Zak Maxwell,W,1,DQ,Las Vegas Open,ABS,F,2012
+4210,1436,Samir Chantre,,Sandro Santiago,W,1,Ezekiel,American Cup,70KG,4F,2012
+4211,1436,Samir Chantre,,Julio Echeverria,W,1,Triangle,American Cup,70KG,SF,2012
+4213,1436,Samir Chantre,,Jin Yung,W,1,Points,NoGi Pan American,70KG,n/a,2012
+4221,1436,Samir Chantre,,Bricklin Welch,W,1,Toe hold,NoGi Worlds,70KG,4F,2012
+4305,1436,Samir Chantre,3443,Leonardo Davila,W,1,Toe hold,No Gi Nationals,ABS,4F,2012
+4308,1436,Samir Chantre,256,Oliver Geddes,W,1,Points,American Nationals,82KG,SF,2012
+4309,1436,Samir Chantre,1500,Joao Faria,W,1,Points,American Nationals,82KG,F,2012
+4310,1436,Samir Chantre,256,Oliver Geddes,W,1,Points,American Nationals,ABS,4F,2012
+4315,1436,Samir Chantre,,Sandro Santiago,W,1,Armbar,Long Beach Open,70KG,SF,2012
+4316,1436,Samir Chantre,,Julio Echeverria,W,1,Toe hold,Long Beach Open,70KG,F,2012
+4317,1436,Samir Chantre,,Richard Flood,W,1,Toe hold,Gracie Worlds,70KG,N/A,2012
+4545,1436,Samir Chantre,,Heitor Ferreira,W,1,Choke,Pan American,70KG,R1,2013
+4657,1436,Samir Chantre,,Hakuto Kato,W,1,Points,World Pro,70KG,R1,2013
+4658,1436,Samir Chantre,8819,Thiago Barreto,W,1,Points,World Pro,70KG,8F,2013
+4659,1436,Samir Chantre,,Paulo Santana,W,1,Points,World Pro,70KG,4F,2013
+4780,1436,Samir Chantre,,Jose Luis,W,1,Choke from back,World Champ.,70KG,R1,2013
+4937,1436,Samir Chantre,,Geoffrey Villareal,W,1,Choke from back,American Nats,70KG,RR,2013
+4951,1436,Samir Chantre,,Omar Sabah,W,1,Toe hold,American NNG,ABS,8F,2013
+4954,1436,Samir Chantre,,Unknown,W,1,RNC,American NNG,ABS,4F,2013
+4960,1436,Samir Chantre,,Michael Harmon,W,1,Armbar,NoGi Pan Am.,70KG,SF,2013
+5128,1436,Samir Chantre,1753,Rafael Freitas,W,1,Toe hold,IBJJF Pro League,70KG,4F,2013
+5147,1436,Samir Chantre,,Gustavo Carpio,W,1,Toe hold,NY Open,70KG,SF,2013
+5148,1436,Samir Chantre,1640,Andre Monteiro,W,1,Points,NY Open,70KG,F,2013
+5159,1436,Samir Chantre,,Renato Lima,W,1,Armbar,Las Vegas Open,70KG,SF,2013
+5163,1436,Samir Chantre,,Unknown,W,1,Armbar,Las Vegas Open,ABS,4F,2013
+5346,1436,Samir Chantre,,Yukito Isoda,W,1,Adv,Pan American,70KG,R1,2014
+5350,1436,Samir Chantre,1923,David Lemes,W,1,Adv,Pan American,70KG,4F,2014
+5427,1436,Samir Chantre,,Joel Scovel,W,1,Points,American Cup,70KG,F,2014
+5972,1436,Samir Chantre,,Joey Taliercio,W,1,Pts: 23x0,No Gi Pan Am.,70KG,SF,2014
+6026,1436,Samir Chantre,,Maiko Araujo,W,1,Pts: 8x0,NoGi Worlds,67KG,4F,2014
+6029,1436,Samir Chantre,963,Carlos Esquisito,W,1,"Pts: 0x0, Adv",NoGi Worlds,67KG,SF,2014
+6081,1436,Samir Chantre,,Gerson Atoigue,W,1,Armbar,Las Vegas Open,70KG,SF,2014
+6082,1436,Samir Chantre,4248,Gianni Grippo,W,1,Adv,Las Vegas Open,70KG,F,2014
+6083,1436,Samir Chantre,7519,Eliot Kelly,W,1,Wristlock,Las Vegas Open,ABS,R1,2014
+7411,1436,Samir Chantre,,S. Franceschini,W,1,Botinha,World Champ.,64KG,8F,2015
+7579,1436,Samir Chantre,7917,Milton Bastos,W,1,Pts: 8x6,US Open,70KG,F,2015
+7611,1436,Samir Chantre,,Christopher Kriebel,W,1,Choke from back,American Nat.,70KG,4F,2015
+7613,1436,Samir Chantre,6366,Brian Mahecha,W,1,Pts: 4x2,American Nat.,70KG,SF,2015
+7784,1436,Samir Chantre,,Aaron Buck,W,1,Choke from back,LV Summer Open,70KG,SF,2015
+8014,1436,Samir Chantre,1761,Samuel Braga,W,1,N/A,Atlanta W. Open,70KG,F,2015
+8024,1436,Samir Chantre,,Jeffrey Cummings,W,1,Ankle lock,Atlanta No Gi,76KG,F,2015
+8108,1436,Samir Chantre,,Mayko Araújo,W,1,Pts: 18x0,Dallas Open,70KG,4F,2015
+8109,1436,Samir Chantre,6043,Lucas Pinheiro,W,1,"Pts: 4x3, Adv",Dallas Open,70KG,SF,2015
+8128,1436,Samir Chantre,9401,Ashley Williams,W,1,Pts: 4x2,Dallas NoGi Open,67KG,4F,2015
+8129,1436,Samir Chantre,,Mayko Araújo,W,1,Triangle,Dallas NoGi Open,67KG,SF,2015
+8130,1436,Samir Chantre,5114,Joao Somalia,W,1,"Pts: 0x0, Adv",Dallas NoGi Open,67KG,F,2015
+8245,1436,Samir Chantre,,Ed Ramos,W,1,Referee Decision,Grand Slam LA,69KG,4F,2015
+8247,1436,Samir Chantre,,Vitor Paschoal,W,1,Pts: 2x0,Grand Slam LA,69KG,SF,2015
+8395,1436,Samir Chantre,1753,Rafael Freitas,W,1,Armbar,NoGi Worlds,61KG,SF,2015
+8736,1436,Samir Chantre,,Jose Alvarez,W,1,Pts: 14x0,Irvine Open,70KG,SF,2015
+8737,1436,Samir Chantre,,Richard Slomba,W,1,"Pts: 2x2, Adv",Irvine Open,70KG,F,2015
+9021,1436,Samir Chantre,,Jordan Gomez,W,1,N/A,San Jose Open,70KG,SF,2016
+9022,1436,Samir Chantre,,Victor Paschoal,W,1,Toe hold,San Jose Open,70KG,F,2016
+9942,1436,Samir Chantre,,Vitor Matos,W,1,Adv,World Champ.,70KG,R1,2016
+9956,1436,Samir Chantre,,Ed Ramos,W,1,Pts: 2x0,World Champ.,70KG,R2,2016
+10219,1436,Samir Chantre,,Marcus Wilson,W,1,Guillotine,American NG Nats,73KG,4F,2016
+10220,1436,Samir Chantre,,André Rico,W,1,Toe hold,American NG Nats,73KG,SF,2016
+10221,1436,Samir Chantre,5930,Rodrigo Freitas,W,1,Toe hold,American NG Nats,73KG,F,2016
+10358,1436,Samir Chantre,,Daud Adaev,W,1,Toe hold,Berkut 3,ABS,SPF,2016
+10617,1436,Samir Chantre,,Vagner Kuroiwa,W,1,Toe hold,Atlanta S. Open,70KG,SF,2016
+10618,1436,Samir Chantre,174,Bruno Frazatto,W,1,Referee Decision,Atlanta S. Open,70KG,F,2016
+10625,1436,Samir Chantre,174,Bruno Frazatto,W,1,Pen,Atlanta S. NoGi,67KG,F,2016
+10890,1436,Samir Chantre,,Alberto Govea,W,1,Toe hold,NoGi Worlds,67KG,4F,2016
+10894,1436,Samir Chantre,7698,Gabriel Marangoni,W,1,Referee Decision,NoGi Worlds,67KG,SF,2016
+11861,1436,Samir Chantre,6359,Pedro Araujo,W,1,Points,Houston Open,ABS,SF,2017
+12120,1436,Samir Chantre,9377,Alexis Alduncin,W,1,Pts: 11x0,Pan American,64KG,R1,2017
+12125,1436,Samir Chantre,7698,Gabriel Marangoni,W,1,Referee Decision,Pan American,64KG,4F,2017
+12927,1436,Samir Chantre,,Jason Lawrence,W,1,Choke,Miami SPO,70KG,SF,2017
+13069,1436,Samir Chantre,1019,Daniel Beleza,W,1,Botinha,World Champ.,64KG,8F,2017
+13452,1436,Samir Chantre,1753,Rafael Freitas,W,1,Triangle,ACBJJ 6,60KG,4F,2017
+13721,1436,Samir Chantre,,Alberto Govea,W,1,N/A,Mexico City Open,76KG,F,2017
+14593,1436,Samir Chantre,6060,Tomoyuki Hashimoto,W,1,Points,ACB JJ 9,60KG,4F,2017
+14595,1436,Samir Chantre,1041,Laercio Fernandes,W,1,"Pts: 0x0, Pen",ACB JJ 9,60KG,SF,2017
+15282,1436,Samir Chantre,,Bruno Carvalho,W,1,N/A,San Francisco Open,70KG,4F,2018
+15313,1436,Samir Chantre,1041,Laercio Fernandes,W,1,Points,ACBJJ 11,65KG,SPF,2018
+15378,1436,Samir Chantre,6103,Isaac Doederlein,W,1,Referee Decision,Pan American,70KG,8F,2018
+15736,1436,Samir Chantre,,Jose Leon,W,1,N/A,San Jose Open,70KG,4F,2018
+15737,1436,Samir Chantre,,Joe Isataka,W,1,N/A,San Jose Open,70KG,SF,2018
+15738,1436,Samir Chantre,8632,Thiago Macedo,W,1,Pts: 2x0,San Jose Open,70KG,F,2018
+17505,1436,Samir Chantre,,Tom Barlow,W,1,N/A,Copenhagen Open,70KG,SF,2018
+17506,1436,Samir Chantre,,Lee Renault,W,1,N/A,Copenhagen Open,70KG,F,2018
+18054,1436,Samir Chantre,,Bruno Valdivino,W,1,N/A,SJJIF Worlds,70KG,SF,2018
+18589,1436,Samir Chantre,8131,Adam Ferrara,W,1,"Pts: 0x0, Adv",NoGi Worlds,67KG,R2,2018
+19576,1436,Samir Chantre,9150,Cole Franson,W,1,"Pts: 2x2, Adv",Pan American,70KG,8F,2019
+21501,1436,Samir Chantre,6801,Jose Lima,W,1,Footlock,F2W 123,65KG,SPF,2019
+22805,1436,Samir Chantre,6043,Lucas Pinheiro,W,1,Inside heel hook,F2W 133,70KG,SPF,2019
+24462,1436,Samir Chantre,,Giovanni Silva,W,1,Armbar,No Gi Pan Am.,73KG,R1,2020
+26721,1436,Samir Chantre,,Ruan Rivera,W,1,"Pts: 2x2, Adv",American NGN,73KG,SF,2021
+26913,1436,Samir Chantre,,Orlando Castillo,W,1,Referee Decision,F2W 176,70KG,SPF,2021

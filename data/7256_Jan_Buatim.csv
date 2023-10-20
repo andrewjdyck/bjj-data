@@ -1,0 +1,46 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10575,7256,Jan Buatim,4460,Jaime Canuto,L,0,Armbar,Sao Paulo Open,82KG,8F,2016
+10601,7256,Jan Buatim,,Pedro Martins,L,0,Points,Brasilia Open,76KG,SF,2016
+10728,7256,Jan Buatim,,Luciano Bernert,L,0,"Pts: 8x8, Adv",Floripa Open,82KG,SF,2016
+11046,7256,Jan Buatim,3206,Rodrigo Conceicao,L,0,Points,Grand Slam RJ,77KG,R2,2016
+12151,7256,Jan Buatim,4465,Andris Brunovskis,L,0,Bow and arrow,Pan American,76KG,R1,2017
+12428,7256,Jan Buatim,4115,Fabio Caloi,L,0,Omoplata,Floripa Fall Open,76KG,SF,2017
+12762,7256,Jan Buatim,4115,Fabio Caloi,L,0,Estima lock,Brasileiro,76KG,8F,2017
+12993,7256,Jan Buatim,,Luciano Bernert,L,0,"Pts: 2x2, Adv",Curitiba Fall Open,76KG,SF,2017
+13474,7256,Jan Buatim,2107,Otavio Sousa,L,0,Choke from back,ACBJJ World,85KG,F,2017
+14117,7256,Jan Buatim,8138,Hugo Marques,L,0,Pts: 2x0,Floripa Sp. Open,82KG,SF,2017
+14339,7256,Jan Buatim,8138,Hugo Marques,L,0,Pts: 7x0,Grand Slam RJ,77KG,R1,2017
+14467,7256,Jan Buatim,,Luciano Macedo,L,0,Points,South American,76KG,4F,2017
+14513,7256,Jan Buatim,,Eduardo Vieira,L,0,N/A,Brasilia Open,76KG,F,2017
+15496,7256,Jan Buatim,,K. Schorabski,L,0,Pts: 3x2,Grand Slam LDN,77KG,R1,2018
+15556,7256,Jan Buatim,,Bruno Borges,L,0,Choke,ACB European,75KG,R1,2018
+15940,7256,Jan Buatim,,Victor Matos,L,0,"Pts: 2x2, Adv",Curitiba Open,76KG,SF,2018
+16217,7256,Jan Buatim,,Julio Muniz,L,0,Points,Brasileiro,76KG,R1,2018
+16494,7256,Jan Buatim,7645,Masahiro Iwasaki,L,0,"Pts: 0x0, Adv",World Champ.,76KG,R2,2018
+17908,7256,Jan Buatim,,Fernando Pessoa,L,0,N/A,Curitiba SPO,82KG,4F,2018
+18361,7256,Jan Buatim,9793,Alexandre Jesus,L,0,Choke from back,South American,82KG,R1,2018
+18555,7256,Jan Buatim,,Joao Soares,L,0,N/A,BH Sp Open,ABS,4F,2018
+18743,7256,Jan Buatim,6596,Jhonny Loureiro,L,0,Points,Porto Alegre Open,82KG,F,2018
+21436,7256,Jan Buatim,,Lucas Valle,L,0,N/A,Las Vegas Open,82KG,4F,2019
+10557,7256,Jan Buatim,,Unknown,W,1,Pts: 2x0,Interstate SP-MG,ABS,SF,2016
+10558,7256,Jan Buatim,,Unknown,W,1,Choke,Interstate SP-MG,ABS,SF,2016
+10574,7256,Jan Buatim,,Áquila Paula,W,1,Pts: 2x0,Sao Paulo Open,82KG,R1,2016
+10600,7256,Jan Buatim,,A. Vieira,W,1,Pts: 12x4,Brasilia Open,76KG,4F,2016
+10727,7256,Jan Buatim,,Fernando Silveira,W,1,Knee on belly/choke,Floripa Open,82KG,4F,2016
+11241,7256,Jan Buatim,,Unknown,W,1,Referee Decision,South American,82KG,R1,2016
+12423,7256,Jan Buatim,,Anderson Prazeres,W,1,Pts: 4x2,Floripa Fall Open,76KG,R1,2017
+12425,7256,Jan Buatim,5909,Thiago Abreu,W,1,Referee Decision,Floripa Fall Open,76KG,4F,2017
+12747,7256,Jan Buatim,,Gustavo Debortoli,W,1,Pts: 7x0,Brasileiro,76KG,R1,2017
+12756,7256,Jan Buatim,,Eduardo Souza,W,1,Triangle,Brasileiro,76KG,R2,2017
+12992,7256,Jan Buatim,,Carlos Makla,W,1,Armbar,Curitiba Fall Open,76KG,4F,2017
+13473,7256,Jan Buatim,,Mustakov Aiazbek,W,1,Points,ACBJJ World,85KG,SF,2017
+14115,7256,Jan Buatim,,Moises Cavalcante,W,1,Choke from back,Floripa Sp. Open,82KG,4F,2017
+14466,7256,Jan Buatim,,Andre Ferreira,W,1,Submission,South American,76KG,R1,2017
+14511,7256,Jan Buatim,,Carlos Makla,W,1,N/A,Brasilia Open,76KG,4F,2017
+14512,7256,Jan Buatim,,Italo Gules,W,1,N/A,Brasilia Open,76KG,SF,2017
+15253,7256,Jan Buatim,,Alberto Serrano,W,1,Choke from back,Mexico Winter Open,76KG,F,2018
+15939,7256,Jan Buatim,,Osmar Gustavo,W,1,Pts: 7x2,Curitiba Open,76KG,4F,2018
+16398,7256,Jan Buatim,,Fernando Latorre,W,1,Pts: 10x8,Miami SPO,82KG,SF,2018
+16399,7256,Jan Buatim,,Athos Miranda,W,1,Bow and arrow,Miami SPO,82KG,F,2018
+18552,7256,Jan Buatim,,Thales Oliveira,W,1,Points,BH Sp Open,ABS,R1,2018
+21434,7256,Jan Buatim,,Samuel Wells,W,1,N/A,Las Vegas Open,82KG,R1,2019

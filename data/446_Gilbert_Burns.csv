@@ -1,0 +1,64 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2338,446,Gilbert Burns,122,Michael Langhi,L,0,Pts: 9x2,World Champ.,76KG,F,2009
+2633,446,Gilbert Burns,984,Marcus Almeida,L,0,RNC,No Gi Worlds,ABS,4F,2010
+2687,446,Gilbert Burns,122,Michael Langhi,L,0,Referee Decision,World Champ.,76KG,SF,2010
+2806,446,Gilbert Burns,122,Michael Langhi,L,0,Points,World Pro Trials,77KG,F,2011
+2885,446,Gilbert Burns,875,Lucas Leite,L,0,Adv,Pan American,82KG,SF,2011
+2944,446,Gilbert Burns,967,JT Torres,L,0,Pts: 2x0,World P. NoGi,74KG,4F,2011
+5604,446,Gilbert Burns,1322,Gregor Gracie,L,0,Pts: 4x2,Copa Podio,77KG,SF,2014
+5605,446,Gilbert Burns,4235,Victor Silverio,L,0,"Pts: 2x2, Pen",Copa Podio,77KG,3PLC,2014
+6191,446,Gilbert Burns,1188,Leandro Lo,L,0,Cross choke,Copa Podio,82KG,SPF,2014
+7688,446,Gilbert Burns,5423,Matheus Diniz,L,0,Pts: 8x2,NY No Gi Open,ABS,F,2015
+7953,446,Gilbert Burns,1386,Davi Ramos,L,0,RNC,ADCC,77KG,SF,2015
+10877,446,Gilbert Burns,5649,Garry Tonon,L,0,Inside heel hook,Polaris 4,77KG,SPF,2016
+10962,446,Gilbert Burns,5861,Jared Dopp,L,0,Pts: 4x0,NoGi Worlds,ABS,4F,2016
+14272,446,Gilbert Burns,2226,DJ Jackson,L,0,Referee Decision,F2W 53,82KG,SPF,2017
+14559,446,Gilbert Burns,1031,Jake Shields,L,0,EBI/OT,SUG 6,ABS,SPF,2017
+16011,446,Gilbert Burns,7645,Masahiro Iwasaki,L,0,Pts: 0x0,Marianas Open,81KG,4F,2018
+22725,446,Gilbert Burns,8105,Tommy Langaker,L,0,Referee Decision,Polaris 12,80KG,SPF,2019
+22919,446,Gilbert Burns,8346,Craig Jones,L,0,Outside heel hook,SUG 10,88KG,SPF,2019
+28994,446,Gilbert Burns,5655,Lucas Barbosa,L,0,RNC,BJJ Stars,94KG,SPF,2021
+2331,446,Gilbert Burns,358,Lucas Lepri,W,1,Points,World Champ.,76KG,R1,2009
+2332,446,Gilbert Burns,,Rodrigo Simoes,W,1,Choke from back,World Champ.,76KG,4F,2009
+2336,446,Gilbert Burns,,Eder Souza,W,1,Pts: 10x2,World Champ.,76KG,SF,2009
+2517,446,Gilbert Burns,921,Rafael Barbosa,W,1,Pts: 8x0,WPC Gr Trials,74KG,SF,2010
+2518,446,Gilbert Burns,428,Celso Vinicius,W,1,Pts: 7x2,WPC Gr Trials,74KG,F,2010
+2609,446,Gilbert Burns,,Wallace Castro,W,1,RNC,No Gi Worlds,79KG,R1,2010
+2610,446,Gilbert Burns,5909,Thiago Abreu,W,1,Pts: 2x0,No Gi Worlds,79KG,4F,2010
+2611,446,Gilbert Burns,875,Lucas Leite,W,1,N/A,No Gi Worlds,79KG,SF,2010
+2612,446,Gilbert Burns,1055,Tiago Alves,W,1,Guillotine,No Gi Worlds,79KG,F,2010
+2622,446,Gilbert Burns,,Eduardo Milioli,W,1,Pts: 8x0,No Gi Worlds,ABS,R1,2010
+2640,446,Gilbert Burns,428,Celso Vinicius,W,1,Points,World Pro.,74KG,SF,2010
+2641,446,Gilbert Burns,443,Claudio Mattos,W,1,Pts: 2x0,World Pro.,74KG,F,2010
+2653,446,Gilbert Burns,967,JT Torres,W,1,"Pts: 4x4, Adv",Brasileiro,76KG,F,2010
+2801,446,Gilbert Burns,,Edson Pereira,W,1,Kneebar,World Pro Trials,77KG,R1,2011
+2803,446,Gilbert Burns,,Tiago Coelho,W,1,Points,World Pro Trials,77KG,4F,2011
+2805,446,Gilbert Burns,1188,Leandro Lo,W,1,Pts: 2x0,World Pro Trials,77KG,SF,2011
+2883,446,Gilbert Burns,,Unknown,W,1,Choke from back,Pan American,82KG,R1,2011
+3028,446,Gilbert Burns,,Unknown,W,1,Submission,World Champ.,76KG,RDS,2011
+3032,446,Gilbert Burns,,Rodrigo Simoes,W,1,Pts: 11x0,World Champ.,76KG,RDS,2011
+3112,446,Gilbert Burns,358,Lucas Lepri,W,1,"Pts: 2x2, Adv",World Champ.,76KG,4F,2011
+3139,446,Gilbert Burns,967,JT Torres,W,1,Pts: 4x0,World Champ.,76KG,SF,2011
+3150,446,Gilbert Burns,788,Kron Gracie,W,1,Pts: 9x2,World Champ.,76KG,F,2011
+3181,446,Gilbert Burns,975,Jonatas Gurgel,W,1,Pts: 4x0,San Diego Trials,75KG,SF,2011
+5108,446,Gilbert Burns,1188,Leandro Lo,W,1,Pts: 3x0,NoGi Worlds,79KG,SF,2013
+5109,446,Gilbert Burns,2035,Vitor Oliveira,W,1,Pts: 2x0,NoGi Worlds,79KG,F,2013
+5592,446,Gilbert Burns,4248,Gianni Grippo,W,1,Armbar,Copa Podio,77KG,GP,2014
+5595,446,Gilbert Burns,2304,Fernando Vieira,W,1,Pts: 2x0,Copa Podio,77KG,GP,2014
+5598,446,Gilbert Burns,4235,Victor Silverio,W,1,Pts: 2x0,Copa Podio,77KG,GP,2014
+5602,446,Gilbert Burns,,M. Andre,W,1,Kneebar,Copa Podio,77KG,GP,2014
+5684,446,Gilbert Burns,4328,AJ Agazarm,W,1,Points,ADCC Florida,77KG,SPF,2014
+7686,446,Gilbert Burns,6354,Jonathan Satava,W,1,Pts: 4x0,NY No Gi Open,ABS,SF,2015
+7946,446,Gilbert Burns,8682,Lachlan Giles,W,1,Armbar,ADCC,77KG,R1,2015
+7950,446,Gilbert Burns,,Abdulkadirov Magomed,W,1,Pts: 2x0,ADCC,77KG,4F,2015
+7954,446,Gilbert Burns,2107,Otavio Sousa,W,1,Pts: 6x0,ADCC,77KG,3RD,2015
+10958,446,Gilbert Burns,,Vinicius Vieira,W,1,RNC,NoGi Worlds,ABS,8F,2016
+12986,446,Gilbert Burns,6836,John Combs,W,1,EBI/OT,SUG 4,88KG,SPF,2017
+16913,446,Gilbert Burns,1322,Gregor Gracie,W,1,Injury,Polaris 7,88KG,SPF,2018
+16938,446,Gilbert Burns,7914,Nick Calvanese,W,1,Referee Decision,F2W 81,88KG,SPF,2018
+17230,446,Gilbert Burns,4328,AJ Agazarm,W,1,Referee Decision,Kasai Pro 3,ABS,SPF,2018
+17668,446,Gilbert Burns,138,Sergio Moraes,W,1,Pts: 2x0,Gracie Pro,82KG,SPF,2018
+18003,446,Gilbert Burns,9706,Marcelo Mafra,W,1,Points,Black Belt CBD,83KG,SF,2018
+18004,446,Gilbert Burns,2226,DJ Jackson,W,1,Points,Black Belt CBD,83KG,F,2018
+20862,446,Gilbert Burns,2985,Marcelo Azevedo,W,1,Choke,Third Coast,82KG,SPF,2019
+25966,446,Gilbert Burns,576,Rafael Lovato,W,1,Referee Decision,WNO 8,94KG,SPF,2021

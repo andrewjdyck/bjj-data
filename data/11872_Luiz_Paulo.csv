@@ -1,0 +1,103 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24685,11872,Luiz Paulo,10408,Israel Sousa,L,0,Pts: 3x0,Grand Slam RJ,69KG,8F,2020
+24921,11872,Luiz Paulo,8884,Alex Sodre,L,0,Points,South American,76KG,F,2020
+25615,11872,Luiz Paulo,10509,Mathias Luna,L,0,Pts: 2x2,WP BR Qualifier,77KG,SF,2021
+26335,11872,Luiz Paulo,,Adriano Araujo,L,0,Pts: 5x3,UAE Nat Pro,77KG,RR,2021
+26899,11872,Luiz Paulo,7006,Julio Anjos,L,0,Pts: 1x1,Asia Cont. Pro,85KG,SF,2021
+29215,11872,Luiz Paulo,9014,Levi Jones,L,0,Pts: 4x1,World Pro,77KG,3RD,2021
+29668,11872,Luiz Paulo,6301,Faisal AlKitbe,L,0,"Pts: 2x2, Adv",President Cup,85KG,RR,2021
+29671,11872,Luiz Paulo,9554,Henrique Cardoso,L,0,Choke from back,President Cup,85KG,RR,2021
+30298,11872,Luiz Paulo,10880,Roberto Jimenez,L,0,Injury,ADCC BR2 Trials,77KG,SF,2022
+31114,11872,Luiz Paulo,12348,Lucas Protasio,L,0,Pts: 3x3,Grand Slam LDN,77KG,SF,2022
+32160,11872,Luiz Paulo,,Luiz Santos,L,0,DQ,Brasileiro,76KG,SF,2022
+33994,11872,Luiz Paulo,12348,Lucas Protasio,L,0,Pts: 1x1,Grand Slam RJ,77KG,F,2022
+35781,11872,Luiz Paulo,11423,Meyram Maquine,L,0,"Pts: 0x0, Adv",BJJ Stars,76KG,SF,2022
+36248,11872,Luiz Paulo,11754,Victor Nithael,L,0,Pts: 6x5,WP Qualifier,77KG,4F,2022
+37009,11872,Luiz Paulo,12287,Pedro Maia,L,0,"Pts: 2x2, Adv",Rio SMO,82KG,F,2023
+38041,11872,Luiz Paulo,9793,Alexandre Jesus,L,0,Pts: 5x0,Curitiba SMO,82KG,F,2023
+38099,11872,Luiz Paulo,,Matheus Marques,L,0,"Pts: 2x2, Adv",Curitiba SMO,ABS,8F,2023
+39489,11872,Luiz Paulo,8516,Lucas Valente,L,0,Straight ankle lock,Brasileiro,76KG,SF,2023
+41060,11872,Luiz Paulo,,Gabriel Avila,L,0,Pts: 2x0,Betim Open,82KG,F,2023
+41075,11872,Luiz Paulo,,Anderson Kauan,L,0,Pts: 5x0,Betim Open,ABS,R1,2023
+42910,11872,Luiz Paulo,,Jose Jurema,L,0,Pts: 1x0,ADGS Miami,85KG,F,2023
+24678,11872,Luiz Paulo,,Bruno Souza,W,1,Armbar,Grand Slam RJ,69KG,R1,2020
+24913,11872,Luiz Paulo,,Marlus Salgado,W,1,DQ,South American,76KG,R1,2020
+24918,11872,Luiz Paulo,,Ian Garcia,W,1,Points,South American,76KG,4F,2020
+24920,11872,Luiz Paulo,11534,Raul Basilio,W,1,Pts: 6x5,South American,76KG,SF,2020
+25023,11872,Luiz Paulo,,Saad Hassan,W,1,Choke from back,VP League,77KG,4F,2021
+25024,11872,Luiz Paulo,,Mo. Alqubaisi,W,1,Choke from back,VP League,77KG,SF,2021
+25025,11872,Luiz Paulo,,Luiz Cantanhede,W,1,Choke from back,VP League,77KG,F,2021
+25483,11872,Luiz Paulo,,Ali Albannai,W,1,Armbar,VP Cup - 2R,85KG,4F,2021
+25484,11872,Luiz Paulo,,Faisal Ibrahim,W,1,Pts: 5x0,VP Cup - 2R,85KG,SF,2021
+25485,11872,Luiz Paulo,,U. Oliveira,W,1,Pts: 2x0,VP Cup - 2R,85KG,F,2021
+25518,11872,Luiz Paulo,,A. Cantanhede,W,1,Pts: 4x0,Grand Slam AD,77KG,R1,2021
+25520,11872,Luiz Paulo,7156,Tiago Bravo,W,1,Injury,Grand Slam AD,77KG,4F,2021
+25525,11872,Luiz Paulo,8215,Espen Mathiesen,W,1,Short choke,Grand Slam AD,77KG,SF,2021
+25526,11872,Luiz Paulo,,Adriano Araujo,W,1,Pts: 3x2,Grand Slam AD,77KG,F,2021
+26334,11872,Luiz Paulo,,Diego Medeiros,W,1,Pts: 1x0,UAE Nat Pro,77KG,RR,2021
+26336,11872,Luiz Paulo,,Adriano Araujo,W,1,Pts: 1x1,UAE Nat Pro,77KG,F,2021
+26897,11872,Luiz Paulo,,Fausto Godoy,W,1,Pts: 6x4,Asia Cont. Pro,85KG,4F,2021
+26900,11872,Luiz Paulo,,Fausto Godoy,W,1,Referee Decision,Asia Cont. Pro,85KG,3RD,2021
+27717,11872,Luiz Paulo,,Arslan Gadzhiev,W,1,Triangle,Grand Slam MSK,77KG,RR,2021
+27718,11872,Luiz Paulo,,Magomed Ansarov,W,1,Armbar,Grand Slam MSK,77KG,RR,2021
+27976,11872,Luiz Paulo,,Mo Al Ali,W,1,Submission,VP Cup,77KG,R1,2021
+27978,11872,Luiz Paulo,,A. Alhammadi,W,1,Submission,VP Cup,77KG,4F,2021
+27980,11872,Luiz Paulo,,Mustafa Radi,W,1,Submission,VP Cup,77KG,SF,2021
+27981,11872,Luiz Paulo,,Andre Cantanhede,W,1,Pts: 11x0,VP Cup,77KG,F,2021
+28509,11872,Luiz Paulo,,Rodrigo Ferreira,W,1,Choke from back,Grand Slam RJ,77KG,R1,2021
+28522,11872,Luiz Paulo,12287,Pedro Maia,W,1,Pts: 3x2,Grand Slam RJ,77KG,8F,2021
+28530,11872,Luiz Paulo,10199,Guthierry Barbosa,W,1,Pts: 5x0,Grand Slam RJ,77KG,4F,2021
+28535,11872,Luiz Paulo,9486,Murilo Amaral,W,1,Pts: 4x4,Grand Slam RJ,77KG,SF,2021
+29205,11872,Luiz Paulo,,Williams Campos,W,1,Pts: 12x0,World Pro,77KG,4F,2021
+29214,11872,Luiz Paulo,,Oscar Gugala,W,1,Pts: 8x2,World Pro,77KG,RPC,2021
+29665,11872,Luiz Paulo,,Andre Almeida,W,1,Pts: 8x6,President Cup,85KG,RR,2021
+30021,11872,Luiz Paulo,,Pierpaolo Chiappe,W,1,Pts: 2x0,ADCC BR1 Trials,77KG,R1,2022
+30036,11872,Luiz Paulo,6596,Jhonny Loureiro,W,1,Pts: 2x0,ADCC BR1 Trials,77KG,R3,2022
+30245,11872,Luiz Paulo,,Iranslav Neoral,W,1,RNC,ADCC BR2 Trials,77KG,R2,2022
+30276,11872,Luiz Paulo,,Luis Seabra,W,1,Pts: 2x0,ADCC BR2 Trials,77KG,R3,2022
+30288,11872,Luiz Paulo,,Lucas Heidi,W,1,Kneebar,ADCC BR2 Trials,77KG,8F,2022
+30294,11872,Luiz Paulo,,Marlus Salgado,W,1,Referee Decision,ADCC BR2 Trials,77KG,4F,2022
+30300,11872,Luiz Paulo,,Carlos Campos,W,1,Referee Decision,ADCC BR2 Trials,77KG,3RD,2022
+31112,11872,Luiz Paulo,12652,Marcelo Fausto,W,1,Pts: 2x1,Grand Slam LDN,77KG,4F,2022
+31116,11872,Luiz Paulo,,Adrian Sozisz,W,1,Pts: 4x2,Grand Slam LDN,77KG,RPC,2022
+31118,11872,Luiz Paulo,12652,Marcelo Fausto,W,1,Referee Decision,Grand Slam LDN,77KG,3RD,2022
+32154,11872,Luiz Paulo,,Leo Domingos,W,1,N/A,Brasileiro,76KG,R1,2022
+32157,11872,Luiz Paulo,8516,Lucas Valente,W,1,Pts: 6x0,Brasileiro,76KG,4F,2022
+33261,11872,Luiz Paulo,,Nathan Orchard,D,0.5,---,Polaris 20,ABS,RR,2022
+33271,11872,Luiz Paulo,,Nathan Orchard,D,0.5,---,Polaris 20,ABS,RR,2022
+33275,11872,Luiz Paulo,10588,Jon Blank,D,0.5,---,Polaris 20,ABS,RR,2022
+33283,11872,Luiz Paulo,10588,Jon Blank,D,0.5,---,Polaris 20,ABS,RR,2022
+33504,11872,Luiz Paulo,,Liam Alpang,W,1,Armbar,Honor Challenge,85KG,SPF,2022
+33968,11872,Luiz Paulo,,Lucas Dario,W,1,Pts: 6x0,Grand Slam RJ,77KG,R2,2022
+33981,11872,Luiz Paulo,,Elder Junior,W,1,Pts: 13x8,Grand Slam RJ,77KG,8F,2022
+33992,11872,Luiz Paulo,6432,Yan Lucas,W,1,Referee Decision,Grand Slam RJ,77KG,SF,2022
+34826,11872,Luiz Paulo,,Marlus Salgado,W,1,Pts: 2x2,North BRA Pro,77KG,SF,2022
+35780,11872,Luiz Paulo,11015,Pablo Lavaselli,W,1,"Pts: 0x0, Adv",BJJ Stars,76KG,4F,2022
+36244,11872,Luiz Paulo,,Marco Aurelio,W,1,Submission,WP Qualifier,77KG,R1,2022
+37006,11872,Luiz Paulo,,Pierpaolo Chiappe,W,1,Hashimoto choke,Rio SMO,82KG,4F,2023
+37007,11872,Luiz Paulo,11534,Raul Basilio,W,1,Pts: 3x0,Rio SMO,82KG,SF,2023
+37069,11872,Luiz Paulo,,Darlan Casaca,W,1,"Pts: 0x0, Adv",Rio SMNGO,85KG,4F,2023
+37070,11872,Luiz Paulo,,Wallisson Oliveira,W,1,"Pts: 0x0, Adv",Rio SMNGO,85KG,SF,2023
+37072,11872,Luiz Paulo,,Matheus Paula,W,1,Referee Decision,Rio SMNGO,85KG,F,2023
+38033,11872,Luiz Paulo,,Pierpaolo Chiappe,W,1,Choke from back,Curitiba SMO,82KG,8F,2023
+38036,11872,Luiz Paulo,,Elder Junior,W,1,Points,Curitiba SMO,82KG,4F,2023
+38039,11872,Luiz Paulo,12287,Pedro Maia,W,1,Referee Decision,Curitiba SMO,82KG,SF,2023
+38780,11872,Luiz Paulo,,Saad Abdulah,W,1,Choke from back,Presidents Cup,77KG,RR,2023
+38782,11872,Luiz Paulo,10004,Ali Monfaradi,W,1,Pts: 10x2,Presidents Cup,77KG,RR,2023
+39484,11872,Luiz Paulo,13458,Leandro Rounaud,W,1,Pts: 4x2,Brasileiro,76KG,8F,2023
+39486,11872,Luiz Paulo,,Luis Ribas,W,1,Pts: 6x4,Brasileiro,76KG,4F,2023
+40499,11872,Luiz Paulo,,J. Mubarak,W,1,North south choke,President Cup,77KG,4F,2023
+40501,11872,Luiz Paulo,,Sultan Jaber,W,1,"Pts: 0x0, Adv",President Cup,77KG,SF,2023
+40503,11872,Luiz Paulo,10004,Ali Monfaradi,W,1,"Pts: 0x0, Adv",President Cup,77KG,F,2023
+40603,11872,Luiz Paulo,,Marcus Ferreira,W,1,Choke from back,Grand Slam RJ,77KG,8F,2023
+40609,11872,Luiz Paulo,,Luiz Santos,W,1,Pts: 2x0,Grand Slam RJ,77KG,4F,2023
+40613,11872,Luiz Paulo,,Vital Neto,W,1,Referee Decision,Grand Slam RJ,77KG,SF,2023
+40614,11872,Luiz Paulo,13458,Leandro Rounaud,W,1,Pts: 3x0,Grand Slam RJ,77KG,F,2023
+41056,11872,Luiz Paulo,,Igor da Silva,W,1,Choke from back,Betim Open,82KG,4F,2023
+41059,11872,Luiz Paulo,,Luis Eduardo,W,1,Choke from back,Betim Open,82KG,SF,2023
+41275,11872,Luiz Paulo,,Guilherme Alves,W,1,Pts: 5x2,SP BJJ Pro,82KG,4F,2023
+41278,11872,Luiz Paulo,,Elder Junior,W,1,Armbar,SP BJJ Pro,82KG,SF,2023
+41279,11872,Luiz Paulo,,Gabriel Avila,W,1,Pts: 7x2,SP BJJ Pro,82KG,F,2023
+42901,11872,Luiz Paulo,,Jose Araya,W,1,Pts: 13x0,ADGS Miami,85KG,R1,2023
+42905,11872,Luiz Paulo,,Jhonathan Marques,W,1,Pts: 4x3,ADGS Miami,85KG,4F,2023
+42908,11872,Luiz Paulo,,Wallisson Oliveira,W,1,Pts: 3x3,ADGS Miami,85KG,SF,2023

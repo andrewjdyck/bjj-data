@@ -1,0 +1,68 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1937,289,Alan do Nascimento,898,Bill Cooper,L,0,Lapel choke,World Champ.,82KG,R2,2008
+2344,289,Alan do Nascimento,138,Sergio Moraes,L,0,Choke,World Champ.,82KG,SF,2009
+2918,289,Alan do Nascimento,410,Claudio Calasans,L,0,Adv,World Pro.,83KG,SF,2011
+3050,289,Alan do Nascimento,108,Gustavo Campos,L,0,Submission,World Champ.,82KG,RDS,2011
+3513,289,Alan do Nascimento,1617,Victor Estima,L,0,Triangle,European Open,82KG,F,2012
+4061,289,Alan do Nascimento,410,Claudio Calasans,L,0,Pts: 4x2,World Champ.,82KG,4F,2012
+4889,289,Alan do Nascimento,1188,Leandro Lo,L,0,Pts: 2x0,Mundial CBJJE,82KG,SF,2013
+4904,289,Alan do Nascimento,1534,R. Evangelista,L,0,Referee Decision,Rome Open,ABS,F,2013
+4910,289,Alan do Nascimento,582,Caio Terra,L,0,N/A,European NoGi,ABS,F,2013
+4926,289,Alan do Nascimento,1188,Leandro Lo,L,0,Armbar,Rio Open,82KG,F,2013
+5820,289,Alan do Nascimento,2107,Otavio Sousa,L,0,Armbar,World Champ.,82KG,SF,2014
+7122,289,Alan do Nascimento,477,Tarsis Humphreys,L,0,"Pts: 0x0, Adv",World Pro,85KG,R2,2015
+8951,289,Alan do Nascimento,5347,Yago Souza,L,0,Pts: 2x0,European Open,82KG,F,2016
+8998,289,Alan do Nascimento,2416,Felipe Pena,L,0,Choke from back,European Open,ABS,4F,2016
+10011,289,Alan do Nascimento,5347,Yago Souza,L,0,N/A,World Champ.,82KG,8F,2016
+10365,289,Alan do Nascimento,6071,Gabriel Arges,L,0,Referee Decision,Berkut 3,ABS,SPF,2016
+21050,289,Alan do Nascimento,5655,Lucas Barbosa,L,0,Referee Decision,ACB World Champ.,85KG,F,2019
+1850,289,Alan do Nascimento,1617,Victor Estima,W,1,Pts: 2x0,European Open,82KG,SF,2008
+1851,289,Alan do Nascimento,2107,Otavio Sousa,W,1,Adv,European Open,82KG,F,2008
+1896,289,Alan do Nascimento,2107,Otavio Sousa,W,1,Pts: 2x0,Brasileiro,82KG,F,2008
+2037,289,Alan do Nascimento,9587,Eduardo Rios,W,1,Points,Stenungsund Open,88KG,F,2008
+2106,289,Alan do Nascimento,2107,Otavio Sousa,W,1,Points,European,88KG,F,2009
+2342,289,Alan do Nascimento,,Pedro Bessa,W,1,Pts: 6x2,World Champ.,82KG,4F,2009
+3040,289,Alan do Nascimento,,Bruno Augusto,W,1,Submission,World Champ.,82KG,RDS,2011
+3511,289,Alan do Nascimento,1017,Gabriel Goulart,W,1,N/A,European Open,82KG,SF,2012
+4048,289,Alan do Nascimento,1619,Marcus Bello,W,1,Choke from back,World Champ.,82KG,R2,2012
+4056,289,Alan do Nascimento,1659,Bruno Alves,W,1,DQ,World Champ.,82KG,8F,2012
+4286,289,Alan do Nascimento,,Renato Morais,W,1,Armbar,Sweden Open,NA,NA,2012
+4394,289,Alan do Nascimento,,Unknown,W,1,Bow and arrow,UK Pro Trials,75KG,4F,2013
+4395,289,Alan do Nascimento,,Lucio Sergio,W,1,Referee Decision,UK Pro Trials,75KG,F,2013
+4451,289,Alan do Nascimento,1014,Jake Mackenzie,W,1,Choke,European Open,82KG,4F,2013
+4901,289,Alan do Nascimento,8714,Max Carvalho,W,1,Points,Rome Open,88KG,F,2013
+4902,289,Alan do Nascimento,256,Oliver Geddes,W,1,Points,Rome Open,ABS,SF,2013
+4906,289,Alan do Nascimento,1640,Andre Monteiro,W,1,Points,European NoGi,ABS,4F,2013
+4909,289,Alan do Nascimento,4328,AJ Agazarm,W,1,Referee Decision,European NoGi,ABS,SF,2013
+4925,289,Alan do Nascimento,909,Adriano Silva,W,1,Points,Rio Open,82KG,SF,2013
+5168,289,Alan do Nascimento,,Julien Cazier,W,1,N/A,London Open,88KG,SF,2013
+5169,289,Alan do Nascimento,8714,Max Carvalho,W,1,Points,London Open,88KG,F,2013
+5170,289,Alan do Nascimento,,Alan Oliveira,W,1,DQ,London Open,ABS,SF,2013
+5171,289,Alan do Nascimento,8714,Max Carvalho,W,1,Points,London Open,ABS,F,2013
+5181,289,Alan do Nascimento,,Tero Pyylampi,W,1,Pts: 5x2,Finnish Open,82KG,F,2013
+5818,289,Alan do Nascimento,4460,Jaime Canuto,W,1,Pts: 6x4,World Champ.,82KG,4F,2014
+6741,289,Alan do Nascimento,,Jack Magee,W,1,N/A,UK Pro Trials,85KG,4F,2015
+6742,289,Alan do Nascimento,,Unknown,W,1,Points,UK Pro Trials,85KG,SF,2015
+6743,289,Alan do Nascimento,,Viking Wong,W,1,Points,UK Pro Trials,85KG,F,2015
+7033,289,Alan do Nascimento,,Edcarlos de Lima,W,1,N/A,Rome Open,88KG,4F,2015
+7037,289,Alan do Nascimento,,Alberto Ortiz,W,1,N/A,Rome Open,88KG,SF,2015
+7038,289,Alan do Nascimento,7321,Darragh OConaill,W,1,Points,Rome Open,88KG,F,2015
+7044,289,Alan do Nascimento,7543,Nelton Pontes,W,1,Pts: 2x0,Rome Open,ABS,SF,2015
+7118,289,Alan do Nascimento,,Pedro Guaraci,W,1,Points,World Pro,85KG,R1,2015
+8945,289,Alan do Nascimento,,Jordi Lloveras,W,1,Armbar,European Open,82KG,4F,2016
+8949,289,Alan do Nascimento,7652,C. Negromonte,W,1,"Pts: 0x0, Adv",European Open,82KG,SF,2016
+8982,289,Alan do Nascimento,8714,Max Carvalho,W,1,"Pts: 0x0, Adv",European Open,ABS,R1,2016
+8994,289,Alan do Nascimento,1003,Diogo Sampaio,W,1,Pts: 2x0,European Open,ABS,R2,2016
+9042,289,Alan do Nascimento,7082,Luca Anacoreta,W,1,"Pts: 2x2, Adv",PNBJJC,88KG,GP,2016
+9044,289,Alan do Nascimento,,Gregorio Thomaz,W,1,Triangle,PNBJJC,88KG,GP,2016
+9046,289,Alan do Nascimento,6071,Gabriel Arges,W,1,DQ,PNBJJC,88KG,GP,2016
+9065,289,Alan do Nascimento,11703,Arya Esfandmaz,W,1,Points,UK National Pro,94KG,F,2016
+9067,289,Alan do Nascimento,11703,Arya Esfandmaz,W,1,Points,UK National Pro,ABS,F,2016
+9212,289,Alan do Nascimento,222,Bruno Amorim,W,1,Pts: 6x0,Grand Slam LDN,77KG,SF,2016
+9215,289,Alan do Nascimento,,Pedro Fernandes,W,1,Choke from back,Grand Slam LDN,77KG,F,2016
+9997,289,Alan do Nascimento,7082,Luca Anacoreta,W,1,Pts: 4x2,World Champ.,82KG,R2,2016
+10126,289,Alan do Nascimento,,Reid Reale,W,1,N/A,British National,94KG,SF,2016
+10975,289,Alan do Nascimento,,Michael Glynn,W,1,Triangle,NoGi Worlds,83KG,4F,2016
+10977,289,Alan do Nascimento,,Filipe Brobrick,W,1,Pts: 4x0,NoGi Worlds,83KG,SF,2016
+10978,289,Alan do Nascimento,6531,Richie Martinez,W,1,Pts: 10x0,NoGi Worlds,83KG,F,2016
+21049,289,Alan do Nascimento,10176,Bruno Lima,W,1,"Pts: 0x0, Adv",ACB World Champ.,85KG,SF,2019

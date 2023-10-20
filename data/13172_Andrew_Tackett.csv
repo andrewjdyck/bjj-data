@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+31522,13172,Andrew Tackett,,Damien Anderson,L,0,"Pts: 0x0, Pen",ADCC WC Trials,66KG,4F,2022
+33375,13172,Andrew Tackett,,Kyle Chambers,L,0,Kneebar,WNX,ABS,SF,2022
+31473,13172,Andrew Tackett,,Ricky Wetherell,W,1,Verbal tap,ADCC WC Trials,66KG,R1,2022
+31488,13172,Andrew Tackett,,Christian Major,W,1,RNC,ADCC WC Trials,66KG,R2,2022
+31504,13172,Andrew Tackett,,Manuel Priego,W,1,RNC,ADCC WC Trials,66KG,R3,2022
+31513,13172,Andrew Tackett,,Isaac Cordova,W,1,RNC,ADCC WC Trials,66KG,8F,2022
+32837,13172,Andrew Tackett,,Fabian Ramirez,W,1,Armbar,WNX,ABS,R1,2022
+32838,13172,Andrew Tackett,,Daniel Manasoiu,W,1,RNC,WNX,ABS,4F,2022
+33642,13172,Andrew Tackett,,Rene Sousa,W,1,RNC,WNO 13,ABS,SPF,2022
+33653,13172,Andrew Tackett,,N. Harrington,W,1,Triangle,Midwest F8,84KG,R1,2022
+33658,13172,Andrew Tackett,,Calvin Tacey,W,1,RNC,Midwest F8,84KG,4F,2022
+33662,13172,Andrew Tackett,,Michael Carpenter,W,1,RNC,Midwest F8,84KG,SF,2022
+33664,13172,Andrew Tackett,,Abraham Montagne,W,1,Armbar,Midwest F8,84KG,F,2022
+34933,13172,Andrew Tackett,,Todd deBato,W,1,RNC,ADCC Vegas,76KG,R1,2022
+34937,13172,Andrew Tackett,,Enrique Chaluja,W,1,RNC,ADCC Vegas,76KG,R2,2022
+34938,13172,Andrew Tackett,,Gabriel Perroud,W,1,Submission,ADCC Vegas,76KG,8F,2022
+34939,13172,Andrew Tackett,,Rob Winther,W,1,RNC,ADCC Vegas,76KG,4F,2022
+34940,13172,Andrew Tackett,,Daniel Larman,W,1,Triangle,ADCC Vegas,76KG,SF,2022
+34941,13172,Andrew Tackett,,J. Chen,W,1,RNC,ADCC Vegas,76KG,F,2022
+34991,13172,Andrew Tackett,,Gabriel Checco,W,1,Pts: 3x0,ADCC Vegas,ABS,8F,2022
+34993,13172,Andrew Tackett,,Breylor Grout,W,1,Guillotine,ADCC Vegas,ABS,4F,2022
+34998,13172,Andrew Tackett,13162,Jacob Couch,W,1,Pts: 2x0,ADCC Vegas,ABS,SF,2022
+34999,13172,Andrew Tackett,,Kevin Crane,W,1,RNC,ADCC Vegas,ABS,F,2022
+37836,13172,Andrew Tackett,,Murilo Takeshi,W,1,Kimura,Unrivaled 2,SPF,77KG,2023
+41996,13172,Andrew Tackett,,Troy Russell,W,1,RNC,WNO 19,77KG,SPF,2023
+43162,13172,Andrew Tackett,9344,PJ Barch,W,1,Referee Decision,WNO 20,77KG,SF,2023

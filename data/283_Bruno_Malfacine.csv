@@ -1,0 +1,81 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1397,283,Bruno Malfacine,465,F. Costa,L,0,Pts: 4x2,World Champ.,57KG,4F,2006
+1905,283,Bruno Malfacine,582,Caio Terra,L,0,RNC,World Champ.,57KG,SF,2008
+2800,283,Bruno Malfacine,1178,Theodoro Canal,L,0,Referee Decision,World Pro Trials,69KG,F,2011
+2844,283,Bruno Malfacine,260,Ary Farias,L,0,Pts: 6x4,European,64KG,F,2011
+2874,283,Bruno Malfacine,582,Caio Terra,L,0,Pts: 2x0,Pan American,64KG,F,2011
+2907,283,Bruno Malfacine,179,Rafael Mendes,L,0,Pts: 7x0,World Pro.,65KG,SF,2011
+2940,283,Bruno Malfacine,174,Bruno Frazatto,L,0,"Pts: 2x2, Adv",World P. NoGi,64KG,4F,2011
+4539,283,Bruno Malfacine,582,Caio Terra,L,0,Pts: 2x0,Pan American,57KG,F,2013
+4769,283,Bruno Malfacine,582,Caio Terra,L,0,Pts: 4x2,World Champ.,57KG,F,2013
+20573,283,Bruno Malfacine,5447,Mikey Musumeci,L,0,Pts: 10x8,World Champ.,57KG,SF,2019
+23059,283,Bruno Malfacine,10099,Thalison Soares,L,0,"Pts: 4x4, Adv",European Open,57KG,4F,2020
+29454,283,Bruno Malfacine,5447,Mikey Musumeci,L,0,Pts: 6x0,World Champ.,57KG,F,2021
+1729,283,Bruno Malfacine,465,F. Costa,W,1,Footlock,World Champ.,57KG,4F,2007
+1733,283,Bruno Malfacine,,Oga Mikio,W,1,Points,World Champ.,57KG,SF,2007
+1734,283,Bruno Malfacine,1122,Yusuke Honma,W,1,RNC,World Champ.,57KG,F,2007
+1891,283,Bruno Malfacine,465,F. Costa,W,1,Armbar,Brasileiro,57KG,F,2008
+2117,283,Bruno Malfacine,,Narciso Vilaca,W,1,RNC,Brasileiro CBJJE,57KG,4F,2009
+2118,283,Bruno Malfacine,,William Campos,W,1,Toe hold,Brasileiro CBJJE,57KG,SF,2009
+2119,283,Bruno Malfacine,,Jonas Fortunato,W,1,Toe hold,Brasileiro CBJJE,57KG,F,2009
+2201,283,Bruno Malfacine,3028,Leandro Escobar,W,1,Kneebar,Brasileiro NoGi,64KG,F,2009
+2313,283,Bruno Malfacine,,Mikio Oga,W,1,Choke from back,World Champ.,57KG,4F,2009
+2315,283,Bruno Malfacine,465,F. Costa,W,1,Armbar,World Champ.,57KG,SF,2009
+2316,283,Bruno Malfacine,582,Caio Terra,W,1,Adv,World Champ.,57KG,F,2009
+2481,283,Bruno Malfacine,,Andrea Verdimari,W,1,Kneebar,European,57KG,SF,2010
+2482,283,Bruno Malfacine,,Wekcilley Cruz,W,1,Toe hold,European,57KG,F,2010
+2531,283,Bruno Malfacine,465,F. Costa,W,1,Choke from back,Pan American,57KG,F,2010
+2649,283,Bruno Malfacine,465,F. Costa,W,1,Pts: 9x0,Brasileiro,57KG,F,2010
+2666,283,Bruno Malfacine,,Marcelo Pereira,W,1,Choke,World Champ.,57KG,4F,2010
+2667,283,Bruno Malfacine,582,Caio Terra,W,1,Adv,World Champ.,57KG,F,2010
+2799,283,Bruno Malfacine,,Gabriel Willcox,W,1,Adv,World Pro Trials,69KG,SF,2011
+2843,283,Bruno Malfacine,1799,Leandro Martins,W,1,Points,European,64KG,SF,2011
+2871,283,Bruno Malfacine,,Unknown,W,1,Wristlock,Pan American,64KG,4F,2011
+2872,283,Bruno Malfacine,613,Wellington Dias,W,1,Flying armbar,Pan American,64KG,SF,2011
+2902,283,Bruno Malfacine,1149,Reinaldo Ribeiro,W,1,Pts: 2x0,World Pro.,65KG,R1,2011
+2906,283,Bruno Malfacine,174,Bruno Frazatto,W,1,Points,World Pro.,65KG,4F,2011
+2937,283,Bruno Malfacine,613,Wellington Dias,W,1,Triangle,World P. NoGi,64KG,R1,2011
+2951,283,Bruno Malfacine,465,F. Costa,W,1,Pts: 23x0,Brasileiro,57KG,F,2011
+3003,283,Bruno Malfacine,1919,Koji Shibamoto,W,1,Choke from back,World Champ.,57KG,RDS,2011
+3098,283,Bruno Malfacine,2358,Brandon Mullins,W,1,Pts: 13x0,World Champ.,57KG,4F,2011
+3132,283,Bruno Malfacine,650,Josef Manuel,W,1,Pts: 10x0,World Champ.,57KG,SF,2011
+3148,283,Bruno Malfacine,582,Caio Terra,W,1,Pts: 4x2,World Champ.,57KG,F,2011
+3575,283,Bruno Malfacine,1019,Daniel Beleza,W,1,Footlock,Pan American,64KG,4F,2012
+3578,283,Bruno Malfacine,415,Guilherme Mendes,W,1,Pts: 2x0,Pan American,64KG,F,2012
+3710,283,Bruno Malfacine,1436,Samir Chantre,W,1,Points,NYC World Trials,65KG,F,2012
+3922,283,Bruno Malfacine,,Jordy Peute,W,1,Armbar,World Champ.,57KG,R2,2012
+3929,283,Bruno Malfacine,,Joao Carlos Hiroshi,W,1,Armbar,World Champ.,57KG,4F,2012
+3932,283,Bruno Malfacine,1753,Rafael Freitas,W,1,Bow and arrow,World Champ.,57KG,SF,2012
+3933,283,Bruno Malfacine,582,Caio Terra,W,1,Referee Decision,World Champ.,57KG,F,2012
+4372,283,Bruno Malfacine,610,Jeff Glover,W,1,Pts: 5x2,World Expo,ABS,SPF,2013
+4535,283,Bruno Malfacine,,Takahiko Yashioka,W,1,Armbar,Pan American,57KG,4F,2013
+4537,283,Bruno Malfacine,465,F. Costa,W,1,Submission,Pan American,57KG,SF,2013
+4763,283,Bruno Malfacine,8213,Raul Gomes,W,1,Submission,World Champ.,57KG,4F,2013
+4767,283,Bruno Malfacine,465,F. Costa,W,1,Triangle,World Champ.,57KG,SF,2013
+5729,283,Bruno Malfacine,,Joao Kuruoka,W,1,Armbar,World Champ.,57KG,RDS,2014
+5734,283,Bruno Malfacine,2358,Brandon Mullins,W,1,Bow and Arrow,World Champ.,57KG,4F,2014
+5738,283,Bruno Malfacine,2997,Joao Miyao,W,1,Referee Decision,World Champ.,57KG,F,2014
+6779,283,Bruno Malfacine,1919,Koji Shibamoto,W,1,Pts: 3x2,Pan American,57KG,SF,2015
+6780,283,Bruno Malfacine,582,Caio Terra,W,1,Choke from back,Pan American,57KG,F,2015
+7400,283,Bruno Malfacine,,Washington Lima,W,1,Crucifix choke,World Champ.,57KG,4F,2015
+7402,283,Bruno Malfacine,1753,Rafael Freitas,W,1,Armbar,World Champ.,57KG,SF,2015
+7403,283,Bruno Malfacine,2997,Joao Miyao,W,1,Adv,World Champ.,57KG,F,2015
+7567,283,Bruno Malfacine,1753,Rafael Freitas,W,1,Heel hook,W. Fitness Expo,ABS,SPF,2015
+9921,283,Bruno Malfacine,6258,Rodnei Barbosa,W,1,Pts: 7x0,World Champ.,57KG,4F,2016
+9923,283,Bruno Malfacine,5789,Tiago Barros,W,1,Armbar,World Champ.,57KG,SF,2016
+9924,283,Bruno Malfacine,582,Caio Terra,W,1,"Pts: 0x0, Adv",World Champ.,57KG,F,2016
+10308,283,Bruno Malfacine,610,Jeff Glover,D,0.5,---,Metamoris 7,ABS,SPF,2016
+12111,283,Bruno Malfacine,,Chad Lundy,W,1,Armbar,Pan American,58KG,4F,2017
+12113,283,Bruno Malfacine,7405,Eduardo Barboza,W,1,Bow and Arrow,Pan American,58KG,SF,2017
+12115,283,Bruno Malfacine,6043,Lucas Pinheiro,W,1,Pts: 9x2,Pan American,58KG,F,2017
+13049,283,Bruno Malfacine,,Javier Gomez,W,1,Triangle armbar,World Champ.,58KG,4F,2017
+13054,283,Bruno Malfacine,6060,Tomoyuki Hashimoto,W,1,Armbar,World Champ.,58KG,SF,2017
+13055,283,Bruno Malfacine,582,Caio Terra,W,1,"Pts: 4x4, Adv",World Champ.,58KG,F,2017
+16432,283,Bruno Malfacine,9502,Nobuhiro Sawada,W,1,Bow and arrow,World Champ.,57KG,R2,2018
+16434,283,Bruno Malfacine,7757,Juan Lopes,W,1,Choke from back,World Champ.,57KG,4F,2018
+16438,283,Bruno Malfacine,6060,Tomoyuki Hashimoto,W,1,Arm in Ezekiel,World Champ.,57KG,SF,2018
+16439,283,Bruno Malfacine,6258,Rodnei Barbosa,W,1,Armbar,World Champ.,57KG,F,2018
+20560,283,Bruno Malfacine,,Javier Gomez,W,1,Armbar,World Champ.,57KG,R1,2019
+20569,283,Bruno Malfacine,582,Caio Terra,W,1,Referee Decision,World Champ.,57KG,4F,2019
+29451,283,Bruno Malfacine,10099,Thalison Soares,W,1,Referee Decision,World Champ.,57KG,4F,2021
+29452,283,Bruno Malfacine,6258,Rodnei Barbosa,W,1,"Pts: 2x2, Adv",World Champ.,57KG,SF,2021

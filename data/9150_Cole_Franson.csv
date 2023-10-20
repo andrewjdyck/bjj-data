@@ -1,0 +1,53 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+17100,9150,Cole Franson,8632,Thiago Macedo,L,0,Points,Seattle Open,70KG,F,2018
+17264,9150,Cole Franson,9031,Kennedy Maciel,L,0,Points,Las Vegas Open,70KG,SF,2018
+17287,9150,Cole Franson,5636,Manuel Ribamar,L,0,Points,Las Vegas Open,ABS,4F,2018
+17313,9150,Cole Franson,7096,Josh Hinger,L,0,Anaconda choke,LV NG Open,ABS,SF,2018
+17827,9150,Cole Franson,6151,Hiago George,L,0,Pts: 6x4,LA BJJ Pro,70KG,SF,2018
+18113,9150,Cole Franson,8814,Adam Benayoun,L,0,Referee Decision,ADCC EC Trials,66KG,8F,2018
+18594,9150,Cole Franson,8069,Pablo Mantovani,L,0,Pts: 6x2,NoGi Worlds,67KG,R2,2018
+18885,9150,Cole Franson,2999,Paulo Miyao,L,0,Pts: 10x2,European Open,70KG,4F,2019
+19424,9150,Cole Franson,,Victor Matos,L,0,"Pts: 2x2, Adv",Grand Slam LDN,69KG,R1,2019
+19576,9150,Cole Franson,1436,Samir Chantre,L,0,"Pts: 2x2, Adv",Pan American,70KG,8F,2019
+19983,9150,Cole Franson,9074,Joao Mendes,L,0,"Pts: 4x4, Adv",San Jose Open,70KG,F,2019
+20592,9150,Cole Franson,9094,Richar Nogueira,L,0,Pts: 2x0,World Champ.,70KG,R1,2019
+21133,9150,Cole Franson,9876,Alef Brito,L,0,Points,Fresno Open,76KG,F,2019
+21142,9150,Cole Franson,10162,Ronaldo Junior,L,0,Armbar,Fresno Open,ABS,4F,2019
+22124,9150,Cole Franson,7698,Gabriel Marangoni,L,0,Referee Decision,Rome Fall Open,70KG,F,2019
+22154,9150,Cole Franson,9051,Gabriel Sousa,L,0,Pts: 10x0,European NoGi,67KG,F,2019
+22488,9150,Cole Franson,9031,Kennedy Maciel,L,0,Pts: 4x0,SJJIF World NG,67KG,SF,2019
+22494,9150,Cole Franson,8069,Pablo Mantovani,L,0,Pts: 2x0,SJJIF World NG,ABS,F,2019
+22801,9150,Cole Franson,9074,Joao Mendes,L,0,Referee Decision,F2W 133,70KG,SPF,2019
+22848,9150,Cole Franson,9051,Gabriel Sousa,L,0,"Pts: 0x0, Adv",NoGi Worlds,67KG,SF,2019
+25039,9150,Cole Franson,8138,Hugo Marques,L,0,Referee Decision,F2W 161,83KG,SPF,2021
+25262,9150,Cole Franson,8632,Thiago Macedo,L,0,Referee Decision,F2W 167,70KG,SPF,2021
+26606,9150,Cole Franson,12005,Kade Ruotolo,L,0,Buggy choke,WNO 10,74KG,SPF,2021
+17099,9150,Cole Franson,,Spenser Nogawa,W,1,Armbar,Seattle Open,70KG,SF,2018
+17111,9150,Cole Franson,,Caleb Khan,W,1,Points,Seattle Open,ABS,4F,2018
+17113,9150,Cole Franson,,Wellington Modena,W,1,Estima lock,Seattle Open,ABS,F,2018
+17259,9150,Cole Franson,,Josh Michael,W,1,Estima lock,Las Vegas Open,70KG,R1,2018
+17294,9150,Cole Franson,,Michael Main,W,1,Points,LV NG Open,67KG,SF,2018
+17295,9150,Cole Franson,9094,Richar Nogueira,W,1,Guillotine,LV NG Open,67KG,F,2018
+17311,9150,Cole Franson,,Josh Murdock,W,1,Guillotine,LV NG Open,ABS,4F,2018
+17320,9150,Cole Franson,,Tomoshige Sera,W,1,Bow and arrow,Asian Open,70KG,4F,2018
+17321,9150,Cole Franson,,Hiroaki Otsuka,W,1,Pts: 15x0,Asian Open,70KG,F,2018
+17615,9150,Cole Franson,,Chad George,W,1,Referee Decision,Subversiv,70KG,SPF,2018
+18102,9150,Cole Franson,,K. Stewart,W,1,Armbar,ADCC EC Trials,66KG,R1,2018
+18108,9150,Cole Franson,,F. Ramirez,W,1,Pts: 9x0,ADCC EC Trials,66KG,R2,2018
+18208,9150,Cole Franson,,Gerson Atiogue,W,1,Triangle,F2W 93,70KG,SPF,2018
+18516,9150,Cole Franson,898,Bill Cooper,W,1,Referee Decision,F2W 96,70KG,SPF,2018
+18587,9150,Cole Franson,,Marvin Castelle,W,1,Pts: 12x4,NoGi Worlds,67KG,R1,2018
+18883,9150,Cole Franson,,Andrey Adam,W,1,Triangle,European Open,70KG,R1,2019
+19980,9150,Cole Franson,,Edward Nicholas,W,1,Submission,San Jose Open,70KG,4F,2019
+19982,9150,Cole Franson,,Vitor Paschoal,W,1,Submission,San Jose Open,70KG,SF,2019
+20468,9150,Cole Franson,,Shane Torres,W,1,Armbar,F2W 112,70KG,SPF,2019
+20499,9150,Cole Franson,9465,Endres Barbosa,W,1,Points,Denver Open,76KG,SF,2019
+20501,9150,Cole Franson,,Paulo Martins,W,1,Referee Decision,Denver Open,76KG,F,2019
+21132,9150,Cole Franson,,Piter Frank,W,1,Points,Fresno Open,76KG,SF,2019
+22122,9150,Cole Franson,,Tomer Alroy,W,1,Choke from back,Rome Fall Open,70KG,SF,2019
+22147,9150,Cole Franson,12751,Sam McNally,W,1,Straight ankle lock,European NoGi,67KG,R1,2019
+22151,9150,Cole Franson,,Luca Caracciolo,W,1,Triangle,European NoGi,67KG,4F,2019
+22152,9150,Cole Franson,7698,Gabriel Marangoni,W,1,"Pts: 8x8, Adv",European NoGi,67KG,SF,2019
+22414,9150,Cole Franson,,Alex Canders,W,1,Referee Decision,F2W 131,70KG,SPF,2019
+22492,9150,Cole Franson,9031,Kennedy Maciel,W,1,Pts: 2x0,SJJIF World NG,ABS,SF,2019
+22844,9150,Cole Franson,9064,Silvio Duran,W,1,Pts: 8x2,NoGi Worlds,67KG,4F,2019

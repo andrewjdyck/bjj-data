@@ -1,0 +1,33 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+20907,10357,Richard Alarcon,6043,Lucas Pinheiro,L,0,"Pts: 2x2, Adv",American NG Nats,61KG,F,2019
+21375,10357,Richard Alarcon,2997,Joao Miyao,L,0,RNC,Kasai Pro 6,61KG,RR,2019
+21874,10357,Richard Alarcon,9031,Kennedy Maciel,L,0,Pts: 2x0,ADCC,66KG,4F,2019
+22724,10357,Richard Alarcon,9401,Ashley Williams,L,0,Armbar,Polaris 12,61KG,SPF,2019
+22835,10357,Richard Alarcon,2997,Joao Miyao,L,0,Pts: 13x2,NoGi Worlds,61KG,4F,2019
+24443,10357,Richard Alarcon,8038,Hiago Gama,L,0,"Pts: 0x0, Adv",No Gi Pan Am.,62KG,4F,2020
+26087,10357,Richard Alarcon,2999,Paulo Miyao,L,0,Pts: 5x0,NoGi Pan Am.,61KG,SF,2021
+26715,10357,Richard Alarcon,,Joao Soeiro,L,0,Pts: 4x2,American NGN,61KG,F,2021
+27207,10357,Richard Alarcon,,Damien Anderson,L,0,Kimura,Emerald City,65KG,R1,2021
+28213,10357,Richard Alarcon,,Bebeto Oliveira,L,0,"Pts: 0x0, Adv",NoGi Worlds,61KG,4F,2021
+28448,10357,Richard Alarcon,5447,Mikey Musumeci,L,0,Mikey lock,WNO 10,65KG,SPF,2021
+36811,10357,Richard Alarcon,8814,Adam Benayoun,L,0,Pts: 4x2,NoGi Worlds,67KG,R1,2022
+42240,10357,Richard Alarcon,,Hsr Haviv,L,0,Pts: 9x6,UWW World NG,66KG,4F,2023
+20906,10357,Richard Alarcon,,Taylor Monroe,W,1,Pts: 3x0,American NG Nats,61KG,SF,2019
+20976,10357,Richard Alarcon,,Spencer Mumme,W,1,Pts: 18x1,KASAI SS Florida,62KG,4F,2019
+20977,10357,Richard Alarcon,,David Weintraub,W,1,Heel hook,KASAI SS Florida,62KG,SF,2019
+20978,10357,Richard Alarcon,,Edwin Ocasio,W,1,Points,KASAI SS Florida,62KG,F,2019
+21376,10357,Richard Alarcon,9401,Ashley Williams,W,1,Pts: 3x2,Kasai Pro 6,61KG,RR,2019
+21385,10357,Richard Alarcon,8767,Jon Calestine,W,1,Pts: 4x0,Kasai Pro 6,61KG,3RD,2019
+21870,10357,Richard Alarcon,4248,Gianni Grippo,W,1,Pts: 4x0,ADCC,66KG,R1,2019
+26079,10357,Richard Alarcon,,John Stapleton,W,1,Pts: 21x0,NoGi Pan Am.,61KG,R1,2021
+26084,10357,Richard Alarcon,7405,Eduardo Barboza,W,1,Pts: 2x0,NoGi Pan Am.,61KG,4F,2021
+26714,10357,Richard Alarcon,,Reynaldo Leon,W,1,Pts: 5x0,American NGN,61KG,SF,2021
+31476,10357,Richard Alarcon,,Lewis McLendon,W,1,Referee Decision,ADCC WC Trials,66KG,R1,2022
+31491,10357,Richard Alarcon,,Steven Gomez,W,1,Pts: 2x0,ADCC WC Trials,66KG,R2,2022
+31507,10357,Richard Alarcon,,Gavin Corbe,W,1,Pts: 6x0,ADCC WC Trials,66KG,R3,2022
+39292,10357,Richard Alarcon,,Kaue Cavassani,W,1,RNC,ADCC OC,65KG,R1,2023
+39296,10357,Richard Alarcon,,Joshua Flores,W,1,Pts: 2x0,ADCC OC,65KG,8F,2023
+39298,10357,Richard Alarcon,,Sam Acosta,W,1,Pts: 3x0,ADCC OC,65KG,4F,2023
+39301,10357,Richard Alarcon,,Logan Marshall,W,1,Pts: 3x0,ADCC OC,65KG,SF,2023
+39303,10357,Richard Alarcon,,Damon Morgan,W,1,Pts: 5x2,ADCC OC,65KG,F,2023
+42239,10357,Richard Alarcon,,Sergio Riquelme,W,1,Pts: 3x2,UWW World NG,66KG,8F,2023

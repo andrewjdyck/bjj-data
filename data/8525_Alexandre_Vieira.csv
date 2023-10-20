@@ -1,0 +1,87 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6930,8525,Alexandre Vieira,4851,Kim Terra,L,0,Pts: 7x4,Rio Fall Open,70KG,F,2015
+6976,8525,Alexandre Vieira,,Fernando Carsadale,L,0,Pts: 2x0,ADCC RJ,66KG,SF,2015
+7057,8525,Alexandre Vieira,7698,Gabriel Marangoni,L,0,Pts: 3x0,ADCC SP,66KG,F,2015
+7963,8525,Alexandre Vieira,4996,Geo Martinez,L,0,Armbar,ADCC,66KG,R1,2015
+10835,8525,Alexandre Vieira,5715,Isaque Paiva,L,0,RNC,Brasileiro NoGi,67KG,4F,2016
+11035,8525,Alexandre Vieira,6599,Rafael Mansur,L,0,Adv,Grand Slam RJ,69KG,4F,2016
+11557,8525,Alexandre Vieira,147,Rubens Charles,L,0,Choke from back,European Open,70KG,4F,2017
+12141,8525,Alexandre Vieira,3110,Victor Genovesi,L,0,Armbar,Pan American,70KG,4F,2017
+12291,8525,Alexandre Vieira,4521,Erberth Santos,L,0,Cross face,Rio F. NG Open,ABS,SF,2017
+13384,8525,Alexandre Vieira,,Shiraki Daisuke,L,0,RNC,Grand Slam TYO,69KG,SF,2017
+13795,8525,Alexandre Vieira,8632,Thiago Macedo,L,0,Pts: 4x0,Grand Slam LA,69KG,4F,2017
+13801,8525,Alexandre Vieira,,Vitor Moraes,L,0,"Pts: 0x0, Adv",Grand Slam LA,69KG,3RD,2017
+14610,8525,Alexandre Vieira,8069,Pablo Mantovani,L,0,Pts: 15x0,ACB JJ Worlds,65KG,SF,2017
+14821,8525,Alexandre Vieira,,Joao Bosco,L,0,Submission,Grand Slam AD,69KG,R1,2018
+14993,8525,Alexandre Vieira,12376,Rodrigo Francioni,L,0,"Pts: 0x0, Adv",BR National Pro,69KG,F,2018
+15000,8525,Alexandre Vieira,,Rodrigo Dias,L,0,Injury,BR National Pro,LWA,F,2018
+15491,8525,Alexandre Vieira,,Victor Moraes,L,0,Pts: 5x2,Grand Slam LDN,69KG,SF,2018
+15495,8525,Alexandre Vieira,,Max Campos,L,0,Pts: 6x0,Grand Slam LDN,69KG,RPC,2018
+15961,8525,Alexandre Vieira,8800,Matheus Gonzaga,L,0,Pts: 7x0,NY Spring Open,70KG,4F,2018
+16317,8525,Alexandre Vieira,8116,Dante Leon,L,0,Pts: 7x0,Dallas SPO,ABS,4F,2018
+16440,8525,Alexandre Vieira,7657,Cleber Sousa,L,0,Toe hold,World Champ.,64KG,R1,2018
+17226,8525,Alexandre Vieira,9465,Endres Barbosa,L,0,Referee Decision,Joao Pessoa Pro,ABS,SF,2018
+17466,8525,Alexandre Vieira,8884,Alex Sodre,L,0,Armbar,Sao Paulo Open,70KG,4F,2018
+17931,8525,Alexandre Vieira,12372,Francisco Cuneo,L,0,Points,Curitiba SPNGO,73KG,SF,2018
+18593,8525,Alexandre Vieira,7872,Gilson Nunes,L,0,"Pts: 0x0, Adv",NoGi Worlds,67KG,R2,2018
+20243,8525,Alexandre Vieira,,Osmar Telles,L,0,Pts: 2x0,Brasileiro,70KG,R1,2019
+20876,8525,Alexandre Vieira,,Felipe Araujo,L,0,Points,Fortaleza Open,70KG,SF,2019
+20887,8525,Alexandre Vieira,,Jonas Bruno,L,0,N/A,Fortaleza Open,ABS,SF,2019
+21774,8525,Alexandre Vieira,10953,Danilo Moreira,L,0,Pts: 5x0,Brasileiro NoGi,67KG,4F,2019
+21811,8525,Alexandre Vieira,10644,Marcelo Gomide,L,0,Points,Brasileiro NoGi,ABS,4F,2019
+22079,8525,Alexandre Vieira,11512,Lukete Silva,L,0,No arm triangle,BH SPO,70KG,SF,2019
+28744,8525,Alexandre Vieira,11568,Josh Cisneros,L,0,Triangle,AIGA World,70KG,4F,2021
+35774,8525,Alexandre Vieira,2999,Paulo Miyao,L,0,Inside heel hook,BJJ Stars,70KG,SPF,2022
+41529,8525,Alexandre Vieira,11939,Jackson Douglas,L,0,Points,Austin NGO,ABS,4F,2023
+41540,8525,Alexandre Vieira,,JP Rocha,L,0,N/A,Orlando SMO,70KG,4F,2023
+41595,8525,Alexandre Vieira,,Jorge Barba,L,0,RNC,Orlando SMNGO,ABS,SF,2023
+6929,8525,Alexandre Vieira,,Johnny Crispim,W,1,Choke,Rio Fall Open,70KG,SF,2015
+6947,8525,Alexandre Vieira,8874,Thomas Lisboa,W,1,Crucifix choke,Rio Fall NoGi,67KG,SF,2015
+6948,8525,Alexandre Vieira,,Rodrigo Socorro,W,1,Crucifix choke,Rio Fall NoGi,67KG,F,2015
+6973,8525,Alexandre Vieira,,Pedro Nejaime,W,1,RNC,ADCC RJ,66KG,R2,2015
+6974,8525,Alexandre Vieira,,De Assis,W,1,RNC,ADCC RJ,66KG,R3,2015
+6975,8525,Alexandre Vieira,,Victor Dias,W,1,RNC,ADCC RJ,66KG,4F,2015
+6979,8525,Alexandre Vieira,,Bruno Celio,W,1,RNC,ADCC RJ,66KG,3RD,2015
+7052,8525,Alexandre Vieira,8874,Thomas Lisboa,W,1,Crucifix choke,ADCC SP,66KG,R2,2015
+7053,8525,Alexandre Vieira,,R. Cardoso,W,1,RNC,ADCC SP,66KG,4F,2015
+7056,8525,Alexandre Vieira,,Antonio Guimaraes,W,1,RNC,ADCC SP,66KG,SF,2015
+10834,8525,Alexandre Vieira,,Julio Rufino,W,1,RNC,Brasileiro NoGi,67KG,R1,2016
+11030,8525,Alexandre Vieira,,Pedro Neto,W,1,Collar choke,Grand Slam RJ,69KG,R2,2016
+11105,8525,Alexandre Vieira,,Geovan Carmo,W,1,RNC,G.S. Rio NoGi,66KG,F,2016
+11552,8525,Alexandre Vieira,,Tuomas Tamilehto,W,1,Choke,European Open,70KG,8F,2017
+12130,8525,Alexandre Vieira,,Nielton Soares,W,1,Crucifix choke,Pan American,70KG,R1,2017
+12137,8525,Alexandre Vieira,174,Bruno Frazatto,W,1,Crucifix choke,Pan American,70KG,8F,2017
+12289,8525,Alexandre Vieira,,Unknown,W,1,Crucifix choke,Rio F. NG Open,ABS,R1,2017
+12290,8525,Alexandre Vieira,,Unknown,W,1,RNC,Rio F. NG Open,ABS,4F,2017
+13382,8525,Alexandre Vieira,,Tomoshige Sera,W,1,RNC,Grand Slam TYO,69KG,4F,2017
+13386,8525,Alexandre Vieira,,Ricardo Yagi,W,1,Loop choke,Grand Slam TYO,69KG,RR,2017
+13387,8525,Alexandre Vieira,,Tomoshige Sera,W,1,Loop choke,Grand Slam TYO,69KG,3RD,2017
+13791,8525,Alexandre Vieira,,Gabriel Revoredo,W,1,Choke,Grand Slam LA,69KG,R1,2017
+13799,8525,Alexandre Vieira,9385,Brandon Walensky,W,1,Crucifix choke,Grand Slam LA,69KG,RR,2017
+14608,8525,Alexandre Vieira,4851,Kim Terra,W,1,RNC,ACB JJ Worlds,65KG,4F,2017
+14612,8525,Alexandre Vieira,,Asadulaev Agate,W,1,RNC,ACB JJ Worlds,65KG,3RD,2017
+14989,8525,Alexandre Vieira,,Helder Campoz,W,1,Choke,BR National Pro,69KG,4F,2018
+14991,8525,Alexandre Vieira,,Raphael Cadena,W,1,Choke,BR National Pro,69KG,SF,2018
+14999,8525,Alexandre Vieira,,Jorge Nakamura,W,1,Choke,BR National Pro,LWA,SF,2018
+15267,8525,Alexandre Vieira,,Helder Campoz,W,1,Choke,SA Continental Pro,69KG,4F,2018
+15268,8525,Alexandre Vieira,,Rodrigo C.,W,1,Choke,SA Continental Pro,69KG,SF,2018
+15269,8525,Alexandre Vieira,,Jonathans Veiga,W,1,Choke,SA Continental Pro,69KG,F,2018
+15488,8525,Alexandre Vieira,,Igor Terreco,W,1,Crucifix choke,Grand Slam LDN,69KG,4F,2018
+17222,8525,Alexandre Vieira,,Henrique Gomes,W,1,Submission,Joao Pessoa Pro,69KG,RR,2018
+17223,8525,Alexandre Vieira,,Henrique Gomes,W,1,Submission,Joao Pessoa Pro,69KG,F,2018
+17225,8525,Alexandre Vieira,,Esdras Junior,W,1,Choke,Joao Pessoa Pro,ABS,4F,2018
+17677,8525,Alexandre Vieira,,Elifrank Nascimento,W,1,RNC,Brasileiro NoGi,67KG,4F,2018
+17678,8525,Alexandre Vieira,,Marcio Nascimento,W,1,Triangle,Brasileiro NoGi,67KG,SF,2018
+17679,8525,Alexandre Vieira,5789,Tiago Barros,W,1,Referee Decision,Brasileiro NoGi,67KG,F,2018
+20804,8525,Alexandre Vieira,,Pedro Teixeira,W,1,RNC,Rio Open,70KG,4F,2019
+20807,8525,Alexandre Vieira,,Jorge Nakamura,W,1,Crucifix choke,Rio Open,70KG,SF,2019
+20808,8525,Alexandre Vieira,,Yago Rodrigues,W,1,Loop choke,Rio Open,70KG,F,2019
+20874,8525,Alexandre Vieira,,Davi Oliveira,W,1,Crucifix choke,Fortaleza Open,70KG,4F,2019
+20886,8525,Alexandre Vieira,,Herico Hesley,W,1,Crucifix choke,Fortaleza Open,ABS,4F,2019
+20891,8525,Alexandre Vieira,,Jose Robson,W,1,Submission,Fortaleza NGO,67KG,F,2019
+21086,8525,Alexandre Vieira,,Eduardo Botega,W,1,Submission,BH Winter Open,70KG,SF,2019
+21087,8525,Alexandre Vieira,,Bernardo Dib,W,1,Crucifix choke,BH Winter Open,70KG,F,2019
+21806,8525,Alexandre Vieira,,Edward Hohl,W,1,Katagatame,Brasileiro NoGi,ABS,R1,2019
+41514,8525,Alexandre Vieira,9760,Frank Rosenthal,W,1,N/A,Austin NGO,67KG,F,2023
+41579,8525,Alexandre Vieira,,Kalel Santos,W,1,N/A,Orlando SMNGO,67KG,F,2023
+41593,8525,Alexandre Vieira,,Jose Munoz,W,1,Crucifix choke,Orlando SMNGO,ABS,4F,2023

@@ -1,0 +1,140 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4385,6156,Tanner Rice,4859,Ricardo Rezende,L,0,Points,Miami Pro Trials,85KG,NA,2013
+4497,6156,Tanner Rice,7114,Marcus Antelante,L,0,Referee Decision,BJJ Tour,82KG,RR,2013
+4524,6156,Tanner Rice,144,Andre Galvao,L,0,Bow and arrow,Pan American,ABS,R2,2013
+4571,6156,Tanner Rice,,Nate Mendelsohn,L,0,N/A,Pan American,76KG,R2,2013
+5292,6156,Tanner Rice,9711,Jurandir Conceicao,L,0,Footlock,Pan American,ABS,R1,2014
+5474,6156,Tanner Rice,,Brian Carlsen,L,0,Pts: 3x0,FIVE Cali. 2,ABS,4F,2014
+5495,6156,Tanner Rice,2107,Otavio Sousa,L,0,Pts: 9x0,WP Montreal,85KG,NA,2014
+5500,6156,Tanner Rice,3083,Abraham Marte,L,0,Cross choke,WP Montreal,ABS,4F,2014
+5699,6156,Tanner Rice,224,Roberto Abreu,L,0,N/A,World Champ.,ABS,R2,2014
+5802,6156,Tanner Rice,921,Rafael Barbosa,L,0,Points,World Champ.,82KG,RDS,2014
+5911,6156,Tanner Rice,921,Rafael Barbosa,L,0,Pts: 4x2,Dallas Open,82KG,SF,2014
+5949,6156,Tanner Rice,967,JT Torres,L,0,Points,American Nat.,82KG,SF,2014
+6043,6156,Tanner Rice,3009,Keenan Cornelius,L,0,Kneebar,NoGi Worlds,88KG,4F,2014
+6415,6156,Tanner Rice,1523,Clark Gracie,L,0,Referee Decision,US Nat. Pro,82KG,4F,2015
+6732,6156,Tanner Rice,1740,Yuri Simoes,L,0,Armbar,SF Open,ABS,SF,2015
+6843,6156,Tanner Rice,2035,Vitor Oliveira,L,0,Pts: 7x4,Pan American,82KG,4F,2015
+7028,6156,Tanner Rice,4310,Tim Spriggs,L,0,Referee Decision,NY Spring Open,ABS,SF,2015
+7380,6156,Tanner Rice,926,Roberto Alencar,L,0,Adv,World Champ.,ABS,R1,2015
+7457,6156,Tanner Rice,1617,Victor Estima,L,0,Estima lock,World Champ.,82KG,8F,2015
+8012,6156,Tanner Rice,1827,James Puopolo,L,0,Kneebar,Santa Cruz Pro,O94KG,F,2015
+9315,6156,Tanner Rice,4145,Thiago Sa,L,0,Pts: 6x4,Pan American,88KG,8F,2016
+10032,6156,Tanner Rice,3009,Keenan Cornelius,L,0,Armbar,World Champ.,88KG,8F,2016
+10218,6156,Tanner Rice,1003,Diogo Sampaio,L,0,N/A,American Nats,88KG,F,2016
+10487,6156,Tanner Rice,576,Rafael Lovato,L,0,Cross choke,F2W 11,ABS,SPF,2016
+10714,6156,Tanner Rice,3009,Keenan Cornelius,L,0,Pts: 6x0,BJJ Pro LA,94KG,SF,2016
+11315,6156,Tanner Rice,7922,Nick Schrock,L,0,"Pts: 0x0, Adv",Long Beach Open,94KG,F,2016
+11625,6156,Tanner Rice,1188,Leandro Lo,L,0,Armbar,European Open,94KG,F,2017
+12029,6156,Tanner Rice,7922,Nick Schrock,L,0,Referee Decision,FIVE Super League,92KG,SF,2017
+12103,6156,Tanner Rice,1757,Alexander Trans,L,0,Pts: 2x0,Pan American,ABS,8F,2017
+12235,6156,Tanner Rice,1188,Leandro Lo,L,0,Pts: 2x0,Pan American,94KG,F,2017
+12843,6156,Tanner Rice,2416,Felipe Pena,L,0,Pts: 7x2,Marianas,O82KG,SF,2017
+13040,6156,Tanner Rice,4521,Erberth Santos,L,0,Pts: 2x0,World Champ.,ABS,4F,2017
+13189,6156,Tanner Rice,7478,Adam Wardzinski,L,0,Arm in Ezekiel,World Champ.,94KG,8F,2017
+13362,6156,Tanner Rice,7096,Josh Hinger,L,0,Guillotine,American Nats,94KG,SF,2017
+13827,6156,Tanner Rice,,Felipe Matos,L,0,Pts: 4x0,Grand Slam LA,94KG,4F,2017
+13838,6156,Tanner Rice,,Felipe Matos,L,0,Pts: 5x0,Grand Slam LA,110KG,4F,2017
+15158,6156,Tanner Rice,4235,Victor Silverio,L,0,Pts: 3x2,Houston Open,ABS,SF,2018
+15354,6156,Tanner Rice,9246,Tex Johnson,L,0,Kneebar,Pan American,ABS,R2,2018
+15442,6156,Tanner Rice,1188,Leandro Lo,L,0,Pts: 2x0,Pan American,94KG,F,2018
+16025,6156,Tanner Rice,2416,Felipe Pena,L,0,Points,Marianas Open,100KG,SF,2018
+16060,6156,Tanner Rice,1757,Alexander Trans,L,0,Pts: 2x0,King of Mats,110KG,RR,2018
+16068,6156,Tanner Rice,,Roberto Cyborg,L,0,Referee Decision,King of Mats,110KG,SF,2018
+16103,6156,Tanner Rice,2226,DJ Jackson,L,0,"Pts: 0x0, Adv",WP US Qualifier,94KG,RR,2018
+16178,6156,Tanner Rice,7478,Adam Wardzinski,L,0,Referee Decision,World Pro,94KG,4F,2018
+16183,6156,Tanner Rice,7704,Helton Jose,L,0,Pts: 8x0,World Pro,94KG,RPC,2018
+17603,6156,Tanner Rice,6805,Max Gimenis,L,0,"Pts: 0x0, Adv",Grand Slam LA,110KG,4F,2018
+17628,6156,Tanner Rice,1534,R. Evangelista,L,0,Toe hold,King of Mats,110KG,RR,2018
+17634,6156,Tanner Rice,6071,Gabriel Arges,L,0,Pts: 4x0,King of Mats,110KG,RR,2018
+17640,6156,Tanner Rice,7478,Adam Wardzinski,L,0,Pts: 2x0,King of Mats,110KG,RR,2018
+17646,6156,Tanner Rice,8195,Gutemberg Pereira,L,0,"Pts: 2x2, Adv",King of Mats,110KG,RR,2018
+18944,6156,Tanner Rice,5509,Victor Honorio,L,0,Pts: 6x0,European Open,O100KG,F,2019
+19666,6156,Tanner Rice,5842,Mahamed Aly,L,0,Injury,Pan American,100KG,SF,2019
+20491,6156,Tanner Rice,8974,Kaynan Duarte,L,0,Referee Decision,F2W 113,94KG,SPF,2019
+20697,6156,Tanner Rice,5417,Guilherme Augusto,L,0,Pts: 6x0,World Champ.,100KG,R1,2019
+20729,6156,Tanner Rice,7507,Nicholas Meregali,L,0,Armbar,World Champ.,ABS,R2,2019
+20904,6156,Tanner Rice,7704,Helton Jose,L,0,Referee Decision,F2W 116,94KG,SPF,2019
+23146,6156,Tanner Rice,9230,Matheus Felipe,L,0,"Pts: 0x0, Adv",European Open,O100KG,4F,2020
+23779,6156,Tanner Rice,8357,Gustavo Batista,L,0,Points,3CG Kumite II,ABS,4F,2020
+23881,6156,Tanner Rice,320,Romulo Barral,L,0,Referee Decision,F2W 150,100KG,SPF,2020
+4160,6156,Tanner Rice,613,Wellington Dias,W,1,Kimura,Fall Open,76KG,F,2012
+4161,6156,Tanner Rice,188,Augusto Mendes,W,1,Pts: 4x0,IBJJF Pro League,82KG,4F,2012
+4498,6156,Tanner Rice,,Nate Mendelsohn,W,1,Points,BJJ Tour,82KG,RR,2013
+4499,6156,Tanner Rice,7114,Marcus Antelante,W,1,Flying triangle,BJJ Tour,82KG,F,2013
+4506,6156,Tanner Rice,4177,Gustavo Dias,W,1,Referee Decision,Pan American,ABS,R1,2013
+5467,6156,Tanner Rice,,Matt Baker,W,1,Referee Decision,FIVE Cali. 2,82KG,4F,2014
+5468,6156,Tanner Rice,12617,Sean Roberts,W,1,Points,FIVE Cali. 2,82KG,SF,2014
+5607,6156,Tanner Rice,,A. Vieira,W,1,Armbar,Copa Podio,77KG,SPF,2014
+5946,6156,Tanner Rice,,Unknown,W,1,Points,American Nat.,82KG,4F,2014
+6728,6156,Tanner Rice,5930,Rodrigo Freitas,W,1,Points,SF Open,ABS,4F,2015
+6738,6156,Tanner Rice,,Ken Primola,W,1,Armbar,SF Open,88KG,F,2015
+6820,6156,Tanner Rice,256,Oliver Geddes,W,1,Pts: 3x0,Pan American,82KG,R1,2015
+6838,6156,Tanner Rice,,Magid Hage,W,1,Points,Pan American,82KG,R3,2015
+7021,6156,Tanner Rice,,Todd Brandon,W,1,Points,NY Spring Open,88KG,SF,2015
+7027,6156,Tanner Rice,6354,Jonathan Satava,W,1,Adv,NY Spring Open,ABS,4F,2015
+7450,6156,Tanner Rice,,Thomas Oyarzun,W,1,Points,World Champ.,82KG,R1,2015
+7623,6156,Tanner Rice,,Sean Fisher,W,1,Points,American Nat.,82KG,4F,2015
+7624,6156,Tanner Rice,,Marcos Campos,W,1,Points,American Nat.,82KG,SF,2015
+7627,6156,Tanner Rice,7321,Darragh OConaill,W,1,Points,American Nat.,82KG,F,2015
+7822,6156,Tanner Rice,,Javier Yamuni,W,1,Points,Chicago S. Open,82KG,F,2015
+8010,6156,Tanner Rice,7519,Eliot Kelly,W,1,Points,Santa Cruz Pro,O94KG,SF,2015
+8257,6156,Tanner Rice,1322,Gregor Gracie,W,1,Referee Decision,Grand Slam LA,85KG,4F,2015
+8261,6156,Tanner Rice,6351,Alec Baulding,W,1,Referee Decision,Grand Slam LA,85KG,SF,2015
+8262,6156,Tanner Rice,5655,Lucas Barbosa,W,1,"Pts: 0x0, Adv",Grand Slam LA,85KG,F,2015
+8747,6156,Tanner Rice,,Jason Ackerman,W,1,Bow and arrow,Irvine Open,94KG,SF,2015
+8748,6156,Tanner Rice,7743,Inacio Neto,W,1,Referee Decision,Irvine Open,94KG,F,2015
+9028,6156,Tanner Rice,,Brian Morizi,W,1,Points,San Jose Open,88KG,SF,2016
+9030,6156,Tanner Rice,7760,Pedro Mello,W,1,"Pts: 2x2, Adv",San Jose Open,88KG,F,2016
+9034,6156,Tanner Rice,7519,Eliot Kelly,W,1,Pts: 4x0,San Jose Open,ABS,F,2016
+9309,6156,Tanner Rice,,Joshua Bowlin,W,1,Pts: 7x4,Pan American,88KG,R1,2016
+10022,6156,Tanner Rice,1322,Gregor Gracie,W,1,"Pts: 4x4, Adv",World Champ.,88KG,R1,2016
+10216,6156,Tanner Rice,5655,Lucas Barbosa,W,1,Points,American Nats,88KG,SF,2016
+10317,6156,Tanner Rice,,Mauricio Alonso,W,1,Choke,F2W 8,72KG,SPF,2016
+10379,6156,Tanner Rice,7922,Nick Schrock,W,1,"Pts: 5x5, Adv",Ch. Summer Open,94KG,F,2016
+10712,6156,Tanner Rice,7743,Inacio Neto,W,1,Triangle armbar,BJJ Pro LA,94KG,4F,2016
+10826,6156,Tanner Rice,,Manny Rocha,W,1,Pts: 40x4,US Open,95KG,4F,2016
+10828,6156,Tanner Rice,477,Tarsis Humphreys,W,1,"Pts: 0x0, Adv",US Open,95KG,SF,2016
+11615,6156,Tanner Rice,,Tyrone Goncalves,W,1,Points,European Open,94KG,8F,2017
+11619,6156,Tanner Rice,,Leandro Costa,W,1,Pts: 32x0,European Open,94KG,4F,2017
+11623,6156,Tanner Rice,7478,Adam Wardzinski,W,1,Referee Decision,European Open,94KG,SF,2017
+12026,6156,Tanner Rice,7519,Eliot Kelly,W,1,Referee Decision,FIVE Super League,92KG,4F,2017
+12031,6156,Tanner Rice,477,Tarsis Humphreys,W,1,Estima lock,FIVE Super League,92KG,3RD,2017
+12093,6156,Tanner Rice,,Eduardo Inojosa,W,1,"Pts: 0x0, Adv",Pan American,ABS,R1,2017
+12224,6156,Tanner Rice,9246,Tex Johnson,W,1,Pts: 4x2,Pan American,94KG,8F,2017
+12230,6156,Tanner Rice,,Antonio Antonioli,W,1,Armbar,Pan American,94KG,4F,2017
+12233,6156,Tanner Rice,4960,Dimitrius Souza,W,1,Referee Decision,Pan American,94KG,SF,2017
+12841,6156,Tanner Rice,,Joshua Jerome,W,1,Choke,Marianas,O82KG,4F,2017
+13025,6156,Tanner Rice,1827,James Puopolo,W,1,Armbar,World Champ.,ABS,R1,2017
+13034,6156,Tanner Rice,7537,Felipe Bezerra,W,1,"Pts: 0x0, Adv",World Champ.,ABS,8F,2017
+13358,6156,Tanner Rice,,Wellington Peroto,W,1,N/A,American Nats,94KG,4F,2017
+14537,6156,Tanner Rice,,Charles McGuire,W,1,Points,San Antonio Open,94KG,F,2017
+15026,6156,Tanner Rice,,Nicholas Laurence,W,1,Choke from back,LA Open,100KG,SF,2018
+15027,6156,Tanner Rice,,Wellington Modena,W,1,Choke from back,LA Open,100KG,F,2018
+15154,6156,Tanner Rice,474,Alexandre Ceconi,W,1,Points,Houston Open,100KG,F,2018
+15298,6156,Tanner Rice,,Omar Sabha,W,1,N/A,San Francisco Open,100KG,SF,2018
+15299,6156,Tanner Rice,8634,Rafael Vasconcelos,W,1,Points,San Francisco Open,100KG,F,2018
+15310,6156,Tanner Rice,9246,Tex Johnson,W,1,DQ,Marianas EP,O85KG,F,2018
+15439,6156,Tanner Rice,9246,Tex Johnson,W,1,Pts: 7x2,Pan American,94KG,4F,2018
+15440,6156,Tanner Rice,6337,Arnaldo Maidana,W,1,Armbar,Pan American,94KG,SF,2018
+16022,6156,Tanner Rice,,Viking Wong,W,1,Pts: 4x2,Marianas Open,100KG,4F,2018
+16027,6156,Tanner Rice,8686,Fellipe Trovo,W,1,Pts: 14x2,Marianas Open,100KG,3RD,2018
+16062,6156,Tanner Rice,7704,Helton Jose,W,1,"Pts: 0x0, Adv",King of Mats,110KG,RR,2018
+16069,6156,Tanner Rice,449,Alexandre Souza,W,1,Referee Decision,King of Mats,110KG,3RD,2018
+16104,6156,Tanner Rice,2226,DJ Jackson,W,1,"Pts: 0x0, Pen",WP US Qualifier,94KG,RR,2018
+16105,6156,Tanner Rice,2226,DJ Jackson,W,1,Adv,WP US Qualifier,94KG,RR,2018
+16182,6156,Tanner Rice,,Zaid Sami,W,1,Pts: 4x2,World Pro,94KG,RPC,2018
+16366,6156,Tanner Rice,,Joseph Kahawai,W,1,Pts: 5x2,ACB North America,O95KG,SF,2018
+16367,6156,Tanner Rice,,Wellington Peroto,W,1,Pts: 10x2,ACB North America,O95KG,F,2018
+17607,6156,Tanner Rice,8634,Rafael Vasconcelos,W,1,Referee Decision,Grand Slam LA,110KG,RR,2018
+17608,6156,Tanner Rice,7704,Helton Jose,W,1,"Pts: 0x0, Adv",Grand Slam LA,110KG,RR,2018
+17609,6156,Tanner Rice,9230,Matheus Felipe,W,1,"Pts: 0x0, Adv",Grand Slam LA,110KG,3RD,2018
+18938,6156,Tanner Rice,,Martin Gobel,W,1,Referee Decision,European Open,O100KG,4F,2019
+18943,6156,Tanner Rice,,Antonio Padua,W,1,Referee Decision,European Open,O100KG,SF,2019
+19656,6156,Tanner Rice,,Lucas Michalec,W,1,Pts: 4x0,Pan American,100KG,8F,2019
+19662,6156,Tanner Rice,1827,James Puopolo,W,1,Referee Decision,Pan American,100KG,4F,2019
+20721,6156,Tanner Rice,8686,Fellipe Trovo,W,1,Points,World Champ.,ABS,R1,2019
+23565,6156,Tanner Rice,11354,Brian Giorgio,W,1,Pts: 9x2,Kansas Open,O100KG,SF,2020
+23567,6156,Tanner Rice,,John Hansen,W,1,Points,Kansas Open,O100KG,F,2020
+39065,6156,Tanner Rice,,Renato tagliari,W,1,Pts: 12x0,Santa Cruz O,O100KG,SF,2023
+39066,6156,Tanner Rice,,Paulo Lanzillotti,W,1,Pts: 11x2,Santa Cruz O,O100KG,F,2023

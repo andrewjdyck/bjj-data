@@ -1,0 +1,25 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+76,88,Jean Jacques Machado,1152,Eduardo Jamelao,L,0,Referee Decision,Pan American,82KG,SF,1996
+285,88,Jean Jacques Machado,,H. Cabelinho,L,0,N/A,World Champ.,82KG,4F,1999
+426,88,Jean Jacques Machado,52,Renzo Gracie,L,0,Adv,ADCC,77KG,F,2000
+514,88,Jean Jacques Machado,1858,Matt Serra,L,0,Pen,ADCC,77KG,4F,2001
+570,88,Jean Jacques Machado,93,Ricardo Arona,L,0,Pts: 3x0,ADCC,ABS,F,2001
+1160,88,Jean Jacques Machado,1369,Dean Lister,L,0,Points,ADCC,ABS,SPF,2005
+1484,88,Jean Jacques Machado,,K. Hironaka,L,0,Pts: 3x0,LA Sub-X,ABS,SPF,2006
+51,88,Jean Jacques Machado,,Unknown,W,1,Points,Copa Cantao,NA,NA,1987
+56,88,Jean Jacques Machado,4776,Marcelo Alonso,W,1,Points,Atlantico Sul,82KG,SF,1991
+57,88,Jean Jacques Machado,508,Wallid Ismail,W,1,Referee Decision,Atlantico Sul,82KG,F,1991
+134,88,Jean Jacques Machado,,James Boran,W,1,Choke,Joe Moreira Cup,77KG,SPF,1997
+203,88,Jean Jacques Machado,,Roy Harris,W,1,Pts: 10x6,BB Challenge,ABS,SPF,1998
+284,88,Jean Jacques Machado,,Rogerinho,W,1,Straight armlock,World Champ.,82KG,R1,1999
+314,88,Jean Jacques Machado,,Ryan Harvey,W,1,RNC,ADCC,77KG,R1,1999
+315,88,Jean Jacques Machado,,Micah Pittman,W,1,RNC,ADCC,77KG,4F,1999
+316,88,Jean Jacques Machado,,Hayato Sakurai,W,1,RNC,ADCC,77KG,SF,1999
+317,88,Jean Jacques Machado,,Caol Uno,W,1,RNC,ADCC,77KG,F,1999
+419,88,Jean Jacques Machado,,Marcio Cromado,W,1,RNC,ADCC,77KG,R1,2000
+423,88,Jean Jacques Machado,,Mikey Burnet,W,1,Ezekiel,ADCC,77KG,4F,2000
+425,88,Jean Jacques Machado,419,Leonardo Vieira,W,1,Pts: 9x0,ADCC,77KG,SF,2000
+510,88,Jean Jacques Machado,,Serguei Onishuk,W,1,RNC,ADCC,77KG,R1,2001
+558,88,Jean Jacques Machado,,Y. Kohsaka,W,1,Armbar,ADCC,ABS,R1,2001
+564,88,Jean Jacques Machado,9,Marcio Cruz,W,1,Footlock,ADCC,ABS,4F,2001
+569,88,Jean Jacques Machado,278,Ricardo Almeida,W,1,Pts: 3x0,ADCC,ABS,SF,2001

@@ -1,0 +1,62 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+9375,6592,Dany Gerard,1188,Leandro Lo,L,0,Cross choke,Pan American,ABS,R2,2016
+9550,6592,Dany Gerard,2416,Felipe Pena,L,0,Injury,World Pro,ABS,4F,2016
+9661,6592,Dany Gerard,1534,R. Evangelista,L,0,Referee Decision,World Pro,O94KG,4F,2016
+10066,6592,Dany Gerard,4177,Gustavo Dias,L,0,Referee Decision,World Champ.,O100KG,R1,2016
+10089,6592,Dany Gerard,543,Rodrigo Cavaca,L,0,"Pts: 0x0, Adv",World Champ.,ABS,R2,2016
+12104,6592,Dany Gerard,1188,Leandro Lo,L,0,Pts: 2x0,Pan American,ABS,4F,2017
+12246,6592,Dany Gerard,543,Rodrigo Cavaca,L,0,"Pts: 4x4, Adv",Pan American,100KG,4F,2017
+13033,6592,Dany Gerard,1188,Leandro Lo,L,0,Pts: 2x0,World Champ.,ABS,8F,2017
+13206,6592,Dany Gerard,3122,Luiz Panza,L,0,Pts: 2x0,World Champ.,100KG,4F,2017
+13328,6592,Dany Gerard,7831,Diego Ramalho,L,0,Pts: 6x4,American NG Nats,ABS,4F,2017
+13780,6592,Dany Gerard,4177,Gustavo Dias,L,0,"Pts: 2x2, Adv",San Diego Pro,O94KG,4F,2017
+13840,6592,Dany Gerard,6805,Max Gimenis,L,0,"Pts: 0x0, Adv",Grand Slam LA,110KG,SF,2017
+13842,6592,Dany Gerard,4177,Gustavo Dias,L,0,Pts: 2x0,Grand Slam LA,110KG,3RD,2017
+14718,6592,Dany Gerard,2403,Joao Rocha,L,0,"Pts: 0x0, Adv",NoGi Worlds,O97KG,4F,2017
+15035,6592,Dany Gerard,7831,Diego Ramalho,L,0,Pts: 2x0,LA Open,ABS,SF,2018
+15448,6592,Dany Gerard,6805,Max Gimenis,L,0,Pts: 8x2,Pan American,O100KG,8F,2018
+19669,6592,Dany Gerard,6805,Max Gimenis,L,0,Choke from back,Pan American,O100KG,4F,2019
+21450,6592,Dany Gerard,10159,Victor Hugo,L,0,Clock choke,Las Vegas Open,O100KG,F,2019
+21460,6592,Dany Gerard,10199,Guthierry Barbosa,L,0,Pts: 2x0,Las Vegas Open,ABS,F,2019
+29054,6592,Dany Gerard,11939,Jackson Douglas,L,0,Pts: 9x0,JJ CON,100KG,SF,2021
+8049,6592,Dany Gerard,,Charles Gaspar,W,1,Armbar,Asian Open,O100KG,F,2015
+8050,6592,Dany Gerard,,Luis Felipe,W,1,Kimura,Asian Open,ABS,R1,2015
+8051,6592,Dany Gerard,222,Bruno Amorim,W,1,Lapel choke,Asian Open,ABS,4F,2015
+8052,6592,Dany Gerard,,Howon Jung,W,1,Armbar,Asian Open,ABS,SF,2015
+8053,6592,Dany Gerard,631,Rodrigo Caporal,W,1,Points,Asian Open,ABS,F,2015
+9352,6592,Dany Gerard,,Pedro Moura,W,1,Pts: 2x0,Pan American,O100KG,8F,2016
+9356,6592,Dany Gerard,3083,Abraham Marte,W,1,Choke,Pan American,O100KG,4F,2016
+9361,6592,Dany Gerard,,Steven Patterson,W,1,Armbar,Pan American,ABS,R1,2016
+9520,6592,Dany Gerard,8290,Marcos Costa,W,1,Points,World Pro,ABS,R1,2016
+9529,6592,Dany Gerard,,Arturo Espies,W,1,Americana,World Pro,ABS,R2,2016
+9543,6592,Dany Gerard,6368,Kevin Mahecha,W,1,Pts: 2x0,World Pro,ABS,8F,2016
+9656,6592,Dany Gerard,8560,Gabriel Lucas,W,1,Referee Decision,World Pro,O94KG,R1,2016
+11002,6592,Dany Gerard,,Thomas Mcmahon,W,1,Pts: 2x0,SJJIF Worlds,ABS,4F,2016
+11004,6592,Dany Gerard,,Thiago Reinaldo,W,1,Bow and arrow,SJJIF Worlds,ABS,SF,2016
+11006,6592,Dany Gerard,,Thiago Reinaldo,W,1,Verbal tap,SJJIF Worlds,O94KG,F,2016
+11008,6592,Dany Gerard,,Thomas Mcmahon,W,1,Pts: 16x0,SJJIF NG World,ABS,SF,2016
+11009,6592,Dany Gerard,,Louis Villareal,W,1,Kimura,SJJIF NG World,ABS,F,2016
+11907,6592,Dany Gerard,,Joaquim Mamute,W,1,DQ,Copa Podio,110KG,SPF,2017
+12090,6592,Dany Gerard,,Alexandro Ceconi,W,1,Pts: 7x2,Pan American,ABS,R1,2017
+12098,6592,Dany Gerard,4163,Marcio Andre,W,1,Armbar,Pan American,ABS,8F,2017
+12241,6592,Dany Gerard,5861,Jared Dopp,W,1,Pts: 15x2,Pan American,100KG,8F,2017
+12245,6592,Dany Gerard,7537,Felipe Bezerra,W,1,Referee Decision,Pan American,100KG,4F,2017
+13023,6592,Dany Gerard,,Antonio Junior,W,1,Armlock,World Champ.,ABS,R1,2017
+13200,6592,Dany Gerard,,Rodolpho Bonfim,W,1,Pts: 4x2,World Champ.,100KG,8F,2017
+13320,6592,Dany Gerard,,Matt Kirchwehm,W,1,N/A,American NG Nats,98KG,F,2017
+13322,6592,Dany Gerard,10501,Valdir Araujo,W,1,Points,American NG Nats,ABS,R1,2017
+13365,6592,Dany Gerard,,Christopher Engle,W,1,N/A,American Nats,100KG,SF,2017
+13366,6592,Dany Gerard,11257,Gabriel Procopio,W,1,N/A,American Nats,100KG,F,2017
+13370,6592,Dany Gerard,6432,Yan Lucas,W,1,N/A,American Nats,ABS,R1,2017
+13375,6592,Dany Gerard,10501,Valdir Araujo,W,1,N/A,American Nats,ABS,4F,2017
+13837,6592,Dany Gerard,4177,Gustavo Dias,W,1,Pts: 4x0,Grand Slam LA,110KG,4F,2017
+14985,6592,Dany Gerard,9246,Tex Johnson,W,1,"Pts: 0x0, Adv",US National Pro,110KG,SF,2018
+14988,6592,Dany Gerard,,Leo Davila,W,1,Pts: 5x4,US National Pro,110KG,F,2018
+15028,6592,Dany Gerard,,Joseph Moku,W,1,DQ,LA Open,O100KG,SF,2018
+15029,6592,Dany Gerard,,T. Gaia,W,1,Pts: 8x2,LA Open,O100KG,F,2018
+15031,6592,Dany Gerard,,Manuel Alejandro,W,1,Armbar,LA Open,ABS,R1,2018
+15034,6592,Dany Gerard,,Thomas Kozlowski,W,1,Kimura,LA Open,ABS,4F,2018
+21449,6592,Dany Gerard,,Daniel Nascimento,W,1,Pts: 2x0,Las Vegas Open,O100KG,SF,2019
+21453,6592,Dany Gerard,,Nathan Barreto,W,1,Pts: 2x0,Las Vegas Open,ABS,R1,2019
+21455,6592,Dany Gerard,5417,Guilherme Augusto,W,1,Armbar,Las Vegas Open,ABS,4F,2019
+21458,6592,Dany Gerard,8686,Fellipe Trovo,W,1,Pts: 2x0,Las Vegas Open,ABS,SF,2019

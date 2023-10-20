@@ -1,0 +1,64 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+20819,12243,Leon Brito,9573,Marcos Martins,L,0,Toe hold,Rio Open,88KG,R1,2019
+21102,12243,Leon Brito,10174,Rafael Paganini,L,0,Pts: 4x2,BH Winter Open,88KG,SF,2019
+22089,12243,Leon Brito,6825,Fernando Reis,L,0,Pts: 2x0,BH SPO,94KG,F,2019
+22325,12243,Leon Brito,,Igor Sousa,L,0,Referee Decision,Grand Slam RJ,85KG,4F,2019
+24740,12243,Leon Brito,5756,Wellington Luis,L,0,Pts: 3x2,Grand Slam RJ,85KG,8F,2020
+26047,12243,Leon Brito,7537,Felipe Bezerra,L,0,Pts: 2x0,Copa Podio,98KG,RR,2021
+26060,12243,Leon Brito,11862,Pedro Alex,L,0,Kneebar,Copa Podio,98KG,SF,2021
+26062,12243,Leon Brito,7537,Felipe Bezerra,L,0,Points,Copa Podio,98KG,3RD,2021
+27425,12243,Leon Brito,4960,Dimitrius Souza,L,0,Armbar,Sul Americano,94KG,F,2021
+28070,12243,Leon Brito,8996,Mauricio Oliveira,L,0,Pts: 4x2,Brasileiro,88KG,SF,2021
+28559,12243,Leon Brito,,Athos Miranda,L,0,Pts: 6x3,Grand Slam RJ,85KG,SF,2021
+28562,12243,Leon Brito,6432,Yan Lucas,L,0,Pts: 3x1,Grand Slam RJ,85KG,RPC,2021
+29541,12243,Leon Brito,10252,Fabio Alano,L,0,Armbar,World Champ.,88KG,8F,2021
+31911,12243,Leon Brito,11064,Rider Zuchi,L,0,Katagatame,Rio Fall Open,94KG,F,2022
+32192,12243,Leon Brito,11064,Rider Zuchi,L,0,RNC,Brasileiro,94KG,F,2022
+34027,12243,Leon Brito,12506,Jansen Gomes,L,0,RNC,Grand Slam RJ,85KG,SF,2022
+34032,12243,Leon Brito,11766,Gabriel Costa,L,0,Pts: 2x1,Grand Slam RJ,85KG,3RD,2022
+34881,12243,Leon Brito,12084,G. Lambertucci,L,0,Kimura,Serra Confere,110KG,SF,2022
+37014,12243,Leon Brito,11658,Lucas Gualberto,L,0,"Pts: 0x0, Adv",Rio SMO,88KG,SF,2023
+38432,12243,Leon Brito,13076,Francisco Lo,L,0,"Pts: 2x2, Adv",Pan American,88KG,8F,2023
+39515,12243,Leon Brito,8357,Gustavo Batista,L,0,Arm in Ezekiel,Brasileiro,88KG,SF,2023
+21290,12243,Leon Brito,,Rafael Alves,W,1,Submission,Vitoria Open,94KG,SF,2019
+21291,12243,Leon Brito,11456,Flavio Junqueira,W,1,Submission,Vitoria Open,94KG,F,2019
+21298,12243,Leon Brito,9217,Caio Caetano,W,1,Points,Vitoria Open,ABS,R1,2019
+21302,12243,Leon Brito,,H. Riedlinger,W,1,N/A,Vitoria Open,ABS,4F,2019
+21305,12243,Leon Brito,10174,Rafael Paganini,W,1,Points,Vitoria Open,ABS,SF,2019
+21306,12243,Leon Brito,9573,Marcos Martins,W,1,Pts: 8x4,Vitoria Open,ABS,F,2019
+22317,12243,Leon Brito,,Flabio Maia,W,1,"Pts: 2x2, Adv",Grand Slam RJ,85KG,R1,2019
+22323,12243,Leon Brito,,Edson Oliveira,W,1,Choke from back,Grand Slam RJ,85KG,R2,2019
+22331,12243,Leon Brito,,Rodrigo Reis,W,1,Referee Decision,Grand Slam RJ,85KG,RPC,2019
+25328,12243,Leon Brito,,Paulo Silva,W,1,Triangle,Rio Open,94KG,4F,2021
+25330,12243,Leon Brito,,Marcos Goulart,W,1,Americana,Rio Open,94KG,SF,2021
+25332,12243,Leon Brito,10698,Matheus Godoy,W,1,Points,Rio Open,94KG,F,2021
+26044,12243,Leon Brito,1895,Rodrigo Fajardo,W,1,Pts: 2x0,Copa Podio,98KG,RR,2021
+26051,12243,Leon Brito,10199,Guthierry Barbosa,W,1,Triangle,Copa Podio,98KG,RR,2021
+27114,12243,Leon Brito,,Felipe Basilio,W,1,DQ,AJP RJ Pro,94KG,4F,2021
+27117,12243,Leon Brito,,Joao Freitas,W,1,Triangle,AJP RJ Pro,94KG,SF,2021
+27118,12243,Leon Brito,,Maique Azevedo,W,1,Choke from back,AJP RJ Pro,94KG,F,2021
+27422,12243,Leon Brito,,Uilton Silva,W,1,Omoplata,Sul Americano,94KG,4F,2021
+27424,12243,Leon Brito,,Filipe Pimentel,W,1,Katagatame,Sul Americano,94KG,SF,2021
+28064,12243,Leon Brito,,Vinicius Reis,W,1,Pts: 5x0,Brasileiro,88KG,R1,2021
+28067,12243,Leon Brito,,Carlos Alves,W,1,Clock choke,Brasileiro,88KG,4F,2021
+28544,12243,Leon Brito,,Pedro Pimenta,W,1,Pts: 2x2,Grand Slam RJ,85KG,R1,2021
+28552,12243,Leon Brito,,Agnelo Sales,W,1,Pts: 1x0,Grand Slam RJ,85KG,8F,2021
+28556,12243,Leon Brito,,Javier Valenciano,W,1,Pts: 10x0,Grand Slam RJ,85KG,4F,2021
+29535,12243,Leon Brito,,Joshua McKinney,W,1,Choke from back,World Champ.,88KG,R1,2021
+31905,12243,Leon Brito,,Leandro Santos,W,1,Referee Decision,Rio Fall Open,94KG,4F,2022
+31909,12243,Leon Brito,,Filipe Pimentel,W,1,Triangle,Rio Fall Open,94KG,SF,2022
+32189,12243,Leon Brito,9117,Hygor Brito,W,1,"Pts: 0x0, Adv",Brasileiro,94KG,4F,2022
+32191,12243,Leon Brito,,Leandro Santos,W,1,Armbar,Brasileiro,94KG,SF,2022
+34010,12243,Leon Brito,,Lucas Silva,W,1,Choke from back,Grand Slam RJ,85KG,R1,2022
+34019,12243,Leon Brito,,Darlan Casaca,W,1,Choke,Grand Slam RJ,85KG,8F,2022
+34024,12243,Leon Brito,7652,C. Negromonte,W,1,Pts: 2x1,Grand Slam RJ,85KG,4F,2022
+34030,12243,Leon Brito,5756,Wellington Luis,W,1,Pts: 7x0,Grand Slam RJ,85KG,RPC,2022
+34878,12243,Leon Brito,,Pablo Campos,W,1,Pts: 6x4,Serra Confere,110KG,4F,2022
+35711,12243,Leon Brito,,Eduardo Rodrigues,W,1,N/A,South American,88KG,R1,2022
+35716,12243,Leon Brito,,Lucas Laet,W,1,"Pts: 2x2, Adv",South American,88KG,4F,2022
+35718,12243,Leon Brito,,Vital Neto,W,1,Choke from back,South American,88KG,SF,2022
+35720,12243,Leon Brito,,Reyson Neves,W,1,"Pts: 0x0, Adv",South American,88KG,F,2022
+37010,12243,Leon Brito,,Eduardo Rodrigues,W,1,Katagatame,Rio SMO,88KG,4F,2023
+38416,12243,Leon Brito,,Shane Fishman,W,1,"Pts: 2x2, Adv",Pan American,88KG,R1,2023
+39509,12243,Leon Brito,,Eduardo Macedo,W,1,Violin armlock,Brasileiro,88KG,R1,2023
+39513,12243,Leon Brito,11658,Lucas Gualberto,W,1,Armbar,Brasileiro,88KG,4F,2023

@@ -1,0 +1,63 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21933,13158,Rose El Sharouni,9083,Vanessa English,L,0,Points,Lisbon Open,ABS,SF,2019
+22639,13158,Rose El Sharouni,9477,Larissa Campos,L,0,Triangle,Paris Open,58KG,F,2019
+23153,13158,Rose El Sharouni,10764,Anna Rodrigues,L,0,Choke from back,European Open,53KG,SF,2020
+23665,13158,Rose El Sharouni,7106,Talita Alencar,L,0,Pts: 5x1,Grand Slam LDN,55KG,4F,2020
+23670,13158,Rose El Sharouni,,Gabriela Fechter,L,0,Pts: 7x0,Grand Slam LDN,55KG,3RD,2020
+27995,13158,Rose El Sharouni,7768,Serena Gabrielli,L,0,Pts: 3x0,EU Cont. Pro,55KG,RR,2021
+28382,13158,Rose El Sharouni,,Rafaela Rosa,L,0,Referee Decision,France Pro,55KG,F,2021
+29258,13158,Rose El Sharouni,10764,Anna Rodrigues,L,0,Pts: 4x2,World Pro,55KG,F,2021
+29616,13158,Rose El Sharouni,3607,Tammi Musumeci,L,0,Choke from back,World Champ.,52KG,SF,2021
+30660,13158,Rose El Sharouni,9271,Mayssa Bastos,L,0,Armbar,European Open,53KG,F,2022
+31172,13158,Rose El Sharouni,10764,Anna Rodrigues,L,0,Pts: 3x2,Grand Slam LDN,55KG,SF,2022
+32400,13158,Rose El Sharouni,10764,Anna Rodrigues,L,0,Pts: 3x2,Grand Slam AD,55KG,SF,2022
+32404,13158,Rose El Sharouni,,Laurie Oliveira,L,0,Armbar,Grand Slam AD,55KG,RPC,2022
+33059,13158,Rose El Sharouni,10764,Anna Rodrigues,L,0,Armbar,World Champ.,53KG,SF,2022
+34667,13158,Rose El Sharouni,10764,Anna Rodrigues,L,0,Kimura,Grand Slam MIA,55KG,SF,2022
+34672,13158,Rose El Sharouni,12753,Gabriela Pereira,L,0,Pts: 11x0,Grand Slam MIA,55KG,3RD,2022
+36422,13158,Rose El Sharouni,10764,Anna Rodrigues,L,0,Choke from back,World Pro,55KG,F,2022
+37280,13158,Rose El Sharouni,10862,Brenda Larissa,L,0,Choke,European Open,53KG,SF,2023
+38272,13158,Rose El Sharouni,10764,Anna Rodrigues,L,0,Hashimoto choke,AJPGD LDN,55KG,SF,2023
+38485,13158,Rose El Sharouni,9271,Mayssa Bastos,L,0,"Pts: 4x4, Adv",Pan American,53KG,F,2023
+39723,13158,Rose El Sharouni,,Galina Duvanova,L,0,Pts: 6x4,ADGS ABD,55KG,4F,2023
+40399,13158,Rose El Sharouni,11690,Jessa Khan,L,0,Armbar,World Champ.,53KG,SF,2023
+19862,13158,Rose El Sharouni,7768,Serena Gabrielli,W,1,Choke from back,Rome Open,53KG,RR,2019
+19863,13158,Rose El Sharouni,7768,Serena Gabrielli,W,1,Ezekiel,Rome Open,53KG,RR,2019
+22035,13158,Rose El Sharouni,,Georgina Galvao,W,1,Ezekiel,London FO,58KG,RR,2019
+22036,13158,Rose El Sharouni,,Georgina Galvao,W,1,Points,London FO,58KG,RR,2019
+23513,13158,Rose El Sharouni,,Sayuri Batista,W,1,Adv,Netherlands Pro,55KG,F,2020
+23664,13158,Rose El Sharouni,,Weronika Nitecka,W,1,Pts: 6x0,Grand Slam LDN,55KG,R1,2020
+23669,13158,Rose El Sharouni,,Elina Moestam,W,1,Pts: 6x5,Grand Slam LDN,55KG,RPC,2020
+27996,13158,Rose El Sharouni,,Antonia Iaia,W,1,Choke from back,EU Cont. Pro,55KG,RR,2021
+28381,13158,Rose El Sharouni,,Aneta Pokorna,W,1,Pts: 11x0,France Pro,55KG,SF,2021
+29254,13158,Rose El Sharouni,,Rebecca Hughes,W,1,Pts: 2x0,World Pro,55KG,4F,2021
+29257,13158,Rose El Sharouni,,Liisi Vaht,W,1,Pts: 4x0,World Pro,55KG,SF,2021
+29615,13158,Rose El Sharouni,,Ann Kneibb,W,1,Pts: 7x0,World Champ.,52KG,4F,2021
+30658,13158,Rose El Sharouni,,Naomi Matthews,W,1,Pts: 2x0,European Open,53KG,SF,2022
+30757,13158,Rose El Sharouni,,Cornelia Rossier,W,1,Pts: 10x6,Amsterdam Pro,62KG,RR,2022
+30758,13158,Rose El Sharouni,,Meshy Rosenfeld,W,1,Triangle,Amsterdam Pro,62KG,RR,2022
+31170,13158,Rose El Sharouni,,Alicja Stypulkow,W,1,Armbar,Grand Slam LDN,55KG,4F,2022
+31175,13158,Rose El Sharouni,,Alexa Yanes,W,1,Pts: 4x1,Grand Slam LDN,55KG,RPC,2022
+31177,13158,Rose El Sharouni,,Rafaela Rosa,W,1,Pts: 4x3,Grand Slam LDN,55KG,3RD,2022
+31795,13158,Rose El Sharouni,,Rafaela Rosa,W,1,Pts: 5x3,Porto Pro,55KG,F,2022
+32397,13158,Rose El Sharouni,,Maha Alhanaee,W,1,Triangle,Grand Slam AD,55KG,4F,2022
+33054,13158,Rose El Sharouni,,Andreza Costa,W,1,"Pts: 2x2, Adv",World Champ.,53KG,4F,2022
+33144,13158,Rose El Sharouni,,Rafaela Rosa,W,1,Pts: 2x1,Cascais Pro,55KG,F,2022
+34665,13158,Rose El Sharouni,,Maha Alhanaee,W,1,Armbar,Grand Slam MIA,55KG,4F,2022
+34671,13158,Rose El Sharouni,13419,Eliana Carauni,W,1,Botinha,Grand Slam MIA,55KG,RPC,2022
+36419,13158,Rose El Sharouni,,Chingwen Huang,W,1,Pts: 11x0,World Pro,55KG,4F,2022
+36420,13158,Rose El Sharouni,,Liisi Vaht,W,1,Pts: 1x0,World Pro,55KG,SF,2022
+36514,13158,Rose El Sharouni,,Barbara Hale,W,1,Pts: 14x0,Netherlands Pro,55KG,SF,2022
+36515,13158,Rose El Sharouni,,Laurie Rocha,W,1,Pts: 4x1,Netherlands Pro,55KG,F,2022
+36523,13158,Rose El Sharouni,,Delfina Francisco,W,1,Botinha,Brussels Pro,55KG,RR,2022
+36525,13158,Rose El Sharouni,,Rafaela Rosa,W,1,Pts: 1x0,Brussels Pro,55KG,RR,2022
+37277,13158,Rose El Sharouni,,Raquel Ferreira,W,1,Choke from back,European Open,53KG,4F,2023
+38269,13158,Rose El Sharouni,,Laura Peretti,W,1,Pts: 2x0,AJPGD LDN,55KG,4F,2023
+38276,13158,Rose El Sharouni,,Emily Nicholson,W,1,Pts: 3x0,AJPGD LDN,55KG,3RD,2023
+38482,13158,Rose El Sharouni,,Raquel Silva,W,1,N/A,Pan American,53KG,4F,2023
+38484,13158,Rose El Sharouni,,Thamires Aquino,W,1,Pts: 7x0,Pan American,53KG,SF,2023
+39727,13158,Rose El Sharouni,,Dayane Bazzoni,W,1,Submission,ADGS ABD,55KG,RPC,2023
+39729,13158,Rose El Sharouni,,Liisi Vaht,W,1,Pts: 1x0,ADGS ABD,55KG,RPC,2023
+39730,13158,Rose El Sharouni,,Galina Duvanova,W,1,Pts: 4x1,ADGS ABD,55KG,3RD,2023
+40391,13158,Rose El Sharouni,,Mara Kelly,W,1,Pts: 13x0,World Champ.,53KG,8F,2023
+40396,13158,Rose El Sharouni,,Andreza Costa,W,1,Straight ankle lock,World Champ.,53KG,4F,2023

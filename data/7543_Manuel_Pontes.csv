@@ -1,0 +1,53 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+7044,7543,Manuel Pontes,289,Alan Finfou,L,0,Pts: 2x0,Rome Open,ABS,SF,2015
+7140,7543,Manuel Pontes,3122,Luiz Panza,L,0,Botinha,World Pro,95KG,4F,2015
+7309,7543,Manuel Pontes,4310,Tim Spriggs,L,0,Pts: 4x0,Copa Podio,95KG,GP,2015
+7312,7543,Manuel Pontes,,F. Reis,L,0,"Pts: 0x0, Adv",Copa Podio,95KG,GP,2015
+7320,7543,Manuel Pontes,4521,Erberth Santos,L,0,Pts: 4x2,Copa Podio,95KG,GP,2015
+7321,7543,Manuel Pontes,733,Vinny Magalhaes,L,0,Pts: 4x2,Copa Podio,95KG,GP,2015
+8873,7543,Manuel Pontes,6253,Diego Borges,L,0,Referee Decision,Zurich NoGi Open,ABS,F,2016
+8967,7543,Manuel Pontes,,Felipe Bueno,L,0,Points,European Open,94KG,SF,2016
+8995,7543,Manuel Pontes,4521,Erberth Santos,L,0,Pts: 8x0,European Open,ABS,R2,2016
+9220,7543,Manuel Pontes,3200,Jackson Sousa,L,0,Pts: 5x2,Grand Slam LDN,94KG,4F,2016
+9639,7543,Manuel Pontes,,Herico Hesley,L,0,Pts: 6x4,World Pro,94KG,R1,2016
+10130,7543,Manuel Pontes,3200,Jackson Sousa,L,0,Points,British National,ABS,SF,2016
+10769,7543,Manuel Pontes,1757,Alexander Trans,L,0,Pts: 6x0,Copa Podio,105KG,RR,2016
+10776,7543,Manuel Pontes,543,Rodrigo Cavaca,L,0,"Pts: 0x0, Adv",Copa Podio,105KG,RR,2016
+10783,7543,Manuel Pontes,1188,Leandro Lo,L,0,"Pts: 0x0, Adv",Copa Podio,105KG,SF,2016
+12684,7543,Manuel Pontes,1548,Jose Junior,L,0,Points,World Pro,U110KG,RR,2017
+12689,7543,Manuel Pontes,,Christopher Bowe,L,0,"Pts: 0x0, Adv",World Pro,U110KG,SF,2017
+12690,7543,Manuel Pontes,4521,Erberth Santos,L,0,"Pts: 0x0, Pen",World Pro,U110KG,3RD,2017
+16188,7543,Manuel Pontes,680,Igor Silva,L,0,Pts: 8x0,World Pro,110KG,4F,2018
+16196,7543,Manuel Pontes,680,Igor Silva,L,0,"Pts: 0x0, Adv",World Pro,110KG,RPC,2018
+16594,7543,Manuel Pontes,1188,Leandro Lo,L,0,Pts: 2x0,World Champ.,100KG,SF,2018
+7041,7543,Manuel Pontes,,Fabricio Souza,W,1,Choke,Rome Open,100KG,SF,2015
+7042,7543,Manuel Pontes,,Pedro Henrique,W,1,Adv,Rome Open,100KG,F,2015
+7046,7543,Manuel Pontes,,Fabricio Souza,W,1,Choke,European NoGi,97KG,SF,2015
+7047,7543,Manuel Pontes,,Ralf Warneking,W,1,RNC,European NoGi,97KG,F,2015
+7048,7543,Manuel Pontes,,Marerk Zbrog,W,1,Armbar,Madrid Open,100KG,SF,2015
+7049,7543,Manuel Pontes,,Marcelo Bernardo,W,1,Pts: 4x0,Madrid Open,100KG,F,2015
+7134,7543,Manuel Pontes,,Felipe Bueno,W,1,"Pts: 0x0, Adv",World Pro,95KG,R1,2015
+8866,7543,Manuel Pontes,,Vinicius Nascimento,W,1,Submission,Zurich Open,94KG,SF,2016
+8867,7543,Manuel Pontes,,Matheus Rodrigues,W,1,Choke,Zurich Open,94KG,F,2016
+8868,7543,Manuel Pontes,6253,Diego Borges,W,1,Pts: 2x0,Zurich Open,ABS,4F,2016
+8870,7543,Manuel Pontes,,Sergio Filho,W,1,Points,Zurich Open,ABS,SF,2016
+8872,7543,Manuel Pontes,,Leon Amancio,W,1,Pts: 2x0,Zurich Open,ABS,F,2016
+8966,7543,Manuel Pontes,671,Helvecio Penna,W,1,Choke from back,European Open,94KG,4F,2016
+8988,7543,Manuel Pontes,,Alan Ferreira,W,1,Pts: 2x0,European Open,ABS,R1,2016
+10127,7543,Manuel Pontes,,Matheus Silva,W,1,Submission,British National,100KG,F,2016
+10128,7543,Manuel Pontes,,Thiago Souza,W,1,Pts: 10x0,British National,ABS,4F,2016
+10765,7543,Manuel Pontes,8560,Gabriel Lucas,W,1,Pts: 2x0,Copa Podio,105KG,RR,2016
+10772,7543,Manuel Pontes,6253,Diego Borges,W,1,Pts: 2x0,Copa Podio,105KG,RR,2016
+10785,7543,Manuel Pontes,,F. Trovo,W,1,Pts: 3x0,Copa Podio,105KG,3RD,2016
+11334,7543,Manuel Pontes,,Antonio Junior,W,1,Pts: 2x0,Spain Nat. Pro,110KG,F,2016
+11335,7543,Manuel Pontes,,Mathias Ribeiro,W,1,Adv,Spain Nat. Pro,ABS,4F,2016
+11337,7543,Manuel Pontes,,Arturo Salas,W,1,Pts: 2x0,Spain Nat. Pro,ABS,SF,2016
+11339,7543,Manuel Pontes,7478,Adam Wardzinski,W,1,Referee Decision,Spain Nat. Pro,ABS,F,2016
+11342,7543,Manuel Pontes,,Henrique Pereira,W,1,Points,Portugal Open,100KG,F,2016
+14953,7543,Manuel Pontes,,Rodrigo Martins,W,1,"Pts: 0x0, Adv",European Open,100KG,4F,2018
+14954,7543,Manuel Pontes,7519,Eliot Kelly,W,1,Pts: 9x0,European Open,100KG,SF,2018
+14955,7543,Manuel Pontes,11703,Arya Esfandmaz,W,1,Pts: 18x0,European Open,100KG,F,2018
+16186,7543,Manuel Pontes,7111,Muslim Patsarigov,W,1,Pts: 2x0,World Pro,110KG,R1,2018
+16193,7543,Manuel Pontes,10318,Eldar Rafigaev,W,1,Pts: 10x0,World Pro,110KG,RPC,2018
+16194,7543,Manuel Pontes,,Antonio Junior,W,1,Choke,World Pro,110KG,RPC,2018
+16591,7543,Manuel Pontes,6825,Fernando Reis,W,1,Pts: 2x0,World Champ.,100KG,4F,2018

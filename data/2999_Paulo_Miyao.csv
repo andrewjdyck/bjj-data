@@ -1,0 +1,237 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4705,2999,Paulo Miyao,1003,Diogo Sampaio,L,0,Pts: 4x2,Copa Podio,88KG,SF,2013
+5251,2999,Paulo Miyao,179,Rafael Mendes,L,0,Pts: 3x0,European,70KG,F,2014
+5531,2999,Paulo Miyao,358,Lucas Lepri,L,0,Referee Decision,Brasileiro,ABS,4F,2014
+5641,2999,Paulo Miyao,8819,Thiago Barreto,L,0,"Pts: 0x0, Adv",World Pro.,64KG,4F,2014
+5755,2999,Paulo Miyao,415,Guilherme Mendes,L,0,Adv,World Champ.,64KG,F,2014
+5918,2999,Paulo Miyao,449,Alexandre Souza,L,0,"Pts: 0x0, Adv",Floripa BB II,ABS,SPF,2014
+5933,2999,Paulo Miyao,410,Claudio Calasans,L,0,"Pts: 2x2, Adv",Mundial CBJJE,ABS,SF,2014
+5997,2999,Paulo Miyao,2235,Renato Cardoso,L,0,Pts: 3x0,Camp. Internacional,ABS,F,2014
+6088,2999,Paulo Miyao,5414,Osvaldo Moizinho,L,0,Referee Decision,IBJJF Pro League,70KG,F,2014
+8407,2999,Paulo Miyao,5414,Osvaldo Moizinho,L,0,"Pts: 8x8, Adv",NoGi Worlds,67KG,SF,2015
+8924,2999,Paulo Miyao,4163,Marcio Andre,L,0,Referee Decision,European Open,70KG,F,2016
+9580,2999,Paulo Miyao,4163,Marcio Andre,L,0,"Pts: 0x0, Adv",World Pro,69KG,F,2016
+10276,2999,Paulo Miyao,4789,Marcos Tinoco,L,0,"Pts: 0x0, Adv",NY Summer Open,ABS,SF,2016
+11700,2999,Paulo Miyao,,Thalison S.,L,0,DQ,ADCC SP Trials,66KG,R2,2017
+13920,2999,Paulo Miyao,147,Rubens Charles,L,0,Pts: 0x0,ADCC,66KG,SF,2017
+17564,2999,Paulo Miyao,4248,Gianni Grippo,L,0,Pts: 2x0,Grand Slam LA,69KG,F,2018
+18092,2999,Paulo Miyao,,J. Alves,L,0,Pts: 2x0,Spyder Inv. Final,76KG,F,2018
+18204,2999,Paulo Miyao,4248,Gianni Grippo,L,0,Pts: 3x2,Kasai Pro 4,65KG,F,2018
+20255,2999,Paulo Miyao,6103,Isaac Doederlein,L,0,"Pts: 2x2, Adv",Brasileiro,70KG,SF,2019
+21899,2999,Paulo Miyao,188,Augusto Mendes,L,0,Referee Decision,ADCC,66KG,SF,2019
+22150,2999,Paulo Miyao,9051,Gabriel Sousa,L,0,Pts: 4x2,European NoGi,67KG,4F,2019
+24082,2999,Paulo Miyao,4996,Geo Martinez,L,0,Referee Decision,WNO 4,65KG,SPF,2020
+24121,2999,Paulo Miyao,11568,Josh Cisneros,L,0,Referee Decision,Pan American,64KG,4F,2020
+28217,2999,Paulo Miyao,,Bebeto Oliveira,L,0,Referee Decision,NoGi Worlds,61KG,F,2021
+29373,2999,Paulo Miyao,9401,Ashley Williams,L,0,Referee Decision,Polaris 18,66KG,SPF,2021
+4374,2999,Paulo Miyao,,Jon Fitch,D,0.5,---,World Expo,ABS,SPF,2013
+4689,2999,Paulo Miyao,7231,Manny Diaz,W,1,Pts: 2x0,Copa Podio,88KG,GP,2013
+4692,2999,Paulo Miyao,4460,Jaime Canuto,D,0.5,---,Copa Podio,88KG,GP,2013
+4702,2999,Paulo Miyao,2235,Renato Cardoso,W,1,Choke from back,Copa Podio,88KG,GP,2013
+4707,2999,Paulo Miyao,,T. Stevens,W,1,"Pts: 2x2, Adv",Copa Podio,88KG,3PLC,2013
+4882,2999,Paulo Miyao,443,Claudio Mattos,W,1,Adv,Brasileiro CBJJE,NA,NA,2013
+4883,2999,Paulo Miyao,,João Rafael,W,1,DQ,Brasileiro CBJJE,NA,NA,2013
+4884,2999,Paulo Miyao,,Thiago Rodrigues,W,1,Choke from back,Brasileiro CBJJE,NA,NA,2013
+4886,2999,Paulo Miyao,,Augusto Galdez,W,1,Choke from back,Brasileiro CBJJE,NA,NA,2013
+5127,2999,Paulo Miyao,,Daisuke Amazon,W,1,Pts: 24x0,Bull Terrier,70KG,F,2013
+5229,2999,Paulo Miyao,,Nicolas Welker,W,1,Pts: 4x0,World Pro Trial,70KG,SF,2014
+5230,2999,Paulo Miyao,2304,Fernando Vieira,W,1,Adv,World Pro Trial,70KG,F,2014
+5250,2999,Paulo Miyao,,S. Franceschini,W,1,Clock choke,European,70KG,SF,2014
+5336,2999,Paulo Miyao,,John Nam,W,1,Armbar,Pan American,64KG,4F,2014
+5338,2999,Paulo Miyao,,Vitor Paschoal,W,1,Choke from back,Pan American,64KG,SF,2014
+5524,2999,Paulo Miyao,,Andre Simoes,W,1,Choke from back,Brasileiro,ABS,R1,2014
+5526,2999,Paulo Miyao,474,Alexandre Ceconi,W,1,"Pts: 2x2, Adv",Brasileiro,ABS,R1,2014
+5543,2999,Paulo Miyao,1923,David Lemes,W,1,Choke from back,Brasileiro,70KG,SF,2014
+5544,2999,Paulo Miyao,8231,Leo Saggioro,W,1,Pts: 4x0,Brasileiro,70KG,F,2014
+5745,2999,Paulo Miyao,,Tomoya Yanagisawa,W,1,Choke from back,World Champ.,64KG,8F,2014
+5751,2999,Paulo Miyao,,Dai Yoshioka,W,1,Adv,World Champ.,64KG,4F,2014
+5754,2999,Paulo Miyao,2401,Gabriel Moraes,W,1,Points,World Champ.,64KG,SF,2014
+5876,2999,Paulo Miyao,8231,Leo Saggioro,W,1,Pts: 8x0,Rio Open,70KG,F,2014
+5892,2999,Paulo Miyao,5715,Isaque Paiva,W,1,Points,SP Open,70kg,F,2014
+5919,2999,Paulo Miyao,,Erik Raposo,W,1,Submission,Sul Brasileiro,70KG,SF,2014
+5920,2999,Paulo Miyao,1923,David Lemes,W,1,Toe hook,Sul Brasileiro,70KG,F,2014
+5924,2999,Paulo Miyao,,Ricardo Lima,W,1,Clock choke,Sul Brasileiro,ABS,4F,2014
+5925,2999,Paulo Miyao,,Gustavo Almeida,W,1,Triangle,Sul Brasileiro,ABS,SF,2014
+5927,2999,Paulo Miyao,9711,Jurandir Conceicao,W,1,Choke from back,Sul Brasileiro,ABS,F,2014
+5931,2999,Paulo Miyao,,Manoel Oliveira,W,1,Referee Decision,Mundial CBJJE,ABS,R1,2014
+5932,2999,Paulo Miyao,,Alan Regis,W,1,"Pts: 2x2, Adv",Mundial CBJJE,ABS,4F,2014
+6087,2999,Paulo Miyao,1919,Koji Shibamoto,W,1,Pts: 14x2,IBJJF Pro League,70KG,SF,2014
+6133,2999,Paulo Miyao,8231,Leo Saggioro,W,1,Referee Decision,Rio BJJ Pro,70KG,F,2014
+6250,2999,Paulo Miyao,8231,Leo Saggioro,W,1,Pts: 4x2,South American,70KG,F,2014
+6255,2999,Paulo Miyao,5715,Isaque Paiva,W,1,N/A,South American,70KG,SF,2014
+6256,2999,Paulo Miyao,8231,Leo Saggioro,W,1,Pts: 4x2,South American,70KG,F,2014
+6434,2999,Paulo Miyao,,Jorge Nakamura,W,1,Kimura,Brazil Nat. Pro,65KG,4F,2015
+6435,2999,Paulo Miyao,,Jackson Favero,W,1,Choke from back,Brazil Nat. Pro,65KG,SF,2015
+6525,2999,Paulo Miyao,,Luis Lopes,W,1,Calf slicer,European,64KG,4F,2015
+6528,2999,Paulo Miyao,8874,Thomas Lisboa,W,1,Pts: 11x0,European,64KG,SF,2015
+6671,2999,Paulo Miyao,,Luiz Felipe,W,1,Pts: 6x4,All Star Pro,65KG,F,2015
+6672,2999,Paulo Miyao,921,Rafael Barbosa,W,1,Pts: 10x6,All Star Pro,ABS,F,2015
+6785,2999,Paulo Miyao,,Yoshihiko Matsumoto,W,1,Choke from back,Pan American,64KG,4F,2015
+6788,2999,Paulo Miyao,5114,Joao Somalia,W,1,Armbar,Pan American,64KG,SF,2015
+6967,2999,Paulo Miyao,,Rafael Pereira,W,1,Points,Chicago Spring,76KG,F,2015
+7012,2999,Paulo Miyao,1640,Andre Monteiro,W,1,Points,NY Spring Open,70KG,SF,2015
+7013,2999,Paulo Miyao,4248,Gianni Grippo,W,1,Adv,NY Spring Open,70KG,F,2015
+7223,2999,Paulo Miyao,,Onefre Lima,W,1,Pts: 23x0,Brasileiro,70KG,4F,2015
+7224,2999,Paulo Miyao,,Victor Matos,W,1,Pts: 10x0,Brasileiro,70KG,SF,2015
+7226,2999,Paulo Miyao,5715,Isaque Paiva,W,1,Pts: 8x6,Brasileiro,70KG,F,2015
+7288,2999,Paulo Miyao,4248,Gianni Grippo,W,1,Pts: 9x2,Boston Spring Open,70KG,F,2015
+7338,2999,Paulo Miyao,,Tom Barlow,W,1,Pts: 3x0,Las Vegas Open,70KG,SF,2015
+7339,2999,Paulo Miyao,,Eduardo Ramos,W,1,"Pts: 4x4, Adv",Las Vegas Open,70KG,F,2015
+7415,2999,Paulo Miyao,,Victor Paschoal,W,1,Choke from back,World Champ.,64KG,4F,2015
+7417,2999,Paulo Miyao,4851,Kim Terra,W,1,Pts: 8x2,World Champ.,64KG,SF,2015
+7418,2999,Paulo Miyao,1019,Daniel Beleza,W,1,Choke from back,World Champ.,64KG,F,2015
+7576,2999,Paulo Miyao,,Luiz Teixeira,W,1,Pts: 6x4,BJJ Tour,ABS,F,2015
+7578,2999,Paulo Miyao,921,Rafael Barbosa,W,1,Pts: 10x6,BJJ Tour,88KG,F,2015
+7603,2999,Paulo Miyao,8842,Wanki Chae,W,1,Pts: 8x4,US No Gi Nat.,70KG,F,2015
+7610,2999,Paulo Miyao,,Jerold Shapiro,W,1,Choke from back,American Nat.,70KG,4F,2015
+7614,2999,Paulo Miyao,4851,Kim Terra,W,1,Points,American Nat.,70KG,SF,2015
+7615,2999,Paulo Miyao,1436,Samir Chantre,W,1,Choke from back,American Nat.,70KG,F,2015
+7670,2999,Paulo Miyao,,Joao Ferreira,W,1,Pts: 10x2,NY Summer Open,76KG,F,2015
+7679,2999,Paulo Miyao,,Sidemar Honorio,W,1,Armbar,NY No Gi Open,70KG,F,2015
+7750,2999,Paulo Miyao,,Travis Orr,W,1,Points,Austin Open,76KG,SF,2015
+7751,2999,Paulo Miyao,8632,Thiago Macedo,W,1,"Pts: 4x4, Adv",Austin Open,76KG,F,2015
+7820,2999,Paulo Miyao,,D. Drzymkowski,W,1,Choke from back,Chicago S. Open,76KG,SF,2015
+7821,2999,Paulo Miyao,9864,Diego Bispo,W,1,Choke from back,Chicago S. Open,76KG,F,2015
+7824,2999,Paulo Miyao,,Steven Patterson,W,1,Pts: 6x0,Chicago S. Open,ABS,F,2015
+7825,2999,Paulo Miyao,9864,Diego Bispo,W,1,Calf slicer,Chicago No Gi,76KG,F,2015
+7873,2999,Paulo Miyao,,Ichitaro Tsukada,W,1,Choke from back,Grand Slam TYO,69KG,4F,2015
+7875,2999,Paulo Miyao,,Charles Gaspar,W,1,Pts: 4x0,Grand Slam TYO,69KG,SF,2015
+7876,2999,Paulo Miyao,7156,Tiago Bravo,W,1,Pts: 8x2,Grand Slam TYO,69KG,F,2015
+8056,2999,Paulo Miyao,4115,Fabio Caloi,W,1,Points,Brazil Nat. Pro,69KG,4F,2015
+8057,2999,Paulo Miyao,,Unknown,W,1,Omoplata,Brazil Nat. Pro,69KG,SF,2015
+8058,2999,Paulo Miyao,,Rodrigo Cardoso,W,1,Choke from back,Brazil Nat. Pro,69KG,F,2015
+8072,2999,Paulo Miyao,,Caio Gregorio,W,1,Pts: 10x0,Brazil Nat. Pro,U77KG,4F,2015
+8073,2999,Paulo Miyao,4542,Felipe Cesar,W,1,Points,Brazil Nat. Pro,U77KG,SF,2015
+8075,2999,Paulo Miyao,5061,Gabriel Rollo,W,1,Pts: 4x2,Brazil Nat. Pro,U77KG,F,2015
+8174,2999,Paulo Miyao,,Edson Oliveira,W,1,Triangle,NoGi Pan Ams,70KG,SF,2015
+8175,2999,Paulo Miyao,4248,Gianni Grippo,W,1,Referee Decision,NoGi Pan Ams,70KG,F,2015
+8246,2999,Paulo Miyao,,Matthew Magana,W,1,Pts: 13x0,Grand Slam LA,69KG,4F,2015
+8248,2999,Paulo Miyao,5414,Osvaldo Moizinho,W,1,Pts: 6x4,Grand Slam LA,69KG,SF,2015
+8250,2999,Paulo Miyao,1436,Samir Chantre,W,1,Pts: 5x0,Grand Slam LA,69KG,F,2015
+8400,2999,Paulo Miyao,8632,Thiago Macedo,W,1,Pts: 4x0,NoGi Worlds,67KG,8F,2015
+8406,2999,Paulo Miyao,5992,Wilson Reis,W,1,Pts: 6x4,NoGi Worlds,67KG,4F,2015
+8547,2999,Paulo Miyao,1436,Samir Chantre,W,1,Referee Decision,Berkut 2,ABS,SPF,2015
+8622,2999,Paulo Miyao,,Roberto Junot,W,1,Choke from back,Grand Slam RJ,69KG,8F,2015
+8628,2999,Paulo Miyao,,Raphael Cadena,W,1,"Pts: 6x6, Adv",Grand Slam RJ,69KG,4F,2015
+8630,2999,Paulo Miyao,2304,Fernando Vieira,W,1,"Pts: 8x8, Adv",Grand Slam RJ,69KG,F,2015
+8919,2999,Paulo Miyao,7645,Masahiro Iwasaki,W,1,Pts: 5x0,European Open,70KG,4F,2016
+8922,2999,Paulo Miyao,6366,Brian Mahecha,W,1,Choke from back,European Open,70KG,SF,2016
+9249,2999,Paulo Miyao,,Jordan Gomez,W,1,Choke from back,Pan American,70KG,8F,2016
+9254,2999,Paulo Miyao,,Jon Van Buren,W,1,Pts: 15x2,Pan American,70KG,4F,2016
+9258,2999,Paulo Miyao,174,Bruno Frazatto,W,1,Pts: 4x2,Pan American,70KG,SF,2016
+9259,2999,Paulo Miyao,5414,Osvaldo Moizinho,W,1,"Pts: 6x6, Adv",Pan American,70KG,F,2016
+9463,2999,Paulo Miyao,,Joel Burgess,W,1,Choke from back,NY Spring Open,70KG,SF,2016
+9464,2999,Paulo Miyao,6103,Isaac Doederlein,W,1,Pts: 3x0,NY Spring Open,70KG,F,2016
+9568,2999,Paulo Miyao,,Vitor Matos,W,1,Choke from back,World Pro,69KG,R1,2016
+9574,2999,Paulo Miyao,6366,Brian Mahecha,W,1,Points,World Pro,69KG,4F,2016
+9578,2999,Paulo Miyao,7156,Tiago Bravo,W,1,Choke from back,World Pro,69KG,SF,2016
+9731,2999,Paulo Miyao,,Bruno Fonseca,W,1,Choke from back,Brasileiro,70KG,8F,2016
+9734,2999,Paulo Miyao,,Leon Amancio,W,1,Points,Brasileiro,70KG,4F,2016
+9737,2999,Paulo Miyao,4115,Fabio Caloi,W,1,Pts: 10x4,Brasileiro,70KG,SF,2016
+9738,2999,Paulo Miyao,5715,Isaque Paiva,W,1,Pts: 10x4,Brasileiro,70KG,F,2016
+9928,2999,Paulo Miyao,,Paulo Santana,W,1,Choke from back,World Champ.,64KG,R2,2016
+9934,2999,Paulo Miyao,,Takuto Kako,W,1,Pts: 24x0,World Champ.,64KG,4F,2016
+9939,2999,Paulo Miyao,6103,Isaac Doederlein,W,1,Pts: 4x0,World Champ.,64KG,SF,2016
+9940,2999,Paulo Miyao,260,Ary Farias,W,1,Pts: 4x2,World Champ.,64KG,F,2016
+10138,2999,Paulo Miyao,,Felipe Brito,W,1,Armbar,BH Open,70KG,F,2016
+10144,2999,Paulo Miyao,,Felipe Brito,W,1,Pts: 12x0,BH No-Gi Open,70KG,F,2016
+10198,2999,Paulo Miyao,,Rene Lopez,W,1,Choke from back,American Nats,70KG,4F,2016
+10201,2999,Paulo Miyao,,Orlando Machado,W,1,N/A,American Nats,70KG,SF,2016
+10203,2999,Paulo Miyao,8632,Thiago Macedo,W,1,"Pts: 4x4, Adv",American Nats,70KG,F,2016
+10282,2999,Paulo Miyao,,Felipe Simoes,W,1,Choke from back,NY Summer Open,70KG,SF,2016
+10438,2999,Paulo Miyao,,H. Song,W,1,Armbar,Grand Slam LA,69KG,4F,2016
+10440,2999,Paulo Miyao,,Felipe Simplicio,W,1,Armbar,Grand Slam LA,69KG,SF,2016
+10441,2999,Paulo Miyao,6103,Isaac Doederlein,W,1,Pts: 2x0,Grand Slam LA,69KG,F,2016
+10469,2999,Paulo Miyao,,J. Clopton,W,1,N/A,G. Slam NG LA,67KG,SF,2016
+11699,2999,Paulo Miyao,,Unknown,W,1,RNC,ADCC SP Trials,66KG,R1,2017
+11734,2999,Paulo Miyao,,Denver Santos,W,1,Points,ADCC RJ,66KG,R1,2017
+11735,2999,Paulo Miyao,,Rafael Gomes,W,1,Omoplata,ADCC RJ,66KG,R2,2017
+11736,2999,Paulo Miyao,,Mateus Vieira,W,1,RNC,ADCC RJ,66KG,8F,2017
+11737,2999,Paulo Miyao,,Fernando Carsalade,W,1,RNC,ADCC RJ,66KG,4F,2017
+11738,2999,Paulo Miyao,,Pedro Nobre,W,1,7YO choke,ADCC RJ,66KG,SF,2017
+11739,2999,Paulo Miyao,,Bruno Silva,W,1,RNC,ADCC RJ,66KG,F,2017
+12983,2999,Paulo Miyao,,Urijah Faber,W,1,EBI/OT,SUG 4,70KG,SPF,2017
+13246,2999,Paulo Miyao,,Nick Ryan,W,1,Pts: 8x0,UGA,66KG,SPF,2017
+13462,2999,Paulo Miyao,5414,Osvaldo Moizinho,W,1,Points,ACBJJ 6,65KG,4F,2017
+13464,2999,Paulo Miyao,188,Augusto Mendes,W,1,Points,ACBJJ 6,65KG,SF,2017
+13465,2999,Paulo Miyao,7698,Gabriel Marangoni,W,1,Choke from back,ACBJJ 6,65KG,F,2017
+13910,2999,Paulo Miyao,,Janus Andrejczuk,W,1,Pts: 10x0,ADCC,66KG,E1,2017
+13917,2999,Paulo Miyao,4996,Geo Martinez,W,1,Pts: 8x2,ADCC,66KG,4F,2017
+13922,2999,Paulo Miyao,8069,Pablo Mantovani,W,1,Pts: 10x0,ADCC,66KG,3RD,2017
+14236,2999,Paulo Miyao,,Bruno Célio,W,1,Heel hook,ACBJJ 8,65KG,4F,2017
+14241,2999,Paulo Miyao,7698,Gabriel Marangoni,W,1,Points,ACBJJ 8,65KG,SF,2017
+14242,2999,Paulo Miyao,4851,Kim Terra,W,1,Points,ACBJJ 8,65KG,F,2017
+14609,2999,Paulo Miyao,,Asadulaev Agate,W,1,Short choke,ACB JJ Worlds,65KG,SF,2017
+14611,2999,Paulo Miyao,8069,Pablo Mantovani,W,1,Pts: 2x0,ACB JJ Worlds,65KG,F,2017
+14824,2999,Paulo Miyao,,Daniel Vieira,W,1,Choke from back,Grand Slam AD,69KG,SF,2018
+14825,2999,Paulo Miyao,7156,Tiago Bravo,W,1,Pts: 5x0,Grand Slam AD,69KG,F,2018
+14977,2999,Paulo Miyao,188,Augusto Mendes,W,1,Points,ACB 10,65KG,SPF,2018
+15078,2999,Paulo Miyao,,Uknown,W,1,Points,ACB S. American,65KG,R1,2018
+15080,2999,Paulo Miyao,,Uknown,W,1,Armbar,ACB S. American,65KG,4F,2018
+15082,2999,Paulo Miyao,,Uknown,W,1,Reverse triangle,ACB S. American,65KG,SF,2018
+15083,2999,Paulo Miyao,5715,Isaque Paiva,W,1,Pts: 4x2,ACB S. American,65KG,F,2018
+15202,2999,Paulo Miyao,9064,Silvio Duran,W,1,Pts: 4x0,Continental Pro,69KG,SF,2018
+15204,2999,Paulo Miyao,8069,Pablo Mantovani,W,1,"Pts: 4x4, Adv",Continental Pro,69KG,F,2018
+15490,2999,Paulo Miyao,,Max Campos,W,1,Choke from back,Grand Slam LDN,69KG,4F,2018
+15492,2999,Paulo Miyao,,Jan Basso,W,1,Pts: 9x0,Grand Slam LDN,69KG,SF,2018
+15493,2999,Paulo Miyao,,Victor Moraes,W,1,Choke from back,Grand Slam LDN,69KG,F,2018
+15861,2999,Paulo Miyao,5414,Osvaldo Moizinho,W,1,Points,ACBJJ 12,65KG,SPF,2018
+16074,2999,Paulo Miyao,8351,Joao Neto,W,1,Pts: 3x0,WP Br Qualifier,69KG,4F,2018
+16076,2999,Paulo Miyao,5715,Isaque Paiva,W,1,Pts: 6x2,WP Br Qualifier,69KG,SF,2018
+16131,2999,Paulo Miyao,10004,Ali Monfaradi,W,1,Choke from back,World Pro,69KG,4F,2018
+16133,2999,Paulo Miyao,8866,Thomas Halpin,W,1,Pts: 6x0,World Pro,69KG,SF,2018
+16135,2999,Paulo Miyao,4248,Gianni Grippo,W,1,"Pts: 2x2, Adv",World Pro,69KG,F,2018
+16814,2999,Paulo Miyao,,Alejandro Carrera,W,1,Choke from back,ACBJJ World,65KG,4F,2018
+16819,2999,Paulo Miyao,8884,Alex Sodre,W,1,Pts: 10x2,ACBJJ World,65KG,3RD,2018
+16937,2999,Paulo Miyao,9002,Matheus Gabriel,W,1,Pts: 8x6,Spider Inv. 4F,76KG,SPF,2018
+17362,2999,Paulo Miyao,,Amon Yunusov,W,1,Armbar,UWW NG World,66KG,R1,2018
+17561,2999,Paulo Miyao,,Rodrigo Cardoso,W,1,Pts: 4x0,Grand Slam LA,69KG,4F,2018
+17562,2999,Paulo Miyao,,Vitor Moraes,W,1,Choke from back,Grand Slam LA,69KG,SF,2018
+17850,2999,Paulo Miyao,,Yijad Moussa,W,1,Submission,Miami FO,70KG,SF,2018
+17852,2999,Paulo Miyao,8814,Adam Benayoun,W,1,Pts: 9x4,Miami FO,70KG,F,2018
+18090,2999,Paulo Miyao,9606,Inseong Jang,W,1,Referee Decision,Spyder Inv. Final,76KG,SF,2018
+18195,2999,Paulo Miyao,9760,Frank Rosenthal,W,1,Pts: 10x1,Kasai Pro 4,65KG,R1,2018
+18198,2999,Paulo Miyao,4996,Geo Martinez,W,1,Pts: 2x0,Kasai Pro 4,65KG,R2,2018
+18797,2999,Paulo Miyao,,Abdullah Nabas,W,1,Pts: 11x2,Grand Slam AD,69KG,4F,2019
+18800,2999,Paulo Miyao,,Daniel Santana,W,1,Choke from back,Grand Slam AD,69KG,SF,2019
+18801,2999,Paulo Miyao,7156,Tiago Bravo,W,1,Choke from back,Grand Slam AD,69KG,F,2019
+18885,2999,Paulo Miyao,9150,Cole Franson,W,1,Pts: 10x2,European Open,70KG,4F,2019
+18889,2999,Paulo Miyao,8231,Leo Saggioro,W,1,Referee Decision,European Open,70KG,SF,2019
+19427,2999,Paulo Miyao,,A. Jabłonowski,W,1,Choke from back,Grand Slam LDN,69KG,4F,2019
+19430,2999,Paulo Miyao,8351,Joao Neto,W,1,"Pts: 2x2, Adv",Grand Slam LDN,69KG,SF,2019
+19431,2999,Paulo Miyao,6103,Isaac Doederlein,W,1,Pts: 4x2,Grand Slam LDN,69KG,F,2019
+19483,2999,Paulo Miyao,7156,Tiago Bravo,W,1,Pts: 10x2,King of Mats,69KG,RR,2019
+19485,2999,Paulo Miyao,6103,Isaac Doederlein,W,1,Pts: 2x0,King of Mats,69KG,RR,2019
+19486,2999,Paulo Miyao,,Bebeto Oliveira,W,1,"Pts: 2x2, Adv",King of Mats,69KG,RR,2019
+19489,2999,Paulo Miyao,1436,Samir Chantre,W,1,Pts: 3x0,King of Mats,69KG,RR,2019
+19494,2999,Paulo Miyao,6103,Isaac Doederlein,W,1,Referee Decision,King of Mats,69KG,F,2019
+19567,2999,Paulo Miyao,,Rene Lopez,W,1,Referee Decision,Pan American,64KG,4F,2019
+19875,2999,Paulo Miyao,174,Bruno Frazatto,W,1,Pts: 4x0,Orlando SPO,70KG,SF,2019
+19876,2999,Paulo Miyao,,Rick Slomba,W,1,Pts: 19x2,Orlando SPO,70KG,F,2019
+20035,2999,Paulo Miyao,9486,Murilo Amaral,W,1,Pts: 2x0,WP BR Qualifier,69KG,SF,2019
+20036,2999,Paulo Miyao,,Hilton Silva,W,1,Pts: 14x0,WP BR Qualifier,69KG,F,2019
+20083,2999,Paulo Miyao,,Mehdi Allaoui,W,1,Pts: 9x0,World Pro,69KG,R1,2019
+20085,2999,Paulo Miyao,,Jan Basso,W,1,Pts: 11x0,World Pro,69KG,4F,2019
+20087,2999,Paulo Miyao,,Jorge Nakamura,W,1,Reverse triangle,World Pro,69KG,SF,2019
+20088,2999,Paulo Miyao,6103,Isaac Doederlein,W,1,"Pts: 2x2, Adv",World Pro,69KG,F,2019
+20241,2999,Paulo Miyao,,Iago Rangel,W,1,Armbar,Brasileiro,70KG,R1,2019
+20244,2999,Paulo Miyao,,Gabriel Willcox,W,1,Choke from back,Brasileiro,70KG,R2,2019
+20254,2999,Paulo Miyao,8632,Thiago Macedo,W,1,Adv,Brasileiro,70KG,4F,2019
+20579,2999,Paulo Miyao,,Rodrigo Oyie,W,1,Choke from back,World Champ.,64KG,R2,2019
+20583,2999,Paulo Miyao,8069,Pablo Mantovani,W,1,Pts: 7x2,World Champ.,64KG,4F,2019
+21517,2999,Paulo Miyao,,Kamil Wilk,W,1,Triangle armbar,GrappleFest 6,72KG,SPF,2019
+21571,2999,Paulo Miyao,11093,Emilio Hernandez,W,1,Pts: 2x0,No Gi Pan Am.,67KG,F,2019
+21864,2999,Paulo Miyao,,Kenta Iwamoto,W,1,Pts: 5x0,ADCC,66KG,R1,2019
+21873,2999,Paulo Miyao,11735,Nicky Ryan,W,1,Pts: 2x0,ADCC,66KG,4F,2019
+21901,2999,Paulo Miyao,12003,Tye Ruotolo,W,1,Pts: 4x0,ADCC,66KG,3RD,2019
+22666,2999,Paulo Miyao,,Thiago Cintra,W,1,Pts: 11x0,NYC Fall Open,70KG,F,2019
+26085,2999,Paulo Miyao,,Joao Soeiro,W,1,Pts: 4x0,NoGi Pan Am.,61KG,4F,2021
+26087,2999,Paulo Miyao,10357,Richard Alarcon,W,1,Pts: 5x0,NoGi Pan Am.,61KG,SF,2021
+26088,2999,Paulo Miyao,,Bebeto Oliveira,W,1,Pts: 2x0,NoGi Pan Am.,61KG,F,2021
+28209,2999,Paulo Miyao,,Antione Gibson,W,1,Pts: 22x2,NoGi Worlds,61KG,8F,2021
+28211,2999,Paulo Miyao,,Joao Soeiro,W,1,Pts: 6x0,NoGi Worlds,61KG,4F,2021
+28216,2999,Paulo Miyao,11794,Willis Nunes,W,1,"Pts: 0x0, Adv",NoGi Worlds,61KG,SF,2021
+30544,2999,Paulo Miyao,,Daniel Groot,W,1,Choke from back,European Open,64KG,R1,2022
+30547,2999,Paulo Miyao,,Ronald Alves,W,1,"Pts: 6x6, Adv",European Open,64KG,4F,2022
+30550,2999,Paulo Miyao,,Huthayfah Penney,W,1,"Pts: 0x0, Adv",European Open,64KG,SF,2022
+35774,2999,Paulo Miyao,8525,Alexandre Vieira,W,1,Inside heel hook,BJJ Stars,70KG,SPF,2022

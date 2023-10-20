@@ -1,0 +1,161 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+5368,4235,Victor Silverio,1523,Clark Gracie,L,0,Kimura,Pan American,82KG,R1,2014
+5598,4235,Victor Silverio,446,Gilbert Burns,L,0,Pts: 2x0,Copa Podio,77KG,GP,2014
+5601,4235,Victor Silverio,4248,Gianni Grippo,D,0.5,---,Copa Podio,77KG,GP,2014
+5603,4235,Victor Silverio,1188,Leandro Lo,L,0,Pts: 8x0,Copa Podio,77KG,SF,2014
+5816,4235,Victor Silverio,1188,Leandro Lo,L,0,Adv,World Champ.,82KG,4F,2014
+6397,4235,Victor Silverio,9758,Kit Dale,D,0.5,---,Polaris,ABS,SPF,2015
+6499,4235,Victor Silverio,4521,Erberth Santos,L,0,"Pts: 0x0, Adv",European,ABS,R3,2015
+6583,4235,Victor Silverio,1386,Davi Ramos,L,0,Pts: 2x0,European,82KG,4F,2015
+6717,4235,Victor Silverio,4542,Felipe Cesar,L,0,Pts: 4x2,Gramado Trials,85KG,SF,2015
+6842,4235,Victor Silverio,2107,Otavio Sousa,L,0,Referee Decision,Pan American,82KG,4F,2015
+6922,4235,Victor Silverio,,William Martins,L,0,Adv,Rio Fall Open,ABS,R1,2015
+6936,4235,Victor Silverio,,Sandro Vieira,L,0,Points,Rio Fall Open,82KG,SF,2015
+7121,4235,Victor Silverio,3009,Keenan Cornelius,L,0,Armbar,World Pro,85KG,R2,2015
+7185,4235,Victor Silverio,1188,Leandro Lo,L,0,Pts: 4x2,World Pro,ABS,R2,2015
+7242,4235,Victor Silverio,443,Claudio Mattos,L,0,Referee Decision,Brasileiro,82KG,SF,2015
+7268,4235,Victor Silverio,4521,Erberth Santos,L,0,"Pts: 0x0, Adv",Brasileiro,ABS,SF,2015
+7461,4235,Victor Silverio,484,Murilo Santana,L,0,Referee Decision,World Champ.,82KG,8F,2015
+8536,4235,Victor Silverio,2107,Otavio Sousa,L,0,"Pts: 2x2, Adv",IBJJF NY Pro,82KG,F,2015
+9287,4235,Victor Silverio,4789,Marcos Tinoco,L,0,Referee Decision,Pan American,82KG,R1,2016
+9385,4235,Victor Silverio,425,Bernardo Faria,L,0,Triangle,Pan American,ABS,8F,2016
+9704,4235,Victor Silverio,5655,Lucas Barbosa,L,0,Pts: 5x2,San Antonio Open,88KG,F,2016
+9712,4235,Victor Silverio,5636,Manuel Ribamar,L,0,Pts: 6x4,San Antonio Open,ABS,SF,2016
+9888,4235,Victor Silverio,9711,Jurandir Conceicao,L,0,Points,Miami SPO,88KG,SF,2016
+9900,4235,Victor Silverio,4859,Ricardo Rezende,L,0,Armbar,Miami SPO,ABS,SF,2016
+9994,4235,Victor Silverio,5258,Dillon Danis,L,0,Referee Decision,World Champ.,82KG,R2,2016
+10448,4235,Victor Silverio,5238,Edwin Najmi,L,0,Injury,Grand Slam LA,77KG,F,2016
+11667,4235,Victor Silverio,6071,Gabriel Arges,L,0,Pts: 6x2,UAEJJF Orlando,85KG,F,2017
+11960,4235,Victor Silverio,6337,Arnaldo Maidana,L,0,Referee Decision,ACBJJ 4,85KG,4F,2017
+12167,4235,Victor Silverio,6563,Francisco Iturralde,L,0,"Pts: 2x2, Adv",Pan American,76KG,8F,2017
+12387,4235,Victor Silverio,390,Abmar Barbosa,L,0,Points,NY Spring Open,82KG,SF,2017
+13142,4235,Victor Silverio,7047,Matheus Spirandeli,L,0,"Pts: 2x2, Adv",World Champ.,82KG,8F,2017
+13519,4235,Victor Silverio,8081,Nathan Mendelsohn,L,0,Pts: 2x0,San Jose Open,82KG,F,2017
+13527,4235,Victor Silverio,1740,Yuri Simoes,L,0,Pts: 2x0,San Jose Open,ABS,F,2017
+14286,4235,Victor Silverio,11257,Gabriel Procopio,L,0,Points,Long Beach Open,82KG,F,2017
+14296,4235,Victor Silverio,3009,Keenan Cornelius,L,0,Pts: 8x0,Long Beach Open,ABS,F,2017
+14412,4235,Victor Silverio,4542,Felipe Cesar,L,0,Points,BJJ NY Pro,82KG,SF,2017
+14690,4235,Victor Silverio,7096,Josh Hinger,L,0,RNC,NoGi Worlds,79KG,4F,2017
+15145,4235,Victor Silverio,7664,Johnny Tama,L,0,Points,Houston Open,76KG,SF,2018
+15404,4235,Victor Silverio,2035,Vitor Oliveira,L,0,"Pts: 0x0, Pen",Pan American,76KG,4F,2018
+15741,4235,Victor Silverio,,Piter Frank,L,0,Adv,San Jose Open,76KG,F,2018
+15758,4235,Victor Silverio,1740,Yuri Simoes,L,0,Referee Decision,San Jose Open,ABS,F,2018
+16340,4235,Victor Silverio,122,Michael Langhi,L,0,Referee Decision,ACBJJ 13,75KG,SPF,2018
+16356,4235,Victor Silverio,9637,Sergio Rios,L,0,Pts: 2x0,ACB North America,75KG,4F,2018
+16380,4235,Victor Silverio,8357,Gustavo Batista,L,0,Pts: 2x0,ACB North America,ABS,4F,2018
+16511,4235,Victor Silverio,7539,Renato Canuto,L,0,"Pts: 0x0, Adv",World Champ.,76KG,4F,2018
+17237,4235,Victor Silverio,9344,PJ Barch,L,0,Pts: 2x0,Kasai Pro 3,77KG,RR,2018
+17239,4235,Victor Silverio,10759,Jason Rau,L,0,Inside heel hook,Kasai Pro 3,77KG,RR,2018
+17245,4235,Victor Silverio,7539,Renato Canuto,D,0.5,---,Kasai Pro 3,77KG,RR,2018
+17305,4235,Victor Silverio,9253,Michael Trasso,L,0,Pts: 6x2,LV NG Open,79KG,SF,2018
+17580,4235,Victor Silverio,9217,Caio Caetano,L,0,Referee Decision,Grand Slam LA,77KG,F,2018
+17810,4235,Victor Silverio,5636,Manuel Ribamar,L,0,Referee Decision,WSOG 2,81KG,F,2018
+18058,4235,Victor Silverio,9876,Alef Brito,L,0,Pen,SJJIF Worlds,82KG,4F,2018
+18639,4235,Victor Silverio,8138,Hugo Marques,L,0,"Pts: 0x0, Adv",NoGi Worlds,79KG,4F,2018
+19625,4235,Victor Silverio,4655,Michael Liera,L,0,Pts: 2x0,Pan American,82KG,8F,2019
+19997,4235,Victor Silverio,5660,Lucas Rocha,L,0,Pts: 5x2,San Jose Open,82KG,F,2019
+20015,4235,Victor Silverio,3122,Luiz Panza,L,0,Botinha,San Jose Open,ABS,F,2019
+20622,4235,Victor Silverio,9121,Ygor Rodrigues,L,0,Referee Decision,World Champ.,76KG,R2,2019
+21678,4235,Victor Silverio,4460,Jaime Canuto,L,0,"Pts: 0x0, Adv",Grand Slam LA,77KG,4F,2019
+22522,4235,Victor Silverio,12110,Nick Rodriguez,L,0,EBI/OT,BJJ Fanatics,ABS,R1,2019
+26730,4235,Victor Silverio,12323,Luan Andrei,L,0,DQ,American NGN,79KG,F,2021
+37980,4235,Victor Silverio,8514,Fellipe Andrew,L,0,Pts: 4x0,LA NGO,ABS,SF,2023
+39051,4235,Victor Silverio,11208,Jackson Nagai,L,0,Referee Decision,Santa Cruz O,82KG,SF,2023
+42487,4235,Victor Silverio,11707,Oliver Taza,L,0,Referee Decision,EUG JJB,82KG,4F,2023
+5216,4235,Victor Silverio,8290,Marcos Costa,W,1,Choke,Etapa 2 FJJR,82KG,F,2014
+5586,4235,Victor Silverio,2304,Fernando Vieira,D,0.5,---,Copa Podio,77KG,GP,2014
+5596,4235,Victor Silverio,,M. Andre,W,1,Choke from back,Copa Podio,77KG,GP,2014
+5605,4235,Victor Silverio,446,Gilbert Burns,W,1,"Pts: 2x2, Pen",Copa Podio,77KG,3PLC,2014
+5879,4235,Victor Silverio,,Unknown,W,1,Armbar,Rio Open,ABS,R1,2014
+5880,4235,Victor Silverio,,Andre 'Deco',W,1,"Pts: 2x2, Adv",Rio Open,ABS,R2,2014
+5881,4235,Victor Silverio,6792,Cassio Francis,W,1,Adv,Rio Open,ABS,4F,2014
+5882,4235,Victor Silverio,,Alan Regis,W,1,Adv,Rio Open,ABS,SF,2014
+5883,4235,Victor Silverio,,Unknown,W,1,Pts: 10x4,Rio Open,82KG,4F,2014
+5885,4235,Victor Silverio,8334,Diego Vivaldo,W,1,Adv,Rio Open,82KG,SF,2014
+5895,4235,Victor Silverio,4542,Felipe Cesar,W,1,Referee Decision,SP Open,82KG,SF,2014
+5936,4235,Victor Silverio,1055,Tiago Alves,W,1,Pts: 1x0,Rematch G.,82KG,SPF,2014
+6485,4235,Victor Silverio,,Vinicius Nascimento,W,1,Pts: 6x0,European,ABS,R2,2015
+6572,4235,Victor Silverio,,Youngam Noh,W,1,"Pts: 2x2, Adv",European,82KG,R1,2015
+6577,4235,Victor Silverio,,Thomas Oyarzun,W,1,Adv,European,82KG,R2,2015
+6712,4235,Victor Silverio,,Elfraklin Souza,W,1,Referee Decision,Gramado Trials,85KG,R1,2015
+6715,4235,Victor Silverio,2324,Eduardo Santoro,W,1,"Pts: 0x0, Adv",Gramado Trials,85KG,4F,2015
+6821,4235,Victor Silverio,,Jonatas Novaes,W,1,Pts: 6x0,Pan American,82KG,R1,2015
+6833,4235,Victor Silverio,7672,Caio Almeida,W,1,"Pts: 2x2, Adv",Pan American,82KG,R3,2015
+6935,4235,Victor Silverio,,Ricardo Lima,W,1,Bow and arrow,Rio Fall Open,82KG,4F,2015
+7112,4235,Victor Silverio,,Fabio Pulita,W,1,"Pts: 0x0, Adv",World Pro,85KG,R1,2015
+7183,4235,Victor Silverio,,Antonio Junior,W,1,Pts: 2x0,World Pro,ABS,R1,2015
+7260,4235,Victor Silverio,,Felipe Grili,W,1,Points,Brasileiro,ABS,R1,2015
+7264,4235,Victor Silverio,,Julian Matsumoto,W,1,Points,Brasileiro,ABS,R2,2015
+7266,4235,Victor Silverio,4960,Dimitrius Souza,W,1,Adv,Brasileiro,ABS,4F,2015
+8291,4235,Victor Silverio,4859,Ricardo Rezende,W,1,"Pts: 0x0, Adv",Miami Open,88KG,SF,2015
+8293,4235,Victor Silverio,4145,Thiago Sa,W,1,Pts: 4x2,Miami Open,88KG,F,2015
+8533,4235,Victor Silverio,8081,Nathan Mendelsohn,W,1,Pts: 2x0,IBJJF NY Pro,82KG,4F,2015
+8534,4235,Victor Silverio,6095,Mansher Khera,W,1,Pts: 4x0,IBJJF NY Pro,82KG,SF,2015
+9368,4235,Victor Silverio,,Nathan Mendhelson,W,1,Pts: 6x0,Pan American,ABS,R1,2016
+9495,4235,Victor Silverio,,Olivier Kee-Seng,W,1,Armbar,Boston Spring O.,82KG,SF,2016
+9496,4235,Victor Silverio,,Sean Fisher,W,1,Pts: 8x0,Boston Spring O.,82KG,F,2016
+9501,4235,Victor Silverio,,Olivier Huerre,W,1,Bow and arrow,Boston Spring O.,ABS,SF,2016
+9503,4235,Victor Silverio,1322,Gregor Gracie,W,1,Referee Decision,Boston Spring O.,ABS,F,2016
+9703,4235,Victor Silverio,,Jose Portillo,W,1,Points,San Antonio Open,88KG,SF,2016
+10211,4235,Victor Silverio,,Ryan Golgosky,W,1,Bow and arrow,American Nats,82KG,SF,2016
+10213,4235,Victor Silverio,5636,Manuel Ribamar,W,1,Referee Decision,American Nats,82KG,F,2016
+10446,4235,Victor Silverio,1659,Bruno Alves,W,1,Pts: 4x0,Grand Slam LA,77KG,SF,2016
+12157,4235,Victor Silverio,,Morgan Neidlinger,W,1,Pts: 7x0,Pan American,76KG,R2,2017
+12405,4235,Victor Silverio,,Samir Abdolkader,W,1,Adv,NY Spring Open,ABS,4F,2017
+12406,4235,Victor Silverio,,Nicolas Penzer,W,1,Adv,NY Spring Open,ABS,SF,2017
+12408,4235,Victor Silverio,7399,Horlando Monteiro,W,1,Referee Decision,NY Spring Open,ABS,F,2017
+12411,4235,Victor Silverio,,Enrique Galarza,W,1,Points,NY Spring No-Gi,79KG,F,2017
+12934,4235,Victor Silverio,6354,Jonathan Satava,W,1,Pts: 3x0,Miami SPO,82KG,F,2017
+13130,4235,Victor Silverio,7831,Diego Ramalho,W,1,"Pts: 2x2, Adv",World Champ.,82KG,R1,2017
+13518,4235,Victor Silverio,7664,Johnny Tama,W,1,Points,San Jose Open,82KG,SF,2017
+13524,4235,Victor Silverio,5655,Lucas Barbosa,W,1,Points,San Jose Open,ABS,4F,2017
+13525,4235,Victor Silverio,,Omar Sabha,W,1,Points,San Jose Open,ABS,SF,2017
+13772,4235,Victor Silverio,7664,Johnny Tama,W,1,"Pts: 0x0, Adv",San Diego Pro,82KG,4F,2017
+13775,4235,Victor Silverio,7143,Breno Bittencourt,W,1,"Pts: 0x0, Adv",San Diego Pro,82KG,4F,2017
+13817,4235,Victor Silverio,5636,Manuel Ribamar,W,1,Choke from back,Grand Slam LA,85KG,R1,2017
+13822,4235,Victor Silverio,8116,Dante Leon,W,1,"Pts: 0x0, Adv",Grand Slam LA,85KG,SF,2017
+13823,4235,Victor Silverio,7831,Diego Ramalho,W,1,"Pts: 0x0, Adv",Grand Slam LA,85KG,F,2017
+14284,4235,Victor Silverio,9637,Sergio Rios,W,1,Points,Long Beach Open,82KG,SF,2017
+14293,4235,Victor Silverio,,Wellington Peroto,W,1,Points,Long Beach Open,ABS,4F,2017
+14295,4235,Victor Silverio,,Joseph Moku,W,1,Points,Long Beach Open,ABS,SF,2017
+14411,4235,Victor Silverio,8477,Igor Paiva,W,1,Points,BJJ NY Pro,82KG,4F,2017
+14687,4235,Victor Silverio,11257,Gabriel Procopio,W,1,"Pts: 0x0, Adv",NoGi Worlds,79KG,R2,2017
+15158,4235,Victor Silverio,6156,Tanner Rice,W,1,Pts: 3x2,Houston Open,ABS,SF,2018
+15395,4235,Victor Silverio,8138,Hugo Marques,W,1,Referee Decision,Pan American,76KG,8F,2018
+15739,4235,Victor Silverio,,Robert Wolfe,W,1,Choke from back,San Jose Open,76KG,SF,2018
+15752,4235,Victor Silverio,,Edmond Kim,W,1,Adv,San Jose Open,ABS,R1,2018
+16375,4235,Victor Silverio,9246,Tex Johnson,W,1,Referee Decision,ACB North America,ABS,8F,2018
+16499,4235,Victor Silverio,,Alex Cabanes,W,1,"Pts: 0x0, Adv",World Champ.,76KG,R2,2018
+16506,4235,Victor Silverio,7645,Masahiro Iwasaki,W,1,Adv,World Champ.,76KG,R3,2018
+17276,4235,Victor Silverio,9253,Michael Trasso,W,1,Pts: 2x0,Las Vegas Open,82KG,4F,2018
+17277,4235,Victor Silverio,,Dainys Huu,W,1,Bow and arrow,Las Vegas Open,82KG,SF,2018
+17278,4235,Victor Silverio,,Victor Rodrigues,W,1,RNC,Las Vegas Open,82KG,F,2018
+17303,4235,Victor Silverio,,Dainys Huu,W,1,Points,LV NG Open,79KG,4F,2018
+17569,4235,Victor Silverio,6836,John Combs,W,1,Referee Decision,Grand Slam LA,77KG,R1,2018
+17574,4235,Victor Silverio,,Bruno Tosto,W,1,"Pts: 0x0, Adv",Grand Slam LA,77KG,4F,2018
+17578,4235,Victor Silverio,11465,Kauan Barboza,W,1,Referee Decision,Grand Slam LA,77KG,SF,2018
+17801,4235,Victor Silverio,,I. Jennings,W,1,Cross choke,WSOG 2,81KG,8F,2018
+17806,4235,Victor Silverio,7552,Isaque Bahiense,W,1,Referee Decision,WSOG 2,81KG,4F,2018
+17807,4235,Victor Silverio,,J. Gracie,W,1,Referee Decision,WSOG 2,81KG,SF,2018
+18177,4235,Victor Silverio,,Edmund Kim,W,1,Points,Long Beach Open,82KG,SF,2018
+18178,4235,Victor Silverio,4465,Andris Brunovskis,W,1,Points,Long Beach Open,82KG,F,2018
+18625,4235,Victor Silverio,,Alvin Robinson,W,1,Pts: 11x0,NoGi Worlds,79KG,R1,2018
+18636,4235,Victor Silverio,,Athos Miranda,W,1,"Pts: 0x0, Adv",NoGi Worlds,79KG,R2,2018
+19158,4235,Victor Silverio,5660,Lucas Rocha,W,1,Points,OC Open,82KG,RR,2019
+19160,4235,Victor Silverio,4460,Jaime Canuto,W,1,Points,OC Open,82KG,F,2019
+19608,4235,Victor Silverio,,Demian Nitkin,W,1,Pts: 7x0,Pan American,82KG,R1,2019
+19994,4235,Victor Silverio,7332,Hunter Ewald,W,1,Points,San Jose Open,82KG,4F,2019
+19996,4235,Victor Silverio,11465,Kauan Barboza,W,1,Pts: 2x0,San Jose Open,82KG,SF,2019
+20012,4235,Victor Silverio,,Daniel Augustus,W,1,"Pts: 0x0, Adv",San Jose Open,ABS,4F,2019
+20013,4235,Victor Silverio,9321,Dominique Bell,W,1,Referee Decision,San Jose Open,ABS,SF,2019
+20614,4235,Victor Silverio,,Piter Frank,W,1,Pts: 4x2,World Champ.,76KG,R1,2019
+20998,4235,Victor Silverio,,Thiago Lemos,W,1,Referee Decision,Subversiv 2,77KG,SPF,2019
+21674,4235,Victor Silverio,10835,Eduardo Avelar,W,1,Referee Decision,Grand Slam LA,77KG,R1,2019
+21683,4235,Victor Silverio,,Saul Viayra,W,1,"Pts: 0x0, Adv",Grand Slam LA,77KG,RPC,2019
+21684,4235,Victor Silverio,9217,Caio Caetano,W,1,"Pts: 2x2, Adv",Grand Slam LA,77KG,RPC,2019
+26727,4235,Victor Silverio,12235,Alan Sanchez,W,1,"Pts: 0x0, Adv",American NGN,79KG,4F,2021
+26728,4235,Victor Silverio,,Michael Salazar,W,1,Pts: 6x0,American NGN,79KG,SF,2021
+37975,4235,Victor Silverio,,Saul Viayra,W,1,Aoki lock,LA NGO,79KG,F,2023
+39050,4235,Victor Silverio,,Daniel Araujo,W,1,Americana,Santa Cruz O,82KG,4F,2023
+41786,4235,Victor Silverio,,Juan Armendariz,W,1,RNC,SD SMNGO,79KG,RR,2023
+41787,4235,Victor Silverio,,Juan Armendariz,W,1,Adv,SD SMNGO,79KG,F,2023

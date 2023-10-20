@@ -1,0 +1,30 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+7369,7442,Edward Cummings,5649,Garry Tonon,L,0,Triangle armbar,EBI 3,77KG,SF,2015
+7965,7442,Edward Cummings,188,Augusto Mendes,L,0,Pen,ADCC,66KG,4F,2015
+9410,7442,Edward Cummings,188,Augusto Mendes,D,0.5,---,Polaris 3,70KG,SPF,2016
+11271,7442,Edward Cummings,4996,Geo Martinez,L,0,EBI/OT,EBI 10,61KG,F,2016
+6666,7442,Edward Cummings,,Dennis Prokopos,W,1,Outside heel hook,Gracie Nationals,ABS,SPF,2015
+7200,7442,Edward Cummings,,John Joseph,W,1,Outside heel hook,ADCC US Trials,66KG,4F,2015
+7201,7442,Edward Cummings,,Ruben Alvarez,W,1,Inside heel hook,ADCC US Trials,66KG,SF,2015
+7202,7442,Edward Cummings,,Walter Gomes,W,1,Armbar,ADCC US Trials,66KG,F,2015
+7361,7442,Edward Cummings,,Lauri Karppinen,W,1,Outside heel hook,EBI 3,77KG,R1,2015
+7367,7442,Edward Cummings,7247,Enrico Cocco,W,1,Inside heel hook,EBI 3,77KG,4F,2015
+7810,7442,Edward Cummings,,Kevin Berbrich,W,1,Outside heel hook,EBI 4,65KG,R1,2015
+7814,7442,Edward Cummings,,Russ Miura,W,1,Outside heel hook,EBI 4,65KG,4F,2015
+7818,7442,Edward Cummings,1023,Baret Yoshida,W,1,Inside heel hook,EBI 4,65KG,SF,2015
+7819,7442,Edward Cummings,,Joe Soto,W,1,Inside heel hook,EBI 4,65KG,F,2015
+7958,7442,Edward Cummings,,Asadulaev Surkhay,W,1,Outside heel hook,ADCC,66KG,R1,2015
+8035,7442,Edward Cummings,,Reilly Bodycomb,W,1,Inside heel hook,Polaris 2,70KG,SPF,2015
+9157,7442,Edward Cummings,6095,Mansher Khera,W,1,Referee Decision,Grappling Ind.,ABS,SPF,2016
+9455,7442,Edward Cummings,,Nathan Orchard,W,1,Outside heel hook,PTL Sunday Open,ABS,SPF,2016
+10290,7442,Edward Cummings,,Sergio Hernandez,W,1,RNC,EBI 7,65KG,R1,2016
+10298,7442,Edward Cummings,,Chad George,W,1,Inside heel hook,EBI 7,65KG,4F,2016
+10302,7442,Edward Cummings,,Mike Davila,W,1,RNC,EBI 7,65KG,SF,2016
+10304,7442,Edward Cummings,898,Bill Cooper,W,1,Inside heel hook,EBI 7,65KG,F,2016
+11261,7442,Edward Cummings,,Alessandro Costa,W,1,Outside heel hook,EBI 10,61KG,R1,2016
+11267,7442,Edward Cummings,9377,Alexis Alduncin,W,1,Inside heel hook,EBI 10,61KG,4F,2016
+11270,7442,Edward Cummings,1023,Baret Yoshida,W,1,Inside heel hook,EBI 10,61KG,SF,2016
+12444,7442,Edward Cummings,1436,Samir Chantre,W,1,Referee Decision,F2W 31,70KG,SPF,2017
+14505,7442,Edward Cummings,,Jacob Sandoval,W,1,RNC,F2W 56,70KG,SPF,2017
+15868,7442,Edward Cummings,7539,Renato Canuto,W,1,Referee Decision,Kasai Pro 2,72KG,SPF,2018
+19776,7442,Edward Cummings,,William Wolk,W,1,Referee Decision,F2W 108,65KG,SPF,2019

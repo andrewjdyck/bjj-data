@@ -1,0 +1,17 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+28605,13220,Thais Loureiro,12201,Duda Tozoni,L,0,Referee Decision,Grand Slam RJ,49KG,SF,2021
+28610,13220,Thais Loureiro,11314,Jessica Caroline,L,0,Pts: 3x0,Grand Slam RJ,49KG,3RD,2021
+32052,13220,Thais Loureiro,12744,Mariana Rolszt,L,0,Armbar,BJJ Stars,49KG,SPF,2022
+32209,13220,Thais Loureiro,12744,Mariana Rolszt,L,0,"Pts: 0x0, Adv",Brasileiro,49KG,SF,2022
+34427,13220,Thais Loureiro,,Grasielle Brandao,L,0,Pts: 6x0,AJP SA Team,49KG,RR,2022
+37276,13220,Thais Loureiro,11314,Jessica Caroline,L,0,"Pts: 0x0, Adv",European Open,49KG,F,2023
+39581,13220,Thais Loureiro,13167,Giulia Gregorut,L,0,Pts: 4x0,Brasileiro,49KG,4F,2023
+40667,13220,Thais Loureiro,,Flavia Soares,L,0,Pts: 1x1,Grand Slam RJ,49KG,R1,2023
+41088,13220,Thais Loureiro,13505,Maria Luiza,L,0,Pts: 19x2,Betim Open,64KG,F,2023
+41264,13220,Thais Loureiro,13427,Shelby Murphey,L,0,Pts: 4x0,Asian Open,49KG,F,2023
+41270,13220,Thais Loureiro,12233,Margot Ciccarelli,L,0,Kimura,Asian Open,ABS,SF,2023
+28603,13220,Thais Loureiro,,Hanna Tavares,W,1,Referee Decision,Grand Slam RJ,49KG,4F,2021
+28608,13220,Thais Loureiro,12744,Mariana Rolszt,W,1,Referee Decision,Grand Slam RJ,49KG,RPC,2021
+30657,13220,Thais Loureiro,,Kaori Hernandez,W,1,Adv,European Open,49KG,F,2022
+37275,13220,Thais Loureiro,,Nini Hoang,W,1,Points,European Open,49KG,SF,2023
+41087,13220,Thais Loureiro,,Marina Monteiro,W,1,Choke from back,Betim Open,64KG,SF,2023

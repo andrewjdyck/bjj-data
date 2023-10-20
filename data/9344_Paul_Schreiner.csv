@@ -1,0 +1,83 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+9130,9344,Paul Schreiner,6550,Gordon Ryan,L,0,Kneebar,Sapateiro Inv.,ABS,SF,2016
+14231,9344,Paul Schreiner,8394,Vagner Rocha,L,0,EBI/OT,EBI 13,70KG,4F,2017
+17240,9344,Paul Schreiner,7539,Renato Canuto,L,0,Pts: 1x0,Kasai Pro 3,77KG,RR,2018
+17247,9344,Paul Schreiner,10759,Jason Rau,L,0,Pts: 10x3,Kasai Pro 3,77KG,RR,2018
+17736,9344,Paul Schreiner,1322,Gregor Gracie,L,0,Kneebar,Quintet 3,ABS,SF,2018
+21760,9344,Paul Schreiner,9637,Sergio Rios,L,0,Armbar,F2W 126,79KG,SPF,2019
+23516,9344,Paul Schreiner,11707,Oliver Taza,L,0,Inside heel hook,BJJ Fanatics GP,77KG,4F,2020
+23916,9344,Paul Schreiner,11223,Ethan Crelinsten,L,0,EBI/OT,SUG 17,ABS,SPF,2020
+25171,9344,Paul Schreiner,11808,Andrew Wiltse,L,0,Referee Decision,WNO 6,84KG,SPF,2021
+25964,9344,Paul Schreiner,11735,Nicky Ryan,L,0,Referee Decision,WNO 8,83KG,SPF,2021
+26128,9344,Paul Schreiner,,Josh Bacallao,L,0,Pts: 2x0,NoGi Pan Am.,79KG,8F,2021
+28285,9344,Paul Schreiner,8116,Dante Leon,L,0,"Pts: 2x2, Adv",NoGi Worlds,79KG,4F,2021
+28869,9344,Paul Schreiner,12005,Kade Ruotolo,L,0,Pts: 2x0,ADCC EC Trials,77KG,SF,2021
+28872,9344,Paul Schreiner,11049,Kody Steele,L,0,Referee Decision,ADCC EC Trials,77KG,3RD,2021
+31463,9344,Paul Schreiner,12703,Andy Varela,L,0,Referee Decision,ADCC WC Trials,77KG,SF,2022
+33522,9344,Paul Schreiner,11797,Giancarlo Bodoni,D,0.5,---,UFC Inv. 2,ABS,RR,2022
+35029,9344,Paul Schreiner,12005,Kade Ruotolo,L,0,Armbar,ADCC,77KG,SF,2022
+35031,9344,Paul Schreiner,8116,Dante Leon,L,0,Armbar,ADCC,77KG,3RD,2022
+41324,9344,Paul Schreiner,8116,Dante Leon,L,0,Referee Decision,247 Fighting,NA,SPF,2023
+42515,9344,Paul Schreiner,12110,Nick Rodriguez,D,0.5,---,Quintet 4,ABS,NA,2023
+43162,9344,Paul Schreiner,13172,Andrew Tackett,L,0,Referee Decision,WNO 20,77KG,SF,2023
+43163,9344,Paul Schreiner,12122,Mica Galvao,L,0,Armbar,WNO 20,77KG,F,2023
+9127,9344,Paul Schreiner,,Tony Barr,W,1,Outside heel hook,Sapateiro Inv.,ABS,4F,2016
+11288,9344,Paul Schreiner,,Robert Ezel,W,1,Inside heel hook,Onnit Inv. 3,77KG,4F,2016
+11289,9344,Paul Schreiner,,Bill Watts,W,1,Armbar,Onnit Inv. 3,77KG,SF,2016
+11290,9344,Paul Schreiner,,L. Valente,W,1,RNC,Onnit Inv. 3,77KG,F,2016
+11371,9344,Paul Schreiner,,Mike Main,W,1,EBI/OT,Show the Art,N/A,N/A,2016
+11372,9344,Paul Schreiner,,Mike Davilla,W,1,EBI/OT,Show the Art,N/A,N/A,2016
+11373,9344,Paul Schreiner,10759,Jason Rau,W,1,Armbar,Show the Art,N/A,N/A,2016
+11407,9344,Paul Schreiner,6419,Marcel Goncalves,W,1,Points,Gracie Worlds,ABS,SPF,2017
+11722,9344,Paul Schreiner,,Corey Brokaw,W,1,Armbar,Sapateiro 10,72KG,R1,2017
+11724,9344,Paul Schreiner,,Werther Marciales,W,1,Armbar,Sapateiro 10,72KG,4F,2017
+11725,9344,Paul Schreiner,10759,Jason Rau,W,1,Inside heel hook,Sapateiro 10,72KG,SF,2017
+11726,9344,Paul Schreiner,,Pierre Leclerc,W,1,RNC,Sapateiro 10,72KG,F,2017
+14226,9344,Paul Schreiner,,Jason Soares,W,1,EBI/OT,EBI 13,70KG,R1,2017
+16917,9344,Paul Schreiner,,Krysiek Schorabski,D,0.5,---,Quintet II,ABS,N/A,2018
+16923,9344,Paul Schreiner,2221,Daisuke Nakamura,D,0.5,---,Quintet II,ABS,N/A,2018
+17237,9344,Paul Schreiner,4235,Victor Silverio,W,1,Pts: 2x0,Kasai Pro 3,77KG,RR,2018
+17622,9344,Paul Schreiner,,Jason Youseph,W,1,Neck crank,Subversiv,ABS,SF,2018
+17626,9344,Paul Schreiner,,A. Claiborne,W,1,Heel hook,Subversiv,ABS,F,2018
+17735,9344,Paul Schreiner,81,Vitor Shaolin,W,1,Armbar,Quintet 3,ABS,SF,2018
+17997,9344,Paul Schreiner,,Jordan Peitzman,W,1,Reverse triangle,Onnit Inv. 9,77KG,4F,2018
+17998,9344,Paul Schreiner,9668,David Garmo,W,1,EBI/OT,Onnit Inv. 9,77KG,SF,2018
+17999,9344,Paul Schreiner,,Will Tacket,W,1,Kimura,Onnit Inv. 9,77KG,F,2018
+18122,9344,Paul Schreiner,,K. Fadlallah,W,1,Armbar,ADCC EC Trials,77KG,R1,2018
+18131,9344,Paul Schreiner,,Peter Shoemaker,W,1,Inside heel hook,ADCC EC Trials,77KG,R2,2018
+18137,9344,Paul Schreiner,,Josh Bacallao,W,1,Pts: 2x0,ADCC EC Trials,77KG,8F,2018
+18139,9344,Paul Schreiner,,W. Tackett,W,1,Referee Decision,ADCC EC Trials,77KG,4F,2018
+22727,9344,Paul Schreiner,,Marcin Held,W,1,Referee Decision,Polaris 12,77KG,SPF,2019
+24235,9344,Paul Schreiner,,Jaron Pagduan,W,1,Inside heel hook,Sin City Series,77KG,4F,2020
+24237,9344,Paul Schreiner,,Mikey Rolls,W,1,Inside heel hook,Sin City Series,77KG,SF,2020
+24238,9344,Paul Schreiner,12235,Alan Sanchez,W,1,Inside heel hook,Sin City Series,77KG,F,2020
+25766,9344,Paul Schreiner,,Andrew Solano,W,1,RNC,Emerald City,84KG,R1,2021
+25772,9344,Paul Schreiner,,W. Marciales,W,1,Armbar,Emerald City,84KG,4F,2021
+25775,9344,Paul Schreiner,6836,John Combs,W,1,Inside heel hook,Emerald City,84KG,SF,2021
+25777,9344,Paul Schreiner,12235,Alan Sanchez,W,1,Kimura,Emerald City,84KG,F,2021
+26122,9344,Paul Schreiner,10835,Eduardo Avelar,W,1,RNC,NoGi Pan Am.,79KG,R1,2021
+27988,9344,Paul Schreiner,,Caleb McCallister,W,1,Submission,BJJ Fanatics,ABS,R1,2021
+27994,9344,Paul Schreiner,,Pierre Leclerc,W,1,Referee Decision,BJJ Fanatics,ABS,SF,2021
+28272,9344,Paul Schreiner,10295,Italo Moura,W,1,Referee Decision,NoGi Worlds,79KG,R2,2021
+28281,9344,Paul Schreiner,11707,Oliver Taza,W,1,Referee Decision,NoGi Worlds,79KG,8F,2021
+28821,9344,Paul Schreiner,,Dante Muschamp,W,1,Pts: 2x0,ADCC EC Trials,77KG,R2,2021
+28832,9344,Paul Schreiner,,Daniel Lyons,W,1,Armbar,ADCC EC Trials,77KG,R3,2021
+28848,9344,Paul Schreiner,,Kyle Perkins,W,1,Inside heel hook,ADCC EC Trials,77KG,R4,2021
+28859,9344,Paul Schreiner,,Steven Ramos,W,1,Pts: 4x0,ADCC EC Trials,77KG,R5,2021
+28866,9344,Paul Schreiner,12235,Alan Sanchez,W,1,Pts: 3x0,ADCC EC Trials,77KG,4F,2021
+31402,9344,Paul Schreiner,,Javier Bejarano,W,1,Kimura,ADCC WC Trials,77KG,R1,2022
+31419,9344,Paul Schreiner,,Joshua Dawson,W,1,RNC,ADCC WC Trials,77KG,R2,2022
+31445,9344,Paul Schreiner,,Victor Medina,W,1,RNC,ADCC WC Trials,77KG,R4,2022
+31453,9344,Paul Schreiner,,Placido Santos,W,1,RNC,ADCC WC Trials,77KG,8F,2022
+31461,9344,Paul Schreiner,4328,AJ Agazarm,W,1,RNC,ADCC WC Trials,77KG,4F,2022
+31466,9344,Paul Schreiner,,Chris Wojcik,W,1,Pts: 4x0,ADCC WC Trials,77KG,3RD,2022
+32809,9344,Paul Schreiner,8116,Dante Leon,W,1,Referee Decision,GrappleFest 12,NA,SPF,2022
+33521,9344,Paul Schreiner,,Christos Papadelos,W,1,RNC,UFC Inv. 2,ABS,RR,2022
+33834,9344,Paul Schreiner,,Jeremy Pere,W,1,RNC,SO Series VII,77KG,R1,2022
+33841,9344,Paul Schreiner,,Brady Wicklund,W,1,Inside heel hook,SO Series VII,77KG,4F,2022
+33844,9344,Paul Schreiner,6836,John Combs,W,1,Cross face,SO Series VII,77KG,SF,2022
+33845,9344,Paul Schreiner,,Chris Wojcik,W,1,Inside heel hook,SO Series VII,77KG,F,2022
+35018,9344,Paul Schreiner,8105,Tommy Langaker,W,1,Pts: 3x0,ADCC,77KG,R1,2022
+35024,9344,Paul Schreiner,967,JT Torres,W,1,Pts: 4x0,ADCC,77KG,4F,2022
+42504,9344,Paul Schreiner,,Tomoshige Sera,W,1,RNC,Quintet 4,ABS,NA,2023
+42505,9344,Paul Schreiner,,Kazushi Sakuraba,D,0.5,---,Quintet 4,ABS,NA,2023

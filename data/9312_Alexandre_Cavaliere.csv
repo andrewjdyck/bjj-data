@@ -1,0 +1,93 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+9171,9312,Alexandre Cavaliere,1600,Vinicius Marinho,L,0,Arm in Ezekiel,Rio Summer Open,82KG,4F,2016
+10576,9312,Alexandre Cavaliere,4460,Jaime Canuto,L,0,Adv,Sao Paulo Open,82KG,4F,2016
+11377,9312,Alexandre Cavaliere,11039,Flavio Vianna,L,0,Adv,C. Gracie Cup,82KG,F,2016
+11454,9312,Alexandre Cavaliere,1824,Roberto Satoshi,L,0,Pts: 6x2,Grand Slam AD,75KG,SF,2017
+11455,9312,Alexandre Cavaliere,5238,Edwin Najmi,L,0,RNC,Grand Slam AD,75KG,3RD,2017
+11586,9312,Alexandre Cavaliere,256,Oliver Geddes,L,0,Pts: 2x0,European Open,82KG,8F,2017
+12780,9312,Alexandre Cavaliere,4460,Jaime Canuto,L,0,Armbar,Brasileiro,82KG,4F,2017
+13498,9312,Alexandre Cavaliere,387,Braga Neto,L,0,Choke from back,Gracie Pro,ABS,R1,2017
+14359,9312,Alexandre Cavaliere,6375,Ruan Oliveira,L,0,Referee Decision,Grand Slam RJ,85KG,8F,2017
+14470,9312,Alexandre Cavaliere,7552,Isaque Bahiense,L,0,Choke from back,South American,82KG,4F,2017
+14516,9312,Alexandre Cavaliere,,Chaise Olimpio,L,0,Triangle,Brasilia Open,82KG,F,2017
+14524,9312,Alexandre Cavaliere,6792,Cassio Francis,L,0,Kneebar,Brasilia Open,ABS,SF,2017
+14528,9312,Alexandre Cavaliere,,Marcos Aurelio,L,0,Points,Brasilia NGO,ABS,F,2017
+14867,9312,Alexandre Cavaliere,,R. Martins,L,0,Toe hold,European Open,ABS,R1,2018
+14924,9312,Alexandre Cavaliere,4542,Felipe Cesar,L,0,Pts: 2x0,European Open,82KG,R1,2018
+15814,9312,Alexandre Cavaliere,8528,Servio Tulio,L,0,Short choke,Rio Open,82KG,F,2018
+15945,9312,Alexandre Cavaliere,9700,David Raab,L,0,Loop choke,Curitiba Open,82KG,F,2018
+16245,9312,Alexandre Cavaliere,5347,Yago Souza,L,0,Pts: 2x0,Brasileiro,82KG,8F,2018
+17483,9312,Alexandre Cavaliere,,Andre Astolfo,L,0,Points,Sao Paulo Open,82KG,4F,2018
+17709,9312,Alexandre Cavaliere,,Abner Soares,L,0,Pts: 2x0,Brasileiro NoGi,85KG,4F,2018
+18039,9312,Alexandre Cavaliere,5078,Luan Carvalho,L,0,Pts: 4x0,Rio BJJ Pro,82KG,F,2018
+18277,9312,Alexandre Cavaliere,6432,Yan Lucas,L,0,Pts: 2x0,Grand Slam RJ,77KG,R1,2018
+18907,9312,Alexandre Cavaliere,4655,Michael Liera,L,0,Triangle,European Open,82KG,R1,2019
+19298,9312,Alexandre Cavaliere,8647,Igor Verissimo,L,0,Triangle,Curitiba SMO,82KG,SF,2019
+19820,9312,Alexandre Cavaliere,5756,Wellington Luis,L,0,Pts: 4x0,Rio FO,82KG,SF,2019
+19834,9312,Alexandre Cavaliere,,Kitner Moura,L,0,"Pts: 0x0, Pen",Rio FO,ABS,SF,2019
+20290,9312,Alexandre Cavaliere,,Ronieri Silva,L,0,"Pts: 0x0, Adv",Brasileiro,82KG,R2,2019
+20530,9312,Alexandre Cavaliere,,Romario Teodoro,L,0,Points,Salvador FO,82KG,SF,2019
+20538,9312,Alexandre Cavaliere,,Luis Ferlin,L,0,Referee Decision,Salvador FO,ABS,4F,2019
+20818,9312,Alexandre Cavaliere,8477,Igor Paiva,L,0,Adv,Rio Open,82KG,F,2019
+21333,9312,Alexandre Cavaliere,9121,Ygor Rodrigues,L,0,Pts: 2x0,Floripa WO,76KG,SF,2019
+21722,9312,Alexandre Cavaliere,13458,Leandro Rounaud,L,0,Pts: 12x0,Sao Paulo Open,76KG,F,2019
+22100,9312,Alexandre Cavaliere,,Djalma Santana,L,0,N/A,Curitiba SPO,76KG,4F,2019
+22299,9312,Alexandre Cavaliere,7831,Diego Ramalho,L,0,Referee Decision,Grand Slam RJ,77KG,R1,2019
+22460,9312,Alexandre Cavaliere,,Wellington Marques,L,0,Points,Rio BJJ Pro,82KG,SF,2019
+22576,9312,Alexandre Cavaliere,,Alexandre Pereira,L,0,"Pts: 2x2, Pen",South American,82KG,R1,2019
+23109,9312,Alexandre Cavaliere,10509,Mathias Luna,L,0,Triangle armbar,European Open,88KG,R1,2020
+25376,9312,Alexandre Cavaliere,10216,Natan Chueng,L,0,"Pts: 0x0, Adv",Rio Open NG,79KG,4F,2021
+28751,9312,Alexandre Cavaliere,,O. Kasimov,L,0,Pts: 2x0,AIGA World,76KG,4F,2021
+30030,9312,Alexandre Cavaliere,,Marlus Salgado,L,0,Inside heel hook,ADCC BR1 Trials,77KG,R2,2022
+30284,9312,Alexandre Cavaliere,,Magid Hage,L,0,RNC,ADCC BR2 Trials,77KG,R3,2022
+32165,9312,Alexandre Cavaliere,12122,Mica Galvao,L,0,DQ,Brasileiro,82KG,R1,2022
+11047,9312,Alexandre Cavaliere,,Robson Borges,W,1,Submission,Grand Slam RJ,77KG,R2,2016
+11062,9312,Alexandre Cavaliere,5078,Luan Carvalho,W,1,Loop choke,Grand Slam RJ,77KG,4F,2016
+11066,9312,Alexandre Cavaliere,,Pedro Farias,W,1,Adv,Grand Slam RJ,77KG,SF,2016
+11068,9312,Alexandre Cavaliere,5061,Gabriel Rollo,W,1,"Pts: 0x0, Adv",Grand Slam RJ,77KG,F,2016
+11375,9312,Alexandre Cavaliere,,N/A,W,1,Points,C. Gracie Cup,82KG,SF,2016
+11452,9312,Alexandre Cavaliere,11039,Flavio Vianna,W,1,Referee Decision,Grand Slam AD,75KG,4F,2017
+11579,9312,Alexandre Cavaliere,,Christian Dellevag,W,1,Triangle,European Open,82KG,R1,2017
+13496,9312,Alexandre Cavaliere,,N/A,W,1,Choke from back,Gracie Pro,82KG,SF,2017
+13497,9312,Alexandre Cavaliere,,Jayan Castro,W,1,Pts: 4x0,Gracie Pro,82KG,F,2017
+14353,9312,Alexandre Cavaliere,5756,Wellington Luis,W,1,Referee Decision,Grand Slam RJ,85KG,R2,2017
+14514,9312,Alexandre Cavaliere,,Unknown,W,1,Armbar,Brasilia Open,82KG,4F,2017
+14515,9312,Alexandre Cavaliere,,Chairo Olimpio,W,1,Pts: 2x0,Brasilia Open,82KG,SF,2017
+14522,9312,Alexandre Cavaliere,,N/A,W,1,Armbar,Brasilia Open,ABS,R1,2017
+14523,9312,Alexandre Cavaliere,,N/A,W,1,Points,Brasilia Open,ABS,4F,2017
+14526,9312,Alexandre Cavaliere,,N/A,W,1,Points,Brasilia NGO,ABS,4F,2017
+14527,9312,Alexandre Cavaliere,,Cleydson Junior,W,1,Points,Brasilia NGO,ABS,SF,2017
+15807,9312,Alexandre Cavaliere,,Jose Dias,W,1,Wristlock,Rio Open,82KG,R1,2018
+15809,9312,Alexandre Cavaliere,,Fabricio Barbosa,W,1,Points,Rio Open,82KG,4F,2018
+15812,9312,Alexandre Cavaliere,,Stefano Correa,W,1,Adv,Rio Open,82KG,SF,2018
+15943,9312,Alexandre Cavaliere,,Rodolpho Borges,W,1,Points,Curitiba Open,82KG,R1,2018
+15944,9312,Alexandre Cavaliere,,Matheus Linhares,W,1,Pts: 2x0,Curitiba Open,82KG,SF,2018
+16006,9312,Alexandre Cavaliere,,Unknown,W,1,Armbar,Salvador Fall O.,82KG,4F,2018
+16007,9312,Alexandre Cavaliere,,Andre Astolfo,W,1,Pts: 2x0,Salvador Fall O.,82KG,SF,2018
+16008,9312,Alexandre Cavaliere,,Andre Costa,W,1,Adv,Salvador Fall O.,82KG,F,2018
+16237,9312,Alexandre Cavaliere,,Janairo do Carmo,W,1,Pts: 2x0,Brasileiro,82KG,R1,2018
+17479,9312,Alexandre Cavaliere,,Luis Domingos,W,1,Loop choke,Sao Paulo Open,82KG,R1,2018
+17704,9312,Alexandre Cavaliere,,Alexandre Vaz,W,1,RNC,Brasileiro NoGi,85KG,8F,2018
+18036,9312,Alexandre Cavaliere,,Vitor Matos,W,1,Adv,Rio BJJ Pro,82KG,4F,2018
+18037,9312,Alexandre Cavaliere,4460,Jaime Canuto,W,1,Loop choke,Rio BJJ Pro,82KG,SF,2018
+19295,9312,Alexandre Cavaliere,,Carlos Candido,W,1,Choke from back,Curitiba SMO,82KG,4F,2019
+19817,9312,Alexandre Cavaliere,,Rafael Souza,W,1,Referee Decision,Rio FO,82KG,4F,2019
+19832,9312,Alexandre Cavaliere,,Igor Pinheiro,W,1,Choke,Rio FO,ABS,R1,2019
+19833,9312,Alexandre Cavaliere,,Joao Oliveira,W,1,Cross choke,Rio FO,ABS,4F,2019
+20286,9312,Alexandre Cavaliere,,Joao Melo,W,1,Bread cutter,Brasileiro,82KG,R1,2019
+20536,9312,Alexandre Cavaliere,,R. Vasconcelos,W,1,Pts: 3x0,Salvador FO,ABS,R1,2019
+20813,9312,Alexandre Cavaliere,,Igor Pessoa,W,1,Adv,Rio Open,82KG,R1,2019
+20814,9312,Alexandre Cavaliere,,Jose Menezes,W,1,Pts: 5x0,Rio Open,82KG,4F,2019
+20817,9312,Alexandre Cavaliere,,Bruno Bressan,W,1,Adv,Rio Open,82KG,SF,2019
+21331,9312,Alexandre Cavaliere,,Luan Silva,W,1,Points,Floripa WO,76KG,4F,2019
+21717,9312,Alexandre Cavaliere,,Rodrigo Coutinho,W,1,Referee Decision,Sao Paulo Open,76KG,R1,2019
+21720,9312,Alexandre Cavaliere,,Fabricio Barbaroti,W,1,Referee Decision,Sao Paulo Open,76KG,SF,2019
+22459,9312,Alexandre Cavaliere,,Eric Souza,W,1,Points,Rio BJJ Pro,82KG,4F,2019
+22706,9312,Alexandre Cavaliere,,Wevrton Batista,W,1,Pts: 5x0,Salvador SPO,82KG,SF,2019
+22707,9312,Alexandre Cavaliere,9876,Alef Brito,W,1,Referee Decision,Salvador SPO,82KG,F,2019
+22715,9312,Alexandre Cavaliere,,Jhonderson Tiburtino,W,1,N/A,Salvador SNGO,79KG,SF,2019
+25370,9312,Alexandre Cavaliere,,Fernando Mano,W,1,"Pts: 0x0, Adv",Rio Open NG,79KG,R1,2021
+28749,9312,Alexandre Cavaliere,,Farid Hadiyev,W,1,Pts: 4x0,AIGA World,76KG,R1,2021
+30023,9312,Alexandre Cavaliere,,Geanderson Selvino,W,1,Darce choke,ADCC BR1 Trials,77KG,R1,2022
+30235,9312,Alexandre Cavaliere,,Mateo Ruiz,W,1,Darce choke,ADCC BR2 Trials,77KG,R1,2022
+30266,9312,Alexandre Cavaliere,,Lucas Xavier,W,1,Darce choke,ADCC BR2 Trials,77KG,R2,2022

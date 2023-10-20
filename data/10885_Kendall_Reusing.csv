@@ -1,0 +1,53 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21712,10885,Kendall Reusing,10153,Gabrieli Pessanha,L,0,Referee Decision,Grand Slam LA,95KG,F,2019
+23016,10885,Kendall Reusing,10897,Yara Soares,L,0,Submission,Grand Slam AD,95KG,SF,2020
+23020,10885,Kendall Reusing,7000,Nathiely Jesus,L,0,Pts: 2x1,Grand Slam AD,95KG,RPC,2020
+23022,10885,Kendall Reusing,7000,Nathiely Jesus,L,0,Submission,Queen Of Mats,95KG,RR,2020
+23027,10885,Kendall Reusing,10153,Gabrieli Pessanha,L,0,Kimura,Queen Of Mats,95KG,SF,2020
+23029,10885,Kendall Reusing,10100,Thamara Ferreira,L,0,Pts: 4x2,Queen Of Mats,95KG,3RD,2020
+23735,10885,Kendall Reusing,595,Gabrielle Garcia,L,0,Americana,F2W 142,124KG,SPF,2020
+23759,10885,Kendall Reusing,11762,Elisabeth Clay,L,0,Referee Decision,F2W 143,ABS,SPF,2020
+24228,10885,Kendall Reusing,5263,Luiza Monteiro,L,0,Kneebar,Pan American,ABS,4F,2020
+25268,10885,Kendall Reusing,7000,Nathiely Jesus,L,0,Choke from back,F2W 168,NA,SPF,2021
+25713,10885,Kendall Reusing,10897,Yara Soares,L,0,Pts: 4x0,World Pro,95KG,RR,2021
+25718,10885,Kendall Reusing,13095,Eleftheria Christodoulou,L,0,Pts: 4x1,World Pro,95KG,RR,2021
+25719,10885,Kendall Reusing,10153,Gabrieli Pessanha,L,0,Pts: 4x0,World Pro,95KG,RR,2021
+26228,10885,Kendall Reusing,11762,Elisabeth Clay,L,0,Violin armlock,NoGi Pan Am.,ABS,F,2021
+26925,10885,Kendall Reusing,8759,Maria Malyjasiak,L,0,Toe hold,F2W 177,N/A,SPF,2021
+27937,10885,Kendall Reusing,11656,Rafaela Guedes,L,0,Guillotine,WNO Champ.,ABS,F,2021
+35091,10885,Kendall Reusing,11656,Rafaela Guedes,L,0,Injury,ADCC,O60KG,SF,2022
+21710,10885,Kendall Reusing,,R. Guedes,W,1,Pts: 2x0,Grand Slam LA,95KG,4F,2019
+21711,10885,Kendall Reusing,,Kim Bowser,W,1,Pts: 2x0,Grand Slam LA,95KG,SF,2019
+22910,10885,Kendall Reusing,,Tammy Griego,W,1,Pts: 16x0,NoGi Worlds,O76KG,SF,2019
+22911,10885,Kendall Reusing,,Gabi McComb,W,1,Pts: 2x0,NoGi Worlds,ABS,R1,2019
+22912,10885,Kendall Reusing,,Julia Boscher,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,4F,2019
+22913,10885,Kendall Reusing,,Raquel Canuto,W,1,Pts: 2x0,NoGi Worlds,ABS,SF,2019
+23015,10885,Kendall Reusing,,M. Cantanhede,W,1,Pts: 5x2,Grand Slam AD,95KG,4F,2020
+23019,10885,Kendall Reusing,,Jonna Konivuori,W,1,Submission,Grand Slam AD,95KG,RPC,2020
+23021,10885,Kendall Reusing,,Samantha Cook,W,1,Pts: 3x1,Queen Of Mats,95KG,RR,2020
+23159,10885,Kendall Reusing,,Venla Lukkonnen,W,1,Bread cutter choke,European Open,O79KG,F,2020
+23891,10885,Kendall Reusing,,Allison Linder,W,1,Bread cutter choke,SUBVERSIV 3,ABS,R1,2020
+23900,10885,Kendall Reusing,,Brittney Elkin,W,1,Bread cutter choke,SUBVERSIV 3,ABS,4F,2020
+23903,10885,Kendall Reusing,,Nathalie Ribeiro,W,1,Referee Decision,SUBVERSIV 3,ABS,SF,2020
+23910,10885,Kendall Reusing,,C. McNally,W,1,Katagatame,SUBVERSIV 3,ABS,F,2020
+24089,10885,Kendall Reusing,,Leah Taylor,W,1,EBI/OT,SUG 18,N/A,SPF,2020
+24227,10885,Kendall Reusing,1430,Talita Nogueira,W,1,"Pts: 0x0, Adv",Pan American,O79KG,SF,2020
+25717,10885,Kendall Reusing,,Yasmira Dias,W,1,Pts: 4x0,World Pro,95KG,RR,2021
+25970,10885,Kendall Reusing,10895,Maggie Grindatti,W,1,Referee Decision,SUBVERSIV 5,ABS,4F,2021
+26180,10885,Kendall Reusing,,Mayara Custodio,W,1,Verbal tap,NoGi Pan Am.,O76KG,F,2021
+26224,10885,Kendall Reusing,10895,Maggie Grindatti,W,1,Pts: 4x0,NoGi Pan Am.,ABS,4F,2021
+26227,10885,Kendall Reusing,,Mayara Custodio,W,1,Points,NoGi Pan Am.,ABS,SF,2021
+26529,10885,Kendall Reusing,1430,Talita Nogueira,W,1,Katagatame,F2W 173,ABS,SPF,2021
+26758,10885,Kendall Reusing,,Ana Nascimento,W,1,Verbal tap,American NGN,ABS,F,2021
+26979,10885,Kendall Reusing,,Tracey Goodell,W,1,Pts: 10x0,Austin NGO,ABS,F,2021
+27897,10885,Kendall Reusing,12293,Erin Harpe,W,1,Referee Decision,WNO Champ.,ABS,4F,2021
+27898,10885,Kendall Reusing,6979,Ana Vieira,W,1,Referee Decision,WNO Champ.,ABS,SF,2021
+28378,10885,Kendall Reusing,,V. Lukkonen,W,1,Armbar,Polaris 17,ABS,SPF,2021
+28967,10885,Kendall Reusing,,Miranda Maverick,W,1,Points,ADCC EC Trials,O60KG,R1,2021
+28972,10885,Kendall Reusing,,Britney Elkin,W,1,RNC,ADCC EC Trials,O60KG,R2,2021
+28977,10885,Kendall Reusing,,Nicole Johnson,W,1,Katagatame,ADCC EC Trials,O60KG,4F,2021
+28982,10885,Kendall Reusing,,Lauren Jones,W,1,Armbar,ADCC EC Trials,O60KG,SF,2021
+28983,10885,Kendall Reusing,12639,Amy Campo,W,1,Pts: 6x0,ADCC EC Trials,O60KG,F,2021
+30705,10885,Kendall Reusing,9404,Ffion Davies,W,1,Referee Decision,GrappleFest 11,ABS,SPF,2022
+31575,10885,Kendall Reusing,12064,Amanda Leve,W,1,Injury,Polaris 19,ABS,SPF,2022
+35089,10885,Kendall Reusing,13016,Giovanna Jara,W,1,Guillotine,ADCC,O60KG,4F,2022

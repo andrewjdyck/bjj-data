@@ -1,0 +1,141 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4406,2403,Joao Gabriel Rocha,1263,Lucio Rodrigues,L,0,Pts: 7x0,Copa Podio,100KG,GP,2013
+4409,2403,Joao Gabriel Rocha,387,Braga Neto,L,0,Pts: 2x0,Copa Podio,100KG,GP,2013
+4671,2403,Joao Gabriel Rocha,387,Braga Neto,L,0,Points,World Pro,100KG,SF,2013
+4758,2403,Joao Gabriel Rocha,247,Rodolfo Vieira,L,0,Armbar,World Champ.,ABS,4F,2013
+4821,2403,Joao Gabriel Rocha,425,Bernardo Faria,L,0,Pts: 6x0,World Champ.,100KG,F,2013
+4934,2403,Joao Gabriel Rocha,1188,Leandro Lo,L,0,"Pts: 0x0, Adv",Rio Open,ABS,F,2013
+5052,2403,Joao Gabriel Rocha,984,Marcus Almeida,L,0,Heel Hook,ADCC,O99KG,F,2013
+5060,2403,Joao Gabriel Rocha,1369,Dean Lister,L,0,Heel Hook,ADCC,ABS,4F,2013
+6892,2403,Joao Gabriel Rocha,3122,Luiz Panza,L,0,Points,Pan American,O100KG,4F,2015
+7151,2403,Joao Gabriel Rocha,,T. Gaia,L,0,"Pts: 0x0, Adv",World Pro,O95KG,R1,2015
+7189,2403,Joao Gabriel Rocha,3200,Jackson Sousa,L,0,Pts: 2x0,World Pro,ABS,R2,2015
+7510,2403,Joao Gabriel Rocha,425,Bernardo Faria,L,0,Pts: 8x2,World Champ.,100KG,F,2015
+7906,2403,Joao Gabriel Rocha,5861,Jared Dopp,L,0,Pen,ADCC,O99KG,SF,2015
+7907,2403,Joao Gabriel Rocha,733,Vinny Magalhaes,L,0,Heel hook,ADCC,O99KG,3RD,2015
+7999,2403,Joao Gabriel Rocha,410,Claudio Calasans,L,0,"Pts: 0x0, Pen",ADCC,ABS,F,2015
+9392,2403,Joao Gabriel Rocha,4310,Tim Spriggs,L,0,Pts: 5x2,Pan American,ABS,4F,2016
+10071,2403,Joao Gabriel Rocha,984,Marcus Almeida,L,0,Armbar,World Champ.,O100KG,SF,2016
+10190,2403,Joao Gabriel Rocha,984,Marcus Almeida,L,0,Pts: 7x0,IBJJF Pro GP,ABS,SF,2016
+10717,2403,Joao Gabriel Rocha,7231,Manny Diaz,L,0,"Pts: 4x4, Adv",BJJ Pro LA,O94KG,SF,2016
+12110,2403,Joao Gabriel Rocha,1188,Leandro Lo,L,0,Toe hold,Pan American,ABS,F,2017
+12908,2403,Joao Gabriel Rocha,1757,Alexander Trans,L,0,Referee Decision,ACBJJ 5,O95KG,SF,2017
+13039,2403,Joao Gabriel Rocha,1188,Leandro Lo,L,0,Pts: 2x0,World Champ.,ABS,4F,2017
+13220,2403,Joao Gabriel Rocha,984,Marcus Almeida,L,0,Arm in Ezekiel,World Champ.,O100KG,SF,2017
+13760,2403,Joao Gabriel Rocha,984,Marcus Almeida,L,0,Botinha,IBJJF Pro GP,ABS,SF,2017
+14248,2403,Joao Gabriel Rocha,5509,Victor Honorio,L,0,Points,ACBJJ 8,O95KG,SF,2017
+14723,2403,Joao Gabriel Rocha,224,Roberto Abreu,L,0,"Pts: 0x0, Adv",NoGi Worlds,O97KG,F,2017
+14745,2403,Joao Gabriel Rocha,5655,Lucas Barbosa,L,0,Pts: 2x0,NoGi Worlds,ABS,F,2017
+16351,2403,Joao Gabriel Rocha,984,Marcus Almeida,L,0,Points,ACBJJ 13,O95KG,SPF,2018
+16609,2403,Joao Gabriel Rocha,984,Marcus Almeida,L,0,Referee Decision,World Champ.,O100KG,F,2018
+19020,2403,Joao Gabriel Rocha,6550,Gordon Ryan,L,0,Pts: 1x0,Kasai Dallas,120KG,SPF,2019
+20753,2403,Joao Gabriel Rocha,8974,Kaynan Duarte,L,0,Guillotine,King of Mats,110KG,RR,2019
+21485,2403,Joao Gabriel Rocha,224,Roberto Abreu,L,0,Referee Decision,IBJJF GP,ABS,F,2019
+22234,2403,Joao Gabriel Rocha,3200,Jackson Sousa,L,0,Pts: 8x6,KOM,120KG,SPF,2019
+23196,2403,Joao Gabriel Rocha,10705,Kyle Boehm,L,0,Outside heel hook,Kasai Pro 7,120KG,RR,2020
+23199,2403,Joao Gabriel Rocha,5655,Lucas Barbosa,L,0,Pts: 2x0,Kasai Pro 7,120KG,RR,2020
+23877,2403,Joao Gabriel Rocha,8974,Kaynan Duarte,L,0,Pts: 6x4,BJJ Stars,N/A,SPF,2020
+35066,2403,Joao Gabriel Rocha,11499,Roosevelt Sousa,L,0,Kneebar,ADCC,O99KG,R1,2022
+4403,2403,Joao Gabriel Rocha,449,Alexandre Souza,W,1,Pts: 2x0,Copa Podio,100KG,GP,2013
+4408,2403,Joao Gabriel Rocha,637,Bruno Bastos,W,1,Pts: 3x0,Copa Podio,100KG,GP,2013
+4467,2403,Joao Gabriel Rocha,,Paulo Henrique,W,1,RNC,ADCC Trials,99KG,F,2013
+4646,2403,Joao Gabriel Rocha,1272,Leo Nogueira,W,1,Pts: 11x2,Brasileiro,100KG,F,2013
+4747,2403,Joao Gabriel Rocha,4859,Ricardo Rezende,W,1,Submission,World Champ.,ABS,RDS,2013
+4753,2403,Joao Gabriel Rocha,644,Joao Assis,W,1,Points,World Champ.,ABS,RDS,2013
+4818,2403,Joao Gabriel Rocha,886,Leonardo Leite,W,1,Choke from back,World Champ.,100KG,4F,2013
+4820,2403,Joao Gabriel Rocha,576,Rafael Lovato,W,1,Pts: 10x0,World Champ.,100KG,SF,2013
+4929,2403,Joao Gabriel Rocha,,Grimaldo Filho,W,1,Choke from back,Rio Open,100KG,F,2013
+4933,2403,Joao Gabriel Rocha,1534,R. Evangelista,W,1,Choke from back,Rio Open,ABS,SF,2013
+5039,2403,Joao Gabriel Rocha,,Michael Wilson,W,1,RNC,ADCC,O99KG,R1,2013
+5046,2403,Joao Gabriel Rocha,,Janne Pietilainen,W,1,Pts: 3x0,ADCC,O99KG,4F,2013
+5049,2403,Joao Gabriel Rocha,5861,Jared Dopp,W,1,Points,ADCC,O99KG,SF,2013
+5055,2403,Joao Gabriel Rocha,,David Avellan,W,1,Points,ADCC,ABS,R1,2013
+5242,2403,Joao Gabriel Rocha,,Roger Ambrosi,W,1,Adv,World Pro Trial,100KG,F,2014
+5243,2403,Joao Gabriel Rocha,,Romes Pereira,W,1,Armbar,World Pro Trial,100KG,SF,2014
+6886,2403,Joao Gabriel Rocha,4177,Gustavo Dias Dias,W,1,Pts: 4x2,Pan American,O100KG,R1,2015
+6944,2403,Joao Gabriel Rocha,,Agnaldo Silveira,W,1,Choke from back,Rio Fall Open,O100KG,4F,2015
+6945,2403,Joao Gabriel Rocha,,Faisal ElKitbe,W,1,Footlock,Rio Fall Open,O100KG,SF,2015
+6946,2403,Joao Gabriel Rocha,1534,R. Evangelista,W,1,Points,Rio Fall Open,O100KG,F,2015
+7254,2403,Joao Gabriel Rocha,,Unknown,W,1,Submission,Brasileiro,O100KG,4F,2015
+7255,2403,Joao Gabriel Rocha,,Kitner Moura,W,1,Choke from back,Brasileiro,O100KG,SF,2015
+7257,2403,Joao Gabriel Rocha,,Kaue Damasceno,W,1,Choke,Brasileiro,O100KG,F,2015
+7505,2403,Joao Gabriel Rocha,4521,Erberth Santos,W,1,RNC,World Champ.,100KG,4F,2015
+7509,2403,Joao Gabriel Rocha,1740,Yuri Simoes,W,1,Choke from back,World Champ.,100KG,SF,2015
+7900,2403,Joao Gabriel Rocha,,Jason Lees,W,1,Pts: 17x0,ADCC,O99KG,R1,2015
+7903,2403,Joao Gabriel Rocha,3083,Abraham Marte,W,1,Pts: 3x0,ADCC,O99KG,4F,2015
+7992,2403,Joao Gabriel Rocha,4328,AJ Agazarm,W,1,Referee Decision,ADCC,ABS,R1,2015
+7996,2403,Joao Gabriel Rocha,8394,Vagner Rocha,W,1,Pts: 3x0,ADCC,ABS,4F,2015
+7997,2403,Joao Gabriel Rocha,247,Rodolfo Vieira,W,1,Pts: 2x0,ADCC,ABS,SF,2015
+9379,2403,Joao Gabriel Rocha,6631,Igor Schneider,W,1,Short choke,Pan American,ABS,R2,2016
+9383,2403,Joao Gabriel Rocha,484,Murilo Santana,W,1,Pts: 4x0,Pan American,ABS,8F,2016
+10067,2403,Joao Gabriel Rocha,,Pedro Moura,W,1,N/A,World Champ.,O100KG,4F,2016
+10068,2403,Joao Gabriel Rocha,1757,Alexander Trans,W,1,Referee Decision,World Champ.,O100KG,4F,2016
+10118,2403,Joao Gabriel Rocha,,Daniel Mehrkar,W,1,Kimura,BJJ Tour - CT,ABS,4F,2016
+10120,2403,Joao Gabriel Rocha,9246,Tex Johnson,W,1,Choke from back,BJJ Tour - CT,ABS,SF,2016
+10136,2403,Joao Gabriel Rocha,477,Tarsis Humphreys,W,1,Footlock,All Star Tour,ABS,F,2016
+10186,2403,Joao Gabriel Rocha,2416,Felipe Pena,W,1,"Pts: 4x4, Adv",IBJJF Pro GP,ABS,4F,2016
+10716,2403,Joao Gabriel Rocha,4177,Gustavo Dias,W,1,Pts: 17x0,BJJ Pro LA,O94KG,4F,2016
+10829,2403,Joao Gabriel Rocha,,Ahmed White,W,1,Submission,US Open,O95KG,F,2016
+10830,2403,Joao Gabriel Rocha,6563,Francisco Iturralde,W,1,RNC,US Open,ABS,F,2016
+10880,2403,Joao Gabriel Rocha,1827,James Puopolo,W,1,Referee Decision,F2W 17,100KG,SPF,2016
+11138,2403,Joao Gabriel Rocha,7079,Carlos Farias,W,1,Points,NY BJJ Pro,O94KG,SF,2016
+11139,2403,Joao Gabriel Rocha,5842,Mahamed Aly,W,1,Pts: 4x0,NY BJJ Pro,O94KG,F,2016
+11283,2403,Joao Gabriel Rocha,,Braden Masters,W,1,Choke from back,San Antonio F. O.,O100KG,F,2016
+12085,2403,Joao Gabriel Rocha,,Wellington Peroto,W,1,Choke from back,Pan American,ABS,R1,2017
+12099,2403,Joao Gabriel Rocha,8968,Admilson Gobi,W,1,Pts: 11x2,Pan American,ABS,8F,2017
+12105,2403,Joao Gabriel Rocha,358,Lucas Lepri,W,1,Pts: 3x0,Pan American,ABS,4F,2017
+12109,2403,Joao Gabriel Rocha,4521,Erberth Santos,W,1,Katagatame,Pan American,ABS,SF,2017
+12904,2403,Joao Gabriel Rocha,5702,Marcos Oliveira,W,1,Referee Decision,ACBJJ 5,O95KG,4F,2017
+13021,2403,Joao Gabriel Rocha,9246,Tex Johnson,W,1,Botinha,World Champ.,ABS,R1,2017
+13032,2403,Joao Gabriel Rocha,7507,Nicholas Meregali,W,1,Pts: 3x2,World Champ.,ABS,8F,2017
+13217,2403,Joao Gabriel Rocha,1827,James Puopolo,W,1,Pts: 4x0,World Champ.,O100KG,4F,2017
+13489,2403,Joao Gabriel Rocha,,John Rickel,W,1,Triangle,Austin Open,O100KG,F,2017
+13490,2403,Joao Gabriel Rocha,6836,John Combs,W,1,Armbar,Austin Open,ABS,4F,2017
+13491,2403,Joao Gabriel Rocha,6043,Lucas Pinheiro,W,1,Submission,Austin Open,ABS,SF,2017
+13757,2403,Joao Gabriel Rocha,9,Marcio Cruz,W,1,"Pts: 0x0, Adv",IBJJF Pro GP,ABS,4F,2017
+14245,2403,Joao Gabriel Rocha,,Marcelo Bernardo,W,1,RNC,ACBJJ 8,O95KG,4F,2017
+14420,2403,Joao Gabriel Rocha,6805,Max Gimenis,W,1,N/A,BJJ NY Pro,94KG,SF,2017
+14421,2403,Joao Gabriel Rocha,,Otavio Nalati,W,1,Adv,BJJ NY Pro,94KG,F,2017
+14718,2403,Joao Gabriel Rocha,6592,Dany Gerard,W,1,"Pts: 0x0, Adv",NoGi Worlds,O97KG,4F,2017
+14722,2403,Joao Gabriel Rocha,5861,Jared Dopp,W,1,Points,NoGi Worlds,O97KG,SF,2017
+14733,2403,Joao Gabriel Rocha,1526,James Brasco,W,1,Calf slicer,NoGi Worlds,ABS,R2,2017
+14736,2403,Joao Gabriel Rocha,,Marcus Wilson,W,1,RNC,NoGi Worlds,ABS,R2,2017
+14739,2403,Joao Gabriel Rocha,6337,Arnaldo Maidana,W,1,RNC,NoGi Worlds,ABS,4F,2017
+14743,2403,Joao Gabriel Rocha,3009,Keenan Cornelius,W,1,Pts: 4x2,NoGi Worlds,ABS,SF,2017
+14978,2403,Joao Gabriel Rocha,3122,Luiz Panza,W,1,Points,ACB 10,O95KG,SPF,2018
+15451,2403,Joao Gabriel Rocha,6805,Max Gimenis,W,1,"Pts: 0x0, Adv",Pan American,O100KG,4F,2018
+15454,2403,Joao Gabriel Rocha,4177,Gustavo Dias,W,1,Pts: 4x0,Pan American,O100KG,SF,2018
+15455,2403,Joao Gabriel Rocha,1534,R. Evangelista,W,1,Armbar,Pan American,O100KG,F,2018
+16597,2403,Joao Gabriel Rocha,,T. Antony,W,1,Armbar,World Champ.,O100KG,8F,2018
+16605,2403,Joao Gabriel Rocha,3122,Luiz Panza,W,1,Pts: 2x0,World Champ.,O100KG,4F,2018
+16608,2403,Joao Gabriel Rocha,8968,Admilson Gobi,W,1,Pts: 17x0,World Champ.,O100KG,SF,2018
+16741,2403,Joao Gabriel Rocha,7507,Nicholas Meregali,W,1,Points,ACBJJ 14,O95KG,SPF,2018
+19329,2403,Joao Gabriel Rocha,984,Marcus Almeida,W,1,"Pts: 0x0, Adv",BJJ Stars,O100KG,SPF,2019
+20056,2403,Joao Gabriel Rocha,,Mauricio Lima,W,1,Armlock,WP BR Qualifier,110KG,4F,2019
+20058,2403,Joao Gabriel Rocha,8762,Rodrigo Ribeiro,W,1,"Pts: 2x2, Adv",WP BR Qualifier,110KG,SF,2019
+20060,2403,Joao Gabriel Rocha,9230,Matheus Felipe,W,1,Pts: 4x2,WP BR Qualifier,110KG,F,2019
+20144,2403,Joao Gabriel Rocha,,Keunwoo Kim,W,1,Toe hold,World Pro,110KG,R1,2019
+20145,2403,Joao Gabriel Rocha,,Khasan Varando,W,1,Pts: 4x0,World Pro,110KG,4F,2019
+20147,2403,Joao Gabriel Rocha,1534,R. Evangelista,W,1,"Pts: 0x0, Adv",World Pro,110KG,SF,2019
+20148,2403,Joao Gabriel Rocha,,Yahia Hammadi,W,1,Choke from back,World Pro,110KG,F,2019
+20749,2403,Joao Gabriel Rocha,8532,Gerard Labinski,W,1,Pts: 5x0,King of Mats,110KG,RR,2019
+20758,2403,Joao Gabriel Rocha,680,Igor Silva,W,1,"Pts: 0x0, Adv",King of Mats,110KG,RR,2019
+20763,2403,Joao Gabriel Rocha,3200,Jackson Sousa,W,1,Toe hold,King of Mats,110KG,RR,2019
+20765,2403,Joao Gabriel Rocha,10103,Jonnatas Gracie,W,1,Pts: 3x0,King of Mats,110KG,SF,2019
+20766,2403,Joao Gabriel Rocha,8974,Kaynan Duarte,W,1,"Pts: 0x0, Adv",King of Mats,110KG,F,2019
+21479,2403,Joao Gabriel Rocha,4430,Patrick Gaudio,W,1,Referee Decision,IBJJF GP,ABS,4F,2019
+21484,2403,Joao Gabriel Rocha,9180,Vinicius Trator,W,1,Adv,IBJJF GP,ABS,SF,2019
+24588,2403,Joao Gabriel Rocha,11939,Jackson Douglas,W,1,Choke from back,American Nats,O100KG,SF,2020
+24589,2403,Joao Gabriel Rocha,9361,Guilherme Cordiviola,W,1,Choke from back,American Nats,O100KG,F,2020
+24591,2403,Joao Gabriel Rocha,11384,Andre Porfirio,W,1,Violin armlock,American Nats,ABS,8F,2020
+24601,2403,Joao Gabriel Rocha,3443,Leonardo Davila,W,1,Toe hold,American Nats,ABS,4F,2020
+24602,2403,Joao Gabriel Rocha,10240,Jake Watson,W,1,Pts: 10x0,American Nats,ABS,SF,2020
+24604,2403,Joao Gabriel Rocha,9250,Gabriel Almeida,W,1,Armbar,American Nats,ABS,F,2020
+25635,2403,Joao Gabriel Rocha,11499,Roosevelt Sousa,W,1,Pts: 1x0,WP BR Qualifier,120KG,4F,2021
+25637,2403,Joao Gabriel Rocha,11709,Wallace Costa,W,1,Pts: 2x1,WP BR Qualifier,120KG,SF,2021
+37329,2403,Joao Gabriel Rocha,,Edgar Gamboa,W,1,Choke,Austin WO,ABS,R1,2023
+37333,2403,Joao Gabriel Rocha,6432,Yan Lucas,W,1,"Pts: 2x2, Adv",Austin WO,ABS,SF,2023
+37334,2403,Joao Gabriel Rocha,10085,Johnatha Alves,W,1,Pts: 2x0,Austin WO,ABS,F,2023
+37378,2403,Joao Gabriel Rocha,,Justin Fabac,W,1,Submission,Oklahoma NGO,ABS,SF,2023
+43180,2403,Joao Gabriel Rocha,12922,Elder Cruz,W,1,Pts: 3x0,NoGi Pan,ABS,8F,2023
+43187,2403,Joao Gabriel Rocha,,Hunter Colvin,W,1,Wristlock,NoGi Pan,ABS,4F,2023

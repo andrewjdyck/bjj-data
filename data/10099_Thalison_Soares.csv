@@ -1,0 +1,39 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+20770,10099,Thalison Soares,,Carlos Alberto,L,0,"Pts: 0x0, Adv",Grand Slam MSK,56KG,RR,2019
+23063,10099,Thalison Soares,6060,Tomoyuki Hashimoto,L,0,DQ,European Open,57KG,F,2020
+29108,10099,Thalison Soares,12729,Nathannael Fernandes,L,0,Pts: 4x4,BRA Qualifiers,56KG,4F,2021
+29451,10099,Thalison Soares,283,Bruno Malfacine,L,0,Referee Decision,World Champ.,57KG,4F,2021
+30498,10099,Thalison Soares,12259,Jeremy Skinner,L,0,Referee Decision,Subversion,N/A,SPF,2022
+31607,10099,Thalison Soares,,Bebeto Oliveira,L,0,"Pts: 4x4, Adv",Pan American,57KG,F,2022
+40199,10099,Thalison Soares,6043,Lucas Pinheiro,L,0,"Pts: 0x0, Adv",World Champ.,58KG,F,2023
+20768,10099,Thalison Soares,,Fred Guimaraes,W,1,Pts: 15x0,Grand Slam MSK,56KG,RR,2019
+22221,10099,Thalison Soares,,Rodrigo Oiye,W,1,Choke,Pan Pac,64KG,SF,2019
+22222,10099,Thalison Soares,,Hideyuki Yamada,W,1,Armbar,Pan Pac,64KG,F,2019
+22828,10099,Thalison Soares,,David Zennario,W,1,RNC,NoGi Worlds,55KG,4F,2019
+22831,10099,Thalison Soares,,Marko Tapani,W,1,RNC,NoGi Worlds,55KG,SF,2019
+22833,10099,Thalison Soares,6258,Rodnei Barbosa,W,1,Pts: 2x0,NoGi Worlds,55KG,F,2019
+23058,10099,Thalison Soares,7476,Kristian Woodmansee,W,1,Choke from back,European Open,57KG,R1,2020
+23059,10099,Thalison Soares,283,Bruno Malfacine,W,1,"Pts: 4x4, Adv",European Open,57KG,4F,2020
+23062,10099,Thalison Soares,1919,Koji Shibamoto,W,1,Pts: 8x6,European Open,57KG,SF,2020
+25145,10099,Thalison Soares,,Stewart Nicoll,W,1,Referee Decision,Classic JJ,N/A,SPF,2021
+26914,10099,Thalison Soares,,Warren Blackie,W,1,Heel hook,Classic Pro,N/A,SPF,2021
+29447,10099,Thalison Soares,12120,Estevan Martinez,W,1,Arm in Ezekiel,World Champ.,57KG,R1,2021
+30541,10099,Thalison Soares,,Lucas Feitosa,W,1,Choke from back,European Open,57KG,4F,2022
+30543,10099,Thalison Soares,13209,Welerson Goncalves,W,1,Choke from back,European Open,57KG,F,2022
+31604,10099,Thalison Soares,,Matheus Rossi,W,1,Botinha,Pan American,57KG,4F,2022
+31605,10099,Thalison Soares,12120,Estevan Martinez,W,1,"Pts: 0x0, Adv",Pan American,57KG,SF,2022
+32427,10099,Thalison Soares,12615,Osamah Almarwai,W,1,Points,SD Open,58KG,F,2022
+32861,10099,Thalison Soares,12848,Frank Cespedes,W,1,Pts: 14x8,World Champ.,57KG,4F,2022
+32864,10099,Thalison Soares,7657,Cleber Sousa,W,1,Pts: 6x4,World Champ.,57KG,SF,2022
+32865,10099,Thalison Soares,,Bebeto Oliveira,W,1,Pts: 2x0,World Champ.,57KG,F,2022
+37156,10099,Thalison Soares,12644,Tadiyah Danforth,W,1,Choke from back,European Open,58KG,SF,2023
+37158,10099,Thalison Soares,13209,Welerson Goncalves,W,1,Cachecol choke,European Open,58KG,F,2023
+40194,10099,Thalison Soares,12940,Cory Walker,W,1,Choke from back,World Champ.,58KG,4F,2023
+40197,10099,Thalison Soares,12251,Roiter Lima,W,1,Triangle armlock,World Champ.,58KG,SF,2023
+41250,10099,Thalison Soares,,Sean McFarlane,W,1,Pts: 37x0,Queensland SC,76KG,SF,2023
+41251,10099,Thalison Soares,,Kalan Callcott,W,1,Pts: 60x0,Queensland SC,76KG,F,2023
+41255,10099,Thalison Soares,,Haojie Guo,W,1,N/A,Asian Open,64KG,4F,2023
+41256,10099,Thalison Soares,,Yoonseo Ha,W,1,Points,Asian Open,64KG,SF,2023
+42478,10099,Thalison Soares,,Max DeBeen,W,1,Choke from back,Australian Nats,70KG,4F,2023
+42479,10099,Thalison Soares,,Max Ferreira,W,1,Choke from back,Australian Nats,70KG,SF,2023
+42481,10099,Thalison Soares,,Fabio Soares,W,1,Choke from back,BJJAO League,70KG,SPF,2023

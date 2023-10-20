@@ -1,0 +1,187 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+3400,1534,Ricardo Evangelista,1188,Leandro Lo,L,0,Bow and arrow,Pan Am CBJJE,ABS,NA,2011
+3554,1534,Ricardo Evangelista,788,Kron Gracie,L,0,Botinha,Pan American,ABS,R2,2012
+3663,1534,Ricardo Evangelista,1757,Alexander Trans,L,0,Toe Hold,Pan American,O100KG,SF,2012
+3825,1534,Ricardo Evangelista,387,Braga Neto,L,0,Pts: 5x2,World Pro.,O99KG,SF,2012
+4143,1534,Ricardo Evangelista,886,Leonardo Leite,L,0,"Pts: 2x2, Adv",World Champ.,O100KG,4F,2012
+4633,1534,Ricardo Evangelista,576,Rafael Lovato,L,0,Kimura,Brasileiro,ABS,F,2013
+4674,1534,Ricardo Evangelista,984,Marcus Almeida,L,0,Pts: 2x0,World Pro,O100KG,SF,2013
+4756,1534,Ricardo Evangelista,984,Marcus Almeida,L,0,Ezekiel,World Champ.,ABS,4F,2013
+4826,1534,Ricardo Evangelista,3083,Abraham Marte,L,0,Pts: 2x0,World Champ.,O100KG,4F,2013
+4933,1534,Ricardo Evangelista,2403,Joao Rocha,L,0,Choke from back,Rio Open,ABS,SF,2013
+5138,1534,Ricardo Evangelista,9,Marcio Cruz,L,0,Pen,IBJJF Pro League,O94KG,SF,2013
+5268,1534,Ricardo Evangelista,543,Rodrigo Cavaca,L,0,Pts: 4x2,European,O100KG,F,2014
+5529,1534,Ricardo Evangelista,2416,Felipe Pena,L,0,Choke from back,Brasileiro,ABS,4F,2014
+5620,1534,Ricardo Evangelista,3009,Keenan Cornelius,L,0,Choke from back,World Pro.,ABS,R1,2014
+5681,1534,Ricardo Evangelista,984,Marcus Almeida,L,0,N/A,World Pro.,O100KG,SF,2014
+5718,1534,Ricardo Evangelista,984,Marcus Almeida,L,0,"Pts: 4x4, Adv",World Champ.,ABS,RD 4,2014
+5858,1534,Ricardo Evangelista,984,Marcus Almeida,L,0,Choke from back,World Champ.,O100KG,SF,2014
+6095,1534,Ricardo Evangelista,3122,Luiz Panza,L,0,Armbar,IBJJF Pro League,O100KG,SF,2014
+6946,1534,Ricardo Evangelista,2403,Joao Rocha,L,0,Points,Rio Fall Open,O100KG,F,2015
+7156,1534,Ricardo Evangelista,984,Marcus Almeida,L,0,Guillotine,World Pro,O95KG,SF,2015
+7188,1534,Ricardo Evangelista,8714,Max Carvalho,L,0,Points,World Pro,ABS,R2,2015
+7518,1534,Ricardo Evangelista,8560,Gabriel Lucas,L,0,"Pts: 0x0, Adv",World Champ.,O100KG,F,2015
+8284,1534,Ricardo Evangelista,224,Roberto Abreu,L,0,Pts: 4x2,Grand Slam LA,ABS,SF,2015
+9552,1534,Ricardo Evangelista,1548,Jose Junior,L,0,Pts: 2x0,World Pro,ABS,4F,2016
+10072,1534,Ricardo Evangelista,1827,James Puopolo,L,0,Pts: 15x0,World Champ.,O100KG,SF,2016
+10096,1534,Ricardo Evangelista,543,Rodrigo Cavaca,L,0,Botinha,World Champ.,ABS,8F,2016
+10459,1534,Ricardo Evangelista,6337,Arnaldo Maidana,L,0,Referee Decision,Grand Slam LA,94KG,SF,2016
+10475,1534,Ricardo Evangelista,680,Igor Silva,L,0,Referee Decision,G. Slam NG LA,108KG,F,2016
+11100,1534,Ricardo Evangelista,,Andre Campos,L,0,Referee Decision,Grand Slam RJ,110KG,SF,2016
+11103,1534,Ricardo Evangelista,1548,Jose Junior,L,0,Points,Grand Slam RJ,110KG,3RD,2016
+11515,1534,Ricardo Evangelista,5842,Mahamed Aly,L,0,Pts: 4x2,European Open,ABS,4F,2017
+12107,1534,Ricardo Evangelista,4521,Erberth Santos,L,0,Points,Pan American,ABS,4F,2017
+12909,1534,Ricardo Evangelista,3122,Luiz Panza,L,0,Kneebar,ACBJJ 5,O95KG,SF,2017
+13758,1534,Ricardo Evangelista,1188,Leandro Lo,L,0,Kimura,IBJJF Pro GP,ABS,4F,2017
+14881,1534,Ricardo Evangelista,3009,Keenan Cornelius,L,0,Toe hold,European Open,ABS,4F,2018
+14967,1534,Ricardo Evangelista,8560,Gabriel Lucas,L,0,Referee Decision,ACB 10,O95KG,SPF,2018
+15455,1534,Ricardo Evangelista,2403,Joao Rocha,L,0,Armbar,Pan American,O100KG,F,2018
+16096,1534,Ricardo Evangelista,4521,Erberth Santos,L,0,RNC,WP Br Qualifier,110KG,F,2018
+16345,1534,Ricardo Evangelista,3122,Luiz Panza,L,0,Triangle,ACBJJ 13,O95KG,SPF,2018
+16601,1534,Ricardo Evangelista,8968,Admilson Gobi,L,0,Points,World Champ.,O100KG,8F,2018
+16629,1534,Ricardo Evangelista,7507,Nicholas Meregali,L,0,Kimura,World Champ.,ABS,8F,2018
+17632,1534,Ricardo Evangelista,8195,Gutemberg Pereira,L,0,Pts: 4x0,King of Mats,110KG,RR,2018
+17647,1534,Ricardo Evangelista,3200,Jackson Sousa,L,0,Pts: 2x0,King of Mats,110KG,SF,2018
+17818,1534,Ricardo Evangelista,,V. Hugo,L,0,Referee Decision,WSOG 2,O81KG,8F,2018
+18336,1534,Ricardo Evangelista,6825,Fernando Reis,L,0,"Pts: 2x2, Adv",Grand Slam RJ,110KG,SF,2018
+18839,1534,Ricardo Evangelista,4521,Erberth Santos,L,0,"Pts: 0x0, Adv",Grand Slam AD,110KG,F,2019
+20147,1534,Ricardo Evangelista,2403,Joao Rocha,L,0,"Pts: 0x0, Adv",World Pro,110KG,SF,2019
+20718,1534,Ricardo Evangelista,984,Marcus Almeida,L,0,Choke from back,World Champ.,O100KG,F,2019
+20732,1534,Ricardo Evangelista,3122,Luiz Panza,L,0,Botinha,World Champ.,ABS,R2,2019
+20751,1534,Ricardo Evangelista,10103,Jonnatas Gracie,L,0,Pts: 4x2,King of Mats,110KG,RR,2019
+20760,1534,Ricardo Evangelista,7478,Adam Wardzinski,L,0,Pts: 9x6,King of Mats,110KG,RR,2019
+20795,1534,Ricardo Evangelista,10159,Victor Hugo,L,0,Pts: 2x0,Grand Slam MSK,120KG,SF,2019
+21062,1534,Ricardo Evangelista,10159,Victor Hugo,L,0,Referee Decision,ACB World Champ.,O95KG,F,2019
+23781,1534,Ricardo Evangelista,10159,Victor Hugo,L,0,Referee Decision,3CG Kumite II,ABS,4F,2020
+29160,1534,Ricardo Evangelista,8195,Gutemberg Pereira,L,0,Choke from back,BRA Qualifiers,120KG,F,2021
+34649,1534,Ricardo Evangelista,11499,Roosevelt Sousa,L,0,Botinha,Grand Slam MIA,120KG,4F,2022
+34656,1534,Ricardo Evangelista,,Herico Hesley,L,0,Pts: 4x0,Grand Slam MIA,120KG,3RD,2022
+36946,1534,Ricardo Evangelista,,Daniel Manasoiou,L,0,Smother choke,UFC Invitational,ABS,SPF,2022
+38468,1534,Ricardo Evangelista,5417,Guilherme Augusto,L,0,"Pts: 0x0, Adv",Pan American,O100KG,4F,2023
+39209,1534,Ricardo Evangelista,6432,Yan Lucas,L,0,"Pts: 0x0, Adv",Chicago SPO,ABS,SF,2023
+40376,1534,Ricardo Evangelista,5417,Guilherme Augusto,L,0,Arm in Ezekiel,World Champ.,O100KG,4F,2023
+41706,1534,Ricardo Evangelista,11510,Samuel Nagai,L,0,Choke from back,Dallas SMO,ABS,4F,2023
+42931,1534,Ricardo Evangelista,11709,Wallace Costa,L,0,Pts: 2x2,ADGS Miami,120KG,4F,2023
+42937,1534,Ricardo Evangelista,7537,Felipe Bezerra,L,0,Pts: 5x0,ADGS Miami,120KG,RPC,2023
+43156,1534,Ricardo Evangelista,576,Rafael Lovato,L,0,Triangle,WNO 20,ABS,SPF,2023
+2965,1534,Ricardo Evangelista,911,Antonio Peinado,W,1,Referee Decision,Brasileiro,O100KG,F,2011
+3537,1534,Ricardo Evangelista,,Kitner Moura,W,1,Pts: 6x0,Pan American,ABS,R1,2012
+3660,1534,Ricardo Evangelista,4177,Gustavo Dias,W,1,Submission,Pan American,O100KG,4F,2012
+3822,1534,Ricardo Evangelista,1391,Amin Touati,W,1,N/A,World Pro.,O99KG,4F,2012
+4139,1534,Ricardo Evangelista,224,Roberto Abreu,W,1,Points,World Champ.,O100KG,R2,2012
+4631,1534,Ricardo Evangelista,1604,Nivaldo Oliveira,W,1,Adv,Brasileiro,ABS,SF,2013
+4649,1534,Ricardo Evangelista,3083,Abraham Marte,W,1,Adv,Brasileiro,O100KG,SF,2013
+4650,1534,Ricardo Evangelista,543,Rodrigo Cavaca,W,1,Pts: 4x0,Brasileiro,O100KG,F,2013
+4735,1534,Ricardo Evangelista,,Guiovanne Guedes,W,1,N/A,World Champ.,ABS,RDS,2013
+4749,1534,Ricardo Evangelista,1827,James Puopolo,W,1,N/A,World Champ.,ABS,RDS,2013
+4903,1534,Ricardo Evangelista,,Francisco Neto,W,1,N/A,Rome Open,ABS,SF,2013
+4904,1534,Ricardo Evangelista,289,Alan Finfou,W,1,Referee Decision,Rome Open,ABS,F,2013
+5525,1534,Ricardo Evangelista,9711,Jurandir Conceicao,W,1,Botinha,Brasileiro,ABS,R1,2014
+5680,1534,Ricardo Evangelista,,Levi Duarte,W,1,N/A,World Pro.,O100KG,4F,2014
+5708,1534,Ricardo Evangelista,,Alexandre Frota,W,1,Footlock,World Champ.,ABS,R2,2014
+5854,1534,Ricardo Evangelista,,Mario Barbosa,W,1,Pts: 5x0,World Champ.,O100KG,4F,2014
+6622,1534,Ricardo Evangelista,,Pedro Moura,W,1,Toe hold,European,O100KG,4F,2015
+7147,1534,Ricardo Evangelista,,Chris Bowe,W,1,"Pts: 2x2, Adv",World Pro,O95KG,R1,2015
+7153,1534,Ricardo Evangelista,,Andre Campos,W,1,Toe hold,World Pro,O95KG,4F,2015
+7373,1534,Ricardo Evangelista,,Walnan Presto,W,1,Ezekiel,World Champ.,ABS,R1,2015
+7385,1534,Ricardo Evangelista,,Cássio Francis,W,1,Points,World Champ.,ABS,R2,2015
+7388,1534,Ricardo Evangelista,984,Marcus Almeida,W,1,"Pts: 4x4, Adv",World Champ.,ABS,8F,2015
+7513,1534,Ricardo Evangelista,7079,Carlos Farias,W,1,Pts: 2x0,World Champ.,O100KG,8F,2015
+7517,1534,Ricardo Evangelista,4177,Gustavo Dias,W,1,Pts: 3x0,World Champ.,O100KG,4F,2015
+8272,1534,Ricardo Evangelista,1263,Lucio Rodrigues,W,1,Referee Decision,Grand Slam LA,O94KG,SF,2015
+8274,1534,Ricardo Evangelista,224,Roberto Abreu,W,1,Pts: 10x0,Grand Slam LA,O94KG,F,2015
+8279,1534,Ricardo Evangelista,1263,Lucio Rodrigues,W,1,Referee Decision,Grand Slam LA,ABS,8F,2015
+8676,1534,Ricardo Evangelista,,Fernando Luis,W,1,Mounted X choke,Grand Slam RJ,O94KG,8F,2015
+8680,1534,Ricardo Evangelista,,Junior Jacinto,W,1,Armbar,Grand Slam RJ,O94KG,4F,2015
+8681,1534,Ricardo Evangelista,8560,Gabriel Lucas,W,1,Referee Decision,Grand Slam RJ,O94KG,SF,2015
+8686,1534,Ricardo Evangelista,,Philipe Arimatea,W,1,Armlock,Grand Slam RJ,ABS,R1,2015
+8698,1534,Ricardo Evangelista,,Marcos Conrado,W,1,Violin armlock,Grand Slam RJ,ABS,R2,2015
+8707,1534,Ricardo Evangelista,,V. Silva,W,1,Armbar,Grand Slam RJ,ABS,8F,2015
+8715,1534,Ricardo Evangelista,6301,Faisal AlKitbe,W,1,Pts: 4x0,Grand Slam RJ,ABS,4F,2015
+8720,1534,Ricardo Evangelista,4521,Erberth Santos,W,1,Referee Decision,Grand Slam RJ,ABS,SF,2015
+8721,1534,Ricardo Evangelista,,Herico Hesley,W,1,Choke from back,Grand Slam RJ,ABS,F,2015
+9198,1534,Ricardo Evangelista,868,B. Matias,W,1,"Pts: 0x0, Adv",Grand Slam LDN,ABS,4F,2016
+9201,1534,Ricardo Evangelista,4521,Erberth Santos,W,1,Guillotine,Grand Slam LDN,ABS,F,2016
+9228,1534,Ricardo Evangelista,1263,Lucio Rodrigues,W,1,Pts: 2x0,Grand Slam LDN,O94KG,F,2016
+9527,1534,Ricardo Evangelista,631,Rodrigo Caporal,W,1,Pts: 10x0,World Pro,ABS,R1,2016
+9546,1534,Ricardo Evangelista,11703,Arya Esfandmaz,W,1,Pts: 16x0,World Pro,ABS,8F,2016
+9661,1534,Ricardo Evangelista,6592,Dany Gerard,W,1,Referee Decision,World Pro,O94KG,4F,2016
+9664,1534,Ricardo Evangelista,224,Roberto Abreu,W,1,"Pts: 0x0, Adv",World Pro,O94KG,4F,2016
+9666,1534,Ricardo Evangelista,1263,Lucio Rodrigues,W,1,Referee Decision,World Pro,O94KG,SF,2016
+9667,1534,Ricardo Evangelista,5509,Victor Honorio,W,1,Pts: 6x0,World Pro,O94KG,F,2016
+10065,1534,Ricardo Evangelista,,Kitner Moura,W,1,Points,World Champ.,O100KG,R1,2016
+10070,1534,Ricardo Evangelista,,Otavio Nalati,W,1,Violin armlock,World Champ.,O100KG,4F,2016
+10090,1534,Ricardo Evangelista,1827,James Puopolo,W,1,Pts: 6x2,World Champ.,ABS,R2,2016
+10460,1534,Ricardo Evangelista,4521,Erberth Santos,W,1,Toe hold,Grand Slam LA,94KG,3RD,2016
+11099,1534,Ricardo Evangelista,,Roger Ambrosi,W,1,Toe hold,Grand Slam RJ,110KG,4F,2016
+11363,1534,Ricardo Evangelista,,Rodolpho B.,W,1,Pts: 4x0,Al Ain Pro,108KG,SF,2016
+11498,1534,Ricardo Evangelista,,Kacper Rot,W,1,Pts: 10x2,European Open,ABS,R1,2017
+11510,1534,Ricardo Evangelista,631,Rodrigo Caporal,W,1,Points,European Open,ABS,8F,2017
+11633,1534,Ricardo Evangelista,,Patryk Wysocki,W,1,Choke from back,European Open,O100KG,4F,2017
+11637,1534,Ricardo Evangelista,7079,Carlos Farias,W,1,N/A,European Open,O100KG,SF,2017
+12089,1534,Ricardo Evangelista,7831,Diego Ramalho,W,1,Referee Decision,Pan American,ABS,R1,2017
+12095,1534,Ricardo Evangelista,,Esdras Barbosa,W,1,Pts: 2x0,Pan American,ABS,R2,2017
+12907,1534,Ricardo Evangelista,,Muhammad Kerimov,W,1,Referee Decision,ACBJJ 5,O95KG,4F,2017
+14173,1534,Ricardo Evangelista,,Eduardo Machado,W,1,Referee Decision,Al Ain Pro NoGi,108KG,F,2017
+14864,1534,Ricardo Evangelista,9554,Henrique Cardoso,W,1,Wristlock,European Open,ABS,R1,2018
+14872,1534,Ricardo Evangelista,,Otavio Nalati,W,1,Pts: 6x3,European Open,ABS,8F,2018
+14958,1534,Ricardo Evangelista,,Rúben Araujo,W,1,Toe Hold,European Open,O100KG,4F,2018
+14961,1534,Ricardo Evangelista,5509,Victor Honorio,W,1,"Pts: 0x0, Adv",European Open,O100KG,F,2018
+15449,1534,Ricardo Evangelista,,Raphael Souza,W,1,Pts: 6x0,Pan American,O100KG,4F,2018
+15453,1534,Ricardo Evangelista,,Joseph Moku,W,1,Pts: 2x0,Pan American,O100KG,SF,2018
+16094,1534,Ricardo Evangelista,,Daniel Baia,W,1,"Pts: 0x0, Adv",WP Br Qualifier,110KG,SF,2018
+16618,1534,Ricardo Evangelista,5861,Jared Dopp,W,1,Pts: 5x0,World Champ.,ABS,RD,2018
+17602,1534,Ricardo Evangelista,8634,Rafael Vasconcelos,W,1,Toe hold,Grand Slam LA,110KG,4F,2018
+17628,1534,Ricardo Evangelista,6156,Tanner Rice,W,1,Toe hold,King of Mats,110KG,RR,2018
+17638,1534,Ricardo Evangelista,6071,Gabriel Arges,W,1,Pts: 2x0,King of Mats,110KG,RR,2018
+17644,1534,Ricardo Evangelista,7478,Adam Wardzinski,W,1,"Pts: 0x0, Adv",King of Mats,110KG,RR,2018
+18020,1534,Ricardo Evangelista,8762,Rodrigo Ribeiro,W,1,"Pts: 0x0, Adv",Al Ain Pro,110KG,RR,2018
+18021,1534,Ricardo Evangelista,,Luiz Henrique,W,1,Submission,Al Ain Pro,110KG,RR,2018
+18022,1534,Ricardo Evangelista,8762,Rodrigo Ribeiro,W,1,Pts: 6x0,Al Ain Pro,110KG,F,2018
+18215,1534,Ricardo Evangelista,10318,Eldar Rafigaev,W,1,"Pts: 2x2, Adv",Italy Nat. Pro,110KG,F,2018
+18216,1534,Ricardo Evangelista,10318,Eldar Rafigaev,W,1,Pts: 2x0,Italy Nat. NGP,ABS,F,2018
+18330,1534,Ricardo Evangelista,8968,Admilson Gobi,W,1,Pts: 8x2,Grand Slam RJ,110KG,8F,2018
+18334,1534,Ricardo Evangelista,,Rodrigo Pereira,W,1,Choke from back,Grand Slam RJ,110KG,4F,2018
+18837,1534,Ricardo Evangelista,8762,Rodrigo Ribeiro,W,1,Points,Grand Slam AD,110KG,SF,2019
+19008,1534,Ricardo Evangelista,,Luka Skoric,W,1,Pts: 6x0,Slovenia Pro,110KG,RR,2019
+19009,1534,Ricardo Evangelista,,Luka Skoric,W,1,"Pts: 0x0, Adv",Slovenia Pro,110KG,F,2019
+19145,1534,Ricardo Evangelista,,Kornel Zapadka,W,1,N/A,Netherlands Pro,110KG,SF,2019
+19146,1534,Ricardo Evangelista,10318,Eldar Rafigaev,W,1,Pts: 5x0,Netherlands Pro,110KG,F,2019
+19265,1534,Ricardo Evangelista,,Walter Santos,W,1,N/A,EU Continental,110KG,F,2019
+19458,1534,Ricardo Evangelista,7704,Helton Jose,W,1,Pts: 2x0,Grand Slam LDN,110KG,F,2019
+19673,1534,Ricardo Evangelista,387,Braga Neto,W,1,DQ,Pan American,O100KG,SF,2019
+20146,1534,Ricardo Evangelista,10318,Eldar Rafigaev,W,1,Pts: 3x0,World Pro,110KG,4F,2019
+20151,1534,Ricardo Evangelista,7111,Muslim Patsarigov,W,1,Wristlock,World Pro,110KG,3RD,2019
+20713,1534,Ricardo Evangelista,9483,Eduardo Lopes,W,1,Toe hold,World Champ.,O100KG,4F,2019
+20717,1534,Ricardo Evangelista,7537,Felipe Bezerra,W,1,Arm in Ezekiel,World Champ.,O100KG,SF,2019
+20723,1534,Ricardo Evangelista,,Joseph Moku,W,1,Toe hold,World Champ.,ABS,R1,2019
+20755,1534,Ricardo Evangelista,8100,Rudson Mateus,W,1,Toe hold,King of Mats,110KG,RR,2019
+20762,1534,Ricardo Evangelista,,Donghwa Choi,W,1,Armbar,King of Mats,110KG,RR,2019
+20797,1534,Ricardo Evangelista,,Paulo Brasil,W,1,Pts: 2x0,Grand Slam MSK,120KG,RPC,2019
+20798,1534,Ricardo Evangelista,,S. Varhavskiyy,W,1,Pts: 6x2,Grand Slam MSK,120KG,3RD,2019
+21061,1534,Ricardo Evangelista,9515,Seif Houmine,W,1,Submission,ACB World Champ.,O95KG,SF,2019
+21063,1534,Ricardo Evangelista,10176,Bruno Lima,W,1,Submission,ACB World Champ.,ABS,4F,2019
+21066,1534,Ricardo Evangelista,7704,Helton Jose,W,1,"Pts: 0x0, Adv",ACB World Champ.,ABS,SF,2019
+21703,1534,Ricardo Evangelista,10159,Victor Hugo,W,1,Pts: 8x4,Grand Slam LA,120KG,SF,2019
+21705,1534,Ricardo Evangelista,8532,Gerard Labinski,W,1,Pts: 4x2,Grand Slam LA,120KG,F,2019
+22213,1534,Ricardo Evangelista,5417,Guilherme Augusto,W,1,"Pts: 0x0, Adv",Houston FO,O100KG,F,2019
+23693,1534,Ricardo Evangelista,,Rafael Babilonia,W,1,Violin armlock,Houston WO,O100KG,SF,2020
+23697,1534,Ricardo Evangelista,10880,Roberto Jimenez,W,1,Toe hook,Houston WO,ABS,SF,2020
+23699,1534,Ricardo Evangelista,,Eric Newton,W,1,Points,Houston WO,ABS,F,2020
+23860,1534,Ricardo Evangelista,,Renato Tagliari,W,1,Points,Kumite V,ABS,SPF,2020
+24504,1534,Ricardo Evangelista,,Austin Avera,W,1,Pts: 11x0,No Gi Pan Am.,O97KG,4F,2020
+24508,1534,Ricardo Evangelista,7831,Diego Ramalho,W,1,Referee Decision,No Gi Pan Am.,O97KG,SF,2020
+29159,1534,Ricardo Evangelista,,Herico Hesley,W,1,Submission,BRA Qualifiers,120KG,SF,2021
+29675,1534,Ricardo Evangelista,,James Krause,W,1,Violin armlock,UFC Inv.,ABS,RR,2021
+29680,1534,Ricardo Evangelista,260,Ary Farias,D,0.5,---,UFC Inv.,ABS,RR,2021
+34655,1534,Ricardo Evangelista,9180,Vinicius Trator,W,1,Referee Decision,Grand Slam MIA,120KG,RPC,2022
+35905,1534,Ricardo Evangelista,,Alan Zacharias,W,1,N/A,Houston FO,O100KG,SF,2022
+35906,1534,Ricardo Evangelista,,Renato Tagliari,W,1,Violin armlock,Houston FO,O100KG,F,2022
+38463,1534,Ricardo Evangelista,6432,Yan Lucas,W,1,Referee Decision,Pan American,O100KG,R1,2023
+39199,1534,Ricardo Evangelista,,Michael Leighton,W,1,N/A,Chicago SPO,O100KG,RR,2023
+39201,1534,Ricardo Evangelista,,Max Reis,W,1,N/A,Chicago SPO,O100KG,F,2023
+39207,1534,Ricardo Evangelista,,Michael Robert,W,1,N/A,Chicago SPO,ABS,4F,2023
+39886,1534,Ricardo Evangelista,,Diego Ferreira,W,1,Wristlock,Houston Open,O100KG,4F,2023
+39889,1534,Ricardo Evangelista,5417,Guilherme Augusto,W,1,Points,Houston Open,O100KG,SF,2023
+40368,1534,Ricardo Evangelista,,Cleyton Flores,W,1,Referee Decision,World Champ.,O100KG,8F,2023
+42927,1534,Ricardo Evangelista,,Salenco Coutinho,W,1,Pts: 1x1,ADGS Miami,120KG,R1,2023

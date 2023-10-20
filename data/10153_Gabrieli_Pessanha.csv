@@ -1,0 +1,151 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+26507,10153,Gabrieli Pessanha,10897,Yara Soares,L,0,Pts: 4x2,SA Cont. Pro,95KG,F,2021
+27086,10153,Gabrieli Pessanha,6761,Tayane Porfirio,L,0,Pts: 2x0,BJJ Bet,ABS,SPF,2021
+27677,10153,Gabrieli Pessanha,6979,Ana Vieira,L,0,Pts: 4x2,Pan American,ABS,4F,2021
+28129,10153,Gabrieli Pessanha,10897,Yara Soares,L,0,Pts: 6x4,Brasileiro,O79KG,F,2021
+28135,10153,Gabrieli Pessanha,10897,Yara Soares,L,0,Injury,Brasileiro,ABS,F,2021
+28657,10153,Gabrieli Pessanha,10897,Yara Soares,L,0,Pts: 2x0,Grand Slam RJ,95KG,F,2021
+21252,10153,Gabrieli Pessanha,,Marcela Caiafa,W,1,Choke from back,Grand Slam TYO,95KG,F,2019
+21712,10153,Gabrieli Pessanha,10885,Kendall Reusing,W,1,Referee Decision,Grand Slam LA,95KG,F,2019
+22363,10153,Gabrieli Pessanha,,Karla Albuquerque,W,1,Pts: 7x0,Grand Slam RJ,95KG,4F,2019
+22364,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 4x2,Grand Slam RJ,95KG,SF,2019
+22365,10153,Gabrieli Pessanha,,Izadora Cristina,W,1,Referee Decision,Grand Slam RJ,95KG,F,2019
+23017,10153,Gabrieli Pessanha,,Samatha Cook,W,1,Pts: 6x0,Grand Slam AD,95KG,SF,2020
+23018,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 10x7,Grand Slam AD,95KG,F,2020
+23023,10153,Gabrieli Pessanha,10100,Thamara Ferreira,W,1,RNC,Queen Of Mats,95KG,RR,2020
+23025,10153,Gabrieli Pessanha,,Martina Gremanius,W,1,Pts: 3x1,Queen Of Mats,95KG,RR,2020
+23027,10153,Gabrieli Pessanha,10885,Kendall Reusing,W,1,Kimura,Queen Of Mats,95KG,SF,2020
+23028,10153,Gabrieli Pessanha,7000,Nathiely Jesus,W,1,Pts: 2x1,Queen Of Mats,95KG,F,2020
+23343,10153,Gabrieli Pessanha,10100,Thamara Ferreira,W,1,Adv,France Nat. Pro,95KG,F,2020
+23678,10153,Gabrieli Pessanha,,Yasmira Dias,W,1,Pts: 3x1,Grand Slam LDN,95KG,SF,2020
+23679,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 4x3,Grand Slam LDN,95KG,F,2020
+23929,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 12x10,BJJ Bet,85KG,SPF,2020
+24802,10153,Gabrieli Pessanha,,Iris Silva,W,1,Choke from back,Grand Slam RJ,95KG,4F,2020
+24805,10153,Gabrieli Pessanha,,Roberta Ribeiro,W,1,DQ,Grand Slam RJ,95KG,SF,2020
+24806,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 1x0,Grand Slam RJ,95KG,F,2020
+24951,10153,Gabrieli Pessanha,,Joaquina Bonfim,W,1,Toe hold,South American,O79KG,F,2020
+24955,10153,Gabrieli Pessanha,,Claire Thevenon,W,1,Points,South American,ABS,4F,2020
+24958,10153,Gabrieli Pessanha,,Sabatha Lais,W,1,Armbar,South American,ABS,SF,2020
+24959,10153,Gabrieli Pessanha,8301,Amanda Monteiro,W,1,Pts: 19x0,South American,ABS,F,2020
+25362,10153,Gabrieli Pessanha,,Victoria Amaral,W,1,Triangle,Rio Open,O79KG,F,2021
+25364,10153,Gabrieli Pessanha,,Natalia Zumba,W,1,Arm in Ezekiel,Rio Open,ABS,4F,2021
+25365,10153,Gabrieli Pessanha,7535,Bianca Basilio,W,1,Choke from back,Rio Open,ABS,SF,2021
+25366,10153,Gabrieli Pessanha,,Izadora Cristina,W,1,Triangle,Rio Open,ABS,F,2021
+25712,10153,Gabrieli Pessanha,13095,Eleftheria Christodoulou,W,1,Pts: 8x2,World Pro,95KG,RR,2021
+25714,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 3x3,World Pro,95KG,RR,2021
+25715,10153,Gabrieli Pessanha,,Yasmira Dias,W,1,Bow and arrow,World Pro,95KG,RR,2021
+25719,10153,Gabrieli Pessanha,10885,Kendall Reusing,W,1,Pts: 4x0,World Pro,95KG,RR,2021
+26503,10153,Gabrieli Pessanha,,Graciele Carvalho,W,1,Pts: 4x0,SA Cont. Pro,95KG,4F,2021
+26506,10153,Gabrieli Pessanha,,Roberta Ribeiro,W,1,Pts: 3x0,SA Cont. Pro,95KG,SF,2021
+26807,10153,Gabrieli Pessanha,,Juliana Araujo,W,1,Straight ankle lock,Rio Winter Open,ABS,4F,2021
+26808,10153,Gabrieli Pessanha,,Natalia Zumba,W,1,Bow and arrow,Rio Winter Open,ABS,SF,2021
+26809,10153,Gabrieli Pessanha,,Fernanda Mazzelo,W,1,Pts: 2x0,Rio Winter Open,ABS,F,2021
+27670,10153,Gabrieli Pessanha,,Michele Welti,W,1,Straight ankle lock,Pan American,84KG,SF,2021
+27671,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 4x2,Pan American,84KG,F,2021
+27674,10153,Gabrieli Pessanha,,Erin Johnson,W,1,Triangle,Pan American,ABS,8F,2021
+28128,10153,Gabrieli Pessanha,,Joaquina Bonfim,W,1,Armbar,Brasileiro,O79KG,SF,2021
+28132,10153,Gabrieli Pessanha,11929,Ingridd Alves,W,1,Verbal tap,Brasileiro,ABS,4F,2021
+28133,10153,Gabrieli Pessanha,,Sabatha Lais,W,1,Choke from back,Brasileiro,ABS,SF,2021
+28653,10153,Gabrieli Pessanha,,Roberta Ribeiro,W,1,Pts: 13x0,Grand Slam RJ,95KG,4F,2021
+28655,10153,Gabrieli Pessanha,,Tamiris Silva,W,1,Armbar,Grand Slam RJ,95KG,SF,2021
+29163,10153,Gabrieli Pessanha,6761,Tayane Porfirio,W,1,Referee Decision,BRA Qualifiers,95KG,RR,2021
+29164,10153,Gabrieli Pessanha,6761,Tayane Porfirio,W,1,Pts: 4x3,BRA Qualifiers,95KG,RR,2021
+29281,10153,Gabrieli Pessanha,,Lama Qubbaj,W,1,Choke from back,World Pro,95KG,RR,2021
+29283,10153,Gabrieli Pessanha,,Claire Thevenon,W,1,Armbar,World Pro,95KG,RR,2021
+29285,10153,Gabrieli Pessanha,,Yasmira Dias,W,1,Pts: 4x1,World Pro,95KG,RR,2021
+29287,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 3x2,World Pro,95KG,RR,2021
+29595,10153,Gabrieli Pessanha,,Bridget McEliese,W,1,Pts: 14x2,World Champ.,ABS,R1,2021
+29599,10153,Gabrieli Pessanha,7535,Bianca Basilio,W,1,Pts: 4x2,World Champ.,ABS,4F,2021
+29603,10153,Gabrieli Pessanha,1119,Beatriz Mesquita,W,1,"Pts: 2x2, Adv",World Champ.,ABS,SF,2021
+29604,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Points,World Champ.,ABS,F,2021
+29653,10153,Gabrieli Pessanha,595,Gabrielle Garcia,W,1,Choke from back,World Champ.,O79KG,SF,2021
+29654,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 2x0,World Champ.,O79KG,F,2021
+29912,10153,Gabrieli Pessanha,,Milene Silva,W,1,Pts: 10x0,Rio SMO,ABS,SF,2022
+30651,10153,Gabrieli Pessanha,,Andreia Cavalcante,W,1,Triangle,European Open,ABS,4F,2022
+30655,10153,Gabrieli Pessanha,,Nathalie Ribeiro,W,1,"Pts: 0x0, Adv",European Open,ABS,SF,2022
+30656,10153,Gabrieli Pessanha,,Thalyta Lima,W,1,Armbar,European Open,ABS,F,2022
+30672,10153,Gabrieli Pessanha,,Claire Thevenon,W,1,Choke from back,European Open,O79KG,F,2022
+31202,10153,Gabrieli Pessanha,,Silvia Scomparin,W,1,Choke from back,Grand Slam LDN,95KG,4F,2022
+31204,10153,Gabrieli Pessanha,,Barbara Ruiken,W,1,Straight ankle lock,Grand Slam LDN,95KG,SF,2022
+31205,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 2x0,Grand Slam LDN,95KG,F,2022
+31724,10153,Gabrieli Pessanha,,Janine Mutton,W,1,Choke from back,Pan American,ABS,4F,2022
+31729,10153,Gabrieli Pessanha,,Melissa Cueto,W,1,Referee Decision,Pan American,ABS,SF,2022
+31730,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,N/A,Pan American,ABS,F,2022
+31762,10153,Gabrieli Pessanha,,Mayara Custodio,W,1,Verbal tap,Pan American,O79KG,RR,2022
+31763,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Pts: 4x0,Pan American,O79KG,F,2022
+31942,10153,Gabrieli Pessanha,,Jessica Bartolli,W,1,Kimura,Rio Fall Open,ABS,4F,2022
+31946,10153,Gabrieli Pessanha,12594,Vitoria Vieira,W,1,Choke,Rio Fall Open,ABS,SF,2022
+31948,10153,Gabrieli Pessanha,11314,Jessica Caroline,W,1,Choke,Rio Fall Open,ABS,F,2022
+31951,10153,Gabrieli Pessanha,,Victoria Borba,W,1,Mounted triangle,Rio Fall Open,O79KG,F,2022
+32119,10153,Gabrieli Pessanha,,Bruna Silva,W,1,Pts: 3x0,SA Cont. Pro,95KG,RR,2022
+32120,10153,Gabrieli Pessanha,,Bruna Silva,W,1,Choke from back,SA Cont. Pro,95KG,RR,2022
+32230,10153,Gabrieli Pessanha,,Carina Santi,W,1,Reverse triangle,Brasileiro,O79KG,SF,2022
+32231,10153,Gabrieli Pessanha,,Claire Thevenon,W,1,Shoulder pressure,Brasileiro,O79KG,F,2022
+32233,10153,Gabrieli Pessanha,,Carina Santi,W,1,Bow and arrow,Brasileiro,ABS,SF,2022
+32235,10153,Gabrieli Pessanha,6765,Fernanda Mazzelli,W,1,Choke from back,Brasileiro,ABS,F,2022
+32740,10153,Gabrieli Pessanha,,Iris Batista,W,1,Armbar,Salvador Open,O79KG,F,2022
+32741,10153,Gabrieli Pessanha,13078,Amanda Magda,W,1,Armbar,Salvador Open,ABS,SF,2022
+32742,10153,Gabrieli Pessanha,,Thais Teixeira,W,1,Choke from back,Salvador Open,ABS,F,2022
+33109,10153,Gabrieli Pessanha,,Mayara Custodio,W,1,RNC,World Champ.,O79KG,SF,2022
+33117,10153,Gabrieli Pessanha,12788,Luciana Mota,W,1,Ezekiel,World Champ.,ABS,4F,2022
+33120,10153,Gabrieli Pessanha,11656,Rafaela Guedes,W,1,Pts: 2x0,World Champ.,ABS,SF,2022
+33122,10153,Gabrieli Pessanha,12639,Amy Campo,W,1,Referee Decision,World Champ.,ABS,F,2022
+34122,10153,Gabrieli Pessanha,,Mayara Moreira,W,1,Choke from back,Grand Slam RJ,95KG,4F,2022
+34127,10153,Gabrieli Pessanha,,Welma Moreira,W,1,Pts: 3x0,Grand Slam RJ,95KG,SF,2022
+34128,10153,Gabrieli Pessanha,11929,Ingridd Alves,W,1,Pts: 2x0,Grand Slam RJ,95KG,F,2022
+34694,10153,Gabrieli Pessanha,,Silvia Scomparin,W,1,Wristlock,Grand Slam MIA,95KG,SF,2022
+34696,10153,Gabrieli Pessanha,13016,Giovanna Jara,W,1,Pts: 11x9,Grand Slam MIA,95KG,F,2022
+34777,10153,Gabrieli Pessanha,,Maryanna Cardoso,W,1,Triangle,JJ Con,O79KG,SF,2022
+34779,10153,Gabrieli Pessanha,,Mayara Custodio,W,1,Triangle,JJ Con,O79KG,F,2022
+34781,10153,Gabrieli Pessanha,8759,Maria Malyjasiak,W,1,"Pts: 2x2, Adv",JJ Con,ABS,F,2022
+35391,10153,Gabrieli Pessanha,,Victoria Amaral,W,1,RNC,Rio BJJ Pro,O79KG,F,2022
+35393,10153,Gabrieli Pessanha,,Julia Boscher,W,1,Americana,Rio BJJ Pro,ABS,4F,2022
+35396,10153,Gabrieli Pessanha,,Maynne Correa,W,1,RNC,Rio BJJ Pro,ABS,SF,2022
+35397,10153,Gabrieli Pessanha,,Sabatha Lais,W,1,Armbar,Rio BJJ Pro,ABS,F,2022
+35758,10153,Gabrieli Pessanha,,Victoria Amaral,W,1,Choke from back,South American,O79KG,SF,2022
+35759,10153,Gabrieli Pessanha,,Maryanna Cardoso,W,1,Choke from back,South American,O79KG,F,2022
+35762,10153,Gabrieli Pessanha,,Marilia Freire,W,1,Choke from back,South American,ABS,4F,2022
+35765,10153,Gabrieli Pessanha,,Victoria Amaral,W,1,Choke from back,South American,ABS,SF,2022
+35767,10153,Gabrieli Pessanha,,Sabrina Ataide,W,1,Katagatame,South American,ABS,F,2022
+36450,10153,Gabrieli Pessanha,,Barbara Ruiken,W,1,Pts: 13x0,World Pro,95KG,RR,2022
+36452,10153,Gabrieli Pessanha,13016,Giovanna Jara,W,1,Pts: 3x2,World Pro,95KG,RR,2022
+36456,10153,Gabrieli Pessanha,,Silvia Scomparin,W,1,Choke from back,World Pro,95KG,SF,2022
+36458,10153,Gabrieli Pessanha,13016,Giovanna Jara,W,1,Pts: 2x2,World Pro,95KG,F,2022
+36745,10153,Gabrieli Pessanha,,Laura Peretti,W,1,Submission,Dublin Open,ABS,SF,2022
+36747,10153,Gabrieli Pessanha,,Dina Proenca,W,1,Submission,Dublin Open,ABS,F,2022
+37267,10153,Gabrieli Pessanha,11762,Elisabeth Clay,W,1,Choke,European Open,ABS,4F,2023
+37270,10153,Gabrieli Pessanha,8759,Maria Malyjasiak,W,1,Toe hold,European Open,ABS,SF,2023
+37271,10153,Gabrieli Pessanha,12845,Thalyta Silva,W,1,Teepee choke,European Open,ABS,F,2023
+37306,10153,Gabrieli Pessanha,,Claire Thevenon,W,1,Choke from back,European Open,O79KG,F,2023
+38300,10153,Gabrieli Pessanha,,Yasmira Dias,W,1,Clock choke,AJPGD LDN,95KG,SF,2023
+38302,10153,Gabrieli Pessanha,,Mayara Moreira,W,1,RNC,AJPGD LDN,95KG,F,2023
+38330,10153,Gabrieli Pessanha,,Elizabeth Mitrovic,W,1,Bow and arrow,Pan American,ABS,4F,2023
+38333,10153,Gabrieli Pessanha,,Maria Maryjasiak,W,1,Pts: 13x0,Pan American,ABS,SF,2023
+38335,10153,Gabrieli Pessanha,6979,Ana Vieira,W,1,Pts: 2x0,Pan American,ABS,F,2023
+38519,10153,Gabrieli Pessanha,,Lama Qubbaj,W,1,Pressure,Pan American,O79KG,RR,2023
+38520,10153,Gabrieli Pessanha,,Mayara Custodio,W,1,Straight ankle lock,Pan American,O79KG,F,2023
+38644,10153,Gabrieli Pessanha,,Maria Santiago,W,1,Kimura,Rio Fall Open,O79KG,SF,2023
+38646,10153,Gabrieli Pessanha,,Roberta Ribeiro,W,1,Pts: 7x2,Rio Fall Open,O79KG,F,2023
+38647,10153,Gabrieli Pessanha,,Geordania Vieira,W,1,RNC,Rio Fall Open,ABS,4F,2023
+38651,10153,Gabrieli Pessanha,,Patricia Silva,W,1,Ezekiel,Rio Fall Open,ABS,SF,2023
+38652,10153,Gabrieli Pessanha,,Thaynara Dias,W,1,Armbar,Rio Fall Open,ABS,F,2023
+39569,10153,Gabrieli Pessanha,,Julia Boscher,W,1,Arm in Ezekiel,Brasileiro,ABS,8F,2023
+39576,10153,Gabrieli Pessanha,,Raiane Santos,W,1,Straight ankle lock,Brasileiro,ABS,4F,2023
+39578,10153,Gabrieli Pessanha,,Sabatha Lais,W,1,Ezekiel,Brasileiro,ABS,SF,2023
+39580,10153,Gabrieli Pessanha,12845,Thalyta Silva,W,1,RNC,Brasileiro,ABS,F,2023
+39627,10153,Gabrieli Pessanha,,Maria Barboza,W,1,Pts: 2x0,Brasileiro,O79KG,4F,2023
+39631,10153,Gabrieli Pessanha,,Juliana Araujo,W,1,Wristlock,Brasileiro,O79KG,F,2023
+40455,10153,Gabrieli Pessanha,13078,Amanda Magda,W,1,Straight ankle lock,World Champ.,O79KG,SF,2023
+40457,10153,Gabrieli Pessanha,,Mayara Custodio,W,1,RNC,World Champ.,O79KG,F,2023
+40466,10153,Gabrieli Pessanha,12719,Fernanda Cristo,W,1,RNC,World Champ.,ABS,4F,2023
+40467,10153,Gabrieli Pessanha,,Melissa Cueto,W,1,Bow and arrow,World Champ.,ABS,SF,2023
+40469,10153,Gabrieli Pessanha,6979,Ana Vieira,W,1,Choke from back,World Champ.,ABS,F,2023
+41872,10153,Gabrieli Pessanha,,Leticia Wambier,W,1,Straight ankle lock,Vitoria Open,ABS,4F,2023
+41874,10153,Gabrieli Pessanha,12785,Julia Alves,W,1,Choke,Vitoria Open,ABS,SF,2023
+41876,10153,Gabrieli Pessanha,,Thauany Correa,W,1,Submission,Vitoria Open,ABS,F,2023
+42328,10153,Gabrieli Pessanha,1430,Talita Nogueira,W,1,Straight ankle lock,JJ Con,O79KG,RR,2023
+42330,10153,Gabrieli Pessanha,,Chayse Diekema,W,1,Choke from back,JJ Con,ABS,SF,2023
+42331,10153,Gabrieli Pessanha,,Raquel Santos,W,1,Ezekiel,JJ Con,ABS,F,2023
+42492,10153,Gabrieli Pessanha,,Carina Santi,W,1,Pts: 10x0,BJJ Stars,ABS,4F,2023
+42496,10153,Gabrieli Pessanha,,Melissa Cueto,W,1,Pts: 2x0,BJJ Stars,ABS,SF,2023
+42498,10153,Gabrieli Pessanha,10897,Yara Soares,W,1,Straight ankle lock,BJJ Stars,ABS,F,2023

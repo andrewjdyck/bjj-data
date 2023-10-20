@@ -1,0 +1,67 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24704,11754,Victor Nithael,11658,Lucas Gualberto,L,0,Pts: 2x0,Grand Slam RJ,77KG,R1,2020
+25113,11754,Victor Nithael,,Yan Silveira,L,0,Points,Brazil Nat. Pro,77KG,4F,2021
+26371,11754,Victor Nithael,9486,Murilo Amaral,L,0,Referee Decision,SA Cont. Pro,69KG,4F,2021
+26381,11754,Victor Nithael,10840,Diego Oliveira,L,0,Pts: 9x1,SA Cont. Pro,69KG,RPC,2021
+26785,11754,Victor Nithael,9956,Vinicius Pereira,L,0,Points,Rio Winter Open,76KG,SF,2021
+27166,11754,Victor Nithael,9956,Vinicius Pereira,L,0,Pts: 2x0,Copa Podio,70KG,F,2021
+28050,11754,Victor Nithael,,Sergio Soares,L,0,Pts: 10x8,Brasileiro,76KG,SF,2021
+28491,11754,Victor Nithael,,Alessandro Botelho,L,0,Pts: 3x0,Grand Slam RJ,69KG,8F,2021
+29877,11754,Victor Nithael,12348,Lucas Protasio,L,0,RNC,Rio SMO,76KG,F,2022
+30131,11754,Victor Nithael,,Jadson Araujo,L,0,"Pts: 0x0, Adv",Sul Brasileiro,76KG,SF,2022
+31654,11754,Victor Nithael,11878,Andy Murasaki,L,0,Pts: 4x2,Pan American,76KG,R2,2022
+32924,11754,Victor Nithael,10103,Jonnatas Gracie,L,0,"Pts: 4x4, Adv",World Champ.,76KG,4F,2022
+33957,11754,Victor Nithael,,Alessandro Botelho,L,0,Toe hold,Grand Slam RJ,69KG,SF,2022
+33961,11754,Victor Nithael,,Marlus Salgado,L,0,Anaconda choke,Grand Slam RJ,69KG,RPC,2022
+34483,11754,Victor Nithael,,Cleison Gabriel,L,0,Pts: 5x4,AJP SA Team,69KG,SF,2022
+36249,11754,Victor Nithael,,Jackson Bernardo,L,0,Pts: 2x1,WP Qualifier,77KG,SF,2022
+37192,11754,Victor Nithael,10216,Natan Chueng,L,0,Pts: 4x2,European Open,76KG,R2,2023
+38020,11754,Victor Nithael,,Alessandro Botelho,L,0,Referee Decision,Curitiba SMO,76KG,F,2023
+40264,11754,Victor Nithael,9002,Matheus Gabriel,L,0,"Pts: 4x4, Pen",World Champ.,76KG,8F,2023
+42014,11754,Victor Nithael,,Guilherme Dalpra,L,0,Kneebar,Floripa WO,76KG,R1,2023
+42054,11754,Victor Nithael,11658,Lucas Gualberto,L,0,Referee Decision,Floripa WO,ABS,4F,2023
+42717,11754,Victor Nithael,13458,Leandro Rounaud,L,0,"Pts: 6x6, Adv",Sul Americano,76KG,F,2023
+25112,11754,Victor Nithael,,Carlos Sedlacek,W,1,Pts: 5x2,Brazil Nat. Pro,77KG,R1,2021
+25304,11754,Victor Nithael,,Leo Domingos,W,1,Pts: 5x0,Rio Open,76KG,4F,2021
+25306,11754,Victor Nithael,,Marlus Salgado,W,1,"Pts: 2x2, Adv",Rio Open,76KG,SF,2021
+25307,11754,Victor Nithael,11248,Jonata Gomes,W,1,Pts: 4x2,Rio Open,76KG,F,2021
+26361,11754,Victor Nithael,,Jonathan Lopes,W,1,Pts: 7x0,SA Cont. Pro,69KG,R1,2021
+26369,11754,Victor Nithael,,Cristian Polnov,W,1,Pts: 7x3,SA Cont. Pro,69KG,8F,2021
+26379,11754,Victor Nithael,,Leandro Lima,W,1,Pts: 1x0,SA Cont. Pro,69KG,RPC,2021
+26781,11754,Victor Nithael,,Ricardo Soranco,W,1,Armbar,Rio Winter Open,76KG,4F,2021
+27144,11754,Victor Nithael,,Oziel Santos,W,1,Pts: 4x0,Copa Podio,70KG,RR,2021
+27152,11754,Victor Nithael,13245,Ademir Barreto,W,1,Pts: 2x0,Copa Podio,70KG,RR,2021
+27155,11754,Victor Nithael,,Patrick Possamai,W,1,"Pts: 2x2, Adv",Copa Podio,70KG,RR,2021
+27160,11754,Victor Nithael,,Julio Arantes,W,1,Terra footlock,Copa Podio,70KG,RR,2021
+27164,11754,Victor Nithael,11534,Raul Basilio,W,1,"Pts: 4x4, Adv",Copa Podio,70KG,SF,2021
+27388,11754,Victor Nithael,,Lucas Castelo,W,1,Triangle,Sul Americano,76KG,4F,2021
+27394,11754,Victor Nithael,,Marlus Salgado,W,1,"Pts: 4x4, Adv",Sul Americano,76KG,F,2021
+28044,11754,Victor Nithael,,Everton Freitas,W,1,DQ,Brasileiro,76KG,R1,2021
+28046,11754,Victor Nithael,,Bruno Bressan,W,1,Pts: 6x2,Brasileiro,76KG,4F,2021
+28482,11754,Victor Nithael,,Yago Rodrigues,W,1,Pts: 4x2,Grand Slam RJ,69KG,R1,2021
+29872,11754,Victor Nithael,,M. Albuquerque,W,1,Triangle,Rio SMO,76KG,4F,2022
+29876,11754,Victor Nithael,13458,Leandro Rounaud,W,1,Pts: 5x4,Rio SMO,76KG,SF,2022
+30127,11754,Victor Nithael,,Andre Fellipe,W,1,Armbar,Sul Brasileiro,76KG,4F,2022
+31005,11754,Victor Nithael,,Everson Lara,W,1,Omoplata,Curitiba Open,76KG,R1,2022
+31011,11754,Victor Nithael,,Walker Barroso,W,1,Injury,Curitiba Open,76KG,4F,2022
+31013,11754,Victor Nithael,,Gustavo Barbosa,W,1,Armbar,Curitiba Open,76KG,SF,2022
+32908,11754,Victor Nithael,10295,Italo Moura,W,1,"Pts: 0x0, Adv",World Champ.,76KG,R1,2022
+32919,11754,Victor Nithael,8215,Espen Mathiesen,W,1,Referee Decision,World Champ.,76KG,8F,2022
+33932,11754,Victor Nithael,,Lucas Carvalho,W,1,Pts: 5x5,Grand Slam RJ,69KG,R1,2022
+33945,11754,Victor Nithael,,Artur Lanes,W,1,Pts: 4x0,Grand Slam RJ,69KG,8F,2022
+33952,11754,Victor Nithael,8231,Leo Saggioro,W,1,Pts: 3x3,Grand Slam RJ,69KG,4F,2022
+34434,11754,Victor Nithael,,Artur Oliveira,W,1,Pts: 3x2,AJP SA Team,69KG,RR,2022
+34441,11754,Victor Nithael,,Rogerio Junior,W,1,Pts: 6x0,AJP SA Team,69KG,RR,2022
+34449,11754,Victor Nithael,,Eduardo Bastezini,W,1,Pts: 6x0,AJP SA Team,69KG,RR,2022
+34490,11754,Victor Nithael,7657,Cleber Sousa,D,0.5,---,AJP SA Team,69KG,3RD,2022
+36243,11754,Victor Nithael,,Rodolfo Giarola,W,1,Pts: 5x0,WP Qualifier,77KG,R1,2022
+36248,11754,Victor Nithael,11872,Luiz Paulo,W,1,Pts: 6x5,WP Qualifier,77KG,4F,2022
+37185,11754,Victor Nithael,,Luis Ribas,W,1,Pts: 9x6,European Open,76KG,R1,2023
+38008,11754,Victor Nithael,,Alisson Souza,W,1,"Pts: 4x4, Adv",Curitiba SMO,76KG,8F,2023
+38016,11754,Victor Nithael,,Willian Anjos,W,1,Teepee choke,Curitiba SMO,76KG,4F,2023
+38018,11754,Victor Nithael,,Luis Ribas,W,1,Pts: 4x2,Curitiba SMO,76KG,SF,2023
+40252,11754,Victor Nithael,10352,Leo Silva,W,1,Straight ankle lock,World Champ.,76KG,R1,2023
+42051,11754,Victor Nithael,,Juares Santos,W,1,Triangle,Floripa WO,ABS,R1,2023
+42703,11754,Victor Nithael,,Bruno Santos,W,1,Armbar,Sul Americano,76KG,8F,2023
+42713,11754,Victor Nithael,,Rhuan Borges,W,1,Points,Sul Americano,76KG,4F,2023
+42716,11754,Victor Nithael,9635,Guilherme Rocha,W,1,Points,Sul Americano,76KG,SF,2023

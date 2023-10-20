@@ -1,0 +1,60 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+32186,13190,Vinicius Lessa,9117,Hygor Brito,L,0,Botinha,Brasileiro,94KG,R1,2022
+34039,13190,Vinicius Lessa,12537,Pedro Machado,L,0,Pts: 2x0,Grand Slam RJ,94KG,R1,2022
+34325,13190,Vinicius Lessa,,Maique Azevedo,L,0,Anaconda choke,Brasileiro NoGi,97KG,4F,2022
+34480,13190,Vinicius Lessa,,Walllace Costa,D,0.5,---,AJP SA Team,120KG,SF,2022
+34493,13190,Vinicius Lessa,,Helder Jr,L,0,Pts: 3x2,AJP SA Team,120KG,3RD,2022
+35732,13190,Vinicius Lessa,13053,Luis Oliveira,L,0,Pts: 2x0,South American,100KG,SF,2022
+36653,13190,Vinicius Lessa,10817,Gabriel Henrique,L,0,"Pts: 2x2, Adv",Brasilia Open,ABS,SF,2022
+37029,13190,Vinicius Lessa,,Elionai Braz,L,0,"Pts: 0x0, Pen",Rio SMO,100KG,F,2023
+37133,13190,Vinicius Lessa,12506,Jansen Gomes,L,0,Choke from back,European Open,ABS,R1,2023
+37241,13190,Vinicius Lessa,13417,Vinicius Liberati,L,0,Pts: 5x0,European Open,100KG,R1,2023
+38064,13190,Vinicius Lessa,11693,Erich Munis,L,0,Armbar,Curitiba SMO,100KG,F,2023
+38609,13190,Vinicius Lessa,,Icaro Vidal,L,0,Choke,Rio Fall Open,ABS,R1,2023
+38964,13190,Vinicius Lessa,13392,Gabriel Volante,L,0,Referee Decision,BJJS Confere,ABS,SF,2023
+39531,13190,Vinicius Lessa,,Wildemar Souza,L,0,Referee Decision,Brasileiro,100KG,4F,2023
+39549,13190,Vinicius Lessa,13053,Luis Oliveira,L,0,Choke from back,Brasileiro,ABS,8F,2023
+40141,13190,Vinicius Lessa,11746,Alex Munis,L,0,Pts: 2x0,Floripa FO,100KG,4F,2023
+40155,13190,Vinicius Lessa,11423,Meyram Maquine,L,0,Pts: 4x0,Floripa FO,ABS,4F,2023
+40332,13190,Vinicius Lessa,,Italo Lima,L,0,Triangle,World Champ.,94KG,R1,2023
+40485,13190,Vinicius Lessa,10159,Victor Hugo,L,0,Choke,World Champ.,ABS,8F,2023
+40654,13190,Vinicius Lessa,,Javier Barter,L,0,Pts: 6x3,Grand Slam RJ,94KG,4F,2023
+40660,13190,Vinicius Lessa,,Davi Souza,L,0,Pts: 2x0,Grand Slam RJ,94KG,RPC,2023
+40957,13190,Vinicius Lessa,,Elionai Julio,L,0,Pts: 2x0,Brasileiro CBJJE,ABS,4F,2023
+41430,13190,Vinicius Lessa,,Jardel Oliveira,L,0,Outside heel hook,ADCC SP,91KG,SF,2023
+41830,13190,Vinicius Lessa,,Gabriel Brod,L,0,"Pts: 2x2, Adv",Vitoria Open,94KG,SF,2023
+42763,13190,Vinicius Lessa,10964,Caio Paganini,L,0,DQ,Sul Americano,94KG,4F,2023
+42801,13190,Vinicius Lessa,11685,Anderson Munis,L,0,Choke from back,Sul Americano,ABS,8F,2023
+31916,13190,Vinicius Lessa,,Yuri Korzen,W,1,Points,Rio Fall Open,100KG,4F,2022
+31918,13190,Vinicius Lessa,,Rinaldo Filho,W,1,Points,Rio Fall Open,100KG,SF,2022
+31919,13190,Vinicius Lessa,,Gabriel Ventura,W,1,Points,Rio Fall Open,100KG,F,2022
+34459,13190,Vinicius Lessa,,Danilo Crecencio,D,0.5,---,AJP SA Team,120KG,RR,2022
+34473,13190,Vinicius Lessa,,Gabriel Barbosa,W,1,Choke from back,AJP SA Team,120KG,RR,2022
+35730,13190,Vinicius Lessa,,Elionai Braz,W,1,Pts: 4x0,South American,100KG,4F,2022
+36637,13190,Vinicius Lessa,,Joao Machado,W,1,Kimura,Brasilia Open,100KG,SF,2022
+36639,13190,Vinicius Lessa,,Marcus Ruiz,W,1,Kneebar,Brasilia Open,100KG,F,2022
+36643,13190,Vinicius Lessa,,Carlos Geovanni,W,1,Pts: 2x0,Brasilia Open,ABS,R1,2022
+36649,13190,Vinicius Lessa,,Yann Cathalat,W,1,Pts: 2x0,Brasilia Open,ABS,4F,2022
+37025,13190,Vinicius Lessa,,Isaac Dull,W,1,Pts: 6x0,Rio SMO,100KG,4F,2023
+37028,13190,Vinicius Lessa,,Victor Maciel,W,1,Toe hold,Rio SMO,100KG,SF,2023
+38061,13190,Vinicius Lessa,,Joao Freitas,W,1,Referee Decision,Curitiba SMO,100KG,4F,2023
+38063,13190,Vinicius Lessa,,Lucas Campos,W,1,Pts: 4x2,Curitiba SMO,100KG,SF,2023
+38595,13190,Vinicius Lessa,1945,Victor Costa,W,1,Choke from mount,Rio Fall Open,100KG,4F,2023
+38597,13190,Vinicius Lessa,,Wildemar Matheus,W,1,Referee Decision,Rio Fall Open,100KG,SF,2023
+38884,13190,Vinicius Lessa,,Kelvin Cruz,W,1,Pts: 2x0,Salvador FO,100KG,SF,2023
+38886,13190,Vinicius Lessa,,Paulo Otavio,W,1,N/A,Salvador FO,100KG,F,2023
+38898,13190,Vinicius Lessa,,Jose Edicharles,W,1,Pts: 4x2,Salvador FO,ABS,R1,2023
+38906,13190,Vinicius Lessa,,Kelvin Cruz,W,1,Pts: 2x0,Salvador FO,ABS,8F,2023
+38962,13190,Vinicius Lessa,,Romulo Leandro,W,1,Kneebar,BJJS Confere,ABS,4F,2023
+40152,13190,Vinicius Lessa,,Vital Neto,W,1,Referee Decision,Floripa FO,ABS,8F,2023
+40471,13190,Vinicius Lessa,8528,Servio Tulio,W,1,Referee Decision,World Champ.,ABS,R1,2023
+40647,13190,Vinicius Lessa,,Higor Eleuterio,W,1,Choke from back,Grand Slam RJ,94KG,8F,2023
+41068,13190,Vinicius Lessa,,Matheus Nascimento,W,1,Referee Decision,Betim Open,94KG,SF,2023
+41070,13190,Vinicius Lessa,,Walisson Pardim,W,1,"Pts: 0x0, Adv",Betim Open,94KG,F,2023
+41284,13190,Vinicius Lessa,,Matheus Henriquei,W,1,Referee Decision,SP BJJ Pro,94KG,4F,2023
+41285,13190,Vinicius Lessa,10817,Gabriel Henrique,W,1,Referee Decision,SP BJJ Pro,94KG,SF,2023
+41286,13190,Vinicius Lessa,11746,Alex Munis,W,1,Referee Decision,SP BJJ Pro,94KG,F,2023
+41423,13190,Vinicius Lessa,,Tyrone Gonsalves,W,1,Referee Decision,ADCC SP,91KG,R1,2023
+41427,13190,Vinicius Lessa,,Joao Nicolite,W,1,Referee Decision,ADCC SP,91KG,4F,2023
+41433,13190,Vinicius Lessa,,Stefano Correa,W,1,Referee Decision,ADCC SP,91KG,3RD,2023
+42799,13190,Vinicius Lessa,,Leo Brocca,W,1,Pts: 2x0,Sul Americano,ABS,R1,2023

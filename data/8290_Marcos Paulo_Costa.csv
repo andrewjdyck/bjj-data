@@ -1,0 +1,72 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+5216,8290,Marcos Paulo Costa,4235,Victor Silverio,L,0,Choke,Etapa 2 FJJR,82KG,F,2014
+6319,8290,Marcos Paulo Costa,5715,Isaque Paiva,L,0,Choke from back,The Team Trials,76KG,F,2014
+6643,8290,Marcos Paulo Costa,1386,Davi Ramos,L,0,Points,Sharjah Open,85KG,F,2015
+6654,8290,Marcos Paulo Costa,410,Claudio Calasans,L,0,Referee Decision,Berkut Open,ABS,SF,2015
+7848,8290,Marcos Paulo Costa,2235,Renato Cardoso,L,0,Kneebar,SP Open,88KG,SF,2015
+9520,8290,Marcos Paulo Costa,6592,Dany Gerard,L,0,Points,World Pro,ABS,R1,2016
+9601,8290,Marcos Paulo Costa,6596,Jhonny Loureiro,L,0,"Pts: 0x0, Adv",World Pro,77KG,8F,2016
+10821,8290,Marcos Paulo Costa,1548,Jose Junior,L,0,Points,Al Ain Int. Pro,85KG,F,2016
+11438,8290,Marcos Paulo Costa,6301,Faisal AlKitbe,L,0,Points,AD Grand Slam NG,83KG,F,2017
+11461,8290,Marcos Paulo Costa,6071,Gabriel Arges,L,0,Choke from back,Grand Slam AD,85KG,4F,2017
+12359,8290,Marcos Paulo Costa,,Stefano Correa,L,0,N/A,European NoGi,85KG,F,2017
+12666,8290,Marcos Paulo Costa,410,Claudio Calasans,L,0,Pts: 2x0,World Pro,85KG,SF,2017
+13394,8290,Marcos Paulo Costa,4460,Jaime Canuto,L,0,"Pts: 0x0, Adv",Grand Slam TYO,85KG,SF,2017
+13396,8290,Marcos Paulo Costa,5655,Lucas Barbosa,L,0,Pts: 2x0,Grand Slam TYO,85KG,3RD,2017
+14057,8290,Marcos Paulo Costa,,Gabriel Lima,L,0,"Pts: 0x0, Adv",Brasileiro NoGi,85KG,F,2017
+14169,8290,Marcos Paulo Costa,,Igor Sousa,L,0,"Pts: 0x0, Adv",Al Ain Pro,85KG,F,2017
+14755,8290,Marcos Paulo Costa,,Igor Sousa,L,0,Referee Decision,Dubai Nat. Pro,85KG,SF,2017
+14839,8290,Marcos Paulo Costa,7652,C. Negromonte,L,0,Pts: 3x0,Grand Slam AD,85KG,SF,2018
+15510,8290,Marcos Paulo Costa,4460,Jaime Canuto,L,0,"Pts: 0x0, Adv",Grand Slam LDN,77KG,F,2018
+16081,8290,Marcos Paulo Costa,11039,Flavio Vianna,L,0,"Pts: 0x0, Adv",WP Br Qualifier,77KG,SF,2018
+16418,8290,Marcos Paulo Costa,,Luiz Henrique,L,0,"Pts: 0x0, Pen",Zayed Sports,108KG,SF,2018
+18735,8290,Marcos Paulo Costa,,Igor Sousa,L,0,"Pts: 0x0, Adv",Dubai Pro,85KG,F,2018
+18813,8290,Marcos Paulo Costa,7831,Diego Ramalho,L,0,Pts: 2x0,Grand Slam AD,77KG,SF,2019
+18816,8290,Marcos Paulo Costa,1824,Roberto Satoshi,L,0,Pts: 4x2,Grand Slam AD,77KG,3RD,2019
+19267,8290,Marcos Paulo Costa,10004,Ali Monfaradi,L,0,Pts: 4x2,Ras Alk. Pro,77KG,SF,2019
+19846,8290,Marcos Paulo Costa,7695,Sebastian Brosche,L,0,N/A,Rome Open,82KG,SF,2019
+19856,8290,Marcos Paulo Costa,7695,Sebastian Brosche,L,0,N/A,Rome Open,ABS,4F,2019
+19866,8290,Marcos Paulo Costa,7695,Sebastian Brosche,L,0,Points,Rome NGO,85KG,SF,2019
+22916,8290,Marcos Paulo Costa,,Igor Sousa,L,0,"Pts: 0x0, Adv",Dubai Pro,85KG,F,2019
+40930,8290,Marcos Paulo Costa,12671,Uanderson Ferreira,L,0,Armbar,Dubai Pro,85KG,RR,2023
+40931,8290,Marcos Paulo Costa,,Lucas Giraud,L,0,Pts: 1x1,Dubai Pro,85KG,RR,2023
+5214,8290,Marcos Paulo Costa,,Unknown,W,1,Points,Etapa 1 FJJR,82KG,SF,2014
+5215,8290,Marcos Paulo Costa,,Luis Venturino,W,1,Pts: 6x0,Etapa 1 FJJR,82KG,F,2014
+6413,8290,Marcos Paulo Costa,,Hitalo Machado,W,1,Points,Dubai Open,85KG,SF,2015
+6414,8290,Marcos Paulo Costa,,Igor Sousa,W,1,Points,Dubai Open,85KG,F,2015
+6641,8290,Marcos Paulo Costa,,Unknown,W,1,Points,Sharjah Open,85KG,SF,2015
+7846,8290,Marcos Paulo Costa,,Unknown,W,1,Points,SP Open,88KG,4F,2015
+10819,8290,Marcos Paulo Costa,7156,Tiago Bravo,W,1,Points,Al Ain Int. Pro,85KG,4F,2016
+10820,8290,Marcos Paulo Costa,,Andre Campos,W,1,Submission,Al Ain Int. Pro,85KG,SF,2016
+11365,8290,Marcos Paulo Costa,,Nino Ambrosio,W,1,Points,Ajman Pro,85KG,SF,2016
+11366,8290,Marcos Paulo Costa,,Luis Venturino,W,1,Points,Ajman Pro,85KG,F,2016
+11417,8290,Marcos Paulo Costa,,Igor de Sousa,W,1,"Pts: 0x0, Pen",Sharjah Pro,85KG,SF,2017
+11418,8290,Marcos Paulo Costa,,Ygor Dantas,W,1,"Pts: 2x2, Adv",Sharjah Pro,85KG,F,2017
+11437,8290,Marcos Paulo Costa,,Luis Venturino,W,1,Submission,AD Grand Slam NG,83KG,SF,2017
+11457,8290,Marcos Paulo Costa,,Ygor Dantas,W,1,Referee Decision,Grand Slam AD,85KG,R1,2017
+12303,8290,Marcos Paulo Costa,7082,Luca Anacoreta,W,1,Points,Rome Open,88KG,SF,2017
+12304,8290,Marcos Paulo Costa,,Adriano Lima,W,1,Points,Rome Open,88KG,F,2017
+12357,8290,Marcos Paulo Costa,6209,Felipe Mota,W,1,N/A,European NoGi,85KG,SF,2017
+12664,8290,Marcos Paulo Costa,,William Dias,W,1,Pts: 4x2,World Pro,85KG,4F,2017
+12672,8290,Marcos Paulo Costa,9758,Kit Dale,W,1,Pts: 2x0,World Pro,85KG,RPC,2017
+12674,8290,Marcos Paulo Costa,,William Dias,W,1,Pts: 4x2,World Pro,85KG,3RD,2017
+14055,8290,Marcos Paulo Costa,,Jeancemy Santos,W,1,Botinha,Brasileiro NoGi,85KG,4F,2017
+14056,8290,Marcos Paulo Costa,,Pedro Conti,W,1,Pts: 2x0,Brasileiro NoGi,85KG,SF,2017
+14166,8290,Marcos Paulo Costa,11039,Flavio Vianna,W,1,Pts: 2x0,Al Ain Pro,85KG,4F,2017
+14167,8290,Marcos Paulo Costa,,Nino Ambrosini,W,1,"Pts: 0x0, Adv",Al Ain Pro,85KG,SF,2017
+14756,8290,Marcos Paulo Costa,,Nino Moreira,W,1,Pts: 2x0,Dubai Nat. Pro,85KG,3RD,2017
+14837,8290,Marcos Paulo Costa,,Bradley Hill,W,1,Triangle,Grand Slam AD,85KG,4F,2018
+15166,8290,Marcos Paulo Costa,,Vibhudatta Rout,W,1,Pts: 2x0,Ras Al khaimah,75KG,F,2018
+15502,8290,Marcos Paulo Costa,,Kenji Sette,W,1,Pts: 4x2,Grand Slam LDN,77KG,8F,2018
+15507,8290,Marcos Paulo Costa,,Oliver Lovell,W,1,"Pts: 0x0, Adv",Grand Slam LDN,77KG,4F,2018
+15508,8290,Marcos Paulo Costa,6599,Rafael Mansur,W,1,Pts: 2x0,Grand Slam LDN,77KG,SF,2018
+16079,8290,Marcos Paulo Costa,,Antonio Silva,W,1,"Pts: 0x0, Adv",WP Br Qualifier,77KG,4F,2018
+16417,8290,Marcos Paulo Costa,,Edward Bertoli,W,1,"Pts: 0x0, Adv",Zayed Sports,108KG,4F,2018
+16421,8290,Marcos Paulo Costa,,Hugo Fernandes,W,1,Pts: 4x0,Zayed Sports,108KG,3RD,2018
+18015,8290,Marcos Paulo Costa,,Robson Nascimento,W,1,Submission,Al Ain Pro,85KG,SF,2018
+18017,8290,Marcos Paulo Costa,,Igor Sousa,W,1,Pts: 2x0,Al Ain Pro,85KG,F,2018
+18734,8290,Marcos Paulo Costa,,Huggo Maciel,W,1,Pts: 6x0,Dubai Pro,85KG,SF,2018
+18811,8290,Marcos Paulo Costa,,Andre Cantanhede,W,1,Pts: 2x0,Grand Slam AD,77KG,4F,2019
+19845,8290,Marcos Paulo Costa,,Chad Shaule,W,1,N/A,Rome Open,82KG,4F,2019
+19855,8290,Marcos Paulo Costa,,Ivan Chumakov,W,1,N/A,Rome Open,ABS,R1,2019
+22914,8290,Marcos Paulo Costa,,Huggo Maciel,W,1,Pts: 6x0,Dubai Pro,85KG,RR,2019

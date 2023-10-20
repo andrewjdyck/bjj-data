@@ -1,0 +1,68 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+11883,7537,Felipe Bezerra,,Wiliam Martins,L,0,Points,GS Nordeste,ABS,F,2017
+12102,7537,Felipe Bezerra,5842,Mahamed Aly,L,0,Arm in Ezekiel,Pan American,ABS,8F,2017
+12245,7537,Felipe Bezerra,6592,Dany Gerard,L,0,Referee Decision,Pan American,100KG,4F,2017
+13034,7537,Felipe Bezerra,6156,Tanner Rice,L,0,"Pts: 0x0, Adv",World Champ.,ABS,8F,2017
+13211,7537,Felipe Bezerra,1827,James Puopolo,L,0,Armbar,World Champ.,O100KG,8F,2017
+16600,7537,Felipe Bezerra,,Alex Aparecido,L,0,Toe hold,World Champ.,O100KG,8F,2018
+20358,7537,Felipe Bezerra,9483,Eduardo Lopes,L,0,Shoulder pressure,Brasileiro,O100KG,F,2019
+20371,7537,Felipe Bezerra,9483,Eduardo Lopes,L,0,Referee Decision,Brasileiro,ABS,R3,2019
+20717,7537,Felipe Bezerra,1534,R. Evangelista,L,0,Arm in Ezekiel,World Champ.,O100KG,SF,2019
+21372,7537,Felipe Bezerra,9180,Vinicius Trator,L,0,Referee Decision,F2W 122,100KG,SPF,2019
+21500,7537,Felipe Bezerra,6805,Max Gimenis,L,0,Referee Decision,F2W 123,124KG,SPF,2019
+21702,7537,Felipe Bezerra,10159,Victor Hugo,L,0,Pts: 4x0,Grand Slam LA,120KG,4F,2019
+21706,7537,Felipe Bezerra,4177,Gustavo Dias,L,0,Pts: 4x0,Grand Slam LA,120KG,RPC,2019
+21764,7537,Felipe Bezerra,8357,Gustavo Batista,L,0,Referee Decision,F2W 126,97KG,SPF,2019
+22381,7537,Felipe Bezerra,10835,Eduardo Avelar,L,0,Adv,South American NG,ABS,SF,2019
+24779,7537,Felipe Bezerra,11693,Erich Munis,L,0,Pts: 7x0,Grand Slam RJ,120KG,4F,2020
+24786,7537,Felipe Bezerra,11693,Erich Munis,L,0,Armlock,Grand Slam RJ,120KG,3RD,2020
+26043,7537,Felipe Bezerra,10199,Guthierry Barbosa,L,0,Pts: 2x0,Copa Podio,98KG,RR,2021
+26059,7537,Felipe Bezerra,13339,Pedro Lucas,L,0,Pts: 2x0,Copa Podio,98KG,SF,2021
+26465,7537,Felipe Bezerra,12055,Yatan Bueno,L,0,Pts: 5x5,SA Cont. Pro,120KG,F,2021
+26517,7537,Felipe Bezerra,4430,Patrick Gaudio,L,0,Kneebar,SA Cont. Pro,HWA,4F,2021
+29155,7537,Felipe Bezerra,,Herico Hesley,L,0,Pts: 2x1,BRA Qualifiers,120KG,R1,2021
+32385,7537,Felipe Bezerra,8762,Rodrigo Ribeiro,L,0,Referee Decision,Grand Slam AD,120KG,4F,2022
+34059,7537,Felipe Bezerra,10130,Marcus Ribeiro,L,0,Choke from back,Grand Slam RJ,120KG,8F,2022
+39432,7537,Felipe Bezerra,9554,Henrique Cardoso,L,0,Pts: 11x0,SA Cont Pro,120KG,F,2023
+40533,7537,Felipe Bezerra,12084,G. Lambertucci,L,0,RNC,Grand Slam RJ,120KG,4F,2023
+42932,7537,Felipe Bezerra,11499,Roosevelt Sousa,L,0,Pts: 1x0,ADGS Miami,120KG,4F,2023
+11880,7537,Felipe Bezerra,,Rene P.,W,1,Americana,GS Nordeste,100KG,F,2017
+11881,7537,Felipe Bezerra,,Unknown,W,1,Points,GS Nordeste,ABS,4F,2017
+11882,7537,Felipe Bezerra,,Unknown,W,1,Points,GS Nordeste,ABS,SF,2017
+12240,7537,Felipe Bezerra,,Alexandro Ceconi,W,1,Pts: 2x0,Pan American,100KG,8F,2017
+13024,7537,Felipe Bezerra,5417,Guilherme Augusto,W,1,"Pts: 0x0, Adv",World Champ.,ABS,R1,2017
+16289,7537,Felipe Bezerra,,Herico Hesley,W,1,Referee Decision,Brasileiro,O100KG,4F,2018
+16290,7537,Felipe Bezerra,,Otavio Nalati,W,1,Points,Brasileiro,O100KG,SF,2018
+16292,7537,Felipe Bezerra,,Otavio Serafim,W,1,Bread cutter,Brasileiro,O100KG,F,2018
+20353,7537,Felipe Bezerra,9361,Guilherme Cordiviola,W,1,Injury,Brasileiro,O100KG,4F,2019
+20356,7537,Felipe Bezerra,,Otavio Nalati,W,1,Pts: 3x0,Brasileiro,O100KG,SF,2019
+20361,7537,Felipe Bezerra,,Paulo Dantas,W,1,Pts: 2x0,Brasileiro,ABS,R2,2019
+20711,7537,Felipe Bezerra,,Jimmy Lugo,W,1,"Pts: 0x0, Adv",World Champ.,O100KG,R1,2019
+20712,7537,Felipe Bezerra,5509,Victor Honorio,W,1,"Pts: 2x2, Adv",World Champ.,O100KG,4F,2019
+22373,7537,Felipe Bezerra,,Bruno Nahas,W,1,Pen,South American NG,O97KG,4F,2019
+22374,7537,Felipe Bezerra,,Kitner Moura,W,1,"Pts: 0x0, Adv",South American NG,O97KG,SF,2019
+22375,7537,Felipe Bezerra,,Wanderson Santos,W,1,DQ,South American NG,O97KG,F,2019
+22377,7537,Felipe Bezerra,10669,Lucas Alves,W,1,"Pts: 0x0, Adv",South American NG,ABS,4F,2019
+22380,7537,Felipe Bezerra,,Gabriel Lima,W,1,Adv,South American NG,ABS,SF,2019
+24775,7537,Felipe Bezerra,,Cleyton Flores,W,1,Pts: 4x3,Grand Slam RJ,120KG,8F,2020
+24783,7537,Felipe Bezerra,,Rafael Miyanishi,W,1,Pts: 7x0,Grand Slam RJ,120KG,RPC,2020
+24785,7537,Felipe Bezerra,11685,Anderson Munis,W,1,Referee Decision,Grand Slam RJ,120KG,RPC,2020
+26047,7537,Felipe Bezerra,12243,Leon Brito,W,1,Pts: 2x0,Copa Podio,98KG,RR,2021
+26058,7537,Felipe Bezerra,1895,Rodrigo Fajardo,W,1,Pts: 7x0,Copa Podio,98KG,RR,2021
+26062,7537,Felipe Bezerra,12243,Leon Brito,W,1,Points,Copa Podio,98KG,3RD,2021
+26462,7537,Felipe Bezerra,6631,Igor Schneider,W,1,Pts: 2x1,SA Cont. Pro,120KG,4F,2021
+26464,7537,Felipe Bezerra,11685,Anderson Munis,W,1,Pts: 3x1,SA Cont. Pro,120KG,SF,2021
+32381,7537,Felipe Bezerra,,Anton Minenko,W,1,Pts: 4x3,Grand Slam AD,120KG,R1,2022
+32390,7537,Felipe Bezerra,12563,Guilherme Bacha,W,1,Pts: 3x2,Grand Slam AD,120KG,RPC,2022
+32392,7537,Felipe Bezerra,12055,Yatan Bueno,W,1,Pts: 6x3,Grand Slam AD,120KG,3RD,2022
+39428,7537,Felipe Bezerra,,Ivan Oliveira,W,1,Pts: 7x0,SA Cont Pro,120KG,4F,2023
+39430,7537,Felipe Bezerra,10817,Gabriel Henrique,W,1,Referee Decision,SA Cont Pro,120KG,SF,2023
+40527,7537,Felipe Bezerra,9117,Hygor Brito,W,1,Pts: 1x0,Grand Slam RJ,120KG,R1,2023
+40537,7537,Felipe Bezerra,,Daniel Ribeiro,W,1,Referee Decision,Grand Slam RJ,120KG,RPC,2023
+40539,7537,Felipe Bezerra,,Helder Tropeco,W,1,Pts: 1x0,Grand Slam RJ,120KG,RPC,2023
+40541,7537,Felipe Bezerra,12084,G. Lambertucci,W,1,Pts: 2x0,Grand Slam RJ,120KG,3RD,2023
+40998,7537,Felipe Bezerra,,Antony Reynaldo,W,1,Kimura,Fortaleza Open,100KG,4F,2023
+41001,7537,Felipe Bezerra,,Macksuel Camelo,W,1,"Pts: 0x0, Adv",Fortaleza Open,100KG,SF,2023
+41002,7537,Felipe Bezerra,,Marlon Miranda,W,1,Pts: 5x0,Fortaleza Open,100KG,F,2023
+42937,7537,Felipe Bezerra,1534,R. Evangelista,W,1,Pts: 5x0,ADGS Miami,120KG,RPC,2023
+42939,7537,Felipe Bezerra,12055,Yatan Bueno,W,1,Submission,ADGS Miami,120KG,3RD,2023

@@ -1,0 +1,92 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21680,10085,Jonatha Alves,4460,Jaime Canuto,L,0,"Pts: 0x0, Adv",Grand Slam LA,77KG,SF,2019
+22653,10085,Jonatha Alves,9002,Matheus Gabriel,L,0,"Pts: 2x2, Adv",Spyder Invitational,76KG,SF,2019
+23836,10085,Jonatha Alves,5636,Manuel Ribamar,L,0,Referee Decision,F2W 147,84KG,SPF,2020
+23976,10085,Jonatha Alves,10162,Ronaldo Junior,L,0,Pts: 10x8,Austin Open,ABS,F,2020
+24028,10085,Jonatha Alves,4655,Michael Liera,L,0,Pts: 1x0,Grand Slam MIA,77KG,F,2020
+25586,10085,Jonatha Alves,9002,Matheus Gabriel,L,0,Pts: 4x2,EUG 1,70KG,4F,2021
+26296,10085,Jonatha Alves,11707,Oliver Taza,L,0,Referee Decision,WNO 9,77KG,SPF,2021
+32914,10085,Jonatha Alves,12003,Tye Ruotolo,L,0,Pts: 4x2,World Champ.,76KG,8F,2022
+37334,10085,Jonatha Alves,2403,Joao Rocha,L,0,Pts: 2x0,Austin WO,ABS,F,2023
+37938,10085,Jonatha Alves,8261,Rolando Samson,L,0,Referee Decision,LA Open,82KG,F,2023
+37970,10085,Jonatha Alves,8514,Fellipe Andrew,L,0,Botinha,LA Open,ABS,F,2023
+38320,10085,Jonatha Alves,5417,Guilherme Augusto,L,0,"Pts: 2x2, Adv",Pan American,ABS,4F,2023
+39859,10085,Jonatha Alves,13389,Youngseung Cho,L,0,Pts: 2x0,Houston Open,76KG,4F,2023
+21673,10085,Jonatha Alves,9440,Jeremy Jackson,W,1,Pts: 4x0,Grand Slam LA,77KG,R1,2019
+21677,10085,Jonatha Alves,,Saul Viayra,W,1,Pts: 11x2,Grand Slam LA,77KG,4F,2019
+21962,10085,Jonatha Alves,11465,Kauan Barboza,W,1,Cachecol choke,World Festival,77KG,SPF,2019
+22649,10085,Jonatha Alves,7002,Jamil Hill-Taylor,W,1,RNC,Spyder Invitational,76KG,4F,2019
+23214,10085,Jonatha Alves,,Chris Cardona,W,1,Bow and arrow,Fresno Open,76KG,SF,2020
+23216,10085,Jonatha Alves,10220,Paulo Gabriel,W,1,Pts: 4x2,Fresno Open,76KG,F,2020
+23508,10085,Jonatha Alves,4163,Marcio Andre,W,1,Referee Decision,Artista JJ,76KG,SPF,2020
+23951,10085,Jonatha Alves,7664,Johnny Tama,W,1,Referee Decision,F2W 152,77KG,SPF,2020
+23964,10085,Jonatha Alves,9407,Alexandre Molinaro,W,1,Choke from back,Austin Open,76KG,F,2020
+23972,10085,Jonatha Alves,11093,Emilio Hernandez,W,1,Choke from back,Austin Open,ABS,4F,2020
+23975,10085,Jonatha Alves,11027,Pedro Rocha,W,1,RNC,Austin Open,ABS,SF,2020
+24025,10085,Jonatha Alves,,Ricky Semiglia,W,1,Pts: 8x1,Grand Slam MIA,77KG,4F,2020
+24027,10085,Jonatha Alves,,Lucas Valle,W,1,Pts: 10x3,Grand Slam MIA,77KG,SF,2020
+24153,10085,Jonatha Alves,,Bruno Valdivino,W,1,Armbar,Pan American,76KG,R1,2020
+24161,10085,Jonatha Alves,9407,Alexandre Molinaro,W,1,Choke from back,Pan American,76KG,8F,2020
+24163,10085,Jonatha Alves,5930,Rodrigo Freitas,W,1,Pts: 3x0,Pan American,76KG,4F,2020
+24166,10085,Jonatha Alves,10103,Jonnatas Gracie,W,1,Referee Decision,Pan American,76KG,SF,2020
+24167,10085,Jonatha Alves,4655,Michael Liera,W,1,Pts: 4x2,Pan American,76KG,F,2020
+25194,10085,Jonatha Alves,6368,Kevin Mahecha,W,1,Choke from back,Dallas Open,76KG,SF,2021
+25196,10085,Jonatha Alves,7664,Johnny Tama,W,1,Pts: 2x0,Dallas Open,76KG,F,2021
+25209,10085,Jonatha Alves,11939,Jackson Douglas,W,1,Referee Decision,Dallas Open,ABS,4F,2021
+25212,10085,Jonatha Alves,4655,Michael Liera,W,1,Pts: 8x6,Dallas Open,ABS,SF,2021
+25410,10085,Jonatha Alves,12323,Luan Andrei,W,1,Choke from back,Orlando Open,76KG,4F,2021
+25412,10085,Jonatha Alves,11338,Thiago Abud,W,1,Choke from back,Orlando Open,76KG,SF,2021
+25414,10085,Jonatha Alves,4655,Michael Liera,W,1,Pts: 4x2,Orlando Open,76KG,F,2021
+25738,10085,Jonatha Alves,,Josh Murdock,W,1,Armbar,Charleston Open,76KG,SF,2021
+25739,10085,Jonatha Alves,,Frederico Alves,W,1,Armbar,Charleston Open,76KG,F,2021
+25795,10085,Jonatha Alves,,Guilherme Cleovan,W,1,Injury,Houston Open,76KG,4F,2021
+25797,10085,Jonatha Alves,12323,Luan Andrei,W,1,Choke from back,Houston Open,76KG,SF,2021
+25798,10085,Jonatha Alves,,Matheus Galvao,W,1,Choke from back,Houston Open,76KG,F,2021
+25820,10085,Jonatha Alves,12323,Luan Andrei,W,1,Choke from back,Houston Open,ABS,4F,2021
+25821,10085,Jonatha Alves,11960,Joao Cizeski,W,1,Choke from back,Houston Open,ABS,SF,2021
+25951,10085,Jonatha Alves,9051,Gabriel Sousa,W,1,Katagatame,Artista JJ,N/A,SPF,2021
+26264,10085,Jonatha Alves,7664,Johnny Tama,W,1,Adv,Miami Open,76KG,SF,2021
+26266,10085,Jonatha Alves,6368,Kevin Mahecha,W,1,Botinha,Miami Open,76KG,F,2021
+26595,10085,Jonatha Alves,4655,Michael Liera,W,1,Pts: 2x2,EUG 2,77KG,4F,2021
+26599,10085,Jonatha Alves,10103,Jonnatas Gracie,W,1,Pts: 2x2,EUG 2,77KG,SF,2021
+26601,10085,Jonatha Alves,12122,Mica Galvao,W,1,Pts: 2x0,EUG 2,77KG,F,2021
+27243,10085,Jonatha Alves,12323,Luan Andrei,W,1,Triangle,Grand Slam MIA,77KG,4F,2021
+27246,10085,Jonatha Alves,12338,Gialysson Freitas,W,1,Armbar,Grand Slam MIA,77KG,SF,2021
+27571,10085,Jonatha Alves,11878,Andy Murasaki,W,1,Pts: 4x2,Pan American,76KG,8F,2021
+27576,10085,Jonatha Alves,12225,Igor Feliz,W,1,Choke from back,Pan American,76KG,4F,2021
+27578,10085,Jonatha Alves,5930,Rodrigo Freitas,W,1,Armbar,Pan American,76KG,SF,2021
+27579,10085,Jonatha Alves,8516,Lucas Valente,W,1,Pts: 2x0,Pan American,76KG,F,2021
+28672,10085,Jonatha Alves,,Samuel Wells,W,1,Armbar,Nashville Open,76KG,SF,2021
+28673,10085,Jonatha Alves,11015,Pablo Lavaselli,W,1,Pts: 7x2,Nashville Open,76KG,F,2021
+29021,10085,Jonatha Alves,,Joao Matos,W,1,Armbar,JJ CON,76KG,R1,2021
+29025,10085,Jonatha Alves,12323,Luan Andrei,W,1,Armbar,JJ CON,76KG,4F,2021
+29029,10085,Jonatha Alves,9931,Arthur Detanico,W,1,Choke from back,JJ CON,76KG,SF,2021
+29031,10085,Jonatha Alves,11015,Pablo Lavaselli,W,1,Pts: 2x0,JJ CON,76KG,F,2021
+29501,10085,Jonatha Alves,9635,Guilherme Rocha,W,1,Pts: 2x0,World Champ.,76KG,8F,2021
+30944,10085,Jonatha Alves,11878,Andy Murasaki,W,1,"Pts: 8x8, Adv",LA Open,76KG,F,2022
+31656,10085,Jonatha Alves,12419,Daniel Diniz,W,1,Toe hold,Pan American,76KG,4F,2022
+31659,10085,Jonatha Alves,10216,Natan Chueng,W,1,Choke from back,Pan American,76KG,SF,2022
+31661,10085,Jonatha Alves,11878,Andy Murasaki,W,1,Pts: 2x0,Pan American,76KG,F,2022
+32441,10085,Jonatha Alves,,Gabriel Silva,W,1,Violin armlock,SD Open,76KG,SF,2022
+34613,10085,Jonatha Alves,,Vinicius Reis,W,1,Bow and arrow,Grand Slam MIA,77KG,4F,2022
+34616,10085,Jonatha Alves,9014,Levi Jones,W,1,Pts: 2x0,Grand Slam MIA,77KG,SF,2022
+34617,10085,Jonatha Alves,,Lucas Brito,W,1,Pts: 4x0,Grand Slam MIA,77KG,F,2022
+35875,10085,Jonatha Alves,10509,Mathias Luna,W,1,Referee Decision,IBJJF GP,82KG,SPF,2022
+37314,10085,Jonatha Alves,,Ari Pollan,W,1,Submission,Austin WO,76KG,4F,2023
+37317,10085,Jonatha Alves,,Mooelehe Cuellar,W,1,Guillotine,Austin WO,76KG,SF,2023
+37330,10085,Jonatha Alves,,Carlos Neto,W,1,Pts: 6x4,Austin WO,ABS,4F,2023
+37332,10085,Jonatha Alves,,Marlon Tanaka,W,1,RNC,Austin WO,ABS,SF,2023
+37846,10085,Jonatha Alves,12897,Elijah Dorsey,W,1,Pts: 15x0,IBJJF GP,76KG,SF,2023
+37848,10085,Jonatha Alves,11878,Andy Murasaki,W,1,Referee Decision,IBJJF GP,76KG,F,2023
+37936,10085,Jonatha Alves,7664,Johnny Tama,W,1,Pts: 6x0,LA Open,82KG,SF,2023
+37967,10085,Jonatha Alves,13051,Caio Vinicius,W,1,Pts: 2x0,LA Open,ABS,4F,2023
+37968,10085,Jonatha Alves,12922,Elder Cruz,W,1,Pts: 22x0,LA Open,ABS,SF,2023
+38311,10085,Jonatha Alves,,Paulo Merlin,W,1,Cachecol choke,Pan American,ABS,8F,2023
+38390,10085,Jonatha Alves,13245,Ademir Barreto,W,1,Hashimoto choke,Pan American,76KG,8F,2023
+38398,10085,Jonatha Alves,6368,Kevin Mahecha,W,1,"Pts: 0x0, Adv",Pan American,76KG,4F,2023
+38400,10085,Jonatha Alves,10216,Natan Chueng,W,1,Armbar,Pan American,76KG,SF,2023
+38401,10085,Jonatha Alves,11015,Pablo Lavaselli,W,1,Pts: 8x0,Pan American,76KG,F,2023
+40268,10085,Jonatha Alves,,Joao Machado,W,1,Cachecol choke,World Champ.,76KG,8F,2023
+40273,10085,Jonatha Alves,8231,Leo Saggioro,W,1,Pts: 2x0,World Champ.,76KG,4F,2023
+40275,10085,Jonatha Alves,11208,Jackson Nagai,W,1,"Pts: 0x0, Adv",World Champ.,76KG,SF,2023
+40276,10085,Jonatha Alves,12287,Pedro Maia,W,1,Pts: 4x2,World Champ.,76KG,F,2023

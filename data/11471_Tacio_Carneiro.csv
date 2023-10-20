@@ -1,0 +1,21 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+26340,11471,Tacio Carneiro,11499,Roosevelt Sousa,L,0,Pts: 2x0,UAE Nat Pro,120KG,SF,2021
+26906,11471,Tacio Carneiro,11499,Roosevelt Sousa,L,0,Kneebar,Asia Cont. Pro,120KG,F,2021
+29156,11471,Tacio Carneiro,8195,Gutemberg Pereira,L,0,Pts: 1x0,BRA Qualifiers,120KG,4F,2021
+30614,11471,Tacio Carneiro,12563,Guilherme Bacha,L,0,Pts: 5x0,European Open,O100KG,R1,2022
+31154,11471,Tacio Carneiro,11709,Wallace Costa,L,0,Pts: 1x1,Grand Slam LDN,120KG,4F,2022
+32382,11471,Tacio Carneiro,8762,Rodrigo Ribeiro,L,0,Pts: 3x1,Grand Slam AD,120KG,R1,2022
+33741,11471,Tacio Carneiro,,Daniel Ribeiro,L,0,Pts: 6x2,Fujairah Pro,120KG,SF,2022
+34856,11471,Tacio Carneiro,8762,Rodrigo Ribeiro,L,0,Pts: 5x1,UAE Nat Pro,120KG,4F,2022
+37254,11471,Tacio Carneiro,9515,Seif Houmine,L,0,DQ,European Open,O100KG,4F,2023
+39707,11471,Tacio Carneiro,8762,Rodrigo Ribeiro,L,0,Pts: 1x1,ADGS ABD,120KG,4F,2023
+39713,11471,Tacio Carneiro,,Vandre Barbosa,L,0,Pts: 6x3,ADGS ABD,120KG,3RD,2023
+40363,11471,Tacio Carneiro,1757,Alexander Trans,L,0,Pts: 6x0,World Champ.,O100KG,R1,2023
+26342,11471,Tacio Carneiro,,Al Ali,W,1,Submission,UAE Nat Pro,120KG,3RD,2021
+26904,11471,Tacio Carneiro,,Khasan Varando,W,1,Referee Decision,Asia Cont. Pro,120KG,SF,2021
+31149,11471,Tacio Carneiro,,Diego Ettmuller,W,1,Bread cutter,Grand Slam LDN,120KG,R1,2022
+33743,11471,Tacio Carneiro,,Marcelo Mendes,W,1,Pts: 7x0,Fujairah Pro,120KG,3RD,2022
+36736,11471,Tacio Carneiro,,Patryc Wysocki,W,1,N/A,Dublin Open,O100KG,SF,2022
+36737,11471,Tacio Carneiro,12563,Guilherme Bacha,W,1,Referee Decision,Dublin Open,O100KG,F,2022
+37250,11471,Tacio Carneiro,,Justin Primrose,W,1,Pts: 5x0,European Open,O100KG,R1,2023
+39712,11471,Tacio Carneiro,,Dmitrii Vostrikov,W,1,Pts: 6x0,ADGS ABD,120KG,RPC,2023

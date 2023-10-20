@@ -1,0 +1,28 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21334,10232,Gabriel Figueiro,9121,Ygor Rodrigues,L,0,Bow and arrow,Floripa WO,76KG,F,2019
+22085,10232,Gabriel Figueiro,10216,Natan Chueng,L,0,RNC,BH SPO,76KG,F,2019
+22293,10232,Gabriel Figueiro,8884,Alex Sodre,L,0,Pts: 6x2,Grand Slam RJ,69KG,F,2019
+22563,10232,Gabriel Figueiro,13458,Leandro Rounaud,L,0,Loop choke,South American,76KG,R1,2019
+23092,10232,Gabriel Figueiro,10295,Italo Moura,L,0,Referee Decision,European Open,76KG,R1,2020
+25519,10232,Gabriel Figueiro,,Adriano Araujo,L,0,Pts: 3x3,Grand Slam AD,77KG,R1,2021
+25616,10232,Gabriel Figueiro,,Andre Cantanhede,L,0,Pts: 2x1,WP BR Qualifier,77KG,SF,2021
+21088,10232,Gabriel Figueiro,,Juliano Rocha,W,1,Triangle,BH Winter Open,76KG,4F,2019
+21090,10232,Gabriel Figueiro,,Hugo Gabino,W,1,Toe hold,BH Winter Open,76KG,SF,2019
+21092,10232,Gabriel Figueiro,9121,Ygor Rodrigues,W,1,Pts: 4x2,BH Winter Open,76KG,F,2019
+21330,10232,Gabriel Figueiro,,Daniel Nunes,W,1,Botinha,Floripa WO,76KG,4F,2019
+21332,10232,Gabriel Figueiro,,Luciano Bernert,W,1,"Pts: 2x2, Adv",Floripa WO,76KG,SF,2019
+22083,10232,Gabriel Figueiro,,Ramon Medeiros,W,1,Omoplata/choke,BH SPO,76KG,SF,2019
+22276,10232,Gabriel Figueiro,8632,Thiago Macedo,W,1,"Pts: 0x0, Adv",Grand Slam RJ,69KG,R1,2019
+22285,10232,Gabriel Figueiro,,Anselmo Gomes,W,1,Referee Decision,Grand Slam RJ,69KG,8F,2019
+22290,10232,Gabriel Figueiro,,Leandro Lima,W,1,Referee Decision,Grand Slam RJ,69KG,4F,2019
+22292,10232,Gabriel Figueiro,13175,Ariel Tabak,W,1,Pts: 2x0,Grand Slam RJ,69KG,SF,2019
+23361,10232,Gabriel Figueiro,,Djalma Castro,W,1,Choke from back,Curitiba SO,76KG,R1,2020
+23363,10232,Gabriel Figueiro,5061,Gabriel Rollo,W,1,Points,Curitiba SO,76KG,4F,2020
+23366,10232,Gabriel Figueiro,,Marlus Salgado,W,1,Submission,Curitiba SO,76KG,SF,2020
+23368,10232,Gabriel Figueiro,,Felipe Ribas,W,1,Choke from back,Curitiba SO,76KG,F,2020
+24670,10232,Gabriel Figueiro,,Claudio Avila,W,1,Choke from back,Grand Slam RJ,69KG,R1,2020
+24680,10232,Gabriel Figueiro,,Michael Saif,W,1,Botinha,Grand Slam RJ,69KG,8F,2020
+24687,10232,Gabriel Figueiro,,Anselmo Gomes,W,1,Pts: 2x0,Grand Slam RJ,69KG,4F,2020
+24691,10232,Gabriel Figueiro,,Antonio Felix,W,1,Pts: 3x2,Grand Slam RJ,69KG,SF,2020
+24693,10232,Gabriel Figueiro,10408,Israel Sousa,W,1,Pts: 2x1,Grand Slam RJ,69KG,F,2020
+25613,10232,Gabriel Figueiro,,Hilton Leao,W,1,Botinha,WP BR Qualifier,77KG,4F,2021

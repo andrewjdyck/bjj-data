@@ -1,0 +1,55 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1480,610,Jeff Glover,195,Robson Moura,L,0,Pts: 6x3,LA Sub-X,ABS,SPF,2006
+1488,610,Jeff Glover,,Ricky Lundell,L,0,Pts: 6x2,AGGRO,ABS,F,2006
+1531,610,Jeff Glover,,Rob Di Censo,L,0,Pts: 2x0,GQ All Star Pro,72KG,SF,2006
+1604,610,Jeff Glover,471,Bibiano Fernandes,L,0,Pts: 5x0,Pan American,70KG,4F,2007
+1678,610,Jeff Glover,419,Leonardo Vieira,L,0,Points,ADCC,66KG,4F,2007
+1866,610,Jeff Glover,,Sandro Batata,L,0,Adv,Pan American,70KG,RDS,2008
+2008,610,Jeff Glover,147,Rubens Charles,L,0,"Pts: 0x0, Adv",NoGi Worlds,76KG,F,2008
+2236,610,Jeff Glover,177,Rany Yahya,L,0,Points,ADCC,66KG,4F,2009
+2243,610,Jeff Glover,725,Ryan Hall,L,0,Points,ADCC,66KG,3RD,2009
+3280,610,Jeff Glover,147,Rubens Charles,L,0,Pts: 6x0,ADCC,66KG,SF,2011
+4152,610,Jeff Glover,582,Caio Terra,L,0,Armbar,Metamoris,ABS,SPF,2012
+4372,610,Jeff Glover,283,Bruno Malfacine,L,0,Pts: 5x2,World Expo,ABS,SPF,2013
+6177,610,Jeff Glover,4996,Geo Martinez,L,0,EBI/OT,EBI,65KG,F,2014
+7781,610,Jeff Glover,,Ezra Lenon,L,0,Pts: 2x0,FIVE SL,ABS,SPF,2015
+7967,610,Jeff Glover,4996,Geo Martinez,L,0,Pts: 5x0,ADCC,66KG,4F,2015
+10308,610,Jeff Glover,283,Bruno Malfacine,D,0.5,---,Metamoris 7,ABS,SPF,2016
+11674,610,Jeff Glover,,Chad Mendes,L,0,EBI/OT,SUG 3,ABS,SPF,2017
+11776,610,Jeff Glover,188,Augusto Mendes,L,0,Referee Decision,F2W 25,N/A,SPF,2017
+14773,610,Jeff Glover,8842,Wanki Chae,D,0.5,---,Battle Field,76KG,SPF,2017
+1487,610,Jeff Glover,,Blas Avena,W,1,Triangle,AGGRO,ABS,4F,2006
+1489,610,Jeff Glover,,Johnny Ramirez,W,1,Bow and arrow,IGJJF,NA,NA,2006
+1529,610,Jeff Glover,,Brian McLaughlin,W,1,Pts: 4x2,GQ All Star Pro,72KG,4F,2006
+1600,610,Jeff Glover,1301,Shane Rice,W,1,Pts: 10x2,Pan American,70KG,R1,2007
+1671,610,Jeff Glover,,Jamie Ballard,W,1,Flying triangle,ADCC,66KG,R1,2007
+2005,610,Jeff Glover,,Unknown,W,1,Choke,NoGi Worlds,76KG,4F,2008
+2007,610,Jeff Glover,,Philipe Monica,W,1,Armbar,NoGi Worlds,76KG,SF,2008
+2032,610,Jeff Glover,,Tito Martinez,W,1,Darce choke,San Diego Pro,76KG,4F,2008
+2035,610,Jeff Glover,,Joel Tudor,W,1,RNC,San Diego Pro,76KG,SF,2008
+2036,610,Jeff Glover,,Diego Moraes,W,1,RNC,Atama Open,NA,NA,2008
+2231,610,Jeff Glover,,Timo-Juhani,W,1,Points,ADCC,66KG,R1,2009
+2382,610,Jeff Glover,5992,Wilson Reis,W,1,"Pts: 2x2, Adv",UFC Expo,ABS,SPF,2009
+2395,610,Jeff Glover,,Sergio Farnes,W,1,Points,GQ Expo,ABS,NA,2009
+2396,610,Jeff Glover,,Unknown,W,1,Guillotine,GQ Expo,ABS,NA,2009
+2397,610,Jeff Glover,,Mike Tomacelli,W,1,Triangle,GQ Expo,ABS,NA,2009
+2398,610,Jeff Glover,5992,Wilson Reis,W,1,"Pts: 2x2, Adv",UFC Expo,ABS,SPF,2009
+3204,610,Jeff Glover,,Bao Quach,W,1,Guillotine,ADCC WC Trials,66KG,4F,2011
+3205,610,Jeff Glover,,John B.,W,1,Guillotine,ADCC WC Trials,66KG,SF,2011
+3206,610,Jeff Glover,,Philip Yoon,W,1,Triangle,ADCC WC Trials,66KG,F,2011
+3226,610,Jeff Glover,,Tom Barlow,W,1,Points,ADCC,66KG,R1,2011
+3263,610,Jeff Glover,1774,Mark Ramos,W,1,Darce Choke,ADCC,66KG,4F,2011
+3290,610,Jeff Glover,195,Robson Moura,W,1,Guillotine,ADCC,66KG,3PLC,2011
+3407,610,Jeff Glover,4706,Javier Vazquez,W,1,Pts: 4x2,UFC Expo,ABS,SPF,2010
+3476,610,Jeff Glover,5858,Chris Haueter,W,1,Arm in guillotine,WGG BOTW,ABS,SPF,2012
+4195,610,Jeff Glover,582,Caio Terra,W,1,Pts: 10x6,World Expo,ABS,SPF,2012
+5179,610,Jeff Glover,819,Fredson Paixao,W,1,Points,UFC Expo,70KG,SPF,2013
+5874,610,Jeff Glover,1023,Baret Yoshida,D,0.5,---,Metamoris 4,ABS,SPF,2014
+6170,610,Jeff Glover,,Sergio Hernandez,W,1,Triangle,EBI,65KG,R1,2014
+6173,610,Jeff Glover,,Eric Medina,W,1,kneebar,EBI,65KG,4F,2014
+6175,610,Jeff Glover,,Ben Eddy,W,1,kneebar,EBI,65KG,SF,2014
+6232,610,Jeff Glover,,Vito Paolillo,W,1,Triangle,UFC Expo,70KG,NA,2014
+7961,610,Jeff Glover,,Daniel Hortegas,W,1,Heel hook,ADCC,66KG,R1,2015
+8084,610,Jeff Glover,4420,Budo Jake,W,1,Bow and arrow,GT Open,76KG,SPF,2015
+9458,610,Jeff Glover,,K. Woodmansee,W,1,Triangle,SubCon,ABS,SPF,2016
+10486,610,Jeff Glover,1398,Justin Rader,W,1,Referee Decision,F2W 11,70KG,SPF,2016

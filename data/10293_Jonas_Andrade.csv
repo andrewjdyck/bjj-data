@@ -1,0 +1,102 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+20773,10293,Jonas Andrade,9051,Gabriel Sousa,L,0,Pts: 2x0,Grand Slam MSK,62KG,RR,2019
+21030,10293,Jonas Andrade,,Carlos Alberto,L,0,Pts: 4x2,ACB World Champ.,60KG,F,2019
+21653,10293,Jonas Andrade,9051,Gabriel Sousa,L,0,"Pts: 2x2, Adv",Grand Slam LA,62KG,SF,2019
+23072,10293,Jonas Andrade,5447,Mikey Musumeci,L,0,Referee Decision,European Open,64KG,F,2020
+23185,10293,Jonas Andrade,,Lucas Pereira,L,0,"Pts: 0x0, Adv",Swiss Nat Pro,62KG,F,2020
+23332,10293,Jonas Andrade,,Mohamad Hayat,L,0,DQ,France Nat. Pro,69KG,4F,2020
+24116,10293,Jonas Andrade,6043,Lucas Pinheiro,L,0,"Pts: 0x0, Adv",Pan American,57KG,F,2020
+27217,10293,Jonas Andrade,12251,Roiter Lima,L,0,Pts: 7x5,Grand Slam MIA,56KG,F,2021
+28458,10293,Jonas Andrade,13209,Welerson Goncalves,L,0,Pts: 6x4,Grand Slam RJ,56KG,SF,2021
+29178,10293,Jonas Andrade,12729,Nathannael Fernandes,L,0,Pts: 9x6,World Pro,56KG,F,2021
+29453,10293,Jonas Andrade,5447,Mikey Musumeci,L,0,Botinha,World Champ.,57KG,SF,2021
+29696,10293,Jonas Andrade,,Khalel Alshehhi,L,0,Choke from back,Teams Cup,N/A,RR,2021
+29700,10293,Jonas Andrade,6043,Lucas Pinheiro,L,0,Pts: 4x1,Teams Cup,N/A,RR,2021
+29721,10293,Jonas Andrade,12729,Nathannael Fernandes,L,0,Pts: 2x1,Teams Cup,N/A,RR,2021
+30542,10293,Jonas Andrade,13209,Welerson Goncalves,L,0,"Pts: 0x0, Adv",European Open,57KG,SF,2022
+32859,10293,Jonas Andrade,6258,Rodnei Barbosa,L,0,Adv,World Champ.,57KG,4F,2022
+36314,10293,Jonas Andrade,11423,Meyram Maquine,L,0,Triangle armlock,World Pro,62KG,SF,2022
+38174,10293,Jonas Andrade,11212,Yuri Hendrex,L,0,Pts: 1x0,AJPGD LDN,56KG,SF,2023
+38343,10293,Jonas Andrade,12968,Zayed Alkatheeri,L,0,N/A,Pan American,58KG,SF,2023
+20743,10293,Jonas Andrade,,John Lenno,W,1,Referee Decision,German Nat.,70KG,F,2019
+20772,10293,Jonas Andrade,,Isa Kasamarov,W,1,Choke from back,Grand Slam MSK,62KG,RR,2019
+21028,10293,Jonas Andrade,,Isa Karasanov,W,1,Submission,ACB World Champ.,60KG,SF,2019
+21034,10293,Jonas Andrade,,Samuel Petite,W,1,Pts: 11x0,ACB World Champ.,70KG,4F,2019
+21230,10293,Jonas Andrade,9051,Gabriel Sousa,W,1,Referee Decision,Grand Slam TYO,62KG,F,2019
+21527,10293,Jonas Andrade,,Jose Sanchez,W,1,Submission,Geneve Open,64KG,SF,2019
+21651,10293,Jonas Andrade,,Vincent Saenz,W,1,Triangle,Grand Slam LA,62KG,4F,2019
+21655,10293,Jonas Andrade,,Joao Figueiredo,W,1,Pts: 4x0,Grand Slam LA,62KG,RPC,2019
+21657,10293,Jonas Andrade,,Vincent Saenz,W,1,"Pts: 4x4, Adv",Grand Slam LA,62KG,3RD,2019
+21920,10293,Jonas Andrade,,Anthony Guy,W,1,Pts: 16x2,Lisbon Open,64KG,SF,2019
+22012,10293,Jonas Andrade,,Alejandro Carreras,W,1,Pts: 2x0,Templum FN,70KG,SPF,2019
+22037,10293,Jonas Andrade,,Marko Oikarainen,W,1,Points,London FO,64KG,SF,2019
+22038,10293,Jonas Andrade,,Carlos Perez,W,1,Pts: 16x2,London FO,64KG,F,2019
+22143,10293,Jonas Andrade,,Giorgi Razmadze,W,1,Botinha,European NoGi,61KG,4F,2019
+22145,10293,Jonas Andrade,,Mani Tavanae,W,1,Triangle,European NoGi,61KG,SF,2019
+22146,10293,Jonas Andrade,6258,Rodnei Barbosa,W,1,Pts: 2x0,European NoGi,61KG,F,2019
+22227,10293,Jonas Andrade,,Alexander Musi,W,1,"Pts: 0x0, Adv",Malmo Open,ABS,SF,2019
+22228,10293,Jonas Andrade,,Johan Gustafsson,W,1,"Pts: 2x2, Adv",Malmo Open,ABS,F,2019
+22419,10293,Jonas Andrade,,Jarrah Alhazza,W,1,Choke,Amsterdam Open,64KG,F,2019
+22613,10293,Jonas Andrade,,Mani Tavanaei,W,1,Points,Madrid Open,64KG,F,2019
+22625,10293,Jonas Andrade,,Lucas Ramos,W,1,Triangle,Paris Open,64KG,F,2019
+22764,10293,Jonas Andrade,,Jobson Apolinaro,W,1,Points,Berlin Open,64KG,F,2019
+22960,10293,Jonas Andrade,,Valmecir Junior,W,1,Armlock,Grand Slam AD,62KG,4F,2020
+22962,10293,Jonas Andrade,,Gabriel Frenhan,W,1,Botinha,Grand Slam AD,62KG,RPC,2020
+22963,10293,Jonas Andrade,,Bebeto Oliveira,W,1,Points,Grand Slam AD,62KG,3RD,2020
+23064,10293,Jonas Andrade,,Wesley Santos,W,1,"Pts: 4x4, Adv",European Open,64KG,R1,2020
+23071,10293,Jonas Andrade,,Bebeto Oliveira,W,1,Points,European Open,64KG,SF,2020
+23293,10293,Jonas Andrade,,Lucas Feitosa,W,1,Pts: 2x0,Austria Nat Pro,62KG,F,2020
+23579,10293,Jonas Andrade,9377,Alexis Alduncin,W,1,Submission,European Pro,62KG,RR,2020
+23604,10293,Jonas Andrade,,Kalel Santos,W,1,Toe hold,Grand Slam LDN,56KG,SF,2020
+23605,10293,Jonas Andrade,,Lucas Feitosa,W,1,Submission,Grand Slam LDN,56KG,F,2020
+24002,10293,Jonas Andrade,12120,Estevan Martinez,W,1,Pts: 1x0,Grand Slam MIA,56KG,RR,2020
+24003,10293,Jonas Andrade,12120,Estevan Martinez,W,1,Pts: 6x0,Grand Slam MIA,56KG,RR,2020
+24115,10293,Jonas Andrade,,Rene Lopez,W,1,Pts: 15x6,Pan American,57KG,SF,2020
+24651,10293,Jonas Andrade,,Raul Marcelo,W,1,Pts: 9x2,Grand Slam RJ,56KG,4F,2020
+24652,10293,Jonas Andrade,6258,Rodnei Barbosa,W,1,Pts: 7x3,Grand Slam RJ,56KG,SF,2020
+24654,10293,Jonas Andrade,11823,Diogo Reis,W,1,Referee Decision,Grand Slam RJ,56KG,F,2020
+24891,10293,Jonas Andrade,,Lucas Pereira,W,1,Injury,South American,57KG,SF,2020
+25269,10293,Jonas Andrade,,Marko Oikarainen,W,1,Triangle,Grand Slam MSK,56KG,RR,2021
+25270,10293,Jonas Andrade,,Marko Oikarainen,W,1,Armlock,Grand Slam MSK,56KG,RR,2021
+25493,10293,Jonas Andrade,,Marko Oikarainen,W,1,Choke from back,Grand Slam AD,56KG,RR,2021
+25644,10293,Jonas Andrade,,Marko Oikarainen,W,1,Botinha,World Pro,56KG,RR,2021
+25647,10293,Jonas Andrade,,Hiroki Sugimoto,W,1,Estima lock,World Pro,56KG,RR,2021
+26892,10293,Jonas Andrade,,Valmecir Junior,W,1,Armbar,Asia Cont. Pro,62KG,RR,2021
+26893,10293,Jonas Andrade,,Valmecir Junior,W,1,Submission,Asia Cont. Pro,62KG,RR,2021
+27215,10293,Jonas Andrade,12848,Frank Cespedes,W,1,Pts: 4x3,Grand Slam MIA,56KG,SF,2021
+27702,10293,Jonas Andrade,,Rodney Barbosa,W,1,"Pts: 3x3, Pen",Grand Slam MSK,56KG,SF,2021
+27819,10293,Jonas Andrade,,Mohamad Hayat,W,1,Estima lock,Netherlands Pro,56KG,F,2021
+27828,10293,Jonas Andrade,,Mohamad Hayat,W,1,Toe hold,Netherlands NGP,56KG,F,2021
+28462,10293,Jonas Andrade,,Luciano Alex,W,1,Botinha,Grand Slam RJ,56KG,3RD,2021
+29171,10293,Jonas Andrade,,Samat Aitpanbet,W,1,Pts: 5x3,World Pro,56KG,RR,2021
+29172,10293,Jonas Andrade,12729,Nathannael Fernandes,W,1,Triangle,World Pro,56KG,RR,2021
+29175,10293,Jonas Andrade,,Marko Oikarainen,W,1,Botinha,World Pro,56KG,SF,2021
+29444,10293,Jonas Andrade,7757,Juan Lopes,W,1,Pts: 4x0,World Champ.,57KG,R1,2021
+29448,10293,Jonas Andrade,6060,Tomoyuki Hashimoto,W,1,"Pts: 2x2, Adv",World Champ.,57KG,4F,2021
+29711,10293,Jonas Andrade,,Renato Lage,W,1,Triangle,Teams Cup,N/A,RR,2021
+29743,10293,Jonas Andrade,,Aurelio Samboni,W,1,Botinha,Teams Cup,N/A,RR,2021
+29745,10293,Jonas Andrade,,Breno Peterson,W,1,Botinha,ACB Worlds,60KG,4F,2021
+29746,10293,Jonas Andrade,,Bruno Ramos,W,1,Pts: 2x1,ACB Worlds,60KG,SF,2021
+29767,10293,Jonas Andrade,,Breno Peterson,W,1,Triangle,ACB World NG,60KG,SF,2021
+32334,10293,Jonas Andrade,,Samat Aitpanbet,W,1,Pts: 4x2,Grand Slam AD,56KG,RR,2022
+32335,10293,Jonas Andrade,,Samat Aitpanbet,W,1,Pts: 2x1,Grand Slam AD,56KG,RR,2022
+32336,10293,Jonas Andrade,,Samat Aitpanbet,W,1,Triangle,Grand Slam AD,56KG,RR,2022
+32816,10293,Jonas Andrade,,Sultan Alowais,W,1,Pts: 24x0,Hungary Pro,62KG,F,2022
+32853,10293,Jonas Andrade,12615,Osamah Almarwai,W,1,Triangle,World Champ.,57KG,R1,2022
+34563,10293,Jonas Andrade,,Samat Aitpanbet,W,1,Pts: 8x1,EU Cont Pro,56KG,RR,2022
+35312,10293,Jonas Andrade,,Abdul Almurdhi,W,1,Loop choke,Asia Pro,62KG,4F,2022
+35317,10293,Jonas Andrade,,Bruno Borges,W,1,Cryangle,Asia Pro,62KG,SF,2022
+35318,10293,Jonas Andrade,12968,Zayed Alkatheeri,W,1,Pts: 5x4,Asia Pro,62KG,F,2022
+35398,10293,Jonas Andrade,,Abdulla Munfaredi,W,1,Toe hold,NoGi GP Rome,62KG,RR,2022
+35399,10293,Jonas Andrade,,Abdulla Munfaredi,W,1,Toe hold,NoGi GP Rome,62KG,RR,2022
+35403,10293,Jonas Andrade,,Xavi Bas,W,1,Pts: 15x0,Rome Pro,62KG,RR,2022
+35404,10293,Jonas Andrade,,Xavi Bas,W,1,Armbar,Rome Pro,62KG,F,2022
+36304,10293,Jonas Andrade,,Huseyn Abaszada,W,1,N/A,World Pro,62KG,R1,2022
+36309,10293,Jonas Andrade,,A. Almurdhi,W,1,Pts: 1x1,World Pro,62KG,4F,2022
+36320,10293,Jonas Andrade,,Song Hyeongkeun,W,1,Botinha,World Pro,62KG,RPC,2022
+36321,10293,Jonas Andrade,12573,Sebastian Serpa,W,1,Pts: 2x1,World Pro,62KG,3RD,2022
+36517,10293,Jonas Andrade,12968,Zayed Alkatheeri,W,1,Pts: 5x3,Netherlands Pro,62KG,F,2022
+36950,10293,Jonas Andrade,,Shamil Gaziev,W,1,Submission,ACB World,65KG,SF,2022
+36963,10293,Jonas Andrade,,Surkhay Asadulaev,W,1,Pts: 6x2,ACB World NG,65KG,SF,2022
+38171,10293,Jonas Andrade,,Marko Oikarainen,W,1,Triangle,AJPGD LDN,56KG,4F,2023
+38178,10293,Jonas Andrade,13209,Welerson Goncalves,W,1,Pts: 3x2,AJPGD LDN,56KG,3RD,2023

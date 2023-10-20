@@ -1,0 +1,64 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+18814,9014,Levi Jones-Leary,7831,Diego Ramalho,L,0,"Pts: 0x0, Adv",Grand Slam AD,77KG,F,2019
+19369,9014,Levi Jones-Leary,5414,Osvaldo Moizinho,L,0,Referee Decision,Spyder Inv.,76KG,SF,2019
+20101,9014,Levi Jones-Leary,,Oliver Lovell,L,0,Kneebar,World Pro,77KG,R2,2019
+20628,9014,Levi Jones-Leary,,L. Larman,L,0,DQ,World Champ.,76KG,R2,2019
+21077,9014,Levi Jones-Leary,8996,Mauricio Oliveira,L,0,Pts: 2x0,NY BJJ Pro,82KG,F,2019
+21244,9014,Levi Jones-Leary,7831,Diego Ramalho,L,0,Pts: 4x2,Grand Slam TYO,77KG,F,2019
+28266,9014,Levi Jones-Leary,8138,Hugo Marques,L,0,Pts: 2x0,NoGi Worlds,79KG,R2,2021
+29206,9014,Levi Jones-Leary,12122,Mica Galvao,L,0,Triangle,World Pro,77KG,4F,2021
+29506,9014,Levi Jones-Leary,7539,Renato Canuto,L,0,Pts: 3x0,World Champ.,76KG,4F,2021
+29823,9014,Levi Jones-Leary,12003,Tye Ruotolo,L,0,Kneebar,WNO 11,77KG,SPF,2022
+32510,9014,Levi Jones-Leary,9793,Alexandre Jesus,L,0,Referee Decision,Atlanta SPO,82KG,F,2022
+32536,9014,Levi Jones-Leary,11499,Roosevelt Sousa,L,0,Botinha,Atlanta SPO,ABS,F,2022
+32762,9014,Levi Jones-Leary,10509,Mathias Luna,L,0,Referee Decision,Houston Open,82KG,F,2022
+32922,9014,Levi Jones-Leary,12003,Tye Ruotolo,L,0,Pts: 8x0,World Champ.,76KG,4F,2022
+33151,9014,Levi Jones-Leary,10162,Ronaldo Junior,L,0,Pts: 2x0,EUG 4,82KG,F,2022
+33760,9014,Levi Jones-Leary,,Lucas Brito,L,0,Pts: 10x8,Orlando SMO,82KG,SF,2022
+34616,9014,Levi Jones-Leary,10085,Johnatha Alves,L,0,Pts: 2x0,Grand Slam MIA,77KG,SF,2022
+40251,9014,Levi Jones-Leary,9002,Matheus Gabriel,L,0,Referee Decision,World Champ.,76KG,R1,2023
+18809,9014,Levi Jones-Leary,,Adriano Araujo,W,1,Pts: 6x2,Grand Slam AD,77KG,4F,2019
+18812,9014,Levi Jones-Leary,1824,Roberto Satoshi,W,1,Pts: 4x0,Grand Slam AD,77KG,SF,2019
+18894,9014,Levi Jones-Leary,6368,Kevin Mahecha,W,1,Pts: 2x0,European Open,76KG,R1,2019
+18899,9014,Levi Jones-Leary,8448,Pedro Ramalho,W,1,Pts: 4x2,European Open,76KG,4F,2019
+18901,9014,Levi Jones-Leary,4248,Gianni Grippo,W,1,Pts: 4x2,European Open,76KG,SF,2019
+18903,9014,Levi Jones-Leary,358,Lucas Lepri,W,1,Referee Decision,European Open,76KG,F,2019
+19366,9014,Levi Jones-Leary,,M. Luna,W,1,"Pts: 0x0, Adv",Spyder Inv.,76KG,4F,2019
+19371,9014,Levi Jones-Leary,188,Augusto Mendes,W,1,Pts: 6x0,Spyder Inv.,76KG,3RD,2019
+19591,9014,Levi Jones-Leary,6836,John Combs,W,1,Choke from back,Pan American,76KG,8F,2019
+19598,9014,Levi Jones-Leary,,Breno Bitencourt,W,1,Pts: 6x2,Pan American,76KG,4F,2019
+19602,9014,Levi Jones-Leary,5061,Gabriel Rollo,W,1,"Pts: 2x2, Pen",Pan American,76KG,SF,2019
+19604,9014,Levi Jones-Leary,7539,Renato Canuto,W,1,Pts: 6x4,Pan American,76KG,F,2019
+20090,9014,Levi Jones-Leary,,Youngam Noh,W,1,DQ,World Pro,77KG,R1,2019
+20615,9014,Levi Jones-Leary,,Dainis Huu,W,1,"Pts: 12x12, Adv",World Champ.,76KG,R1,2019
+21075,9014,Levi Jones-Leary,,Mauricio Faleta,W,1,Straight ankle lock,NY BJJ Pro,82KG,4F,2019
+21238,9014,Levi Jones-Leary,9407,Alexandre Molinaro,W,1,Choke from back,Grand Slam TYO,77KG,4F,2019
+21240,9014,Levi Jones-Leary,,Shinji Morito,W,1,Choke from back,Grand Slam TYO,77KG,SF,2019
+22651,9014,Levi Jones-Leary,6071,Gabriel Arges,W,1,Referee Decision,Spyder Invitational,76KG,4F,2019
+22654,9014,Levi Jones-Leary,,M. Lutes,W,1,Pts: 6x0,Spyder Invitational,76KG,SF,2019
+22655,9014,Levi Jones-Leary,9002,Matheus Gabriel,W,1,Pts: 2x0,Spyder Invitational,76KG,F,2019
+23896,9014,Levi Jones-Leary,,Adam Cruz,W,1,Triangle,SUBVERSIV 3,82KG,R1,2020
+23902,9014,Levi Jones-Leary,,Lucas Santos,W,1,Referee Decision,SUBVERSIV 3,82KG,4F,2020
+23907,9014,Levi Jones-Leary,,Samuel Snow,W,1,Baratoplata,SUBVERSIV 3,82KG,SF,2020
+23911,9014,Levi Jones-Leary,,Carlos Souza,W,1,Referee Decision,SUBVERSIV 3,82KG,F,2020
+28449,9014,Levi Jones-Leary,11707,Oliver Taza,W,1,Referee Decision,WNO 10,77KG,SPF,2021
+29211,9014,Levi Jones-Leary,,Hassen Moussa,W,1,Pts: 7x0,World Pro,77KG,RPC,2021
+29212,9014,Levi Jones-Leary,,Williams Campos,W,1,Pts: 6x3,World Pro,77KG,RPC,2021
+29213,9014,Levi Jones-Leary,10004,Ali Monfaradi,W,1,Armbar,World Pro,77KG,RPC,2021
+29215,9014,Levi Jones-Leary,11872,Luiz Paulo,W,1,Pts: 4x1,World Pro,77KG,3RD,2021
+29503,9014,Levi Jones-Leary,11132,Leon Larman,W,1,"Pts: 0x0, Adv",World Champ.,76KG,8F,2021
+31675,9014,Levi Jones-Leary,,Austin Oranday,W,1,Baratoplata,Pan American,82KG,R2,2022
+32505,9014,Levi Jones-Leary,,Julio Pereira,W,1,Choke from back,Atlanta SPO,82KG,4F,2022
+32508,9014,Levi Jones-Leary,,Clay Mayfield,W,1,Pts: 8x5,Atlanta SPO,82KG,SF,2022
+32529,9014,Levi Jones-Leary,,Robert Dunn,W,1,Tarikoplata,Atlanta SPO,ABS,R1,2022
+32534,9014,Levi Jones-Leary,,Carlos Neto,W,1,Pts: 2x0,Atlanta SPO,ABS,4F,2022
+32583,9014,Levi Jones-Leary,,Michael Backman,W,1,Pts: 20x0,Chicago SPO,82KG,F,2022
+32758,9014,Levi Jones-Leary,,Celso Reis,W,1,N/A,Houston Open,82KG,4F,2022
+32760,9014,Levi Jones-Leary,,Clay Mayfield,W,1,N/A,Houston Open,82KG,SF,2022
+32913,9014,Levi Jones-Leary,10216,Natan Chueng,W,1,Pts: 2x0,World Champ.,76KG,8F,2022
+33147,9014,Levi Jones-Leary,12566,Rodrigo Tatu,W,1,Pts: 6x0,EUG 4,82KG,4F,2022
+33150,9014,Levi Jones-Leary,5636,Manuel Ribamar,W,1,Referee Decision,EUG 4,82KG,SF,2022
+33360,9014,Levi Jones-Leary,11646,Andre Gois,W,1,"Pts: 2x2, Adv",Washington DCO,88KG,F,2022
+34614,9014,Levi Jones-Leary,10352,Leo Silva,W,1,Pts: 2x0,Grand Slam MIA,77KG,4F,2022
+37510,9014,Levi Jones-Leary,9486,Murilo Amaral,W,1,Pts: 2x1,Grand Slam SYD,77KG,SF,2023
+37512,9014,Levi Jones-Leary,,Junhyun Park,W,1,Submission,Grand Slam SYD,77KG,F,2023

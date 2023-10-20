@@ -1,0 +1,68 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21386,10380,Edwin Junny,2997,Joao Miyao,L,0,Pts: 2x1,Kasai Pro 6,61KG,F,2019
+21560,10380,Edwin Junny,10155,Malachi Edmond,L,0,Pts: 4x2,No Gi Pan Am.,61KG,4F,2019
+22144,10380,Edwin Junny,6258,Rodnei Barbosa,L,0,Points,European NoGi,61KG,SF,2019
+22437,10380,Edwin Junny,,Jose Albor,L,0,Points,Mexico City Open,70KG,SF,2019
+22836,10380,Edwin Junny,6151,Hiago George,L,0,Armlock,NoGi Worlds,61KG,SF,2019
+24383,10380,Edwin Junny,9031,Kennedy Maciel,L,0,Armbar,F2W 156,65KG,SPF,2020
+25172,10380,Edwin Junny,4996,Geo Martinez,L,0,Referee Decision,WNO 6,65KG,SPF,2021
+26086,10380,Edwin Junny,,Bebeto Oliveira,L,0,Pts: 4x2,NoGi Pan Am.,61KG,SF,2021
+26604,10380,Edwin Junny,5447,Mikey Musumeci,L,0,Referee Decision,WNO 10,61KG,SPF,2021
+28215,10380,Edwin Junny,,Bebeto Oliveira,L,0,"Pts: 0x0, Adv",NoGi Worlds,61KG,SF,2021
+28808,10380,Edwin Junny,9934,Deandre Corbe,L,0,Referee Decision,ADCC EC Trials,66KG,4F,2021
+31519,10380,Edwin Junny,9934,Deandre Corbe,L,0,Pts: 2x0,ADCC WC Trials,66KG,8F,2022
+32493,10380,Edwin Junny,,Bebeto Oliveira,L,0,Pts: 8x4,Atlanta SPO,64KG,F,2022
+32867,10380,Edwin Junny,8536,Yuta Shimada,L,0,"Pts: 4x4, Adv",World Champ.,64KG,R1,2022
+36806,10380,Edwin Junny,6043,Lucas Pinheiro,L,0,Pts: 7x0,NoGi Worlds,61KG,SF,2022
+37890,10380,Edwin Junny,,Leonardo Souza,L,0,Pts: 6x4,Dallas NGO,61KG,F,2023
+40801,10380,Edwin Junny,,Joey Diehl,L,0,Kneebar,ADCC Dallas,60KG,R1,2023
+21380,10380,Edwin Junny,4996,Geo Martinez,W,1,Pts: 2x0,Kasai Pro 6,61KG,RR,2019
+21382,10380,Edwin Junny,8767,Jon Calestine,W,1,Pts: 3x2,Kasai Pro 6,61KG,RR,2019
+21384,10380,Edwin Junny,,M. Imanari,W,1,Pts: 8x1,Kasai Pro 6,61KG,RR,2019
+22142,10380,Edwin Junny,,Anthony Oliveira,W,1,Pts: 4x2,European NoGi,61KG,4F,2019
+22442,10380,Edwin Junny,,Rene Lopez,W,1,DQ,Mexico City NGO,67KG,SF,2019
+22444,10380,Edwin Junny,9377,Alexis Alduncin,W,1,Pts: 2x0,Mexico City NGO,67KG,F,2019
+22677,10380,Edwin Junny,,Suraj Budhram,W,1,Katagatame,NYC Fall NGO,61KG,SF,2019
+23818,10380,Edwin Junny,,Justin Ordinario,W,1,Z Lock,F2W 146,61KG,SPF,2020
+23853,10380,Edwin Junny,,Gabe Tuttle,W,1,Referee Decision,WNO,61KG,SPF,2020
+23879,10380,Edwin Junny,6043,Lucas Pinheiro,W,1,Referee Decision,F2W 149,61KG,SPF,2020
+23980,10380,Edwin Junny,8361,Marcelo Cohen,W,1,Inside heel hook,F2W 153,61KG,SPF,2020
+24250,10380,Edwin Junny,6801,Jose Lima,W,1,Inverted triangle,F2W 154,61KG,SPF,2020
+25033,10380,Edwin Junny,8131,Adam Ferrara,W,1,Inside heel hook,F2W 160,61KG,SPF,2021
+25445,10380,Edwin Junny,,Rashawn Kershaw,W,1,Inside heel hook,Orlando NGO,61KG,SF,2021
+25447,10380,Edwin Junny,12120,Estevan Martinez,W,1,Referee Decision,Orlando NGO,61KG,F,2021
+25947,10380,Edwin Junny,,Taniel Jesus,W,1,Referee Decision,F2W 171,61KG,SPF,2021
+26082,10380,Edwin Junny,,Huthayfah Penney,W,1,N/A,NoGi Pan Am.,61KG,4F,2021
+26909,10380,Edwin Junny,,Bebeto Oliveira,W,1,Referee Decision,F2W 176,61KG,SPF,2021
+27864,10380,Edwin Junny,,Marko Oikarainen,W,1,Outside heel hook,Atlanta SMNG,61KG,F,2021
+28212,10380,Edwin Junny,12303,Marcus Beddor,W,1,Inside heel hook,NoGi Worlds,61KG,4F,2021
+28768,10380,Edwin Junny,,J. Oyervidez,W,1,Footlock,ADCC EC Trials,66KG,R1,2021
+28781,10380,Edwin Junny,,Damon Morgan,W,1,"Pts: 0x0, Pen",ADCC EC Trials,66KG,R2,2021
+28790,10380,Edwin Junny,,Logan Santos,W,1,Inside heel hook,ADCC EC Trials,66KG,R3,2021
+28803,10380,Edwin Junny,8814,Adam Benayoun,W,1,Referee Decision,ADCC EC Trials,66KG,R4,2021
+29069,10380,Edwin Junny,,Francesco Dimartino,W,1,Inside heel hook,JJ CON NG,61KG,SF,2021
+29070,10380,Edwin Junny,,Reynaldo Leon,W,1,Pts: 15x0,JJ CON NG,61KG,F,2021
+30459,10380,Edwin Junny,12848,Frank Cespedes,W,1,Pts: 10x8,Atlanta WO,64KG,F,2022
+30676,10380,Edwin Junny,,Suraj Budhram,W,1,"Pts: 4x4, Adv",Miami WO,64KG,SF,2022
+30677,10380,Edwin Junny,,Matheus Fonseca,W,1,Pts: 10x6,Miami WO,64KG,F,2022
+31478,10380,Edwin Junny,,Anthony Lopez,W,1,Inside heel hook,ADCC WC Trials,66KG,R1,2022
+31495,10380,Edwin Junny,,Tommy Espinoza,W,1,Armbar,ADCC WC Trials,66KG,R2,2022
+31508,10380,Edwin Junny,,Daniel Lyons,W,1,Katagatame,ADCC WC Trials,66KG,R3,2022
+32487,10380,Edwin Junny,12644,Tadiyah Danforth,W,1,"Pts: 2x2, Adv",Atlanta SPO,64KG,4F,2022
+32492,10380,Edwin Junny,,Justin Carneiro,W,1,Straight ankle lock,Atlanta SPO,64KG,SF,2022
+33708,10380,Edwin Junny,,Jesse Sosa,W,1,Junny lock,Austin SMNGO,61KG,F,2022
+34407,10380,Edwin Junny,,Jhonatas Ramos,W,1,Inside heel hook,N. Haven NGO,61KG,SF,2022
+34409,10380,Edwin Junny,8038,Hiago Gama,W,1,Straight ankle lock,N. Haven NGO,61KG,F,2022
+36543,10380,Edwin Junny,,Huthayfah Penney,W,1,Outside heel hook,NHaven FNGO,61KG,SF,2022
+36544,10380,Edwin Junny,13360,David Terao,W,1,Adv,NHaven FNGO,61KG,F,2022
+36800,10380,Edwin Junny,,Rene Lopez,W,1,Inside heel hook,NoGi Worlds,61KG,R1,2022
+36804,10380,Edwin Junny,,Leonardo Souza,W,1,Aoki lock,NoGi Worlds,61KG,4F,2022
+39285,10380,Edwin Junny,,Isaac Cordova,W,1,Pts: 3x0,ADCC OC,60KG,4F,2023
+39287,10380,Edwin Junny,,Juan Rasmussen,W,1,Pts: 9x0,ADCC OC,60KG,SF,2023
+39289,10380,Edwin Junny,,Isaac Cordova,W,1,Pts: 3x0,ADCC OC,60KG,F,2023
+39778,10380,Edwin Junny,,Christopher Tran,W,1,Katagatame,Atanta SPNG,61KG,F,2023
+41741,10380,Edwin Junny,,Christopher Tran,W,1,Submission,NYC NGO,61KG,RR,2023
+41742,10380,Edwin Junny,,Kevin Dantzler,W,1,Inside heel hook,NYC NGO,61KG,RR,2023
+43211,10380,Edwin Junny,,Lucas Bosshard,W,1,Inside heel hook,NoGi Pan,61KG,4F,2023
+43212,10380,Edwin Junny,12251,Roiter Lima,W,1,"Pts: 2x2, Adv",NoGi Pan,61KG,SF,2023
+43214,10380,Edwin Junny,11093,Emilio Hernandez,W,1,"Pts: 2x2, Adv",NoGi Pan,61KG,F,2023

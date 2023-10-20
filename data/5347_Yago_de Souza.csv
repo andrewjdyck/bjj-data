@@ -1,0 +1,70 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10019,5347,Yago de Souza,2107,Otavio Sousa,L,0,Pts: 9x2,World Champ.,82KG,SF,2016
+12192,5347,Yago de Souza,,Scott Thometz,L,0,Injury,Pan American,82KG,8F,2017
+15095,5347,Yago de Souza,7552,Isaque Bahiense,L,0,Injury,ACB S. American,85KG,R2,2018
+16255,5347,Yago de Souza,4789,Marcos Tinoco,L,0,"Pts: 0x0, Adv",Brasileiro,82KG,F,2018
+16549,5347,Yago de Souza,4789,Marcos Tinoco,L,0,Referee Decision,World Champ.,82KG,4F,2018
+20285,5347,Yago de Souza,,Ronieri Silva,L,0,Armlock,Brasileiro,82KG,R1,2019
+20648,5347,Yago de Souza,4460,Jaime Canuto,L,0,Pts: 4x0,World Champ.,82KG,R2,2019
+21321,5347,Yago de Souza,10468,Nisar Loynab,L,0,Referee Decision,F2W 121,86KG,SPF,2019
+23574,5347,Yago de Souza,10880,Roberto Jimenez,L,0,Choke from back,Kansas Open,ABS,F,2020
+27601,5347,Yago de Souza,11697,Tainan Dalpra,L,0,Pts: 2x0,Pan American,82KG,F,2021
+34845,5347,Yago de Souza,12348,Lucas Protasio,L,0,Pts: 9x0,UAE Nat Pro,77KG,SF,2022
+34847,5347,Yago de Souza,10004,Ali Monfaradi,L,0,Violin armlock,UAE Nat Pro,77KG,3RD,2022
+8793,5347,Yago de Souza,,Jackson Ratigueri,W,1,Triangle,Camp. Regional,82KG,F,2015
+8794,5347,Yago de Souza,,Gustavo Almeida,W,1,Armbar,Camp. Regional,ABS,F,2015
+8942,5347,Yago de Souza,,Arturo Espies,W,1,N/A,European Open,82KG,R1,2016
+8948,5347,Yago de Souza,5655,Lucas Barbosa,W,1,Points,European Open,82KG,4F,2016
+8950,5347,Yago de Souza,9587,Eduardo Rios,W,1,Points,European Open,82KG,SF,2016
+8951,5347,Yago de Souza,289,Alan Finfou,W,1,Pts: 2x0,European Open,82KG,F,2016
+9288,5347,Yago de Souza,,Shawn Key,W,1,Pts: 58x0,Pan American,82KG,R1,2016
+9294,5347,Yago de Souza,7321,Darragh OConaill,W,1,Pts: 11x0,Pan American,82KG,8F,2016
+9301,5347,Yago de Souza,1600,Vinicius Marinho,W,1,Submission,Pan American,82KG,4F,2016
+9304,5347,Yago de Souza,2107,Otavio Sousa,W,1,Pts: 6x4,Pan American,82KG,SF,2016
+9306,5347,Yago de Souza,2035,Vitor Oliveira,W,1,"Pts: 4x4, Adv",Pan American,82KG,F,2016
+10006,5347,Yago de Souza,1017,Gabriel Goulart,W,1,Armbar,World Champ.,82KG,R2,2016
+10011,5347,Yago de Souza,289,Alan Finfou,W,1,N/A,World Champ.,82KG,8F,2016
+10017,5347,Yago de Souza,6596,Jhonny Loureiro,W,1,"Pts: 2x2, Adv",World Champ.,82KG,4F,2016
+12183,5347,Yago de Souza,,Lucas Valle,W,1,Triangle armbar,Pan American,82KG,R1,2017
+15092,5347,Yago de Souza,,Uknown,W,1,Pts: 2x0,ACB S. American,85KG,R1,2018
+16238,5347,Yago de Souza,,Reginaldo Trindade,W,1,calf slicer,Brasileiro,82KG,R1,2018
+16245,5347,Yago de Souza,9312,Alexandre Cavaliere,W,1,Pts: 2x0,Brasileiro,82KG,8F,2018
+16251,5347,Yago de Souza,6375,Ruan Oliveira,W,1,Points,Brasileiro,82KG,4F,2018
+16253,5347,Yago de Souza,4542,Felipe Cesar,W,1,"Pts: 0x0, Adv",Brasileiro,82KG,SF,2018
+16528,5347,Yago de Souza,8477,Igor Paiva,W,1,Pts: 5x0,World Champ.,82KG,R2,2018
+16541,5347,Yago de Souza,7096,Josh Hinger,W,1,Pts: 4x2,World Champ.,82KG,8F,2018
+19881,5347,Yago de Souza,,Lucas Hilario,W,1,Pts: 12x0,Orlando SPO,82KG,SF,2019
+19883,5347,Yago de Souza,,Piter Frank,W,1,N/A,Orlando SPO,82KG,F,2019
+19887,5347,Yago de Souza,,Garrett Aldrich,W,1,Wristlock,Orlando SPO,ABS,4F,2019
+19890,5347,Yago de Souza,,Lucas Hilario,W,1,N/A,Orlando SPO,ABS,SF,2019
+20637,5347,Yago de Souza,9793,Alexandre Jesus,W,1,"Pts: 2x2, Adv",World Champ.,82KG,R1,2019
+21260,5347,Yago de Souza,,Kalil Nascimento,W,1,Points,Orlando SMO,82KG,SF,2019
+21261,5347,Yago de Souza,,Pedro Palhares,W,1,Pts: 12x2,Orlando SMO,82KG,F,2019
+23305,5347,Yago de Souza,,Tyler Scalisi,W,1,Bow and arrow,New Orleans Open,82KG,SF,2020
+23306,5347,Yago de Souza,,Fernando Cabrera,W,1,RNC,New Orleans Open,82KG,F,2020
+23313,5347,Yago de Souza,,Daniel Olivier,W,1,Pts: 18x0,New Orleans Open,ABS,4F,2020
+23314,5347,Yago de Souza,,Vinicius Reis,W,1,Bow and arrow,New Orleans Open,ABS,SF,2020
+23556,5347,Yago de Souza,,Christian Derr,W,1,Pts: 28x0,Kansas Open,82KG,4F,2020
+23557,5347,Yago de Souza,,Rehan Mutallib,W,1,Pts: 9x0,Kansas Open,82KG,SF,2020
+23558,5347,Yago de Souza,,Lucas Valle,W,1,Cross choke,Kansas Open,82KG,F,2020
+23571,5347,Yago de Souza,,Ken Primola,W,1,Bow and arrow,Kansas Open,ABS,4F,2020
+23573,5347,Yago de Souza,9640,Brian Beaury,W,1,Straight ankle lock,Kansas Open,ABS,SF,2020
+25422,5347,Yago de Souza,,Pedro Palhares,W,1,Pts: 8x0,Orlando Open,88KG,SF,2021
+25424,5347,Yago de Souza,5747,AJ Sousa,W,1,Pts: 10x0,Orlando Open,88KG,F,2021
+25802,5347,Yago de Souza,,Mathew Martinez,W,1,Choke from back,Houston Open,88KG,4F,2021
+25805,5347,Yago de Souza,,Thiago Graca,W,1,Choke from back,Houston Open,88KG,SF,2021
+25806,5347,Yago de Souza,11960,Joao Cizeski,W,1,Choke from back,Houston Open,88KG,F,2021
+26004,5347,Yago de Souza,,Charles McGuire,W,1,Armbar,N.Orleans Open,88KG,SF,2021
+26006,5347,Yago de Souza,,Joshua McKinney,W,1,Clock choke,N.Orleans Open,88KG,F,2021
+26234,5347,Yago de Souza,,Marcelo Barros,W,1,Armbar,Memphis Open,88KG,SF,2021
+26236,5347,Yago de Souza,,Joshua McKinney,W,1,Choke from back,Memphis Open,88KG,F,2021
+26241,5347,Yago de Souza,12120,Estevan Martinez,W,1,Armbar,Memphis Open,ABS,SF,2021
+27005,5347,Yago de Souza,9931,Arthur Detanico,W,1,Armbar,Orlando Open,ABS,4F,2021
+27008,5347,Yago de Souza,,Jose Torres,W,1,Omoplata,Orlando Open,ABS,SF,2021
+27009,5347,Yago de Souza,7704,Helton Jose,W,1,Points,Orlando Open,ABS,F,2021
+27195,5347,Yago de Souza,10658,Matheus Luna,W,1,Referee Decision,F2W 180,83KG,SPF,2021
+27334,5347,Yago de Souza,,Lucas Laet,W,1,Armbar,Charleston SO,88KG,F,2021
+27593,5347,Yago de Souza,11646,Andre Gois,W,1,Choke from back,Pan American,82KG,8F,2021
+27598,5347,Yago de Souza,9067,Leonardo Lara,W,1,"Pts: 2x2, Pen",Pan American,82KG,4F,2021
+27600,5347,Yago de Souza,10103,Jonnatas Gracie,W,1,Pts: 4x2,Pan American,82KG,SF,2021
+34841,5347,Yago de Souza,,Diego Medeiros,W,1,Pts: 6x0,UAE Nat Pro,77KG,4F,2022

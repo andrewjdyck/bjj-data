@@ -1,0 +1,53 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+5945,4465,Andris Brunovskis,5414,Osvaldo Moizinho,L,0,DQ,American Nat.,76KG,F,2014
+7439,4465,Andris Brunovskis,5061,Gabriel Rollo,L,0,Choke from back,World Champ.,76KG,8F,2015
+9274,4465,Andris Brunovskis,5061,Gabriel Rollo,L,0,"Pts: 4x4, Adv",Pan American,76KG,4F,2016
+11576,4465,Andris Brunovskis,4163,Marcio Andre,L,0,Triangle,European Open,76KG,SF,2017
+12171,4465,Andris Brunovskis,4163,Marcio Andre,L,0,Pts: 7x2,Pan American,76KG,4F,2017
+13108,4465,Andris Brunovskis,,Joao Alves,L,0,Pts: 2x0,World Champ.,76KG,R1,2017
+13808,4465,Andris Brunovskis,6432,Yan Lucas,L,0,Referee Decision,Grand Slam LA,77KG,4F,2017
+15401,4465,Andris Brunovskis,7143,Breno Bittencourt,L,0,Pts: 6x4,Pan American,76KG,4F,2018
+18178,4465,Andris Brunovskis,4235,Victor Silverio,L,0,Points,Long Beach Open,82KG,F,2018
+18915,4465,Andris Brunovskis,7552,Isaque Bahiense,L,0,Pts: 4x2,European Open,82KG,SF,2019
+19384,4465,Andris Brunovskis,2107,Otavio Sousa,L,0,"Pts: 6x6, Adv",LA BJJ Pro,82KG,SF,2019
+19612,4465,Andris Brunovskis,5660,Lucas Rocha,L,0,Pts: 4x2,Pan American,82KG,R1,2019
+23850,4465,Andris Brunovskis,9094,Richar Nogueira,L,0,Referee Decision,F2W 148,72KG,SPF,2020
+5942,4465,Andris Brunovskis,,Jimmy Tat,W,1,Points,American Nat.,76KG,4F,2014
+5943,4465,Andris Brunovskis,5930,Rodrigo Freitas,W,1,Omoplata,American Nat.,76KG,SF,2014
+6220,4465,Andris Brunovskis,613,Wellington Dias,W,1,Omoplata,Long Beach Open,76KG,F,2014
+6801,4465,Andris Brunovskis,975,Jonatas Gurgel,W,1,Adv,Pan American,76KG,R1,2015
+6809,4465,Andris Brunovskis,3313,Juan Kamezawa,W,1,"Pts: 4x4, Adv",Pan American,76KG,R2,2015
+6812,4465,Andris Brunovskis,5909,Thiago Abreu,W,1,"Pts: 0x0, Adv",Pan American,76KG,4F,2015
+7340,4465,Andris Brunovskis,,Thimothy Lee,W,1,Points,Las Vegas Open,76KG,4F,2015
+7341,4465,Andris Brunovskis,,Della Monica,W,1,Adv,Las Vegas Open,76KG,SF,2015
+7342,4465,Andris Brunovskis,,Omar French,W,1,Bow and arrow,Las Vegas Open,76KG,F,2015
+7433,4465,Andris Brunovskis,,Rafael Henrique,W,1,Kneebar,World Champ.,76KG,R1,2015
+7560,4465,Andris Brunovskis,,Josh Whincey,W,1,Omoplata,Sub Series Pro,ABS,SPF,2015
+8046,4465,Andris Brunovskis,222,Bruno Amorim,W,1,Omoplata,Asian Open,82KG,4F,2015
+8047,4465,Andris Brunovskis,,Hansel ko,W,1,Kneebar,Asian Open,82KG,SF,2015
+8048,4465,Andris Brunovskis,631,Rodrigo Caporal,W,1,Pts: 8x4,Asian Open,82KG,F,2015
+9269,4465,Andris Brunovskis,,Matias Simonelli,W,1,Pts: 16x4,Pan American,76KG,8F,2016
+11181,4465,Andris Brunovskis,,Johannes Anderson,W,1,Submission,Swedish Open,76KG,SF,2016
+11182,4465,Andris Brunovskis,,Paulo Peixoto,W,1,Points,Swedish Open,76KG,F,2016
+11564,4465,Andris Brunovskis,,Edipo Monteiro,W,1,DQ,European Open,76KG,8F,2017
+11572,4465,Andris Brunovskis,7376,Ilke Bulut,W,1,Cross choke,European Open,76KG,4F,2017
+12151,4465,Andris Brunovskis,7256,Jan Buatim,W,1,Bow and arrow,Pan American,76KG,R1,2017
+12164,4465,Andris Brunovskis,6368,Kevin Mahecha,W,1,Armbar,Pan American,76KG,8F,2017
+12574,4465,Andris Brunovskis,,Miles Ivankovic,W,1,Omoplata,Pan Pacific,76KG,SF,2017
+12575,4465,Andris Brunovskis,,Jeremy Umphries,W,1,Omoplata,Pan Pacific,76KG,F,2017
+12692,4465,Andris Brunovskis,6836,John Combs,W,1,Kneebar,F2W 31,82KG,SPF,2017
+12860,4465,Andris Brunovskis,,Ross Keeping,W,1,Omoplata,Las Vegas Open,82KG,4F,2017
+12861,4465,Andris Brunovskis,898,Bill Cooper,W,1,Pts: 8x6,Las Vegas Open,82KG,SF,2017
+12863,4465,Andris Brunovskis,7831,Diego Ramalho,W,1,Baratoplata,Las Vegas Open,82KG,F,2017
+12955,4465,Andris Brunovskis,,Yago Espindola,W,1,Omoplata,San Diego Open,82KG,4F,2017
+12958,4465,Andris Brunovskis,8081,Nathan Mendelsohn,W,1,Referee Decision,San Diego Open,82KG,SF,2017
+12960,4465,Andris Brunovskis,,Magid Hage,W,1,Pts: 2x0,San Diego Open,82KG,F,2017
+13686,4465,Andris Brunovskis,,Jin Ishimura,W,1,Triangle armbar,Asian Open,76KG,4F,2017
+13688,4465,Andris Brunovskis,,Tano Odilio,W,1,Pts: 6x0,Asian Open,76KG,SF,2017
+13690,4465,Andris Brunovskis,7645,Masahiro Iwasaki,W,1,Omoplata,Asian Open,76KG,F,2017
+15397,4465,Andris Brunovskis,,Douglas Kallin,W,1,Triangle armbar,Pan American,76KG,8F,2018
+18176,4465,Andris Brunovskis,7332,Hunter Ewald,W,1,Reverse omoplata,Long Beach Open,82KG,SF,2018
+18906,4465,Andris Brunovskis,,Thomas Mietz,W,1,Pts: 9x2,European Open,82KG,R1,2019
+18911,4465,Andris Brunovskis,7321,Darragh OConaill,W,1,N/A,European Open,82KG,4F,2019
+19343,4465,Andris Brunovskis,,Chad Shaule,W,1,Submission,Portland Open,82KG,SF,2019
+19345,4465,Andris Brunovskis,7143,Breno Bittencourt,W,1,Choke from back,Portland Open,82KG,F,2019

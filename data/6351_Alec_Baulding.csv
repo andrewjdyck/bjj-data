@@ -1,0 +1,73 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8016,6351,Alec Baulding,4655,Michael Liera,L,0,Pts: 10x4,Atlanta W. Open,82KG,SF,2015
+8023,6351,Alec Baulding,9338,Guybson Sa,L,0,Points,Atlanta Open,ABS,SF,2015
+8261,6351,Alec Baulding,6156,Tanner Rice,L,0,Referee Decision,Grand Slam LA,85KG,SF,2015
+8276,6351,Alec Baulding,224,Roberto Abreu,L,0,Pts: 6x0,Grand Slam LA,ABS,8F,2015
+9293,6351,Alec Baulding,4460,Jaime Canuto,L,0,Armbar,Pan American,82KG,8F,2016
+9992,6351,Alec Baulding,1003,Diogo Sampaio,L,0,Referee Decision,World Champ.,82KG,R2,2016
+10531,6351,Alec Baulding,410,Claudio Calasans,L,0,Pts: 2x0,Asian Open,88KG,F,2016
+11594,6351,Alec Baulding,4789,Marcos Tinoco,L,0,Pts: 4x2,European Open,82KG,F,2017
+13144,6351,Alec Baulding,6095,Mansher Khera,L,0,"Pts: 0x0, Adv",World Champ.,82KG,8F,2017
+14150,6351,Alec Baulding,7652,C. Negromonte,L,0,Points,London FNGO,85KG,F,2017
+14443,6351,Alec Baulding,8105,Tommy Langaker,L,0,Triangle,Swedish Open,ABS,F,2017
+14927,6351,Alec Baulding,8081,Nathan Mendelsohn,L,0,"Pts: 2x2, Pen",European Open,82KG,R1,2018
+15331,6351,Alec Baulding,8105,Tommy Langaker,L,0,Adv,London WO,82KG,F,2018
+15339,6351,Alec Baulding,8105,Tommy Langaker,L,0,Adv,London WO,ABS,F,2018
+15543,6351,Alec Baulding,8308,Max Lindblad,L,0,Pts: 4x2,Nordic Spring,ABS,F,2018
+15662,6351,Alec Baulding,9587,Eduardo Rios,L,0,Points,European NoGi,79KG,4F,2018
+16530,6351,Alec Baulding,7096,Josh Hinger,L,0,"Pts: 6x6, Pen",World Champ.,82KG,R2,2018
+17134,6351,Alec Baulding,7831,Diego Ramalho,L,0,Pts: 4x0,ACBJJ Poland,85KG,4F,2018
+17516,6351,Alec Baulding,8105,Tommy Langaker,L,0,Pts: 4x2,Copenhagen Open,ABS,F,2018
+20661,6351,Alec Baulding,10468,Nisar Loynab,L,0,Pts: 6x2,World Champ.,88KG,R1,2019
+21846,6351,Alec Baulding,6071,Gabriel Arges,L,0,Pts: 5x0,ADCC,88KG,R1,2019
+23121,6351,Alec Baulding,11111,Santeri Lilius,L,0,Pts: 12x4,European Open,88KG,R1,2020
+23436,6351,Alec Baulding,10638,Angelo Claiborne,L,0,Referee Decision,Miami WO,88KG,SF,2020
+23748,6351,Alec Baulding,11049,Kody Steele,L,0,Referee Decision,WNO,81KG,SPF,2020
+27603,6351,Alec Baulding,12566,Rodrigo Tatu,L,0,"Pts: 2x2, Adv",Pan American,88KG,8F,2021
+32511,6351,Alec Baulding,4542,Felipe Cesar,L,0,Pts: 6x2,Atlanta SPO,88KG,4F,2022
+35209,6351,Alec Baulding,13031,Lucas Lisboa,L,0,Toe hold,Atlanta FO,88KG,SF,2022
+35246,6351,Alec Baulding,10295,Italo Moura,L,0,Pts: 6x4,Atlanta FNGO,85KG,F,2022
+8015,6351,Alec Baulding,,Gregory Walker,W,1,Choke from back,Atlanta W. Open,82KG,4F,2015
+8022,6351,Alec Baulding,,Pedro Palhares,W,1,Points,Atlanta Open,ABS,4F,2015
+8118,6351,Alec Baulding,7760,Pedro Mello,W,1,Points,Dallas Open,88KG,SF,2015
+8120,6351,Alec Baulding,4789,Marcos Tinoco,W,1,Choke from back,Dallas Open,88KG,F,2015
+8258,6351,Alec Baulding,,Ryan Golgosky,W,1,"Pts: 0x0, Adv",Grand Slam LA,85KG,4F,2015
+8263,6351,Alec Baulding,,Matt Baker,W,1,Clock choke,Grand Slam LA,85KG,3RD,2015
+9056,6351,Alec Baulding,9640,Brian Beaury,W,1,Armbar,Atlanta W. Open,88KG,SF,2016
+9058,6351,Alec Baulding,,Steven Patterson,W,1,Adv,Atlanta W. Open,88KG,F,2016
+9279,6351,Alec Baulding,,Ryan Golgosky,W,1,"Pts: 0x0, Adv",Pan American,82KG,R1,2016
+10527,6351,Alec Baulding,,Marcelo Cortelassi,W,1,Choke from back,Asian Open,88KG,4F,2016
+10530,6351,Alec Baulding,8081,Nathan Mendelsohn,W,1,Pts: 2x0,Asian Open,88KG,SF,2016
+10621,6351,Alec Baulding,,Andrew Wooten,W,1,Points,Atlanta S. Open,88KG,F,2016
+10622,6351,Alec Baulding,,Pedro Palhares,W,1,N/A,Atlanta S. Open,ABS,4F,2016
+10623,6351,Alec Baulding,,Joao Soares,W,1,N/A,Atlanta S. Open,ABS,SF,2016
+10624,6351,Alec Baulding,,Joshua Bowling,W,1,Points,Atlanta S. Open,ABS,F,2016
+11585,6351,Alec Baulding,,Marcos Ntumu,W,1,Choke from back,European Open,82KG,8F,2017
+11589,6351,Alec Baulding,,Thomas Oyarzun,W,1,Submission,European Open,82KG,4F,2017
+11592,6351,Alec Baulding,7552,Isaque Bahiense,W,1,Choke from back,European Open,82KG,SF,2017
+13135,6351,Alec Baulding,7636,Vinicius Garcia,W,1,Pts: 10x2,World Champ.,82KG,R1,2017
+14134,6351,Alec Baulding,,Bradley Hill,W,1,Choke from back,London FO,88KG,4F,2017
+14135,6351,Alec Baulding,7695,Sebastian Brosche,W,1,Points,London FO,88KG,SF,2017
+14136,6351,Alec Baulding,,Isaac Dull,W,1,Adv,London FO,88KG,F,2017
+14147,6351,Alec Baulding,9637,Sergio Rios,W,1,Points,London FNGO,85KG,4F,2017
+14148,6351,Alec Baulding,,Isaac Dull,W,1,Points,London FNGO,85KG,SF,2017
+14433,6351,Alec Baulding,,Daniel Haglind,W,1,Submission,Swedish Open,88KG,SF,2017
+14434,6351,Alec Baulding,,Joachim Svenson,W,1,Submission,Swedish Open,88KG,F,2017
+14436,6351,Alec Baulding,,Martin Svenson,W,1,Cross choke,Swedish Open,ABS,R1,2017
+14438,6351,Alec Baulding,8308,Max Lindblad,W,1,"Pts: 0x0, Adv",Swedish Open,ABS,4F,2017
+14441,6351,Alec Baulding,,Thomas Johansen,W,1,Katagatame,Swedish Open,ABS,SF,2017
+15330,6351,Alec Baulding,,Eduardo Silva,W,1,N/A,London WO,82KG,RR,2018
+15338,6351,Alec Baulding,,S. Varshavskiy,W,1,N/A,London WO,ABS,RR,2018
+15540,6351,Alec Baulding,,Ricard Carneborn,W,1,Submission,Nordic Spring,94KG,F,2018
+15541,6351,Alec Baulding,,Ralf Carneborn,W,1,Submission,Nordic Spring,ABS,SF,2018
+15687,6351,Alec Baulding,,Bradley Hill,W,1,Points,Rome Open,82KG,SF,2018
+15688,6351,Alec Baulding,6033,Nic Ruben,W,1,Points,Rome Open,82KG,F,2018
+17511,6351,Alec Baulding,,Bruno Oliveira,W,1,Choke from back,Copenhagen Open,94KG,F,2018
+17512,6351,Alec Baulding,,Bruno Oliveira,W,1,Points,Copenhagen Open,ABS,4F,2018
+17515,6351,Alec Baulding,,Patrick Almeida,W,1,Choke from back,Copenhagen Open,ABS,SF,2018
+18145,6351,Alec Baulding,,K. Boehm,W,1,Referee Decision,ADCC EC Trials,88KG,R1,2018
+18146,6351,Alec Baulding,,Ryan Quinn,W,1,Kimura,ADCC EC Trials,88KG,4F,2018
+18147,6351,Alec Baulding,,R. Jimenez,W,1,Pts: 4x2,ADCC EC Trials,88KG,SF,2018
+18148,6351,Alec Baulding,,Dan Martinez,W,1,Pts: 4x0,ADCC EC Trials,88KG,F,2018
+32556,6351,Alec Baulding,,Ruben Coronado,W,1,N/A,Atlanta SPNGO,85KG,F,2022
+35207,6351,Alec Baulding,,Anthony Elbert,W,1,Cross choke,Atlanta FO,88KG,4F,2022

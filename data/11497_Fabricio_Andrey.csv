@@ -1,0 +1,99 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23919,11497,Fabricio Andrey,11423,Meyram Maquine,L,0,Pts: 8x2,BJJ Bet,65KG,SPF,2020
+24667,11497,Fabricio Andrey,11423,Meyram Maquine,L,0,Pts: 4x2,Grand Slam RJ,62KG,F,2020
+25874,11497,Fabricio Andrey,12080,Ruan Alvarenga,L,0,Katagatame,S. American NG,67KG,R1,2021
+27563,11497,Fabricio Andrey,7002,Jamil Hill-Taylor,L,0,"Pts: 0x0, Adv",Pan American,70KG,SF,2021
+29196,11497,Fabricio Andrey,10408,Israel Sousa,L,0,Pts: 2x0,World Pro,69KG,SF,2021
+30017,11497,Fabricio Andrey,11823,Diogo Reis,L,0,Inside heel hook,ADCC BR1 Trials,66KG,SF,2022
+32898,11497,Fabricio Andrey,11510,Samuel Nagai,L,0,Referee Decision,World Champ.,70KG,4F,2022
+33268,11497,Fabricio Andrey,11789,Mason Fowler,D,0.5,---,Polaris 20,ABS,RR,2022
+33273,11497,Fabricio Andrey,12491,Keith Krikorian,D,0.5,---,Polaris 20,ABS,RR,2022
+35008,11497,Fabricio Andrey,11823,Diogo Reis,L,0,Referee Decision,ADCC,66KG,4F,2022
+35097,11497,Fabricio Andrey,10159,Victor Hugo,L,0,Katagatame,ADCC,ABS,8F,2022
+35775,11497,Fabricio Andrey,11510,Samuel Nagai,L,0,Referee Decision,BJJ Stars,70KG,SPF,2022
+36174,11497,Fabricio Andrey,11223,Ethan Crelinsten,L,0,RNC,WNO,70KG,SPF,2022
+37595,11497,Fabricio Andrey,11423,Meyram Maquine,L,0,Pts: 2x0,Spyder RTBB,65KG,F,2023
+38381,11497,Fabricio Andrey,4163,Marcio Andre,L,0,"Pts: 4x4, Adv",Pan American,70KG,F,2023
+39475,11497,Fabricio Andrey,8884,Alex Sodre,L,0,"Pts: 0x0, Adv",Brasileiro,70KG,SF,2023
+40244,11497,Fabricio Andrey,11963,Diego Sodre,L,0,Referee Decision,World Champ.,70KG,SF,2023
+42213,11497,Fabricio Andrey,,Gairbek Ibragimov,L,0,Referee Decision,AIGA,70KG,RR,2023
+43175,11497,Fabricio Andrey,8974,Kaynan Duarte,L,0,Short choke,Polaris 25,ABS,F,2023
+24269,11497,Fabricio Andrey,,Fernando Henrique,W,1,Choke from back,Brasileiro CBJJE,70KG,SF,2020
+24270,11497,Fabricio Andrey,8884,Alex Sodre,W,1,Pts: 4x2,Brasileiro CBJJE,70KG,F,2020
+24660,11497,Fabricio Andrey,,Felipe Nacib,W,1,Loop choke,Grand Slam RJ,62KG,R1,2020
+24664,11497,Fabricio Andrey,,Wesley Santos,W,1,Short choke,Grand Slam RJ,62KG,4F,2020
+24666,11497,Fabricio Andrey,7657,Cleber Sousa,W,1,Bow and arrow,Grand Slam RJ,62KG,SF,2020
+26354,11497,Fabricio Andrey,,Kennedy Silva,W,1,Choke from back,SA Cont. Pro,69KG,R1,2021
+26364,11497,Fabricio Andrey,,Guilherme Santos,W,1,Pts: 6x0,SA Cont. Pro,69KG,R1,2021
+26374,11497,Fabricio Andrey,,Fernando Favari,W,1,Pts: 1x0,SA Cont. Pro,69KG,4F,2021
+26375,11497,Fabricio Andrey,10840,Diego Oliveira,W,1,Pts: 3x1,SA Cont. Pro,69KG,SF,2021
+26377,11497,Fabricio Andrey,9486,Murilo Amaral,W,1,Pts: 10x4,SA Cont. Pro,69KG,F,2021
+26511,11497,Fabricio Andrey,10840,Diego Oliveira,W,1,Pts: 2x0,SA Cont. Pro,LWA,4F,2021
+26514,11497,Fabricio Andrey,5078,Luan Carvalho,W,1,Pts: 11x3,SA Cont. Pro,LWA,SF,2021
+26515,11497,Fabricio Andrey,11658,Lucas Gualberto,W,1,Pts: 3x2,SA Cont. Pro,LWA,F,2021
+27230,11497,Fabricio Andrey,,Christian Mueckay,W,1,Choke from back,Grand Slam MIA,69KG,4F,2021
+27232,11497,Fabricio Andrey,6366,Brian Mahecha,W,1,Bow and arrow,Grand Slam MIA,69KG,SF,2021
+27233,11497,Fabricio Andrey,8632,Thiago Macedo,W,1,Pts: 3x2,Grand Slam MIA,69KG,F,2021
+27547,11497,Fabricio Andrey,5414,Osvaldo Moizinho,W,1,Choke from back,Pan American,70KG,R1,2021
+27556,11497,Fabricio Andrey,9074,Joao Mendes,W,1,Choke from back,Pan American,70KG,8F,2021
+27560,11497,Fabricio Andrey,10953,Danilo Moreira,W,1,Choke from back,Pan American,70KG,4F,2021
+27945,11497,Fabricio Andrey,,Julio Arantes,W,1,Pts: 7x0,Brasilia Pro,69KG,4F,2021
+27947,11497,Fabricio Andrey,12241,Higor Lima,W,1,Pts: 5x2,Brasilia Pro,69KG,SF,2021
+27948,11497,Fabricio Andrey,8231,Leo Saggioro,W,1,Choke,Brasilia Pro,69KG,F,2021
+28034,11497,Fabricio Andrey,,Yago Rodrigues,W,1,Triangle,Brasileiro,70KG,4F,2021
+28036,11497,Fabricio Andrey,11510,Samuel Nagai,W,1,Pts: 7x6,Brasileiro,70KG,SF,2021
+28038,11497,Fabricio Andrey,11949,Daniel Junior,W,1,RNC,Brasileiro,70KG,F,2021
+28493,11497,Fabricio Andrey,,Wesley Santos,W,1,Armbar,Grand Slam RJ,69KG,8F,2021
+28499,11497,Fabricio Andrey,,Klaus Maine,W,1,Submission,Grand Slam RJ,69KG,4F,2021
+28501,11497,Fabricio Andrey,8231,Leo Saggioro,W,1,Pts: 2x1,Grand Slam RJ,69KG,SF,2021
+28503,11497,Fabricio Andrey,11423,Meyram Maquine,W,1,Pts: 4x3,Grand Slam RJ,69KG,F,2021
+29186,11497,Fabricio Andrey,,Ruslan Yakubov,W,1,Choke from back,World Pro,69KG,R1,2021
+29192,11497,Fabricio Andrey,,A. Khadaev,W,1,Pts: 9x5,World Pro,69KG,4F,2021
+29199,11497,Fabricio Andrey,,Haidar Abbas,W,1,Pts: 4x2,World Pro,69KG,RPC,2021
+29200,11497,Fabricio Andrey,13389,Youngseung Cho,W,1,Pts: 5x1,World Pro,69KG,3RD,2021
+29478,11497,Fabricio Andrey,11919,Daniel Maira,W,1,Pts: 3x0,World Champ.,70KG,8F,2021
+29484,11497,Fabricio Andrey,9094,Richar Nogueira,W,1,Pts: 7x2,World Champ.,70KG,4F,2021
+29487,11497,Fabricio Andrey,8884,Alex Sodre,W,1,"Pts: 0x0, Adv",World Champ.,70KG,SF,2021
+29489,11497,Fabricio Andrey,7002,Jamil Hill-Taylor,W,1,Triangle,World Champ.,70KG,F,2021
+30003,11497,Fabricio Andrey,,Felipe Godoy,W,1,Triangle,ADCC BR1 Trials,66KG,R1,2022
+30010,11497,Fabricio Andrey,,Iago Siqueira,W,1,Pts: 6x0,ADCC BR1 Trials,66KG,R2,2022
+30015,11497,Fabricio Andrey,,Leandro Lima,W,1,Darce choke,ADCC BR1 Trials,66KG,4F,2022
+30019,11497,Fabricio Andrey,7657,Cleber Sousa,W,1,RNC,ADCC BR1 Trials,66KG,3RD,2022
+30213,11497,Fabricio Andrey,,Andres Duplat,W,1,RNC,ADCC BR2 Trials,66KG,R2,2022
+30219,11497,Fabricio Andrey,,Pablo Munhoz,W,1,Triangle,ADCC BR2 Trials,66KG,8F,2022
+30222,11497,Fabricio Andrey,,Iago Siqueira,W,1,Armbar,ADCC BR2 Trials,66KG,4F,2022
+30226,11497,Fabricio Andrey,,Rafael Montouro,W,1,RNC,ADCC BR2 Trials,66KG,SF,2022
+30228,11497,Fabricio Andrey,,Kaua Gabriel,W,1,RNC,ADCC BR2 Trials,66KG,F,2022
+31096,11497,Fabricio Andrey,,Romao Carvalho,W,1,Choke,Grand Slam LDN,69KG,4F,2022
+31100,11497,Fabricio Andrey,8231,Leo Saggioro,W,1,Triangle armlock,Grand Slam LDN,69KG,SF,2022
+31102,11497,Fabricio Andrey,8632,Thiago Macedo,W,1,Pts: 2x0,Grand Slam LDN,69KG,F,2022
+32055,11497,Fabricio Andrey,8884,Alex Sodre,W,1,Referee Decision,BJJ Stars,66KG,SPF,2022
+32146,11497,Fabricio Andrey,,Antonio Felix,W,1,Kimura,Brasileiro,70KG,4F,2022
+32151,11497,Fabricio Andrey,,Wilhiam Mateus,W,1,Triangle,Brasileiro,70KG,SF,2022
+32152,11497,Fabricio Andrey,9031,Kennedy Maciel,W,1,Pts: 8x2,Brasileiro,70KG,F,2022
+32891,11497,Fabricio Andrey,11187,Marcus Phelan,W,1,Pts: 2x0,World Champ.,70KG,8F,2022
+33281,11497,Fabricio Andrey,4996,Geo Martinez,D,0.5,---,Polaris 20,ABS,RR,2022
+33502,11497,Fabricio Andrey,,Jack Sear,W,1,Triangle,Honor Challenge,75KG,SF,2022
+33503,11497,Fabricio Andrey,,Alessio Sacchetti,W,1,Armbar,Honor Challenge,75KG,F,2022
+34211,11497,Fabricio Andrey,,Fabian Rodriguez,W,1,Referee Decision,WNO 14,70KG,SPF,2022
+35004,11497,Fabricio Andrey,12950,Cole Abate,W,1,Referee Decision,ADCC,66KG,R1,2022
+36994,11497,Fabricio Andrey,,Joao Duarte,W,1,Triangle,Rio SMO,76KG,4F,2023
+36998,11497,Fabricio Andrey,,Renan Rodrigues,W,1,Triangle,Rio SMO,76KG,SF,2023
+37172,11497,Fabricio Andrey,,Joao Machado,W,1,Loop choke,European Open,70KG,R1,2023
+37177,11497,Fabricio Andrey,10408,Israel Sousa,W,1,Pts: 2x0,European Open,70KG,4F,2023
+37182,11497,Fabricio Andrey,13093,Lucas Rodrigues,W,1,Kneebar,European Open,70KG,SF,2023
+37183,11497,Fabricio Andrey,8884,Alex Sodre,W,1,Pts: 2x0,European Open,70KG,F,2023
+37589,11497,Fabricio Andrey,6043,Lucas Pinheiro,W,1,Pts: 4x0,Spyder RTBB,65KG,4F,2023
+37594,11497,Fabricio Andrey,11963,Diego Sodre,W,1,Referee Decision,Spyder RTBB,65KG,SF,2023
+38373,11497,Fabricio Andrey,12102,Nick Salles,W,1,"Pts: 2x2, Adv",Pan American,70KG,8F,2023
+38379,11497,Fabricio Andrey,12918,Daniel Sathler,W,1,Pts: 8x6,Pan American,70KG,4F,2023
+38380,11497,Fabricio Andrey,8884,Alex Sodre,W,1,Referee Decision,Pan American,70KG,SF,2023
+39466,11497,Fabricio Andrey,,Douglas Ramos,W,1,Loop choke,Brasileiro,70KG,R1,2023
+39472,11497,Fabricio Andrey,12573,Sebastian Serpa,W,1,Referee Decision,Brasileiro,70KG,4F,2023
+40235,11497,Fabricio Andrey,,Artur Lanes,W,1,Triangle,World Champ.,70KG,8F,2023
+40241,11497,Fabricio Andrey,11248,Jonata Gomes,W,1,Referee Decision,World Champ.,70KG,4F,2023
+41110,11497,Fabricio Andrey,,Owen Jones,W,1,Referee Decision,Honor Challenge,70KG,SF,2023
+41111,11497,Fabricio Andrey,12491,Keith Krikorian,W,1,Referee Decision,Honor Challenge,70KG,F,2023
+42195,11497,Fabricio Andrey,,Xu qing,W,1,Armlock,AIGA,70KG,RR,2023
+43169,11497,Fabricio Andrey,,Owen Livesey,W,1,Pts: 1x0,Polaris 25,ABS,4F,2023
+43173,11497,Fabricio Andrey,11797,Giancarlo Bodoni,W,1,Pts: 1x0,Polaris 25,ABS,SF,2023

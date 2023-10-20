@@ -1,0 +1,56 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+31780,12573,Sebastian Serpa,,Joao Oliveira,L,0,Pts: 6x5,Orando Pro,69KG,F,2022
+32495,12573,Sebastian Serpa,12633,Ismael Santos,L,0,"Pts: 6x6, Adv",Atlanta SPO,70KG,4F,2022
+32879,12573,Sebastian Serpa,10840,Diego Oliveira,L,0,"Pts: 0x0, Adv",World Champ.,64KG,4F,2022
+33669,12573,Sebastian Serpa,,Rodrigo Gortari,L,0,Referee Decision,ABC Champ.,NA,F,2022
+33753,12573,Sebastian Serpa,11510,Samuel Nagai,L,0,Pts: 4x2,Orlando SMO,70KG,F,2022
+34521,12573,Sebastian Serpa,8305,Pedro Dias,L,0,Pts: 4x2,Chicago SMO,70KG,F,2022
+34580,12573,Sebastian Serpa,,Omar Alfadhli,L,0,Pts: 2x1,Grand Slam MIA,62KG,4F,2022
+35199,12573,Sebastian Serpa,12633,Ismael Santos,L,0,"Pts: 10x10, Adv",Atlanta FO,70KG,F,2022
+36182,12573,Sebastian Serpa,12539,Eduardo Roque,L,0,Pts: 2x0,Nashville Open,70KG,F,2022
+36195,12573,Sebastian Serpa,,Chris Passarrello,L,0,N/A,Nashville Open,ABS,SF,2022
+36305,12573,Sebastian Serpa,11423,Meyram Maquine,L,0,Pts: 3x1,World Pro,62KG,R1,2022
+36321,12573,Sebastian Serpa,10293,Jonas Andrade,L,0,Pts: 2x1,World Pro,62KG,3RD,2022
+37166,12573,Sebastian Serpa,10155,Malachi Edmond,L,0,Referee Decision,European Open,64KG,4F,2023
+37785,12573,Sebastian Serpa,,Joao Pedro,L,0,Pts: 2x0,Tampa Open,70KG,4F,2023
+38358,12573,Sebastian Serpa,8536,Yuta Shimada,L,0,"Pts: 4x4, Adv",Pan American,64KG,4F,2023
+39472,12573,Sebastian Serpa,11497,Fabricio Andrey,L,0,Referee Decision,Brasileiro,70KG,4F,2023
+39858,12573,Sebastian Serpa,10840,Diego Oliveira,L,0,Adv,Houston Open,70KG,F,2023
+40208,12573,Sebastian Serpa,,Diogo Pinheiro,L,0,Pts: 4x2,World Champ.,64KG,8F,2023
+41027,12573,Sebastian Serpa,,Joao Oliveira,L,0,Pts: 4x3,Jacksonville Pro,69KG,F,2023
+42871,12573,Sebastian Serpa,,Artur Oliveira,L,0,Pts: 2x2,ADGS Miami,69KG,8F,2023
+31779,12573,Sebastian Serpa,,Antonio Buchwald,W,1,Pts: 2x0,Orando Pro,69KG,SF,2022
+32874,12573,Sebastian Serpa,,Huthayfah Penney,W,1,"Pts: 4x4, Adv",World Champ.,64KG,8F,2022
+33666,12573,Sebastian Serpa,,Carlos Alvarez,W,1,Armbar,ABC Champ.,NA,R1,2022
+33667,12573,Sebastian Serpa,,Justin Diaz,W,1,Pts: 2x0,ABC Champ.,NA,4F,2022
+33668,12573,Sebastian Serpa,,Felipe Porto,W,1,Pts: 2x0,ABC Champ.,NA,SF,2022
+33748,12573,Sebastian Serpa,,Michael Mehl,W,1,Choke from back,Orlando SMO,70KG,R1,2022
+33749,12573,Sebastian Serpa,,Daniel Proano,W,1,Choke from back,Orlando SMO,70KG,4F,2022
+34519,12573,Sebastian Serpa,11093,Emilio Hernandez,W,1,DQ,Chicago SMO,70KG,SF,2022
+34587,12573,Sebastian Serpa,,Faris Kashmeeri,W,1,Pts: 5x0,Grand Slam MIA,62KG,RPC,2022
+34589,12573,Sebastian Serpa,,Shoya Ishiguro,W,1,Pts: 8x4,Grand Slam MIA,62KG,RPC,2022
+34591,12573,Sebastian Serpa,,Omar Alfadhli,W,1,Pts: 10x3,Grand Slam MIA,62KG,3RD,2022
+35194,12573,Sebastian Serpa,,Giovanni Marcelo,W,1,Choke from back,Atlanta FO,70KG,4F,2022
+35198,12573,Sebastian Serpa,11093,Emilio Hernandez,W,1,Pts: 4x2,Atlanta FO,70KG,SF,2022
+35786,12573,Sebastian Serpa,,Suraj Budhram,W,1,Pts: 5x0,Miami FO,70KG,SF,2022
+36181,12573,Sebastian Serpa,11093,Emilio Hernandez,W,1,N/A,Nashville Open,70KG,SF,2022
+36192,12573,Sebastian Serpa,,Joseph Watson,W,1,N/A,Nashville Open,ABS,4F,2022
+36316,12573,Sebastian Serpa,,Americo Mutunda,W,1,Toe hold,World Pro,62KG,RPC,2022
+36317,12573,Sebastian Serpa,,A. Almudhri,W,1,Toe hold,World Pro,62KG,RPC,2022
+36318,12573,Sebastian Serpa,,Huseyn Abaszada,W,1,Pts: 7x4,World Pro,62KG,RPC,2022
+36319,12573,Sebastian Serpa,8842,Wanki Chae,W,1,Pts: 2x0,World Pro,62KG,RPC,2022
+37162,12573,Sebastian Serpa,,Huthayfa Penney,W,1,Pts: 8x6,European Open,64KG,R1,2023
+38352,12573,Sebastian Serpa,7657,Cleber Sousa,W,1,DQ,Pan American,64KG,8F,2023
+39227,12573,Sebastian Serpa,,Suraj Budhram,W,1,Straight ankle lock,Miami Open,70KG,SF,2023
+39229,12573,Sebastian Serpa,,Joao Oliveira,W,1,"Pts: 2x2, Adv",Miami Open,70KG,F,2023
+39467,12573,Sebastian Serpa,12633,Ismael Santos,W,1,Pts: 2x0,Brasileiro,70KG,R1,2023
+39857,12573,Sebastian Serpa,,Felipe Brito,W,1,Points,Houston Open,70KG,SF,2023
+40203,12573,Sebastian Serpa,,Huthayfah Penney,W,1,Pts: 4x2,World Champ.,64KG,R1,2023
+41026,12573,Sebastian Serpa,,Henrique Lima,W,1,Pts: 4x3,Jacksonville Pro,69KG,SF,2023
+41367,12573,Sebastian Serpa,,Giovanni Carvalho,W,1,Toe hold,AJP US Nat,69KG,RR,2023
+41368,12573,Sebastian Serpa,,An Vu,W,1,Pts: 1x0,AJP US Nat,69KG,F,2023
+41543,12573,Sebastian Serpa,,Joao Oliveira,W,1,Referee Decision,Orlando SMO,70KG,SF,2023
+41544,12573,Sebastian Serpa,8305,Pedro Dias,W,1,"Pts: 0x0, Adv",Orlando SMO,70KG,F,2023
+42128,12573,Sebastian Serpa,11093,Emilio Hernandez,W,1,Points,Chicago SMO,70KG,RR,2023
+42130,12573,Sebastian Serpa,8305,Pedro Dias,W,1,Points,Chicago SMO,70KG,RR,2023
+42389,12573,Sebastian Serpa,,Pedro Nakano,W,1,Referee Decision,Blue Collar,NA,SPF,2023

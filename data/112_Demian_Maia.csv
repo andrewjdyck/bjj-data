@@ -1,0 +1,39 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+707,112,Demian Maia,4864,Alexandre Dantas,L,0,Points,Brasileiro,ABS,4F,2002
+720,112,Demian Maia,,Roger Graci.,L,0,Points,Team Nationals,O88KG,F,2002
+741,112,Demian Maia,505,Roger Gracie,L,0,Points,Team Nationals,O88KG,4F,2003
+939,112,Demian Maia,5873,Fabio Nascimento,L,0,Points,World Cup,88KG,SF,2003
+1195,112,Demian Maia,117,Ronaldo Souza,L,0,"Pts: 0x0, Pen",ADCC,88KG,F,2005
+1301,112,Demian Maia,422,Braulio Estima,L,0,"Pts: 0x0, Adv",World Champ.,88KG,SF,2005
+1391,112,Demian Maia,84,Alexandre Ribeiro,L,0,"Pts: 0x0, Adv",Pan American,ABS,4F,2006
+1470,112,Demian Maia,224,Roberto Abreu,L,0,Pts: 4x0,World Champ.,ABS,4F,2006
+1500,112,Demian Maia,320,Romulo Barral,L,0,Brabo choke,Brasileiro,88KG,SF,2006
+1513,112,Demian Maia,16,Marcelo Garcia,L,0,Pts: 2x0,Brasileiro,ABS,F,2006
+1820,112,Demian Maia,,Luiz Theodoro,L,0,Referee Decision,Super Challenge,ABS,4F,2007
+746,112,Demian Maia,,Leandro Borgo,W,1,Pts: 5x0,Team Nationals,O88KG,F,2003
+947,112,Demian Maia,,Ricardo Tozzi,W,1,Triangle,World Cup,ABS,R1,2003
+949,112,Demian Maia,5873,Fabio Nascimento,W,1,Choke from back,World Cup,ABS,4F,2003
+950,112,Demian Maia,1916,Fernando Paradeda,W,1,Points,World Cup,ABS,SF,2003
+951,112,Demian Maia,,Gabriel Napão,W,1,Points,World Cup,ABS,F,2003
+1187,112,Demian Maia,,Marko Helen,W,1,Pts: 3x0,ADCC,88KG,R1,2005
+1190,112,Demian Maia,,David Avellan,W,1,Pts: 3x0,ADCC,88KG,4F,2005
+1192,112,Demian Maia,481,Saulo Ribeiro,W,1,"Pts: 0x0, Pen",ADCC,88KG,SF,2005
+1254,112,Demian Maia,,Paulo Jacare,W,1,Pts: 8x0,World Cup,88KG,SF,2005
+1255,112,Demian Maia,117,Ronaldo Souza,W,1,Adv,World Cup,88KG,F,2005
+1297,112,Demian Maia,,Rodrigo Pnheiro,W,1,"Pts: 4x4, Adv",World Champ.,88KG,R1,2005
+1298,112,Demian Maia,,Antonio Borges,W,1,Choke from back,World Champ.,88KG,4F,2005
+1371,112,Demian Maia,1743,Paulo Gazze,W,1,Triangle,Pan American,88KG,4F,2006
+1372,112,Demian Maia,320,Romulo Barral,W,1,Pts: 4x2,Pan American,88KG,SF,2006
+1373,112,Demian Maia,5000,Givanildo Santana,W,1,Points,Pan American,88KG,F,2006
+1383,112,Demian Maia,921,Rafael Barbosa,W,1,Armbar,Pan American,ABS,R1,2006
+1464,112,Demian Maia,,Rodolfo Silva,W,1,Points,World Champ.,ABS,R1,2006
+1509,112,Demian Maia,320,Romulo Barral,W,1,Referee Decision,Brasileiro,ABS,4F,2006
+1512,112,Demian Maia,1403,Fernando Piero,W,1,Omoplata,Brasileiro,ABS,SF,2006
+1695,112,Demian Maia,,Yushin Okami,W,1,Points,ADCC,88KG,R1,2007
+1701,112,Demian Maia,576,Rafael Lovato,W,1,Points,ADCC,88KG,4F,2007
+1703,112,Demian Maia,477,Tarsis Humphreys,W,1,Points,ADCC,88KG,SF,2007
+1706,112,Demian Maia,1044,Flavio Almeida,W,1,Armbar,ADCC,88KG,F,2007
+1813,112,Demian Maia,637,Bruno Bastos,W,1,Pts: 3x0,Super Challenge,ABS,R1,2007
+32058,112,Demian Maia,,Alex Oliveira,W,1,Triangle,BJJ Stars,NA,SPF,2022
+33287,112,Demian Maia,,Ben Henderson,W,1,Referee Decision,Polaris 20,ABS,SPF,2022
+37603,112,Demian Maia,,Sangwook Kim,W,1,Katagatame,Spyder RTBB,ABS,SPF,2023

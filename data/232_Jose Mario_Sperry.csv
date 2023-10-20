@@ -1,0 +1,23 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+234,232,Jose Mario Sperry,550,Roberto Roleta,L,0,Points,World Champ.,100KG,4F,1998
+296,232,Jose Mario Sperry,886,Leonardo Leite,L,0,Pts: 4x0,World Champ.,100KG,F,1999
+301,232,Jose Mario Sperry,559,Rodrigo Comprido,L,0,Adv,World Champ.,ABS,SF,1999
+492,232,Jose Mario Sperry,,Mark Kerr,L,0,Pen,ADCC,ABS,SPF,2001
+801,232,Jose Mario Sperry,505,Roger Gracie,L,0,Pts: 5x0,ADCC,99KG,R1,2003
+64,232,Jose Mario Sperry,,Francisco Bueno,W,1,Wristlock,Atlantico Sul,100KG,F,1994
+122,232,Jose Mario Sperry,,Unknown,W,1,Choke,World Champ.,100KG,4F,1997
+123,232,Jose Mario Sperry,,Paulo Teodoro,W,1,N/A,World Champ.,100KG,SF,1997
+124,232,Jose Mario Sperry,481,Saulo Ribeiro,W,1,Points,World Champ.,ABS,R2,1997
+128,232,Jose Mario Sperry,553,Roberto Correa,W,1,Wristlock,World Champ.,ABS,4F,1997
+166,232,Jose Mario Sperry,,Muhammad Saleh,W,1,Points,ADCC,99KG,R1,1998
+168,232,Jose Mario Sperry,,Larry Parker,W,1,Armbar,ADCC,99KG,4F,1998
+169,232,Jose Mario Sperry,,Renato Verissimo,W,1,Choke,ADCC,99KG,SF,1998
+170,232,Jose Mario Sperry,,Ricardo Alves,W,1,Pts: 5x0,ADCC,99KG,F,1998
+186,232,Jose Mario Sperry,,Oleg Taktarov,W,1,Pts: 4x0,ADCC,ABS,4F,1998
+187,232,Jose Mario Sperry,,Simon Siasi,W,1,Footlock,ADCC,ABS,SF,1998
+242,232,Jose Mario Sperry,,Unknown,W,1,Cross choke,World Champ.,ABS,4F,1998
+244,232,Jose Mario Sperry,515,Royler Gracie,W,1,Clock choke,World Champ.,ABS,SF,1998
+245,232,Jose Mario Sperry,550,Roberto Roleta,W,1,Adv,World Champ.,ABS,F,1998
+372,232,Jose Mario Sperry,,Enson Inoe,W,1,Points,ADCC,ABS,SPF,1999
+3320,232,Jose Mario Sperry,52,Renzo Gracie,W,1,Pts: 2x0,ADCC,ABS,SPF,2011
+5066,232,Jose Mario Sperry,322,Fabio Gurgel,W,1,Referee Decision,ADCC,ABS,SPF,2013

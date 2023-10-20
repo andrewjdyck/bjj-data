@@ -1,0 +1,31 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+15233,8866,Thomas Halpin,6151,Hiago George,L,0,Pts: 5x0,Netherlands Pro,69KG,F,2018
+15657,8866,Thomas Halpin,7698,Gabriel Marangoni,L,0,Pts: 12x2,European NoGi,67KG,SF,2018
+16133,8866,Thomas Halpin,2999,Paulo Miyao,L,0,Pts: 6x0,World Pro,69KG,SF,2018
+16139,8866,Thomas Halpin,10004,Ali Monfaradi,L,0,Pts: 4x2,World Pro,69KG,RPC,2018
+19543,8866,Thomas Halpin,11223,Ethan Crelinsten,L,0,Armbar,Polaris 9,65KG,SPF,2019
+21867,8866,Thomas Halpin,8069,Pablo Mantovani,L,0,Pts: 13x0,ADCC,66KG,R1,2019
+22697,8866,Thomas Halpin,12003,Tye Ruotolo,L,0,Referee Decision,GrappleFest 7,73KG,SPF,2019
+22843,8866,Thomas Halpin,8884,Alex Sodre,L,0,Pts: 6x0,NoGi Worlds,67KG,4F,2019
+24381,8866,Thomas Halpin,9401,Ashley Williams,L,0,Referee Decision,Polaris Squads 2,70KG,SPF,2020
+32246,8866,Thomas Halpin,,Thomas Kartas,L,0,DQ,ADCC EU Trials,66KG,R1,2022
+36814,8866,Thomas Halpin,,Anthony Oliveira,L,0,Pts: 14x0,NoGi Worlds,67KG,4F,2022
+15223,8866,Thomas Halpin,,Alejandro Carreras,W,1,Pts: 7x4,Spain Nat. Pro,69KG,SF,2018
+15224,8866,Thomas Halpin,,Wojciech Piekut,W,1,Kneebar,Spain Nat. Pro,69KG,F,2018
+15241,8866,Thomas Halpin,,Krzysztof Suchor,W,1,Kneebar,Netherlands Pro,ABS,SF,2018
+15242,8866,Thomas Halpin,,Krzysztof Flak,W,1,Kneebar,Netherlands Pro,ABS,F,2018
+15656,8866,Thomas Halpin,,Unknown,W,1,Kneebar,European NoGi,67KG,4F,2018
+16128,8866,Thomas Halpin,,Alberto Serrano,W,1,Darce choke,World Pro,69KG,R1,2018
+16130,8866,Thomas Halpin,,Jorge Nakamura,W,1,Kneebar,World Pro,69KG,4F,2018
+16138,8866,Thomas Halpin,9697,Sergio Calderon,W,1,Kneebar,World Pro,69KG,RPC,2018
+16907,8866,Thomas Halpin,,Igor Terreco,W,1,Armbar,Polaris 7,68KG,SPF,2018
+18509,8866,Thomas Halpin,,Brett Johns,W,1,Inside heel hook,Polaris 8,66KG,SPF,2018
+20195,8866,Thomas Halpin,,Seba Palmdahl,W,1,Pts: 3x0,ADCC EU Trials,66KG,N/A,2019
+20196,8866,Thomas Halpin,,Adam Gorny,W,1,RNC,ADCC EU Trials,66KG,N/A,2019
+20197,8866,Thomas Halpin,,Ali Gherbi,W,1,Inside heel hook,ADCC EU Trials,66KG,N/A,2019
+20198,8866,Thomas Halpin,,J. Andrejczuk,W,1,Inside heel hook,ADCC EU Trials,66KG,N/A,2019
+20199,8866,Thomas Halpin,,T. Kokkonen,W,1,RNC,ADCC EU Trials,66KG,N/A,2019
+22840,8866,Thomas Halpin,11093,Emilio Hernandez,W,1,Kneebar,NoGi Worlds,67KG,R1,2019
+24067,8866,Thomas Halpin,,Dino Bucalet,W,1,Triangle,Polaris Squads,ABS,RR,2020
+24068,8866,Thomas Halpin,,Tommi Pulkkanen,D,0.5,---,Polaris Squads,ABS,RR,2020
+35111,8866,Thomas Halpin,,Alessio Sacchetti,W,1,Referee Decision,Polaris,N/A,SPF,2022

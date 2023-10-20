@@ -1,0 +1,47 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+815,573,Fabricio Werdum,9,Marcio Cruz,L,0,Points,ADCC,O99KG,F,2003
+825,573,Fabricio Werdum,,A. Cacareco,L,0,Pts: 9x4,ADCC,ABS,SF,2003
+844,573,Fabricio Werdum,9,Marcio Cruz,L,0,Pts: 7x0,World Champ.,ABS,SF,2003
+916,573,Fabricio Werdum,4864,Alexandre Dantas,L,0,Toe hold,Pan American,O100KG,SF,2003
+924,573,Fabricio Werdum,9,Marcio Cruz,L,0,Armbar,Pan American,ABS,F,2003
+945,573,Fabricio Werdum,886,Leonardo Leite,L,0,N/A,World Cup,O100KG,F,2003
+1074,573,Fabricio Werdum,117,Ronaldo Souza,L,0,Pts: 10x0,World Cup,ABS,SF,2004
+1217,573,Fabricio Werdum,,Jeff Monson,L,0,Pts: 2x0,ADCC,O99KG,SF,2005
+1229,573,Fabricio Werdum,505,Roger Gracie,L,0,RNC,ADCC,ABS,4F,2005
+1665,573,Fabricio Werdum,144,Andre Galvao,L,0,Referee Decision,ADCC,ABS,4F,2007
+2050,573,Fabricio Werdum,607,Gabriel Vella,L,0,Points,Capital Challenge,O99KG,SF,2008
+2051,573,Fabricio Werdum,886,Leonardo Leite,L,0,Points,Capital Challenge,O99KG,3PLC,2008
+3299,573,Fabricio Werdum,733,Vinny Magalhaes,L,0,Pts: 2x0,ADCC,O99KG,F,2011
+18097,573,Fabricio Werdum,5655,Lucas Barbosa,D,0.5,---,Spyder Inv. Final,ABS,SPF,2018
+688,573,Fabricio Werdum,,Elvis Sinosic,W,1,Kimura,World Champ.,O100KG,R1,2002
+810,573,Fabricio Werdum,,T. Kosaka,W,1,Points,ADCC,O99KG,R1,2003
+812,573,Fabricio Werdum,,Jehad Hamdan,W,1,Points,ADCC,O99KG,4F,2003
+814,573,Fabricio Werdum,,Mike Van Arsdale,W,1,Armbar,ADCC,O99KG,SF,2003
+821,573,Fabricio Werdum,,Matt Lindland,W,1,Armbar,ADCC,ABS,R1,2003
+824,573,Fabricio Werdum,,Akira Soji,W,1,Armbar,ADCC,ABS,4F,2003
+828,573,Fabricio Werdum,9,Marcio Cruz,W,1,Pts: 6x0,ADCC,ABS,3PLC,2003
+846,573,Fabricio Werdum,,Vini. Antunes,W,1,Wristlock,World Champ.,O100KG,R1,2003
+849,573,Fabricio Werdum,,Leo. Montenegro,W,1,Points,World Champ.,O100KG,4F,2003
+850,573,Fabricio Werdum,,Adriano Camolesi,W,1,Points,World Champ.,O100KG,SF,2003
+852,573,Fabricio Werdum,886,Leonardo Leite,W,1,Points,World Champ.,O100KG,F,2003
+921,573,Fabricio Werdum,,Jorge Oliveira,W,1,Armbar,Pan American,ABS,4F,2003
+923,573,Fabricio Werdum,384,Roberto Tozi,W,1,N/A,Pan American,ABS,SF,2003
+942,573,Fabricio Werdum,,Alexandre,W,1,Kimura,World Cup,O100KG,R1,2003
+944,573,Fabricio Werdum,3357,Mario Esfiha,W,1,Points,World Cup,O100KG,SF,2003
+1062,573,Fabricio Werdum,,Fabiano Sheirner,W,1,Points,World Champ.,O100KG,SF,2004
+1064,573,Fabricio Werdum,437,Fernando Terere,W,1,Points,World Champ.,O100KG,F,2004
+1211,573,Fabricio Werdum,,Denis Roberts,W,1,Pts: 7x0,ADCC,O99KG,R1,2005
+1215,573,Fabricio Werdum,3099,Marcio Corleta,W,1,Pts: 2x0,ADCC,O99KG,4F,2005
+1218,573,Fabricio Werdum,1736,Daniel Simoes,W,1,Pts: 5x0,ADCC,O99KG,3PLC,2005
+1220,573,Fabricio Werdum,,Reese Andy,W,1,Heel Hook,ADCC,ABS,R1,2005
+1661,573,Fabricio Werdum,,Mario Rinaldi,W,1,Americana,ADCC,ABS,R1,2007
+1717,573,Fabricio Werdum,,Elvis Sinosic,W,1,Armbar,ADCC,O99KG,R1,2007
+1720,573,Fabricio Werdum,,Darren Andy,W,1,Points,ADCC,O99KG,SF,2007
+2048,573,Fabricio Werdum,,Luis Fernando,W,1,Points,Capital Challenge,O99KG,4F,2008
+2284,573,Fabricio Werdum,,Rogent Lorent,W,1,Kimura,ADCC,O99KG,R1,2009
+2288,573,Fabricio Werdum,,Tomasz Janiszewski,W,1,Points,ADCC,O99KG,4F,2009
+2292,573,Fabricio Werdum,481,Saulo Ribeiro,W,1,Points,ADCC,O99KG,SF,2009
+2293,573,Fabricio Werdum,224,Roberto Abreu,W,1,Points,ADCC,O99KG,F,2009
+3252,573,Fabricio Werdum,1757,Alexander Trans,W,1,Pts: 2x0,ADCC,O99KG,R1,2011
+3276,573,Fabricio Werdum,,Jeff Monson,W,1,Armbar,ADCC,O99KG,4F,2011
+3289,573,Fabricio Werdum,224,Roberto Abreu,W,1,Points,ADCC,O99KG,SF,2011

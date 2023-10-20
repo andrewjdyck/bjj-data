@@ -1,0 +1,93 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+78,481,Saulo Ribeiro,550,Roberto Roleta,L,0,Referee Decision,Pan American,88KG,F,1996
+82,481,Saulo Ribeiro,553,Roberto Correa,L,0,Pts: 4x2,Pan American,ABS,SF,1996
+89,481,Saulo Ribeiro,550,Roberto Roleta,L,0,Armbar,Brasileiro,88KG,F,1996
+124,481,Saulo Ribeiro,232,Mario Sperry,L,0,Points,World Champ.,ABS,R2,1997
+341,481,Saulo Ribeiro,,Jeff Monson,L,0,Adv,ADCC,99KG,F,1999
+532,481,Saulo Ribeiro,,Sanae Kikuta,L,0,Pts: 3x0,ADCC,88KG,F,2001
+565,481,Saulo Ribeiro,93,Ricardo Arona,L,0,Pts: 2x0,ADCC,ABS,4F,2001
+584,481,Saulo Ribeiro,86,Fernando Margarida,L,0,Pts: 2x0,World Champ.,ABS,F,2001
+599,481,Saulo Ribeiro,86,Fernando Margarida,L,0,Baseball choke,World Champ.,88KG,F,2001
+705,481,Saulo Ribeiro,9,Marcio Cruz,L,0,Pts: 2x0,World Champ.,ABS,F,2002
+823,481,Saulo Ribeiro,1369,Dean Lister,L,0,Kneebar,ADCC,ABS,4F,2003
+1093,481,Saulo Ribeiro,86,Fernando Margarida,L,0,Pts: 4x2,World Cup,94KG,SF,2004
+1192,481,Saulo Ribeiro,112,Demian Maia,L,0,"Pts: 0x0, Pen",ADCC,88KG,SF,2005
+1253,481,Saulo Ribeiro,117,Ronaldo Souza,L,0,Pts: 8x0,World Cup,88KG,SF,2005
+1268,481,Saulo Ribeiro,,Gabriel Napao,L,0,Pts: 5x0,World Cup,O75KG,4F,2005
+1325,481,Saulo Ribeiro,505,Roger Gracie,L,0,Cross choke,World Champ.,ABS,SF,2005
+1574,481,Saulo Ribeiro,919,Pablo Popovitch,L,0,"Pts: 0x0, Adv",GQ All Star Pro,81KG,F,2007
+1687,481,Saulo Ribeiro,1583,Mike Fowler,L,0,Toe hold,ADCC,77KG,4F,2007
+1759,481,Saulo Ribeiro,320,Romulo Barral,L,0,Pts: 6x0,World Champ.,88KG,F,2007
+2292,481,Saulo Ribeiro,573,Fabricio Werdum,L,0,Points,ADCC,O99KG,SF,2009
+2294,481,Saulo Ribeiro,,Jeff Monson,L,0,Points,ADCC,O99KG,3RD,2009
+86,481,Saulo Ribeiro,,Unknown,W,1,Points,Brasileiro,88KG,4F,1996
+88,481,Saulo Ribeiro,,Ricardo Herriott,W,1,Points,Brasileiro,88KG,SF,1996
+116,481,Saulo Ribeiro,,Guilherme Santos,W,1,Adv,World Champ.,82KG,4F,1997
+118,481,Saulo Ribeiro,,Rony Rustico,W,1,Adv,World Champ.,82KG,SF,1997
+119,481,Saulo Ribeiro,12,Nino Schembri,W,1,Adv,World Champ.,82KG,F,1997
+135,481,Saulo Ribeiro,,Ricardo Americano,W,1,Points,Copa Pele,N/A,SPF,1997
+190,481,Saulo Ribeiro,,Ze Marcello,W,1,Pts: 2x0,Super Liga,ABS,4F,1998
+192,481,Saulo Ribeiro,,Ismael Sousa,W,1,Pts: 13x0,Super Liga,ABS,SF,1998
+194,481,Saulo Ribeiro,6403,Leo Dalla,W,1,Pts: 3x0,Super Liga,ABS,F,1998
+229,481,Saulo Ribeiro,,Anderson Xavier,W,1,Points,World Champ.,94KG,4F,1998
+231,481,Saulo Ribeiro,627,Murilo Bustamante,W,1,Adv,World Champ.,94KG,SF,1998
+232,481,Saulo Ribeiro,322,Fabio Gurgel,W,1,Pts: 2x0,World Champ.,94KG,F,1998
+250,481,Saulo Ribeiro,322,Fabio Gurgel,W,1,Adv,Oscar de JJ,94KG,SPF,1998
+289,481,Saulo Ribeiro,,Marcelo Hertz,W,1,Adv,World Champ.,88KG,R1,1999
+290,481,Saulo Ribeiro,5000,Givanildo Santana,W,1,Adv,World Champ.,88KG,4F,1999
+291,481,Saulo Ribeiro,,Ze Marcello,W,1,Adv,World Champ.,88KG,SF,1999
+293,481,Saulo Ribeiro,550,Roberto Roleta,W,1,Adv,World Champ.,88KG,F,1999
+334,481,Saulo Ribeiro,,Mourat Ozov,W,1,Choke,ADCC,99KG,R1,1999
+338,481,Saulo Ribeiro,,Vernon White,W,1,Pts: 16x0,ADCC,99KG,4F,1999
+339,481,Saulo Ribeiro,627,Murilo Bustamante,W,1,Pts: 5x0,ADCC,99KG,SF,1999
+399,481,Saulo Ribeiro,,Roberto Ferreira,W,1,Points,World Champ.,100KG,R1,2000
+400,481,Saulo Ribeiro,,Adilson Lima,W,1,Points,World Champ.,100KG,4F,2000
+401,481,Saulo Ribeiro,10430,Gabriel Gonzaga,W,1,Points,World Champ.,100KG,SF,2000
+402,481,Saulo Ribeiro,1736,Daniel Simoes,W,1,Points,World Champ.,100KG,F,2000
+433,481,Saulo Ribeiro,,Jerry Bolander,W,1,Pts: 2x0,ADCC,88KG,R1,2000
+437,481,Saulo Ribeiro,,Dave Menne,W,1,RNC,ADCC,88KG,4F,2000
+439,481,Saulo Ribeiro,,Sasha Savko,W,1,Pts: 3x2,ADCC,88KG,SF,2000
+440,481,Saulo Ribeiro,591,Ricardo Liborio,W,1,Pen,ADCC,88KG,F,2000
+521,481,Saulo Ribeiro,1994,Travis Lutter,W,1,Pts: 2x0,ADCC,88KG,R1,2001
+527,481,Saulo Ribeiro,,R. Anderson,W,1,Points,ADCC,88KG,4F,2001
+530,481,Saulo Ribeiro,12,Nino Schembri,W,1,Pen,ADCC,88KG,SF,2001
+561,481,Saulo Ribeiro,,T. Yano,W,1,Pts: 11x2,ADCC,ABS,R1,2001
+595,481,Saulo Ribeiro,1297,Roger Coelho,W,1,Points,World Champ.,88KG,4F,2001
+598,481,Saulo Ribeiro,,Murilo Rupp,W,1,Points,World Champ.,88KG,SF,2001
+671,481,Saulo Ribeiro,5873,Fabio Nascimento,W,1,Points,World Champ.,88KG,4F,2002
+672,481,Saulo Ribeiro,1382,Marcel Louzado,W,1,Pts: 4x0,World Champ.,88KG,SF,2002
+674,481,Saulo Ribeiro,,Erik Wanderlei,W,1,Pts: 7x0,World Champ.,88KG,F,2002
+691,481,Saulo Ribeiro,5873,Fabio Nascimento,W,1,Bow and arrow,World Champ.,ABS,R1,2002
+699,481,Saulo Ribeiro,553,Roberto Correa,W,1,Pts: 4x2,World Champ.,ABS,4F,2002
+703,481,Saulo Ribeiro,10430,Gabriel Gonzaga,W,1,Pts: 3x0,World Champ.,ABS,SF,2002
+790,481,Saulo Ribeiro,,Yuki Sasaki,W,1,Points,ADCC,88KG,R1,2003
+794,481,Saulo Ribeiro,559,Rodrigo Comprido,W,1,Pts: 2x0,ADCC,88KG,4F,2003
+796,481,Saulo Ribeiro,4965,David Terrell,W,1,Referee Decision,ADCC,88KG,SF,2003
+797,481,Saulo Ribeiro,117,Ronaldo Souza,W,1,Pts: 3x0,ADCC,88KG,F,2003
+819,481,Saulo Ribeiro,,Jeff Monson,W,1,Referee Decision,ADCC,ABS,R1,2003
+836,481,Saulo Ribeiro,,Unknown,W,1,RNC,Arnold Classic,88KG,NA,2003
+837,481,Saulo Ribeiro,,R. Lovato Jr,W,1,Katagatame,Arnold Classic,88KG,NA,2003
+1092,481,Saulo Ribeiro,5873,Fabio Nascimento,W,1,Points,World Cup,94KG,4F,2004
+1118,481,Saulo Ribeiro,,Jason Miller,W,1,Points,GQ Pro 16,ABS,N/A,2005
+1119,481,Saulo Ribeiro,921,Rafael Barbosa,W,1,Pts: 3x0,GQ Pro 16,ABS,4F,2005
+1121,481,Saulo Ribeiro,,David Avellan,W,1,Points,GQ Pro 16,ABS,SF,2005
+1185,481,Saulo Ribeiro,,L. Papadopoulis,W,1,Pts: 3x0,ADCC,88KG,R1,2005
+1189,481,Saulo Ribeiro,720,Jorge Patino,W,1,Pts: 10x0,ADCC,88KG,4F,2005
+1194,481,Saulo Ribeiro,,Dennis Hallman,W,1,Triangle-armbar,ADCC,88KG,3PLC,2005
+1483,481,Saulo Ribeiro,1031,Jake Shields,W,1,Pts: 2x1,LA Sub-X,ABS,SPF,2006
+1569,481,Saulo Ribeiro,,Kamal Shalorus,W,1,"Pts: 0x0, Adv",GQ All Star Pro,81KG,4F,2007
+1572,481,Saulo Ribeiro,1382,Marcel Louzado,W,1,Pts: 6x2,GQ All Star Pro,81KG,SF,2007
+1635,481,Saulo Ribeiro,,Marcelo Braga,W,1,Armbar,Pan American,88KG,4F,2007
+1636,481,Saulo Ribeiro,,Ailton Barbosa,W,1,Choke from back,Pan American,88KG,SF,2007
+1637,481,Saulo Ribeiro,1223,Cassio Werneck,W,1,Points,Pan American,88KG,F,2007
+1685,481,Saulo Ribeiro,,Takefuni Hanai,W,1,Submission,ADCC,77KG,R1,2007
+1756,481,Saulo Ribeiro,813,Raphael Abi-Rihan,W,1,Pts: 4x0,World Champ.,88KG,4F,2007
+1757,481,Saulo Ribeiro,477,Tarsis Humphreys,W,1,"Pts: 2x2, Adv",World Champ.,88KG,SF,2007
+1791,481,Saulo Ribeiro,9941,Edson Diniz,W,1,RNC,NoGi Pan Am.,88KG,SF,2007
+1792,481,Saulo Ribeiro,320,Romulo Barral,W,1,Referee Decision,NoGi Pan Am.,88KG,F,2007
+2017,481,Saulo Ribeiro,,Jason Bukich,W,1,Pts: 8x0,NoGi Worlds,88KG,4F,2008
+2020,481,Saulo Ribeiro,,Igor Gracie,W,1,Pts: 7x0,NoGi Worlds,88KG,SF,2008
+2021,481,Saulo Ribeiro,1322,Gregor Gracie,W,1,Pts: 3x0,NoGi Worlds,88KG,F,2008
+2286,481,Saulo Ribeiro,,Kouji Kanechika,W,1,Points,ADCC,O99KG,R1,2009
+2289,481,Saulo Ribeiro,320,Romulo Barral,W,1,Points,ADCC,O99KG,4F,2009
+5873,481,Saulo Ribeiro,559,Rodrigo Comprido,D,0.5,---,Metamoris 4,ABS,SPF,2014

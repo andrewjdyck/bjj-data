@@ -1,0 +1,46 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+14389,9361,Guilherme Cordiviola,680,Igor Silva,L,0,Triangle,Grand Slam RJ,110KG,SF,2017
+17674,9361,Guilherme Cordiviola,8100,Rudson Mateus,L,0,Referee Decision,Gracie Pro,ABS,F,2018
+18332,9361,Guilherme Cordiviola,4521,Erberth Santos,L,0,Pts: 2x0,Grand Slam RJ,110KG,4F,2018
+20353,9361,Guilherme Cordiviola,7537,Felipe Bezerra,L,0,Injury,Brasileiro,O100KG,4F,2019
+21275,9361,Guilherme Cordiviola,10199,Guthierry Barbosa,L,0,Referee Decision,Chicago SMO,ABS,4F,2019
+21401,9361,Guilherme Cordiviola,6337,Arnaldo Maidana,L,0,Brabo choke,Twin Cities Inv.,ABS,4F,2019
+23246,9361,Guilherme Cordiviola,,Joseph Watson,L,0,Points,Atlanta WO,ABS,R1,2020
+24589,9361,Guilherme Cordiviola,2403,Joao Rocha,L,0,Choke from back,American Nats,O100KG,F,2020
+24603,9361,Guilherme Cordiviola,9250,Gabriel Almeida,L,0,Toe hold,American Nats,ABS,SF,2020
+24631,9361,Guilherme Cordiviola,,John Hansen,L,0,Pts: 2x0,American NGN,O97KG,F,2020
+24638,9361,Guilherme Cordiviola,9250,Gabriel Almeida,L,0,"Pts: 2x2, Adv",American NGN,ABS,4F,2020
+26911,9361,Guilherme Cordiviola,,Walker Madden,L,0,Referee Decision,F2W 176,124KG,SPF,2021
+28188,9361,Guilherme Cordiviola,10159,Victor Hugo,L,0,Katagatame,NoGi Worlds,ABS,8F,2021
+28330,9361,Guilherme Cordiviola,12203,Austin Baker,L,0,RNC,NoGi Worlds,O97KG,8F,2021
+29577,9361,Guilherme Cordiviola,,Fellipe Pena,L,0,Armbar,World Champ.,100KG,8F,2021
+33026,9361,Guilherme Cordiviola,11991,Pedro Marinho,L,0,Pts: 2x0,World Champ.,ABS,R1,2022
+42930,9361,Guilherme Cordiviola,224,Roberto Abreu,L,0,N/A,ADGS Miami,120KG,4F,2023
+42936,9361,Guilherme Cordiviola,12055,Yatan Bueno,L,0,Pts: 1x1,ADGS Miami,120KG,RPC,2023
+14387,9361,Guilherme Cordiviola,6631,Igor Schneider,W,1,Pts: 3x0,Grand Slam RJ,110KG,4F,2017
+14394,9361,Guilherme Cordiviola,6631,Igor Schneider,W,1,Referee Decision,Grand Slam RJ,3RD,RPC,2017
+16287,9361,Guilherme Cordiviola,,Kitner Mendonca,W,1,Adv,Brasileiro,O100KG,R1,2018
+17195,9361,Guilherme Cordiviola,6253,Diego Borges,W,1,"Pts: 0x0, Adv",Team Nationals,O76KG,F,2018
+17670,9361,Guilherme Cordiviola,,Renan Vieira,W,1,Referee Decision,Gracie Pro,ABS,4F,2018
+17672,9361,Guilherme Cordiviola,,Rafael Braga,W,1,Adv,Gracie Pro,ABS,SF,2018
+18326,9361,Guilherme Cordiviola,9180,Vinicius Trator,W,1,"Pts: 0x0, Adv",Grand Slam RJ,110KG,R1,2018
+18327,9361,Guilherme Cordiviola,,Vandre Barbosa,W,1,"Pts: 0x0, Adv",Grand Slam RJ,110KG,8F,2018
+18339,9361,Guilherme Cordiviola,6631,Igor Schneider,W,1,Referee Decision,Grand Slam RJ,110KG,3RD,2018
+20347,9361,Guilherme Cordiviola,,Kitner Moura,W,1,Points,Brasileiro,O100KG,R1,2019
+21281,9361,Guilherme Cordiviola,10199,Guthierry Barbosa,W,1,"Pts: 0x0, Adv",Chicago SMNGO,ABS,F,2019
+21398,9361,Guilherme Cordiviola,,Joe Swore,W,1,Submission,Twin Cities Inv.,ABS,R1,2019
+24598,9361,Guilherme Cordiviola,,Charles McGuire,W,1,Submission,American Nats,ABS,8F,2020
+24599,9361,Guilherme Cordiviola,9407,Alexandre Molinaro,W,1,Arm in Ezekiel,American Nats,ABS,4F,2020
+24630,9361,Guilherme Cordiviola,,Yuri Santos,W,1,Katagatame,American NGN,O97KG,SF,2020
+24637,9361,Guilherme Cordiviola,,Francisco Leon,W,1,"Pts: 0x0, Adv",American NGN,ABS,R1,2020
+25751,9361,Guilherme Cordiviola,,Stuart Maddoc,W,1,Points,Charleston Open,O100KG,F,2021
+25753,9361,Guilherme Cordiviola,,Charles McGuire,W,1,Katagatame,Charleston Open,ABS,4F,2021
+25755,9361,Guilherme Cordiviola,,Stuart Maddoc,W,1,Points,Charleston Open,ABS,SF,2021
+28178,9361,Guilherme Cordiviola,,Nick Ronan,W,1,North south choke,NoGi Worlds,ABS,R1,2021
+29571,9361,Guilherme Cordiviola,11354,Brian Giorgio,W,1,Referee Decision,World Champ.,100KG,R1,2021
+30759,9361,Guilherme Cordiviola,,Adam Maslach,W,1,Referee Decision,F2W 196,NA,SPF,2022
+41158,9361,Guilherme Cordiviola,13021,Gabriel Oliveira,W,1,Pts: 3x0,American Nats,O100KG,4F,2023
+41160,9361,Guilherme Cordiviola,,Renato Tagliari,W,1,Pts: 2x0,American Nats,O100KG,SF,2023
+41162,9361,Guilherme Cordiviola,13438,Matheus Menezes,W,1,Katagatame,American Nats,O100KG,F,2023
+41227,9361,Guilherme Cordiviola,11939,Jackson Douglas,W,1,"Pts: 0x0, Adv",American NNG,O97KG,SF,2023
+41229,9361,Guilherme Cordiviola,7704,Helton Jose,W,1,Referee Decision,American NNG,ABS,R1,2023

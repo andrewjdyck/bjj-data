@@ -1,0 +1,220 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4909,4328,AJ Agazarm,289,Alan Finfou,L,0,Referee Decision,European NoGi,ABS,SF,2013
+4923,4328,AJ Agazarm,443,Claudio Mattos,L,0,Adv,Rio Open,76KG,F,2013
+4945,4328,AJ Agazarm,2035,Vitor Oliveira,L,0,Armbar,American Nats,ABS,F,2013
+4972,4328,AJ Agazarm,484,Murilo Santana,L,0,Choke,NoGi Pan Am.,ABS,SF,2013
+5001,4328,AJ Agazarm,419,Leonardo Vieira,L,0,Referee Decision,ADCC,77KG,4F,2013
+5078,4328,AJ Agazarm,3122,Luiz Panza,L,0,Armbar,Brasileiro NoGi,ABS,F,2013
+5105,4328,AJ Agazarm,9706,Marcelo Mafra,L,0,Referee Decision,NoGi Worlds,73KG,SF,2013
+5121,4328,AJ Agazarm,875,Lucas Leite,L,0,Adv,NoGi Worlds,ABS,4F,2013
+5160,4328,AJ Agazarm,5414,Osvaldo Moizinho,L,0,Adv,Las Vegas Open,76KG,SF,2013
+5256,4328,AJ Agazarm,6563,Francisco Iturralde,L,0,Points,European,76KG,SF,2014
+5300,4328,AJ Agazarm,1827,James Puopolo,L,0,Choke from back,Pan American,ABS,R2,2014
+5483,4328,AJ Agazarm,,Jonatas Novaes,L,0,DQ,Chicago SPONG,ABS,SF,2014
+5510,4328,AJ Agazarm,4248,Gianni Grippo,L,0,Pts: 4x0,NY Spring Open,ABS,F,2014
+5546,4328,AJ Agazarm,,Sandro Vieira,L,0,DQ,Brasileiro,76KG,4F,2014
+5684,4328,AJ Agazarm,446,Gilbert Burns,L,0,Points,ADCC Florida,77KG,SPF,2014
+5700,4328,AJ Agazarm,247,Rodolfo Vieira,L,0,Choke from back,World Champ.,ABS,R2,2014
+5785,4328,AJ Agazarm,1824,Roberto Satoshi,L,0,Choke from back,World Champ.,76KG,8F,2014
+5962,4328,AJ Agazarm,7096,Josh Hinger,L,0,Points,Am. Nat. NoGi,ABS,SF,2014
+5973,4328,AJ Agazarm,5649,Garry Tonon,L,0,RNC,No Gi Pan Am.,73KG,SF,2014
+5995,4328,AJ Agazarm,3200,Jackson Sousa,L,0,Armbar,No Gi Pan Am.,ABS,F,2014
+6004,4328,AJ Agazarm,4859,Ricardo Rezende,L,0,"Pts: 2x2, Adv",NoGi Worlds,ABS,RDS,2014
+6075,4328,AJ Agazarm,174,Bruno Frazatto,L,0,"Pts: 0x0, Adv",World Expo,ABS,SPF,2014
+6113,4328,AJ Agazarm,2107,Otavio Sousa,L,0,Choke from back,NYC Pro,82KG,SF,2014
+6425,4328,AJ Agazarm,5747,AJ Sousa,L,0,Adv,World Pro Trials,86KG,F,2015
+6429,4328,AJ Agazarm,5747,AJ Sousa,L,0,Pts: 6x2,World Pro Trials,ABS,F,2015
+6561,4328,AJ Agazarm,,Rafael Pereira,L,0,Pts: 4x2,European,76KG,4F,2015
+6762,4328,AJ Agazarm,425,Bernardo Faria,L,0,Points,Pan American,ABS,R3,2015
+6816,4328,AJ Agazarm,967,JT Torres,L,0,Pts: 10x0,Pan American,76KG,F,2015
+7106,4328,AJ Agazarm,358,Lucas Lepri,L,0,Pts: 2x0,World Pro,75KG,4F,2015
+7178,4328,AJ Agazarm,3200,Jackson Sousa,L,0,Pts: 2x0,World Pro,ABS,R1,2015
+7212,4328,AJ Agazarm,7686,Sergio Ardila,L,0,Pts: 2x0,ADCC US Trials,77KG,4F,2015
+7940,4328,AJ Agazarm,2107,Otavio Sousa,L,0,RNC,ADCC,77KG,R1,2015
+7992,4328,AJ Agazarm,2403,Joao Rocha,L,0,Referee Decision,ADCC,ABS,R1,2015
+8548,4328,AJ Agazarm,188,Augusto Mendes,L,0,Referee Decision,Berkut 2,ABS,SPF,2015
+9610,4328,AJ Agazarm,1824,Roberto Satoshi,L,0,Pts: 4x0,World Pro,77KG,SF,2016
+9613,4328,AJ Agazarm,6596,Jhonny Loureiro,L,0,"Pts: 4x4, Adv",World Pro,77KG,3RD,2016
+9750,4328,AJ Agazarm,3313,Juan Kamezawa,L,0,Pts: 11x2,Brasileiro,76KG,4F,2016
+9974,4328,AJ Agazarm,6095,Mansher Khera,L,0,Pts: 4x2,World Champ.,76KG,R1,2016
+10907,4328,AJ Agazarm,4163,Marcio Andre,L,0,"Pts: 2x2, Adv",NoGi Worlds,73KG,SF,2016
+11311,4328,AJ Agazarm,8632,Thiago Macedo,L,0,Pts: 2x0,Long Beach Open,76KG,F,2016
+11319,4328,AJ Agazarm,7922,Nick Schrock,L,0,"Pts: 0x0, Adv",Long Beach Open,ABS,SF,2016
+11673,4328,AJ Agazarm,5258,Dillon Danis,L,0,EBI/OT,SUG 3,ABS,SPF,2017
+11772,4328,AJ Agazarm,5649,Garry Tonon,L,0,Referee Decision,F2W 24,76KG,SPF,2017
+11952,4328,AJ Agazarm,1386,Davi Ramos,L,0,Points,ACBJJ 4,75KG,4F,2017
+11989,4328,AJ Agazarm,,Stephen Martinez,L,0,Points,LA National Pro,77KG,SF,2017
+11998,4328,AJ Agazarm,6103,Isaac Doederlein,L,0,Points,LA National Pro,U77KG,F,2017
+12146,4328,AJ Agazarm,,Joao Alves,L,0,Pts: 2x0,Pan American,76KG,R1,2017
+12298,4328,AJ Agazarm,1014,Jake Mackenzie,L,0,Pts: 2x0,Rome Open,76KG,F,2017
+12311,4328,AJ Agazarm,,Rodrigo Reis,L,0,Pts: 10x3,Rome Open,ABS,4F,2017
+12372,4328,AJ Agazarm,5842,Mahamed Aly,L,0,Pts: 21x0,European NoGi,ABS,F,2017
+12524,4328,AJ Agazarm,8394,Vagner Rocha,L,0,Referee Decision,ADCC WC Trials,77KG,F,2017
+12623,4328,AJ Agazarm,6354,Jonathan Satava,L,0,Pts: 5x0,WP US Qualifier,77KG,RR,2017
+12624,4328,AJ Agazarm,6354,Jonathan Satava,L,0,Pts: 9x0,WP US Qualifier,77KG,RR,2017
+12760,4328,AJ Agazarm,7931,Jose Carlos,L,0,Pts: 22x2,Brasileiro,76KG,R2,2017
+12881,4328,AJ Agazarm,5258,Dillon Danis,L,0,Pts: 10x0,Atlanta Spring O.,88KG,F,2017
+13094,4328,AJ Agazarm,5414,Osvaldo Moizinho,L,0,Pts: 2x0,World Champ.,70KG,8F,2017
+13268,4328,AJ Agazarm,,Ben Henderson,L,0,Referee Decision,F2W 37,ABS,SPF,2017
+13500,4328,AJ Agazarm,2035,Vitor Oliveira,L,0,Referee Decision,F2W 41,82KG,SPF,2017
+13923,4328,AJ Agazarm,147,Rubens Charles,L,0,Pts: 3x0,ADCC,66KG,F,2017
+14558,4328,AJ Agazarm,,Nathan Orchard,L,0,EBI/OT,SUG 6,76KG,SPF,2017
+14580,4328,AJ Agazarm,7539,Renato Canuto,D,0.5,---,Kasai Pro,70KG,RR,2017
+14583,4328,AJ Agazarm,5649,Garry Tonon,L,0,Pts: 2x0,Kasai Pro,70KG,RR,2017
+14584,4328,AJ Agazarm,6095,Mansher Khera,L,0,Pts: 2x0,Kasai Pro,70KG,RR,2017
+14679,4328,AJ Agazarm,7539,Renato Canuto,L,0,"Pts: 0x0, Adv",NoGi Worlds,73KG,F,2017
+15175,4328,AJ Agazarm,,Ben Henderson,L,0,Referee Decision,Polaris 6,84KG,SPF,2018
+15385,4328,AJ Agazarm,4248,Gianni Grippo,L,0,"Pts: 0x0, Adv",Pan American,70KG,4F,2018
+15715,4328,AJ Agazarm,311,Alexandre Pulga,L,0,Referee Decision,F2W 68,77KG,SPF,2018
+16466,4328,AJ Agazarm,5414,Osvaldo Moizinho,L,0,Pts: 10x0,World Champ.,70KG,R1,2018
+16936,4328,AJ Agazarm,9606,Inseong Jang,L,0,"Pts: 0x0, Adv",Spider Inv. 4F,76KG,SPF,2018
+17230,4328,AJ Agazarm,446,Gilbert Burns,L,0,Referee Decision,Kasai Pro 3,ABS,SPF,2018
+17426,4328,AJ Agazarm,4248,Gianni Grippo,L,0,Pts: 9x0,No Gi Pan Am.,73KG,F,2018
+23730,4328,AJ Agazarm,5414,Osvaldo Moizinho,L,0,Referee Decision,F2W 140,75KG,SPF,2020
+27636,4328,AJ Agazarm,6805,Max Gimenis,L,0,Pts: 7x2,Pan American,O100KG,4F,2021
+28331,4328,AJ Agazarm,6805,Max Gimenis,L,0,Pts: 11x0,NoGi Worlds,O97KG,4F,2021
+28992,4328,AJ Agazarm,428,Celso Vinicius,L,0,"Pts: 0x0, Adv",BJJ Stars,76KG,SPF,2021
+29374,4328,AJ Agazarm,,Jed Hue,L,0,Referee Decision,Polaris 18,77KG,SPF,2021
+29494,4328,AJ Agazarm,11132,Leon Larman,L,0,Pts: 6x0,World Champ.,76KG,R1,2021
+30565,4328,AJ Agazarm,12652,Marcelo Fausto,L,0,Choke from back,European Open,76KG,R1,2022
+31461,4328,AJ Agazarm,9344,PJ Barch,L,0,RNC,ADCC WC Trials,77KG,4F,2022
+31627,4328,AJ Agazarm,,Thiago Cintra,L,0,Triangle armbar,Pan American,70KG,R1,2022
+32883,4328,AJ Agazarm,9051,Gabriel Sousa,L,0,Pts: 6x2,World Champ.,70KG,R1,2022
+33392,4328,AJ Agazarm,12102,Nick Salles,L,0,Choke from back,American Nat.,76KG,R1,2022
+33432,4328,AJ Agazarm,,Marlon Tanaka,L,0,Straight ankle lock,American Nat.,ABS,R1,2022
+35003,4328,AJ Agazarm,12259,Jeremy Skinner,L,0,Referee Decision,ADCC,66KG,R1,2022
+35515,4328,AJ Agazarm,,Andrew Alexander,L,0,Pts: 4x2,NoGi Pan,73KG,R1,2022
+39002,4328,AJ Agazarm,,Joshua McKinney,L,0,"Pts: 2x2, Adv",Nashville SPO,82KG,F,2023
+39243,4328,AJ Agazarm,,Dante Muschamp,L,0,Pts: 4x2,Miami Open,82KG,4F,2023
+40277,4328,AJ Agazarm,,Elder Junior,L,0,"Pts: 2x2, Adv",World Champ.,82KG,R1,2023
+4899,4328,AJ Agazarm,,Daniel Mendonca,W,1,Choke,Rome Open,76KG,F,2013
+4900,4328,AJ Agazarm,256,Oliver Geddes,W,1,Pts: 6x0,Rome Open,76KG,SF,2013
+4907,4328,AJ Agazarm,,Unknown,W,1,Armbar,European NoGi,ABS,4F,2013
+4913,4328,AJ Agazarm,,Daniel Mendonca,W,1,Wristlock,European NoGi,76KG,F,2013
+4918,4328,AJ Agazarm,,Unknown,W,1,Choke,Rio Open,76KG,R1,2013
+4919,4328,AJ Agazarm,,Unknown,W,1,Points,Rio Open,76KG,4F,2013
+4921,4328,AJ Agazarm,1178,Theodoro Canal,W,1,Pts: 2x0,Rio Open,76KG,SF,2013
+4935,4328,AJ Agazarm,,Choi Choi,W,1,Pts: 32x0,American Nats,76KG,4F,2013
+4938,4328,AJ Agazarm,,Choi Choi,W,1,Pts: 32x0,American Nats,76KG,4F,2013
+4939,4328,AJ Agazarm,256,Oliver Geddes,W,1,Pts: 4x0,American Nats,76KG,SF,2013
+4942,4328,AJ Agazarm,,Antonio Antnioli,W,1,Pts: 4x0,American Nats,ABS,4F,2013
+4943,4328,AJ Agazarm,1436,Samir Chantre,W,1,Points,American Nats,ABS,SF,2013
+4947,4328,AJ Agazarm,1498,Denny Prokopos,W,1,Pts: 4x0,American NNG,76KG,SF,2013
+4948,4328,AJ Agazarm,,Diogo Freitas,W,1,Referee Decision,American NNG,76KG,F,2013
+4953,4328,AJ Agazarm,1827,James Puopolo,W,1,Pts: 9x4,American NNG,ABS,4F,2013
+4956,4328,AJ Agazarm,1436,Samir Chantre,W,1,Points,American NNG,ABS,SF,2013
+4957,4328,AJ Agazarm,562,Eduardo Telles,W,1,"Pts: 0x0, Adv",American NNG,ABS,F,2013
+4961,4328,AJ Agazarm,,Steven Barnett,W,1,Choke,NoGi Pan Am.,76KG,SF,2013
+4962,4328,AJ Agazarm,,Nicolas Moraes,W,1,Toe hold,NoGi Pan Am.,76KG,F,2013
+4963,4328,AJ Agazarm,,Luciano Cristovao,W,1,Pts: 6x0,NoGi Pan Am.,ABS,4F,2013
+4991,4328,AJ Agazarm,2226,DJ Jackson,W,1,Referee Decision,ADCC,77KG,R1,2013
+5068,4328,AJ Agazarm,,Unknown,W,1,Armbar,Brasileiro NoGi,76KG,R1,2013
+5069,4328,AJ Agazarm,,Unknown,W,1,Toe hold,Brasileiro NoGi,76KG,4F,2013
+5070,4328,AJ Agazarm,,Sandro Vieira,W,1,Pts: 6x2,Brasileiro NoGi,76KG,SF,2013
+5071,4328,AJ Agazarm,4851,Kim Terra,W,1,Choke,Brasileiro NoGi,76KG,F,2013
+5074,4328,AJ Agazarm,,Unknown,W,1,Choke,Brasileiro NoGi,ABS,R1,2013
+5075,4328,AJ Agazarm,4851,Kim Terra,W,1,Pts: 23x0,Brasileiro NoGi,ABS,4F,2013
+5077,4328,AJ Agazarm,8560,Gabriel Lucas,W,1,Pts: 9x0,Brasileiro NoGi,ABS,SF,2013
+5103,4328,AJ Agazarm,,Peter Runez,W,1,Pts: 4x0,NoGi Worlds,73KG,R1,2013
+5120,4328,AJ Agazarm,7247,Enrico Cocco,W,1,Pts: 4x0,NoGi Worlds,ABS,R1,2013
+5252,4328,AJ Agazarm,,Uknown,W,1,Armbar,European,76KG,4F,2014
+5481,4328,AJ Agazarm,,Ryan Durbin,W,1,Armbar,Chicago SPONG,82KG,F,2014
+5482,4328,AJ Agazarm,256,Oliver Geddes,W,1,Pts: 23x0,Chicago SPONG,82KG,SF,2014
+5484,4328,AJ Agazarm,,Briklin Welch,W,1,Armbar,Chicago SPO,82KG,F,2014
+5485,4328,AJ Agazarm,,Briklin Welch,W,1,Pts: 9x0,Chicago SPO,82KG,SF,2014
+5486,4328,AJ Agazarm,,Paulo Henrique,W,1,Pts: 4x0,Rome Open,73KG,SF,2014
+5487,4328,AJ Agazarm,256,Oliver Geddes,W,1,Points,Rome Open,73KG,F,2014
+5488,4328,AJ Agazarm,,Ralf Carneburn,W,1,Choke,European NoGi,73KG,SF,2014
+5489,4328,AJ Agazarm,,Paulo Henrique,W,1,Toe hold,European NoGi,73KG,F,2014
+5491,4328,AJ Agazarm,,Unknown,W,1,Armbar,European NoGi,ABS,4F,2014
+5492,4328,AJ Agazarm,,Unknown,W,1,Pts: 6x0,European NoGi,ABS,SF,2014
+5493,4328,AJ Agazarm,,Mauricio Henrique,W,1,Choke,European NoGi,ABS,F,2014
+5506,4328,AJ Agazarm,,Briklin Welch,W,1,Pts: 15x2,NY Spring Open,76KG,F,2014
+5507,4328,AJ Agazarm,,Washington Lima,W,1,Choke,NY Spring Open,ABS,4F,2014
+5509,4328,AJ Agazarm,,Antonio Antonioli,W,1,Pts: 13x6,NY Spring Open,ABS,SF,2014
+5545,4328,AJ Agazarm,,Unknown,W,1,Choke,Brasileiro,76KG,R1,2014
+5775,4328,AJ Agazarm,6419,Marcel Goncalves,W,1,Pts: 4x0,World Champ.,76KG,R1,2014
+5988,4328,AJ Agazarm,,Jorge Elias,W,1,Darce choke,No Gi Pan Am.,ABS,R1,2014
+5992,4328,AJ Agazarm,,Nik Nikolaisen,W,1,Pts: 4x0,No Gi Pan Am.,ABS,4F,2014
+5994,4328,AJ Agazarm,3083,Abraham Marte,W,1,Pts: 4x2,No Gi Pan Am.,ABS,SF,2014
+6031,4328,AJ Agazarm,,Luiz Rosa,W,1,Pts: 4x0,NoGi Worlds,73KG,4F,2014
+6032,4328,AJ Agazarm,,Rafael Benedito,W,1,Pts: 12x0,NoGi Worlds,73KG,SF,2014
+6034,4328,AJ Agazarm,5930,Rodrigo Freitas,W,1,Pts: 2x0,NoGi Worlds,73KG,F,2014
+6111,4328,AJ Agazarm,6368,Kevin Mahecha,W,1,Pts: 7x5,NYC Pro,82KG,4F,2014
+6398,4328,AJ Agazarm,256,Oliver Geddes,W,1,Triangle armbar,Polaris,ABS,SPF,2015
+6422,4328,AJ Agazarm,,Ruben Dario,W,1,Toe hold,World Pro Trials,86KG,4F,2015
+6423,4328,AJ Agazarm,6368,Kevin Mahecha,W,1,Points,World Pro Trials,86KG,SF,2015
+6428,4328,AJ Agazarm,,Unknown,W,1,Choke,World Pro Trials,ABS,SF,2015
+6556,4328,AJ Agazarm,,Choi Choi,W,1,Pts: 14x0,European,76KG,R2,2015
+6744,4328,AJ Agazarm,562,Eduardo Telles,W,1,Points,Pan American,ABS,R1,2015
+6806,4328,AJ Agazarm,5078,Luan Carvalho,W,1,"Pts: 2x2, Adv",Pan American,76KG,R2,2015
+6813,4328,AJ Agazarm,6368,Kevin Mahecha,W,1,Points,Pan American,76KG,4F,2015
+6815,4328,AJ Agazarm,5061,Gabriel Rollo,W,1,Pts: 2x0,Pan American,76KG,SF,2015
+7084,4328,AJ Agazarm,,Rich Ryu,W,1,Triangle armbar,Ohio Challenge,ABS,4F,2015
+7085,4328,AJ Agazarm,,Paulo Santana,W,1,Toe hold,Ohio Challenge,ABS,SF,2015
+7086,4328,AJ Agazarm,,BJ Nelson,W,1,Pts: 10x0,Ohio Challenge,ABS,F,2015
+7097,4328,AJ Agazarm,,Ygor Dantas,W,1,Points,World Pro,75KG,R1,2015
+7100,4328,AJ Agazarm,,Alex Cabanes,W,1,Points,World Pro,75KG,R2,2015
+7205,4328,AJ Agazarm,,Yao Nkromah,W,1,Toe hold,ADCC US Trials,77KG,R1,2015
+7209,4328,AJ Agazarm,6531,Richie Martinez,W,1,Toe hold,ADCC US Trials,77KG,8F,2015
+7801,4328,AJ Agazarm,,Karo Parisyan,D,0.5,---,Metamoris UG,ABS,SPF,2015
+8036,4328,AJ Agazarm,,Daniel Strauss,D,0.5,---,Polaris 2,94KG,SPF,2015
+9411,4328,AJ Agazarm,1031,Jake Shields,D,0.5,---,Polaris 3,82KG,SPF,2016
+9585,4328,AJ Agazarm,6368,Kevin Mahecha,W,1,Pts: 2x0,World Pro,77KG,R1,2016
+9593,4328,AJ Agazarm,,Carlos Costa,W,1,Kimura/armbar,World Pro,77KG,R2,2016
+9598,4328,AJ Agazarm,4542,Felipe Cesar,W,1,Pts: 2x0,World Pro,77KG,8F,2016
+9607,4328,AJ Agazarm,1386,Davi Ramos,W,1,Pts: 2x0,World Pro,77KG,4F,2016
+9740,4328,AJ Agazarm,,Pedro Henrique,W,1,Submission,Brasileiro,76KG,R1,2016
+9748,4328,AJ Agazarm,,Robson Borges,W,1,Armbar,Brasileiro,76KG,8F,2016
+10361,4328,AJ Agazarm,,Marat Gafurov,W,1,Referee Decision,Berkut 3,ABS,SPF,2016
+10482,4328,AJ Agazarm,,Ituã Sales,W,1,Choke,Brasileiro Equipes,76KG,F,2016
+10686,4328,AJ Agazarm,8394,Vagner Rocha,W,1,DQ,F2W 14,77KG,SPF,2016
+10876,4328,AJ Agazarm,,Ikuhisa Minowa,W,1,Triangle,Polaris 4,80KG,SPF,2016
+10901,4328,AJ Agazarm,,Andreas Perales,W,1,Armbar,NoGi Worlds,73KG,R2,2016
+10904,4328,AJ Agazarm,7247,Enrico Cocco,W,1,Pts: 2x0,NoGi Worlds,73KG,4F,2016
+11310,4328,AJ Agazarm,,Nicollas Welker,W,1,Armbar,Long Beach Open,76KG,SF,2016
+11317,4328,AJ Agazarm,,Piter Frank,W,1,Points,Long Beach Open,ABS,4F,2016
+11988,4328,AJ Agazarm,6836,John Combs,W,1,Pts: 2x0,LA National Pro,77KG,4F,2017
+11991,4328,AJ Agazarm,,Bret Russel,W,1,Pts: 10x0,LA National Pro,77KG,3RD,2017
+11994,4328,AJ Agazarm,,Ronald Henderson,W,1,Choke from back,LA National Pro,U77KG,4F,2017
+11996,4328,AJ Agazarm,,Robert Malof,W,1,Choke from back,LA National Pro,U77KG,SF,2017
+12297,4328,AJ Agazarm,,Andreas Perales,W,1,Points,Rome Open,76KG,SF,2017
+12347,4328,AJ Agazarm,,Andreas Perales,W,1,Pts: 44x0,European NoGi,73KG,SF,2017
+12349,4328,AJ Agazarm,9401,Ashley Williams,W,1,Pts: 12x0,European NoGi,73KG,F,2017
+12368,4328,AJ Agazarm,,Jakub Witkowski,W,1,Triangle,European NoGi,ABS,4F,2017
+12370,4328,AJ Agazarm,7111,Muslim Patsarigov,W,1,DQ,European NoGi,ABS,SF,2017
+12496,4328,AJ Agazarm,,Stanley Rosa,W,1,Pts: 4x0,ADCC WC Trials,77KG,R2,2017
+12505,4328,AJ Agazarm,,Issa Able,W,1,Referee Decision,ADCC WC Trials,77KG,8F,2017
+12517,4328,AJ Agazarm,,Magid Hage,W,1,Pts: 6x0,ADCC WC Trials,77KG,8F,2017
+12520,4328,AJ Agazarm,,Jason Hayden,W,1,Pts: 2x0,ADCC WC Trials,77KG,4F,2017
+12522,4328,AJ Agazarm,11707,Oliver Taza,W,1,Pts: 2x0,ADCC WC Trials,77KG,SF,2017
+12752,4328,AJ Agazarm,,Samuel Dias,W,1,Pts: 4x2,Brasileiro,76KG,R1,2017
+13086,4328,AJ Agazarm,,Caio Nunes,W,1,Pts: 4x0,World Champ.,70KG,R1,2017
+13659,4328,AJ Agazarm,,Lloyd Cooper,W,1,Choke from back,Polaris 5,78KG,SPF,2017
+13913,4328,AJ Agazarm,11735,Nicky Ryan,W,1,Pts: 2x0,ADCC,66KG,E1,2017
+13919,4328,AJ Agazarm,11223,Ethan Crelinsten,W,1,Pts: 2x0,ADCC,66KG,4F,2017
+13921,4328,AJ Agazarm,8069,Pablo Mantovani,W,1,Referee Decision,ADCC,66KG,SF,2017
+14036,4328,AJ Agazarm,,Phil Baroni,W,1,EBI/OT,SUG 5,ABS,SPF,2017
+14674,4328,AJ Agazarm,6836,John Combs,W,1,Pts: 2x0,NoGi Worlds,73KG,4F,2017
+14678,4328,AJ Agazarm,8682,Lachlan Giles,W,1,Pts: 2x0,NoGi Worlds,73KG,SF,2017
+15073,4328,AJ Agazarm,,Chai Sirisute,W,1,Referee Decision,F2W 61,77KG,SPF,2018
+15379,4328,AJ Agazarm,8632,Thiago Macedo,W,1,"Pts: 2x2, Adv",Pan American,70KG,8F,2018
+15866,4328,AJ Agazarm,2385,Marcos Galvao,W,1,Inside heel hook,Kasai Pro 2,70KG,SPF,2018
+15996,4328,AJ Agazarm,,Alex Huddleston,W,1,Points,Denver Open,O100KG,F,2018
+17416,4328,AJ Agazarm,,Pierpaolo Chiappe,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,73KG,8F,2018
+17423,4328,AJ Agazarm,,Daniel Seth,W,1,Pts: 2x0,No Gi Pan Am.,73KG,4F,2018
+17425,4328,AJ Agazarm,5453,Herbert Burns,W,1,Pts: 2x0,No Gi Pan Am.,73KG,SF,2018
+22804,4328,AJ Agazarm,260,Ary Farias,W,1,Referee Decision,F2W 133,70KG,SPF,2019
+31405,4328,AJ Agazarm,,Jacob Morse,W,1,Pts: 5x0,ADCC WC Trials,77KG,R1,2022
+31423,4328,AJ Agazarm,,Barry Simms,W,1,Pts: 2x0,ADCC WC Trials,77KG,R2,2022
+31437,4328,AJ Agazarm,,Daniel Hernandez,W,1,"Pts: 0x0, Pen",ADCC WC Trials,77KG,R3,2022
+31447,4328,AJ Agazarm,6836,John Combs,W,1,Referee Decision,ADCC WC Trials,77KG,R4,2022
+31456,4328,AJ Agazarm,,Mario Shonkwiler,W,1,Pts: 5x0,ADCC WC Trials,77KG,8F,2022
+32437,4328,AJ Agazarm,,Juan Correa,W,1,Pts: 8x6,SD Open,76KG,R1,2022
+32475,4328,AJ Agazarm,,Tyler Najjar,W,1,Pts: 26x0,SD NGO,73KG,SF,2022
+32476,4328,AJ Agazarm,,Zachary Legates,W,1,Pts: 4x0,SD NGO,73KG,F,2022
+33463,4328,AJ Agazarm,,Cody Orrison,W,1,Pts: 6x2,American NGN,73KG,4F,2022
+33465,4328,AJ Agazarm,,Daniel Seth,W,1,Pts: 2x0,American NGN,73KG,SF,2022
+33466,4328,AJ Agazarm,9934,Deandre Corbe,W,1,Pts: 2x0,American NGN,73KG,F,2022
+34556,4328,AJ Agazarm,,Mikey Zindler,W,1,Referee Decision,F2W 209,N/A,SPF,2022
+39000,4328,AJ Agazarm,,Matheus Batista,W,1,N/A,Nashville SPO,82KG,SF,2023

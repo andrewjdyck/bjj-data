@@ -1,0 +1,22 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+337,278,Ricardo Almeida,627,Murilo Bustamante,L,0,Pts: 2x0,ADCC,99KG,4F,1999
+443,278,Ricardo Almeida,,Matt Hughes,L,0,Pen,ADCC,99KG,R1,2000
+463,278,Ricardo Almeida,,Mark Kerr,L,0,Pts: 3x0,ADCC,ABS,SF,2000
+546,278,Ricardo Almeida,93,Ricardo Arona,L,0,Pen,ADCC,99KG,F,2001
+569,278,Ricardo Almeida,88,JJ Machado,L,0,Pts: 3x0,ADCC,ABS,SF,2001
+729,278,Ricardo Almeida,,Jeff Monson,L,0,Referee Decision,Grapplers Quest,ABS,SF,2002
+795,278,Ricardo Almeida,117,Ronaldo Souza,L,0,Pts: 6x0,ADCC,88KG,SF,2003
+798,278,Ricardo Almeida,4965,David Terrell,L,0,Botinha,ADCC,88KG,3PLC,2003
+333,278,Ricardo Almeida,,Gao Hua,W,1,Submission,ADCC,99KG,R1,1999
+342,278,Ricardo Almeida,1817,Rigan Machado,W,1,Choke,ADCC,99KG,3PLC,1999
+461,278,Ricardo Almeida,,Josh Barnet,W,1,Guillotine,ADCC,ABS,R1,2000
+462,278,Ricardo Almeida,81,Vitor Shaolin,W,1,Kneebar,ADCC,ABS,4F,2000
+465,278,Ricardo Almeida,559,Rodrigo Comprido,W,1,Pts: 5x0,ADCC,ABS,3PLC,2000
+538,278,Ricardo Almeida,,Y. Setsenko,W,1,RNC,ADCC,99KG,R1,2001
+543,278,Ricardo Almeida,1369,Dean Lister,W,1,Pts: 3x0,ADCC,99KG,4F,2001
+545,278,Ricardo Almeida,,A. Cacareco,W,1,Pts: 2x0,ADCC,99KG,SF,2001
+562,278,Ricardo Almeida,,Marshurenko,W,1,Points,ADCC,ABS,R1,2001
+567,278,Ricardo Almeida,,M. Van Arsdale,W,1,Armbar,ADCC,ABS,4F,2001
+728,278,Ricardo Almeida,1369,Dean Lister,W,1,Points,Grapplers Quest,ABS,4F,2002
+786,278,Ricardo Almeida,,Davion Peterson,W,1,Guillotine,ADCC,88KG,R1,2003
+791,278,Ricardo Almeida,,Andy Reese,W,1,Points,ADCC,88KG,4F,2003

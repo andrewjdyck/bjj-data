@@ -1,0 +1,98 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27390,12348,Lucas Protasio,,L. Lima,L,0,DQ,Sul Americano,76KG,4F,2021
+28391,12348,Lucas Protasio,10199,Guthierry Barbosa,D,0.5,---,Copa Podio,76KG,RR,2021
+28411,12348,Lucas Protasio,,Luciano Bernert,L,0,Pts: 6x4,Copa Podio,76KG,SF,2021
+28412,12348,Lucas Protasio,,Felipe Santos,L,0,Pts: 6x2,Copa Podio,76KG,3RD,2021
+28533,12348,Lucas Protasio,12122,Mica Galvao,L,0,Kneebar,Grand Slam RJ,77KG,4F,2021
+28536,12348,Lucas Protasio,11658,Lucas Gualberto,L,0,Pts: 2x2,Grand Slam RJ,77KG,RPC,2021
+29931,12348,Lucas Protasio,10880,Roberto Jimenez,L,0,RNC,Rio SMNGO,79KG,R1,2022
+29939,12348,Lucas Protasio,11862,Pedro Alex,L,0,Points,Rio SMNGO,ABS,SF,2022
+30044,12348,Lucas Protasio,12122,Mica Galvao,L,0,Yoko sankaku,ADCC BR1 Trials,77KG,SF,2022
+30575,12348,Lucas Protasio,8215,Espen Mathiesen,L,0,"Pts: 2x2, Adv",European Open,76KG,4F,2022
+32053,12348,Lucas Protasio,9573,Marcos Martins,L,0,Guillotine,BJJ Stars,88KG,SPF,2022
+32090,12348,Lucas Protasio,11015,Pablo Lavaselli,L,0,Pts: 3x0,SA Cont. Pro,77KG,F,2022
+32358,12348,Lucas Protasio,,Andre Cantanhede,L,0,Pts: 3x1,Grand Slam AD,77KG,4F,2022
+37212,12348,Lucas Protasio,11697,Tainan Dalpra,L,0,Choke from back,European Open,82KG,SF,2023
+38217,12348,Lucas Protasio,8308,Max Lindblad,L,0,Pts: 5x2,AJPGD LDN,77KG,SF,2023
+39672,12348,Lucas Protasio,,Adriano Araujo,L,0,Pts: 3x1,ADGS ABD,77KG,SF,2023
+39678,12348,Lucas Protasio,,Artem Kaygarodov,L,0,Pts: 3x1,ADGS ABD,77KG,RPC,2023
+27830,12348,Lucas Protasio,9635,Guilherme Rocha,W,1,Pts: 4x1,Joao Pessoa Pro,77KG,SF,2021
+27831,12348,Lucas Protasio,,Jackson Bernardo,W,1,Pts: 5x0,Joao Pessoa Pro,77KG,F,2021
+28394,12348,Lucas Protasio,,M. Sheenan,W,1,Reverse triangle,Copa Podio,76KG,RR,2021
+28399,12348,Lucas Protasio,,Rafael Japa,W,1,Kneebar,Copa Podio,76KG,RR,2021
+28401,12348,Lucas Protasio,9956,Vinicius Pereira,W,1,Choke from back,Copa Podio,76KG,RR,2021
+28519,12348,Lucas Protasio,,Carlos Rodrigues,W,1,Pts: 7x5,Grand Slam RJ,77KG,R1,2021
+28528,12348,Lucas Protasio,13458,Leandro Rounaud,W,1,Pts: 4x4,Grand Slam RJ,77KG,8F,2021
+29327,12348,Lucas Protasio,8528,Servio Tulio,W,1,Pts: 6x2,Balneario Open,82KG,4F,2021
+29329,12348,Lucas Protasio,,Matheus Batista,W,1,Pts: 2x0,Balneario Open,82KG,SF,2021
+29330,12348,Lucas Protasio,,Rhuan Duarte,W,1,Pts: 9x0,Balneario Open,82KG,F,2021
+29368,12348,Lucas Protasio,,Yago Espindola,W,1,Pts: 2x0,JASC,76KG,F,2021
+29370,12348,Lucas Protasio,11215,Harryson Pereira,W,1,Referee Decision,JASC,ABS,F,2021
+29409,12348,Lucas Protasio,,Jeferson Ramos,W,1,Pts: 2x0,Florianopolis Pro,77KG,4F,2021
+29412,12348,Lucas Protasio,,Vitor Sotini,W,1,Pts: 2x0,Florianopolis Pro,77KG,SF,2021
+29414,12348,Lucas Protasio,,Wesley Possamai,W,1,Pts: 4x0,Florianopolis Pro,77KG,F,2021
+29423,12348,Lucas Protasio,,Wesley Possamai,W,1,Pts: 10x2,Florianopolis Pro,LWA,SF,2021
+29870,12348,Lucas Protasio,,Jadson Araujo,W,1,Pts: 8x0,Rio SMO,76KG,R1,2022
+29874,12348,Lucas Protasio,,Leo Domingos,W,1,Armbar,Rio SMO,76KG,4F,2022
+29875,12348,Lucas Protasio,,Vitor Sotini,W,1,Pts: 9x0,Rio SMO,76KG,SF,2022
+29877,12348,Lucas Protasio,11754,Victor Nithael,W,1,RNC,Rio SMO,76KG,F,2022
+29937,12348,Lucas Protasio,,Diogo Oliveira,W,1,Pts: 3x2,Rio SMNGO,ABS,4F,2022
+30025,12348,Lucas Protasio,,Richard Filho,W,1,Pts: 2x0,ADCC BR1 Trials,77KG,R1,2022
+30029,12348,Lucas Protasio,,Alessandro Botelho,W,1,Pts: 3x0,ADCC BR1 Trials,77KG,R2,2022
+30038,12348,Lucas Protasio,,Jefferson Pontes,W,1,Pts: 2x0,ADCC BR1 Trials,77KG,R3,2022
+30041,12348,Lucas Protasio,,JZ Cavalcante,W,1,Referee Decision,ADCC BR1 Trials,77KG,4F,2022
+30570,12348,Lucas Protasio,,Gyula Szabo,W,1,Pts: 2x0,European Open,76KG,R2,2022
+30747,12348,Lucas Protasio,,Kevin Enz,W,1,Pts: 8x2,Amsterdam Pro,77KG,4F,2022
+30748,12348,Lucas Protasio,,A. Buchwald,W,1,Pts: 5x1,Amsterdam Pro,77KG,SF,2022
+30750,12348,Lucas Protasio,,Ellis Younger,W,1,Pts: 1x0,Amsterdam Pro,77KG,F,2022
+31106,12348,Lucas Protasio,,Gyula Szabo,W,1,Pts: 2x0,Grand Slam LDN,77KG,R1,2022
+31111,12348,Lucas Protasio,10408,Israel Sousa,W,1,Pts: 4x4,Grand Slam LDN,77KG,4F,2022
+31114,12348,Lucas Protasio,11872,Luiz Paulo,W,1,Pts: 3x3,Grand Slam LDN,77KG,SF,2022
+31115,12348,Lucas Protasio,13245,Ademir Barreto,W,1,Pts: 9x2,Grand Slam LDN,77KG,F,2022
+32085,12348,Lucas Protasio,8334,Diego Vivaldo,W,1,Pts: 7x2,SA Cont. Pro,77KG,4F,2022
+32089,12348,Lucas Protasio,,Vitor Sotini,W,1,Pts: 2x0,SA Cont. Pro,77KG,SF,2022
+32365,12348,Lucas Protasio,7156,Tiago Bravo,W,1,Pts: 5x1,Grand Slam AD,77KG,RPC,2022
+32366,12348,Lucas Protasio,,Jonatham Silva,W,1,Toe hold,Grand Slam AD,77KG,RPC,2022
+32367,12348,Lucas Protasio,,Adriano Araujo,W,1,Pts: 8x7,Grand Slam AD,77KG,3RD,2022
+32819,12348,Lucas Protasio,,K. Suchorabski,W,1,Pts: 3x2,Hungary Pro,76KG,SF,2022
+32821,12348,Lucas Protasio,,Gyula Szabo,W,1,Pts: 3x0,Hungary Pro,76KG,F,2022
+33980,12348,Lucas Protasio,9121,Ygor Rodrigues,W,1,Pts: 3x0,Grand Slam RJ,77KG,R2,2022
+33988,12348,Lucas Protasio,,Murilo Mota,W,1,Pts: 1x0,Grand Slam RJ,77KG,8F,2022
+33991,12348,Lucas Protasio,,Luiz Santos,W,1,Pts: 2x1,Grand Slam RJ,77KG,4F,2022
+33993,12348,Lucas Protasio,10216,Natan Chueng,W,1,Pts: 1x0,Grand Slam RJ,77KG,SF,2022
+33994,12348,Lucas Protasio,11872,Luiz Paulo,W,1,Pts: 1x1,Grand Slam RJ,77KG,F,2022
+34567,12348,Lucas Protasio,,Ben Moyal,W,1,Pts: 4x1,EU Cont Pro,77KG,RR,2022
+34568,12348,Lucas Protasio,,Ben Moyal,W,1,Pts: 9x0,EU Cont Pro,77KG,RR,2022
+34840,12348,Lucas Protasio,,Zubair Doty,W,1,Armbar,UAE Nat Pro,77KG,4F,2022
+34845,12348,Lucas Protasio,5347,Yago Souza,W,1,Pts: 9x0,UAE Nat Pro,77KG,SF,2022
+34846,12348,Lucas Protasio,,Adriano Araujo,W,1,Pts: 6x0,UAE Nat Pro,77KG,F,2022
+35323,12348,Lucas Protasio,,Iago Carvalho,W,1,Pts: 7x1,Asia Pro,77KG,4F,2022
+35328,12348,Lucas Protasio,,Jonatham Silva,W,1,Botinha,Asia Pro,77KG,SF,2022
+35329,12348,Lucas Protasio,,Andre Cantanhede,W,1,Pts: 3x0,Asia Pro,77KG,F,2022
+35401,12348,Lucas Protasio,,C. Belegratis,W,1,Pts: 12x0,NoGi GP Rome,77KG,SF,2022
+35402,12348,Lucas Protasio,10004,Ali Monfaradi,W,1,Pts: 13x7,NoGi GP Rome,77KG,F,2022
+35701,12348,Lucas Protasio,,Caio Silva,W,1,N/A,South American,82KG,R1,2022
+35705,12348,Lucas Protasio,,Gabriel Machado,W,1,Pts: 2x0,South American,82KG,4F,2022
+35707,12348,Lucas Protasio,,Luiz Santos,W,1,"Pts: 0x0, Adv",South American,82KG,SF,2022
+35709,12348,Lucas Protasio,,Elder Gomes,W,1,DQ,South American,82KG,F,2022
+36342,12348,Lucas Protasio,,Nartay Kazhekov,W,1,Pts: 7x4,World Pro,77KG,8F,2022
+36348,12348,Lucas Protasio,,Islam Mamilov,W,1,Pts: 3x0,World Pro,77KG,4F,2022
+36353,12348,Lucas Protasio,,Andre Cantanhede,W,1,Pts: 4x2,World Pro,77KG,SF,2022
+36354,12348,Lucas Protasio,8308,Max Lindblad,W,1,Pts: 1x0,World Pro,77KG,F,2022
+36580,12348,Lucas Protasio,,Bruno Gambim,W,1,Choke from back,Balneario Open,82KG,4F,2022
+36582,12348,Lucas Protasio,13458,Leandro Rounaud,W,1,Pts: 3x0,Balneario Open,82KG,SF,2022
+36584,12348,Lucas Protasio,12287,Pedro Maia,W,1,"Pts: 0x0, Adv",Balneario Open,82KG,F,2022
+37203,12348,Lucas Protasio,,Nicolas Felana,W,1,Armbar,European Open,82KG,R1,2023
+37211,12348,Lucas Protasio,13450,Vinicius Martins,W,1,Armbar,European Open,82KG,4F,2023
+38216,12348,Lucas Protasio,,Joao Bezerra,W,1,Pts: 2x1,AJPGD LDN,77KG,4F,2023
+38222,12348,Lucas Protasio,,Krzysztof S.,W,1,Pts: 3x1,AJPGD LDN,77KG,RPC,2023
+38223,12348,Lucas Protasio,,Andre Cantanhede,W,1,Referee Decision,AJPGD LDN,77KG,3RD,2023
+39399,12348,Lucas Protasio,,I. Silva,W,1,Submission,SA Cont Pro,77KG,8F,2023
+39407,12348,Lucas Protasio,,Jadson Araujo,W,1,Submission,SA Cont Pro,77KG,4F,2023
+39409,12348,Lucas Protasio,,Luiz Santos,W,1,Pts: 4x1,SA Cont Pro,77KG,SF,2023
+39411,12348,Lucas Protasio,,Marcelo Marques,W,1,Pts: 3x0,SA Cont Pro,77KG,F,2023
+39668,12348,Lucas Protasio,,Mohammad Fahmi,W,1,Pts: 2x0,ADGS ABD,77KG,4F,2023
+41318,12348,Lucas Protasio,,Saul Sanchez,W,1,Choke from back,Vila Real Pro,77KG,SF,2023
+41319,12348,Lucas Protasio,,Leandro Paivo,W,1,Injury,Vila Real Pro,77KG,F,2023
+41320,12348,Lucas Protasio,,Saul Sanchez,W,1,Choke from back,Vila Real Pro,ABS,SF,2023
+41321,12348,Lucas Protasio,,Alberto Guzman,W,1,Choke from back,Vila Real Pro,ABS,F,2023

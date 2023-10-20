@@ -1,0 +1,15 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+328,591,Ricardo Liborio,,Sasha Savko,L,0,Pts: 2x0,ADCC,88KG,SF,1999
+440,591,Ricardo Liborio,481,Saulo Ribeiro,L,0,Pen,ADCC,88KG,F,2000
+528,591,Ricardo Liborio,6518,Egan Inoue,L,0,Referee Decision,ADCC,88KG,4F,2001
+93,591,Ricardo Liborio,935,Leonardo Branco,W,1,Pts: 2x0,World Champ.,100KG,F,1996
+103,591,Ricardo Liborio,,Marcelo Figueiredo,W,1,Armbar,World Champ.,ABS,R1,1996
+104,591,Ricardo Liborio,,Remco Pardoel,W,1,Armbar,World Champ.,ABS,4F,1996
+105,591,Ricardo Liborio,935,Leonardo Branco,W,1,Pts: 6x0,World Champ.,ABS,SF,1996
+320,591,Ricardo Liborio,,Akihiro Gono,W,1,Pts: 5x0,ADCC,88KG,R1,1999
+326,591,Ricardo Liborio,,Luis Orlando,W,1,Pts: 16x0,ADCC,88KG,4F,1999
+329,591,Ricardo Liborio,6518,Egan Inoue,W,1,Pts: 3x0,ADCC,88KG,3PLC,1999
+429,591,Ricardo Liborio,,Toshiyuki Oyama,W,1,RNC,ADCC,88KG,R1,2000
+434,591,Ricardo Liborio,550,Roberto Roleta,W,1,Pts: 9x0,ADCC,88KG,4F,2000
+438,591,Ricardo Liborio,720,Jorge Patino,W,1,Injury,ADCC,88KG,SF,2000
+525,591,Ricardo Liborio,,Tamura,W,1,Armbar,ADCC,88KG,R1,2001

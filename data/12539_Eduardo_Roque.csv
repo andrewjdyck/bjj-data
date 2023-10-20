@@ -1,0 +1,22 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+30283,12539,Eduardo Roque,,Carlos Campos,L,0,"Pts: 0x0, Pen",ADCC BR2 Trials,77KG,R3,2022
+30561,12539,Eduardo Roque,12751,Sam McNally,L,0,"Pts: 4x4, Adv",European Open,70KG,4F,2022
+31987,12539,Eduardo Roque,7664,Johnny Tama,L,0,Estima lock,Nashville Open,76KG,SF,2022
+34597,12539,Eduardo Roque,8632,Thiago Macedo,L,0,Pts: 4x2,Grand Slam MIA,69KG,R1,2022
+34719,12539,Eduardo Roque,11015,Pablo Lavaselli,L,0,"Pts: 2x2, Adv",JJ Con,76KG,4F,2022
+34761,12539,Eduardo Roque,8514,Fellipe Andrew,L,0,Katagatame,JJ Con,ABS,SF,2022
+37198,12539,Eduardo Roque,,Luiz Felipe,L,0,"Pts: 0x0, Adv",European Open,76KG,4F,2023
+30265,12539,Eduardo Roque,,Alexsandre Lima,W,1,Referee Decision,ADCC BR2 Trials,77KG,R2,2022
+30556,12539,Eduardo Roque,,Kiren Newadj,W,1,Pts: 2x0,European Open,70KG,R1,2022
+31986,12539,Eduardo Roque,,Andrew Pardee,W,1,Choke from back,Nashville Open,76KG,4F,2022
+34715,12539,Eduardo Roque,,Manuel Aguilar,W,1,Triangle,JJ Con,76KG,R1,2022
+34754,12539,Eduardo Roque,,Chris Gabrielson,W,1,Armbar,JJ Con,ABS,R1,2022
+34757,12539,Eduardo Roque,,Marlon Tanaka,W,1,Triangle,JJ Con,ABS,4F,2022
+35787,12539,Eduardo Roque,,Daniel Proano,W,1,Triangle,Miami FO,76KG,4F,2022
+35789,12539,Eduardo Roque,10352,Leo Silva,W,1,Pts: 4x2,Miami FO,76KG,SF,2022
+35790,12539,Eduardo Roque,12918,Daniel Sathler,W,1,Pts: 2x0,Miami FO,76KG,F,2022
+36180,12539,Eduardo Roque,,Kevin Harmon,W,1,Triangle,Nashville Open,70KG,SF,2022
+36182,12539,Eduardo Roque,12573,Sebastian Serpa,W,1,Pts: 2x0,Nashville Open,70KG,F,2022
+36675,12539,Eduardo Roque,,Pedro Henrique,W,1,Triangle,Waco Open,70KG,SF,2022
+36677,12539,Eduardo Roque,,Vinny Saenz,W,1,Triangle armlock,Waco Open,70KG,F,2022
+37136,12539,Eduardo Roque,9407,Alexandre Molinaro,W,1,Pts: 8x2,European Open,ABS,R1,2023

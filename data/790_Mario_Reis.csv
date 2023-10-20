@@ -1,0 +1,83 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1110,790,Mario Reis,453,Daniel Moraes,L,0,Adv,GP Blackbelt,70KG,4F,2004
+1287,790,Mario Reis,819,Fredson Paixao,L,0,Armbar,World Champ.,70KG,F,2005
+1364,790,Mario Reis,1055,Tiago Alves,L,0,Choke,Pan American,76KG,F,2006
+1427,790,Mario Reis,428,Celso Vinicius,L,0,Pts: 5x0,World Champ.,76KG,F,2006
+1608,790,Mario Reis,147,Rubens Charles,L,0,Pts: 2x0,Pan American,70KG,F,2007
+1749,790,Mario Reis,147,Rubens Charles,L,0,Bow and arrow,World Champ.,70KG,F,2007
+1917,790,Mario Reis,174,Bruno Frazatto,L,0,Points,World Champ.,70KG,SF,2008
+2075,790,Mario Reis,179,Rafael Mendes,L,0,Points,Capital Challenge,70KG,SF,2008
+2156,790,Mario Reis,147,Rubens Charles,L,0,Bow and arrow,Pan American,70KG,F,2009
+2328,790,Mario Reis,174,Bruno Frazatto,L,0,Pts: 2x0,World Champ.,70KG,SF,2009
+2516,790,Mario Reis,428,Celso Vinicius,L,0,Referee Decision,WPC Gr Trials,74KG,SF,2010
+2678,790,Mario Reis,147,Rubens Charles,L,0,Choke from back,World Champ.,70KG,SF,2010
+2773,790,Mario Reis,188,Augusto Mendes,L,0,"Pts: 0x0, Adv",South American,76KG,F,2010
+2776,790,Mario Reis,188,Augusto Mendes,L,0,DQ,South American,ABS,F,2010
+3136,790,Mario Reis,179,Rafael Mendes,L,0,Pts: 4x2,World Champ.,70KG,SF,2011
+3591,790,Mario Reis,179,Rafael Mendes,L,0,Wristlock,Pan American,70KG,SF,2012
+3989,790,Mario Reis,179,Rafael Mendes,L,0,Pts: 2x0,World Champ.,70KG,SF,2012
+4555,790,Mario Reis,179,Rafael Mendes,L,0,Pts: 2x0,Pan American,70KG,SF,2013
+4641,790,Mario Reis,8231,Leo Saggioro,L,0,Referee Decision,Brasileiro,70KG,F,2013
+4785,790,Mario Reis,179,Rafael Mendes,L,0,Adv,World Champ.,70KG,SF,2013
+5772,790,Mario Reis,179,Rafael Mendes,L,0,Choke from back,World Champ.,70KG,SF,2014
+7107,790,Mario Reis,5061,Gabriel Rollo,L,0,Pts: 3x0,World Pro,75KG,SF,2015
+7110,790,Mario Reis,1824,Roberto Satoshi,L,0,Pts: 2x0,World Pro,75KG,3RD,2015
+7430,790,Mario Reis,179,Rafael Mendes,L,0,Wristlock,World Champ.,70KG,SF,2015
+886,790,Mario Reis,819,Fredson Paixao,W,1,Triangle,World Champ.,70KG,SF,2003
+888,790,Mario Reis,727,Alexandre Soca,W,1,Pts: 8x4,World Champ.,70KG,F,2003
+929,790,Mario Reis,,Unknown,W,1,Injury,World Cup,70KG,R1,2003
+930,790,Mario Reis,,Gabriel Willcox,W,1,Armbar,World Cup,70KG,4F,2003
+931,790,Mario Reis,570,Marcelino Freitas,W,1,Pts: 8x2,World Cup,70KG,F,2003
+1051,790,Mario Reis,819,Fredson Paixao,W,1,Pts: 2x0,World Champ.,70KG,F,2004
+1078,790,Mario Reis,177,Rany Yahya,W,1,Omoplata,World Cup,70KG,R1,2004
+1079,790,Mario Reis,1149,Reinaldo Ribeiro,W,1,Pts: 5x0,World Cup,70KG,F,2004
+1106,790,Mario Reis,,Unknown,W,1,Armbar,GP Blackbelt,70KG,R1,2004
+1283,790,Mario Reis,,Gabriel Cataide,W,1,N/A,World Champ.,70KG,R1,2005
+1284,790,Mario Reis,,T. Omore,W,1,Baseball choke,World Champ.,70KG,R2,2005
+1285,790,Mario Reis,548,Renato Migliaccio,W,1,Armbar,World Champ.,70KG,4F,2005
+1286,790,Mario Reis,,Fredson Alves,W,1,Triangle,World Champ.,70KG,SF,2005
+1361,790,Mario Reis,,Joao Silva,W,1,Verbal tap,Pan American,76KG,4F,2006
+1363,790,Mario Reis,396,Carlos Portugues,W,1,"Pts: 0x0, Adv",Pan American,76KG,SF,2006
+1420,790,Mario Reis,,Paulo Ubiratan,W,1,Triangle,World Champ.,76KG,R1,2006
+1423,790,Mario Reis,921,Rafael Barbosa,W,1,"Pts: 2x2, Adv",World Champ.,76KG,4F,2006
+1425,790,Mario Reis,410,Claudio Calasans,W,1,Referee Decision,World Champ.,76KG,SF,2006
+1605,790,Mario Reis,,Unknown,W,1,Armbar,Pan American,70KG,4F,2007
+1606,790,Mario Reis,471,Bibiano Fernandes,W,1,Points,Pan American,70KG,SF,2007
+1744,790,Mario Reis,,Gabriel Willcox,W,1,Choke,World Champ.,70KG,R1,2007
+1745,790,Mario Reis,5992,Wilson Reis,W,1,Armbar,World Champ.,70KG,4F,2007
+1748,790,Mario Reis,975,Jonatas Gurgel,W,1,Armbar,World Champ.,70KG,SF,2007
+1914,790,Mario Reis,613,Wellington Dias,W,1,Pts: 4x2,World Champ.,70KG,4F,2008
+2072,790,Mario Reis,1433,Bernardo Pitel,W,1,Submission,Capital Challenge,70KG,4F,2008
+2100,790,Mario Reis,,Takumi Nakayama,W,1,Choke,European,70KG,SF,2009
+2101,790,Mario Reis,613,Wellington Dias,W,1,Armbar,European,70KG,F,2009
+2153,790,Mario Reis,613,Wellington Dias,W,1,Triangle,Pan American,70KG,4F,2009
+2154,790,Mario Reis,415,Guilherme Mendes,W,1,"Pts: 10x10, Adv",Pan American,70KG,SF,2009
+2324,790,Mario Reis,1440,Rodrigo Ranieri,W,1,"Pts: 2x2, Adv",World Champ.,70KG,4F,2009
+2458,790,Mario Reis,5715,Isaque Paiva,W,1,Points,Mundial CBJJE,70KG,F,2010
+2672,790,Mario Reis,,Koji Shimasaki,W,1,Kneebar,World Champ.,70KG,R1,2010
+2676,790,Mario Reis,,Renan Borges,W,1,Choke from back,World Champ.,70KG,4F,2010
+2775,790,Mario Reis,,Felipe Teixeira,W,1,N/A,South American,ABS,SF,2010
+3012,790,Mario Reis,,Gustavo Ernesto,W,1,Choke,World Champ.,70KG,RDS,2011
+3109,790,Mario Reis,570,Marcelino Freitas,W,1,Pts: 4x2,World Champ.,70KG,4F,2011
+3462,790,Mario Reis,7872,Gilson Nunes,W,1,Choke from back,CBJJE Brasileiro,70KG,F,2011
+3479,790,Mario Reis,5715,Isaque Paiva,W,1,Points,Mundial CBJJE,70KG,F,2012
+3589,790,Mario Reis,,Spenser Gilliam,W,1,N/A,Pan American,70KG,4F,2012
+3968,790,Mario Reis,,Takuto Kako,W,1,Submission,World Champ.,70KG,R2,2012
+3979,790,Mario Reis,1436,Samir Chantre,W,1,Armbar,World Champ.,70KG,R3,2012
+3988,790,Mario Reis,570,Marcelino Freitas,W,1,Triangle,World Champ.,70KG,4F,2012
+4548,790,Mario Reis,7645,Masahiro Iwasaki,W,1,Points,Pan American,70KG,R1,2013
+4639,790,Mario Reis,5715,Isaque Paiva,W,1,N/A,Brasileiro,70KG,SF,2013
+4783,790,Mario Reis,5414,Osvaldo Moizinho,W,1,Pts: 6x2,World Champ.,70KG,4F,2013
+5343,790,Mario Reis,,Spencer Gilliam,W,1,N/A,Pan American,70KG,R1,2014
+5347,790,Mario Reis,,Mayko Borges,W,1,Brabo choke,Pan American,70KG,4F,2014
+5351,790,Mario Reis,5414,Osvaldo Moizinho,W,1,Pts: 6x4,Pan American,70KG,SF,2014
+5763,790,Mario Reis,,Charles Gaspar,W,1,N/A,World Champ.,70KG,RDS,2014
+5766,790,Mario Reis,613,Wellington Dias,W,1,N/A,World Champ.,70KG,RDS,2014
+5770,790,Mario Reis,244,Denilson Pimenta,W,1,Adv,World Champ.,70KG,4F,2014
+6438,790,Mario Reis,,Rodrigo Almeida,W,1,N/A,Brazil Nat. Pro,75KG,R1,2015
+6440,790,Mario Reis,,Mauricio Ferreira,W,1,N/A,Brazil Nat. Pro,75KG,4F,2015
+6442,790,Mario Reis,5715,Isaque Paiva,W,1,Pts: 10x0,Brazil Nat. Pro,75KG,SF,2015
+7098,790,Mario Reis,,Bruno Cezar,W,1,Points,World Pro,75KG,R1,2015
+7104,790,Mario Reis,,Unknown,W,1,Points,World Pro,75KG,4F,2015
+7424,790,Mario Reis,6368,Kevin Mahecha,W,1,Armbar,World Champ.,70KG,8F,2015
+25094,790,Mario Reis,,Leon Amancio,W,1,Pts: 3x0,BJJ Stars 5,70KG,SPF,2021

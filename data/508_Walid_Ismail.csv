@@ -1,0 +1,5 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+57,508,Walid Ismail,88,JJ Machado,L,0,Referee Decision,Atlantico Sul,82KG,F,1991
+91,508,Walid Ismail,550,Roberto Roleta,L,0,Pts: 4x0,World Champ.,88KG,SF,1996
+55,508,Walid Ismail,52,Renzo Gracie,W,1,Pts: 6x0,Desafio WxR,82KG,SPF,1993
+249,508,Walid Ismail,743,Royce Gracie,W,1,Clock choke,Oscar de JJ,ABS,SPF,1998

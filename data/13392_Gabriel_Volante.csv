@@ -1,0 +1,32 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21344,13392,Gabriel Volante,6825,Fernando Reis,L,0,Referee Decision,Floripa WO,94KG,SF,2019
+21351,13392,Gabriel Volante,6825,Fernando Reis,L,0,Ezekiel,Floripa WO,ABS,4F,2019
+22594,13392,Gabriel Volante,4960,Dimitrius Souza,L,0,Referee Decision,South American,94KG,F,2019
+23044,13392,Gabriel Volante,3009,Keenan Cornelius,L,0,Choke from back,European Open,ABS,R2,2020
+23138,13392,Gabriel Volante,7478,Adam Wardzinski,L,0,Choke from back,European Open,94KG,4F,2020
+26438,13392,Gabriel Volante,11693,Erich Munis,L,0,Pts: 2x0,SA Cont. Pro,94KG,R1,2021
+32190,13392,Gabriel Volante,11064,Rider Zuchi,L,0,Pts: 4x2,Brasileiro,94KG,SF,2022
+33234,13392,Gabriel Volante,10817,Gabriel Henrique,L,0,Pts: 3x0,Floripa WO,94KG,F,2022
+33594,13392,Gabriel Volante,,Wallison Pardim,L,0,Pts: 3x0,Betim Open,94KG,4F,2022
+33611,13392,Gabriel Volante,,Cleyton Flores,L,0,Referee Decision,Betim Open,ABS,4F,2022
+35170,13392,Gabriel Volante,,Gabriel Neto,L,0,Pts: 2x0,SP Open,ABS,4F,2022
+38057,13392,Gabriel Volante,4430,Patrick Gaudio,L,0,Pts: 5x0,Curitiba SMO,94KG,F,2023
+38966,13392,Gabriel Volante,13417,Vinicius Liberati,L,0,Referee Decision,BJJS Confere,ABS,F,2023
+39519,13392,Gabriel Volante,11064,Rider Zuchi,L,0,Pts: 4x2,Brasileiro,94KG,4F,2023
+40140,13392,Gabriel Volante,9573,Marcos Martins,L,0,Pts: 2x0,Floripa FO,94KG,F,2023
+21736,13392,Gabriel Volante,10964,Caio Paganini,W,1,Choke from back,Sao Paulo Open,94KG,SF,2019
+21737,13392,Gabriel Volante,11215,Harryson Pereira,W,1,Adv,Sao Paulo Open,94KG,F,2019
+22119,13392,Gabriel Volante,,Renan Marcel,W,1,Armbar,Curitiba SPO,ABS,SF,2019
+22121,13392,Gabriel Volante,6825,Fernando Reis,W,1,Choke from back,Curitiba SPO,ABS,F,2019
+22593,13392,Gabriel Volante,6825,Fernando Reis,W,1,Kneebar,South American,94KG,SF,2019
+23132,13392,Gabriel Volante,8634,Rafael Vasconcelos,W,1,Pts: 6x0,European Open,94KG,R1,2020
+32188,13392,Gabriel Volante,,Felipe Pimentel,W,1,Choke from back,Brasileiro,94KG,4F,2022
+33232,13392,Gabriel Volante,,Wesley Maxwell,W,1,Pts: 13x2,Floripa WO,94KG,SF,2022
+35152,13392,Gabriel Volante,,Otavio Marinho,W,1,Pts: 17x0,SP Open,94KG,R1,2022
+35167,13392,Gabriel Volante,,Edgar Loureiro,W,1,Choke from back,SP Open,ABS,R1,2022
+38053,13392,Gabriel Volante,,David Santos,W,1,Back triangle,Curitiba SMO,94KG,4F,2023
+38055,13392,Gabriel Volante,10669,Lucas Alves,W,1,Back triangle,Curitiba SMO,94KG,SF,2023
+38960,13392,Gabriel Volante,,Wildemar Santos,W,1,Referee Decision,BJJS Confere,ABS,4F,2023
+38964,13392,Gabriel Volante,13190,Vinicius Lessa,W,1,Referee Decision,BJJS Confere,ABS,SF,2023
+39517,13392,Gabriel Volante,,Caique Honorio,W,1,Armbar,Brasileiro,94KG,R1,2023
+40139,13392,Gabriel Volante,,Vital Neto,W,1,Referee Decision,Floripa FO,94KG,SF,2023

@@ -1,0 +1,154 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+11610,7399,Horlando Monteiro,1895,Rodrigo Fajardo,L,0,Pts: 2x0,European Open,88KG,F,2017
+12215,7399,Horlando Monteiro,,Roberto Frias,L,0,"Pts: 0x0, Adv",Pan American,88KG,8F,2017
+12394,7399,Horlando Monteiro,7831,Diego Ramalho,L,0,Pts: 6x4,NY Spring Open,88KG,SF,2017
+12408,7399,Horlando Monteiro,4235,Victor Silverio,L,0,Referee Decision,NY Spring Open,ABS,F,2017
+12801,7399,Horlando Monteiro,2235,Renato Cardoso,L,0,Points,Brasileiro,88KG,SF,2017
+12962,7399,Horlando Monteiro,5655,Lucas Barbosa,L,0,Pts: 2x0,San Diego Open,88KG,SF,2017
+13171,7399,Horlando Monteiro,2416,Felipe Pena,L,0,Bow and arrow,World Champ.,88KG,8F,2017
+13592,7399,Horlando Monteiro,7096,Josh Hinger,L,0,"Pts: 2x2, Adv",Seattle Open,88KG,F,2017
+13596,7399,Horlando Monteiro,3009,Keenan Cornelius,L,0,Choke from back,Seattle Open,ABS,SF,2017
+14216,7399,Horlando Monteiro,224,Roberto Abreu,L,0,Choke from back,Miami FO,ABS,SF,2017
+14876,7399,Horlando Monteiro,3200,Jackson Sousa,L,0,Pts: 5x4,European Open,ABS,8F,2018
+15428,7399,Horlando Monteiro,8357,Gustavo Batista,L,0,"Pts: 0x0, Adv",Pan American,88KG,4F,2018
+15610,7399,Horlando Monteiro,8195,Gutemberg Pereira,L,0,Choke from back,Chicago Sp. Open,ABS,F,2018
+16269,7399,Horlando Monteiro,8100,Rudson Mateus,L,0,RNC,Brasileiro,88KG,F,2018
+16570,7399,Horlando Monteiro,8357,Gustavo Batista,L,0,Referee Decision,World Champ.,88KG,4F,2018
+16868,7399,Horlando Monteiro,484,Murilo Santana,L,0,Choke from back,NY BJJ Pro,94KG,SF,2018
+18924,7399,Horlando Monteiro,8100,Rudson Mateus,L,0,Armbar,European Open,88KG,SF,2019
+18957,7399,Horlando Monteiro,8974,Kaynan Duarte,L,0,Pts: 4x0,European Open,ABS,4F,2019
+19772,7399,Horlando Monteiro,8357,Gustavo Batista,L,0,Referee Decision,F2W 107,85KG,SPF,2019
+20329,7399,Horlando Monteiro,4960,Dimitrius Souza,L,0,Choke from back,Brasileiro,94KG,SF,2019
+20375,7399,Horlando Monteiro,9741,Pedro Elias,L,0,Armlock,Brasileiro,ABS,R3,2019
+20881,7399,Horlando Monteiro,,Alvaro Fontes,L,0,Adv,Fortaleza Open,94KG,SF,2019
+21017,7399,Horlando Monteiro,6825,Fernando Reis,L,0,Pts: 2x0,SP BJJ Pro,94KG,4F,2019
+22403,7399,Horlando Monteiro,10240,Jake Watson,L,0,Pts: 12x8,Long Beach Open,94KG,F,2019
+22411,7399,Horlando Monteiro,10162,Ronaldo Junior,L,0,Armbar,Long Beach Open,ABS,SF,2019
+24205,7399,Horlando Monteiro,9321,Dominique Bell,L,0,Armbar,Pan American,94KG,SF,2020
+42375,7399,Horlando Monteiro,10159,Victor Hugo,L,0,Arm in Ezekiel,IBJJF GP,ABS,4F,2023
+11192,7399,Horlando Monteiro,,Karim Khalifa,W,1,Triangle,Paris Open,88KG,4F,2016
+11194,7399,Horlando Monteiro,7082,Luca Anacoreta,W,1,Pts: 2x0,Paris Open,88KG,SF,2016
+11195,7399,Horlando Monteiro,4145,Thiago Sa,W,1,Armbar,Paris Open,88KG,F,2016
+11291,7399,Horlando Monteiro,11111,Santeri Lilius,W,1,Pts: 4x2,Berlin Open,82KG,RR,2016
+11293,7399,Horlando Monteiro,11111,Santeri Lilius,W,1,Monted triangle,Berlin Open,82KG,F,2016
+11603,7399,Horlando Monteiro,8081,Nathan Mendelsohn,W,1,Triangle,European Open,88KG,8F,2017
+11606,7399,Horlando Monteiro,7082,Luca Anacoreta,W,1,Toe hold,European Open,88KG,4F,2017
+11609,7399,Horlando Monteiro,7047,Matheus Spirandeli,W,1,"Pts: 2x2, Adv",European Open,88KG,SF,2017
+12390,7399,Horlando Monteiro,,Samir Abdolkader,W,1,Toe hold,NY Spring Open,88KG,4F,2017
+12404,7399,Horlando Monteiro,6432,Yan Lucas,W,1,"Pts: 2x2, Adv",NY Spring Open,ABS,4F,2017
+12407,7399,Horlando Monteiro,,Joao Alves,W,1,Armbar,NY Spring Open,ABS,SF,2017
+12787,7399,Horlando Monteiro,,Luiz Soares,W,1,Points,Brasileiro,88KG,R1,2017
+12794,7399,Horlando Monteiro,,Esdras Barbosa,W,1,Points,Brasileiro,88KG,R2,2017
+12797,7399,Horlando Monteiro,5702,Marcos Oliveira,W,1,Points,Brasileiro,88KG,4F,2017
+12961,7399,Horlando Monteiro,,Justin Workman,W,1,Triangle,San Diego Open,88KG,4F,2017
+13435,7399,Horlando Monteiro,7922,Nick Schrock,W,1,Triangle,FIVE Super League,ABS,SPF,2017
+13591,7399,Horlando Monteiro,,Cleves Matos,W,1,Submission,Seattle Open,88KG,SF,2017
+13595,7399,Horlando Monteiro,,Paul Wesley,W,1,Triangle,Seattle Open,ABS,4F,2017
+13971,7399,Horlando Monteiro,,Vinicius Canabarro,W,1,Armbar,Atlanta SM Open,88KG,SF,2017
+13972,7399,Horlando Monteiro,,Rennick Kama,W,1,Armbar,Atlanta SM Open,88KG,F,2017
+13977,7399,Horlando Monteiro,,Kaliffa Oliveira,W,1,Armbar,Atlanta SM Open,ABS,4F,2017
+13978,7399,Horlando Monteiro,9864,Diego Bispo,W,1,Armbar,Atlanta SM Open,ABS,SF,2017
+13980,7399,Horlando Monteiro,4248,Gianni Grippo,W,1,Referee Decision,Atlanta SM Open,ABS,F,2017
+13982,7399,Horlando Monteiro,,Joshua Bowlin,W,1,Pts: 4x0,Atlanta SM NGO,91KG,RR,2017
+13983,7399,Horlando Monteiro,,Joshua Bowlin,W,1,Pts: 2x0,Atlanta SM NGO,91KG,F,2017
+14206,7399,Horlando Monteiro,,Pedro Palhares,W,1,Points,Miami FO,94KG,4F,2017
+14207,7399,Horlando Monteiro,,Paulo Chermont,W,1,Pts: 2x0,Miami FO,94KG,SF,2017
+14208,7399,Horlando Monteiro,,Diego Gamonal,W,1,Pts: 6x2,Miami FO,94KG,F,2017
+14215,7399,Horlando Monteiro,,Pedro Monteiro,W,1,Pts: 14x2,Miami FO,ABS,4F,2017
+14870,7399,Horlando Monteiro,,Manuel Oliveira,W,1,Triangle Armbar,European Open,ABS,R1,2018
+14939,7399,Horlando Monteiro,,Gustavo Santiago,W,1,Choke from back,European Open,88KG,R1,2018
+14940,7399,Horlando Monteiro,7652,C. Negromonte,W,1,Pts: 2x0,European Open,88KG,4F,2018
+14944,7399,Horlando Monteiro,,Viking Wong,W,1,Triangle Armbar,European Open,88KG,SF,2018
+14945,7399,Horlando Monteiro,2235,Renato Cardoso,W,1,Pts: 8x0,European Open,88KG,F,2018
+15600,7399,Horlando Monteiro,8729,Matt Leighton,W,1,Triangle,Chicago Sp. Open,94KG,F,2018
+15606,7399,Horlando Monteiro,9668,David Garmo,W,1,Triangle,Chicago Sp. Open,ABS,4F,2018
+15609,7399,Horlando Monteiro,5861,Jared Dopp,W,1,Armbar,Chicago Sp. Open,ABS,SF,2018
+15746,7399,Horlando Monteiro,10468,Nisar Loynab,W,1,Pts: 8x6,San Jose Open,88KG,SF,2018
+15747,7399,Horlando Monteiro,,Angelo Cicero,W,1,Pts: 2x0,San Jose Open,88KG,F,2018
+16259,7399,Horlando Monteiro,,Marco Aurelio,W,1,Loop choke,Brasileiro,88KG,R1,2018
+16261,7399,Horlando Monteiro,,Cesar Wanderley,W,1,Triangle armbar,Brasileiro,88KG,8F,2018
+16264,7399,Horlando Monteiro,4145,Thiago Sa,W,1,Triangle armbar,Brasileiro,88KG,4F,2018
+16268,7399,Horlando Monteiro,7047,Matheus Spirandeli,W,1,Triangle,Brasileiro,88KG,SF,2018
+16567,7399,Horlando Monteiro,,Adriano Candido,W,1,Triangle,World Champ.,88KG,8F,2018
+16687,7399,Horlando Monteiro,,Seth Daniel,W,1,Toe hold,American Nat. NG,91KG,SF,2018
+16688,7399,Horlando Monteiro,10468,Nisar Loynab,W,1,Pts: 2x0,American Nat. NG,91KG,F,2018
+16691,7399,Horlando Monteiro,5636,Manuel Ribamar,W,1,Triangle armbar,American Nat. NG,ABS,F,2018
+16710,7399,Horlando Monteiro,,Gianni Criello,W,1,Pts: 8x6,American Nat.,94KG,SF,2018
+16712,7399,Horlando Monteiro,8634,Rafael Vasconcelos,W,1,Referee Decision,American Nat.,94KG,F,2018
+16721,7399,Horlando Monteiro,,Ben Henderson,W,1,Triange armbar,American Nat.,ABS,4F,2018
+16722,7399,Horlando Monteiro,9407,Alexandre Molinaro,W,1,Triangle,American Nat.,ABS,SF,2018
+16724,7399,Horlando Monteiro,1827,James Puopolo,W,1,Pts: 6x2,American Nat.,ABS,F,2018
+17044,7399,Horlando Monteiro,,Diego Gamonal,W,1,Triangle,Orlando Open,94KG,F,2018
+17047,7399,Horlando Monteiro,,Jeffrey Cummings,W,1,Choke from back,Orlando Open,ABS,SF,2018
+17048,7399,Horlando Monteiro,8634,Rafael Vasconcelos,W,1,Cross choke,Orlando Open,ABS,F,2018
+17529,7399,Horlando Monteiro,,Ruan Botelho,W,1,N/A,Atlanta SMO,94KG,SF,2018
+17531,7399,Horlando Monteiro,7743,Inacio Neto,W,1,Points,Atlanta SMO,94KG,F,2018
+18365,7399,Horlando Monteiro,,Ygor Holanda,W,1,Pts: 2x0,South American,88KG,4F,2018
+18366,7399,Horlando Monteiro,,Caio Rodrigues,W,1,Bow and arrow,South American,88KG,SF,2018
+18367,7399,Horlando Monteiro,,Eric Souza,W,1,Triangle,South American,88KG,F,2018
+18374,7399,Horlando Monteiro,,N/A,W,1,"Pts: 4x4, Adv",South American,ABS,R1,2018
+18376,7399,Horlando Monteiro,,N/A,W,1,Triangle,South American,ABS,4F,2018
+18378,7399,Horlando Monteiro,,Filipe Pinheiro,W,1,Loop choke,South American,ABS,SF,2018
+18380,7399,Horlando Monteiro,9117,Hygor Brito,W,1,"Pts: 4x4, Adv",South American,ABS,F,2018
+18921,7399,Horlando Monteiro,11111,Santeri Lilius,W,1,Triangle armbar,European Open,88KG,4F,2019
+18949,7399,Horlando Monteiro,7321,Darragh OConaill,W,1,Pts: 4x2,European Open,ABS,R2,2019
+19280,7399,Horlando Monteiro,,Chris Ilagan,W,1,Wristlock,London WO,94KG,F,2019
+19281,7399,Horlando Monteiro,,Jacopo Pasquini,W,1,Armbar,London WO,ABS,4F,2019
+19284,7399,Horlando Monteiro,9635,Guilherme Rocha,W,1,Wristlock,London WO,ABS,SF,2019
+19286,7399,Horlando Monteiro,7652,C. Negromonte,W,1,Pts: 6x0,London WO,ABS,F,2019
+20000,7399,Horlando Monteiro,10468,Nisar Loynab,W,1,Armbar,San Jose Open,94KG,SF,2019
+20001,7399,Horlando Monteiro,9321,Dominique Bell,W,1,Adv,San Jose Open,94KG,F,2019
+20321,7399,Horlando Monteiro,,Gildassio Santana,W,1,Triangle,Brasileiro,94KG,R1,2019
+20327,7399,Horlando Monteiro,6825,Fernando Reis,W,1,Points,Brasileiro,94KG,4F,2019
+20370,7399,Horlando Monteiro,,Rafael Message,W,1,Adv,Brasileiro,ABS,R2,2019
+20534,7399,Horlando Monteiro,,Jonathan Correia,W,1,Ezekiel,Salvador FO,94KG,SF,2019
+20535,7399,Horlando Monteiro,,Danillo Guimaraes,W,1,Katagatame,Salvador FO,94KG,F,2019
+20537,7399,Horlando Monteiro,,Romario Teodoro,W,1,Armbar,Salvador FO,ABS,4F,2019
+20539,7399,Horlando Monteiro,,Vitor Moraes,W,1,Wristlock,Salvador FO,ABS,SF,2019
+20540,7399,Horlando Monteiro,,Carlos Jorge,W,1,Wristlock,Salvador FO,ABS,F,2019
+20884,7399,Horlando Monteiro,,Luiz Vieira,W,1,Armbar,Fortaleza Open,ABS,4F,2019
+20888,7399,Horlando Monteiro,,Wilson Almeida,W,1,Triangle,Fortaleza Open,ABS,SF,2019
+20889,7399,Horlando Monteiro,,Jonas Bruno,W,1,Triangle,Fortaleza Open,ABS,F,2019
+21471,7399,Horlando Monteiro,,Antonio Ferreira,W,1,Wristlock,Coliseu JJ,85KG,RR,2019
+21473,7399,Horlando Monteiro,,Vava Rodrigues,W,1,Choke from back,Coliseu JJ,85KG,RR,2019
+21475,7399,Horlando Monteiro,,Italo Lima,W,1,Triangle armbar,Coliseu JJ,85KG,RR,2019
+21477,7399,Horlando Monteiro,6432,Yan Lucas,W,1,Adv,Coliseu JJ,85KG,SF,2019
+21478,7399,Horlando Monteiro,,Marcelo Marques,W,1,Choke from back,Coliseu JJ,85KG,F,2019
+22402,7399,Horlando Monteiro,,Nathan Barreto,W,1,Triangle,Long Beach Open,94KG,SF,2019
+22406,7399,Horlando Monteiro,,Samir Abdolkader,W,1,Botinha,Long Beach Open,ABS,4F,2019
+23219,7399,Horlando Monteiro,,Mateo Tenzera,W,1,Armbar,Fresno Open,94KG,F,2020
+23220,7399,Horlando Monteiro,9031,Kennedy Maciel,W,1,"Pts: 6x6, Adv",Fresno Open,ABS,SF,2020
+23222,7399,Horlando Monteiro,,Juan Cleber,W,1,Triangle armbar,Fresno Open,ABS,F,2020
+23493,7399,Horlando Monteiro,,Said Dunkaev,W,1,Pts: 13x11,San Jose Open,88KG,4F,2020
+23494,7399,Horlando Monteiro,10468,Nisar Loynab,W,1,Choke from back,San Jose Open,88KG,SF,2020
+23495,7399,Horlando Monteiro,,Nick Greene,W,1,DQ,San Jose Open,88KG,F,2020
+24196,7399,Horlando Monteiro,5447,Mikey Musumeci,W,1,Katagatame,Pan American,94KG,R1,2020
+24203,7399,Horlando Monteiro,,Ashur Darmo,W,1,Triangle,Pan American,94KG,4F,2020
+24970,7399,Horlando Monteiro,,Ian Lemus,W,1,Choke from back,Orlando Open,94KG,F,2020
+24974,7399,Horlando Monteiro,12120,Estevan Martinez,W,1,Triangle,Orlando Open,ABS,4F,2020
+24976,7399,Horlando Monteiro,,Kildson Abreu,W,1,Pts: 7x0,Orlando Open,ABS,SF,2020
+24978,7399,Horlando Monteiro,,Stuart Maddox,W,1,Triangle armbar,Orlando Open,ABS,F,2020
+29975,7399,Horlando Monteiro,13031,Lucas Lisboa,W,1,Pts: 6x2,Austin WO,94KG,SF,2022
+29976,7399,Horlando Monteiro,,Juan Romero,W,1,Triangle,Austin WO,94KG,F,2022
+30790,7399,Horlando Monteiro,,Carlos Feitosa,W,1,Loop choke,Dallas Open,88KG,4F,2022
+30793,7399,Horlando Monteiro,,Thiago Andrade,W,1,Triangle,Dallas Open,88KG,SF,2022
+30795,7399,Horlando Monteiro,12680,Enderson Dias,W,1,Pts: 4x2,Dallas Open,88KG,F,2022
+36972,7399,Horlando Monteiro,,Jeremy Nitta,W,1,RNC,F2W 126,N/A,SPF,2022
+40722,7399,Horlando Monteiro,,Isaac Pavel,W,1,Triangle,Hawaii TC,ABS,4F,2023
+40723,7399,Horlando Monteiro,,Brian Leach,W,1,RNC,Hawaii TC,ABS,SF,2023
+40724,7399,Horlando Monteiro,,Nouras Haddad,W,1,Triangle,Hawaii TC,ABS,F,2023
+40725,7399,Horlando Monteiro,,Eric Brown,W,1,RNC,WSOG,100KG,F,2023
+40788,7399,Horlando Monteiro,,Ryan Marques,W,1,Katagatame,Indianapolis Open,88KG,SF,2023
+40789,7399,Horlando Monteiro,,Adilson Souza,W,1,Triangle,Indianapolis Open,88KG,F,2023
+40793,7399,Horlando Monteiro,,Pedro Zapata,W,1,Armbar,Indianapolis Open,ABS,F,2023
+41144,7399,Horlando Monteiro,,Clay Mayfield,W,1,Armlock,American Nats,88KG,4F,2023
+41146,7399,Horlando Monteiro,10162,Ronaldo Junior,W,1,Armbar,American Nats,88KG,SF,2023
+41147,7399,Horlando Monteiro,,Vitor Comelato,W,1,RNC,American Nats,88KG,F,2023
+41477,7399,Horlando Monteiro,,Kannon Fobes,W,1,Referee Decision,BRAVE,ABS,SPF,2023
+41641,7399,Horlando Monteiro,12544,Mateus Rodrigues,W,1,Triangle,Phoenix Open,94KG,SF,2023
+41643,7399,Horlando Monteiro,12267,Lucas Norat,W,1,Pts: 2x0,Phoenix Open,94KG,F,2023
+43128,7399,Horlando Monteiro,,Adilson Souza,W,1,Armbar,Kansas Open,94KG,SF,2023
+43130,7399,Horlando Monteiro,,Filipe Pimentel,W,1,Armbar,Kansas Open,94KG,F,2023
+43132,7399,Horlando Monteiro,,Karl Pegers,W,1,Wristlock,Kansas Open,ABS,4F,2023
+43134,7399,Horlando Monteiro,12048,Rafael Anjos,W,1,Smother tap,Kansas Open,ABS,SF,2023
+43136,7399,Horlando Monteiro,,Jose Inacio,W,1,Referee Decision,Kansas Open,ABS,F,2023

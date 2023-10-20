@@ -1,0 +1,75 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+13629,8729,Matthew Leighton,5655,Lucas Barbosa,L,0,Points,Chicago SMO,88KG,F,2017
+13636,8729,Matthew Leighton,3009,Keenan Cornelius,L,0,Points,Chicago SMO,ABS,4F,2017
+13976,8729,Matthew Leighton,7143,Breno Bittencourt,L,0,Pts: 5x0,Atlanta SM Open,ABS,4F,2017
+14027,8729,Matthew Leighton,9246,Tex Johnson,L,0,Referee Decision,No Gi Pan Am.,O97KG,F,2017
+14416,8729,Matthew Leighton,3009,Keenan Cornelius,L,0,Triangle kimura,BJJ NY Pro,94KG,SF,2017
+14635,8729,Matthew Leighton,2035,Vitor Oliveira,L,0,Points,Cincinnati Open,88KG,F,2017
+14639,8729,Matthew Leighton,9064,Silvio Duran,L,0,Referee Decision,Cincinnati Open,ABS,SF,2017
+15536,8729,Matthew Leighton,8532,Gerard Labinski,L,0,Referee Decision,Grand Slam LDN,110KG,SF,2018
+15600,8729,Matthew Leighton,7399,Horlando Monteiro,L,0,Triangle,Chicago Sp. Open,94KG,F,2018
+15608,8729,Matthew Leighton,8195,Gutemberg Pereira,L,0,Choke from back,Chicago Sp. Open,ABS,SF,2018
+16179,8729,Matthew Leighton,7478,Adam Wardzinski,L,0,Pts: 7x0,World Pro,94KG,SF,2018
+16184,8729,Matthew Leighton,,Basel Fanous,L,0,Referee Decision,World Pro,94KG,RPC,2018
+16871,8729,Matthew Leighton,5842,Mahamed Aly,L,0,Points,NY BJJ Pro,O94KG,SF,2018
+17064,8729,Matthew Leighton,4310,Tim Spriggs,L,0,Referee Decision,F2W 82,94KG,SPF,2018
+17534,8729,Matthew Leighton,1272,Leo Nogueira,L,0,Points,Atlanta SMO,ABS,SF,2018
+19399,8729,Matthew Leighton,9246,Tex Johnson,L,0,Straight ankle lock,SubSpectrum,ABS,SPF,2019
+19635,8729,Matthew Leighton,7047,Matheus Spirandeli,L,0,Pts: 6x2,Pan American,88KG,8F,2019
+20432,8729,Matthew Leighton,9157,Devhonte Johnson,L,0,Referee Decision,F2W 111,85KG,SPF,2019
+20522,8729,Matthew Leighton,9325,Dan Borovic,L,0,Pts: 4x2,Chicago SPO,94KG,F,2019
+22219,8729,Matthew Leighton,8996,Mauricio Oliveira,L,0,Referee Decision,F2W 129,88KG,SPF,2019
+23563,8729,Matthew Leighton,10880,Roberto Jimenez,L,0,Choke from back,Kansas Open,94KG,F,2020
+26171,8729,Matthew Leighton,6337,Arnaldo Maidana,L,0,Points,NoGi Pan Am.,97KG,4F,2021
+26590,8729,Matthew Leighton,,Antonio Zuazo,L,0,N/A,Boise NGO,97KG,F,2021
+26683,8729,Matthew Leighton,,Nathan Mendelshon,L,0,"Pts: 0x0, Adv",American Nats,94KG,4F,2021
+27621,8729,Matthew Leighton,,Chris Passarrello,L,0,Pts: 3x2,Pan American,94KG,4F,2021
+30869,8729,Matthew Leighton,,Marcos Carrozzino,L,0,N/A,Indianapolis Open,100KG,F,2022
+37573,8729,Matthew Leighton,,Paulo Merlin,L,0,Pts: 17x0,Atlanta WO,100KG,SF,2023
+13628,8729,Matthew Leighton,,Joseph Hooker,W,1,Armbar,Chicago SMO,88KG,SF,2017
+13635,8729,Matthew Leighton,,Danilo Lopes,W,1,Armbar,Chicago SMO,ABS,R1,2017
+13711,8729,Matthew Leighton,,Malden Jokmanovic,W,1,Armbar,Washington Open,88KG,SF,2017
+13712,8729,Matthew Leighton,,Christian Dellevag,W,1,Triangle,Washington Open,88KG,F,2017
+13843,8729,Matthew Leighton,7914,Nick Calvanese,W,1,Referee Decision,F2W 49,ABS,SPF,2017
+13973,8729,Matthew Leighton,,Walnan Presto,W,1,Points,Atlanta SM Open,94KG,4F,2017
+13974,8729,Matthew Leighton,,Jeff Boudreaux,W,1,Armbar,Atlanta SM Open,94KG,SF,2017
+13975,8729,Matthew Leighton,,Josh Bowlin,W,1,Points,Atlanta SM Open,94KG,F,2017
+14026,8729,Matthew Leighton,,Oleksandr Karliychuk,W,1,Armbar,No Gi Pan Am.,O97KG,SF,2017
+14414,8729,Matthew Leighton,,Charles McGuire,W,1,Armbar,BJJ NY Pro,94KG,4F,2017
+14536,8729,Matthew Leighton,,Diego Gamonal,W,1,Wristlock,San Antonio Open,88KG,F,2017
+14637,8729,Matthew Leighton,12629,Fabricio Barbarotti,W,1,Triangle,Cincinnati Open,ABS,4F,2017
+14984,8729,Matthew Leighton,,Pedro Azambuja,W,1,Pts: 2x0,US National Pro,94KG,F,2018
+15068,8729,Matthew Leighton,,Eduardo Miguel,W,1,Triangle,Mexico Pro,94KG,F,2018
+15218,8729,Matthew Leighton,,Kenneth Brown,W,1,Points,Continental Pro,110KG,RR,2018
+15219,8729,Matthew Leighton,9246,Tex Johnson,W,1,Points,Continental Pro,110KG,RR,2018
+15534,8729,Matthew Leighton,,Jamie Hughes,W,1,Pts: 6x4,Grand Slam LDN,110KG,4F,2018
+15545,8729,Matthew Leighton,7743,Inacio Neto,W,1,Referee Decision,F2W 66,94KG,SPF,2018
+15550,8729,Matthew Leighton,,Matthew Godden,W,1,Submission,Canada Nat. Pro,110KG,SF,2018
+15551,8729,Matthew Leighton,,Amir Yafawi,W,1,Pts: 6x0,Canada Nat. Pro,110KG,F,2018
+15955,8729,Matthew Leighton,5861,Jared Dopp,W,1,Referee Decision,Sub Spectrum,ABS,SPF,2018
+16311,8729,Matthew Leighton,9246,Tex Johnson,W,1,Triangle armbar,F2W 73,93KG,SPF,2018
+16400,8729,Matthew Leighton,9746,Gabriel Kitober,W,1,Triangle,Miami SPO,88KG,RR,2018
+16752,8729,Matthew Leighton,,Oscar Hipp,W,1,Triangle,F2W 78,94KG,SPF,2018
+17207,8729,Matthew Leighton,,Pedro Migliano,W,1,Triangle armbar,Chicago SM Open,94KG,SF,2018
+17208,8729,Matthew Leighton,,Andy Kazig,W,1,Armbar,Chicago SM Open,94KG,F,2018
+17228,8729,Matthew Leighton,8116,Dante Leon,W,1,Armbar,F2W 84,ABS,SPF,2018
+17339,8729,Matthew Leighton,,Amir Yafawi,W,1,Points,Toronto Open,94KG,SF,2018
+17340,8729,Matthew Leighton,,Daniel Hampton,W,1,Points,Toronto Open,94KG,F,2018
+17341,8729,Matthew Leighton,,Michael Zaniewski,W,1,Triangle,Toronto Open,ABS,4F,2018
+17342,8729,Matthew Leighton,,Amir Yafawi,W,1,Points,Toronto Open,ABS,SF,2018
+17343,8729,Matthew Leighton,,Rodrigo Reis,W,1,Triangle,Toronto Open,ABS,F,2018
+17527,8729,Matthew Leighton,,Fabio Melo,W,1,Submission,Atlanta SMO,88KG,SF,2018
+17528,8729,Matthew Leighton,7636,Vinicius Garcia,W,1,Armbar,Atlanta SMO,88KG,F,2018
+17872,8729,Matthew Leighton,,Zigmars Evamois,W,1,Triangle,Twin Cities Open,100KG,F,2018
+17873,8729,Matthew Leighton,,Zigmars Evamois,W,1,Armbar,Twin Cities Open,ABS,4F,2018
+17874,8729,Matthew Leighton,12338,Gialysson Freitas,W,1,Pts: 4x2,Twin Cities Open,ABS,SF,2018
+17875,8729,Matthew Leighton,,Thomas McMahon,W,1,Pts: 2x0,Twin Cities Open,ABS,F,2018
+20520,8729,Matthew Leighton,,Josh Cadenbach,W,1,Triangle,Chicago SPO,94KG,SF,2019
+21176,8729,Matthew Leighton,,Andre Reis,W,1,Pts: 15x0,Austin SMO,94KG,SF,2019
+21177,8729,Matthew Leighton,,Pedro Migliano,W,1,Bow and arrow,Austin SMO,94KG,F,2019
+21273,8729,Matthew Leighton,,Melor Sturua,W,1,Triangle,Chicago SMO,94KG,F,2019
+26169,8729,Matthew Leighton,9559,Rida Haisam,W,1,Pts: 2x0,NoGi Pan Am.,97KG,4F,2021
+26581,8729,Matthew Leighton,,Antonio Zuazo,W,1,N/A,Boise Open,94KG,F,2021
+27290,8729,Matthew Leighton,,Charles McGuire,W,1,Triangle,Kansas Open,94KG,SF,2021
+27291,8729,Matthew Leighton,,Adam Bradley,W,1,Referee Decision,Kansas Open,94KG,F,2021
+27615,8729,Matthew Leighton,,Melor Sturua,W,1,Choke from back,Pan American,94KG,8F,2021

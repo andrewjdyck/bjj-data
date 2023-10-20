@@ -1,0 +1,69 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8215,8112,Matheus Costa,,Ricardo Rocha,L,0,"Pts: 2x2, Adv",Floripa Open,76KG,F,2015
+8231,8112,Matheus Costa,6596,Jhonny Loureiro,L,0,Triangle,Floripa NoGi Open,79KG,4F,2015
+8647,8112,Matheus Costa,428,Celso Vinicius,L,0,Choke from back,Grand Slam RJ,77KG,SF,2015
+8650,8112,Matheus Costa,6599,Rafael Mansur,L,0,Pts: 6x3,Grand Slam RJ,77KG,3RD,2015
+9174,8112,Matheus Costa,4460,Jaime Canuto,L,0,Armbar,Rio Summer Open,82KG,SF,2016
+9767,8112,Matheus Costa,6596,Jhonny Loureiro,L,0,Armbar,Brasileiro,82KG,4F,2016
+9825,8112,Matheus Costa,2235,Renato Cardoso,L,0,Armbar,Brasileiro,ABS,RD,2016
+11064,8112,Matheus Costa,5061,Gabriel Rollo,L,0,Armbar,Grand Slam RJ,77KG,4F,2016
+11344,8112,Matheus Costa,5078,Luan Carvalho,L,0,Points,Petropolis Pro,77KG,F,2016
+11745,8112,Matheus Costa,3206,Rodrigo Conceicao,L,0,Points,ADCC RJ,77KG,R1,2017
+11800,8112,Matheus Costa,6596,Jhonny Loureiro,L,0,Points,Manaus Nat. Pro,77KG,4F,2017
+12768,8112,Matheus Costa,122,Michael Langhi,L,0,DQ,Brasileiro,76KG,SF,2017
+13109,8112,Matheus Costa,6563,Francisco Iturralde,L,0,Kneebar,World Champ.,76KG,R1,2017
+14338,8112,Matheus Costa,,Talles Silva,L,0,"Pts: 0x0, Adv",Grand Slam RJ,77KG,R1,2017
+16226,8112,Matheus Costa,3206,Rodrigo Conceicao,L,0,Pts: 6x2,Brasileiro,76KG,8F,2018
+16507,8112,Matheus Costa,358,Lucas Lepri,L,0,Choke f/ omoplata,World Champ.,76KG,R3,2018
+17042,8112,Matheus Costa,,Pedro Palhares,L,0,Choke from back,Orlando Open,82KG,F,2018
+17522,8112,Matheus Costa,9440,Jeremy Jackson,L,0,Footlock,Atlanta SMO,76KG,SF,2018
+17575,8112,Matheus Costa,11465,Kauan Barboza,L,0,Pts: 2x0,Grand Slam LA,77KG,4F,2018
+18547,8112,Matheus Costa,12629,Fabricio Barbarotti,L,0,Points,BH Sp Open,82KG,SF,2018
+20283,8112,Matheus Costa,9121,Ygor Rodrigues,L,0,Pts: 2x0,Brasileiro,76KG,F,2019
+21011,8112,Matheus Costa,5756,Wellington Luis,L,0,Bow and arrow,SP BJJ Pro,82KG,4F,2019
+21792,8112,Matheus Costa,,Leonardo Travagin,L,0,N/A,Brasileiro NoGi,79KG,SF,2019
+22745,8112,Matheus Costa,,Bruno Panozo,L,0,Points,Porto Alegre Open,82KG,F,2019
+24716,8112,Matheus Costa,6432,Yan Lucas,L,0,Pts: 4x3,Grand Slam RJ,77KG,4F,2020
+24722,8112,Matheus Costa,9067,Leonardo Lara,L,0,Crucifix choke,Grand Slam RJ,77KG,RPC,2020
+24923,8112,Matheus Costa,,Wellington Costa,L,0,Injury,South American,82KG,R1,2020
+33320,8112,Matheus Costa,,Uilton Moreira,L,0,No arm triangle,Rio WO,88KG,4F,2022
+43034,8112,Matheus Costa,11766,Gabriel Costa,L,0,RNC,Brasileiro NoGi,85KG,R1,2023
+8213,8112,Matheus Costa,,Sandro Vieira,W,1,Armbar,Floripa Open,76KG,4F,2015
+8214,8112,Matheus Costa,,Luis Siqueira,W,1,Submission,Floripa Open,76KG,SF,2015
+8636,8112,Matheus Costa,,Ricardo Rocha,W,1,"Pts: 2x2, Adv",Grand Slam RJ,77KG,R1,2015
+8640,8112,Matheus Costa,,Renan Gomes,W,1,Armlock,Grand Slam RJ,77KG,8F,2015
+8645,8112,Matheus Costa,,Philipe Arimatea,W,1,Pts: 2x0,Grand Slam RJ,77KG,4F,2015
+8852,8112,Matheus Costa,,Patrick Almeida,W,1,Armbar,Top Strike 3,N/A,SPF,2015
+8853,8112,Matheus Costa,,Tiano Martins,W,1,Armbar,Confere 8,76KG,SPF,2015
+9172,8112,Matheus Costa,,Pedro Alcântara,W,1,Points,Rio Summer Open,82KG,4F,2016
+9757,8112,Matheus Costa,,George da Silva,W,1,Points,Brasileiro,82KG,R1,2016
+9764,8112,Matheus Costa,,Bruno de França,W,1,Armlock,Brasileiro,82KG,8F,2016
+11042,8112,Matheus Costa,,Luca Abayan,W,1,Pts: 5x0,Grand Slam RJ,77KG,R1,2016
+11060,8112,Matheus Costa,,Talles Silva,W,1,Referee Decision,Grand Slam RJ,77KG,8F,2016
+11345,8112,Matheus Costa,5078,Luan Carvalho,W,1,Adv,Petropolis Pro,ABS,SF,2016
+12754,8112,Matheus Costa,,Edward Hohl,W,1,Amassa pao choke,Brasileiro,76KG,R1,2017
+12755,8112,Matheus Costa,,Caio Cipriano,W,1,Choke from back,Brasileiro,76KG,R2,2017
+12764,8112,Matheus Costa,4115,Fabio Caloi,W,1,Toe hold,Brasileiro,76KG,4F,2017
+12991,8112,Matheus Costa,,Andre Luiz,W,1,Choke,Curitiba Fall Open,76KG,4F,2017
+12995,8112,Matheus Costa,,Mateus Garcia,W,1,Armlock,Curitiba Fall Open,88KG,F,2017
+13252,8112,Matheus Costa,,Mauricio Fernandes,W,1,Choke,Rio Winter Open,76KG,R1,2017
+13253,8112,Matheus Costa,,Lucas Costa,W,1,Armbar,Rio Winter Open,76KG,4F,2017
+13255,8112,Matheus Costa,,Pedro Fernandes,W,1,Choke from back,Rio Winter Open,76KG,SF,2017
+13257,8112,Matheus Costa,3206,Rodrigo Conceicao,W,1,"Pts: 10x10, Adv",Rio Winter Open,76KG,F,2017
+13739,8112,Matheus Costa,,Magno Mota,W,1,Armlock,Brasileiro Equipes,82KG,SF,2017
+13740,8112,Matheus Costa,,Leo Lara,W,1,Choke from Back,Brasileiro Equipes,82KG,F,2017
+16218,8112,Matheus Costa,,Matheus Carvalho,W,1,Armlock,Brasileiro,76KG,R1,2018
+16496,8112,Matheus Costa,,Oliver Lovell,W,1,Pts: 8x4,World Champ.,76KG,R2,2018
+17040,8112,Matheus Costa,,Edson Silva,W,1,Armlock,Orlando Open,82KG,SF,2018
+17250,8112,Matheus Costa,,Steven Silva,W,1,Armlock,Florida States,88K,F,2018
+17251,8112,Matheus Costa,,R. Cadena,W,1,Triangle,Florida States,ABS,SF,2018
+17252,8112,Matheus Costa,,R. Dias,W,1,Choke from back,Florida States,ABS,F,2018
+18545,8112,Matheus Costa,,Vagner Nascimento,W,1,N/A,BH Sp Open,82KG,4F,2018
+20263,8112,Matheus Costa,,Thales Oliveira,W,1,Points,Brasileiro,76KG,R1,2019
+20280,8112,Matheus Costa,,Vitor Moraes,W,1,Botinha,Brasileiro,76KG,4F,2019
+20282,8112,Matheus Costa,,Bruno Bressan,W,1,Pts: 9x2,Brasileiro,76KG,SF,2019
+21789,8112,Matheus Costa,,Lucas Queiroz,W,1,N/A,Brasileiro NoGi,79KG,R1,2019
+21791,8112,Matheus Costa,,Eduardo Simoes,W,1,N/A,Brasileiro NoGi,79KG,4F,2019
+24699,8112,Matheus Costa,,Evandro Filho,W,1,Pts: 3x2,Grand Slam RJ,77KG,R1,2020
+24712,8112,Matheus Costa,,Jonas Bruno,W,1,Pts: 3x0,Grand Slam RJ,77KG,8F,2020
+24922,8112,Matheus Costa,,Lucas Silva,W,1,Omoplata,South American,82KG,R1,2020

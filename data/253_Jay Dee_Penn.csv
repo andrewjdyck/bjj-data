@@ -1,0 +1,5 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+385,253,Jay Dee Penn,727,Alexandre Soca,W,1,Points,World Champ.,70KG,4F,2000
+386,253,Jay Dee Penn,,Fredson Alves,W,1,Points,World Champ.,70KG,SF,2000
+387,253,Jay Dee Penn,9941,Edson Diniz,W,1,Armbar,World Champ.,70KG,F,2000
+483,253,Jay Dee Penn,,Mike Cardosa,W,1,Points,Grapplers Quest,ABS,SPF,2000

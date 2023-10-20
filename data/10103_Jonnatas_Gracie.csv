@@ -1,0 +1,60 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+20761,10103,Jonnatas Gracie,8100,Rudson Mateus,L,0,Footlock,King of Mats,110KG,RR,2019
+20765,10103,Jonnatas Gracie,2403,Joao Rocha,L,0,Pts: 3x0,King of Mats,110KG,SF,2019
+20767,10103,Jonnatas Gracie,8100,Rudson Mateus,L,0,Armbar,King of Mats,110KG,3RD,2019
+21612,10103,Jonnatas Gracie,9157,Devhonte Johnson,L,0,Referee Decision,No Gi Pan Am.,ABS,R1,2019
+22533,10103,Jonnatas Gracie,,K. Steele,L,0,EBI/OT,BJJ Fanatics,ABS,4F,2019
+22813,10103,Jonnatas Gracie,8686,Fellipe Trovo,L,0,Toe hold,NoGi Worlds,ABS,R1,2019
+23520,10103,Jonnatas Gracie,11223,Ethan Crelinsten,L,0,EBI/OT,BJJ Fanatics GP,77KG,SF,2020
+23784,10103,Jonnatas Gracie,10159,Victor Hugo,L,0,Arm in Ezekiel,3CG Kumite II,ABS,SF,2020
+24098,10103,Jonnatas Gracie,484,Murilo Santana,L,0,Crucifix choke,Pan American,ABS,8F,2020
+24166,10103,Jonnatas Gracie,10085,Johnatha Alves,L,0,Referee Decision,Pan American,76KG,SF,2020
+26599,10103,Jonnatas Gracie,10085,Johnatha Alves,L,0,Pts: 2x2,EUG 2,77KG,SF,2021
+27600,10103,Jonnatas Gracie,5347,Yago Souza,L,0,Pts: 4x2,Pan American,82KG,SF,2021
+29099,10103,Jonnatas Gracie,11697,Tainan Dalpra,L,0,Choke from back,IBJJF GP,82KG,F,2021
+29532,10103,Jonnatas Gracie,7552,Isaque Bahiense,L,0,Referee Decision,World Champ.,82KG,SF,2021
+32926,10103,Jonnatas Gracie,12122,Mica Galvao,L,0,Bow and arrow,World Champ.,76KG,SF,2022
+20747,10103,Jonnatas Gracie,,Donghwa Choi,W,1,Choke,King of Mats,110KG,RR,2019
+20751,10103,Jonnatas Gracie,1534,R. Evangelista,W,1,Pts: 4x2,King of Mats,110KG,RR,2019
+20756,10103,Jonnatas Gracie,7478,Adam Wardzinski,W,1,Pts: 2x0,King of Mats,110KG,RR,2019
+21593,10103,Jonnatas Gracie,,Charles McGuire,W,1,Verbal tap,No Gi Pan Am.,85KG,R1,2019
+21596,10103,Jonnatas Gracie,,Dylan Royce,W,1,Pts: 5x0,No Gi Pan Am.,85KG,SF,2019
+21597,10103,Jonnatas Gracie,10240,Jake Watson,W,1,Pts: 11x2,No Gi Pan Am.,85KG,F,2019
+22011,10103,Jonnatas Gracie,10506,Jeferson Guaresi,W,1,Points,Templum FN,ABS,SPF,2019
+22524,10103,Jonnatas Gracie,6836,John Combs,W,1,EBI/OT,BJJ Fanatics,ABS,R1,2019
+22530,10103,Jonnatas Gracie,,Mike Mucitelli,W,1,Arm in guillotine,BJJ Fanatics,ABS,R2,2019
+22875,10103,Jonnatas Gracie,,Edson Oliveira,W,1,RNC,NoGi Worlds,79KG,R1,2019
+23100,10103,Jonnatas Gracie,11132,Leon Larman,W,1,Bread cutter choke,European Open,76KG,4F,2020
+23103,10103,Jonnatas Gracie,5078,Luan Carvalho,W,1,Referee Decision,European Open,76KG,SF,2020
+23104,10103,Jonnatas Gracie,2035,Vitor Oliveira,W,1,Referee Decision,European Open,76KG,F,2020
+23519,10103,Jonnatas Gracie,7664,Johnny Tama,W,1,EBI/OT,BJJ Fanatics GP,77KG,4F,2020
+23782,10103,Jonnatas Gracie,11991,Pedro Marinho,W,1,Points,3CG Kumite II,ABS,4F,2020
+23787,10103,Jonnatas Gracie,5238,Edwin Najmi,W,1,Referee Decision,F2W 144,79KG,SPF,2020
+24158,10103,Jonnatas Gracie,10509,Mathias Luna,W,1,Choke from back,Pan American,76KG,8F,2020
+24437,10103,Jonnatas Gracie,,Charles McGuire,W,1,Choke,Atlanta Open,ABS,4F,2020
+24478,10103,Jonnatas Gracie,,Avery Brooks,W,1,RNC,No Gi Pan Am.,79KG,R1,2020
+24483,10103,Jonnatas Gracie,,Bobby Malof,W,1,Referee Decision,No Gi Pan Am.,79KG,4F,2020
+24485,10103,Jonnatas Gracie,,Pedro Palhares,W,1,Pts: 4x0,No Gi Pan Am.,79KG,SF,2020
+25031,10103,Jonnatas Gracie,8138,Hugo Marques,W,1,Referee Decision,F2W 160,84KG,SPF,2021
+25855,10103,Jonnatas Gracie,10658,Matheus Luna,W,1,Referee Decision,F2W 170,83KG,SPF,2021
+26596,10103,Jonnatas Gracie,10509,Mathias Luna,W,1,Pts: 2x0,EUG 2,77KG,4F,2021
+27591,10103,Jonnatas Gracie,12215,Sebastian Rodriguez,W,1,Choke from back,Pan American,82KG,8F,2021
+27597,10103,Jonnatas Gracie,,Lucas Valle,W,1,"Pts: 0x0, Adv",Pan American,82KG,4F,2021
+29097,10103,Jonnatas Gracie,2107,Otavio Sousa,W,1,Referee Decision,IBJJF GP,82KG,SF,2021
+29522,10103,Jonnatas Gracie,9793,Alexandre Jesus,W,1,Referee Decision,World Champ.,82KG,8F,2021
+29530,10103,Jonnatas Gracie,9067,Leonardo Lara,W,1,Pts: 3x2,World Champ.,82KG,4F,2021
+30472,10103,Jonnatas Gracie,,Michael Backman,W,1,Mounted X choke,Atlanta WO,82KG,SF,2022
+30479,10103,Jonnatas Gracie,,Juan Romero,W,1,RNC,Atlanta WO,ABS,4F,2022
+30483,10103,Jonnatas Gracie,13031,Lucas Lisboa,W,1,"Pts: 2x2, Adv",Atlanta WO,ABS,SF,2022
+32920,10103,Jonnatas Gracie,12225,Igor Feliz,W,1,Pts: 7x0,World Champ.,76KG,8F,2022
+32924,10103,Jonnatas Gracie,11754,Victor Nithael,W,1,"Pts: 4x4, Adv",World Champ.,76KG,4F,2022
+33412,10103,Jonnatas Gracie,10199,Guthierry Barbosa,W,1,Referee Decision,American Nat.,88KG,SF,2022
+36858,10103,Jonnatas Gracie,6071,Gabriel Arges,W,1,Referee Decision,NoGi Worlds,85KG,8F,2022
+36867,10103,Jonnatas Gracie,13076,Francisco Lo,W,1,Pts: 9x0,NoGi Worlds,85KG,4F,2022
+36869,10103,Jonnatas Gracie,4542,Felipe Cesar,W,1,Referee Decision,NoGi Worlds,85KG,SF,2022
+36870,10103,Jonnatas Gracie,12215,Sebastian Rodriguez,W,1,Pts: 3x2,NoGi Worlds,85KG,F,2022
+37778,10103,Jonnatas Gracie,11707,Oliver Taza,W,1,N/A,WNO,77KG,SPF,2023
+41106,10103,Jonnatas Gracie,7652,C. Negromonte,W,1,Referee Decision,Honor Challenge,85KG,SPF,2023
+41616,10103,Jonnatas Gracie,,Tadeu Lobato,W,1,Pts: 13x0,Tough Roll,82KG,4F,2023
+41619,10103,Jonnatas Gracie,9486,Murilo Amaral,W,1,Points,Tough Roll,82KG,SF,2023
+41620,10103,Jonnatas Gracie,8528,Servio Tulio,W,1,Injury,Tough Roll,82KG,F,2023

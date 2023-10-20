@@ -1,0 +1,155 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2845,8231,Leonardo Saggioro,415,Guilherme Mendes,L,0,"Pts: 0x0, Adv",European,70KG,4F,2011
+2957,8231,Leonardo Saggioro,174,Bruno Frazatto,L,0,Points,Brasileiro,70KG,F,2011
+3108,8231,Leonardo Saggioro,179,Rafael Mendes,L,0,Inverted triangle,World Champ.,70KG,4F,2011
+3431,8231,Leonardo Saggioro,,Eduardo Pessoa,L,0,"Pts: 0x0, Adv",Copa Podio,76KG,GP,2011
+3435,8231,Leonardo Saggioro,1600,Vinicius Marinho,L,0,Pts: 7x0,Copa Podio,76KG,GP,2011
+3501,8231,Leonardo Saggioro,174,Bruno Frazatto,L,0,Triangle,European Open,70KG,4F,2012
+3990,8231,Leonardo Saggioro,147,Rubens Charles,L,0,Choke from back,World Champ.,70KG,SF,2012
+4331,8231,Leonardo Saggioro,1542,Italo Lins,L,0,Points,Carlson Cup,70KG,F,2012
+5501,8231,Leonardo Saggioro,2107,Otavio Sousa,L,0,Pts: 4x2,WP Montreal,ABS,4F,2014
+5544,8231,Leonardo Saggioro,2999,Paulo Miyao,L,0,Pts: 4x0,Brasileiro,70KG,F,2014
+5771,8231,Leonardo Saggioro,5715,Isaque Paiva,L,0,Referee Decision,World Champ.,70KG,4F,2014
+5876,8231,Leonardo Saggioro,2999,Paulo Miyao,L,0,Pts: 8x0,Rio Open,70KG,F,2014
+6133,8231,Leonardo Saggioro,2999,Paulo Miyao,L,0,Referee Decision,Rio BJJ Pro,70KG,F,2014
+6234,8231,Leonardo Saggioro,4460,Jaime Canuto,L,0,Referee Decision,Copa Okinawa,ABS,F,2014
+6250,8231,Leonardo Saggioro,2999,Paulo Miyao,L,0,Pts: 4x2,South American,70KG,F,2014
+6256,8231,Leonardo Saggioro,2999,Paulo Miyao,L,0,Pts: 4x2,South American,70KG,F,2014
+6799,8231,Leonardo Saggioro,5414,Osvaldo Moizinho,L,0,"Pts: 0x0, Adv",Pan American,70KG,SF,2015
+7428,8231,Leonardo Saggioro,4248,Gianni Grippo,L,0,Referee Decision,World Champ.,70Kg,4F,2015
+7648,8231,Leonardo Saggioro,5715,Isaque Paiva,L,0,Referee Decision,Brazil Nat. Pro RJ,66KG,F,2015
+9565,8231,Leonardo Saggioro,5715,Isaque Paiva,L,0,Adv,World Pro,69KG,R1,2016
+9959,8231,Leonardo Saggioro,179,Rafael Mendes,L,0,Pts: 6x0,World Champ.,70KG,4F,2016
+12163,8231,Leonardo Saggioro,4163,Marcio Andre,L,0,Bow and arrow,Pan American,76KG,8F,2017
+13102,8231,Leonardo Saggioro,147,Rubens Charles,L,0,"Pts: 0x0, Adv",World Champ.,70KG,F,2017
+13448,8231,Leonardo Saggioro,4248,Gianni Grippo,L,0,Referee Decision,FIVE Super League,70KG,SF,2017
+13894,8231,Leonardo Saggioro,2226,DJ Jackson,L,0,Referee Decision,ADCC,77KG,E1,2017
+16483,8231,Leonardo Saggioro,7002,Jamil Hill-Taylor,L,0,Pts: 4x2,World Champ.,70KG,F,2018
+18889,8231,Leonardo Saggioro,2999,Paulo Miyao,L,0,Referee Decision,European Open,70KG,SF,2019
+19580,8231,Leonardo Saggioro,9002,Matheus Gabriel,L,0,Pts: 6x2,Pan American,70KG,4F,2019
+20023,8231,Leonardo Saggioro,7002,Jamil Hill-Taylor,L,0,Referee Decision,F2W 109,70KG,SPF,2019
+20604,8231,Leonardo Saggioro,4163,Marcio Andre,L,0,"Pts: 2x2, Adv",World Champ.,70KG,4F,2019
+23090,8231,Leonardo Saggioro,6103,Isaac Doederlein,L,0,"Pts: 2x2, Adv",European Open,70KG,F,2020
+24692,8231,Leonardo Saggioro,10408,Israel Sousa,L,0,Pts: 4x3,Grand Slam RJ,69KG,SF,2020
+25610,8231,Leonardo Saggioro,4163,Marcio Andre,L,0,Pts: 2x0,WP BR Qualifier,69KG,RR,2021
+26376,8231,Leonardo Saggioro,9486,Murilo Amaral,L,0,Referee Decision,SA Cont. Pro,69KG,SF,2021
+26380,8231,Leonardo Saggioro,8884,Alex Sodre,L,0,Loop choke,SA Cont. Pro,69KG,RPC,2021
+27712,8231,Leonardo Saggioro,8069,Pablo Mantovani,L,0,Pts: 5x3,Grand Slam MSK,69KG,F,2021
+27948,8231,Leonardo Saggioro,11497,Fabricio Andrey,L,0,Choke,Brasilia Pro,69KG,F,2021
+28037,8231,Leonardo Saggioro,11949,Daniel Junior,L,0,Canto choke,Brasileiro,70KG,SF,2021
+28501,8231,Leonardo Saggioro,11497,Fabricio Andrey,L,0,Pts: 2x1,Grand Slam RJ,69KG,SF,2021
+28506,8231,Leonardo Saggioro,,Alessandro Botelho,L,0,Pts: 4x3,Grand Slam RJ,69KG,RPC,2021
+29132,8231,Leonardo Saggioro,10408,Israel Sousa,L,0,Pts: 5x2,BRA Qualifiers,69KG,F,2021
+31100,8231,Leonardo Saggioro,11497,Fabricio Andrey,L,0,Triangle armlock,Grand Slam LDN,69KG,SF,2022
+32078,8231,Leonardo Saggioro,,Rommel Fernandes,L,0,Armbar,SA Cont. Pro,69KG,SF,2022
+32349,8231,Leonardo Saggioro,8884,Alex Sodre,L,0,Pts: 3x0,Grand Slam AD,69KG,4F,2022
+33952,8231,Leonardo Saggioro,11754,Victor Nithael,L,0,Pts: 3x3,Grand Slam RJ,69KG,4F,2022
+39264,8231,Leonardo Saggioro,12215,Sebastian Rodriguez,L,0,Pts: 6x2,Miami Open,ABS,SF,2023
+40273,8231,Leonardo Saggioro,10085,Johnatha Alves,L,0,Pts: 2x0,World Champ.,76KG,4F,2023
+2954,8231,Leonardo Saggioro,,Unknown,W,1,Submission,Brasileiro,70KG,4F,2011
+2956,8231,Leonardo Saggioro,,M. Almeida,W,1,N/A,Brasileiro,70KG,SF,2011
+3438,8231,Leonardo Saggioro,11228,Helder Medeiros,D,0.5,---,Copa Podio,76KG,GP,2011
+3466,8231,Leonardo Saggioro,,Willian Salles,W,1,Triangle,Copa Budo,ABS,F,2012
+3838,8231,Leonardo Saggioro,,Unknown,W,1,Submission,Brasileiro,70KG,4F,2012
+3840,8231,Leonardo Saggioro,5715,Isaque Paiva,W,1,Choke,Brasileiro,70KG,SF,2012
+3841,8231,Leonardo Saggioro,1923,David Lemes,W,1,Triangle,Brasileiro,70KG,F,2012
+3976,8231,Leonardo Saggioro,,Peter Han,W,1,Submission,World Champ.,70KG,R2,2012
+3984,8231,Leonardo Saggioro,1398,Justin Rader,W,1,Choke,World Champ.,70KG,R3,2012
+3986,8231,Leonardo Saggioro,5414,Osvaldo Moizinho,W,1,RNC,World Champ.,70KG,4F,2012
+4329,8231,Leonardo Saggioro,,Unknown,W,1,Choke from back,Sol e Neve,70KG,SF,2012
+4330,8231,Leonardo Saggioro,,Moises,W,1,Armbar,Sol e Neve,70KG,F,2012
+4336,8231,Leonardo Saggioro,,Unknown,W,1,Cachecol choke,Carlson Cup,70KG,F,2013
+4637,8231,Leonardo Saggioro,,Unknown,W,1,Choke from back,Brasileiro,70KG,R1,2013
+4638,8231,Leonardo Saggioro,,Unknown,W,1,Choke from back,Brasileiro,70KG,4F,2013
+4640,8231,Leonardo Saggioro,1923,David Lemes,W,1,Cachecol choke,Brasileiro,70KG,SF,2013
+4641,8231,Leonardo Saggioro,790,Mario Reis,W,1,Referee Decision,Brasileiro,70KG,F,2013
+4916,8231,Leonardo Saggioro,5715,Isaque Paiva,W,1,Referee Decision,Rio Open,70KG,F,2013
+5217,8231,Leonardo Saggioro,,Giovani Mariano,W,1,Cachecol choke,Barbacena Cup,ABS,F,2014
+5494,8231,Leonardo Saggioro,4248,Gianni Grippo,W,1,Referee Decision,WP Montreal,70KG,F,2014
+5542,8231,Leonardo Saggioro,,Erick Raposo,W,1,Points,Brasileiro,70KG,SF,2014
+5645,8231,Leonardo Saggioro,3508,Eduardo Goncalves,W,1,N/A,World Pro.,70KG,R1,2014
+5646,8231,Leonardo Saggioro,570,Marcelino Freitas,W,1,N/A,World Pro.,70KG,4F,2014
+5647,8231,Leonardo Saggioro,4248,Gianni Grippo,W,1,Adv,World Pro.,70KG,SF,2014
+5648,8231,Leonardo Saggioro,,Jedrzej Loska,W,1,Pts: 6x2,World Pro.,70KG,F,2014
+6132,8231,Leonardo Saggioro,,Rick Raposo,W,1,Choke from back,Rio BJJ Pro,70KG,SF,2014
+6254,8231,Leonardo Saggioro,,Erick Raposo,W,1,N/A,South American,70KG,SF,2014
+6376,8231,Leonardo Saggioro,,Igor Mocaiber,W,1,Choke from back,Toronto Open,82KG,F,2015
+6377,8231,Leonardo Saggioro,,Chris Kriebel,W,1,Choke from back,Toronto Open,ABS,SF,2015
+6378,8231,Leonardo Saggioro,,Richard Bondoc,W,1,N/A,Toronto Open,ABS,F,2015
+6791,8231,Leonardo Saggioro,,Sergio Hernandez,W,1,Pts: 3x0,Pan American,70KG,R1,2015
+6795,8231,Leonardo Saggioro,,Vitor Paschoal,W,1,Pts: 5x2,Pan American,70KG,4F,2015
+7419,8231,Leonardo Saggioro,,Eduardo Ramos,W,1,Points,World Champ.,70KG,8F,2015
+7423,8231,Leonardo Saggioro,9367,Jonathan Thomas,W,1,Referee Decision,World Champ.,70KG,8F,2015
+7643,8231,Leonardo Saggioro,,João Tavares,W,1,Points,Brazil Nat. Pro RJ,66KG,R1,2015
+7646,8231,Leonardo Saggioro,,Leonardo Martins,W,1,Points,Brazil Nat. Pro RJ,66KG,SF,2015
+8521,8231,Leonardo Saggioro,,Michael Wacker,W,1,Cachecol choke,Montreal Open,70KG,F,2015
+8524,8231,Leonardo Saggioro,,Leonardo Costa,W,1,N/A,Montreal Open,ABS,SF,2015
+8525,8231,Leonardo Saggioro,5660,Lucas Rocha,W,1,Adv,Montreal Open,ABS,F,2015
+8855,8231,Leonardo Saggioro,,John Rickel,W,1,Cachecol choke,Toronto Open,76KG,SF,2016
+8856,8231,Leonardo Saggioro,,Rick Slomba,W,1,N/A,Toronto Open,76KG,F,2016
+10402,8231,Leonardo Saggioro,,Renan Borges,W,1,N/A,Boston SIO,70KG,SF,2016
+10403,8231,Leonardo Saggioro,,Athos Miranda,W,1,Cachecol choke,Boston SIO,70KG,F,2016
+12150,8231,Leonardo Saggioro,6432,Yan Lucas,W,1,Choke from back,Pan American,76KG,R1,2017
+13092,8231,Leonardo Saggioro,9367,Jonathan Thomas,W,1,Pts: 4x2,World Champ.,70KG,8F,2017
+13096,8231,Leonardo Saggioro,4163,Marcio Andre,W,1,Referee Decision,World Champ.,70KG,4F,2017
+13100,8231,Leonardo Saggioro,4248,Gianni Grippo,W,1,Referee Decision,World Champ.,70KG,SF,2017
+13444,8231,Leonardo Saggioro,9385,Brandon Walensky,W,1,Cachecol choke,FIVE Super League,70KG,4F,2017
+13450,8231,Leonardo Saggioro,,Yago Espindola,W,1,Referee Decision,FIVE Super League,70KG,3RD,2017
+16033,8231,Leonardo Saggioro,,Samuel Canquerino,W,1,Pts: 8x0,King of Mats,69KG,RR,2018
+16036,8231,Leonardo Saggioro,6151,Hiago George,W,1,Referee Decision,King of Mats,69KG,RR,2018
+16041,8231,Leonardo Saggioro,6801,Jose Lima,W,1,"Pts: 0x0, Adv",King of Mats,69KG,RR,2018
+16046,8231,Leonardo Saggioro,8819,Thiago Barreto,W,1,"Pts: 0x0, Adv",King of Mats,69KG,SF,2018
+16048,8231,Leonardo Saggioro,4248,Gianni Grippo,W,1,Referee Decision,King of Mats,69KG,F,2018
+16474,8231,Leonardo Saggioro,7872,Gilson Nunes,W,1,Pts: 2x0,World Champ.,70KG,R2,2018
+16480,8231,Leonardo Saggioro,6599,Rafael Mansur,W,1,"Pts: 2x2, Adv",World Champ.,70KG,4F,2018
+16482,8231,Leonardo Saggioro,5414,Osvaldo Moizinho,W,1,Pts: 2x0,World Champ.,70KG,SF,2018
+18884,8231,Leonardo Saggioro,,John Lenno,W,1,Choke,European Open,70KG,4F,2019
+19572,8231,Leonardo Saggioro,,R. Cadena,W,1,Choke,Pan American,70KG,8F,2019
+20600,8231,Leonardo Saggioro,8351,Joao Neto,W,1,"Pts: 2x2, Adv",World Champ.,70KG,R2,2019
+22232,8231,Leonardo Saggioro,6103,Isaac Doederlein,W,1,Pts: 6x5,KOM,69KG,SPF,2019
+23083,8231,Leonardo Saggioro,,Rodrigo Gortati,W,1,Pts: 4x2,European Open,70KG,R2,2020
+23086,8231,Leonardo Saggioro,7698,Gabriel Marangoni,W,1,Pts: 2x0,European Open,70KG,4F,2020
+23089,8231,Leonardo Saggioro,9051,Gabriel Sousa,W,1,Referee Decision,European Open,70KG,SF,2020
+24673,8231,Leonardo Saggioro,,Yago Rodrigues,W,1,RNC,Grand Slam RJ,69KG,R1,2020
+24683,8231,Leonardo Saggioro,8884,Alex Sodre,W,1,Pts: 3x2,Grand Slam RJ,69KG,8F,2020
+24689,8231,Leonardo Saggioro,,Walkler Junior,W,1,"Pts: 3x3, Pen",Grand Slam RJ,69KG,4F,2020
+24694,8231,Leonardo Saggioro,,Anselmo Gomes,W,1,Pts: 4x0,Grand Slam RJ,69KG,RPC,2020
+24695,8231,Leonardo Saggioro,,Davi Oliveira,W,1,Pts: 2x0,Grand Slam RJ,69KG,3RD,2020
+25288,8231,Leonardo Saggioro,,Joao Oliveira,W,1,Choke from back,Rio Open,70KG,R1,2021
+25293,8231,Leonardo Saggioro,,Matheus Onda,W,1,DQ,Rio Open,70KG,4F,2021
+25297,8231,Leonardo Saggioro,11963,Diego Sodre,W,1,RNC,Rio Open,70KG,SF,2021
+25298,8231,Leonardo Saggioro,8884,Alex Sodre,W,1,Pts: 13x4,Rio Open,70KG,F,2021
+25504,8231,Leonardo Saggioro,,Mauricio Ospina,W,1,RNC,Grand Slam AD,69KG,R1,2021
+25508,8231,Leonardo Saggioro,,Daniel Vieira,W,1,Pts: 2x2,Grand Slam AD,69KG,4F,2021
+25511,8231,Leonardo Saggioro,,Gustavo Azevedo,W,1,Dogbar,Grand Slam AD,69KG,SF,2021
+25513,8231,Leonardo Saggioro,10408,Israel Sousa,W,1,Pts: 3x2,Grand Slam AD,69KG,F,2021
+25609,8231,Leonardo Saggioro,,Francisco Freire,W,1,Choke from back,WP BR Qualifier,69KG,RR,2021
+26358,8231,Leonardo Saggioro,,Erick Valnei,W,1,Pts: 8x0,SA Cont. Pro,69KG,R1,2021
+26367,8231,Leonardo Saggioro,,Breno Nascimento,W,1,Submission,SA Cont. Pro,69KG,8F,2021
+26372,8231,Leonardo Saggioro,,Leandro Lima,W,1,Choke from back,SA Cont. Pro,69KG,4F,2021
+27709,8231,Leonardo Saggioro,,D. Razmadze,W,1,Pts: 8x0,Grand Slam MSK,69KG,4F,2021
+27711,8231,Leonardo Saggioro,8632,Thiago Macedo,W,1,Pts: 3x2,Grand Slam MSK,69KG,SF,2021
+27943,8231,Leonardo Saggioro,,Iago Santos,W,1,Pts: 2x0,Brasilia Pro,69KG,4F,2021
+27946,8231,Leonardo Saggioro,,Fernando Favari,W,1,Pts: 7x0,Brasilia Pro,69KG,SF,2021
+28032,8231,Leonardo Saggioro,,Wallace Nunes,W,1,Pts: 3x0,Brasileiro,70KG,4F,2021
+28496,8231,Leonardo Saggioro,9956,Vinicius Pereira,W,1,Pts: 2x2,Grand Slam RJ,69KG,8F,2021
+28500,8231,Leonardo Saggioro,,Marlus Salgado,W,1,Pts: 3x2,Grand Slam RJ,69KG,4F,2021
+29126,8231,Leonardo Saggioro,7672,Caio Almeida,W,1,Choke from back,BRA Qualifiers,69KG,4F,2021
+29130,8231,Leonardo Saggioro,12241,Higor Lima,W,1,Pts: 6x2,BRA Qualifiers,69KG,SF,2021
+29941,8231,Leonardo Saggioro,,Willan Oliveira,W,1,Choke from back,Guarapari Pro,69KG,4F,2022
+29942,8231,Leonardo Saggioro,,Alisson Silva,W,1,Choke from back,Guarapari Pro,69KG,SF,2022
+29943,8231,Leonardo Saggioro,,Marcelo Faria,W,1,Katagatame,Guarapari Pro,69KG,F,2022
+31097,8231,Leonardo Saggioro,,Israel Nascimento,W,1,Pts: 3x2,Grand Slam LDN,69KG,4F,2022
+31103,8231,Leonardo Saggioro,,Leandro Lima,W,1,Pts: 1x0,Grand Slam LDN,69KG,RR,2022
+31104,8231,Leonardo Saggioro,,Romao Carvalho,W,1,Pts: 6x2,Grand Slam LDN,69KG,3RD,2022
+32076,8231,Leonardo Saggioro,,Felipe Negochadle,W,1,Pts: 9x0,SA Cont. Pro,69KG,4F,2022
+33930,8231,Leonardo Saggioro,,Matheus Onda,W,1,RNC,Grand Slam RJ,69KG,R1,2022
+33944,8231,Leonardo Saggioro,,Joao Oliveira,W,1,Pts: 2x0,Grand Slam RJ,69KG,8F,2022
+39234,8231,Leonardo Saggioro,,Enrique Chaluja,W,1,Cross choke,Miami Open,76KG,4F,2023
+39237,8231,Leonardo Saggioro,11512,Lukete Silva,W,1,Pts: 2x0,Miami Open,76KG,SF,2023
+39256,8231,Leonardo Saggioro,,Marco Souza,W,1,Choke from back,Miami Open,ABS,R1,2023
+39260,8231,Leonardo Saggioro,10880,Roberto Jimenez,W,1,DQ,Miami Open,ABS,4F,2023
+39756,8231,Leonardo Saggioro,,Ari Pollan,W,1,Choke from back,Atanta SPO,76KG,SF,2023
+39758,8231,Leonardo Saggioro,11512,Lukete Silva,W,1,Referee Decision,Atanta SPO,76KG,F,2023
+40256,8231,Leonardo Saggioro,12629,Fabricio Barbarotti,W,1,Choke from back,World Champ.,76KG,R1,2023
+40269,8231,Leonardo Saggioro,,Luiz Santos,W,1,Referee Decision,World Champ.,76KG,8F,2023

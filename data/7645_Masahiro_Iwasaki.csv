@@ -1,0 +1,62 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+3467,7645,Masahiro Iwasaki,1824,Roberto Satoshi,L,0,Triangle,Dumau NE,76KG,F,2012
+4428,7645,Masahiro Iwasaki,1272,Leo Nogueira,L,0,Choke from back,European Open,ABS,R2,2013
+4444,7645,Masahiro Iwasaki,188,Augusto Mendes,L,0,Armbar,European Open,70KG,4F,2013
+4548,7645,Masahiro Iwasaki,790,Mario Reis,L,0,Points,Pan American,70KG,R1,2013
+6535,7645,Masahiro Iwasaki,4163,Marcio Andre,L,0,Referee Decision,European,70KG,4F,2015
+8044,7645,Masahiro Iwasaki,5715,Isaque Paiva,L,0,Triangle,Asian Open,70KG,F,2015
+8526,7645,Masahiro Iwasaki,4851,Kim Terra,L,0,Bow and arrow,IBJJF NY Pro,70KG,4F,2015
+8919,7645,Masahiro Iwasaki,2999,Paulo Miyao,L,0,Pts: 5x0,European Open,70KG,4F,2016
+9266,7645,Masahiro Iwasaki,5930,Rodrigo Freitas,L,0,Pts: 7x0,Pan American,76KG,8F,2016
+9469,7645,Masahiro Iwasaki,4248,Gianni Grippo,L,0,Pts: 2x0,NY Spring Open,76KG,F,2016
+9977,7645,Masahiro Iwasaki,358,Lucas Lepri,L,0,Marceloplata,World Champ.,76KG,R2,2016
+10524,7645,Masahiro Iwasaki,631,Rodrigo Caporal,L,0,Pts: 3x2,Asian Open,76KG,F,2016
+11577,7645,Masahiro Iwasaki,5078,Luan Carvalho,L,0,Triangle,European Open,76KG,SF,2017
+12152,7645,Masahiro Iwasaki,,Marcus Wilson,L,0,Toe hold,Pan American,76KG,R1,2017
+13119,7645,Masahiro Iwasaki,358,Lucas Lepri,L,0,"Pts: 0x0, Adv",World Champ.,76KG,8F,2017
+13690,7645,Masahiro Iwasaki,4465,Andris Brunovskis,L,0,Omoplata,Asian Open,76KG,F,2017
+14923,7645,Masahiro Iwasaki,122,Michael Langhi,L,0,"Pts: 0x0, Adv",European Open,76KG,F,2018
+15400,7645,Masahiro Iwasaki,2035,Vitor Oliveira,L,0,"Pts: 0x0, Adv",Pan American,76KG,8F,2018
+15628,7645,Masahiro Iwasaki,1824,Roberto Satoshi,D,0.5,---,Quintet FN,ABS,F,2018
+16015,7645,Masahiro Iwasaki,7552,Isaque Bahiense,L,0,Submission,Marianas Open,81KG,SF,2018
+16506,7645,Masahiro Iwasaki,4235,Victor Silverio,L,0,Adv,World Champ.,76KG,R3,2018
+17235,7645,Masahiro Iwasaki,8394,Vagner Rocha,L,0,Heel hook,Kasai Pro 3,77KG,RR,2018
+17246,7645,Masahiro Iwasaki,,M. Lutes,L,0,Pts: 2x1,Kasai Pro 3,77KG,RR,2018
+18091,7645,Masahiro Iwasaki,,J. Alves,L,0,Armbar,Spyder Inv. Final,76KG,SF,2018
+18603,7645,Masahiro Iwasaki,4248,Gianni Grippo,L,0,"Pts: 0x0, Adv",NoGi Worlds,73KG,R1,2018
+18897,7645,Masahiro Iwasaki,9407,Alexandre Molinaro,L,0,Referee Decision,European Open,76KG,4F,2019
+20439,7645,Masahiro Iwasaki,8682,Lachlan Giles,L,0,Referee Decision,ADCC Asia Trials,77KG,SF,2019
+22731,7645,Masahiro Iwasaki,8842,Wanki Chae,D,0.5,---,Quintet FN4,ABS,RR,2019
+3468,7645,Masahiro Iwasaki,,Shimasaki Koji,W,1,Pts: 3x2,Dumau Kansai,76KG,SPF,2012
+4426,7645,Masahiro Iwasaki,1640,Andre Monteiro,W,1,Pts: 2x0,European Open,ABS,R1,2013
+5205,7645,Masahiro Iwasaki,,K. Nishibayashi,W,1,Points,JJ Priest Cup,76KG,SPF,2013
+5221,7645,Masahiro Iwasaki,,Y. Itami,W,1,Choke from back,Kosen vs BJJ,NA,SPF,2014
+6381,7645,Masahiro Iwasaki,,Yasuto Nakatsuka,W,1,Points,All Japan,70KG,F,2015
+6382,7645,Masahiro Iwasaki,,Tatsuya Kaneko,W,1,Points,Nagoya Open,76KG,F,2015
+6529,7645,Masahiro Iwasaki,,Tuomas Tammiletho,W,1,Pts: 8x0,European,70KG,R1,2015
+8042,7645,Masahiro Iwasaki,,Ichitaro Tsukada,W,1,Points,Asian Open,70KG,SF,2015
+8916,7645,Masahiro Iwasaki,,Renan Sancar,W,1,Pts: 2x0,European Open,70KG,R1,2016
+9262,7645,Masahiro Iwasaki,6368,Kevin Mahecha,W,1,Pts: 4x2,Pan American,76KG,R1,2016
+9468,7645,Masahiro Iwasaki,6095,Mansher Khera,W,1,Pts: 4x2,NY Spring Open,76KG,SF,2016
+9971,7645,Masahiro Iwasaki,7672,Caio Almeida,W,1,"Pts: 2x2, Adv",World Champ.,76KG,R1,2016
+10511,7645,Masahiro Iwasaki,,Robson Tano,W,1,"Pts: 0x0, Adv",All Japan,76KG,F,2016
+10523,7645,Masahiro Iwasaki,,Tanno Odilio,W,1,Points,Asian Open,76KG,SF,2016
+11571,7645,Masahiro Iwasaki,2434,Thibaut Olivier,W,1,Pts: 2x0,European Open,76KG,8F,2017
+11575,7645,Masahiro Iwasaki,,Kacper Rot,W,1,Pts: 2x0,European Open,76KG,4F,2017
+13111,7645,Masahiro Iwasaki,9864,Diego Bispo,W,1,"Pts: 0x0, Adv",World Champ.,76KG,R1,2017
+13687,7645,Masahiro Iwasaki,10004,Ali Monfaradi,W,1,Points,Asian Open,76KG,4F,2017
+13689,7645,Masahiro Iwasaki,,Kleber Koike,W,1,N/A,Asian Open,76KG,SF,2017
+14914,7645,Masahiro Iwasaki,10004,Ali Monfaradi,W,1,Pts: 2x0,European Open,76KG,R1,2018
+14917,7645,Masahiro Iwasaki,7539,Renato Canuto,W,1,Pts: 2x0,European Open,76KG,4F,2018
+14921,7645,Masahiro Iwasaki,5238,Edwin Najmi,W,1,Pts: 2x0,European Open,76KG,SF,2018
+15620,7645,Masahiro Iwasaki,,Takumi Yano,D,0.5,---,Quintet FN,ABS,SF,2018
+16011,7645,Masahiro Iwasaki,446,Gilbert Burns,W,1,Pts: 0x0,Marianas Open,81KG,4F,2018
+16018,7645,Masahiro Iwasaki,8528,Servio Tulio,W,1,Pts: 2x0,Marianas Open,81KG,3RD,2018
+16494,7645,Masahiro Iwasaki,7256,Jan Buatim,W,1,"Pts: 0x0, Adv",World Champ.,76KG,R2,2018
+16935,7645,Masahiro Iwasaki,8138,Hugo Marques,W,1,Pts: 2x0,Spider Inv. 4F,76KG,SPF,2018
+17242,7645,Masahiro Iwasaki,,Marcin Held,W,1,Pts: 3x0,Kasai Pro 3,77KG,RR,2018
+18890,7645,Masahiro Iwasaki,9440,Jeremy Jackson,W,1,Pts: 3x0,European Open,70KG,F,2019
+20435,7645,Masahiro Iwasaki,,S. LeGourrierec,W,1,Pts: 11x0,ADCC Asia Trials,77KG,R1,2019
+20438,7645,Masahiro Iwasaki,,Jon Schwartz,W,1,Pts: 4x0,ADCC Asia Trials,77KG,4F,2019
+24296,7645,Masahiro Iwasaki,,Grant Bogdanov,D,0.5,---,Quintet FN5,ABS,SF,2020
+24298,7645,Masahiro Iwasaki,,Masanori Kanehara,D,0.5,---,Quintet FN5,ABS,F,2020

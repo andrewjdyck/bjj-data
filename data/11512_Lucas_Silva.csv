@@ -1,0 +1,59 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+19703,11512,Lucas Silva,8351,Joao Neto,L,0,"Pts: 0x0, Adv",Floripa Fall Open,70KG,SF,2019
+20775,11512,Lucas Silva,9407,Alexandre Molinaro,L,0,"Pts: 2x2, Adv",Grand Slam MSK,69KG,4F,2019
+21035,11512,Lucas Silva,,Victor Moraes,L,0,"Pts: 0x0, Adv",ACB World Champ.,70KG,SF,2019
+22081,11512,Lucas Silva,9094,Richar Nogueira,L,0,"Pts: 2x2, Adv",BH SPO,70KG,F,2019
+23255,11512,Lucas Silva,11212,Yuri Hendrex,L,0,Referee Decision,Sul Brasileiro,64KG,F,2020
+23346,11512,Lucas Silva,,Klaus Meine,L,0,Points,Curitiba SO,64KG,R1,2020
+23606,11512,Lucas Silva,6151,Hiago George,L,0,Pts: 2x1,Grand Slam LDN,62KG,4F,2020
+23610,11512,Lucas Silva,6151,Hiago George,L,0,Pts: 2x1,Grand Slam LDN,62KG,3RD,2020
+26365,11512,Lucas Silva,8884,Alex Sodre,L,0,Pts: 4x2,SA Cont. Pro,69KG,8F,2021
+28260,11512,Lucas Silva,4248,Gianni Grippo,L,0,Katagatame,NoGi Worlds,73KG,F,2021
+30467,11512,Lucas Silva,12102,Nick Salles,L,0,Pts: 9x0,Atlanta WO,76KG,4F,2022
+33714,11512,Lucas Silva,11015,Pablo Lavaselli,L,0,"Pts: 4x4, Adv",Austin SMNGO,73KG,SF,2022
+35507,11512,Lucas Silva,8814,Adam Benayoun,L,0,Referee Decision,NoGi Pan,67KG,4F,2022
+35930,11512,Lucas Silva,4542,Felipe Cesar,L,0,Referee Decision,Houston FNGO,ABS,4F,2022
+36715,11512,Lucas Silva,12372,Francisco Cuneo,L,0,Referee Decision,Waco NGO,ABS,SF,2022
+37909,11512,Lucas Silva,5417,Guilherme Augusto,L,0,Pts: 4x0,Dallas NGO,ABS,F,2023
+39033,11512,Lucas Silva,13138,Steffen Banta,L,0,Pts: 2x0,Nashville SPNG,ABS,SF,2023
+39237,11512,Lucas Silva,8231,Leo Saggioro,L,0,Pts: 2x0,Miami Open,76KG,SF,2023
+39758,11512,Lucas Silva,8231,Leo Saggioro,L,0,Referee Decision,Atanta SPO,76KG,F,2023
+39860,11512,Lucas Silva,9002,Matheus Gabriel,L,0,Armbar,Houston Open,76KG,4F,2023
+40079,11512,Lucas Silva,13192,Carlos Henrique,L,0,Points,B Raton Open,76KG,F,2023
+41493,11512,Lucas Silva,,Gabriel Cardoso,L,0,N/A,Austin SMO,76KG,F,2023
+41692,11512,Lucas Silva,11510,Samuel Nagai,L,0,Points,Dallas SMO,76KG,F,2023
+41711,11512,Lucas Silva,13487,Marco Mendes,L,0,"Pts: 2x2, Pen",Dallas SNGO,73KG,RR,2023
+43231,11512,Lucas Silva,12918,Daniel Sathler,L,0,"Pts: 2x2, Adv",NoGi Pan,73KG,4F,2023
+21033,11512,Lucas Silva,,N/A,W,1,Points,ACB World Champ.,70KG,4F,2019
+22079,11512,Lucas Silva,8525,Alexandre Vieira,W,1,No arm triangle,BH SPO,70KG,SF,2019
+23253,11512,Lucas Silva,,Willian Melo,W,1,Choke from back,Sul Brasileiro,64KG,SF,2020
+23609,11512,Lucas Silva,9377,Alexis Alduncin,W,1,Choke from back,Grand Slam LDN,62KG,RPC,2020
+26357,11512,Lucas Silva,,Claudio Avila,W,1,Triangle,SA Cont. Pro,69KG,R1,2021
+28249,11512,Lucas Silva,12419,Daniel Diniz,W,1,"Pts: 2x2, Adv",NoGi Worlds,73KG,8F,2021
+28257,11512,Lucas Silva,,Zach Lecates,W,1,Inside heel hook,NoGi Worlds,73KG,4F,2021
+28259,11512,Lucas Silva,12376,Rodrigo Francioni,W,1,Inside heel hook,NoGi Worlds,73KG,SF,2021
+33713,11512,Lucas Silva,,Matthew Avelar,W,1,Inside heel hook,Austin SMNGO,73KG,4F,2022
+35506,11512,Lucas Silva,12102,Nick Salles,W,1,"Pts: 2x2, Adv",NoGi Pan,67KG,8F,2022
+35915,11512,Lucas Silva,9094,Richar Nogueira,W,1,Inside heel hook,Houston FNGO,67KG,F,2022
+36702,11512,Lucas Silva,,Carlos Mejia,W,1,Toe hold,Waco NGO,73KG,SF,2022
+36703,11512,Lucas Silva,13192,Carlos Henrique,W,1,Inside heel hook,Waco NGO,73KG,F,2022
+36713,11512,Lucas Silva,11939,Jackson Douglas,W,1,Armbar,Waco NGO,ABS,4F,2022
+37894,11512,Lucas Silva,,James Partridge,W,1,Kneebar,Dallas NGO,73KG,SF,2023
+37895,11512,Lucas Silva,,Richard Odgen,W,1,Inside heel hook,Dallas NGO,73KG,F,2023
+37906,11512,Lucas Silva,,Pierre Leclerc,W,1,Adv,Dallas NGO,ABS,4F,2023
+37908,11512,Lucas Silva,,Ben Hodgkinson,W,1,Adv,Dallas NGO,ABS,SF,2023
+38997,11512,Lucas Silva,10352,Leo Silva,W,1,Wristlock,Nashville SPO,76KG,SF,2023
+38998,11512,Lucas Silva,13192,Carlos Henrique,W,1,Referee Decision,Nashville SPO,76KG,F,2023
+39022,11512,Lucas Silva,,Robert Hjort,W,1,Kneebar,Nashville SPNG,73KG,F,2023
+39235,11512,Lucas Silva,,Ryan Vargas,W,1,Pts: 4x2,Miami Open,76KG,4F,2023
+39274,11512,Lucas Silva,,Daniel Proano,W,1,Katagatame,Miami NGO,73KG,SF,2023
+39276,11512,Lucas Silva,,Kade Tsitos,W,1,"Pts: 0x0, Adv",Miami NGO,73KG,F,2023
+39755,11512,Lucas Silva,,Henry Clark,W,1,Choke from back,Atanta SPO,76KG,4F,2023
+39757,11512,Lucas Silva,6368,Kevin Mahecha,W,1,Pts: 2x0,Atanta SPO,76KG,SF,2023
+39913,11512,Lucas Silva,,Jordan Holy,W,1,N/A,Houston Open,73KG,F,2023
+40098,11512,Lucas Silva,,Heath Henry,W,1,Inside heel hook,B Raton NGO,73KG,F,2023
+41492,11512,Lucas Silva,,Markus Carvalho,W,1,Kneebar,Austin SMO,76KG,RR,2023
+41515,11512,Lucas Silva,,Caleb Johnson,W,1,Referee Decision,Austin NGO,73KG,SF,2023
+41517,11512,Lucas Silva,,Nicholas Martinez,W,1,Pts: x2,Austin NGO,73KG,F,2023
+41690,11512,Lucas Silva,,Gabriel Cardoso,W,1,Points,Dallas SMO,76KG,RR,2023
+43229,11512,Lucas Silva,,Carlos Neto,W,1,Inside heel hook,NoGi Pan,73KG,R1,2023

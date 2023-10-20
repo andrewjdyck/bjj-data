@@ -1,0 +1,49 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8973,11703,Arya Esfandmaz,,Alexandro Ceconi,L,0,Armbar,European Open,100KG,4F,2016
+9065,11703,Arya Esfandmaz,289,Alan Finfou,L,0,Points,UK National Pro,94KG,F,2016
+9067,11703,Arya Esfandmaz,289,Alan Finfou,L,0,Points,UK National Pro,ABS,F,2016
+9546,11703,Arya Esfandmaz,1534,R. Evangelista,L,0,Pts: 16x0,World Pro,ABS,8F,2016
+9646,11703,Arya Esfandmaz,,Isaac Dul,L,0,Toe hold,World Pro,94KG,8F,2016
+11509,11703,Arya Esfandmaz,7552,Isaque Bahiense,L,0,Pts: 11x2,European Open,ABS,8F,2017
+11627,11703,Arya Esfandmaz,5842,Mahamed Aly,L,0,Pts: 14x4,European Open,100KG,4F,2017
+12072,11703,Arya Esfandmaz,7478,Adam Wardzinski,L,0,Pts: 16x2,Grand Slam LDN,94KG,SF,2017
+12075,11703,Arya Esfandmaz,3200,Jackson Sousa,L,0,Pts: 23x0,Grand Slam LDN,94KG,3RD,2017
+14145,11703,Arya Esfandmaz,,Maximiliano Campos,L,0,Pts: 2x0,London FO,ABS,SF,2017
+14955,11703,Arya Esfandmaz,7543,Nelton Pontes,L,0,Pts: 18x0,European Open,100KG,F,2018
+16575,11703,Arya Esfandmaz,4430,Patrick Gaudio,L,0,Pts: 24x2,World Champ.,94KG,8F,2018
+17026,11703,Arya Esfandmaz,8100,Rudson Mateus,L,0,Pts: 9x0,Grand Slam TYO,94KG,F,2018
+17941,11703,Arya Esfandmaz,3200,Jackson Sousa,L,0,Points,London FO,100KG,F,2018
+18935,11703,Arya Esfandmaz,8514,Fellipe Andrew,L,0,Katagatame,European Open,100KG,SF,2019
+22726,11703,Arya Esfandmaz,9157,Devhonte Johnson,L,0,Referee Decision,Polaris 12,104KG,SPF,2019
+24368,11703,Arya Esfandmaz,7478,Adam Wardzinski,D,0.5,---,Polaris Squads 2,ABS,RR,2020
+24376,11703,Arya Esfandmaz,7478,Adam Wardzinski,D,0.5,---,Polaris Squads 2,ABS,RR,2020
+31150,11703,Arya Esfandmaz,12055,Yatan Bueno,L,0,Pts: 9x0,Grand Slam LDN,120KG,R1,2022
+35281,11703,Arya Esfandmaz,,John Hansen,L,0,Referee Decision,GrappleFest 13,ABS,SPF,2022
+6693,11703,Arya Esfandmaz,3394,Robson Gracie,W,1,Points,London WO,100KG,SF,2015
+6694,11703,Arya Esfandmaz,,Chris Bowe,W,1,Points,London WO,100KG,F,2015
+9066,11703,Arya Esfandmaz,537,Thiago Borges,W,1,Choke from back,UK National Pro,ABS,SF,2016
+9138,11703,Arya Esfandmaz,,Karim Khalifa,W,1,Points,London WO,100KG,SF,2016
+9420,11703,Arya Esfandmaz,,Fabricio Carvalho,W,1,Points,Rome Open,100KG,4F,2016
+9421,11703,Arya Esfandmaz,,Angelo Marino,W,1,Points,Rome Open,100KG,SF,2016
+9536,11703,Arya Esfandmaz,,Antonio Junior,W,1,Pts: 2x0,World Pro,ABS,R2,2016
+9640,11703,Arya Esfandmaz,,Karol Migo,W,1,Pts: 2x0,World Pro,94KG,R1,2016
+9643,11703,Arya Esfandmaz,,Antonio Junior,W,1,Points,World Pro,94KG,R1,2016
+10758,11703,Arya Esfandmaz,,M. Maciejewski,W,1,Choke from back,London Pro,100KG,F,2016
+12070,11703,Arya Esfandmaz,,Alexander Bayer,W,1,Wristlock,Grand Slam LDN,94KG,4F,2017
+13276,11703,Arya Esfandmaz,,Florent Minguet,W,1,Choke from back,British National,100KG,F,2017
+13990,11703,Arya Esfandmaz,,Raphael Souza,W,1,Points,Copenhagen Open,100KG,SF,2017
+13991,11703,Arya Esfandmaz,,Thomas johanessen,W,1,Points,Copenhagen Open,100KG,F,2017
+14140,11703,Arya Esfandmaz,5391,Dean Liebenberg,W,1,Armbar,London FO,100KG,RR,2017
+14141,11703,Arya Esfandmaz,5391,Dean Liebenberg,W,1,Kneebar,London FO,100KG,F,2017
+14142,11703,Arya Esfandmaz,7695,Sebastian Brosche,W,1,Footlock,London FO,ABS,4F,2017
+14952,11703,Arya Esfandmaz,,Marek Zborg,W,1,Triangle,European Open,100KG,4F,2018
+17024,11703,Arya Esfandmaz,,Yuji Harai,W,1,Triangle,Grand Slam TYO,94KG,SF,2018
+18932,11703,Arya Esfandmaz,,Ruben Fonseca,W,1,Points,European Open,100KG,4F,2019
+19538,11703,Arya Esfandmaz,,Jamie Hughes,W,1,Bow and arrow,Polaris 9,100KG,SPF,2019
+20901,11703,Arya Esfandmaz,,Alan Vitor,W,1,Choke from back,British National,O100KG,F,2019
+24359,11703,Arya Esfandmaz,,Tommi Pulkkanen,D,0.5,---,Polaris Squads 2,ABS,RR,2020
+24380,11703,Arya Esfandmaz,,Dinu Bucaleț,D,0.5,---,Polaris Squads 2,ABS,RR,2020
+30733,11703,Arya Esfandmaz,,Omar Frederick,W,1,Pts: 3x0,BRUM Pro,120KG,SF,2022
+30734,11703,Arya Esfandmaz,,Wissam Suliman,W,1,Referee Decision,BRUM Pro,120KG,F,2022
+33288,11703,Arya Esfandmaz,,Aled Rees,W,1,Choke from back,Polaris 20,ABS,SPF,2022
+43167,11703,Arya Esfandmaz,,Wayne Samways,W,1,Kimura,Polaris 25,ABS,SPF,2023

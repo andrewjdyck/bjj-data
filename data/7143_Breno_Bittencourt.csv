@@ -1,0 +1,61 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10246,7143,Breno Bittencourt,,Claudevan Oliveira,L,0,Kneebar,Rio Winter Open,76KG,R1,2016
+10724,7143,Breno Bittencourt,4115,Fabio Caloi,L,0,Toe hold,Floripa Open,76KG,SF,2016
+12168,7143,Breno Bittencourt,358,Lucas Lepri,L,0,Choke from back,Pan American,76KG,8F,2017
+13346,7143,Breno Bittencourt,5930,Rodrigo Freitas,L,0,Points,American Nats,76KG,4F,2017
+13517,7143,Breno Bittencourt,6563,Francisco Iturralde,L,0,DQ,San Jose Open,76KG,F,2017
+13526,7143,Breno Bittencourt,1740,Yuri Simoes,L,0,Points,San Jose Open,ABS,SF,2017
+13528,7143,Breno Bittencourt,,Dustin Akbari,L,0,Points,San Jose NGO,79KG,F,2017
+13775,7143,Breno Bittencourt,4235,Victor Silverio,L,0,"Pts: 0x0, Adv",San Diego Pro,82KG,4F,2017
+13979,7143,Breno Bittencourt,4248,Gianni Grippo,L,0,Points,Atlanta SM Open,ABS,SF,2017
+13981,7143,Breno Bittencourt,,Pedro Palhares,L,0,Darce choke,Atlanta SM NGO,85KG,F,2017
+14200,7143,Breno Bittencourt,9407,Alexandre Molinaro,L,0,Points,Miami FO,76KG,SF,2017
+14680,7143,Breno Bittencourt,,Lucas Valle,L,0,Pts: 4x0,NoGi Worlds,79KG,R1,2017
+15293,7143,Breno Bittencourt,4655,Michael Liera,L,0,Pts: 6x4,San Francisco Open,82KG,F,2018
+15406,7143,Breno Bittencourt,967,JT Torres,L,0,Triangle,Pan American,76KG,SF,2018
+15745,7143,Breno Bittencourt,8081,Nathan Mendelsohn,L,0,Points,San Jose Open,82KG,F,2018
+15757,7143,Breno Bittencourt,1740,Yuri Simoes,L,0,Points,San Jose Open,ABS,SF,2018
+15762,7143,Breno Bittencourt,,Dustin Akbari,L,0,Points,San Jose NGO,79KG,SF,2018
+16373,7143,Breno Bittencourt,7831,Diego Ramalho,L,0,Pts: 6x4,ACB North America,ABS,8F,2018
+16498,7143,Breno Bittencourt,1014,Jake Mackenzie,L,0,Choke from back,World Champ.,76KG,R2,2018
+19345,7143,Breno Bittencourt,4465,Andris Brunovskis,L,0,Choke from back,Portland Open,82KG,F,2019
+21498,7143,Breno Bittencourt,10352,Leo Silva,L,0,Referee Decision,F2W 123,77KG,SPF,2019
+22398,7143,Breno Bittencourt,10162,Ronaldo Junior,L,0,Injury,Long Beach Open,82KG,F,2019
+26665,7143,Breno Bittencourt,12419,Daniel Diniz,L,0,"Pts: 4x4, Adv",American Nats,76KG,4F,2021
+10193,7143,Breno Bittencourt,,Marcelo Yoshi,W,1,Pts: 21x0,JJ Olimpico GP,76KG,4F,2016
+10194,7143,Breno Bittencourt,,Luciano Izzi,W,1,Pts: 12x0,JJ Olimpico GP,76KG,SF,2016
+10195,7143,Breno Bittencourt,,Phillipe Iorio,W,1,Triangle,JJ Olimpico GP,76KG,F,2016
+10480,7143,Breno Bittencourt,,Igor Ferreira,W,1,RNC,Brasileiro Equipes,76KG,SF,2016
+10483,7143,Breno Bittencourt,,Sérgio Benini,W,1,Points,Brasileiro Equipes,76KG,F,2016
+10723,7143,Breno Bittencourt,,Robson Borges,W,1,N/A,Floripa Open,76KG,4F,2016
+11423,7143,Breno Bittencourt,,Thales Vieira,W,1,Choke from back,Desafio Verao,77KG,F,2017
+12160,7143,Breno Bittencourt,,Julian Vega,W,1,Pts: 13x4,Pan American,76KG,R2,2017
+13307,7143,Breno Bittencourt,,Victor de Matos,W,1,Points,American NG Nats,73KG,SF,2017
+13308,7143,Breno Bittencourt,,Blake Nolan,W,1,RNC,American NG Nats,73KG,F,2017
+13342,7143,Breno Bittencourt,,Scott Thometz,W,1,Pts: 6x,American Nats,76KG,R1,2017
+13515,7143,Breno Bittencourt,,Scott Thometz,W,1,Pts: 7x0,San Jose Open,76KG,RR,2017
+13969,7143,Breno Bittencourt,,Douglas Kallin,W,1,Choke from back,Atlanta SM Open,82KG,SF,2017
+13970,7143,Breno Bittencourt,,Pedro Palhares,W,1,Pts: 12x2,Atlanta SM Open,82KG,F,2017
+13976,7143,Breno Bittencourt,8729,Matt Leighton,W,1,Pts: 5x0,Atlanta SM Open,ABS,4F,2017
+14196,7143,Breno Bittencourt,,Jeffrey Cummings,W,1,Points,Miami FO,76KG,4F,2017
+15014,7143,Breno Bittencourt,11257,Gabriel Procopio,W,1,Points,LA Open,82KG,4F,2018
+15018,7143,Breno Bittencourt,7831,Diego Ramalho,W,1,Pts: 8x6,LA Open,82KG,SF,2018
+15291,7143,Breno Bittencourt,,Lucio Vitorelli,W,1,Pts: 12x0,San Francisco Open,82KG,4F,2018
+15391,7143,Breno Bittencourt,8516,Lucas Valente,W,1,"Pts: 0x0, Adv",Pan American,76KG,R1,2018
+15401,7143,Breno Bittencourt,4465,Andris Brunovskis,W,1,Pts: 6x4,Pan American,76KG,4F,2018
+15743,7143,Breno Bittencourt,11257,Gabriel Procopio,W,1,Points,San Jose Open,82KG,SF,2018
+16357,7143,Breno Bittencourt,,Guilherme Correa,W,1,Choke from back,ACB North America,75KG,4F,2018
+16413,7143,Breno Bittencourt,,Victor Emanuel,W,1,No arm triangle,F2W 75,77KG,SPF,2018
+19342,7143,Breno Bittencourt,,Aaron North,W,1,N/A,Portland Open,82KG,4F,2019
+19344,7143,Breno Bittencourt,,Edmund Kim,W,1,N/A,Portland Open,82KG,SF,2019
+19594,7143,Breno Bittencourt,9606,Inseong Jang,W,1,"Pts: 2x2, Adv",Pan American,76KG,8F,2019
+20854,7143,Breno Bittencourt,,Josh Calvo,W,1,Referee Decision,F2W 115,83KG,SPF,2019
+21123,7143,Breno Bittencourt,,Thiago Lemos,W,1,Points,Portland SMO,82KG,SF,2019
+21125,7143,Breno Bittencourt,,Daniel Speirn,W,1,Pts: 6x4,Portland SMO,82KG,F,2019
+22395,7143,Breno Bittencourt,,Erik Anderson,W,1,Pts: 10x6,Long Beach Open,82KG,4F,2019
+22397,7143,Breno Bittencourt,,L. Muram,W,1,Botinha,Long Beach Open,82KG,SF,2019
+23217,7143,Breno Bittencourt,,Saul Viayra,W,1,Points,Fresno Open,82KG,SF,2020
+23218,7143,Breno Bittencourt,,Thiago Lemos,W,1,Points,Fresno Open,82KG,F,2020
+26579,7143,Breno Bittencourt,9217,Caio Caetano,W,1,N/A,Boise Open,82KG,SF,2021
+26580,7143,Breno Bittencourt,,Ross Keeping,W,1,N/A,Boise Open,82KG,F,2021
+31271,7143,Breno Bittencourt,,Cameron Chaffee,W,1,Points,Boise Open,76KG,F,2022

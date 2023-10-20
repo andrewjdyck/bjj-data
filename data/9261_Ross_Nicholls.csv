@@ -1,0 +1,103 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+7563,9261,Ross Nicholls,8714,Max Carvalho,L,0,Points,British National,ABS,4F,2015
+8415,9261,Ross Nicholls,5061,Gabriel Rollo,L,0,Pts: 6x2,NoGi Worlds,73KG,8F,2015
+8930,9261,Ross Nicholls,4655,Michael Liera,L,0,Kneebar,European Open,76KG,R1,2016
+9213,9261,Ross Nicholls,,Pedro Fernandes,L,0,Pts: 2x0,Grand Slam LDN,77KG,SF,2016
+9594,9261,Ross Nicholls,11257,Gabriel Procopio,L,0,Pts: 4x2,World Pro,77KG,R2,2016
+10122,9261,Ross Nicholls,,Max Campos,L,0,Points,British National,76KG,SF,2016
+10134,9261,Ross Nicholls,5414,Osvaldo Moizinho,L,0,Points,Brit. No-Gi Nat.,73KG,F,2016
+10900,9261,Ross Nicholls,188,Augusto Mendes,L,0,Katagatame,NoGi Worlds,73KG,R2,2016
+11565,9261,Ross Nicholls,7376,Ilke Bulut,L,0,Referee Decision,European Open,76KG,8F,2017
+11873,9261,Ross Nicholls,11707,Oliver Taza,L,0,Outside heel hook,TUFF Kumite,80KG,RR,2017
+12060,9261,Ross Nicholls,,Talison Soares,L,0,Referee Decision,Grand Slam LDN,77KG,SF,2017
+13658,9261,Ross Nicholls,11707,Oliver Taza,L,0,Referee Decision,Polaris 5,76KG,SPF,2017
+16902,9261,Ross Nicholls,,Eoghan OFlanagan,L,0,Armbar,Submitting Things,ABS,F,2018
+19544,9261,Ross Nicholls,8394,Vagner Rocha,L,0,Referee Decision,Polaris 9,77KG,SPF,2019
+20741,9261,Ross Nicholls,8682,Lachlan Giles,L,0,Referee Decision,GrappleFest 5,80KG,SPF,2019
+21853,9261,Ross Nicholls,967,JT Torres,L,0,"Pts: 0x0, Pen",ADCC,77KG,R1,2019
+23832,9261,Ross Nicholls,,Frederic Vosgrone,L,0,Pts: 1x0,Polaris GP,ABS,F,2020
+27169,9261,Ross Nicholls,,Nick Ronan,D,0.5,---,Polaris Squads,ABS,RR,2021
+27179,9261,Ross Nicholls,,Nathan Orchard,D,0.5,---,Polaris Squads,ABS,RR,2021
+27186,9261,Ross Nicholls,,Nick Ronan,D,0.5,---,Polaris Squads,ABS,RR,2021
+27772,9261,Ross Nicholls,,M. Szczecinski,L,0,Straight ankle lock,ADCC EU Trials,77KG,8F,2021
+32278,9261,Ross Nicholls,8105,Tommy Langaker,L,0,Pts: 6x0,ADCC EU Trials,77KG,SF,2022
+6371,9261,Ross Nicholls,,Duayne Helvoirt,D,0.5,---,Subfifteen,ABS,SPF,2015
+7555,9261,Ross Nicholls,,Alex Enlund,W,1,Kneebar,Grapple Nation 4,N/A,SPF,2015
+7556,9261,Ross Nicholls,,Jason Tan,W,1,Kneebar,Grapple Nation 6,N/A,SPF,2015
+8380,9261,Ross Nicholls,,Marcos Nardini,W,1,Referee Decision,Grapple4Glory,73KG,N/A,2015
+8381,9261,Ross Nicholls,,Max Campos,W,1,Referee Decision,Grapple4Glory,73KG,N/A,2015
+9214,9261,Ross Nicholls,222,Bruno Amorim,W,1,"Pts: 0x0, Adv",Grand Slam LDN,77KG,3RD,2016
+10132,9261,Ross Nicholls,,Max Campos,W,1,Points,Brit. No-Gi Nat.,73KG,SF,2016
+10873,9261,Ross Nicholls,405,Marco Canha,W,1,Referee Decision,Polaris 4,73KG,SPF,2016
+10896,9261,Ross Nicholls,,Christian Lopez,W,1,RNC,NoGi Worlds,73KG,R1,2016
+11562,9261,Ross Nicholls,,Claudevan Oliveira,W,1,"Pts: 6x6, Adv",European Open,76KG,R1,2017
+11866,9261,Ross Nicholls,,Daniel Crawford,W,1,Outside heel hook,TUFF Kumite,80KG,RR,2017
+11868,9261,Ross Nicholls,,Jack Cronin,W,1,Outside heel hook,TUFF Kumite,80KG,RR,2017
+11871,9261,Ross Nicholls,,Sean Harper,D,0.5,---,TUFF Kumite,80KG,RR,2017
+12020,9261,Ross Nicholls,,Oliver Lovell,W,1,Points,London WO,76KG,F,2017
+12055,9261,Ross Nicholls,,Melksedec Franc,W,1,"Pts: 0x0, Adv",Grand Slam LDN,77KG,4F,2017
+12062,9261,Ross Nicholls,7156,Tiago Bravo,W,1,"Pts: 0x0, Adv",Grand Slam LDN,77KG,3RD,2017
+13281,9261,Ross Nicholls,7321,Darragh OConaill,W,1,Pts: 4x2,British NoGi Nats,79KG,F,2017
+13650,9261,Ross Nicholls,,Sam Gibson,D,0.5,---,TUFF,82KG,SPF,2017
+13651,9261,Ross Nicholls,,Rodolfo Nygarrd,W,1,Ezekiel,TUFF,82KG,SPF,2017
+13652,9261,Ross Nicholls,,Eoghan O'flannagan,W,1,Submission,Welsh Inv.,ABS,N/A,2017
+13653,9261,Ross Nicholls,,Tom Caughey,W,1,Points,Welsh Inv.,ABS,N/A,2017
+13654,9261,Ross Nicholls,,John Maflin,W,1,Submission,Welsh Inv.,ABS,N/A,2017
+13655,9261,Ross Nicholls,,Tom O'hagan,W,1,Submission,Welsh Inv.,ABS,N/A,2017
+15172,9261,Ross Nicholls,,Tommi Pulkkanen,W,1,Heel hook,Polaris 6,73KG,SPF,2018
+16897,9261,Ross Nicholls,,Fabian Edwards,W,1,Heel hook,Submitting Things,ABS,R1,2018
+16898,9261,Ross Nicholls,,Dan Vinni,W,1,Heel hook,Submitting Things,ABS,4F,2018
+16901,9261,Ross Nicholls,,Jack Grant,W,1,Referee Decision,Submitting Things,ABS,SF,2018
+16910,9261,Ross Nicholls,,Nathan Orchard,W,1,Referee Decision,Polaris 7,77KG,SPF,2018
+17464,9261,Ross Nicholls,,Jack Grant,W,1,Armbar,Grapple Fest,ABS,SPF,2018
+17749,9261,Ross Nicholls,,Rodrigo Oliveira,W,1,Submission,English NGO,85KG,SF,2018
+17750,9261,Ross Nicholls,,Lewis Long,W,1,Pts: 14x4,English NGO,85KG,F,2018
+17751,9261,Ross Nicholls,,Ross Ridpath,W,1,Submission,English NGO,ABS,F,2018
+17760,9261,Ross Nicholls,,Denis Brotzmann,W,1,Violin armlock,ADCC EU Trials,77KG,R2,2018
+17765,9261,Ross Nicholls,,Dinu Bucalet,W,1,Armbar,ADCC EU Trials,77KG,8F,2018
+17767,9261,Ross Nicholls,,Vegard Randeberg,W,1,Outside heel hook,ADCC EU Trials,77KG,4F,2018
+17770,9261,Ross Nicholls,,Mateusz Szczecinski,W,1,Referee Decision,ADCC EU Trials,77KG,SF,2018
+17772,9261,Ross Nicholls,,Mateusz Gamrot,W,1,Inside heel hook,ADCC EU Trials,77KG,F,2018
+18426,9261,Ross Nicholls,,S. Boukhezzer,W,1,Heel hook,NAGA Europe,75KG,SF,2018
+18428,9261,Ross Nicholls,4248,Gianni Grippo,W,1,Referee Decision,GrappleFest 3,80KG,SPF,2018
+19026,9261,Ross Nicholls,,Kamil Wilk,D,0.5,---,Pantheon,76KG,SPF,2019
+20210,9261,Ross Nicholls,,H. Ayub,W,1,Submission,Grappling Ind.,83KG,RR,2019
+20211,9261,Ross Nicholls,,J. Roberts,W,1,RNC,Grappling Ind.,83KG,RR,2019
+20212,9261,Ross Nicholls,,J. Grace,W,1,Submission,Grappling Ind.,83KG,RR,2019
+20213,9261,Ross Nicholls,,Christian Ozbek,W,1,Submission,Grappling Ind.,ABS,R1,2019
+20214,9261,Ross Nicholls,,A. Brown,W,1,Submission,Grappling Ind.,ABS,R2,2019
+20215,9261,Ross Nicholls,,J. Groom,W,1,Submission,Grappling Ind.,ABS,4F,2019
+20216,9261,Ross Nicholls,,Ollie Bates,W,1,Submission,Grappling Ind.,ABS,SF,2019
+20217,9261,Ross Nicholls,,Tolan Halleck,W,1,Pts: 24x2,Grappling Ind.,ABS,F,2019
+20968,9261,Ross Nicholls,,Lloyd Cooper,W,1,Armbar,Pantheon Inv.,80KG,SF,2019
+20969,9261,Ross Nicholls,,Sean Mcdonagh,W,1,Referee Decision,Pantheon Inv.,80KG,F,2019
+21146,9261,Ross Nicholls,,Cees Dear,W,1,Violin armbar,G.I. London,77KG,RR,2019
+21147,9261,Ross Nicholls,,Dominic Dillon,W,1,Pts: 9x0,G.I. London,77KG,RR,2019
+21148,9261,Ross Nicholls,,Richard Mearns,W,1,Pts: 10x0,G.I. London,77KG,RR,2019
+21149,9261,Ross Nicholls,,Neil Mcgwynne,W,1,RNC,G.I. London,77KG,RR,2019
+21150,9261,Ross Nicholls,,Mads Zerahn,W,1,Kneebar,G.I. London,77KG,RR,2019
+21151,9261,Ross Nicholls,,Tom Asabre-Holt,W,1,Heel hook,G.I. London,ABS,R1,2019
+21152,9261,Ross Nicholls,,Marcin Ziaja,W,1,Guillotine,G.I. London,ABS,R2,2019
+21153,9261,Ross Nicholls,,Claudiu Crisu,W,1,RNC,G.I. London,ABS,4F,2019
+21154,9261,Ross Nicholls,,Nick Forrer,W,1,Heel hook,G.I. London,ABS,SF,2019
+21155,9261,Ross Nicholls,,Jordan Ambe,W,1,Heel hook,G.I. London,ABS,F,2019
+23828,9261,Ross Nicholls,,Dominic Dillon,W,1,Pts: 1x0,Polaris GP,ABS,4F,2020
+23830,9261,Ross Nicholls,,Bradley Hill,W,1,Referee Decision,Polaris GP,ABS,SF,2020
+27763,9261,Ross Nicholls,,Tom Maenurm,W,1,Pts: 9x0,ADCC EU Trials,77KG,R1,2021
+29306,9261,Ross Nicholls,,Valentin Fels,W,1,Inside heel hook,G. Industries,77KG,SF,2021
+29307,9261,Ross Nicholls,,Davis Asare,W,1,Pts: 9x0,G. Industries,77KG,F,2021
+29308,9261,Ross Nicholls,,Dominic Erk,W,1,Inside heel hook,G. Industries,ABS,R1,2021
+29309,9261,Ross Nicholls,,Tehmoor Abbas,W,1,Inside heel hook,G. Industries,ABS,R2,2021
+29310,9261,Ross Nicholls,,Hejraat Rashid,W,1,Pts: 2x0,G. Industries,ABS,4F,2021
+29311,9261,Ross Nicholls,,Keiren Rodwell,W,1,Referee Decision,G. Industries,ABS,SF,2021
+29312,9261,Ross Nicholls,,Max Bickerton,W,1,Referee Decision,G. Industries,ABS,F,2021
+30165,9261,Ross Nicholls,,L. Pelakauskas,W,1,Pts: 4x2,Grappling Ind.,ABS,R1,2022
+30166,9261,Ross Nicholls,,Kial Wilkins,W,1,Pts: 9x0,Grappling Ind.,ABS,R2,2022
+30167,9261,Ross Nicholls,,Max Bickerton,W,1,Pts: 4x2,Grappling Ind.,ABS,4F,2022
+30168,9261,Ross Nicholls,,Hejraat Rashid,W,1,Pts: 4x0,Grappling Ind.,ABS,SF,2022
+30169,9261,Ross Nicholls,,Nikita Berkovic,W,1,Pts: 2x0,Grappling Ind.,ABS,F,2022
+32261,9261,Ross Nicholls,,Moataz Barkouky,W,1,Armbar,ADCC EU Trials,77KG,R1,2022
+32266,9261,Ross Nicholls,,Liam Alpang,W,1,Pts: 3x0,ADCC EU Trials,77KG,R3,2022
+32272,9261,Ross Nicholls,,Rafal Farjaszewski,W,1,Referee Decision,ADCC EU Trials,77KG,8F,2022
+32276,9261,Ross Nicholls,,Christopher Wojcik,W,1,Referee Decision,ADCC EU Trials,77KG,4F,2022
+32281,9261,Ross Nicholls,,Ellis Younger,W,1,Pts: 2x0,ADCC EU Trials,77KG,3RD,2022

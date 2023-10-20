@@ -1,0 +1,30 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25410,12323,Luan Andrei,10085,Johnatha Alves,L,0,Choke from back,Orlando Open,76KG,4F,2021
+25454,12323,Luan Andrei,4248,Gianni Grippo,L,0,Short choke,Orlando NGO,73KG,SF,2021
+25797,12323,Luan Andrei,10085,Johnatha Alves,L,0,Choke from back,Houston Open,76KG,SF,2021
+25820,12323,Luan Andrei,10085,Johnatha Alves,L,0,Choke from back,Houston Open,ABS,4F,2021
+25829,12323,Luan Andrei,,Jordan Holy,L,0,Inside heel hook,Houston NGO,73KG,F,2021
+26664,12323,Luan Andrei,8632,Thiago Macedo,L,0,Pts: 2x0,American Nats,76KG,4F,2021
+26866,12323,Luan Andrei,2035,Vitor Oliveira,L,0,Choke from back,Chicago Open,82KG,F,2021
+27243,12323,Luan Andrei,10085,Johnatha Alves,L,0,Triangle,Grand Slam MIA,77KG,4F,2021
+27250,12323,Luan Andrei,9217,Caio Caetano,L,0,Footlock,Grand Slam MIA,77KG,RPC,2021
+27331,12323,Luan Andrei,12102,Nick Salles,L,0,Choke from back,Charleston SO,76KG,SF,2021
+27569,12323,Luan Andrei,8516,Lucas Valente,L,0,Cross Choke,Pan American,76KG,8F,2021
+28240,12323,Luan Andrei,,Matheus Galvao,L,0,RNC,NoGi Worlds,73KG,R2,2021
+29025,12323,Luan Andrei,10085,Johnatha Alves,L,0,Armbar,JJ CON,76KG,4F,2021
+25408,12323,Luan Andrei,,Tyler Scalisi,W,1,Choke from back,Orlando Open,76KG,R1,2021
+25796,12323,Luan Andrei,,Tyler Scalisi,W,1,Choke,Houston Open,76KG,4F,2021
+25827,12323,Luan Andrei,,Matheus Galvao,W,1,Darce choke,Houston NGO,73KG,4F,2021
+25828,12323,Luan Andrei,12372,Francisco Cuneo,W,1,Pts: 4x0,Houston NGO,73KG,SF,2021
+26661,12323,Luan Andrei,,David Siegler,W,1,Triangle,American Nats,76KG,R1,2021
+26725,12323,Luan Andrei,,Khalil Fadlallah,W,1,Pts: 4x0,American NGN,79KG,8F,2021
+26729,12323,Luan Andrei,12372,Francisco Cuneo,W,1,Pts: 2x0,American NGN,79KG,SF,2021
+26730,12323,Luan Andrei,4235,Victor Silverio,W,1,DQ,American NGN,79KG,F,2021
+26864,12323,Luan Andrei,,Rehan Muttalib,W,1,Pts: 10x0,Chicago Open,82KG,SF,2021
+26997,12323,Luan Andrei,9931,Arthur Detanico,W,1,Pts: 5x0,Orlando Open,76KG,F,2021
+27013,12323,Luan Andrei,12372,Francisco Cuneo,W,1,Pts: 4x0,Orlando NGO,79KG,F,2021
+27239,12323,Luan Andrei,,Pedro Neto,W,1,Pts: 5x0,Grand Slam MIA,77KG,R1,2021
+27248,12323,Luan Andrei,,Frederico Alves,W,1,Triangle,Grand Slam MIA,77KG,RPC,2021
+27328,12323,Luan Andrei,,Tyler Scalisi,W,1,Choke from back,Charleston SO,76KG,4F,2021
+27566,12323,Luan Andrei,,Joao Marco,W,1,Armbar,Pan American,76KG,R1,2021
+29022,12323,Luan Andrei,,Alexander Yablong,W,1,Points,JJ CON,76KG,R1,2021

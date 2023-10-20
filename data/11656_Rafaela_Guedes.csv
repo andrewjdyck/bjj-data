@@ -1,0 +1,39 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+24321,11656,Rafaela Guedes,12064,Amanda Leve,L,0,Referee Decision,Subversiv 4,ABS,4F,2020
+26605,11656,Rafaela Guedes,12293,Erin Harpe,L,0,Referee Decision,WNO 10,O65KG,SPF,2021
+33107,11656,Rafaela Guedes,12508,Larissa Dias,L,0,"Pts: 0x0, Adv",World Champ.,79KG,F,2022
+33120,11656,Rafaela Guedes,10153,Gabrieli Pessanha,L,0,Pts: 2x0,World Champ.,ABS,SF,2022
+33142,11656,Rafaela Guedes,9404,Ffion Davies,L,0,Referee Decision,SUBVERSIV 7,ABS,F,2022
+35093,11656,Rafaela Guedes,12639,Amy Campo,L,0,Pts: 3x2,ADCC,O60KG,F,2022
+43165,11656,Rafaela Guedes,7000,Nathiely Jesus,L,0,Referee Decision,WNO 20,ABS,SPF,2023
+24224,11656,Rafaela Guedes,11909,Vannessa Griffin,W,1,Pts: 11x0,Pan American,69KG,SF,2020
+24226,11656,Rafaela Guedes,12663,Claire North,W,1,"Pts: 0x0, Adv",Pan American,69KG,F,2020
+24229,11656,Rafaela Guedes,7817,Jessica Flowers,W,1,Pts: 2x0,Pan American,ABS,4F,2020
+24230,11656,Rafaela Guedes,8759,Maria Malyjasiak,W,1,"Pts: 2x2, Adv",Pan American,ABS,SF,2020
+24311,11656,Rafaela Guedes,,Cristina Briggs,W,1,Armbar,Subversiv 4,ABS,R1,2020
+24326,11656,Rafaela Guedes,,Fatima Kleine,W,1,Referee Decision,Subversiv 4,ABS,SF,2020
+24524,11656,Rafaela Guedes,,Tara While,W,1,Omoplata,No Gi Pan Am.,ABS,4F,2020
+24525,11656,Rafaela Guedes,,Gabi McComb,W,1,RNC,No Gi Pan Am.,ABS,SF,2020
+24527,11656,Rafaela Guedes,11909,Vannessa Griffin,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,ABS,F,2020
+24537,11656,Rafaela Guedes,11762,Elisabeth Clay,W,1,Referee Decision,F2W 158,70KG,SPF,2020
+25051,11656,Rafaela Guedes,6979,Ana Vieira,W,1,Referee Decision,F2W 162,N/A,SPF,2021
+25393,11656,Rafaela Guedes,10895,Maggie Grindatti,W,1,RNC,WNO 7,O65KG,SPF,2021
+25968,11656,Rafaela Guedes,,Juliana Fortuna,W,1,Anaconda choke,SUBVERSIV 5,ABS,4F,2021
+25979,11656,Rafaela Guedes,10895,Maggie Grindatti,W,1,Armbar,SUBVERSIV 5,ABS,SF,2021
+25985,11656,Rafaela Guedes,,Nathalie Ribeiro,W,1,Referee Decision,SUBVERSIV 5,ABS,F,2021
+27895,11656,Rafaela Guedes,11762,Elisabeth Clay,W,1,Referee Decision,WNO Champ.,ABS,4F,2021
+27899,11656,Rafaela Guedes,12064,Amanda Leve,W,1,Referee Decision,WNO Champ.,ABS,SF,2021
+27937,11656,Rafaela Guedes,10885,Kendall Reusing,W,1,Guillotine,WNO Champ.,ABS,F,2021
+28358,11656,Rafaela Guedes,,Elizabeth Mitrovic,W,1,Armbar,NoGi Worlds,76KG,SF,2021
+28359,11656,Rafaela Guedes,8759,Maria Malyjasiak,W,1,Referee Decision,NoGi Worlds,76KG,SF,2021
+28370,11656,Rafaela Guedes,10895,Maggie Grindatti,W,1,Triangle armbar,NoGi Worlds,ABS,4F,2021
+28371,11656,Rafaela Guedes,8759,Maria Malyjasiak,W,1,Pts: 6x0,NoGi Worlds,ABS,SF,2021
+28373,11656,Rafaela Guedes,11762,Elisabeth Clay,W,1,Pts: 10x0,NoGi Worlds,ABS,F,2021
+33104,11656,Rafaela Guedes,,Tara White,W,1,Pts: 5x0,World Champ.,79KG,4F,2022
+33105,11656,Rafaela Guedes,,Melissa Cueto,W,1,Pts: 2x0,World Champ.,79KG,SF,2022
+33112,11656,Rafaela Guedes,,Kristin Mikkelson,W,1,Pts: 2x0,World Champ.,ABS,R1,2022
+33116,11656,Rafaela Guedes,,Luciane Santos,W,1,Amassa pao choke,World Champ.,ABS,4F,2022
+33123,11656,Rafaela Guedes,,Michelle Lopez,W,1,Inside heel hook,SUBVERSIV 7,ABS,4F,2022
+33137,11656,Rafaela Guedes,,Brittany Elkin,W,1,Guillotine,SUBVERSIV 7,ABS,SF,2022
+35090,11656,Rafaela Guedes,13095,Eleftheria Christodoulou,W,1,Pts: 3x0,ADCC,O60KG,4F,2022
+35091,11656,Rafaela Guedes,10885,Kendall Reusing,W,1,Injury,ADCC,O60KG,SF,2022

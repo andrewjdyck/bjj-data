@@ -1,0 +1,67 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25081,12785,Julia Alves,11929,Ingridd Alves,L,0,Choke from back,Guarapari Pro,ABS,SF,2021
+26488,12785,Julia Alves,1119,Beatriz Mesquita,L,0,Pts: 1x0,SA Cont. Pro,62KG,F,2021
+29269,12785,Julia Alves,1119,Beatriz Mesquita,L,0,Cross choke,World Pro,62KG,SF,2021
+30440,12785,Julia Alves,9271,Mayssa Bastos,L,0,Violin armlock,ADCC BR2 Trials,60KG,F,2022
+38283,12785,Julia Alves,,Maria Claudia,L,0,Kneebar,AJPGD LDN,62KG,F,2023
+40422,12785,Julia Alves,9404,Ffion Davies,L,0,Pts: 2x0,World Champ.,64KG,4F,2023
+40701,12785,Julia Alves,12594,Vitoria Vieira,L,0,Referee Decision,Grand Slam RJ,62KG,SF,2023
+41874,12785,Julia Alves,10153,Gabrieli Pessanha,L,0,Choke,Vitoria Open,ABS,SF,2023
+25077,12785,Julia Alves,,Thais Teixeira,W,1,Submission,Guarapari Pro,62KG,SF,2021
+25080,12785,Julia Alves,,Thais Teixeira,W,1,Submission,Guarapari Pro,ABS,4F,2021
+26482,12785,Julia Alves,,Ershirley Kessy,W,1,Submission,SA Cont. Pro,62KG,R1,2021
+26485,12785,Julia Alves,12233,Margot Ciccarelli,W,1,Pts: 5x4,SA Cont. Pro,62KG,4F,2021
+26487,12785,Julia Alves,,Lauriane Mendes,W,1,Pts: 7x0,SA Cont. Pro,62KG,SF,2021
+28624,12785,Julia Alves,,Ana Brito,W,1,Armbar,Grand Slam RJ,62KG,8F,2021
+28628,12785,Julia Alves,,Aurea Almeida,W,1,Armbar,Grand Slam RJ,62KG,4F,2021
+28632,12785,Julia Alves,,Luciane Silva,W,1,Choke from back,Grand Slam RJ,62KG,SF,2021
+28634,12785,Julia Alves,,Natalia Zumba,W,1,Pts: 1x0,Grand Slam RJ,62KG,F,2021
+29266,12785,Julia Alves,,Gamila Kanew,W,1,Armbar,World Pro,62KG,4F,2021
+29272,12785,Julia Alves,,Astrid Scholin,W,1,Choke from back,World Pro,62KG,RPC,2021
+29273,12785,Julia Alves,,Maja Povsnar,W,1,Pts: 2x1,World Pro,62KG,3RD,2021
+30430,12785,Julia Alves,,Ingrid Fahning,W,1,Kneebar,ADCC BR2 Trials,60KG,8F,2022
+30435,12785,Julia Alves,,Ericka Almeida,W,1,Toe hold,ADCC BR2 Trials,60KG,4F,2022
+30438,12785,Julia Alves,,Gabriela Fechter,W,1,Pts: 4x0,ADCC BR2 Trials,60KG,SF,2022
+30721,12785,Julia Alves,,Andreia Cerdeira,W,1,Submission,Gramado Pro,62KG,SF,2022
+30722,12785,Julia Alves,,Ludmila Fiori,W,1,Submission,Gramado Pro,62KG,F,2022
+31178,12785,Julia Alves,,Monika Markow,W,1,Armbar,Grand Slam LDN,62KG,R1,2022
+31182,12785,Julia Alves,,Violeta Angelova,W,1,Armbar,Grand Slam LDN,62KG,4F,2022
+31186,12785,Julia Alves,,Priscilla Assuncao,W,1,Pts: 1x0,Grand Slam LDN,62KG,SF,2022
+31188,12785,Julia Alves,,Nathalie Ribeiro,W,1,Pts: 2x2,Grand Slam LDN,62KG,F,2022
+32406,12785,Julia Alves,,Yara Kakish,W,1,Triangle,Grand Slam AD,62KG,4F,2022
+32409,12785,Julia Alves,,Violeta Angelova,W,1,Pts: 5x0,Grand Slam AD,62KG,SF,2022
+32411,12785,Julia Alves,,Brigida F.,W,1,Referee Decision,Grand Slam AD,62KG,F,2022
+33345,12785,Julia Alves,,Renato Davilla,W,1,"Pts: 0x0, Adv",Rio WO,64KG,SF,2022
+33347,12785,Julia Alves,,Thayana Bandeira,W,1,Armbar,Rio WO,ABS,4F,2022
+33348,12785,Julia Alves,11314,Jessica Caroline,W,1,"Pts: 2x2, Adv",Rio WO,ABS,SF,2022
+34101,12785,Julia Alves,,Nayane Dumont,W,1,Triangle armlock,Grand Slam RJ,62KG,4F,2022
+34104,12785,Julia Alves,,Maria Silva,W,1,Triangle armlock,Grand Slam RJ,62KG,SF,2022
+34209,12785,Julia Alves,,Eduarda MacEna,W,1,Pts: 15x0,Joao Pessoa Pro,62KG,F,2022
+34429,12785,Julia Alves,,Nayane Dumont,W,1,Armbar,AJP SA Team,62KG,RR,2022
+34675,12785,Julia Alves,,Fernanda Figueira,W,1,Pts: 2x0,Grand Slam MIA,62KG,4F,2022
+34680,12785,Julia Alves,,Luiara Rochael,W,1,Pts: 3x1,Grand Slam MIA,62KG,SF,2022
+34866,12785,Julia Alves,,M. Urdabayeva,W,1,Toe hold,UAE Nat Pro,62KG,RR,2022
+34868,12785,Julia Alves,12753,Gabriela Pereira,W,1,Referee Decision,UAE Nat Pro,62KG,RR,2022
+35352,12785,Julia Alves,,Aneta Pokorna,W,1,Armbar,Asia Pro,62KG,RR,2022
+35353,12785,Julia Alves,12753,Gabriela Pereira,W,1,Armbar,Asia Pro,62KG,RR,2022
+36430,12785,Julia Alves,,Brigida F.,W,1,Pts: 1x0,World Pro,62KG,4F,2022
+36432,12785,Julia Alves,,Maja Povsnar,W,1,Referee Decision,World Pro,62KG,SF,2022
+36434,12785,Julia Alves,13170,Emily Fernandez,W,1,Pts: 4x0,World Pro,62KG,F,2022
+38278,12785,Julia Alves,,Eliamar Guimaraes,W,1,Submission,AJPGD LDN,62KG,4F,2023
+38282,12785,Julia Alves,,Astrid Scholin,W,1,Pts: 1x0,AJPGD LDN,62KG,SF,2023
+38634,12785,Julia Alves,,Maynne Correa,W,1,Armbar,Rio Fall Open,64KG,SF,2023
+38771,12785,Julia Alves,,Haya Jahoori,W,1,Armbar,Presidents Cup,NA,R1,2023
+39732,12785,Julia Alves,,Violeta Angelova,W,1,Toe hold,ADGS ABD,62KG,SF,2023
+40413,12785,Julia Alves,,Maria Claudia,W,1,Pts: 6x4,World Champ.,64KG,8F,2023
+40697,12785,Julia Alves,,Izabella Santos,W,1,Armbar,Grand Slam RJ,62KG,4F,2023
+40703,12785,Julia Alves,,Juliana Teixeira,W,1,Armbar,Grand Slam RJ,62KG,RPC,2023
+40704,12785,Julia Alves,,Beatriz Mendonca,W,1,Pts: 13x0,Grand Slam RJ,62KG,3RD,2023
+41297,12785,Julia Alves,,Juliana Renzi,W,1,Armbar,SP BJJ Pro,64KG,4F,2023
+41298,12785,Julia Alves,,Jaine Fragoso,W,1,Ezekiel,SP BJJ Pro,64KG,SF,2023
+41299,12785,Julia Alves,,Stephanie Torres,W,1,Pts: 4x0,SP BJJ Pro,64KG,F,2023
+41389,12785,Julia Alves,,Caroline Balloqui,W,1,Choke from back,NA Cont. Pro,62KG,RR,2023
+41390,12785,Julia Alves,,Gursharn Gill,W,1,Armbar,NA Cont. Pro,62KG,RR,2023
+41864,12785,Julia Alves,13505,Maria Luiza,W,1,Armlock,Vitoria Open,64KG,F,2023
+41873,12785,Julia Alves,,Eduarda Gonzaga,W,1,Armbar,Vitoria Open,ABS,4F,2023
+42967,12785,Julia Alves,,Jaine Fragoso,W,1,Armbar,ADGS Miami,62KG,4F,2023
+42969,12785,Julia Alves,,Larissa Martins,W,1,Armbar,ADGS Miami,62KG,F,2023

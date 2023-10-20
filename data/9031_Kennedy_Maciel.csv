@@ -1,0 +1,96 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+17560,9031,Kennedy Maciel,,Vitor Moraes,L,0,Referee Decision,Grand Slam LA,69KG,4F,2018
+17567,9031,Kennedy Maciel,8632,Thiago Macedo,L,0,Pts: 2x0,Grand Slam LA,69KG,RR,2018
+18878,9031,Kennedy Maciel,7657,Cleber Sousa,L,0,Crucifix choke,European Open,64KG,4F,2019
+19574,9031,Kennedy Maciel,9002,Matheus Gabriel,L,0,Armbar,Pan American,70KG,8F,2019
+21115,9031,Kennedy Maciel,4163,Marcio Andre,L,0,Referee Decision,F2W 118,72KG,SPF,2019
+21902,9031,Kennedy Maciel,188,Augusto Mendes,L,0,Pts: 3x0,ADCC,66KG,F,2019
+22492,9031,Kennedy Maciel,9150,Cole Franson,L,0,Pts: 2x0,SJJIF World NG,ABS,SF,2019
+23220,9031,Kennedy Maciel,7399,Horlando Monteiro,L,0,"Pts: 6x6, Adv",Fresno Open,ABS,SF,2020
+24147,9031,Kennedy Maciel,9002,Matheus Gabriel,L,0,Pts: 2x0,Pan American,70KG,4F,2020
+24552,9031,Kennedy Maciel,9094,Richar Nogueira,L,0,"Pts: 2x2, Adv",American Nats,70KG,4F,2020
+24641,9031,Kennedy Maciel,11939,Jackson Douglas,L,0,Referee Decision,American NGN,ABS,4F,2020
+25587,9031,Kennedy Maciel,11878,Andy Murasaki,L,0,Referee Decision,EUG 1,70KG,4F,2021
+27028,9031,Kennedy Maciel,11568,Josh Cisneros,L,0,Referee Decision,F2W 179,70KG,SPF,2021
+27214,9031,Kennedy Maciel,4248,Gianni Grippo,L,0,EBI/OT,Emerald City,65KG,F,2021
+29486,9031,Kennedy Maciel,7002,Jamil Hill-Taylor,L,0,"Pts: 0x0, Pen",World Champ.,70KG,4F,2021
+30683,9031,Kennedy Maciel,6368,Kevin Mahecha,L,0,Choke from back,Miami WO,76KG,F,2022
+30697,9031,Kennedy Maciel,9635,Guilherme Rocha,L,0,Pts: 2x0,Miami WO,ABS,SF,2022
+31630,9031,Kennedy Maciel,9094,Richar Nogueira,L,0,Referee Decision,Pan American,70KG,R1,2022
+32152,9031,Kennedy Maciel,11497,Fabricio Andrey,L,0,Pts: 8x2,Brasileiro,70KG,F,2022
+32894,9031,Kennedy Maciel,12633,Ismael Santos,L,0,DQ,World Champ.,70KG,8F,2022
+33389,9031,Kennedy Maciel,10953,Danilo Moreira,L,0,Referee Decision,American Nat.,70KG,SF,2022
+35010,9031,Kennedy Maciel,10840,Diego Oliveira,L,0,Z Lock,ADCC,66KG,4F,2022
+16816,9031,Kennedy Maciel,8069,Pablo Mantovani,W,1,Pts: 2x0,ACBJJ World,65KG,4F,2018
+16817,9031,Kennedy Maciel,8884,Alex Sodre,W,1,Pts: 2x0,ACBJJ World,65KG,SF,2018
+16818,9031,Kennedy Maciel,,Victor Moraes,W,1,Pts: 4x2,ACBJJ World,65KG,F,2018
+17262,9031,Kennedy Maciel,9094,Richar Nogueira,W,1,Points,Las Vegas Open,70KG,4F,2018
+17264,9031,Kennedy Maciel,9150,Cole Franson,W,1,Points,Las Vegas Open,70KG,SF,2018
+17265,9031,Kennedy Maciel,,Jonathan Buren,W,1,Armbar,Las Vegas Open,70KG,F,2018
+17565,9031,Kennedy Maciel,,Rodrigo Cardoso,W,1,Pts: 2x0,Grand Slam LA,69KG,RR,2018
+18053,9031,Kennedy Maciel,8218,Mayko Araujo,W,1,Points,SJJIF Worlds,70KG,SF,2018
+18055,9031,Kennedy Maciel,1436,Samir Chantre,W,1,Triangle,SJJIF Worlds,70KG,F,2018
+18169,9031,Kennedy Maciel,,Spencer Nogawa,W,1,Armbar,Long Beach Open,70KG,SF,2018
+18171,9031,Kennedy Maciel,,Bruno Valdivimo,W,1,Choke from back,Long Beach Open,70KG,F,2018
+18580,9031,Kennedy Maciel,9002,Matheus Gabriel,W,1,RNC,NoGi Worlds,67KG,R1,2018
+18588,9031,Kennedy Maciel,9697,Sergio Calderon,W,1,Toe hook,NoGi Worlds,67KG,R2,2018
+18595,9031,Kennedy Maciel,7698,Gabriel Marangoni,W,1,"Pts: 0x0, Adv",NoGi Worlds,67KG,4F,2018
+18599,9031,Kennedy Maciel,8069,Pablo Mantovani,W,1,Pts: 5x0,NoGi Worlds,67KG,SF,2018
+18601,9031,Kennedy Maciel,7872,Gilson Nunes,W,1,Pts: 2x0,NoGi Worlds,67KG,F,2018
+19382,9031,Kennedy Maciel,8632,Thiago Macedo,W,1,Pts: 4x2,LA BJJ Pro,70KG,SF,2019
+19383,9031,Kennedy Maciel,,Pedro Mendes,W,1,Pts: 4x2,LA BJJ Pro,70KG,F,2019
+20443,9031,Kennedy Maciel,9385,Brandon Walensky,W,1,Choke,San Diego Open,70KG,4F,2019
+20446,9031,Kennedy Maciel,9074,Joao Mendes,W,1,Pts: 2x0,San Diego Open,70KG,SF,2019
+20447,9031,Kennedy Maciel,9094,Richar Nogueira,W,1,Choke from back,San Diego Open,70KG,F,2019
+20595,9031,Kennedy Maciel,11338,Thiago Abud,W,1,Botinha,World Champ.,70KG,R1,2019
+20908,9031,Kennedy Maciel,9094,Richar Nogueira,W,1,Armbar,American NG Nats,67KG,SF,2019
+20909,9031,Kennedy Maciel,,Thiago Cintra,W,1,RNC,American NG Nats,67KG,F,2019
+20926,9031,Kennedy Maciel,,Orlando Castillo,W,1,Triangle,American Nats,70KG,4F,2019
+20927,9031,Kennedy Maciel,9074,Joao Mendes,W,1,Points,American Nats,70KG,SF,2019
+20928,9031,Kennedy Maciel,9094,Richar Nogueira,W,1,Referee Decision,American Nats,70KG,F,2019
+21036,9031,Kennedy Maciel,,Ayub Magomadov,W,1,Pts: 2x0,ACB World Champ.,70KG,SF,2019
+21037,9031,Kennedy Maciel,,Victor Moraes,W,1,"Pts: 0x0, Adv",ACB World Champ.,70KG,F,2019
+21231,9031,Kennedy Maciel,,Song Hyeonkeun,W,1,Choke from back,Grand Slam TYO,69KG,4F,2019
+21235,9031,Kennedy Maciel,,Jan Baso,W,1,Choke from back,Grand Slam TYO,69KG,SF,2019
+21237,9031,Kennedy Maciel,8632,Thiago Macedo,W,1,"Pts: 0x0, Adv",Grand Slam TYO,69KG,F,2019
+21871,9031,Kennedy Maciel,,R. Alvarenga,W,1,Triangle,ADCC,66KG,R1,2019
+21874,9031,Kennedy Maciel,10357,Richard Alarcon,W,1,Pts: 2x0,ADCC,66KG,4F,2019
+21900,9031,Kennedy Maciel,12003,Tye Ruotolo,W,1,RNC,ADCC,66KG,SF,2019
+22468,9031,Kennedy Maciel,,Richard Alvarez,W,1,Points,SJJIF Worlds,70KG,SF,2019
+22488,9031,Kennedy Maciel,9150,Cole Franson,W,1,Pts: 4x0,SJJIF World NG,67KG,SF,2019
+22489,9031,Kennedy Maciel,,Geoffrey Villarreal,W,1,Botinha,SJJIF World NG,67KG,F,2019
+23212,9031,Kennedy Maciel,,Joel Santiago,W,1,Submission,Fresno Open,70KG,SF,2020
+23213,9031,Kennedy Maciel,,Rodrigo Cardoso,W,1,Crucifix choke,Fresno Open,70KG,F,2020
+23930,9031,Kennedy Maciel,5414,Osvaldo Moizinho,W,1,Referee Decision,F2W 151,70KG,SPF,2020
+24013,9031,Kennedy Maciel,9074,Joao Mendes,W,1,Pts: 2x1,Grand Slam MIA,69KG,4F,2020
+24016,9031,Kennedy Maciel,,Rodrigo Cardoso,W,1,Triangle,Grand Slam MIA,69KG,SF,2020
+24017,9031,Kennedy Maciel,8632,Thiago Macedo,W,1,Armbar,Grand Slam MIA,69KG,F,2020
+24128,9031,Kennedy Maciel,,Eric Llerena,W,1,Points,Pan American,70KG,R1,2020
+24141,9031,Kennedy Maciel,,R. Lopes,W,1,Pts: 21x0,Pan American,70KG,8F,2020
+24383,9031,Kennedy Maciel,10380,Junny Ocasio,W,1,Armbar,F2W 156,65KG,SPF,2020
+24456,9031,Kennedy Maciel,9635,Guilherme Rocha,W,1,Referee Decision,No Gi Pan Am.,67KG,4F,2020
+24457,9031,Kennedy Maciel,,Orlando Castillo,W,1,Short choke,No Gi Pan Am.,67KG,SF,2020
+24459,9031,Kennedy Maciel,9051,Gabriel Sousa,W,1,Botinha,No Gi Pan Am.,67KG,F,2020
+24549,9031,Kennedy Maciel,,Cameron Graves,W,1,Pts: 29x0,American Nats,70KG,R1,2020
+24612,9031,Kennedy Maciel,,Alex Hodi,W,1,Short choke,American NGN,67KG,SF,2020
+24613,9031,Kennedy Maciel,,Windson Ramos,W,1,Pts: 4x0,American NGN,67KG,F,2020
+24855,9031,Kennedy Maciel,4996,Geo Martinez,W,1,Referee Decision,WNO 5,SPF,66KG,2020
+25099,9031,Kennedy Maciel,10840,Diego Oliveira,W,1,Referee Decision,F2W 163,65KG,SPF,2021
+25757,9031,Kennedy Maciel,11568,Josh Cisneros,W,1,RNC,F2W 169,65KG,SPF,2021
+27200,9031,Kennedy Maciel,,Jeff Mock,W,1,Triangle,Emerald City,65KG,R1,2021
+27208,9031,Kennedy Maciel,9760,Frank Rosenthal,W,1,RNC,Emerald City,65KG,4F,2021
+27212,9031,Kennedy Maciel,12491,Keith Krikorian,W,1,EBI/OT,Emerald City,65KG,SF,2021
+30462,9031,Kennedy Maciel,,Victor Mota,W,1,Armbar,Atlanta WO,70KG,4F,2022
+30464,9031,Kennedy Maciel,8536,Yuta Shimada,W,1,Pts: 6x0,Atlanta WO,70KG,F,2022
+30680,9031,Kennedy Maciel,,Joao Albuquerque,W,1,Botinha,Miami WO,76KG,4F,2022
+30681,9031,Kennedy Maciel,10352,Leo Silva,W,1,"Pts: 0x0, Adv",Miami WO,76KG,SF,2022
+30692,9031,Kennedy Maciel,12372,Francisco Cuneo,W,1,"Pts: 0x0, Adv",Miami WO,ABS,R1,2022
+30694,9031,Kennedy Maciel,13031,Lucas Lisboa,W,1,"Pts: 0x0, Adv",Miami WO,ABS,4F,2022
+30936,9031,Kennedy Maciel,,Nathanael Martinez,W,1,N/A,LA Open,70KG,R1,2022
+30940,9031,Kennedy Maciel,11568,Josh Cisneros,W,1,Pts: 4x2,LA Open,70KG,SF,2022
+32149,9031,Kennedy Maciel,11510,Samuel Nagai,W,1,Pts: 2x0,Brasileiro,70KG,4F,2022
+32150,9031,Kennedy Maciel,11963,Diego Sodre,W,1,Pts: 4x2,Brasileiro,70KG,SF,2022
+33386,9031,Kennedy Maciel,,Antonio Smith,W,1,Choke from back,American Nat.,70KG,4F,2022
+33459,9031,Kennedy Maciel,,Huthayfah Penney,W,1,RNC,American NGN,70KG,SF,2022
+33461,9031,Kennedy Maciel,11093,Emilio Hernandez,W,1,RNC,American NGN,70KG,F,2022
+35007,9031,Kennedy Maciel,4996,Geo Martinez,W,1,RNC,ADCC,66KG,R1,2022

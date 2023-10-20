@@ -1,0 +1,140 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1348,147,Rubens Charles,1023,Baret Yoshida,L,0,Referee Decision,ZST GFT,70KG,SF,2006
+1638,147,Rubens Charles,,Marcelo Bocão,L,0,Points,ADCC Trials,66KG,8F,2007
+1983,147,Rubens Charles,576,Rafael Lovato,L,0,Pts: 4x2,World Champ.,ABS,R2,2008
+2138,147,Rubens Charles,179,Rafael Mendes,L,0,Points,World Pro.,65KG,F,2009
+2197,147,Rubens Charles,2107,Otavio Sousa,L,0,"Pts: 2x2, Adv",Pan American,ABS,SF,2009
+2242,147,Rubens Charles,179,Rafael Mendes,L,0,Points,ADCC,66KG,F,2009
+2651,147,Rubens Charles,179,Rafael Mendes,L,0,Pts: 4x2,Brasileiro,70KG,F,2010
+2680,147,Rubens Charles,179,Rafael Mendes,L,0,"Pts: 4x4, Adv",World Champ.,70KG,F,2010
+2912,147,Rubens Charles,428,Celso Vinicius,L,0,Referee Decision,World Pro.,74KG,SF,2011
+2933,147,Rubens Charles,247,Rodolfo Vieira,L,0,Choke from back,World Pro.,ABS,F,2011
+3137,147,Rubens Charles,188,Augusto Mendes,L,0,Pts: 4x2,World Champ.,70KG,SF,2011
+3295,147,Rubens Charles,179,Rafael Mendes,L,0,Pen,ADCC,66KG,F,2011
+3339,147,Rubens Charles,1768,James Harbison,L,0,Referee Decision,No Gi Worlds,ABS,4F,2011
+3593,147,Rubens Charles,179,Rafael Mendes,L,0,Armbar,Pan American,70KG,F,2012
+3991,147,Rubens Charles,179,Rafael Mendes,L,0,Referee Decision,World Champ.,70KG,F,2012
+4556,147,Rubens Charles,179,Rafael Mendes,L,0,Referee Decision,Pan American,70KG,F,2013
+4660,147,Rubens Charles,188,Augusto Mendes,L,0,Pts: 2x0,World Pro,70KG,F,2013
+4786,147,Rubens Charles,188,Augusto Mendes,L,0,Pts: 2x0,World Champ.,70KG,SF,2013
+5774,147,Rubens Charles,179,Rafael Mendes,L,0,Pts: 10x8,World Champ.,70KG,F,2014
+7431,147,Rubens Charles,179,Rafael Mendes,L,0,Pts: 6x0,World Champ.,70KG,F,2015
+9962,147,Rubens Charles,4163,Marcio Andre,L,0,Pts: 7x6,World Champ.,70KG,SF,2016
+1261,147,Rubens Charles,1149,Reinaldo Ribeiro,W,1,Points,World Cup,70KG,SF,2005
+1262,147,Rubens Charles,,Felipe Vidal,W,1,Pts: 4x0,World Cup,70KG,F,2005
+1346,147,Rubens Charles,,Unknown,W,1,Armbar,ZST GFT,70KG,4F,2006
+1407,147,Rubens Charles,,Ocimar Santos,W,1,Brabo choke,World Champ.,70KG,R1,2006
+1408,147,Rubens Charles,,T. Sato,W,1,Choke from back,World Champ.,70KG,R2,2006
+1409,147,Rubens Charles,975,Jonatas Gurgel,W,1,Choke,World Champ.,70KG,4F,2006
+1413,147,Rubens Charles,174,Bruno Frazatto,W,1,Toe hold,World Champ.,70KG,SF,2006
+1415,147,Rubens Charles,687,Marcio Feitosa,W,1,Pts: 8x0,World Champ.,70KG,F,2006
+1601,147,Rubens Charles,,Peter Han,W,1,N/A,Pan American,70KG,R1,2007
+1603,147,Rubens Charles,5992,Wilson Reis,W,1,Pts: 2x0,Pan American,70KG,4F,2007
+1607,147,Rubens Charles,613,Wellington Dias,W,1,Points,Pan American,70KG,SF,2007
+1608,147,Rubens Charles,790,Mario Reis,W,1,Pts: 2x0,Pan American,70KG,F,2007
+1742,147,Rubens Charles,,Jason Tabor,W,1,Choke from back,World Champ.,70KG,R1,2007
+1746,147,Rubens Charles,188,Augusto Mendes,W,1,Choke from back,World Champ.,70KG,4F,2007
+1747,147,Rubens Charles,174,Bruno Frazatto,W,1,Points,World Champ.,70KG,SF,2007
+1749,147,Rubens Charles,790,Mario Reis,W,1,Bow and arrow,World Champ.,70KG,F,2007
+1806,147,Rubens Charles,,Renan Borges,W,1,RNC,World NoGi,70KG,4F,2007
+1807,147,Rubens Charles,,Magno Gama,W,1,Darce choke,World NoGi,70KG,SF,2007
+1808,147,Rubens Charles,1301,Shane Rice,W,1,Points,World NoGi,70KG,F,2007
+1911,147,Rubens Charles,,Jose Augusto,W,1,DQ,World Champ.,70KG,R1,2008
+1915,147,Rubens Charles,,Scott DeWitt,W,1,Bow and arrow,World Champ.,70KG,4F,2008
+1916,147,Rubens Charles,1178,Theodoro Canal,W,1,Cross choke,World Champ.,70KG,SF,2008
+1918,147,Rubens Charles,174,Bruno Frazatto,W,1,Toe hold,World Champ.,70KG,F,2008
+1992,147,Rubens Charles,,Karel Pravec,W,1,Triangle,NoGi Pan Am.,70KG,SF,2008
+1993,147,Rubens Charles,,Daniel Aguiar,W,1,RNC,NoGi Pan Am.,70KG,F,2008
+1994,147,Rubens Charles,,R. Hall,W,1,RNC,World Cup Pro,70KG,NA,2008
+2004,147,Rubens Charles,,Karl Pravec,W,1,Triangle,NoGi Worlds,76KG,4F,2008
+2006,147,Rubens Charles,,C. Cardoso,W,1,RNC,NoGi Worlds,76KG,SF,2008
+2008,147,Rubens Charles,610,Jeff Glover,W,1,"Pts: 0x0, Adv",NoGi Worlds,76KG,F,2008
+2039,147,Rubens Charles,,Jonathan Torres,W,1,Armbar,All Star Pro,72KG,R2,2008
+2042,147,Rubens Charles,,Bruno Tostes,W,1,Heel hook,All Star Pro,72KG,SF,2008
+2044,147,Rubens Charles,,J. Rader,W,1,Pts: 2x0,All Star Pro,72KG,F,2008
+2074,147,Rubens Charles,,Michel Maia,W,1,Points,Capital Challenge,70KG,SF,2008
+2076,147,Rubens Charles,179,Rafael Mendes,W,1,Points,Capital Challenge,70KG,F,2008
+2133,147,Rubens Charles,,Marcio Livio,W,1,Armbar,World Pro.,65KG,R1,2009
+2135,147,Rubens Charles,415,Guilherme Mendes,W,1,Choke from back,World Pro.,65KG,4F,2009
+2136,147,Rubens Charles,,Tiago Fernandes,W,1,Choke from back,World Pro.,65KG,SF,2009
+2152,147,Rubens Charles,,Renan Borges,W,1,Armbar,Pan American,70KG,4F,2009
+2155,147,Rubens Charles,179,Rafael Mendes,W,1,DQ,Pan American,70KG,SF,2009
+2156,147,Rubens Charles,790,Mario Reis,W,1,Bow and arrow,Pan American,70KG,F,2009
+2188,147,Rubens Charles,390,Abmar Barbosa,W,1,Choke from back,Pan American,ABS,8F,2009
+2196,147,Rubens Charles,576,Rafael Lovato,W,1,Pts: 2x0,Pan American,ABS,4F,2009
+2232,147,Rubens Charles,,Hiroshi Nakamura,W,1,Armbar,ADCC,66KG,R1,2009
+2237,147,Rubens Charles,,Joel Tudor,W,1,RNC,ADCC,66KG,4F,2009
+2241,147,Rubens Charles,177,Rany Yahya,W,1,Kimura,ADCC,66KG,SF,2009
+2327,147,Rubens Charles,613,Wellington Dias,W,1,Choke from back,World Champ.,70KG,4F,2009
+2329,147,Rubens Charles,179,Rafael Mendes,W,1,Referee Decision,World Champ.,70KG,SF,2009
+2330,147,Rubens Charles,174,Bruno Frazatto,W,1,Referee Decision,World Champ.,70KG,F,2009
+2536,147,Rubens Charles,,Gustavo Carpio,W,1,Choke from back,Pan American,70KG,4F,2010
+2538,147,Rubens Charles,,Renan Borges,W,1,Choke from back,Pan American,70KG,SF,2010
+2539,147,Rubens Charles,570,Marcelino Freitas,W,1,Pts: 3x0,Pan American,70KG,F,2010
+2673,147,Rubens Charles,,Flavio Meier,W,1,Armbar,World Champ.,70KG,R1,2010
+2674,147,Rubens Charles,3348,Yukinori Sasa,W,1,Choke from back,World Champ.,70KG,R2,2010
+2675,147,Rubens Charles,1178,Theodoro Canal,W,1,Omoplata,World Champ.,70KG,4F,2010
+2678,147,Rubens Charles,790,Mario Reis,W,1,Choke from back,World Champ.,70KG,SF,2010
+2929,147,Rubens Charles,410,Claudio Calasans,W,1,Pts: 4x2,World Pro.,ABS,4F,2011
+3015,147,Rubens Charles,,Itaro Andrade,W,1,Choke,World Champ.,70KG,RDS,2011
+3018,147,Rubens Charles,,Unknown,W,1,Choke,World Champ.,70KG,RDS,2011
+3106,147,Rubens Charles,,Ed Ramos,W,1,Pts: 3x0,World Champ.,70KG,4F,2011
+3224,147,Rubens Charles,,David Marinakis,W,1,Triangle,ADCC,66KG,R1,2011
+3262,147,Rubens Charles,1023,Baret Yoshida,W,1,Points,ADCC,66KG,4F,2011
+3280,147,Rubens Charles,610,Jeff Glover,W,1,Pts: 6x0,ADCC,66KG,SF,2011
+3335,147,Rubens Charles,,Marco Macera,W,1,Points,No Gi Worlds,ABS,R2,2011
+3370,147,Rubens Charles,,Renan Borges,W,1,RNC,No Gi Worlds,70KG,SF,2011
+3383,147,Rubens Charles,1398,Justin Rader,W,1,Adv,No Gi Worlds,70KG,F,2011
+3582,147,Rubens Charles,,Y. Nakatsuka,W,1,Cross Choke,Pan American,70KG,8F,2012
+3590,147,Rubens Charles,1923,David Lemes,W,1,Collar Choke,Pan American,70KG,4F,2012
+3592,147,Rubens Charles,1583,Mike Fowler,W,1,Bow and arrow,Pan American,70KG,SF,2012
+3971,147,Rubens Charles,1226,Mario Yokoyama,W,1,Points,World Champ.,70KG,R2,2012
+3981,147,Rubens Charles,,Edson de Oliveira,W,1,Choke from back,World Champ.,70KG,R3,2012
+3987,147,Rubens Charles,,Eduardo da Silva,W,1,Pts: 6x2,World Champ.,70KG,4F,2012
+3990,147,Rubens Charles,8231,Leo Saggioro,W,1,Choke from back,World Champ.,70KG,SF,2012
+4224,147,Rubens Charles,,M. Borges,W,1,Armbar,NoGi Worlds,70KG,SF,2012
+4225,147,Rubens Charles,1398,Justin Rader,W,1,Adv,NoGi Worlds,70KG,F,2012
+4441,147,Rubens Charles,,Charles Gaspar,W,1,Armbar,European Open,70KG,R1,2013
+4442,147,Rubens Charles,2221,Daisuke Nakamura,W,1,Choke from back,European Open,70KG,4F,2013
+4446,147,Rubens Charles,5414,Osvaldo Moizinho,W,1,Inverted triangle,European Open,70KG,SF,2013
+4447,147,Rubens Charles,188,Augusto Mendes,W,1,Pts: 2x0,European Open,70KG,F,2013
+4544,147,Rubens Charles,,Jordan Collins,W,1,Omoplata,Pan American,70KG,R1,2013
+4552,147,Rubens Charles,1436,Samir Chantre,W,1,Choke,Pan American,70KG,4F,2013
+4554,147,Rubens Charles,188,Augusto Mendes,W,1,Points,Pan American,70KG,SF,2013
+4676,147,Rubens Charles,6419,Marcel Goncalves,W,1,Points,World Pro,ABS,R1,2013
+4781,147,Rubens Charles,1178,Theodoro Canal,W,1,Points,World Champ.,70KG,4F,2013
+4979,147,Rubens Charles,,D. Hemmings,W,1,RNC,ADCC,66KG,R1,2013
+4983,147,Rubens Charles,4163,Marcio Andre,W,1,Pts: 3x0,ADCC,66KG,4F,2013
+4988,147,Rubens Charles,1398,Justin Rader,W,1,Points,ADCC,66KG,SF,2013
+4990,147,Rubens Charles,179,Rafael Mendes,W,1,Referee Decision,ADCC,66KG,F,2013
+5757,147,Rubens Charles,,Robson Barbosa,W,1,Points,World Champ.,70KG,RDS,2014
+5764,147,Rubens Charles,,Mario Silva,W,1,N/A,World Champ.,70KG,RDS,2014
+5768,147,Rubens Charles,1542,Italo Lins,W,1,Armbar,World Champ.,70KG,4F,2014
+5773,147,Rubens Charles,5715,Isaque Paiva,W,1,Pts: 24x2,World Champ.,70KG,SF,2014
+7425,147,Rubens Charles,1542,Italo Lins,W,1,Armbar,World Champ.,70KG,8F,2015
+7427,147,Rubens Charles,5414,Osvaldo Moizinho,W,1,Pts: 3x0,World Champ.,70KG,4F,2015
+7957,147,Rubens Charles,,Tezekbaev Rasul,W,1,RNC,ADCC,66KG,R1,2015
+7964,147,Rubens Charles,4248,Gianni Grippo,W,1,Pts: 3x0,ADCC,66KG,4F,2015
+7969,147,Rubens Charles,188,Augusto Mendes,W,1,Referee Decision,ADCC,66KG,SF,2015
+7971,147,Rubens Charles,174,Bruno Frazatto,W,1,Pts: 3x0,ADCC,66KG,F,2015
+9953,147,Rubens Charles,,Sergio Gonzalez,W,1,Choke,World Champ.,70KG,R2,2016
+9957,147,Rubens Charles,1436,Samir Chantre,W,1,Pts: 7x0,World Champ.,70KG,4F,2016
+11551,147,Rubens Charles,,Nelson Teixeira,W,1,Armbar,European Open,70KG,8F,2017
+11557,147,Rubens Charles,8525,Alexandre Vieira,W,1,Choke from back,European Open,70KG,4F,2017
+11560,147,Rubens Charles,7698,Gabriel Marangoni,W,1,Bow and arrow,European Open,70KG,SF,2017
+11561,147,Rubens Charles,4248,Gianni Grippo,W,1,Pts: 5x0,European Open,70KG,F,2017
+12135,147,Rubens Charles,9385,Brandon Walensky,W,1,Points,Pan American,70KG,8F,2017
+12140,147,Rubens Charles,6366,Brian Mahecha,W,1,Choke from back,Pan American,70KG,4F,2017
+12143,147,Rubens Charles,5414,Osvaldo Moizinho,W,1,Pts: 9x2,Pan American,70KG,F,2017
+12738,147,Rubens Charles,,Joao Humberto,W,1,Choke from back,Brasileiro,70KG,R1,2017
+12743,147,Rubens Charles,,Rodrigo Cardoso,W,1,Choke from back,Brasileiro,70KG,4F,2017
+12744,147,Rubens Charles,4851,Kim Terra,W,1,N/A,Brasileiro,70KG,SF,2017
+12746,147,Rubens Charles,6599,Rafael Mansur,W,1,Pts: 4x2,Brasileiro,70KG,F,2017
+13089,147,Rubens Charles,8842,Wanki Chae,W,1,Adv,World Champ.,70KG,8F,2017
+13097,147,Rubens Charles,7872,Gilson Nunes,W,1,Referee Decision,World Champ.,70KG,4F,2017
+13101,147,Rubens Charles,7002,Jamil Hill-Taylor,W,1,Referee Decision,World Champ.,70KG,SF,2017
+13102,147,Rubens Charles,8231,Leo Saggioro,W,1,"Pts: 0x0, Adv",World Champ.,70KG,F,2017
+13908,147,Rubens Charles,,U. Zhakshylyk,W,1,Pts: 3x0,ADCC,66KG,E1,2017
+13916,147,Rubens Charles,,Kuba Witkowski,W,1,Armbar,ADCC,66KG,4F,2017
+13920,147,Rubens Charles,2999,Paulo Miyao,W,1,Pts: 0x0,ADCC,66KG,SF,2017
+13923,147,Rubens Charles,4328,AJ Agazarm,W,1,Pts: 3x0,ADCC,66KG,F,2017

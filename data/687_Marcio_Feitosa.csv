@@ -1,0 +1,43 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+224,687,Marcio Feitosa,419,Leonardo Vieira,L,0,Adv,World Champ.,76KG,F,1998
+283,687,Marcio Feitosa,81,Vitor Shaolin,L,0,"Pts: 2x2, Adv",World Champ.,76KG,F,1999
+374,687,Marcio Feitosa,419,Leonardo Vieira,L,0,N/A,LPJJ,75KG,F,2000
+390,687,Marcio Feitosa,81,Vitor Shaolin,L,0,Pen,World Champ.,76KG,F,2000
+424,687,Marcio Feitosa,52,Renzo Gracie,L,0,Guillotine,ADCC,77KG,SF,2000
+777,687,Marcio Feitosa,919,Pablo Popovitch,L,0,Points,ADCC,77KG,R1,2003
+881,687,Marcio Feitosa,453,Daniel Moraes,L,0,Adv,World Champ.,76KG,F,2003
+1111,687,Marcio Feitosa,1149,Reinaldo Ribeiro,L,0,"Pts: 0x0, Adv",GP Blackbelt,70KG,4F,2004
+1166,687,Marcio Feitosa,177,Rany Yahya,L,0,Points,ADCC,66KG,SF,2005
+1415,687,Marcio Feitosa,147,Rubens Charles,L,0,Pts: 8x0,World Champ.,70KG,F,2006
+72,687,Marcio Feitosa,,Bob Bass,W,1,Pts: 2x0,Pan American,76KG,4F,1996
+73,687,Marcio Feitosa,,Cleber Luciano,W,1,Pts: 4x2,Pan American,76KG,SF,1996
+75,687,Marcio Feitosa,1372,Renato Barreto,W,1,Points,Pan American,76KG,F,1996
+115,687,Marcio Feitosa,419,Leonardo Vieira,W,1,Adv,World Champ.,76KG,F,1997
+137,687,Marcio Feitosa,515,Royler Gracie,W,1,Pts: 2x0,Copa Pele,N/A,SPF,1997
+210,687,Marcio Feitosa,,Andre Marola,W,1,Pts: 5x0,Team Nationals,76KG,F,1998
+251,687,Marcio Feitosa,515,Royler Gracie,W,1,Pts: 4x2,Oscar de JJ,74KG,SPF,1998
+272,687,Marcio Feitosa,,Wender Braga,W,1,Points,Pan American,76KG,F,1999
+389,687,Marcio Feitosa,292,Leonardo Santos,W,1,Adv,World Champ.,76KG,SF,2000
+416,687,Marcio Feitosa,,Caol Uno,W,1,Pts: 2x0,ADCC,77KG,R1,2000
+422,687,Marcio Feitosa,745,Carlos Machado,W,1,Pts: 2x0,ADCC,77KG,4F,2000
+427,687,Marcio Feitosa,419,Leonardo Vieira,W,1,Adv,ADCC,77KG,3PLC,2000
+508,687,Marcio Feitosa,,Peter Angerer,W,1,Armbar,ADCC,77KG,R1,2001
+515,687,Marcio Feitosa,,F. Vasconcelos,W,1,Points,ADCC,77KG,4F,2001
+516,687,Marcio Feitosa,10579,Rodrigo Gracie,W,1,Points,ADCC,77KG,SF,2001
+518,687,Marcio Feitosa,1858,Matt Serra,W,1,Pen,ADCC,77KG,F,2001
+590,687,Marcio Feitosa,,Yamashira,W,1,Pts: 16x0,World Champ.,76KG,4F,2001
+591,687,Marcio Feitosa,292,Leonardo Santos,W,1,Adv,World Champ.,76KG,F,2001
+622,687,Marcio Feitosa,453,Daniel Moraes,W,1,Points,Arnold Classic,73KG,F,2001
+663,687,Marcio Feitosa,2062,Crezio Souza,W,1,Ezekiel,World Champ.,76KG,R1,2002
+664,687,Marcio Feitosa,921,Rafael Barbosa,W,1,Pts: 5x0,World Champ.,76KG,4F,2002
+666,687,Marcio Feitosa,,Marcelo Pupo,W,1,Referee Decision,World Champ.,76KG,F,2002
+875,687,Marcio Feitosa,,A. Candido,W,1,Pts: 12x0,World Champ.,76KG,R1,2003
+877,687,Marcio Feitosa,,A. Brittes,W,1,Armbar,World Champ.,76KG,4F,2003
+879,687,Marcio Feitosa,,Marcos Pacheco,W,1,Pts: 11x8,World Champ.,76KG,SF,2003
+899,687,Marcio Feitosa,,Sean Williams,W,1,Pts: 6x0,Brazil vs USA,76KG,SPF,2003
+1107,687,Marcio Feitosa,,Unknown,W,1,Points,GP Blackbelt,70KG,R1,2004
+1161,687,Marcio Feitosa,,Urija Faber,W,1,Points,ADCC,66KG,R1,2005
+1410,687,Marcio Feitosa,,Antonio Jr.,W,1,Pts: 8x0,World Champ.,70KG,4F,2006
+1414,687,Marcio Feitosa,1149,Reinaldo Ribeiro,W,1,Pts: 2x0,World Champ.,70KG,SF,2006
+1788,687,Marcio Feitosa,5992,Wilson Reis,W,1,Pts: 6x2,NoGi Pan Am.,76KG,4F,2007
+1790,687,Marcio Feitosa,875,Lucas Leite,W,1,Pts: 2x0,NoGi Pan Am.,76KG,F,2007

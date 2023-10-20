@@ -1,0 +1,44 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10832,6801,Jose Carlos Lima,6151,Hiago George,L,0,RNC,Brasileiro NoGi,61KG,SF,2016
+10980,6801,Jose Carlos Lima,,Kevilyn Batista,L,0,Clock choke,BJJ Rio Pro,70KG,R1,2016
+11023,6801,Jose Carlos Lima,6151,Hiago George,L,0,Pts: 2x0,Grand Slam RJ,62KG,F,2016
+12114,6801,Jose Carlos Lima,6043,Lucas Pinheiro,L,0,Pts: 4x2,Pan American,58KG,SF,2017
+14890,6801,Jose Carlos Lima,1919,Koji Shibamoto,L,0,Bow and arrow,European Open,57KG,4F,2018
+16029,6801,Jose Carlos Lima,,Samuel Canquerino,L,0,"Pts: 2x2, Adv",King of Mats,69KG,RR,2018
+16035,6801,Jose Carlos Lima,5715,Isaque Paiva,L,0,Submission,King of Mats,69KG,RR,2018
+16040,6801,Jose Carlos Lima,6151,Hiago George,L,0,Pts: 4x2,King of Mats,69KG,RR,2018
+16041,6801,Jose Carlos Lima,8231,Leo Saggioro,L,0,"Pts: 0x0, Adv",King of Mats,69KG,RR,2018
+17545,6801,Jose Carlos Lima,,Jorge Nakamura,L,0,Choke from back,Grand Slam LA,56KG,F,2018
+20029,6801,Jose Carlos Lima,7657,Cleber Sousa,L,0,"Pts: 2x2, Adv",WP BR Qualifier,56KG,RR,2019
+20225,6801,Jose Carlos Lima,7657,Cleber Sousa,L,0,Points,Brasileiro,57KG,SF,2019
+21114,6801,Jose Carlos Lima,6060,Tomoyuki Hashimoto,L,0,Choke from back,F2W 118,57KG,SPF,2019
+21501,6801,Jose Carlos Lima,1436,Samir Chantre,L,0,Footlock,F2W 123,65KG,SPF,2019
+24250,6801,Jose Carlos Lima,10380,Junny Ocasio,L,0,Inverted triangle,F2W 154,61KG,SPF,2020
+10615,6801,Jose Carlos Lima,,Fernando Marques,W,1,Pts: 10x0,Copa Sicoob,70KG,F,2016
+10616,6801,Jose Carlos Lima,,Fernando Marques,W,1,Pts: 16x0,Copa Sicoob,ABS,SF,2016
+10831,6801,Jose Carlos Lima,,Rafael Gonçalves,W,1,Pts: 2x0,Brasileiro NoGi,61KG,4F,2016
+11016,6801,Jose Carlos Lima,,D. Moreira,W,1,Pts: 6x0,Grand Slam RJ,62KG,4F,2016
+11020,6801,Jose Carlos Lima,5789,Tiago Barros,W,1,Pts: 2x0,Grand Slam RJ,62KG,SF,2016
+13249,6801,Jose Carlos Lima,,Vinicius Ferrer,W,1,Bow and arrow,Rio Winter Open,57KG,SF,2017
+13250,6801,Jose Carlos Lima,,Jose Filho,W,1,Pts: 4x0,Rio Winter Open,57KG,F,2017
+13785,6801,Jose Carlos Lima,6258,Rodnei Barbosa,W,1,Referee Decision,Grand Slam LA,56KG,F,2017
+14310,6801,Jose Carlos Lima,,Levy Ferreira,W,1,Injury,Grand Slam RJ,56KG,4F,2017
+14311,6801,Jose Carlos Lima,,Robson Soares,W,1,Pts: 8x2,Grand Slam RJ,56KG,SF,2017
+14312,6801,Jose Carlos Lima,,David Herrera,W,1,"Pts: 0x0, Adv",Grand Slam RJ,56KG,F,2017
+14818,6801,Jose Carlos Lima,,Jose Kuruoka,W,1,"Pts: 4x4, Pen",Grand Slam AD,56KG,SF,2018
+14886,6801,Jose Carlos Lima,,Gabriel Alexander,W,1,Choke from back,European Open,57KG,R1,2018
+15124,6801,Jose Carlos Lima,,Oliver Novell,W,1,Pts: 2x0,British Nat. Pro,77KG,RR,2018
+15132,6801,Jose Carlos Lima,,Oliver Novell,W,1,Pts: 2x0,British Nat. Pro,ABS,SF,2018
+15265,6801,Jose Carlos Lima,,Dalvan Nunes,W,1,Choke,SA Continental Pro,62KG,4F,2018
+15266,6801,Jose Carlos Lima,,Franciedson Costa,W,1,Pts: 14x0,SA Continental Pro,62KG,SF,2018
+15472,6801,Jose Carlos Lima,,Andre Verdemare,W,1,Pts: 2x0,Grand Slam LDN,56KG,RR,2018
+15473,6801,Jose Carlos Lima,,Joao Kuruoka,W,1,Pts: 4x2,Grand Slam LDN,56KG,RR,2018
+15794,6801,Jose Carlos Lima,,Paulo Pizziali,W,1,Armbar,Rio Open,57KG,SF,2018
+15795,6801,Jose Carlos Lima,,David Herrera,W,1,Armbar,Rio Open,57KG,F,2018
+16114,6801,Jose Carlos Lima,,Takahito Yoshioka,W,1,Pts: 4x2,World Pro,56KG,RR,2018
+16118,6801,Jose Carlos Lima,6258,Rodnei Barbosa,W,1,Referee Decision,World Pro,56KG,RR,2018
+16119,6801,Jose Carlos Lima,,Andrea Verdemare,W,1,Choke from back,World Pro,56KG,RR,2018
+17543,6801,Jose Carlos Lima,,Santos Rivera,W,1,Pts: 4x2,Grand Slam LA,56KG,SF,2018
+20028,6801,Jose Carlos Lima,,Alex Lira,W,1,Pts: 2x0,WP BR Qualifier,56KG,RR,2019
+20220,6801,Jose Carlos Lima,,Marlison Santos,W,1,Points,Brasileiro,57KG,R1,2019
+20224,6801,Jose Carlos Lima,1753,Rafael Freitas,W,1,Points,Brasileiro,57KG,4F,2019

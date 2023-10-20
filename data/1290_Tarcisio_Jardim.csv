@@ -1,0 +1,23 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2656,1290,Tarcisio Jardim,,T. Gaia,L,0,Choke,Brasileiro,100KG,F,2010
+3517,1290,Tarcisio Jardim,247,Rodolfo Vieira,L,0,Choke from back,European Open,94KG,SF,2012
+4109,1290,Tarcisio Jardim,474,Alexandre Ceconi,L,0,Choke,World Champ.,94KG,4F,2012
+4257,1290,Tarcisio Jardim,84,Alexandre Ribeiro,L,0,Pts: 2x0,NoGi Worlds,100KG,SF,2012
+4278,1290,Tarcisio Jardim,425,Bernardo Faria,L,0,RNC,NoGi Worlds,ABS,4F,2012
+4622,1290,Tarcisio Jardim,926,Roberto Alencar,L,0,Submission,Pan American,88KG,SF,2013
+5414,1290,Tarcisio Jardim,3122,Luiz Panza,L,0,Points,Pan American,100KG,SF,2014
+5671,1290,Tarcisio Jardim,422,Braulio Estima,L,0,Triangle,World Pro.,94KG,F,2014
+5845,1290,Tarcisio Jardim,1272,Leo Nogueira,L,0,Pts: 2x0,World Champ.,100KG,4F,2014
+6510,1290,Tarcisio Jardim,144,Andre Galvao,L,0,Armbar,European,ABS,SF,2015
+7496,1290,Tarcisio Jardim,4310,Tim Spriggs,L,0,Katagatame,World Champ.,94KG,8F,2015
+4097,1290,Tarcisio Jardim,,Luiz Eduardo,W,1,Points,World Champ.,94KG,R1,2012
+4104,1290,Tarcisio Jardim,,Neiman Gracie,W,1,Points,World Champ.,94KG,R2,2012
+4256,1290,Tarcisio Jardim,911,Antonio Peinado,W,1,Points,NoGi Worlds,100KG,4F,2012
+4271,1290,Tarcisio Jardim,1523,Clark Gracie,W,1,Pts: 6x4,NoGi Worlds,ABS,8F,2012
+4618,1290,Tarcisio Jardim,,Diogo Silva,W,1,Points,Pan American,88KG,R1,2013
+5407,1290,Tarcisio Jardim,,Tiago Giussani,W,1,Adv,Pan American,100KG,R1,2014
+5409,1290,Tarcisio Jardim,,Tiago Giussani,W,1,N/A,Pan American,100KG,4F,2014
+6488,1290,Tarcisio Jardim,,Howon Jung,W,1,Submission,European,ABS,R2,2015
+6501,1290,Tarcisio Jardim,,Pedro Moura,W,1,Choke,European,ABS,R3,2015
+6507,1290,Tarcisio Jardim,2235,Renato Cardoso,W,1,"Pts: 0x0, Adv",European,ABS,4F,2015
+7376,1290,Tarcisio Jardim,5423,Matheus Diniz,W,1,"Pts: 0x0, Adv",World Champ.,ABS,R1,2015

@@ -1,0 +1,57 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+26492,12845,Thalyta Silva,,Izadora Cristina,L,0,Pts: 3x1,SA Cont. Pro,70KG,R1,2021
+26640,12845,Thalyta Silva,,Sabatha Santos,L,0,Referee Decision,Gramado Pro,N/A,F,2021
+29169,12845,Thalyta Silva,12508,Larissa Dias,L,0,Pts: 2x0,BRA Qualifiers,70KG,F,2021
+33095,12845,Thalyta Silva,,Andressa Cintra,L,0,Referee Decision,World Champ.,69KG,F,2022
+34114,12845,Thalyta Silva,,Izadora Cristina,L,0,Pts: 2x2,Grand Slam RJ,70KG,SF,2022
+34686,12845,Thalyta Silva,10100,Thamara Ferreira,L,0,Pts: 3x0,Grand Slam MIA,70KG,4F,2022
+35772,12845,Thalyta Silva,1119,Beatriz Mesquita,L,0,Pts: 4x0,BJJ Stars,69KG,SPF,2022
+36291,12845,Thalyta Silva,,Izadora Cristina,L,0,Points,WP Qualifier,70KG,F,2022
+36936,12845,Thalyta Silva,,Andressa Cintra,L,0,Kneebar,NoGi Worlds,76KG,F,2022
+37271,12845,Thalyta Silva,10153,Gabrieli Pessanha,L,0,Teepee choke,European Open,ABS,F,2023
+38331,12845,Thalyta Silva,,Tamiris Silva,L,0,Referee Decision,Pan American,ABS,4F,2023
+38505,12845,Thalyta Silva,11762,Elisabeth Clay,L,0,Kneebar,Pan American,69KG,F,2023
+39580,12845,Thalyta Silva,10153,Gabrieli Pessanha,L,0,RNC,Brasileiro,ABS,F,2023
+39615,12845,Thalyta Silva,,Andresa Cintra,L,0,"Pts: 0x0, Adv",Brasileiro,69KG,F,2023
+40436,12845,Thalyta Silva,,Andressa Cintra,L,0,Pts: 4x2,World Champ.,69KG,F,2023
+40713,12845,Thalyta Silva,11929,Ingridd Alves,L,0,DQ,Grand Slam RJ,70KG,F,2023
+26639,12845,Thalyta Silva,,Kamila Souza,W,1,Triangle,Gramado Pro,N/A,SF,2021
+26641,12845,Thalyta Silva,,Kela Rosa,W,1,Toe hold,Gramado Pro,N/A,SF,2021
+26642,12845,Thalyta Silva,12753,Gabriela Pereira,W,1,Pts: 2x0,Gramado Pro,N/A,F,2021
+26647,12845,Thalyta Silva,,Ana Rosa,W,1,Pts: 7x0,Rio Pro,N/A,4F,2021
+26648,12845,Thalyta Silva,,Maria Souza,W,1,Pts: 1x0,Rio Pro,N/A,SF,2021
+26649,12845,Thalyta Silva,,Ana Brandao,W,1,Triangle,Rio Pro,N/A,F,2021
+29165,12845,Thalyta Silva,,Amanda Hening,W,1,Pts: 2x0,BRA Qualifiers,70KG,4F,2021
+29167,12845,Thalyta Silva,,Priscilla Assuncao,W,1,Pts: 2x0,BRA Qualifiers,70KG,SF,2021
+33086,12845,Thalyta Silva,,Victoria Montrezor,W,1,Triangle,World Champ.,69KG,R1,2022
+33091,12845,Thalyta Silva,11762,Elisabeth Clay,W,1,"Pts: 0x0, Adv",World Champ.,69KG,4F,2022
+33093,12845,Thalyta Silva,10100,Thamara Ferreira,W,1,Pts: 2x0,World Champ.,69KG,SF,2022
+34110,12845,Thalyta Silva,,Kamilla Souza,W,1,Pts: 3x0,Grand Slam RJ,70KG,4F,2022
+35623,12845,Thalyta Silva,12708,Chloe McNally,W,1,Points,NoGi Pan,71KG,4F,2022
+35624,12845,Thalyta Silva,,Vedha Toscano,W,1,N/A,NoGi Pan,71KG,SF,2022
+35626,12845,Thalyta Silva,,Bridget McEliece,W,1,Pts: 2x0,NoGi Pan,71KG,F,2022
+36285,12845,Thalyta Silva,,A. Silva,W,1,Pts: 3x0,WP Qualifier,70KG,4F,2022
+36289,12845,Thalyta Silva,,Ana Brandao,W,1,Pts: 2x0,WP Qualifier,70KG,SF,2022
+36935,12845,Thalyta Silva,,Tara White,W,1,Pts: 5x0,NoGi Worlds,76KG,SF,2022
+37265,12845,Thalyta Silva,,Leticia Cardozo,W,1,Referee Decision,European Open,ABS,4F,2023
+37269,12845,Thalyta Silva,5263,Luiza Monteiro,W,1,Choke from back,European Open,ABS,SF,2023
+37295,12845,Thalyta Silva,12010,Kira Sung,W,1,"Pts: 2x2, Adv",European Open,69KG,4F,2023
+37299,12845,Thalyta Silva,,Magdalena Loska,W,1,"Pts: 0x0, Pen",European Open,69KG,SF,2023
+37300,12845,Thalyta Silva,11909,Vannessa Griffin,W,1,Referee Decision,European Open,69KG,F,2023
+38083,12845,Thalyta Silva,,Victoria Ulrich,W,1,RNC,Curitiba SMO,69KG,SF,2023
+38084,12845,Thalyta Silva,,Amanda Hening,W,1,Pts: 4x0,Curitiba SMO,69KG,F,2023
+38111,12845,Thalyta Silva,,Stephanie Jangelni,W,1,"Pts: 0x0, Adv",Curitiba SMO,ABS,4F,2023
+38113,12845,Thalyta Silva,,Thelma Santos,W,1,N/A,Curitiba SMO,ABS,SF,2023
+38115,12845,Thalyta Silva,,Mikaela Lima,W,1,N/A,Curitiba SMO,ABS,F,2023
+38504,12845,Thalyta Silva,11909,Vannessa Griffin,W,1,Referee Decision,Pan American,69KG,SF,2023
+39570,12845,Thalyta Silva,,Maria Claudia,W,1,Referee Decision,Brasileiro,ABS,8F,2023
+39575,12845,Thalyta Silva,11909,Vannessa Griffin,W,1,"Pts: 0x0, Adv",Brasileiro,ABS,4F,2023
+39579,12845,Thalyta Silva,11762,Elisabeth Clay,W,1,"Pts: 2x2, Adv",Brasileiro,ABS,SF,2023
+39610,12845,Thalyta Silva,,Amanda Hening,W,1,Armbar,Brasileiro,69KG,4F,2023
+39614,12845,Thalyta Silva,11762,Elisabeth Clay,W,1,Referee Decision,Brasileiro,69KG,SF,2023
+40430,12845,Thalyta Silva,,Martina Gramenius,W,1,Triangle,World Champ.,69KG,4F,2023
+40435,12845,Thalyta Silva,11909,Vannessa Griffin,W,1,Referee Decision,World Champ.,69KG,SF,2023
+40710,12845,Thalyta Silva,,Alex Arantes,W,1,Triangle,Grand Slam RJ,70KG,4F,2023
+40712,12845,Thalyta Silva,,Larissa Santos,W,1,Pts: 2x0,Grand Slam RJ,70KG,SF,2023
+42067,12845,Thalyta Silva,,Patricia Ferreira,W,1,Pts: 10x0,Floripa WO,69KG,SF,2023
+42069,12845,Thalyta Silva,13332,Aurelie Vern,W,1,"Pts: 0x0, Adv",Floripa WO,69KG,F,2023

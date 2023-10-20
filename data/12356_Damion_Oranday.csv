@@ -1,0 +1,59 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25996,12356,Damion Oranday,9094,Richar Nogueira,L,0,Triangle,N.Orleans Open,70KG,SF,2021
+26025,12356,Damion Oranday,,Marvin Castell,L,0,Dead orchard,N.Orleans NGO,67KG,F,2021
+26258,12356,Damion Oranday,9064,Silvio Duran,L,0,Adv,Miami Open,70KG,SF,2021
+26534,12356,Damion Oranday,,Luan Silva,L,0,Pts: 6x4,Atlanta Open,70KG,4F,2021
+26551,12356,Damion Oranday,12338,Gialysson Freitas,L,0,Armbar,Atlanta Open,ABS,SF,2021
+26573,12356,Damion Oranday,12372,Francisco Cuneo,L,0,Points,Atlanta NGO,ABS,SF,2021
+26631,12356,Damion Oranday,10352,Leo Silva,L,0,Referee Decision,Oklahoma Open,ABS,SF,2021
+26636,12356,Damion Oranday,576,Rafael Lovato,L,0,Katagatame,Oklahoma NGO,ABS,SF,2021
+26656,12356,Damion Oranday,9094,Richar Nogueira,L,0,Pts: 10x4,American Nats,70KG,4F,2021
+26719,12356,Damion Oranday,,Elijah Tagalog,L,0,Inside heel hook,American NGN,67KG,F,2021
+26931,12356,Damion Oranday,,David Mosleh,L,0,Pts: 4x2,Austin Open,70KG,4F,2021
+26960,12356,Damion Oranday,,David Mosleh,L,0,"Pts: 4x4, Adv",Austin NGO,67KG,F,2021
+26996,12356,Damion Oranday,10155,Malachi Edmond,L,0,Choke from back,Orlando Open,70KG,F,2021
+28234,12356,Damion Oranday,9051,Gabriel Sousa,L,0,Pts: 10x2,NoGi Worlds,67KG,SF,2021
+29018,12356,Damion Oranday,10840,Diego Oliveira,L,0,Choke from back,JJ CON,70KG,4F,2021
+29082,12356,Damion Oranday,4248,Gianni Grippo,L,0,Katagatame,JJ CON NG,73KG,F,2021
+29482,12356,Damion Oranday,5414,Osvaldo Moizinho,L,0,Choke from back,World Champ.,70KG,8F,2021
+30527,12356,Damion Oranday,8814,Adam Benayoun,L,0,Inside heel hook,N. Orleans NGO,73KG,F,2022
+31503,12356,Damion Oranday,,Damon Morgan,L,0,Inside heel hook,ADCC WC Trials,66KG,R3,2022
+32624,12356,Damion Oranday,10953,Danilo Moreira,L,0,Armbar,Denver Open,76KG,4F,2022
+33715,12356,Damion Oranday,,Jordan Holy,L,0,Pts: 21x0,Austin SMNGO,73KG,SF,2022
+35529,12356,Damion Oranday,12115,Kieran Kichuk,L,0,Inside heel hook,NoGi Pan,73KG,4F,2022
+43226,12356,Damion Oranday,,Jose Espinosa,L,0,Inside heel hook,NoGi Pan,67KG,SF,2023
+26022,12356,Damion Oranday,,Alvaro Tautiva,W,1,Toe hold,N.Orleans NGO,67KG,4F,2021
+26023,12356,Damion Oranday,,Orlando Castillo,W,1,Toe hold,N.Orleans NGO,67KG,SF,2021
+26257,12356,Damion Oranday,,Thiago Cintra,W,1,Adv,Miami Open,70KG,4F,2021
+26548,12356,Damion Oranday,,Julian Synan,W,1,Armbar,Atlanta Open,ABS,4F,2021
+26556,12356,Damion Oranday,,Logan Santos,W,1,Armbar,Atlanta NGO,67KG,SF,2021
+26557,12356,Damion Oranday,11889,Keven Carrasco,W,1,Inside heel hook,Atlanta NGO,67KG,F,2021
+26570,12356,Damion Oranday,,Chris Haraszti,W,1,Outside heel hook,Atlanta NGO,ABS,R1,2021
+26571,12356,Damion Oranday,12120,Estevan Martinez,W,1,Pts: 2x0,Atlanta NGO,ABS,4F,2021
+26623,12356,Damion Oranday,9064,Silvio Duran,W,1,Toe hold,Oklahoma Open,70KG,F,2021
+26627,12356,Damion Oranday,,Vincent Saenz,W,1,Toe hold,Oklahoma Open,ABS,4F,2021
+26633,12356,Damion Oranday,,Matheus Galvao,W,1,Outside heel hook,Oklahoma NGO,73KG,F,2021
+26654,12356,Damion Oranday,,Jacob Sandoval,W,1,Kneebar,American Nats,70KG,R1,2021
+26717,12356,Damion Oranday,9760,Frank Rosenthal,W,1,"Pts: 0x0, Adv",American NGN,67KG,SF,2021
+26958,12356,Damion Oranday,,David Mosleh,W,1,Pts: 4x2,Austin NGO,67KG,RR,2021
+26959,12356,Damion Oranday,,Orlando Castillo,W,1,Inside heel hook,Austin NGO,67KG,RR,2021
+27865,12356,Damion Oranday,11919,Daniel Maira,W,1,Toe hold,Atlanta SMNG,73KG,SF,2021
+27867,12356,Damion Oranday,,Rodrigo Gortari,W,1,Outside heel hook,Atlanta SMNG,73KG,F,2021
+28227,12356,Damion Oranday,,Charles Murdock,W,1,Inside heel hook,NoGi Worlds,67KG,8F,2021
+28231,12356,Damion Oranday,,Winson Ramos,W,1,Inside heel hook,NoGi Worlds,67KG,4F,2021
+29014,12356,Damion Oranday,,Russell White,W,1,Triangle armbar,JJ CON,70KG,R1,2021
+29081,12356,Damion Oranday,11919,Daniel Maira,W,1,Estima lock,JJ CON NG,73KG,SF,2021
+29474,12356,Damion Oranday,11093,Emilio Hernandez,W,1,Choke from back,World Champ.,70KG,R1,2021
+29988,12356,Damion Oranday,,Manuel Aguilar,W,1,Inside heel hook,Austin WNGO,73KG,SF,2022
+29989,12356,Damion Oranday,,Andrew Alexander,W,1,Toe hold,Austin WNGO,73KG,F,2022
+30525,12356,Damion Oranday,,Dany Vega,W,1,Outside heel hook,N. Orleans NGO,73KG,RR,2022
+30821,12356,Damion Oranday,,Cameron Adair,W,1,Lateral kneebar,Dallas NGO,73KG,F,2022
+31472,12356,Damion Oranday,,Mike John,W,1,Inside heel hook,ADCC WC Trials,66KG,R1,2022
+31487,12356,Damion Oranday,,Eric Ceballos,W,1,Inside heel hook,ADCC WC Trials,66KG,R2,2022
+32622,12356,Damion Oranday,,Yue Goh,W,1,Toe hold,Denver Open,76KG,R1,2022
+32668,12356,Damion Oranday,,Alexander Le,W,1,Short choke,Denver NGO,73KG,SF,2022
+32669,12356,Damion Oranday,,Murilo Linhares,W,1,Outside heel hook,Denver NGO,73KG,F,2022
+33712,12356,Damion Oranday,,Carlos Mejia,W,1,Katagatame,Austin SMNGO,73KG,4F,2022
+36179,12356,Damion Oranday,,Heath Henry,W,1,RNC,Sub-Hunter Pro,73KG,SPF,2022
+43221,12356,Damion Oranday,,Augusto Rebelo,W,1,Katagatame,NoGi Pan,67KG,R1,2023
+43222,12356,Damion Oranday,,Rodrigo Goncales,W,1,Kneebar,NoGi Pan,67KG,4F,2023

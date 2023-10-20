@@ -1,0 +1,48 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23445,11646,Andre Gois,224,Roberto Abreu,L,0,Choke,Miami WO,ABS,SF,2020
+24043,11646,Andre Gois,10199,Guthierry Barbosa,L,0,Pts: 2x1,Grand Slam MIA,85KG,SF,2020
+24047,11646,Andre Gois,,Matheus Oliveira,L,0,Pts: 2x0,Grand Slam MIA,85KG,RPC,2020
+24174,11646,Andre Gois,,Felipe Silva,L,0,Pts: 2x0,Pan American,82KG,8F,2020
+24479,11646,Andre Gois,9253,Michael Trasso,L,0,Pts: 2x0,No Gi Pan Am.,79KG,R1,2020
+24509,11646,Andre Gois,9668,David Garmo,L,0,Guillotine,No Gi Pan Am.,ABS,R1,2020
+24572,11646,Andre Gois,10162,Ronaldo Junior,L,0,Armbar,American Nats,82KG,SF,2020
+26146,11646,Andre Gois,10506,Jeferson Guaresi,L,0,"Pts: 0x0, Adv",NoGi Pan Am.,85KG,8F,2021
+26681,11646,Andre Gois,12069,Bruno Matias,L,0,Referee Decision,American Nats,88KG,F,2021
+27254,11646,Andre Gois,4859,Ricardo Rezende,L,0,Triangle,Grand Slam MIA,85KG,4F,2021
+27259,11646,Andre Gois,9793,Alexandre Jesus,L,0,DQ,Grand Slam MIA,85KG,RPC,2021
+27593,11646,Andre Gois,5347,Yago Souza,L,0,Choke from back,Pan American,82KG,8F,2021
+30137,11646,Andre Gois,12287,Pedro Maia,L,0,Choke,Sul Brasileiro,82KG,F,2022
+31673,11646,Andre Gois,4542,Felipe Cesar,L,0,Pts: 4x0,Pan American,82KG,R2,2022
+32959,11646,Andre Gois,11991,Pedro Marinho,L,0,Guillotine,World Champ.,88KG,R1,2022
+33360,11646,Andre Gois,9014,Levi Jones,L,0,"Pts: 2x2, Adv",Washington DCO,88KG,F,2022
+35285,11646,Andre Gois,10638,Angelo Claiborne,L,0,"Pts: 0x0, Adv",Charlotte Open,88KG,F,2022
+41734,11646,Andre Gois,,Arthan Bandeira,L,0,Points,NYC Open,88KG,SF,2023
+23238,11646,Andre Gois,,Jeovany Ortiz,W,1,Points,Atlanta WO,82KG,4F,2020
+23239,11646,Andre Gois,1014,Jake Mackenzie,W,1,Points,Atlanta WO,82KG,SF,2020
+23432,11646,Andre Gois,,Lucas Santos,W,1,Choke from back,Miami WO,82KG,4F,2020
+23433,11646,Andre Gois,9407,Alexandre Molinaro,W,1,Armbar,Miami WO,82KG,SF,2020
+23434,11646,Andre Gois,,Julian Synan,W,1,Brabo choke,Miami WO,82KG,F,2020
+23440,11646,Andre Gois,,Thiago Alves,W,1,Cross choke,Miami WO,ABS,R1,2020
+23442,11646,Andre Gois,,Pedro Palhares,W,1,Points,Miami WO,ABS,4F,2020
+24035,11646,Andre Gois,10468,Nisar Loynab,W,1,Pts: 2x1,Grand Slam MIA,85KG,R1,2020
+24041,11646,Andre Gois,9250,Gabriel Almeida,W,1,Referee Decision,Grand Slam MIA,85KG,4F,2020
+24170,11646,Andre Gois,,Eric Thomas,W,1,Armbar,Pan American,82KG,R1,2020
+24469,11646,Andre Gois,12338,Gialysson Freitas,W,1,Pts: 2x0,No Gi Pan Am.,79KG,R1,2020
+24568,11646,Andre Gois,,Matheus Oliveira,W,1,Pts: 3x0,American Nats,82KG,4F,2020
+25743,11646,Andre Gois,,Joshua McKinney,W,1,Violin armlock,Charleston Open,88KG,RR,2021
+25744,11646,Andre Gois,,Joshua McKinney,W,1,Toe hold,Charleston Open,88KG,F,2021
+26140,11646,Andre Gois,,Thiago Graca,W,1,Pts: 6x4,NoGi Pan Am.,85KG,R1,2021
+26543,11646,Andre Gois,,Julian Synan,W,1,Choke from back,Atlanta Open,88KG,SF,2021
+26544,11646,Andre Gois,,Anthony Elbert,W,1,N/A,Atlanta Open,88KG,F,2021
+26677,11646,Andre Gois,,Rhehan Silva,W,1,Triangle,American Nats,88KG,4F,2021
+26680,11646,Andre Gois,,Joshua McKinney,W,1,Choke from back,American Nats,88KG,SF,2021
+26733,11646,Andre Gois,,Romualdo Andrade,W,1,Outside heel hook,American NGN,85KG,4F,2021
+26737,11646,Andre Gois,,Armando Esquer,W,1,Inside heel hook,American NGN,85KG,SF,2021
+26738,11646,Andre Gois,,Stanley Rosa,W,1,Pts: 26x0,American NGN,85KG,F,2021
+27585,11646,Andre Gois,,Ularislao Cordova,W,1,Kneebar,Pan American,82KG,R1,2021
+30135,11646,Andre Gois,,Vandicleidisson S.,W,1,Pts: 20x4,Sul Brasileiro,82KG,SF,2022
+31242,11646,Andre Gois,12372,Francisco Cuneo,W,1,Pts: 7x0,Charleston Open,82KG,SF,2022
+31243,11646,Andre Gois,10295,Italo Moura,W,1,N/A,Charleston Open,82KG,F,2022
+31665,11646,Andre Gois,,Clayton Mayfield,W,1,Pts: 4x0,Pan American,82KG,R1,2022
+38808,11646,Andre Gois,,Bruno Moraes,W,1,Armbar,Charleston Open,88KG,SF,2023
+38809,11646,Andre Gois,,Gyalisson Freitas,W,1,Kneebar,Charleston Open,88KG,F,2023

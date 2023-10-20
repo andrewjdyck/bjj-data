@@ -1,0 +1,44 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25114,11963,Diego Sodre,10669,Lucas Alves,L,0,Points,Brazil Nat. Pro,77KG,4F,2021
+25297,11963,Diego Sodre,8231,Leo Saggioro,L,0,RNC,Rio Open,70KG,SF,2021
+26782,11963,Diego Sodre,11248,Jonata Gomes,L,0,Pts: 6x4,Rio Winter Open,76KG,4F,2021
+27555,11963,Diego Sodre,7002,Jamil Hill-Taylor,L,0,"Pts: 4x4, Adv",Pan American,70KG,8F,2021
+29488,11963,Diego Sodre,7002,Jamil Hill-Taylor,L,0,Pts: 4x2,World Champ.,70KG,SF,2021
+32150,11963,Diego Sodre,9031,Kennedy Maciel,L,0,Pts: 4x2,Brasileiro,70KG,SF,2022
+32903,11963,Diego Sodre,6103,Isaac Doederlein,L,0,Pts: 2x0,World Champ.,70KG,F,2022
+37594,11963,Diego Sodre,11497,Fabricio Andrey,L,0,Referee Decision,Spyder RTBB,65KG,SF,2023
+38784,11963,Diego Sodre,10004,Ali Monfaradi,L,0,"Pts: 2x2, Adv",Presidents Cup,77KG,RR,2023
+40246,11963,Diego Sodre,11510,Samuel Nagai,L,0,Pts: 4x2,World Champ.,70KG,F,2023
+25291,11963,Diego Sodre,,Yago Rodrigues,W,1,Pts: 11x4,Rio Open,70KG,R1,2021
+27542,11963,Diego Sodre,12102,Nick Salles,W,1,Pts: 4x2,Pan American,70KG,R1,2021
+28142,11963,Diego Sodre,,Edmaicon Pinto,W,1,Pts: 4x2,Charlotte Open,76KG,4F,2021
+28144,11963,Diego Sodre,,Joao Marco,W,1,Pts: 6x2,Charlotte Open,76KG,SF,2021
+29475,11963,Diego Sodre,12102,Nick Salles,W,1,"Pts: 2x2, Adv",World Champ.,70KG,R1,2021
+29480,11963,Diego Sodre,8632,Thiago Macedo,W,1,"Pts: 2x2, Adv",World Champ.,70KG,8F,2021
+29483,11963,Diego Sodre,5414,Osvaldo Moizinho,W,1,"Pts: 0x0, Adv",World Champ.,70KG,4F,2021
+30555,11963,Diego Sodre,,D. Razmadze,W,1,Pts: 13x2,European Open,70KG,R1,2022
+30559,11963,Diego Sodre,,Romao Carvalho,W,1,Pts: 7x2,European Open,70KG,4F,2022
+30563,11963,Diego Sodre,12751,Sam McNally,W,1,Hashimoto choke,European Open,70KG,SF,2022
+30564,11963,Diego Sodre,6103,Isaac Doederlein,W,1,"Pts: 0x0, Adv",European Open,70KG,F,2022
+31634,11963,Diego Sodre,,Thiago Cintra,W,1,Choke from back,Pan American,70KG,R2,2022
+31637,11963,Diego Sodre,11919,Daniel Maira,W,1,Bow and arrow,Pan American,70KG,4F,2022
+31641,11963,Diego Sodre,9094,Richar Nogueira,W,1,Referee Decision,Pan American,70KG,SF,2022
+32148,11963,Diego Sodre,,Matheus Onda,W,1,Pts: 2x0,Brasileiro,70KG,4F,2022
+32895,11963,Diego Sodre,13175,Ariel Tabak,W,1,Choke from back,World Champ.,70KG,8F,2022
+32899,11963,Diego Sodre,8632,Thiago Macedo,W,1,DQ,World Champ.,70KG,4F,2022
+32902,11963,Diego Sodre,11919,Daniel Maira,W,1,"Pts: 0x0, Adv",World Champ.,70KG,SF,2022
+36232,11963,Diego Sodre,,Mario Silva,W,1,Armbar,WP Qualifier,69KG,RR,2022
+36235,11963,Diego Sodre,13245,Ademir Barreto,W,1,Pts: 1x0,WP Qualifier,69KG,RR,2022
+36238,11963,Diego Sodre,8632,Thiago Macedo,W,1,Pts: 1x0,WP Qualifier,69KG,RR,2022
+36325,11963,Diego Sodre,,Haidar Abbas,W,1,Pts: 7x2,World Pro,69KG,R1,2022
+36329,11963,Diego Sodre,,D. Razmadze,W,1,Pts: 13x0,World Pro,69KG,4F,2022
+36332,11963,Diego Sodre,,Kalel Santos,W,1,Triangle armlock,World Pro,69KG,SF,2022
+36333,11963,Diego Sodre,11015,Pablo Lavaselli,W,1,Pts: 6x2,World Pro,69KG,F,2022
+37592,11963,Diego Sodre,8842,Wanki Chae,W,1,Pts: 3x0,Spyder RTBB,65KG,4F,2023
+38371,11963,Diego Sodre,6366,Brian Mahecha,W,1,Pts: 4x2,Pan American,70KG,8F,2023
+38376,11963,Diego Sodre,9094,Richar Nogueira,W,1,Pts: 10x2,Pan American,70KG,4F,2023
+38772,11963,Diego Sodre,,Salem Almesmari,W,1,Armbar,Presidents Cup,69KG,RR,2023
+38777,11963,Diego Sodre,,M. Alamri,W,1,Pts: 2x0,Presidents Cup,69KG,RR,2023
+40233,11963,Diego Sodre,5414,Osvaldo Moizinho,W,1,"Pts: 6x6, Adv",World Champ.,70KG,8F,2023
+40240,11963,Diego Sodre,9074,Joao Mendes,W,1,Referee Decision,World Champ.,70KG,4F,2023
+40244,11963,Diego Sodre,11497,Fabricio Andrey,W,1,Referee Decision,World Champ.,70KG,SF,2023

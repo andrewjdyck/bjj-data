@@ -1,0 +1,35 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21900,12003,Tye Ruotolo,9031,Kennedy Maciel,L,0,RNC,ADCC,66KG,SF,2019
+21901,12003,Tye Ruotolo,2999,Paulo Miyao,L,0,Pts: 4x0,ADCC,66KG,3RD,2019
+23528,12003,Tye Ruotolo,8116,Dante Leon,L,0,Referee Decision,Grapplefest 8,77KG,SPF,2020
+23804,12003,Tye Ruotolo,10880,Roberto Jimenez,L,0,Points,3CG Kumite III,81KG,4F,2020
+23868,12003,Tye Ruotolo,10880,Roberto Jimenez,L,0,Points,Kumite V,81KG,F,2020
+26602,12003,Tye Ruotolo,8346,Craig Jones,L,0,Referee Decision,WNO 10,90KG,SPF,2021
+32927,12003,Tye Ruotolo,12122,Mica Galvao,L,0,Pts: 2x0,World Champ.,76KG,F,2022
+35039,12003,Tye Ruotolo,7096,Josh Hinger,L,0,Pts: 3x2,ADCC,88KG,R1,2022
+35106,12003,Tye Ruotolo,7507,Nicholas Meregali,L,0,Referee Decision,ADCC,ABS,SF,2022
+40295,12003,Tye Ruotolo,12506,Jansen Gomes,L,0,Pts: 4x0,World Champ.,82KG,SF,2023
+21869,12003,Tye Ruotolo,174,Bruno Frazatto,W,1,Pts: 2x0,ADCC,66KG,R1,2019
+21872,12003,Tye Ruotolo,8069,Pablo Mantovani,W,1,Referee Decision,ADCC,66KG,4F,2019
+22417,12003,Tye Ruotolo,8394,Vagner Rocha,W,1,Referee Decision,F2W 131,77KG,SPF,2019
+22697,12003,Tye Ruotolo,8866,Thomas Halpin,W,1,Referee Decision,GrappleFest 7,73KG,SPF,2019
+23749,12003,Tye Ruotolo,11735,Nicky Ryan,W,1,Referee Decision,WNO,75KG,SPF,2020
+23865,12003,Tye Ruotolo,11707,Oliver Taza,W,1,Pts: 10x0,Kumite V,81KG,4F,2020
+23867,12003,Tye Ruotolo,7539,Renato Canuto,W,1,Referee Decision,Kumite V,81KG,SF,2020
+24854,12003,Tye Ruotolo,11049,Kody Steele,W,1,Inside heel hook,WNO 5,SPF,77KG,2020
+25965,12003,Tye Ruotolo,11771,William Tackett,W,1,Referee Decision,WNO 8,83KG,SPF,2021
+27900,12003,Tye Ruotolo,7664,Johnny Tama,W,1,Darce choke,WNO Champ.,84KG,4F,2021
+27905,12003,Tye Ruotolo,8116,Dante Leon,W,1,Guillotine,WNO Champ.,84KG,SF,2021
+27924,12003,Tye Ruotolo,12122,Mica Galvao,W,1,Referee Decision,WNO Champ.,84KG,F,2021
+29313,12003,Tye Ruotolo,,Nick Ronan,W,1,Referee Decision,GrappleFest,77KG,SPF,2021
+29823,12003,Tye Ruotolo,9014,Levi Jones,W,1,Kneebar,WNO 11,77KG,SPF,2022
+32835,12003,Tye Ruotolo,5649,Garry Tonon,W,1,Darce choke,One FC,NA,SPF,2022
+32914,12003,Tye Ruotolo,10085,Johnatha Alves,W,1,Pts: 4x2,World Champ.,76KG,8F,2022
+32922,12003,Tye Ruotolo,9014,Levi Jones,W,1,Pts: 8x0,World Champ.,76KG,4F,2022
+32925,12003,Tye Ruotolo,8516,Lucas Valente,W,1,Pts: 4x0,World Champ.,76KG,SF,2022
+35099,12003,Tye Ruotolo,11991,Pedro Marinho,W,1,Arm in RNC,ADCC,ABS,8F,2022
+35103,12003,Tye Ruotolo,2416,Felipe Pena,W,1,"Pts: 0x0, Pen",ADCC,ABS,4F,2022
+36718,12003,Tye Ruotolo,,Marat Gafurov,W,1,Triangle armlock,One FC,82KG,SPF,2022
+40283,12003,Tye Ruotolo,12048,Rafael Anjos,W,1,Darce choke,World Champ.,82KG,8F,2023
+40292,12003,Tye Ruotolo,12654,Tarik Hopstock,W,1,Kneebar,World Champ.,82KG,4F,2023
+41680,12003,Tye Ruotolo,,Dagi Arslanaliev,W,1,RNC,One FN13,81KG,SPF,2023

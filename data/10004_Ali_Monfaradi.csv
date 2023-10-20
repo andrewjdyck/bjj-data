@@ -1,0 +1,150 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+13687,10004,Ali Monfaradi,7645,Masahiro Iwasaki,L,0,Points,Asian Open,76KG,4F,2017
+13702,10004,Ali Monfaradi,3009,Keenan Cornelius,L,0,Armbar,Asian Open,ABS,R1,2017
+14091,10004,Ali Monfaradi,7478,Adam Wardzinski,L,0,Arm in Ezekiel,Swedish Nats,ABS,SF,2017
+14103,10004,Ali Monfaradi,7478,Adam Wardzinski,L,0,Von Fluke choke,German NoGi,ABS,F,2017
+14131,10004,Ali Monfaradi,1014,Jake Mackenzie,L,0,Points,London FO,76KG,SF,2017
+14146,10004,Ali Monfaradi,7321,Darragh OConaill,L,0,Guillotine,London FNGO,79KG,F,2017
+14152,10004,Ali Monfaradi,7652,C. Negromonte,L,0,Reverse triangle,London FNGO,ABS,4F,2017
+14165,10004,Ali Monfaradi,,Adriano Araujo,L,0,"Pts: 0x0, Adv",Al Ain Pro,77KG,F,2017
+14754,10004,Ali Monfaradi,7006,Julio Anjos,L,0,Pts: 11x2,Dubai Nat. Pro,77KG,F,2017
+14826,10004,Ali Monfaradi,7006,Julio Anjos,L,0,Pts: 4x2,Grand Slam AD,77KG,4F,2018
+14835,10004,Ali Monfaradi,,Adriano Araujo,L,0,"Pts: 0x0, Adv",Grand Slam AD,77KG,3RD,2018
+14914,10004,Ali Monfaradi,7645,Masahiro Iwasaki,L,0,Pts: 2x0,European Open,76KG,R1,2018
+15328,10004,Ali Monfaradi,,Tommi Pulkkanen,L,0,Adv,London WO,76KG,SF,2018
+16131,10004,Ali Monfaradi,2999,Paulo Miyao,L,0,Choke from back,World Pro,69KG,4F,2018
+17937,10004,Ali Monfaradi,9407,Alexandre Molinaro,L,0,Points,London FO,76KG,4F,2018
+17947,10004,Ali Monfaradi,8308,Max Lindblad,L,0,Choke from back,London FO,ABS,SF,2018
+17950,10004,Ali Monfaradi,9407,Alexandre Molinaro,L,0,Points,London FNGO,79KG,F,2018
+17953,10004,Ali Monfaradi,,Anderson Lima,L,0,Pts: 5x2,London FNGO,ABS,SF,2018
+18405,10004,Ali Monfaradi,9515,Seif Houmine,L,0,Choke,Berlin Open,ABS,SF,2018
+18758,10004,Ali Monfaradi,9606,Inseong Jang,L,0,Pts: 2x0,JJIF World C.,77KG,R3,2018
+18780,10004,Ali Monfaradi,9606,Inseong Jang,L,0,Pts: 2x0,JJIF World C.,77KG,R2,2019
+19268,10004,Ali Monfaradi,,Adriano Araujo,L,0,"Pts: 2x2, Adv",Ras Alk. Pro,77KG,F,2019
+20095,10004,Ali Monfaradi,7831,Diego Ramalho,L,0,Botinha,World Pro,77KG,R2,2019
+20111,10004,Ali Monfaradi,7831,Diego Ramalho,L,0,Botinha,World Pro,77KG,RPC,2019
+22129,10004,Ali Monfaradi,9407,Alexandre Molinaro,L,0,Points,Rome Fall Open,76KG,SF,2019
+22141,10004,Ali Monfaradi,7478,Adam Wardzinski,L,0,Choke from back,Rome Fall Open,ABS,F,2019
+22965,10004,Ali Monfaradi,10408,Israel Sousa,L,0,Pts: 7x6,Grand Slam AD,69KG,R1,2020
+23615,10004,Ali Monfaradi,9051,Gabriel Sousa,L,0,Pts: 9x4,Grand Slam LDN,69KG,SF,2020
+25189,10004,Ali Monfaradi,9094,Richar Nogueira,L,0,"Pts: 0x0, Adv",Dallas Open,70KG,4F,2021
+25230,10004,Ali Monfaradi,4248,Gianni Grippo,L,0,Pts: 4x2,Dallas NGO,73KG,F,2021
+25503,10004,Ali Monfaradi,,Daniel Vieira,L,0,"Pts: 4x4, Pen",Grand Slam AD,69KG,R1,2021
+25659,10004,Ali Monfaradi,10408,Israel Sousa,L,0,Pts: 6x1,World Pro,69KG,F,2021
+29209,10004,Ali Monfaradi,8215,Espen Mathiesen,L,0,Triangle,World Pro,77KG,SF,2021
+29213,10004,Ali Monfaradi,9014,Levi Jones,L,0,Armbar,World Pro,77KG,RPC,2021
+31790,10004,Ali Monfaradi,,Ellis Younger,L,0,Pts: 8x1,Italy Pro,77KG,F,2022
+34844,10004,Ali Monfaradi,,Adriano Araujo,L,0,Referee Decision,UAE Nat Pro,77KG,SF,2022
+34893,10004,Ali Monfaradi,,Mahdi Khaled,L,0,Referee Decision,VP Cup,77KG,SF,2022
+35402,10004,Ali Monfaradi,12348,Lucas Protasio,L,0,Pts: 13x7,NoGi GP Rome,77KG,F,2022
+36347,10004,Ali Monfaradi,,Marinaldo Morais,L,0,DQ,World Pro,77KG,8F,2022
+36359,10004,Ali Monfaradi,,Andre Cantanhede,L,0,Botinha,World Pro,77KG,RPC,2022
+38782,10004,Ali Monfaradi,11872,Luiz Paulo,L,0,Pts: 10x2,Presidents Cup,77KG,RR,2023
+39673,10004,Ali Monfaradi,,Andre Cantanhede,L,0,Pts: 3x3,ADGS ABD,77KG,SF,2023
+39677,10004,Ali Monfaradi,,Joao Paulo Sousa,L,0,Pts: 4x3,ADGS ABD,77KG,RPC,2023
+40503,10004,Ali Monfaradi,11872,Luiz Paulo,L,0,"Pts: 0x0, Adv",President Cup,77KG,F,2023
+40929,10004,Ali Monfaradi,,Francisco Freire,L,0,Pts: 4x4,Dubai Pro,77KG,F,2023
+11390,10004,Ali Monfaradi,,M. Muratazaliev,W,1,Choke from Back,Asian Games,77KG,R1,2017
+11391,10004,Ali Monfaradi,,Nurlan Yespolov,W,1,Darce choke,Asian Games,77KG,4F,2017
+11392,10004,Ali Monfaradi,,Davar Mansoori,W,1,Armbar,Asian Games,77KG,SF,2017
+11393,10004,Ali Monfaradi,,H. Al Rasheed,W,1,Pts: 2x0,Asian Games,77KG,F,2017
+11412,10004,Ali Monfaradi,,Abbas Khan,W,1,Omoplata,IMMAF Grappling,N/A,4F,2017
+11413,10004,Ali Monfaradi,,Ahmed Amir,W,1,Darce choke,IMMAF Grappling,N/A,SF,2017
+13685,10004,Ali Monfaradi,,Ishimora Jin,W,1,Pts: 8x0,Asian Open,76KG,R1,2017
+14081,10004,Ali Monfaradi,,Benedikt Schotthofer,W,1,Straight ankle lock,Swedish Nats,82KG,F,2017
+14088,10004,Ali Monfaradi,,Marek Zbrog,W,1,Pts: 4x0,Swedish Nats,ABS,4F,2017
+14102,10004,Ali Monfaradi,,Nicolas Penzer,W,1,Pts: 10x8,German NNG,ABS,SF,2017
+14164,10004,Ali Monfaradi,,Melksedek Fr.,W,1,Pts: 9x2,Al Ain Pro,77KG,SF,2017
+14171,10004,Ali Monfaradi,,Nino Ambrosini,W,1,"Pts: 0x0, Adv",Al Ain Pro NoGi,83KG,SF,2017
+14172,10004,Ali Monfaradi,,Samuel Canquerino,W,1,Pts: 4x2,Al Ain Pro NoGi,83KG,F,2017
+14751,10004,Ali Monfaradi,,Vibhudatta Rout,W,1,"Pts: 6x6, Adv",Dubai Nat. Pro,77KG,4F,2017
+14753,10004,Ali Monfaradi,,Flavio Serafin,W,1,Pts: 2x0,Dubai Nat. Pro,77KG,SF,2017
+14759,10004,Ali Monfaradi,,Flavio Serafim,W,1,Pts: 2x0,Dubai NoGi Pro,77KG,F,2017
+14798,10004,Ali Monfaradi,,Leonardo Fernandes,W,1,"Pts: 4x4, Adv",Bahrain JJL R1,94KG,SF,2018
+14799,10004,Ali Monfaradi,,Anderson Lima,W,1,"Pts: 2x2, Adv",Bahrain JJL R1,94KG,F,2018
+14800,10004,Ali Monfaradi,,Wagner Borges,W,1,Pts: 7x0,Bahrain JJL R2,85KG,F,2018
+14801,10004,Ali Monfaradi,,Wagner Borges,W,1,Pts: 5x0,Bahrain JJL R3,85KG,SF,2018
+14802,10004,Ali Monfaradi,,Leonardo Fernandes,W,1,Pts: 5x0,Bahrain JJL R3,85KG,F,2018
+14832,10004,Ali Monfaradi,,Burak Sarman,W,1,Pts: 4x0,Grand Slam AD,77KG,RPC,2018
+14834,10004,Ali Monfaradi,,Raphael Mello,W,1,Pts: 9x0,Grand Slam AD,77KG,RPC,2018
+16129,10004,Ali Monfaradi,,Krzsyiek Flak,W,1,Pts: 8x0,World Pro,69KG,R1,2018
+16136,10004,Ali Monfaradi,,Vibhudatta Rout,W,1,Pts: 2x0,World Pro,69KG,RPC,2018
+16137,10004,Ali Monfaradi,,Jorge Nakamura,W,1,Pts: 12x2,World Pro,69KG,RPC,2018
+16139,10004,Ali Monfaradi,8866,Thomas Halpin,W,1,Pts: 4x2,World Pro,69KG,RPC,2018
+17943,10004,Ali Monfaradi,,Bruno Celio,W,1,Choke from back,London FO,ABS,4F,2018
+17949,10004,Ali Monfaradi,,Kenji Sette,W,1,RNC,London FNGO,79KG,SF,2018
+18757,10004,Ali Monfaradi,,Szilard Sule,W,1,Pts: 2x0,JJIF World C.,77KG,R2,2018
+18762,10004,Ali Monfaradi,,Vedran Simeunovic,W,1,Pts: 11x0,JJIF World C.,77KG,RPC,2018
+18763,10004,Ali Monfaradi,,Wim Deputter,W,1,Pts: 5x0,JJIF World C.,77KG,RPC,2018
+18764,10004,Ali Monfaradi,,Dan Schon,W,1,Pts: 2x0,JJIF World C.,77KG,RPC,2018
+18765,10004,Ali Monfaradi,,Sebastien Lecocq,W,1,Pts: 5x0,JJIF World C.,77KG,RPC,2018
+18775,10004,Ali Monfaradi,,H. Khalafawi,W,1,Mount pressure,Bahrain JJL R1,94KG,SF,2019
+18776,10004,Ali Monfaradi,,M. Monovarov,W,1,Choke from back,Bahrain JJL R1,94KG,F,2019
+18777,10004,Ali Monfaradi,,Jan Basso,W,1,"Pts: 2x2, Adv",Czech Nat Pro,77KG,SF,2019
+18778,10004,Ali Monfaradi,,Jan Basso,W,1,"Pts: 0x0, Adv",Czech Nat Pro,77KG,F,2019
+18779,10004,Ali Monfaradi,,Szilard Sule,W,1,Pts: 2x0,JJIF World C.,77KG,R1,2019
+18781,10004,Ali Monfaradi,,Vedran Simeunovic,W,1,Pts: 11x0,JJIF World C.,77KG,RPC,2019
+18782,10004,Ali Monfaradi,,Wim Deputter,W,1,Pts: 5x0,JJIF World C.,77KG,RPC,2019
+18783,10004,Ali Monfaradi,,Dan Schon,W,1,Pts: 2x0,JJIF World C.,77KG,RPC,2019
+18784,10004,Ali Monfaradi,,Sebastien Lecocq,W,1,Pts: 5x0,JJIF World C.,77KG,RPC,2019
+19267,10004,Ali Monfaradi,8290,Marcos Costa,W,1,Pts: 4x2,Ras Alk. Pro,77KG,SF,2019
+19270,10004,Ali Monfaradi,7156,Tiago Bravo,W,1,Pts: 2x0,Ras A NG Pro,75KG,F,2019
+20094,10004,Ali Monfaradi,,David Beluche,W,1,Choke,World Pro,77KG,R1,2019
+20109,10004,Ali Monfaradi,,Christian Dellevag,W,1,Pts: 4x0,World Pro,77KG,RPC,2019
+22137,10004,Ali Monfaradi,12566,Rodrigo Tatu,W,1,Points,Rome Fall Open,ABS,4F,2019
+22140,10004,Ali Monfaradi,,Sean Coates,W,1,N/A,Rome Fall Open,ABS,SF,2019
+22157,10004,Ali Monfaradi,11187,Marcus Phelan,W,1,Pts: 4x2,European NoGi,73KG,R1,2019
+22160,10004,Ali Monfaradi,,Amin Niki,W,1,Pts: 11x0,European NoGi,73KG,4F,2019
+22161,10004,Ali Monfaradi,,Tommi Pulkkanen,W,1,Points,European NoGi,73KG,SF,2019
+23612,10004,Ali Monfaradi,12751,Sam McNally,W,1,Pts: 4x3,Grand Slam LDN,69KG,4F,2020
+23618,10004,Ali Monfaradi,,Tyrone Elliott,W,1,Submission,Grand Slam LDN,69KG,RPC,2020
+23619,10004,Ali Monfaradi,,Haidar Abbas,W,1,Pts: 6x4,Grand Slam LDN,69KG,3RD,2020
+25224,10004,Ali Monfaradi,,Fernando Santos,W,1,"Pts: 0x0, Adv",Dallas NGO,73KG,4F,2021
+25229,10004,Ali Monfaradi,12372,Francisco Cuneo,W,1,Pts: 5x2,Dallas NGO,73KG,SF,2021
+25656,10004,Ali Monfaradi,,Haidar Abbas,W,1,Pts: 4x1,World Pro,69KG,4F,2021
+25658,10004,Ali Monfaradi,,Lucas Galbusera,W,1,Pts: 5x4,World Pro,69KG,SF,2021
+27471,10004,Ali Monfaradi,,Reda Aloufi,W,1,Submission,Eastern RJJC,85KG,4F,2021
+27472,10004,Ali Monfaradi,,Troy Hunt,W,1,Pts: 2x0,Eastern RJJC,85KG,SF,2021
+27473,10004,Ali Monfaradi,,M. Siyam,W,1,Submission,Eastern RJJC,85KG,F,2021
+27487,10004,Ali Monfaradi,,B. Benmahammed,W,1,Pts: 6x4,Croatia Pro,77KG,F,2021
+27490,10004,Ali Monfaradi,,Ali Hayat,W,1,Choke from back,Croatia Pro,ABS,SF,2021
+27491,10004,Ali Monfaradi,,Martin Nedbal,W,1,Choke from back,Croatia Pro,ABS,F,2021
+27492,10004,Ali Monfaradi,,Ali Hayat,W,1,Outside heel hook,Croatia NGP,77KG,SF,2021
+27494,10004,Ali Monfaradi,,B. Benmahammed,W,1,Inside heel hook,Croatia NGP,77KG,F,2021
+27964,10004,Ali Monfaradi,,S. Mirshokhid,W,1,Choke from back,JJIF Asian,77KG,R1,2021
+27965,10004,Ali Monfaradi,,N. Olzhas,W,1,Points,JJIF Asian,77KG,8F,2021
+27966,10004,Ali Monfaradi,,Aunjai Chanwit,W,1,Choke from back,JJIF Asian,77KG,4F,2021
+27967,10004,Ali Monfaradi,,A. Mahdi,W,1,Choke from back,JJIF Asian,77KG,SF,2021
+27968,10004,Ali Monfaradi,,A. Ala Aldin,W,1,Points,JJIF Asian,77KG,F,2021
+28385,10004,Ali Monfaradi,,Eric Sabliere,W,1,DQ,France Pro,77KG,SF,2021
+28386,10004,Ali Monfaradi,,Bruno Borges,W,1,Pts: 2x0,France Pro,77KG,F,2021
+29204,10004,Ali Monfaradi,,Batbayar Batsukh,W,1,Pts: 7x0,World Pro,77KG,R1,2021
+29208,10004,Ali Monfaradi,,Bruno Tchola,W,1,Choke from back,World Pro,77KG,4F,2021
+29784,10004,Ali Monfaradi,,Mahdi Alawlaqi,W,1,"Pts: 4x4, Adv",JJIF World C.,77KG,R1,2021
+29785,10004,Ali Monfaradi,,Y. Yangiboy,W,1,Choke from back,JJIF World C.,77KG,R2,2021
+29786,10004,Ali Monfaradi,,Michael Sheenan,W,1,"Pts: 2x2, Adv",JJIF World C.,77KG,4F,2021
+29787,10004,Ali Monfaradi,,B. Basukh,W,1,"Pts: 0x0, Adv",JJIF World C.,77KG,SF,2021
+29788,10004,Ali Monfaradi,,R. Nimrod,W,1,Pts: 2x0,JJIF World C.,77KG,F,2021
+31786,10004,Ali Monfaradi,,Bilal Benmahammed,W,1,Pts: 1x0,Italy Pro,77KG,4F,2022
+31788,10004,Ali Monfaradi,,Kalel Santos,W,1,Triangle,Italy Pro,77KG,SF,2022
+31794,10004,Ali Monfaradi,,Bilal Benmahammed,W,1,Submission,Italy NG Pro,77KG,F,2022
+31822,10004,Ali Monfaradi,,Adnan Magomedov,W,1,"Pts: 0x0, Adv",President Cup,NA,NA,2022
+31827,10004,Ali Monfaradi,,A. Albarguthi,W,1,Submission,President Cup,NA,NA,2022
+31828,10004,Ali Monfaradi,,Faraj Alawlaqi,W,1,Points,President Cup,NA,NA,2022
+31832,10004,Ali Monfaradi,,Andre Cantanhede,W,1,Pts: 4x2,President Cup,NA,3RD,2022
+34842,10004,Ali Monfaradi,,Jonatham Silva,W,1,Pts: 3x2,UAE Nat Pro,77KG,4F,2022
+34847,10004,Ali Monfaradi,5347,Yago Souza,W,1,Violin armlock,UAE Nat Pro,77KG,3RD,2022
+34890,10004,Ali Monfaradi,,Saif Hasan,W,1,Botinha,VP Cup,77KG,R1,2022
+34891,10004,Ali Monfaradi,,Saaid Ahmad,W,1,Verbal tap,VP Cup,77KG,R2,2022
+34892,10004,Ali Monfaradi,,Joao Bezerra,W,1,"Pts: 0x0, Adv",VP Cup,77KG,4F,2022
+35400,10004,Ali Monfaradi,,Pavel Kalesnik,W,1,Pts: 1x0,NoGi GP Rome,77KG,SF,2022
+36356,10004,Ali Monfaradi,,Thabet AlTaher,W,1,Pts: 8x0,World Pro,77KG,RPC,2022
+36357,10004,Ali Monfaradi,,Sebastian Guevara,W,1,Pts: 6x5,World Pro,77KG,RPC,2022
+36358,10004,Ali Monfaradi,,Ali Abualhaj,W,1,Triangle,World Pro,77KG,RPC,2022
+38784,10004,Ali Monfaradi,11963,Diego Sodre,W,1,"Pts: 2x2, Adv",Presidents Cup,77KG,RR,2023
+39666,10004,Ali Monfaradi,,Elias Costa,W,1,Pts: 7x0,ADGS ABD,77KG,R1,2023
+39670,10004,Ali Monfaradi,,Artem Kaygarodov,W,1,Pts: 5x4,ADGS ABD,77KG,4F,2023
+40498,10004,Ali Monfaradi,,A. Albaloushi,W,1,Toe hold,President Cup,77KG,R1,2023
+40500,10004,Ali Monfaradi,,Saif Alshamsi,W,1,N/A,President Cup,77KG,4F,2023
+40502,10004,Ali Monfaradi,,F. Alawlaqi,W,1,"Pts: 2x2, Adv",President Cup,77KG,SF,2023
+40928,10004,Ali Monfaradi,,Mohammad Fahmi,W,1,DQ,Dubai Pro,77KG,SF,2023

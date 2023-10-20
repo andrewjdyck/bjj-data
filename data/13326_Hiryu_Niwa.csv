@@ -1,0 +1,6 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+37858,13326,Hiryu Niwa,11889,Keven Carrasco,L,0,Referee Decision,Dallas Open,64KG,SF,2023
+38345,13326,Hiryu Niwa,12968,Zayed Alkatheeri,L,0,"Pts: 6x6, Adv",Pan American,58KG,F,2023
+38336,13326,Hiryu Niwa,,Rodrigo Otavio,W,1,"Pts: 2x2, Adv",Pan American,58KG,R1,2023
+38341,13326,Hiryu Niwa,12644,Tadiyah Danforth,W,1,Referee Decision,Pan American,58KG,4F,2023
+38344,13326,Hiryu Niwa,12848,Frank Cespedes,W,1,Pts: 6x4,Pan American,58KG,SF,2023

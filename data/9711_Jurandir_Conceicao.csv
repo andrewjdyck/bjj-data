@@ -1,0 +1,62 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4605,9711,Jurandir Conceicao,144,Andre Galvao,L,0,Armbar,Pan American,88KG,R1,2013
+4892,9711,Jurandir Conceicao,2235,Renato Cardoso,L,0,Botinha,Mundial CBJJE,88KG,4F,2013
+5298,9711,Jurandir Conceicao,144,Andre Galvao,L,0,Pts: 14x0,Pan American,ABS,R2,2014
+5384,9711,Jurandir Conceicao,484,Murilo Santana,L,0,Points,Pan American,88KG,R1,2014
+5525,9711,Jurandir Conceicao,1534,R. Evangelista,L,0,Botinha,Brasileiro,ABS,R1,2014
+5923,9711,Jurandir Conceicao,1895,Rodrigo Fajardo,L,0,Adv,Sul Brasileiro,88KG,F,2014
+5927,9711,Jurandir Conceicao,2999,Paulo Miyao,L,0,Choke from back,Sul Brasileiro,ABS,F,2014
+6509,9711,Jurandir Conceicao,680,Igor Silva,L,0,Armbar,European,ABS,4F,2015
+6605,9711,Jurandir Conceicao,,Henrique Lima,L,0,DQ,European,94KG,R1,2015
+6755,9711,Jurandir Conceicao,1827,James Puopolo,L,0,Pts: 7x0,Pan American,ABS,R2,2015
+6871,9711,Jurandir Conceicao,9706,Marcelo Mafra,L,0,Points,Pan American,94KG,R2,2015
+7549,9711,Jurandir Conceicao,576,Rafael Lovato,L,0,Armbar,Curitiba Open,94KG,F,2015
+8956,9711,Jurandir Conceicao,6071,Gabriel Arges,L,0,Pts: 8x4,European Open,88KG,R1,2016
+9896,9711,Jurandir Conceicao,224,Roberto Abreu,L,0,Submission,Miami SPO,ABS,4F,2016
+10342,9711,Jurandir Conceicao,1895,Rodrigo Fajardo,L,0,N/A,Gramado Open,88KG,F,2016
+11832,9711,Jurandir Conceicao,4145,Thiago Sa,L,0,Pts: 4x0,BH Summer Open,88KG,SF,2017
+11841,9711,Jurandir Conceicao,4521,Erberth Santos,L,0,Cross choke,BH Summer Open,ABS,4F,2017
+12939,9711,Jurandir Conceicao,2226,DJ Jackson,L,0,Pts: 3x0,Miami SPO,88KG,F,2017
+15105,9711,Jurandir Conceicao,,Andre Cavalcanti,L,0,N/A,ACB S. American,95KG,R2,2018
+15275,9711,Jurandir Conceicao,2235,Renato Cardoso,L,0,"Pts: 0x0, Adv",SA Continental Pro,94KG,SF,2018
+16252,9711,Jurandir Conceicao,4542,Felipe Cesar,L,0,Adv,Brasileiro,82KG,4F,2018
+19333,9711,Jurandir Conceicao,,Luis Marques,L,0,"Pts: 0x0, Adv",BJJ Stars,ABS,F,2019
+23278,9711,Jurandir Conceicao,11215,Harryson Pereira,L,0,Kimura,Sul Brasileiro,ABS,4F,2020
+25331,9711,Jurandir Conceicao,10698,Matheus Godoy,L,0,Pts: 2x0,Rio Open,94KG,SF,2021
+27316,9711,Jurandir Conceicao,,Maique Azevedo,L,0,Pts: 2x0,Goiania Pro,94KG,F,2021
+28082,9711,Jurandir Conceicao,11685,Anderson Munis,L,0,Pts: 9x0,Brasileiro,100KG,R1,2021
+28099,9711,Jurandir Conceicao,9554,Henrique Cardoso,L,0,Pts: 6x2,Brasileiro,ABS,8F,2021
+5292,9711,Jurandir Conceicao,6156,Tanner Rice,W,1,Footlock,Pan American,ABS,R1,2014
+5921,9711,Jurandir Conceicao,,Felipe Souza,W,1,Omoplata,Sul Brasileiro,88KG,4F,2014
+5922,9711,Jurandir Conceicao,,Douglas Bueno,W,1,Points,Sul Brasileiro,88KG,SF,2014
+5926,9711,Jurandir Conceicao,1986,Vitor Toledo,W,1,Adv,Sul Brasileiro,ABS,SF,2014
+6399,9711,Jurandir Conceicao,,Giovanne Dellamea,W,1,Submission,Sul Brasileiro,88KG,SF,2015
+6400,9711,Jurandir Conceicao,,Silas Oliveira,W,1,Submission,Sul Brasileiro,88KG,F,2015
+6497,9711,Jurandir Conceicao,,Tero Pyylampi,W,1,Pts: 2x0,European,ABS,R2,2015
+6505,9711,Jurandir Conceicao,,Henrique Lima,W,1,Armbar,European,ABS,R3,2015
+7548,9711,Jurandir Conceicao,,Henrique Lima,W,1,N/A,Curitiba Open,94KG,SF,2015
+8854,9711,Jurandir Conceicao,,Ricardo Mesquita,W,1,Points,BJJ Stars,ABS,SPF,2016
+9888,9711,Jurandir Conceicao,4235,Victor Silverio,W,1,Points,Miami SPO,88KG,SF,2016
+9890,9711,Jurandir Conceicao,4859,Ricardo Rezende,W,1,Omoplata,Miami SPO,88KG,F,2016
+9895,9711,Jurandir Conceicao,3110,Victor Genovesi,W,1,"Pts: 2x2, Adv",Miami SPO,R1,4F,2016
+10341,9711,Jurandir Conceicao,,Michael Reihner,W,1,N/A,Gramado Open,88KG,SF,2016
+11830,9711,Jurandir Conceicao,,Henrique Feijo,W,1,Omoplata,BH Summer Open,88KG,4F,2017
+11840,9711,Jurandir Conceicao,,Levy Oliveira,W,1,Cross choke,BH Summer Open,ABS,R1,2017
+12937,9711,Jurandir Conceicao,,Jose Portillo,W,1,Points,Miami SPO,88KG,SF,2017
+15104,9711,Jurandir Conceicao,,Joao Oliveira,W,1,N/A,ACB S. American,95KG,R1,2018
+15273,9711,Jurandir Conceicao,,Gustavo Saraiva,W,1,Submission,SA Continental Pro,94KG,4F,2018
+15277,9711,Jurandir Conceicao,,Luis Quinterio,W,1,Submission,SA Continental Pro,94KG,3RD,2018
+16241,9711,Jurandir Conceicao,,N/A,W,1,N/A,Brasileiro,82KG,R1,2018
+16242,9711,Jurandir Conceicao,,N/A,W,1,Triangle wristlock,Brasileiro,82KG,R2,2018
+16244,9711,Jurandir Conceicao,,N/A,W,1,Omoplata,Brasileiro,82KG,8F,2018
+19331,9711,Jurandir Conceicao,,Rodrigo Serafim,W,1,Triangle,BJJ Stars,ABS,4F,2019
+19332,9711,Jurandir Conceicao,909,Adriano Silva,W,1,Points,BJJ Stars,ABS,SF,2019
+23271,9711,Jurandir Conceicao,11215,Harryson Pereira,W,1,Omoplata,Sul Brasileiro,100KG,SF,2020
+23272,9711,Jurandir Conceicao,,Paulo Dantas,W,1,Wristlock,Sul Brasileiro,100KG,F,2020
+23275,9711,Jurandir Conceicao,,Gabriel Mendonca,W,1,Kimura,Sul Brasileiro,ABS,R1,2020
+23386,9711,Jurandir Conceicao,,Romulo Almeida,W,1,Wristlock,Curitiba SO,O100KG,R1,2020
+23388,9711,Jurandir Conceicao,,Andre Rudolfo,W,1,Omoplata,Curitiba SO,O100KG,4F,2020
+23390,9711,Jurandir Conceicao,,Raul Almeida,W,1,Armbar,Curitiba SO,O100KG,SF,2020
+23392,9711,Jurandir Conceicao,12055,Yatan Bueno,W,1,Omoplata,Curitiba SO,O100KG,F,2020
+25326,9711,Jurandir Conceicao,,Felipe Pinheiro,W,1,Triangle,Rio Open,94KG,4F,2021
+27315,9711,Jurandir Conceicao,,Tyrone Gonsalves,W,1,Pts: 1x0,Goiania Pro,94KG,SF,2021

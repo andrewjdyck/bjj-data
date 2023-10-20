@@ -1,0 +1,113 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8074,5756,Wellington Luis,5061,Gabriel Rollo,L,0,"Pts: 0x0, Adv",Brazil Nat. Pro,U77KG,SF,2015
+8358,5756,Wellington Luis,5061,Gabriel Rollo,L,0,Pts: 4x2,SP National Pro,ABS,4F,2015
+8655,5756,Wellington Luis,1003,Diogo Sampaio,L,0,Referee Decision,Grand Slam RJ,85KG,4F,2015
+8694,5756,Wellington Luis,4521,Erberth Santos,L,0,Submission,Grand Slam RJ,ABS,R1,2015
+11898,5756,Wellington Luis,428,Celso Vinicius,L,0,Pts: 2x0,Copa Podio,77KG,RR,2017
+11901,5756,Wellington Luis,7552,Isaque Bahiense,L,0,Pts: 6x2,Copa Podio,77KG,RR,2017
+12776,5756,Wellington Luis,5078,Luan Carvalho,L,0,"Pts: 0x0, Adv",Brasileiro,82KG,R2,2017
+13747,5756,Wellington Luis,,Victor Bomfim,L,0,Points,Sao Paulo Open,88KG,F,2017
+14353,5756,Wellington Luis,9312,Alexandre Cavaliere,L,0,Referee Decision,Grand Slam RJ,85KG,R2,2017
+14476,5756,Wellington Luis,2235,Renato Cardoso,L,0,Points,South American,88KG,R1,2017
+14496,5756,Wellington Luis,,William Martins,L,0,Points,South American,ABS,4F,2017
+19714,5756,Wellington Luis,,Luis Albuquerque,L,0,DQ,Floripa Fall Open,82KG,4F,2019
+19835,5756,Wellington Luis,9483,Eduardo Lopes,L,0,N/A,Rio FO,ABS,SF,2019
+20292,5756,Wellington Luis,410,Claudio Calasans,L,0,Pts: 2x0,Brasileiro,82KG,R2,2019
+20815,5756,Wellington Luis,8477,Igor Paiva,L,0,Points,Rio Open,82KG,4F,2019
+21284,5756,Wellington Luis,10932,Gustavo Maron,L,0,Guillotine,Vitoria Open,82KG,SF,2019
+22581,5756,Wellington Luis,9793,Alexandre Jesus,L,0,Pts: 2x0,South American,82KG,F,2019
+25538,5756,Wellington Luis,8996,Mauricio Oliveira,L,0,Pts: 2x1,Grand Slam AD,85KG,SF,2021
+25542,5756,Wellington Luis,8105,Tommy Langaker,L,0,Pts: 2x2,Grand Slam AD,85KG,RPC,2021
+25619,5756,Wellington Luis,7552,Isaque Bahiense,L,0,Bow and arrow,WP BR Qualifier,85KG,RR,2021
+26839,5756,Wellington Luis,8996,Mauricio Oliveira,L,0,Pts: 3x0,Big Deal Pro 3,82KG,SPF,2021
+28063,5756,Wellington Luis,8996,Mauricio Oliveira,L,0,Pts: 6x2,Brasileiro,88KG,R1,2021
+28102,5756,Wellington Luis,4960,Dimitrius Souza,L,0,Referee Decision,Brasileiro,ABS,8F,2021
+28555,5756,Wellington Luis,11746,Alex Munis,L,0,Pts: 1x0,Grand Slam RJ,85KG,4F,2021
+28561,5756,Wellington Luis,6432,Yan Lucas,L,0,Pts: 2x0,Grand Slam RJ,85KG,RPC,2021
+29539,5756,Wellington Luis,10240,Jake Watson,L,0,"Pts: 4x4, Pen",World Champ.,88KG,R1,2021
+30141,5756,Wellington Luis,6432,Yan Lucas,L,0,Referee Decision,Sul Brasileiro,88KG,SF,2022
+30154,5756,Wellington Luis,8514,Fellipe Andrew,L,0,Katagatame,Sul Brasileiro,ABS,SF,2022
+30717,5756,Wellington Luis,11766,Gabriel Costa,L,0,"Pts: 0x0, Pen",Gramado Pro,85KG,RR,2022
+30719,5756,Wellington Luis,11766,Gabriel Costa,L,0,Choke,Gramado Pro,85KG,F,2022
+31046,5756,Wellington Luis,,Eduardo Macedo,L,0,N/A,Curitiba Open,ABS,R1,2022
+32184,5756,Wellington Luis,7047,Matheus Spirandeli,L,0,Choke from back,Brasileiro,88KG,SF,2022
+32963,5756,Wellington Luis,12680,Enderson Dias,L,0,"Pts: 8x8, Adv",World Champ.,88KG,8F,2022
+34023,5756,Wellington Luis,10174,Rafael Paganini,L,0,Pts: 3x2,Grand Slam RJ,85KG,4F,2022
+34030,5756,Wellington Luis,12243,Leon Brito,L,0,Pts: 7x0,Grand Slam RJ,85KG,RPC,2022
+35375,5756,Wellington Luis,,Filipe Pimentel,L,0,Pts: 2x0,Rio BJJ Pro,94KG,R1,2022
+37228,5756,Wellington Luis,12506,Jansen Gomes,L,0,Choke from back,European Open,88KG,SF,2023
+38049,5756,Wellington Luis,11766,Gabriel Costa,L,0,Pts: 2x0,Curitiba SMO,88KG,SF,2023
+38431,5756,Wellington Luis,10162,Ronaldo Junior,L,0,Armbar,Pan American,88KG,8F,2023
+39514,5756,Wellington Luis,7047,Matheus Spirandeli,L,0,Shoulder lock,Brasileiro,88KG,SF,2023
+39558,5756,Wellington Luis,10159,Victor Hugo,L,0,Americana,Brasileiro,ABS,4F,2023
+40313,5756,Wellington Luis,13076,Francisco Lo,L,0,Pts: 4x2,World Champ.,88KG,8F,2023
+40757,5756,Wellington Luis,13422,Pedro Bolo,L,0,Pts: 4x0,Rio Open,88KG,F,2023
+42750,5756,Wellington Luis,12671,Uanderson Ferreira,L,0,"Pts: 2x2, Adv",Sul Americano,88KG,4F,2023
+8060,5756,Wellington Luis,,Erick Souza,W,1,Pts: 4x0,Brazil Nat. Pro,77KG,R1,2015
+8062,5756,Wellington Luis,443,Claudio Mattos,W,1,"Pts: 0x0, Adv",Brazil Nat. Pro,77KG,4F,2015
+8065,5756,Wellington Luis,,Ricardo Rocha,W,1,Pts: 2x0,Brazil Nat. Pro,77KG,SF,2015
+8066,5756,Wellington Luis,4542,Felipe Cesar,W,1,"Pts: 0x0, Adv",Brazil Nat. Pro,77KG,F,2015
+8069,5756,Wellington Luis,,Luciano Macedo,W,1,Pts: 5x0,Brazil Nat. Pro,U77KG,4F,2015
+8351,5756,Wellington Luis,,Unknown,W,1,Choke from back,SP National Pro,77KG,R1,2015
+8355,5756,Wellington Luis,,Unknown,W,1,Pts: 6x0,SP National Pro,77KG,4F,2015
+11073,5756,Wellington Luis,1895,Rodrigo Fajardo,W,1,Points,Grand Slam RJ,85KG,8F,2016
+11079,5756,Wellington Luis,,Abner Souza,W,1,Points,Grand Slam RJ,85KG,4F,2016
+11891,5756,Wellington Luis,1820,Delson Heleno,D,0.5,---,Copa Podio,77KG,RR,2017
+11895,5756,Wellington Luis,7672,Caio Almeida,W,1,Pts: 2x0,Copa Podio,77KG,RR,2017
+12772,5756,Wellington Luis,,Rafael Figueiredo,W,1,Bow and arrow,Brasileiro,82KG,R1,2017
+14475,5756,Wellington Luis,671,Helvecio Penna,W,1,Triangle,South American,88KG,R1,2017
+14492,5756,Wellington Luis,,Marcelo Tarso,W,1,Points,South American,ABS,R1,2017
+19818,5756,Wellington Luis,,Bruno Tosto,W,1,Points,Rio FO,82KG,4F,2019
+19820,5756,Wellington Luis,9312,Alexandre Cavaliere,W,1,Pts: 4x0,Rio FO,82KG,SF,2019
+19822,5756,Wellington Luis,,Leonilson Ferreira,W,1,Katagatame,Rio FO,82KG,F,2019
+20289,5756,Wellington Luis,7672,Caio Almeida,W,1,Katagatame,Brasileiro,82KG,R1,2019
+20812,5756,Wellington Luis,,Vinicius Cruz,W,1,Points,Rio Open,82KG,R1,2019
+21011,5756,Wellington Luis,8112,Matheus Costa,W,1,Bow and arrow,SP BJJ Pro,82KG,4F,2019
+21015,5756,Wellington Luis,9793,Alexandre Jesus,W,1,Referee Decision,SP BJJ Pro,82KG,F,2019
+21297,5756,Wellington Luis,12566,Rodrigo Tatu,W,1,Points,Vitoria Open,ABS,R1,2019
+21304,5756,Wellington Luis,,Webster Costa,W,1,Points,Vitoria Open,ABS,4F,2019
+21724,5756,Wellington Luis,,Jackson Jader,W,1,Bow and arrow,Sao Paulo Open,82KG,R1,2019
+21725,5756,Wellington Luis,,Vinicius Souza,W,1,Points,Sao Paulo Open,82KG,4F,2019
+21729,5756,Wellington Luis,,Ygor Dantas,W,1,Points,Sao Paulo Open,82KG,SF,2019
+22578,5756,Wellington Luis,8647,Igor Verissimo,W,1,Referee Decision,South American,82KG,4F,2019
+22580,5756,Wellington Luis,,Ronieri Pinto,W,1,Choke from back,South American,82KG,SF,2019
+24726,5756,Wellington Luis,,Gustavo Borges,W,1,Referee Decision,Grand Slam RJ,85KG,R1,2020
+24740,5756,Wellington Luis,12243,Leon Brito,W,1,Pts: 3x2,Grand Slam RJ,85KG,8F,2020
+24741,5756,Wellington Luis,11746,Alex Munis,W,1,Referee Decision,Grand Slam RJ,85KG,4F,2020
+24746,5756,Wellington Luis,7047,Matheus Spirandeli,W,1,Pts: 1x0,Grand Slam RJ,85KG,F,2020
+25166,5756,Wellington Luis,10174,Rafael Paganini,W,1,Pts: 4x2,Big Deal Pro 2,85KG,SPF,2021
+25534,5756,Wellington Luis,10509,Mathias Luna,W,1,Referee Decision,Grand Slam AD,85KG,4F,2021
+25621,5756,Wellington Luis,7006,Julio Anjos,W,1,Pts: 3x2,WP BR Qualifier,85KG,RR,2021
+28547,5756,Wellington Luis,,Edson Oliveira,W,1,Pts: 6x0,Grand Slam RJ,85KG,R1,2021
+28550,5756,Wellington Luis,,Manoel Junior,W,1,Pts: 4x3,Grand Slam RJ,85KG,8F,2021
+29894,5756,Wellington Luis,,Davi Menezes,W,1,Pts: 6x2,Rio SMO,88KG,4F,2022
+29895,5756,Wellington Luis,,Bruno Tosto,W,1,Pts: 7x2,Rio SMO,88KG,SF,2022
+29920,5756,Wellington Luis,,Italo Vieira,W,1,Katagatame,Rio SMO,ABS,R1,2022
+30139,5756,Wellington Luis,,Ramon Rosa,W,1,Pts: 4x0,Sul Brasileiro,88KG,4F,2022
+30152,5756,Wellington Luis,6432,Yan Lucas,W,1,"Pts: 0x0, Pen",Sul Brasileiro,ABS,4F,2022
+30718,5756,Wellington Luis,,Moises Cavalcante,W,1,N/A,Gramado Pro,85KG,RR,2022
+31024,5756,Wellington Luis,,Luis Santos,W,1,N/A,Curitiba Open,88KG,R1,2022
+31030,5756,Wellington Luis,10174,Rafael Paganini,W,1,Pts: 4x2,Curitiba Open,88KG,SF,2022
+31031,5756,Wellington Luis,,Marcelo Lemelle,W,1,Pts: 10x0,Curitiba Open,88KG,F,2022
+31895,5756,Wellington Luis,,Darzan Cesar,W,1,Pts: 18x0,Rio Fall Open,88KG,R1,2022
+31900,5756,Wellington Luis,,Rafael Luquini,W,1,Pts: 12x2,Rio Fall Open,88KG,4F,2022
+31902,5756,Wellington Luis,11746,Alex Munis,W,1,"Pts: 2x2, Adv",Rio Fall Open,88KG,SF,2022
+31903,5756,Wellington Luis,,Marcelo Lemelle,W,1,Choke,Rio Fall Open,88KG,F,2022
+32175,5756,Wellington Luis,,Carlos Souza,W,1,N/A,Brasileiro,88KG,R1,2022
+32179,5756,Wellington Luis,,Marcelo Lemelle,W,1,Pts: 8x2,Brasileiro,88KG,4F,2022
+34006,5756,Wellington Luis,,F. Machado,W,1,Armbar,Grand Slam RJ,85KG,R1,2022
+34017,5756,Wellington Luis,10669,Lucas Alves,W,1,Pts: 4x2,Grand Slam RJ,85KG,8F,2022
+34029,5756,Wellington Luis,,Ramiro Galvan,W,1,Pts: 2x0,Grand Slam RJ,85KG,RPC,2022
+35147,5756,Wellington Luis,,Luiz Tadeu,W,1,Katagatame,SP Open,88KG,4F,2022
+35149,5756,Wellington Luis,,Raphael Castro,W,1,Armbar,SP Open,88KG,SF,2022
+35151,5756,Wellington Luis,,Erick Diovano,W,1,Pts: 2x0,SP Open,88KG,F,2022
+37224,5756,Wellington Luis,13076,Francisco Lo,W,1,Pts: 2x0,European Open,88KG,4F,2023
+38044,5756,Wellington Luis,,Rafael Souza,W,1,Choke,Curitiba SMO,88KG,4F,2023
+38422,5756,Wellington Luis,1003,Diogo Sampaio,W,1,Pts: 6x4,Pan American,88KG,R1,2023
+39505,5756,Wellington Luis,,Darlan Casaca,W,1,Amassa pao,Brasileiro,88KG,R1,2023
+39511,5756,Wellington Luis,10174,Rafael Paganini,W,1,"Pts: 2x2, Adv",Brasileiro,88KG,4F,2023
+39546,5756,Wellington Luis,,Wildemar Souza,W,1,"Pts: 0x0, Adv",Brasileiro,ABS,R1,2023
+40310,5756,Wellington Luis,12069,Bruno Matias,W,1,"Pts: 2x2, Adv",World Champ.,88KG,R1,2023
+40753,5756,Wellington Luis,,Carlos Alves,W,1,Pts: 2x0,Rio Open,88KG,4F,2023
+40755,5756,Wellington Luis,,Joao Felipe,W,1,N/A,Rio Open,88KG,SF,2023
+42746,5756,Wellington Luis,,Darlison Santos,W,1,Pts: 14x0,Sul Americano,88KG,8F,2023

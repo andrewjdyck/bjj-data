@@ -1,0 +1,21 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21736,10964,Caio Paganini,13392,Gabriel Volante,L,0,Choke from back,Sao Paulo Open,94KG,SF,2019
+38052,10964,Caio Paganini,4430,Patrick Gaudio,L,0,Pts: 6x4,Curitiba SMO,94KG,4F,2023
+38105,10964,Caio Paganini,11862,Pedro Alex,L,0,N/A,Curitiba SMO,ABS,SF,2023
+40760,10964,Caio Paganini,,Matheus Marques,L,0,"Pts: 6x6, Adv",Rio Open,94KG,F,2023
+40770,10964,Caio Paganini,5509,Victor Honorio,L,0,N/A,Rio Open,ABS,SF,2023
+42766,10964,Caio Paganini,9117,Hygor Brito,L,0,"Pts: 0x0, Adv",Sul Americano,94KG,SF,2023
+21105,10964,Caio Paganini,,Victor Luz,W,1,Triangle,BH Winter Open,94KG,4F,2019
+21106,10964,Caio Paganini,,Vinicius Barros,W,1,Armbar,BH Winter Open,94KG,SF,2019
+21734,10964,Caio Paganini,,N/A,W,1,Choke from back,Sao Paulo Open,94KG,4F,2019
+21970,10964,Caio Paganini,9864,Diego Bispo,W,1,Choke from back,Charlotte Open,ABS,4F,2019
+21971,10964,Caio Paganini,,Dylan Whyte,W,1,Choke from back,Charlotte Open,ABS,SF,2019
+22590,10964,Caio Paganini,,N/A,W,1,Armbar,South American,94KG,R1,2019
+22592,10964,Caio Paganini,,Thiago Saldanha,W,1,Choke from back,South American,94KG,4F,2019
+38094,10964,Caio Paganini,,Joao Freitas,W,1,Triangle,Curitiba SMO,ABS,8F,2023
+38104,10964,Caio Paganini,,Gabriel Machado,W,1,Choke from back,Curitiba SMO,ABS,4F,2023
+40758,10964,Caio Paganini,,Joao Oliveira,W,1,N/A,Rio Open,94KG,4F,2023
+40764,10964,Caio Paganini,,Alexis Tangen,W,1,N/A,Rio Open,ABS,R1,2023
+40765,10964,Caio Paganini,,Gabriel Neves,W,1,N/A,Rio Open,ABS,4F,2023
+42761,10964,Caio Paganini,,Wesley Leite,W,1,Choke from back,Sul Americano,94KG,R1,2023
+42763,10964,Caio Paganini,13190,Vinicius Lessa,W,1,DQ,Sul Americano,94KG,4F,2023

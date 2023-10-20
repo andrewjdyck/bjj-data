@@ -1,0 +1,68 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+5049,5861,Jared Dopp,2403,Joao Rocha,L,0,Points,ADCC,O99KG,SF,2013
+5051,5861,Jared Dopp,224,Roberto Abreu,L,0,Points,ADCC,O99KG,3PLC,2013
+7908,5861,Jared Dopp,2452,Orlando Sanchez,L,0,Referee Decision,ADCC,O99KG,F,2015
+8473,5861,Jared Dopp,4177,Gustavo Dias,L,0,"Pts: 2x2, Adv",NoGi Worlds,O100KG,4F,2015
+8483,5861,Jared Dopp,5930,Rodrigo Freitas,L,0,"Pts: 6x6, Adv",NoGi Worlds,ABS,R1,2015
+9077,5861,Jared Dopp,5842,Mahamed Aly,L,0,Pts: 11x0,Houston Open,O100KG,F,2016
+9081,5861,Jared Dopp,5842,Mahamed Aly,L,0,Footlock,Houston Open,ABS,SF,2016
+9340,5861,Jared Dopp,,Daniel Priebe,L,0,N/A,Pan American,100KG,R1,2016
+9913,5861,Jared Dopp,,Ezra Lenon,L,0,Pts: 6x0,Respect Pro,ABS,SPF,2016
+10942,5861,Jared Dopp,3122,Luiz Panza,L,0,Calf slicer,NoGi Worlds,97KG,F,2016
+10966,5861,Jared Dopp,484,Murilo Santana,L,0,Armbar,NoGi Worlds,ABS,SF,2016
+11300,5861,Jared Dopp,5842,Mahamed Aly,L,0,Pts: 17x14,Grappling Pro 2,120KG,SF,2016
+11301,5861,Jared Dopp,,J. Friedrich,L,0,Inside heel hook,Grappling Pro 2,120KG,3RD,2016
+12084,5861,Jared Dopp,8968,Admilson Gobi,L,0,Pts: 4x2,Pan American,ABS,R1,2017
+12241,5861,Jared Dopp,6592,Dany Gerard,L,0,Pts: 15x2,Pan American,100KG,8F,2017
+12918,5861,Jared Dopp,7639,Eliot Marshall,L,0,Referee Decision,F2W 34,ABS,SPF,2017
+13201,5861,Jared Dopp,1986,Vitor Toledo,L,0,Referee Decision,World Champ.,100KG,8F,2017
+13856,5861,Jared Dopp,2452,Orlando Sanchez,L,0,Referee Decision,ADCC,O99KG,SF,2017
+13858,5861,Jared Dopp,224,Roberto Abreu,L,0,Referee Decision,ADCC,O99KG,3RD,2017
+14722,5861,Jared Dopp,2403,Joao Rocha,L,0,Points,NoGi Worlds,O97KG,SF,2017
+14741,5861,Jared Dopp,3200,Jackson Sousa,L,0,"Pts: 0x0, Adv",NoGi Worlds,ABS,4F,2017
+15444,5861,Jared Dopp,5842,Mahamed Aly,L,0,Pts: 16x0,Pan American,100KG,SF,2018
+15601,5861,Jared Dopp,8195,Gutemberg Pereira,L,0,"Pts: 4x4, Adv",Chicago Sp. Open,100KG,F,2018
+15609,5861,Jared Dopp,7399,Horlando Monteiro,L,0,Armbar,Chicago Sp. Open,ABS,SF,2018
+15955,5861,Jared Dopp,8729,Matt Leighton,L,0,Referee Decision,Sub Spectrum,ABS,SPF,2018
+16589,5861,Jared Dopp,5842,Mahamed Aly,L,0,Pts: 6x2,World Champ.,100KG,8F,2018
+16618,5861,Jared Dopp,1534,R. Evangelista,L,0,Pts: 5x0,World Champ.,ABS,RD,2018
+16652,5861,Jared Dopp,,B. Lima,L,0,Pts: 2x0,Copa Podio,O94KG,RR,2018
+18692,5861,Jared Dopp,1740,Yuri Simoes,L,0,Pts: 19x0,NoGi Worlds,O97KG,4F,2018
+18706,5861,Jared Dopp,6836,John Combs,L,0,Arm in guillotine,NoGi Worlds,ABS,R1,2018
+21817,5861,Jared Dopp,10159,Victor Hugo,L,0,Pts: 4x0,ADCC,O99KG,R1,2019
+21907,5861,Jared Dopp,4310,Tim Spriggs,L,0,Guillotine,ADCC,ABS,R1,2019
+23566,5861,Jared Dopp,,John Hansen,L,0,N/A,Kansas Open,O100KG,SF,2020
+24422,5861,Jared Dopp,,J. Couch,L,0,Inside heel hook,Sub Spectrum,ABS,4F,2020
+31341,5861,Jared Dopp,,Cole Brandt,L,0,Referee Decision,ADCC WC Trials,99KG,8F,2022
+36558,5861,Jared Dopp,4542,Felipe Cesar,L,0,Points,NHaven FNGO,ABS,SF,2022
+42116,5861,Jared Dopp,,Paulo Simeao,L,0,N/A,NHaven Open,O100KG,F,2023
+42119,5861,Jared Dopp,11766,Gabriel Costa,L,0,Pts: 8x4,NHaven Open,ABS,4F,2023
+5038,5861,Jared Dopp,,Amir Allam,W,1,Points,ADCC,O99KG,R1,2013
+5045,5861,Jared Dopp,733,Vinny Magalhaes,W,1,Pen,ADCC,O99KG,4F,2013
+5056,5861,Jared Dopp,1272,Leo Nogueira,W,1,Pts: 2x0,ADCC,ABS,R1,2013
+7897,5861,Jared Dopp,8560,Gabriel Lucas,W,1,Pts: 2x0,ADCC,O99KG,R1,2015
+7904,5861,Jared Dopp,543,Rodrigo Cavaca,W,1,Pts: 2x0,ADCC,O99KG,4F,2015
+7906,5861,Jared Dopp,2403,Joao Rocha,W,1,Pen,ADCC,O99KG,SF,2015
+9079,5861,Jared Dopp,6359,Pedro Araujo,W,1,Choke from back,Houston Open,ABS,4F,2016
+10938,5861,Jared Dopp,,Renato Moraes,W,1,Pts: 4x0,NoGi Worlds,97KG,4F,2016
+10940,5861,Jared Dopp,7111,Muslim Patsarigov,W,1,"Pts: 0x0, Adv",NoGi Worlds,97KG,SF,2016
+10962,5861,Jared Dopp,446,Gilbert Burns,W,1,Pts: 4x0,NoGi Worlds,ABS,4F,2016
+11296,5861,Jared Dopp,733,Vinny Magalhaes,W,1,Pts: 12x9,Grappling Pro 2,120KG,4F,2016
+12262,5861,Jared Dopp,7519,Eliot Kelly,W,1,Referee Decision,F2W 28,100KG,SPF,2017
+12850,5861,Jared Dopp,,Jimmy Lugo,W,1,Pts: 10x0,Dallas Open,100KG,F,2017
+13847,5861,Jared Dopp,,Abdulaev Ruslan,W,1,Mounted triangle,ADCC,O99KG,E1,2017
+13852,5861,Jared Dopp,733,Vinny Magalhaes,W,1,Referee Decision,ADCC,O99KG,4F,2017
+14720,5861,Jared Dopp,,Joseph Moku,W,1,Pts: 3x0,NoGi Worlds,O97KG,4F,2017
+14730,5861,Jared Dopp,8394,Vagner Rocha,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,R1,2017
+15607,5861,Jared Dopp,8116,Dante Leon,W,1,Pts: 6x4,Chicago Sp. Open,ABS,4F,2018
+16656,5861,Jared Dopp,9067,Leonardo Lara,W,1,Choke from back,Copa Podio,O94KG,RR,2018
+16661,5861,Jared Dopp,,Horacio Antunes,W,1,Pts: 6x0,Copa Podio,O94KG,RR,2018
+17876,5861,Jared Dopp,,Michael Zanini,W,1,Points,Twin Cities Open,ABS,4F,2018
+17877,5861,Jared Dopp,,Perez Figueiroa,W,1,Points,Twin Cities Open,ABS,SF,2018
+17878,5861,Jared Dopp,,Piter Frank,W,1,"Pts: 0x0, Adv",Twin Cities Open,ABS,F,2018
+18687,5861,Jared Dopp,,Wilson Almeida,W,1,Pts: 12x0,NoGi Worlds,O97KG,R1,2018
+24421,5861,Jared Dopp,,Jacob Johnson,W,1,Pts: 2x0,Sub Spectrum,ABS,R1,2020
+31326,5861,Jared Dopp,,Oscar Feliz,W,1,Pts: 3x0,ADCC WC Trials,99KG,R1,2022
+31328,5861,Jared Dopp,,Antonio Zuazo,W,1,Referee Decision,ADCC WC Trials,99KG,R1,2022
+36556,5861,Jared Dopp,,Huthayfah Penney,W,1,Points,NHaven FNGO,ABS,4F,2022
+42117,5861,Jared Dopp,,Joseph Brewer,W,1,N/A,NHaven Open,ABS,R1,2023

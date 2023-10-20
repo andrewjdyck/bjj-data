@@ -1,0 +1,94 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+13470,8069,Pablo Mantovani,,Fernando Pena,L,0,Points,ACBJJ World,65KG,F,2017
+13921,8069,Pablo Mantovani,4328,AJ Agazarm,L,0,Referee Decision,ADCC,66KG,SF,2017
+13922,8069,Pablo Mantovani,2999,Paulo Miyao,L,0,Pts: 10x0,ADCC,66KG,3RD,2017
+14611,8069,Pablo Mantovani,2999,Paulo Miyao,L,0,Pts: 2x0,ACB JJ Worlds,65KG,F,2017
+14663,8069,Pablo Mantovani,5414,Osvaldo Moizinho,L,0,Pts: 4x2,NoGi Worlds,67KG,F,2017
+14896,8069,Pablo Mantovani,6151,Hiago George,L,0,Referee Decision,European Open,64KG,SF,2018
+15204,8069,Pablo Mantovani,2999,Paulo Miyao,L,0,"Pts: 4x4, Adv",Continental Pro,69KG,F,2018
+15373,8069,Pablo Mantovani,2997,Joao Miyao,L,0,Pts: 6x4,Pan American,64KG,F,2018
+16451,8069,Pablo Mantovani,5789,Tiago Barros,L,0,Pts: 2x0,World Champ.,64KG,R2,2018
+16816,8069,Pablo Mantovani,9031,Kennedy Maciel,L,0,Pts: 2x0,ACBJJ World,65KG,4F,2018
+17413,8069,Pablo Mantovani,9488,Ian Sanders,L,0,"Pts: 2x2, Adv",No Gi Pan Am.,67KG,F,2018
+18599,8069,Pablo Mantovani,9031,Kennedy Maciel,L,0,Pts: 5x0,NoGi Worlds,67KG,SF,2018
+20033,8069,Pablo Mantovani,2997,Joao Miyao,L,0,Pts: 4x2,WP BR Qualifier,62KG,F,2019
+20445,8069,Pablo Mantovani,9094,Richar Nogueira,L,0,Pts: 4x2,San Diego Open,70KG,SF,2019
+20583,8069,Pablo Mantovani,2999,Paulo Miyao,L,0,Pts: 7x2,World Champ.,64KG,4F,2019
+21872,8069,Pablo Mantovani,12003,Tye Ruotolo,L,0,Referee Decision,ADCC,66KG,4F,2019
+22467,8069,Pablo Mantovani,6103,Isaac Doederlein,L,0,Pts: 4x2,SJJIF Worlds,70KG,SF,2019
+22487,8069,Pablo Mantovani,6103,Isaac Doederlein,L,0,Pts: 8x2,SJJIF Worlds,77KG,SF,2019
+25496,8069,Pablo Mantovani,6151,Hiago George,L,0,Pts: 1x0,Grand Slam AD,62KG,4F,2021
+25502,8069,Pablo Mantovani,6043,Lucas Pinheiro,L,0,Pts: 4x2,Grand Slam AD,62KG,3RD,2021
+30897,8069,Pablo Mantovani,,Raphael Veiga,L,0,Pts: 3x2,Dubai Pro,69KG,SF,2022
+31101,8069,Pablo Mantovani,8632,Thiago Macedo,L,0,Pts: 1x0,Grand Slam LDN,69KG,SF,2022
+32014,8069,Pablo Mantovani,12751,Sam McNally,L,0,Referee Decision,Dublin Open,70KG,F,2022
+37163,8069,Pablo Mantovani,13062,Leonardo Mario,L,0,Referee Decision,European Open,64KG,4F,2023
+39921,8069,Pablo Mantovani,,Jun Yong Cho,L,0,N/A,Paris Open,70KG,SF,2023
+42875,8069,Pablo Mantovani,6368,Kevin Mahecha,L,0,Pts: 6x3,ADGS Miami,69KG,4F,2023
+42883,8069,Pablo Mantovani,,Artur Oliveira,L,0,Pts: 1x0,ADGS Miami,69KG,3RD,2023
+13914,8069,Pablo Mantovani,,E. Elgland,W,1,Pts: 2x0,ADCC,66KG,E1,2017
+13918,8069,Pablo Mantovani,188,Augusto Mendes,W,1,Referee Decision,ADCC,66KG,4F,2017
+14077,8069,Pablo Mantovani,,Marko Jokmanovic,W,1,Choke from back,Swedish Nats,70KG,F,2017
+14093,8069,Pablo Mantovani,,Chango Eersel,W,1,Kneebar,German NNG,79KG,SF,2017
+14094,8069,Pablo Mantovani,,Benedikt Schotthöfer,W,1,Points,German NNG,79KG,F,2017
+14099,8069,Pablo Mantovani,,German Leder,W,1,RNC,German NNG,ABS,R1,2017
+14100,8069,Pablo Mantovani,,Unknown,W,1,RNC,German NNG,ABS,4F,2017
+14422,8069,Pablo Mantovani,,K. Nikolopoulos,W,1,Pts: 26x0,Madrid Open,70KG,F,2017
+14610,8069,Pablo Mantovani,8525,Alexandre Vieira,W,1,Pts: 15x0,ACB JJ Worlds,65KG,SF,2017
+14655,8069,Pablo Mantovani,,C. Khan,W,1,RNC,NoGi Worlds,67KG,R1,2017
+14658,8069,Pablo Mantovani,,I. Phyllip,W,1,Pts: 2x0,NoGi Worlds,67KG,4F,2017
+14661,8069,Pablo Mantovani,4248,Gianni Grippo,W,1,Pts: 2x0,NoGi Worlds,67KG,SF,2017
+14894,8069,Pablo Mantovani,,Mani Tavanaei,W,1,"Pts: 0x0, Adv",European Open,64KG,4F,2018
+15203,8069,Pablo Mantovani,,Thiago Brito,W,1,Pts: 4x2,Continental Pro,69KG,SF,2018
+15251,8069,Pablo Mantovani,,Ram Ananda,W,1,Referee Decision,Mexico Winter Open,70KG,SF,2018
+15252,8069,Pablo Mantovani,,Juan Calderon,W,1,Choke from back,Mexico Winter Open,70KG,F,2018
+15369,8069,Pablo Mantovani,,E. Vezeguiellian,W,1,Choke from back,Pan American,64KG,4F,2018
+15372,8069,Pablo Mantovani,,Rene Lopez,W,1,Pts: 2x0,Pan American,64KG,SF,2018
+16324,8069,Pablo Mantovani,,Bruno Valdivino,W,1,Choke from back,San Diego Open,70KG,4F,2018
+16326,8069,Pablo Mantovani,9385,Brandon Walensky,W,1,Pts: 10x0,San Diego Open,70KG,SF,2018
+16341,8069,Pablo Mantovani,7698,Gabriel Marangoni,W,1,Points,ACBJJ 13,65KG,SPF,2018
+16353,8069,Pablo Mantovani,,Andre Pontes,W,1,Pts: 2x0,ACB North America,65KG,SF,2018
+16354,8069,Pablo Mantovani,,Vitor Moraes,W,1,Pts: 4x0,ACB North America,65KG,F,2018
+16446,8069,Pablo Mantovani,,Tadashi Takashima,W,1,Wristlock,World Champ.,64KG,R1,2018
+16682,8069,Pablo Mantovani,,Kaio Fonseca,W,1,RNC,American Nat. NG,67KG,SF,2018
+16683,8069,Pablo Mantovani,,EduardoYezeguie,W,1,RNC,American Nat. NG,67KG,F,2018
+17412,8069,Pablo Mantovani,8814,Adam Benayoun,W,1,Kneebar,No Gi Pan Am.,67KG,SF,2018
+18594,8069,Pablo Mantovani,9150,Cole Franson,W,1,Pts: 6x2,NoGi Worlds,67KG,R2,2018
+18598,8069,Pablo Mantovani,1436,Samir Chantre,W,1,Pts: 2x0,NoGi Worlds,67KG,4F,2018
+20032,8069,Pablo Mantovani,,Luiz Eduardo,W,1,Pts: 6x0,WP BR Qualifier,62KG,SF,2019
+20386,8069,Pablo Mantovani,,Brandon Walker,W,1,Points,Dallas SPO,70KG,SF,2019
+20469,8069,Pablo Mantovani,,Geoff Villareal,W,1,Pts: 10x0,San Diego NGO,67KG,SF,2019
+20470,8069,Pablo Mantovani,,Kaio Abrantes,W,1,DQ,San Diego NGO,67KG,F,2019
+20580,8069,Pablo Mantovani,,Takuto Kako,W,1,Choke from back,World Champ.,64KG,R2,2019
+20964,8069,Pablo Mantovani,,Andre Pontes,W,1,Kneebar,F2W 117,65KG,SPF,2019
+21268,8069,Pablo Mantovani,,Richard Turner,W,1,Omoplata,Seattle Open,ABS,4F,2019
+21867,8069,Pablo Mantovani,8866,Thomas Halpin,W,1,Pts: 13x0,ADCC,66KG,R1,2019
+22469,8069,Pablo Mantovani,,Richard Alvarez,W,1,Omoplata,SJJIF Worlds,70KG,3RD,2019
+22490,8069,Pablo Mantovani,,Jesse Morales,W,1,Pts: 10x0,SJJIF World NG,73KG,SF,2019
+22491,8069,Pablo Mantovani,,Corey Brown,W,1,Pts: 11x0,SJJIF World NG,73KG,F,2019
+22493,8069,Pablo Mantovani,,Geoffrey Villarreal,W,1,Pts: 27x0,SJJIF World NG,ABS,SF,2019
+22494,8069,Pablo Mantovani,9150,Cole Franson,W,1,Pts: 2x0,SJJIF World NG,ABS,F,2019
+25275,8069,Pablo Mantovani,,Mauricio Ospina,W,1,Pts: 8x1,Abu Dhabi Pro,69KG,SF,2021
+25276,8069,Pablo Mantovani,,Daniel Vieira,W,1,Pts: 2x1,Abu Dhabi Pro,69KG,F,2021
+25501,8069,Pablo Mantovani,,Wesley Santos,W,1,Pts: 5x2,Grand Slam AD,62KG,RPC,2021
+26332,8069,Pablo Mantovani,,Mauricio Ospina,W,1,Pts: 7x0,UAE Nat Pro,69KG,RR,2021
+26333,8069,Pablo Mantovani,,Mauricio Ospina,W,1,Submission,UAE Nat Pro,69KG,F,2021
+27479,8069,Pablo Mantovani,,Aristides Ktorides,W,1,Choke,Lviv Pro,120KG,SF,2021
+27708,8069,Pablo Mantovani,,Abu Khadaev,W,1,Pts: 5x0,Grand Slam MSK,69KG,4F,2021
+27710,8069,Pablo Mantovani,11534,Raul Basilio,W,1,Pts: 4x4,Grand Slam MSK,69KG,SF,2021
+27712,8069,Pablo Mantovani,8231,Leo Saggioro,W,1,Pts: 5x3,Grand Slam MSK,69KG,F,2021
+27997,8069,Pablo Mantovani,,Cameron Daniels,W,1,Pts: 3x0,EU Cont. Pro,69KG,4F,2021
+27999,8069,Pablo Mantovani,,Mo Hayat,W,1,North south choke,EU Cont. Pro,69KG,SF,2021
+28001,8069,Pablo Mantovani,,Viki Dabush,W,1,Choke from back,EU Cont. Pro,69KG,F,2021
+30487,8069,Pablo Mantovani,,Raphael Veiga,W,1,Pts: 11x2,Abu Dhabi Pro,69KG,SF,2022
+30488,8069,Pablo Mantovani,,Wallace Ourique,W,1,Pts: 2x0,Abu Dhabi Pro,69KG,F,2022
+30898,8069,Pablo Mantovani,,Y. Souza,W,1,Pts: 1x0,Dubai Pro,69KG,3RD,2022
+31098,8069,Pablo Mantovani,7672,Caio Almeida,W,1,Choke from back,Grand Slam LDN,69KG,4F,2022
+32013,8069,Pablo Mantovani,,David Mosleh,W,1,Referee Decision,Dublin Open,70KG,SF,2022
+36008,8069,Pablo Mantovani,,Jefferson Gomes,W,1,Points,Rome Open,70KG,SF,2022
+36009,8069,Pablo Mantovani,,Lukas Ferreira,W,1,Ezekiel choke,Rome Open,70KG,F,2022
+36521,8069,Pablo Mantovani,,Haidar Abbas,W,1,Pts: 10x5,Brussels Pro,77KG,F,2022
+37160,8069,Pablo Mantovani,,Rene Lopez,W,1,Pts: 2x0,European Open,64KG,R1,2023
+39919,8069,Pablo Mantovani,,Mehdi Allaoui,W,1,N/A,Paris Open,70KG,4F,2023
+42864,8069,Pablo Mantovani,,Joao Oliveira,W,1,Referee Decision,ADGS Miami,69KG,R1,2023
+42867,8069,Pablo Mantovani,,Matheus Onda,W,1,Referee Decision,ADGS Miami,69KG,8F,2023

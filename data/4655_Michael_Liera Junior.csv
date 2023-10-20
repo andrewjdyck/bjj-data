@@ -1,0 +1,151 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6265,4655,Michael Liera Junior,6368,Kevin Mahecha,L,0,Pts: 6x0,FIVE NAIC,82KG,F,2014
+6266,4655,Michael Liera Junior,6419,Marcel Goncalves,L,0,Referee Decision,FIVE NAIC,ABS,NA,2014
+7447,4655,Michael Liera Junior,5061,Gabriel Rollo,L,0,"Pts: 2x2, Adv",World Champ.,76KG,4F,2015
+8116,4655,Michael Liera Junior,5747,AJ Sousa,L,0,"Pts: 2x2, Adv",Dallas Open,82KG,SF,2015
+8135,4655,Michael Liera Junior,9706,Marcelo Mafra,L,0,"Pts: 2x2, Adv",Dallas NoGi Open,79KG,F,2015
+8603,4655,Michael Liera Junior,576,Rafael Lovato,L,0,"Pts: 0x0, Adv",Houston Nat. Pro,94KG,F,2015
+8606,4655,Michael Liera Junior,576,Rafael Lovato,L,0,Pts: 7x0,Houston Nat. Pro,ABS,F,2015
+9272,4655,Michael Liera Junior,5238,Edwin Najmi,L,0,"Pts: 4x4, Adv",Pan American,76KG,4F,2016
+9985,4655,Michael Liera Junior,5238,Edwin Najmi,L,0,"Pts: 0x0, Adv",World Champ.,76KG,4F,2016
+11274,4655,Michael Liera Junior,12617,Sean Roberts,L,0,Referee Decision,5 Super League,77KG,4F,2016
+12033,4655,Michael Liera Junior,,Peter Frank,L,0,Referee Decision,FIVE SL,82KG,SPF,2017
+12176,4655,Michael Liera Junior,358,Lucas Lepri,L,0,Pts: 18x0,Pan American,76KG,SF,2017
+12831,4655,Michael Liera Junior,7664,Johnny Tama,L,0,Estima lock,Marianas,82KG,4F,2017
+13107,4655,Michael Liera Junior,1014,Jake Mackenzie,L,0,Points,World Champ.,76KG,R1,2017
+13776,4655,Michael Liera Junior,4460,Jaime Canuto,L,0,Pts: 4x2,San Diego Pro,82KG,SF,2017
+14693,4655,Michael Liera Junior,4542,Felipe Cesar,L,0,"Pts: 2x2, Adv",NoGi Worlds,79KG,SF,2017
+14934,4655,Michael Liera Junior,8081,Nathan Mendelsohn,L,0,"Pts: 2x2, Adv",European Open,82KG,4F,2018
+16012,4655,Michael Liera Junior,8528,Servio Tulio,L,0,Pts: 4x2,Marianas Open,81KG,4F,2018
+16488,4655,Michael Liera Junior,8215,Espen Mathiesen,L,0,Referee Decision,World Champ.,76KG,R2,2018
+17112,4655,Michael Liera Junior,,Wellington Modena,L,0,Points,Seattle Open,ABS,SF,2018
+17833,4655,Michael Liera Junior,2107,Otavio Sousa,L,0,"Pts: 0x0, Adv",LA BJJ Pro,82KG,F,2018
+18465,4655,Michael Liera Junior,4163,Marcio Andre,L,0,Points,Denver Open,ABS,F,2018
+18640,4655,Michael Liera Junior,5636,Manuel Ribamar,L,0,Short choke,NoGi Worlds,79KG,4F,2018
+18914,4655,Michael Liera Junior,8105,Tommy Langaker,L,0,Armlock,European Open,82KG,SF,2019
+19630,4655,Michael Liera Junior,7552,Isaque Bahiense,L,0,Pts: 6x4,Pan American,82KG,SF,2019
+20653,4655,Michael Liera Junior,4789,Marcos Tinoco,L,0,Pts: 5x0,World Champ.,82KG,4F,2019
+23950,4655,Michael Liera Junior,5238,Edwin Najmi,L,0,Referee Decision,F2W 152,77KG,SPF,2020
+24167,4655,Michael Liera Junior,10085,Johnatha Alves,L,0,Pts: 4x2,Pan American,76KG,F,2020
+25200,4655,Michael Liera Junior,11697,Tainan Dalpra,L,0,Pts: 5x2,Dallas Open,82KG,SF,2021
+25212,4655,Michael Liera Junior,10085,Johnatha Alves,L,0,Pts: 8x6,Dallas Open,ABS,SF,2021
+25414,4655,Michael Liera Junior,10085,Johnatha Alves,L,0,Pts: 4x2,Orlando Open,76KG,F,2021
+25442,4655,Michael Liera Junior,7539,Renato Canuto,L,0,Pts: 4x0,Orlando Open,ABS,F,2021
+25458,4655,Michael Liera Junior,,JZ Cavalcante,L,0,"Pts: 0x0, Adv",Orlando NGO,79KG,SF,2021
+26595,4655,Michael Liera Junior,10085,Johnatha Alves,L,0,Pts: 2x2,EUG 2,77KG,4F,2021
+29505,4655,Michael Liera Junior,9002,Matheus Gabriel,L,0,Pts: 4x2,World Champ.,76KG,4F,2021
+33403,4655,Michael Liera Junior,11015,Pablo Lavaselli,L,0,Pts: 4x2,American Nat.,76KG,F,2022
+39801,4655,Michael Liera Junior,12652,Marcelo Fausto,L,0,Estima lock,Denver Open,82KG,F,2023
+41935,4655,Michael Liera Junior,12897,Elijah Dorsey,L,0,Pts: 7x0,ADCC Arizona,76KG,SF,2023
+42430,4655,Michael Liera Junior,12897,Elijah Dorsey,L,0,Referee Decision,ADCC Chicago,76KG,SF,2023
+42435,4655,Michael Liera Junior,7686,Sergio Ardila,L,0,Pts: 1x0,ADCC Chicago,76KG,3RD,2023
+6227,4655,Michael Liera Junior,7376,Ilke Bulut,W,1,Points,Rickson Cup,76KG,F,2014
+6228,4655,Michael Liera Junior,,Kleber Koike,W,1,Points,Rickson Cup,ABS,R1,2014
+6229,4655,Michael Liera Junior,,Unknown,W,1,Bow and arrow,Rickson Cup,ABS,4F,2014
+7331,4655,Michael Liera Junior,,M. Neidlinger,D,0.5,---,Metamoris 6,ABS,SPF,2015
+7440,4655,Michael Liera Junior,,Rafael Rosendo,W,1,Pts: 2x0,World Champ.,76KG,8F,2015
+7561,4655,Michael Liera Junior,4789,Marcos Tinoco,D,0.5,---,Sub Series Pro,ABS,SPF,2015
+8016,4655,Michael Liera Junior,6351,Alec Baulding,W,1,Pts: 10x4,Atlanta W. Open,82KG,SF,2015
+8017,4655,Michael Liera Junior,,Pedro Palhares,W,1,Pts: 17x2,Atlanta W. Open,82KG,F,2015
+8025,4655,Michael Liera Junior,,Seth Snow,W,1,RNC,Atlanta No Gi,82KG,SF,2015
+8026,4655,Michael Liera Junior,,Frederico Moncaio,W,1,RNC,Atlanta No Gi,82KG,F,2015
+8115,4655,Michael Liera Junior,,Philip Miller,W,1,N/A,Dallas Open,82KG,4F,2015
+8134,4655,Michael Liera Junior,5747,AJ Sousa,W,1,Points,Dallas NoGi Open,79KG,SF,2015
+8343,4655,Michael Liera Junior,,Joshua Guzman,W,1,N/A,Seattle Open,82KG,SF,2015
+8346,4655,Michael Liera Junior,,Unknown,W,1,Kneebar,Seattle Open,ABS,4F,2015
+8348,4655,Michael Liera Junior,4851,Kim Terra,W,1,Points,Seattle Open,ABS,SF,2015
+8349,4655,Michael Liera Junior,,Fernando Moya,W,1,Choke from back,Seattle Open,ABS,F,2015
+8552,4655,Michael Liera Junior,,Don Stoner,W,1,Bow and arrow,SubCon,ABS,SPF,2015
+8602,4655,Michael Liera Junior,,Tyler Bishop,W,1,Choke from back,Houston Nat. Pro,94KG,SF,2015
+8604,4655,Michael Liera Junior,7079,Carlos Farias,W,1,"Pts: 0x0, Adv",Houston Nat. Pro,ABS,RR,2015
+8930,4655,Michael Liera Junior,9261,Ross Nicholls,W,1,Kneebar,European Open,76KG,R1,2016
+8935,4655,Michael Liera Junior,3110,Victor Genovesi,W,1,Triangle,European Open,76KG,4F,2016
+8938,4655,Michael Liera Junior,,Sam Gibson,W,1,Choke from back,European Open,76KG,SF,2016
+9264,4655,Michael Liera Junior,,Jeffrey Cummings,W,1,Pts: 5x0,Pan American,76KG,8F,2016
+9967,4655,Michael Liera Junior,7376,Ilke Bulut,W,1,Wristlock,World Champ.,76KG,R1,2016
+9978,4655,Michael Liera Junior,3313,Juan Kamezawa,W,1,Adv,World Champ.,76KG,R2,2016
+11403,4655,Michael Liera Junior,9377,Alexis Alduncin,W,1,Cross Choke,FIVE California,ABS,SF,2017
+12155,4655,Michael Liera Junior,,Marcus Wilson,W,1,Kimura,Pan American,76KG,R2,2017
+12170,4655,Michael Liera Junior,7664,Johnny Tama,W,1,"Pts: 4x4, Adv",Pan American,76KG,8F,2017
+12174,4655,Michael Liera Junior,6563,Francisco Iturralde,W,1,Triangle,Pan American,76KG,4F,2017
+13590,4655,Michael Liera Junior,8477,Igor Paiva,W,1,Pts: 2x0,Seattle Open,82KG,F,2017
+13770,4655,Michael Liera Junior,11257,Gabriel Procopio,W,1,Pts: 7x2,San Diego Pro,82KG,R1,2017
+13773,4655,Michael Liera Junior,5636,Manuel Ribamar,W,1,Pts: 5x0,San Diego Pro,82KG,4F,2017
+14684,4655,Michael Liera Junior,5636,Manuel Ribamar,W,1,"Pts: 0x0, Adv",NoGi Worlds,79KG,R2,2017
+14689,4655,Michael Liera Junior,6354,Jonathan Satava,W,1,Pts: 4x0,NoGi Worlds,79KG,4F,2017
+14929,4655,Michael Liera Junior,9637,Sergio Rios,W,1,Pts: 4x0,European Open,82KG,R1,2018
+15288,4655,Michael Liera Junior,,Nick Greene,W,1,Pts: 14x0,San Francisco Open,82KG,4F,2018
+15292,4655,Michael Liera Junior,1395,Luis Lima,W,1,Choke from back,San Francisco Open,82KG,SF,2018
+15293,4655,Michael Liera Junior,7143,Breno Bittencourt,W,1,Pts: 6x4,San Francisco Open,82KG,F,2018
+15398,4655,Michael Liera Junior,11465,Kauan Barboza,W,1,Pts: 4x2,Pan American,76KG,8F,2018
+15403,4655,Michael Liera Junior,6563,Francisco Iturralde,W,1,Choke from back,Pan American,76KG,4F,2018
+15405,4655,Michael Liera Junior,2035,Vitor Oliveira,W,1,Referee Decision,Pan American,76KG,SF,2018
+15659,4655,Michael Liera Junior,,Vibhudatta Rout,W,1,RNC,European NoGi,73KG,RR,2018
+15661,4655,Michael Liera Junior,,Tommi Pulkkanen,W,1,"Pts: 0x0, Adv",European NoGi,73KG,F,2018
+15675,4655,Michael Liera Junior,,Unknown,W,1,RNC,European NoGi,ABS,4F,2018
+15677,4655,Michael Liera Junior,4145,Thiago Sa,W,1,"Pts: 0x0, Adv",European NoGi,ABS,SF,2018
+15682,4655,Michael Liera Junior,,Unknown,W,1,Choke from back,Rome Open,76KG,4F,2018
+15683,4655,Michael Liera Junior,,Gerson Carvalho,W,1,Choke from back,Rome Open,76KG,SF,2018
+15685,4655,Michael Liera Junior,3206,Rodrigo Conceicao,W,1,Pts: 10x8,Rome Open,76KG,F,2018
+15698,4655,Michael Liera Junior,,Joachim Sveinson,W,1,Choke from back,Rome Open,ABS,SF,2018
+17107,4655,Michael Liera Junior,,Nicholas Green,W,1,Choke from back,Seattle Open,88KG,F,2018
+17830,4655,Michael Liera Junior,11465,Kauan Barboza,W,1,Choke from back,LA BJJ Pro,82KG,4F,2018
+17831,4655,Michael Liera Junior,4163,Marcio Andre,W,1,Pts: 2x0,LA BJJ Pro,82KG,SF,2018
+18389,4655,Michael Liera Junior,4542,Felipe Cesar,W,1,Submission,NY Fall Open,82KG,SF,2018
+18394,4655,Michael Liera Junior,,Athos Miranda,W,1,N/A,NY Fall Open,ABS,SF,2018
+18396,4655,Michael Liera Junior,4542,Felipe Cesar,W,1,N/A,NY Fall Open,ABS,F,2018
+18460,4655,Michael Liera Junior,,Jeffrey Ake,W,1,N/A,Denver Open,94KG,F,2018
+18463,4655,Michael Liera Junior,1827,James Puopolo,W,1,Triangle,Denver Open,ABS,SF,2018
+18618,4655,Michael Liera Junior,,Sotaro Yamada,W,1,RNC,NoGi Worlds,79KG,R1,2018
+18907,4655,Michael Liera Junior,9312,Alexandre Cavaliere,W,1,Triangle,European Open,82KG,R1,2019
+18912,4655,Michael Liera Junior,8308,Max Lindblad,W,1,N/A,European Open,82KG,4F,2019
+19625,4655,Michael Liera Junior,4235,Victor Silverio,W,1,Pts: 2x0,Pan American,82KG,8F,2019
+19627,4655,Michael Liera Junior,9845,Chad Hardy,W,1,Choke from back,Pan American,82KG,4F,2019
+20192,4655,Michael Liera Junior,4460,Jaime Canuto,W,1,Referee Decision,F2W 110,85KG,SPF,2019
+20451,4655,Michael Liera Junior,7332,Hunter Ewald,W,1,Choke,San Diego Open,82KG,SF,2019
+20453,4655,Michael Liera Junior,,Daniel Speirn,W,1,Armbar,San Diego Open,82KG,F,2019
+20503,4655,Michael Liera Junior,,Nicholas Norman,W,1,N/A,Denver Open,82KG,SF,2019
+20504,4655,Michael Liera Junior,6836,John Combs,W,1,Pts: 9x2,Denver Open,82KG,F,2019
+20509,4655,Michael Liera Junior,,Nicholas Norman,W,1,N/A,Denver Open,ABS,4F,2019
+20511,4655,Michael Liera Junior,,Tyrone Goncalves,W,1,Points,Denver Open,ABS,SF,2019
+20639,4655,Michael Liera Junior,8477,Igor Paiva,W,1,Pts: 2x0,World Champ.,82KG,R1,2019
+20644,4655,Michael Liera Junior,8105,Tommy Langaker,W,1,Pts: 4x2,World Champ.,82KG,R2,2019
+20852,4655,Michael Liera Junior,8138,Hugo Marques,W,1,Referee Decision,F2W 115,83KG,SPF,2019
+20943,4655,Michael Liera Junior,,Nathan Barreto,W,1,Armbar,American Nats,88KG,4F,2019
+20946,4655,Michael Liera Junior,,Mateo Tanzana,W,1,Choke from back,American Nats,88KG,SF,2019
+22236,4655,Michael Liera Junior,,Phil Lietz,W,1,Bow and arrow,F2W 130,82KG,SPF,2019
+22693,4655,Michael Liera Junior,10240,Jake Watson,W,1,Bow and arrow,F2W 132,84KG,SPF,2019
+23422,4655,Michael Liera Junior,,Piter Frank,W,1,RNC,F2W 136,83KG,SPF,2020
+23706,4655,Michael Liera Junior,4163,Marcio Andre,W,1,Referee Decision,F2W 137,77KG,SPF,2020
+24021,4655,Michael Liera Junior,10509,Mathias Luna,W,1,Pts: 9x1,Grand Slam MIA,77KG,R1,2020
+24022,4655,Michael Liera Junior,4163,Marcio Andre,W,1,Referee Decision,Grand Slam MIA,77KG,4F,2020
+24026,4655,Michael Liera Junior,7664,Johnny Tama,W,1,Pts: 1x0,Grand Slam MIA,77KG,SF,2020
+24028,4655,Michael Liera Junior,10085,Johnatha Alves,W,1,Pts: 1x0,Grand Slam MIA,77KG,F,2020
+24157,4655,Michael Liera Junior,,Ricky Semiglia,W,1,Choke from back,Pan American,76KG,8F,2020
+24162,4655,Michael Liera Junior,,Marcio André,W,1,"Pts: 6x6, Adv",Pan American,76KG,4F,2020
+24165,4655,Michael Liera Junior,7539,Renato Canuto,W,1,Pts: 2x0,Pan American,76KG,SF,2020
+25210,4655,Michael Liera Junior,,Orlando Castillo,W,1,Mounted X choke,Dallas Open,ABS,4F,2021
+25411,4655,Michael Liera Junior,,Giovanni Marcelo,W,1,Toe hold,Orlando Open,76KG,4F,2021
+25413,4655,Michael Liera Junior,,Dylan Whyte,W,1,Triangle,Orlando Open,76KG,SF,2021
+25431,4655,Michael Liera Junior,11797,Giancarlo Bodoni,W,1,Pts: 2x0,Orlando Open,ABS,R1,2021
+25438,4655,Michael Liera Junior,,Thiago Cintra,W,1,Choke from back,Orlando Open,ABS,4F,2021
+25440,4655,Michael Liera Junior,10658,Matheus Luna,W,1,Pts: 4x2,Orlando Open,ABS,SF,2021
+27694,4655,Michael Liera Junior,11208,Jackson Nagai,W,1,Referee Decision,F2W 183,77KG,SPF,2021
+29498,4655,Michael Liera Junior,7664,Johnny Tama,W,1,Choke from back,World Champ.,76KG,8F,2021
+33399,4655,Michael Liera Junior,10408,Israel Sousa,W,1,Pts: 6x4,American Nat.,76KG,4F,2022
+33402,4655,Michael Liera Junior,5414,Osvaldo Moizinho,W,1,"Pts: 4x4, Adv",American Nat.,76KG,SF,2022
+34522,4655,Michael Liera Junior,,Colon Santana,W,1,Pts: 8x2,Chicago SMO,76KG,4F,2022
+34524,4655,Michael Liera Junior,,Charles Murdock,W,1,Triangle,Chicago SMO,76KG,SF,2022
+34526,4655,Michael Liera Junior,,Sergio Soares,W,1,Choke from back,Chicago SMO,76KG,F,2022
+39798,4655,Michael Liera Junior,,Celso Ricardo,W,1,Pts: 4x2,Denver Open,82KG,4F,2023
+39800,4655,Michael Liera Junior,11208,Jackson Nagai,W,1,Pts: 4x2,Denver Open,82KG,SF,2023
+39954,4655,Michael Liera Junior,,Austin Jones,W,1,Armbar,ADCC Denver,76KG,R1,2023
+39956,4655,Michael Liera Junior,,Anthony Friese,W,1,Pts: 5x0,ADCC Denver,76KG,4F,2023
+39958,4655,Michael Liera Junior,,Derek Rayfield,W,1,Pts: 12x0,ADCC Denver,76KG,SF,2023
+39959,4655,Michael Liera Junior,,Tristan McDonald,W,1,RNC,ADCC Denver,76KG,F,2023
+41925,4655,Michael Liera Junior,,Chad Herrera,W,1,RNC,ADCC Arizona,76KG,R1,2023
+41929,4655,Michael Liera Junior,,Oscar Santos,W,1,RNC,ADCC Arizona,76KG,8F,2023
+41932,4655,Michael Liera Junior,,Steven Ramos,W,1,Submission,ADCC Arizona,76KG,4F,2023
+42424,4655,Michael Liera Junior,,Josh Murdock,W,1,RNC,ADCC Chicago,76KG,8F,2023
+42427,4655,Michael Liera Junior,,Sidney Tavolaro,W,1,RNC,ADCC Chicago,76KG,4F,2023
+42434,4655,Michael Liera Junior,,Benjamin Schultz,W,1,Pts: 7x0,ADCC Chicago,76KG,RPC,2023

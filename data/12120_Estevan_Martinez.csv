@@ -1,0 +1,91 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21648,12120,Estevan Martinez,,Kalel Santos,L,0,"Pts: 0x0, Adv",Grand Slam LA,56KG,F,2019
+23483,12120,Estevan Martinez,10928,Pedro Serrano,L,0,Points,San Jose Open,64KG,SF,2020
+24002,12120,Estevan Martinez,10293,Jonas Andrade,L,0,Pts: 1x0,Grand Slam MIA,56KG,RR,2020
+24003,12120,Estevan Martinez,10293,Jonas Andrade,L,0,Pts: 6x0,Grand Slam MIA,56KG,RR,2020
+24595,12120,Estevan Martinez,9250,Gabriel Almeida,L,0,Pts: 20x0,American Nats,ABS,8F,2020
+24634,12120,Estevan Martinez,11939,Jackson Douglas,L,0,Kimura,American NGN,ABS,R1,2020
+24974,12120,Estevan Martinez,7399,Horlando Monteiro,L,0,Triangle,Orlando Open,ABS,4F,2020
+25447,12120,Estevan Martinez,10380,Junny Ocasio,L,0,Referee Decision,Orlando NGO,61KG,F,2021
+25472,12120,Estevan Martinez,,Pedro Palhares,L,0,Pts: 4x2,Orlando NGO,ABS,4F,2021
+25752,12120,Estevan Martinez,,Rehan Muttalib,L,0,Pts: 4x2,Charleston Open,ABS,4F,2021
+25846,12120,Estevan Martinez,,Joshua Bacallao,L,0,Pts: 6x2,Houston NGO,ABS,4F,2021
+26241,12120,Estevan Martinez,5347,Yago Souza,L,0,Armbar,Memphis Open,ABS,SF,2021
+26547,12120,Estevan Martinez,11384,Andre Porfirio,L,0,Pts: 8x0,Atlanta Open,ABS,4F,2021
+26571,12120,Estevan Martinez,12356,Damion Oranday,L,0,Pts: 2x0,Atlanta NGO,ABS,4F,2021
+27023,12120,Estevan Martinez,11707,Oliver Taza,L,0,Pts: 22x5,Orlando NGO,ABS,SF,2021
+27035,12120,Estevan Martinez,12251,Roiter Lima,L,0,Pts: 2x0,Phoenix Open,56KG,F,2021
+27053,12120,Estevan Martinez,12267,Lucas Norat,L,0,Pts: 27x0,Phoenix Open,ABS,4F,2021
+27057,12120,Estevan Martinez,,Chris Fisher,L,0,Pts: 4x0,Phoenix NGO,61KG,F,2021
+27209,12120,Estevan Martinez,12491,Keith Krikorian,L,0,EBI/OT,Emerald City,65KG,4F,2021
+27526,12120,Estevan Martinez,12251,Roiter Lima,L,0,"Pts: 2x2, Adv",Pan American,58KG,4F,2021
+28140,12120,Estevan Martinez,,Bebeto Oliveira,L,0,Pts: 36x0,Charlotte Open,64KG,F,2021
+28155,12120,Estevan Martinez,6354,Jonathan Satava,L,0,Pts: 14x0,Charlotte Open,ABS,R1,2021
+28177,12120,Estevan Martinez,11354,Brian Giorgio,L,0,Pts: 4x0,NoGi Worlds,ABS,R1,2021
+28446,12120,Estevan Martinez,,Damion Anderson,L,0,N/A,WNO 10,70KG,SPF,2021
+28711,12120,Estevan Martinez,,Aaron Wilson,L,0,Points,3CG Underdogs,84KG,R1,2021
+28807,12120,Estevan Martinez,12950,Cole Abate,L,0,Pts: 3x0,ADCC EC Trials,66KG,4F,2021
+29426,12120,Estevan Martinez,,Josh Guerra,L,0,Botinha,World Champ.,ABS,R1,2021
+29447,12120,Estevan Martinez,10099,Thalison Soares,L,0,Arm in Ezekiel,World Champ.,57KG,R1,2021
+29820,12120,Estevan Martinez,5447,Mikey Musumeci,L,0,Referee Decision,WNO 11,61KG,SPF,2022
+30710,12120,Estevan Martinez,6043,Lucas Pinheiro,L,0,Referee Decision,F2W 195,N/A,SPF,2022
+31218,12120,Estevan Martinez,12680,Enderson Dias,L,0,Pts: 10x0,Charleston Open,ABS,R1,2022
+31269,12120,Estevan Martinez,8394,Vagner Rocha,L,0,RNC,Charleston NGO,ABS,F,2022
+31516,12120,Estevan Martinez,,Mauricio Gomez,L,0,Pts: 3x0,ADCC WC Trials,66KG,8F,2022
+31582,12120,Estevan Martinez,11685,Anderson Munis,L,0,Points,Pan American,ABS,R1,2022
+31605,12120,Estevan Martinez,10099,Thalison Soares,L,0,"Pts: 0x0, Adv",Pan American,57KG,SF,2022
+32566,12120,Estevan Martinez,,Gavin Corbe,L,0,Pts: 2x0,Toro Cup,N/A,SPF,2022
+32840,12120,Estevan Martinez,,Anthony Valdez,L,0,Buggy choke,Survivor 2,ABS,RR,2022
+33698,12120,Estevan Martinez,5636,Manuel Ribamar,L,0,RNC,Austin SMO,ABS,SF,2022
+34210,12120,Estevan Martinez,11823,Diogo Reis,L,0,Referee Decision,WNO 14,NA,SPF,2022
+34907,12120,Estevan Martinez,12615,Osamah Almarwai,L,0,Katagatame,ADCC Vegas,60KG,8F,2022
+36795,12120,Estevan Martinez,12251,Roiter Lima,L,0,"Pts: 6x6, Adv",NoGi Worlds,55KG,SF,2022
+38339,12120,Estevan Martinez,12940,Cory Walker,L,0,Pts: 4x2,Pan American,58KG,R1,2023
+42483,12120,Estevan Martinez,12848,Frank Cespedes,L,0,Referee Decision,EUG JJB,NA,SPF,2023
+43205,12120,Estevan Martinez,,Chris Tran,L,0,"Pts: 4x4, Adv",NoGi Pan,55KG,SF,2023
+23505,12120,Estevan Martinez,,Zachary leCates,W,1,RNC,San Jose NGO,73KG,F,2020
+24541,12120,Estevan Martinez,,Jorge Vasquez,W,1,Choke from back,American Nats,57KG,4F,2020
+24543,12120,Estevan Martinez,,Henrique Rossi,W,1,Choke from back,American Nats,57KG,F,2020
+24605,12120,Estevan Martinez,,David Zennario,W,1,Armbar,American NGN,54KG,SF,2020
+24606,12120,Estevan Martinez,,Lee Rosenfield,W,1,Armbar,American NGN,54KG,F,2020
+25446,12120,Estevan Martinez,,Rashawn Kershaw,W,1,Armbar,Orlando NGO,61KG,SF,2021
+25468,12120,Estevan Martinez,,Charles McGuire,W,1,Calf crusher,Orlando NGO,ABS,R1,2021
+26071,12120,Estevan Martinez,,Keneth Nakagawa,W,1,Reverse omoplata,NoGi Pan Am.,55KG,4F,2021
+26075,12120,Estevan Martinez,,Santos Rivera,W,1,Pts: 2x0,NoGi Pan Am.,55KG,SF,2021
+26077,12120,Estevan Martinez,12251,Roiter Lima,W,1,Inside heel hook,NoGi Pan Am.,55KG,F,2021
+26229,12120,Estevan Martinez,,Octavio Flores,W,1,Choke from back,Memphis Open,64KG,F,2021
+26240,12120,Estevan Martinez,,Octavio Flores,W,1,Armbar,Memphis Open,ABS,4F,2021
+26249,12120,Estevan Martinez,,Jurgens Jansen,W,1,RNC,Memphis NGO,ABS,SF,2021
+26554,12120,Estevan Martinez,,Lee Rosenfield,W,1,Armbar,Atlanta NGO,61KG,F,2021
+27020,12120,Estevan Martinez,,Ricky Semiglia,W,1,Pts: 9x4,Orlando NGO,ABS,4F,2021
+27203,12120,Estevan Martinez,,Cameron Melott,W,1,EBI/OT,Emerald City,65KG,R1,2021
+28139,12120,Estevan Martinez,,Gabriel Fernandes,W,1,Choke from back,Charlotte Open,64KG,SF,2021
+28166,12120,Estevan Martinez,,Marko Oikarainen,W,1,RNC,Charlotte NGO,61KG,F,2021
+28202,12120,Estevan Martinez,,Henrique Rossi,W,1,Armbar,NoGi Worlds,55KG,4F,2021
+28204,12120,Estevan Martinez,,Lee Rosenfield,W,1,Short choke,NoGi Worlds,55KG,SF,2021
+28206,12120,Estevan Martinez,12251,Roiter Lima,W,1,RNC,NoGi Worlds,55KG,F,2021
+28767,12120,Estevan Martinez,,Jerico French,W,1,Kimura,ADCC EC Trials,66KG,R1,2021
+28779,12120,Estevan Martinez,,Tomas Garcia,W,1,Short choke,ADCC EC Trials,66KG,R2,2021
+28793,12120,Estevan Martinez,9760,Frank Rosenthal,W,1,Pts: 3x0,ADCC EC Trials,66KG,R3,2021
+28801,12120,Estevan Martinez,,Fabio Ramirez,W,1,Referee Decision,ADCC EC Trials,66KG,R4,2021
+29298,12120,Estevan Martinez,,Sam Micale,W,1,Referee Decision,Hudson Valley,N/A,R1,2021
+29299,12120,Estevan Martinez,,Louis Salomon,W,1,RNC,Hudson Valley,N/A,4F,2021
+29300,12120,Estevan Martinez,,Billy Pedro,W,1,Armbar,Hudson Valley,N/A,SF,2021
+29301,12120,Estevan Martinez,,Bryce Layme,W,1,RNC,Hudson Valley,N/A,F,2021
+29799,12120,Estevan Martinez,,Eric Naples,W,1,EBI/OT,Emerald City,N/A,SPF,2021
+30673,12120,Estevan Martinez,12644,Tadiyah Danforth,W,1,"Pts: 0x0, Adv",Miami WO,57KG,SF,2022
+30675,12120,Estevan Martinez,,Kevin Martincowski,W,1,Crucifix choke,Miami WO,57KG,F,2022
+31267,12120,Estevan Martinez,,Gialyson Freitas,W,1,Armbar,Charleston NGO,ABS,SF,2022
+31471,12120,Estevan Martinez,,James Zeng,W,1,Bulldog choke,ADCC WC Trials,66KG,R1,2022
+31486,12120,Estevan Martinez,,Raul Rosas,W,1,Pts: 3x0,ADCC WC Trials,66KG,R2,2022
+31501,12120,Estevan Martinez,,Caleb Tackett,W,1,Crucifix choke,ADCC WC Trials,66KG,R3,2022
+31598,12120,Estevan Martinez,,Tadiyah Danfort,W,1,Crucifix choke,Pan American,57KG,R1,2022
+31601,12120,Estevan Martinez,,Kevin Martincowski,W,1,Armbar,Pan American,57KG,4F,2022
+31806,12120,Estevan Martinez,,Manny Vasquez,W,1,Referee Decision,Hudson Valley,N/A,SPF,2022
+32567,12120,Estevan Martinez,,Manny Vazquez,W,1,Referee Decision,Hudson Valley,70KG,SPF,2022
+32841,12120,Estevan Martinez,,John Battle,D,0.5,---,Survivor 2,ABS,RR,2022
+33670,12120,Estevan Martinez,,Gregory Hernandez,W,1,Arm in Ezekiel,Austin SMO,57KG,SF,2022
+33672,12120,Estevan Martinez,,Henrique Rossi,W,1,Armbar,Austin SMO,57KG,F,2022
+33696,12120,Estevan Martinez,,Theodore Sanders,W,1,Crucifix choke,Austin SMO,ABS,4F,2022
+34905,12120,Estevan Martinez,,Yianni Marinis,W,1,Referee Decision,ADCC Vegas,60KG,R1,2022
+36791,12120,Estevan Martinez,12644,Tadiyah Danforth,W,1,Referee Decision,NoGi Worlds,55KG,4F,2022

@@ -1,0 +1,222 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+5019,3009,Keenan Cornelius,320,Romulo Barral,L,0,Points,ADCC,88KG,SF,2013
+5062,3009,Keenan Cornelius,224,Roberto Abreu,L,0,Points,ADCC,ABS,SF,2013
+5318,3009,Keenan Cornelius,1757,Alexander Trans,L,0,Pts: 3x2,Pan American,ABS,4F,2014
+5634,3009,Keenan Cornelius,984,Marcus Almeida,L,0,"Pts: 2x2, Adv",World Pro.,ABS,SF,2014
+5636,3009,Keenan Cornelius,144,Andre Galvao,L,0,Referee Decision,World Pro.,ABS,3PLC,2014
+5670,3009,Keenan Cornelius,422,Braulio Estima,L,0,Points,World Pro.,94KG,SF,2014
+5725,3009,Keenan Cornelius,984,Marcus Almeida,L,0,Pts: 10x4,World Champ.,ABS,SF,2014
+5824,3009,Keenan Cornelius,,Diogo Gamonal,L,0,DQ,World Champ.,88KG,RDS,2014
+6016,3009,Keenan Cornelius,1740,Yuri Simoes,L,0,Pts: 4x0,NoGi Worlds,ABS,F,2014
+6115,3009,Keenan Cornelius,1188,Leandro Lo,L,0,Pts: 6x2,NYC Pro,94KG,F,2014
+6769,3009,Keenan Cornelius,1272,Leo Nogueira,L,0,"Pts: 0x0, Adv",Pan American,ABS,4F,2015
+7131,3009,Keenan Cornelius,1617,Victor Estima,L,0,Referee Decision,World Pro,85KG,SF,2015
+7196,3009,Keenan Cornelius,1757,Alexander Trans,L,0,Pts: 2x0,World Pro,ABS,SF,2015
+7198,3009,Keenan Cornelius,1188,Leandro Lo,L,0,Pts: 4x2,World Pro,ABS,3RD,2015
+7334,3009,Keenan Cornelius,84,Alexandre Ribeiro,D,0.5,---,Metamoris 6,ABS,SPF,2015
+7393,3009,Keenan Cornelius,1188,Leandro Lo,L,0,Pts: 8x6,World Champ.,ABS,4F,2015
+7498,3009,Keenan Cornelius,4310,Tim Spriggs,L,0,Pts: 2x0,World Champ.,94KG,4F,2015
+7939,3009,Keenan Cornelius,1740,Yuri Simoes,L,0,Pts: 3x0,ADCC,88KG,F,2015
+9485,3009,Keenan Cornelius,2416,Felipe Pena,L,0,Pts: 4x2,Marianas Open,ABS,F,2016
+9551,3009,Keenan Cornelius,1757,Alexander Trans,L,0,"Pts: 0x0, Adv",World Pro,ABS,4F,2016
+10038,3009,Keenan Cornelius,1188,Leandro Lo,L,0,Pts: 4x2,World Champ.,88KG,SF,2016
+10104,3009,Keenan Cornelius,1188,Leandro Lo,L,0,Pts: 2x0,World Champ.,ABS,4F,2016
+10355,3009,Keenan Cornelius,6550,Gordon Ryan,L,0,Inside heel hook,Grappling Ind.,ABS,SPF,2016
+10715,3009,Keenan Cornelius,477,Tarsis Humphreys,L,0,DQ,BJJ Pro LA,94KG,F,2016
+13319,3009,Keenan Cornelius,7096,Josh Hinger,L,0,Pts: 3x0,American NG Nats,91KG,F,2017
+13891,3009,Keenan Cornelius,6550,Gordon Ryan,L,0,Mounted guillotine,ADCC,88KG,F,2017
+14743,3009,Keenan Cornelius,2403,Joao Rocha,L,0,Pts: 4x2,NoGi Worlds,ABS,SF,2017
+15360,3009,Keenan Cornelius,1188,Leandro Lo,L,0,Pts: 7x2,Pan American,ABS,SF,2018
+16586,3009,Keenan Cornelius,4430,Patrick Gaudio,L,0,Referee Decision,World Champ.,94KG,SF,2018
+17823,3009,Keenan Cornelius,5842,Mahamed Aly,L,0,Referee Decision,WSOG 2,O81KG,SF,2018
+18514,3009,Keenan Cornelius,8346,Craig Jones,L,0,Referee Decision,Polaris 8,93KG,SPF,2018
+20739,3009,Keenan Cornelius,1188,Leandro Lo,L,0,Referee Decision,World Champ.,ABS,SF,2019
+21604,3009,Keenan Cornelius,9180,Vinicius Trator,L,0,Pts: 2x0,No Gi Pan Am.,97KG,F,2019
+23057,3009,Keenan Cornelius,8514,Fellipe Andrew,L,0,Triangle,European Open,ABS,F,2020
+23292,3009,Keenan Cornelius,10880,Roberto Jimenez,L,0,Pts: 6x4,Whos N1,94KG,SPF,2020
+35574,3009,Keenan Cornelius,8686,Fellipe Trovo,L,0,Pts: 7x0,NoGi Pan,97KG,4F,2022
+4367,3009,Keenan Cornelius,875,Lucas Leite,W,1,Armbar,World Expo,ABS,SPF,2013
+4480,3009,Keenan Cornelius,,Magid Hage,W,1,Armbar,WC Pro Trials,85KG,RR,2013
+4481,3009,Keenan Cornelius,,Morris Ayala,W,1,Choke from back,WC Pro Trials,85KG,RR,2013
+4482,3009,Keenan Cornelius,7519,Eliot Kelly,W,1,Choke from back,WC Pro Trials,ABS,SF,2013
+4483,3009,Keenan Cornelius,5726,Gustavo Pires,W,1,Choke from back,WC Pro Trials,ABS,F,2013
+5006,3009,Keenan Cornelius,1523,Clark Gracie,W,1,Pts: 4x2,ADCC,88KG,R1,2013
+5014,3009,Keenan Cornelius,,Oskar Piechota,W,1,Darce choke,ADCC,88KG,4F,2013
+5020,3009,Keenan Cornelius,919,Pablo Popovitch,W,1,Verbal tap,ADCC,88KG,3PLC,2013
+5053,3009,Keenan Cornelius,,Erza Lennon,W,1,Heel Hook,ADCC,ABS,R1,2013
+5059,3009,Keenan Cornelius,,Oskar Piechota,W,1,Pts: 8x0,ADCC,ABS,4F,2013
+5064,3009,Keenan Cornelius,1369,Dean Lister,W,1,Points,ADCC,ABS,3PLC,2013
+5135,3009,Keenan Cornelius,,Diego Gamonal,W,1,Triangle armbar,IBJJF Pro League,94KG,SF,2013
+5137,3009,Keenan Cornelius,3200,Jackson Sousa,W,1,Pts: 2x0,IBJJF Pro League,94KG,F,2013
+5182,3009,Keenan Cornelius,5365,Beneil Dariush,W,1,Heel hook,FIVE Rd Robin,ABS,RR,2013
+5184,3009,Keenan Cornelius,3200,Jackson Sousa,W,1,Referee Decision,FIVE Rd Robin,ABS,RR,2013
+5185,3009,Keenan Cornelius,1827,James Puopolo,W,1,RNC,FIVE Rd Robin,ABS,RR,2013
+5187,3009,Keenan Cornelius,5649,Garry Tonon,W,1,Pts: 14x0,FIVE Rd Robin,ABS,RR,2013
+5279,3009,Keenan Cornelius,,Kevin Casey,W,1,Heel hook,Metamoris 3,ABS,SPF,2014
+5302,3009,Keenan Cornelius,,Unknown,W,1,Arm in Ezekiel,Pan American,ABS,R2,2014
+5310,3009,Keenan Cornelius,3122,Luiz Panza,W,1,Pts: 8x6,Pan American,ABS,R3,2014
+5380,3009,Keenan Cornelius,,Sadayoshi Kurimori,W,1,Choke from back,Pan American,88KG,R1,2014
+5389,3009,Keenan Cornelius,484,Murilo Santana,W,1,Pts: 4x2,Pan American,88KG,4F,2014
+5390,3009,Keenan Cornelius,1895,Rodrigo Fajardo,W,1,Triangle armbar,Pan American,88KG,SF,2014
+5456,3009,Keenan Cornelius,,Stephen Martinez,W,1,Arm in Ezekiel,FIVE Cali. 1,ABS,4F,2014
+5458,3009,Keenan Cornelius,,Lance Glynn,W,1,Points,FIVE Cali. 1,ABS,SF,2014
+5460,3009,Keenan Cornelius,1740,Yuri Simoes,W,1,Pts: 4x0,FIVE Cali. 1,ABS,F,2014
+5620,3009,Keenan Cornelius,1534,R. Evangelista,W,1,Choke from back,World Pro.,ABS,R1,2014
+5633,3009,Keenan Cornelius,422,Braulio Estima,W,1,Pts: 2x0,World Pro.,ABS,4F,2014
+5668,3009,Keenan Cornelius,,Leonardo Maciel,W,1,Omoplata,World Pro.,94KG,R1,2014
+5669,3009,Keenan Cornelius,3200,Jackson Sousa,W,1,Choke from back,World Pro.,94KG,4F,2014
+5697,3009,Keenan Cornelius,,Carlos Eduardo,W,1,Referee Decision,World Champ.,ABS,R1,2014
+5716,3009,Keenan Cornelius,1188,Leandro Lo,W,1,Pts: 6x4,World Champ.,ABS,RD 4,2014
+5721,3009,Keenan Cornelius,1272,Leo Nogueira,W,1,Triangle,World Champ.,ABS,4F,2014
+5823,3009,Keenan Cornelius,,Maciel Trindade,W,1,Triangle,World Champ.,88KG,RDS,2014
+5871,3009,Keenan Cornelius,733,Vinny Magalhaes,D,0.5,---,Metamoris 4,ABS,SPF,2014
+5905,3009,Keenan Cornelius,5414,Osvaldo Moizinho,W,1,Triangle,SF Open,ABS,F,2014
+5951,3009,Keenan Cornelius,,Unknown,W,1,Inverted armbar,American Nat.,88KG,4F,2014
+5952,3009,Keenan Cornelius,,Elias Ramirez,W,1,Armbar,American Nat.,88KG,SF,2014
+5954,3009,Keenan Cornelius,562,Eduardo Telles,W,1,"Pts: 0x0, Adv",American Nat.,88KG,F,2014
+6007,3009,Keenan Cornelius,3083,Abraham Marte,W,1,"Pts: 2x2, Adv",NoGi Worlds,ABS,RDS,2014
+6012,3009,Keenan Cornelius,1827,James Puopolo,W,1,Pts: 8x2,NoGi Worlds,ABS,4F,2014
+6014,3009,Keenan Cornelius,5649,Garry Tonon,W,1,Pts: 23x2,NoGi Worlds,ABS,SF,2014
+6041,3009,Keenan Cornelius,4859,Ricardo Rezende,W,1,North South choke,NoGi Worlds,88KG,R1,2014
+6043,3009,Keenan Cornelius,6156,Tanner Rice,W,1,Kneebar,NoGi Worlds,88KG,4F,2014
+6047,3009,Keenan Cornelius,484,Murilo Santana,W,1,Pts: 2x0,NoGi Worlds,88KG,SF,2014
+6049,3009,Keenan Cornelius,6337,Arnaldo Maidana,W,1,Darce choke,NoGi Worlds,88KG,F,2014
+6092,3009,Keenan Cornelius,926,Roberto Alencar,W,1,Pts: 12x0,IBJJF Pro League,94KG,SF,2014
+6094,3009,Keenan Cornelius,3200,Jackson Sousa,W,1,Referee Decision,IBJJF Pro League,94KG,F,2014
+6216,3009,Keenan Cornelius,1740,Yuri Simoes,D,0.5,---,Metamoris 5,ABS,SPF,2014
+6393,3009,Keenan Cornelius,1369,Dean Lister,W,1,Inverted triangle,Polaris,ABS,SPF,2015
+6756,3009,Keenan Cornelius,7519,Eliot Kelly,W,1,Choke from back,Pan American,ABS,R2,2015
+6761,3009,Keenan Cornelius,4310,Tim Spriggs,W,1,Referee Decision,Pan American,ABS,R3,2015
+6852,3009,Keenan Cornelius,,Jared Lawton,W,1,Triangle,Pan American,88KG,8F,2015
+6857,3009,Keenan Cornelius,2235,Renato Cardoso,W,1,Pts: 5x2,Pan American,88KG,4F,2015
+6861,3009,Keenan Cornelius,484,Murilo Santana,W,1,Pts: 4x0,Pan American,88KG,SF,2015
+6959,3009,Keenan Cornelius,1848,Marcos Souza,W,1,Pts: 12x2,Marianas Open,ABS,4F,2015
+6962,3009,Keenan Cornelius,875,Lucas Leite,W,1,Pts: 4x2,Marianas Open,ABS,SF,2015
+6963,3009,Keenan Cornelius,1583,Mike Fowler,W,1,Choke from back,Marianas Open,ABS,F,2015
+7111,3009,Keenan Cornelius,,William Dias,W,1,Pts: 6x4,World Pro,85KG,R1,2015
+7121,3009,Keenan Cornelius,4235,Victor Silverio,W,1,Armbar,World Pro,85KG,R2,2015
+7128,3009,Keenan Cornelius,1523,Clark Gracie,W,1,Pts: 7x0,World Pro,85KG,4F,2015
+7132,3009,Keenan Cornelius,5747,AJ Sousa,W,1,Pts: 3x0,World Pro,85KG,3RD,2015
+7184,3009,Keenan Cornelius,,Fabio Galeb,W,1,Triangle,World Pro,ABS,R1,2015
+7187,3009,Keenan Cornelius,477,Tarsis Humphreys,W,1,Pts: 2x0,World Pro,ABS,R2,2015
+7193,3009,Keenan Cornelius,2416,Felipe Pena,W,1,"Pts: 2x2, Adv",World Pro,ABS,4F,2015
+7381,3009,Keenan Cornelius,7079,Carlos Farias,W,1,Triangle,World Champ.,ABS,R1,2015
+7384,3009,Keenan Cornelius,4310,Tim Spriggs,W,1,Pts: 8x2,World Champ.,ABS,R2,2015
+7495,3009,Keenan Cornelius,,Alan Regis,W,1,Triangle armbar,World Champ.,94KG,8F,2015
+7780,3009,Keenan Cornelius,2107,Otavio Sousa,W,1,Pts: 4x0,FIVE SL,ABS,SPF,2015
+7930,3009,Keenan Cornelius,,J. Urholin,W,1,Pts: 3x0,ADCC,88KG,R1,2015
+7933,3009,Keenan Cornelius,410,Claudio Calasans,W,1,Pts: 2x0,ADCC,88KG,4F,2015
+7937,3009,Keenan Cornelius,,Rustam Chsiev,W,1,Referee Decision,ADCC,88KG,SF,2015
+8121,3009,Keenan Cornelius,,Omar Sabha,W,1,Choke from back,Dallas Open,94KG,SF,2015
+8124,3009,Keenan Cornelius,,Thiago Ximenes,W,1,Arm in Ezekiel,Dallas Open,ABS,4F,2015
+8125,3009,Keenan Cornelius,,Philip Miller,W,1,Submission,Dallas Open,ABS,SF,2015
+8127,3009,Keenan Cornelius,6337,Arnaldo Maidana,W,1,Armbar,Dallas Open,ABS,F,2015
+9008,3009,Keenan Cornelius,,Magid Hage,W,1,Pts: 6x0,US National Pro,85KG,SF,2016
+9009,3009,Keenan Cornelius,,William Nyman,W,1,Triangle,US National Pro,85KG,F,2016
+9013,3009,Keenan Cornelius,,Jason Youseph,W,1,Triangle,US National Pro,ABS,SF,2016
+9015,3009,Keenan Cornelius,,Joseph Moku,W,1,Triangle,US National Pro,ABS,F,2016
+9482,3009,Keenan Cornelius,,Jacob Guerrero,W,1,Baratoplata,Marianas Open,ABS,4F,2016
+9484,3009,Keenan Cornelius,6631,Igor Schneider,W,1,Omoplata choke,Marianas Open,ABS,SF,2016
+9526,3009,Keenan Cornelius,,Melksedec Franco,W,1,50/50 armbar,World Pro,ABS,R1,2016
+9537,3009,Keenan Cornelius,680,Igor Silva,W,1,Pts: 4x2,World Pro,ABS,R2,2016
+9549,3009,Keenan Cornelius,6301,Faisal AlKitbe,W,1,Armbar,World Pro,ABS,8F,2016
+10032,3009,Keenan Cornelius,6156,Tanner Rice,W,1,Armbar,World Champ.,88KG,8F,2016
+10036,3009,Keenan Cornelius,2235,Renato Cardoso,W,1,Pts: 5x2,World Champ.,88KG,4F,2016
+10086,3009,Keenan Cornelius,,Kitner Moura,W,1,Omoplata,World Champ.,ABS,R2,2016
+10099,3009,Keenan Cornelius,1272,Leo Nogueira,W,1,Pts: 2x0,World Champ.,ABS,8F,2016
+10714,3009,Keenan Cornelius,6156,Tanner Rice,W,1,Pts: 6x0,BJJ Pro LA,94KG,SF,2016
+11909,3009,Keenan Cornelius,12617,Sean Roberts,W,1,Triangle,JJ Net,ABS,SPF,2017
+11992,3009,Keenan Cornelius,,William Nyman,W,1,Bow and arrow,LA National Pro,94KG,SF,2017
+11993,3009,Keenan Cornelius,,Ronald Keslar,W,1,Armbar,LA National Pro,94KG,F,2017
+11999,3009,Keenan Cornelius,,Ronald Keslar,W,1,DQ,LA National Pro,U110KG,SF,2017
+12001,3009,Keenan Cornelius,9246,Tex Johnson,W,1,Points,LA National Pro,U110KG,F,2017
+12576,3009,Keenan Cornelius,,Tomoshige Sera,W,1,Reverse triangle,Japanese Nat.,ABS,4F,2017
+12577,3009,Keenan Cornelius,,Leandro Kussano,W,1,Bow and arrow,Japanese Nat.,ABS,SF,2017
+12578,3009,Keenan Cornelius,1848,Marcos Souza,W,1,Pts: 12x2,Japanese Nat.,94KG,F,2017
+13245,3009,Keenan Cornelius,,Vicente Cavalcanti,W,1,Armbar,UFC Expo,ABS,SPF,2017
+13317,3009,Keenan Cornelius,6337,Arnaldo Maidana,W,1,RNC,American NG Nats,91KG,SF,2017
+13360,3009,Keenan Cornelius,,Daniel Hampton,W,1,Choke from back,American Nats,94KG,4F,2017
+13363,3009,Keenan Cornelius,6337,Arnaldo Maidana,W,1,RNC,American Nats,94KG,SF,2017
+13364,3009,Keenan Cornelius,7096,Josh Hinger,W,1,Choke from back,American Nats,94KG,F,2017
+13372,3009,Keenan Cornelius,,Nicholas Araujo,W,1,Triangle,American Nats,ABS,R1,2017
+13376,3009,Keenan Cornelius,,Wellington Peroto,W,1,Arm in Ezekiel,American Nats,ABS,4F,2017
+13379,3009,Keenan Cornelius,7096,Josh Hinger,W,1,Choke from back,American Nats,ABS,F,2017
+13443,3009,Keenan Cornelius,5423,Matheus Diniz,W,1,Referee Decision,FIVE Super League,94KG,SPF,2017
+13543,3009,Keenan Cornelius,,Paulo Canabarro,W,1,Armbar,Boston SM. Open,94KG,SF,2017
+13544,3009,Keenan Cornelius,,Charles Mcguire,W,1,Triangle,Boston SM. Open,94KG,F,2017
+13545,3009,Keenan Cornelius,,Olivier Huerre,W,1,Choke from back,Boston SM. Open,ABS,SF,2017
+13547,3009,Keenan Cornelius,4248,Gianni Grippo,W,1,Armbar,Boston SM. Open,ABS,F,2017
+13593,3009,Keenan Cornelius,,Josh Bowlin,W,1,Choke from back,Seattle Open,94KG,SF,2017
+13594,3009,Keenan Cornelius,,Mohammad Faraj,W,1,Armbar,Seattle Open,94KG,F,2017
+13596,3009,Keenan Cornelius,7399,Horlando Monteiro,W,1,Choke from back,Seattle Open,ABS,SF,2017
+13598,3009,Keenan Cornelius,7096,Josh Hinger,W,1,Pts: 5x2,Seattle Open,ABS,F,2017
+13630,3009,Keenan Cornelius,,Ezra Lenon,W,1,Armbar,Chicago SMO,94KG,SF,2017
+13631,3009,Keenan Cornelius,,John Gutta,W,1,Cross choke,Chicago SMO,94KG,F,2017
+13636,3009,Keenan Cornelius,8729,Matt Leighton,W,1,Points,Chicago SMO,ABS,4F,2017
+13641,3009,Keenan Cornelius,8116,Dante Leon,W,1,Kimura,Chicago SMO,ABS,SF,2017
+13642,3009,Keenan Cornelius,8195,Gutemberg Pereira,W,1,Triangle,Chicago SMO,ABS,F,2017
+13699,3009,Keenan Cornelius,,Du Yunlai,W,1,Brabo choke,Asian Open,94KG,SF,2017
+13700,3009,Keenan Cornelius,,Renan Secco,W,1,Armbar,Asian Open,94KG,F,2017
+13702,3009,Keenan Cornelius,10004,Ali Monfaradi,W,1,Armbar,Asian Open,ABS,R1,2017
+13704,3009,Keenan Cornelius,,Unknown,W,1,Choke from back,Asian Open,ABS,4F,2017
+13705,3009,Keenan Cornelius,,Sawato Kawamura,W,1,Armbar,Asian Open,ABS,SF,2017
+13876,3009,Keenan Cornelius,,Piotr Frechowicz,W,1,Pts: 6x0,ADCC,88KG,E1,2017
+13884,3009,Keenan Cornelius,,Kaynan D.,W,1,Outside heel hook,ADCC,88KG,4F,2017
+13888,3009,Keenan Cornelius,8346,Craig Jones,W,1,Pts: 13x0,ADCC,88KG,SF,2017
+14258,3009,Keenan Cornelius,,Rodolfo Rocha,W,1,Standing X choke,SJJIF Worlds,88KG,RR,2017
+14259,3009,Keenan Cornelius,5655,Lucas Barbosa,W,1,Triangle,SJJIF Worlds,88KG,F,2017
+14268,3009,Keenan Cornelius,,Diego Hertzog,W,1,Points,SJJIF Worlds,ABS,4F,2017
+14269,3009,Keenan Cornelius,9637,Sergio Rios,W,1,Pts: 10x4,SJJIF Worlds,ABS,SF,2017
+14271,3009,Keenan Cornelius,4521,Erberth Santos,W,1,Choke from back,SJJIF Worlds,ABS,F,2017
+14288,3009,Keenan Cornelius,,Wellington Peroto,W,1,Kimura,Long Beach Open,94KG,SF,2017
+14289,3009,Keenan Cornelius,,Ben Lenyard,W,1,Pts: 8x2,Long Beach Open,94KG,F,2017
+14292,3009,Keenan Cornelius,,Scott Thomas,W,1,Omoplata,Long Beach Open,ABS,4F,2017
+14294,3009,Keenan Cornelius,9637,Sergio Rios,W,1,Wormhat choke,Long Beach Open,ABS,SF,2017
+14296,3009,Keenan Cornelius,4235,Victor Silverio,W,1,Pts: 8x0,Long Beach Open,ABS,F,2017
+14416,3009,Keenan Cornelius,8729,Matt Leighton,W,1,Triangle kimura,BJJ NY Pro,94KG,SF,2017
+14417,3009,Keenan Cornelius,4310,Tim Spriggs,W,1,Pts: 9x0,BJJ NY Pro,94KG,F,2017
+14699,3009,Keenan Cornelius,,V. Canabarro,W,1,RNC,NoGi Worlds,85KG,4F,2017
+14700,3009,Keenan Cornelius,7831,Diego Ramalho,W,1,RNC,NoGi Worlds,85KG,SF,2017
+14702,3009,Keenan Cornelius,484,Murilo Santana,W,1,Pts: 2x0,NoGi Worlds,85KG,F,2017
+14727,3009,Keenan Cornelius,9246,Tex Johnson,W,1,RNC,NoGi Worlds,ABS,R1,2017
+14735,3009,Keenan Cornelius,9758,Kit Dale,W,1,Triangle,NoGi Worlds,ABS,R2,2017
+14740,3009,Keenan Cornelius,5636,Manuel Ribamar,W,1,RNC,NoGi Worlds,ABS,4F,2017
+14875,3009,Keenan Cornelius,,R. Martins,W,1,Monoplata,European Open,ABS,8F,2018
+14881,3009,Keenan Cornelius,1534,R. Evangelista,W,1,Toe hold,European Open,ABS,4F,2018
+14885,3009,Keenan Cornelius,5509,Victor Honorio,W,1,Omoplata,European Open,ABS,SF,2018
+14950,3009,Keenan Cornelius,7478,Adam Wardzinski,W,1,Armbar,European Open,94KG,SF,2018
+14951,3009,Keenan Cornelius,7704,Helton Jose,W,1,Choke from back,European Open,94KG,F,2018
+15295,3009,Keenan Cornelius,,Charles Mcguire,W,1,Armbar,San Francisco Open,94KG,SF,2018
+15296,3009,Keenan Cornelius,,Joshua Bowlin,W,1,Armbar,San Francisco Open,94KG,F,2018
+15302,3009,Keenan Cornelius,,Cesar Cardoso,W,1,Armbar,San Francisco Open,ABS,4F,2018
+15353,3009,Keenan Cornelius,,Raphael Gustavo,W,1,Pts: 8x4,Pan American,ABS,R2,2018
+15358,3009,Keenan Cornelius,4310,Tim Spriggs,W,1,Arm in Ezekiel,Pan American,ABS,4F,2018
+15445,3009,Keenan Cornelius,4310,Tim Spriggs,W,1,Pts: 9x0,Pan American,100KG,SF,2018
+15446,3009,Keenan Cornelius,5842,Mahamed Aly,W,1,"Pts: 0x0, Adv",Pan American,100KG,F,2018
+15859,3009,Keenan Cornelius,5842,Mahamed Aly,W,1,Referee Decision,ACBJJ 12,95KG,SPF,2018
+16346,3009,Keenan Cornelius,1740,Yuri Simoes,W,1,Reverse omoplata,ACBJJ 13,95KG,SPF,2018
+16579,3009,Keenan Cornelius,7743,Inacio Neto,W,1,Armbar,World Champ.,94KG,8F,2018
+16583,3009,Keenan Cornelius,4310,Tim Spriggs,W,1,Pts: 12x4,World Champ.,94KG,4F,2018
+16974,3009,Keenan Cornelius,,Gabriel Checco,W,1,Triangle armbar,W.S.O.G.,O81KG,8F,2018
+17329,3009,Keenan Cornelius,,Eric Sian,W,1,Omoplata,Asian Open,100KG,SF,2018
+17330,3009,Keenan Cornelius,,Hideki Sekine,W,1,Pts: 30x2,Asian Open,100KG,F,2018
+17332,3009,Keenan Cornelius,,Jonghyon Park,W,1,Baratoplata,Asian Open,ABS,4F,2018
+17335,3009,Keenan Cornelius,5078,Luan Carvalho,W,1,Arm in Ezekiel,Asian Open,ABS,SF,2018
+17820,3009,Keenan Cornelius,,R. Jimenez,W,1,Armbar,WSOG 2,O81KG,4F,2018
+17825,3009,Keenan Cornelius,8974,Kaynan Duarte,W,1,Referee Decision,WSOG 2,O81KG,3RD,2018
+18065,3009,Keenan Cornelius,,Mike Colon,W,1,Choke from back,SJJIF Worlds,94KG,SF,2018
+18864,3009,Keenan Cornelius,9246,Tex Johnson,W,1,Pts: 34x0,Coast Grappling,ABS,SPF,2019
+20727,3009,Keenan Cornelius,6337,Arnaldo Maidana,W,1,RNC,World Champ.,ABS,R2,2019
+20737,3009,Keenan Cornelius,7507,Nicholas Meregali,W,1,Pts: 2x0,World Champ.,ABS,4F,2019
+21602,3009,Keenan Cornelius,9157,Devhonte Johnson,W,1,Pts: 4x2,No Gi Pan Am.,97KG,SF,2019
+21613,3009,Keenan Cornelius,,Vitor Cervantes,W,1,Kimura,No Gi Pan Am.,ABS,R1,2019
+21615,3009,Keenan Cornelius,10295,Italo Moura,W,1,Guillotine,No Gi Pan Am.,ABS,8F,2019
+21622,3009,Keenan Cornelius,9157,Devhonte Johnson,W,1,Armlock,No Gi Pan Am.,ABS,SF,2019
+21623,3009,Keenan Cornelius,4542,Felipe Cesar,W,1,DQ,No Gi Pan Am.,ABS,F,2019
+23044,3009,Keenan Cornelius,13392,Gabriel Volante,W,1,Choke from back,European Open,ABS,R2,2020
+23054,3009,Keenan Cornelius,10509,Mathias Luna,W,1,RNC,European Open,ABS,4F,2020
+23056,3009,Keenan Cornelius,5842,Mahamed Aly,W,1,Pts: 10x2,European Open,ABS,SF,2020
+23137,3009,Keenan Cornelius,,Felipe Mauricio,W,1,Pts: 8x2,European Open,94KG,4F,2020
+23141,3009,Keenan Cornelius,3200,Jackson Sousa,W,1,Pts: 4x2,European Open,94KG,SF,2020
+23142,3009,Keenan Cornelius,7478,Adam Wardzinski,W,1,"Pts: 4x4, Adv",European Open,94KG,F,2020
+23849,3009,Keenan Cornelius,10658,Matheus Luna,W,1,Referee Decision,F2W 148,91KG,SPF,2020

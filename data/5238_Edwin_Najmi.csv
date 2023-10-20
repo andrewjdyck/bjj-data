@@ -1,0 +1,82 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8028,5238,Edwin Najmi,8682,Lachlan Giles,L,0,"Pts: 4x4, Adv",Boa Super 8,70KG,4F,2015
+8876,5238,Edwin Najmi,5258,Dillon Danis,L,0,Pts: 7x0,Copa Podio,77KG,GP,2016
+8881,5238,Edwin Najmi,4430,Patrick Gaudio,L,0,Pts: 2x0,Copa Podio,77KG,GP,2016
+8884,5238,Edwin Najmi,6253,Diego Borges,L,0,"Pts: 2x2, Adv",Copa Podio,77KG,GP,2016
+8937,5238,Edwin Najmi,,Alex Cabanes,L,0,"Pts: 6x6, Pen",European Open,76KG,SF,2016
+9608,5238,Edwin Najmi,6596,Jhonny Loureiro,L,0,"Pts: 2x2, Adv",World Pro,77KG,4F,2016
+9988,5238,Edwin Najmi,358,Lucas Lepri,L,0,Choke from back,World Champ.,76KG,F,2016
+11453,5238,Edwin Najmi,4163,Marcio Andre,L,0,Pts: 4x2,Grand Slam AD,75KG,SF,2017
+12657,5238,Edwin Najmi,6071,Gabriel Arges,L,0,Pts: 2x0,World Pro,77KG,F,2017
+13126,5238,Edwin Najmi,6432,Yan Lucas,L,0,Pts: 2x0,World Champ.,76KG,4F,2017
+13672,5238,Edwin Najmi,4163,Marcio Andre,L,0,Referee Decision,ACBJJ 7,75KG,F,2017
+14921,5238,Edwin Najmi,7645,Masahiro Iwasaki,L,0,Pts: 2x0,European Open,76KG,SF,2018
+15325,5238,Edwin Najmi,1386,Davi Ramos,L,0,Referee Decision,ACBJJ 11,75KG,SPF,2018
+15858,5238,Edwin Najmi,5078,Luan Carvalho,L,0,Referee Decision,ACBJJ 12,75KG,SPF,2018
+16101,5238,Edwin Najmi,,Thomas Keenan,L,0,Pts: 2x0,WP US Qualifier,77KG,RR,2018
+16145,5238,Edwin Najmi,8215,Espen Mathiesen,L,0,"Pts: 0x0, Adv",World Pro,77KG,8F,2018
+16159,5238,Edwin Najmi,4460,Jaime Canuto,L,0,"Pts: 0x0, Adv",World Pro,77KG,RPC,2018
+16510,5238,Edwin Najmi,8215,Espen Mathiesen,L,0,Choke from back,World Champ.,76KG,4F,2018
+19790,5238,Edwin Najmi,8116,Dante Leon,L,0,RNC,Kasai 5,79KG,SPF,2019
+21859,5238,Edwin Najmi,428,Celso Vinicius,L,0,Referee Decision,ADCC,77KG,R1,2019
+21909,5238,Edwin Najmi,5649,Garry Tonon,L,0,Inside heel hook,ADCC,ABS,R1,2019
+22416,5238,Edwin Najmi,4460,Jaime Canuto,L,0,Referee Decision,F2W 131,81KG,SPF,2019
+22650,5238,Edwin Najmi,9002,Matheus Gabriel,L,0,Pts: 4x2,Spyder Invitational,76KG,4F,2019
+23787,5238,Edwin Najmi,10103,Jonnatas Gracie,L,0,Referee Decision,F2W 144,79KG,SPF,2020
+24993,5238,Edwin Najmi,11049,Kody Steele,L,0,Referee Decision,Third Coast,82KG,SPF,2020
+27197,5238,Edwin Najmi,7664,Johnny Tama,L,0,Inside heel hook,F2W 180,77KG,SPF,2021
+27502,5238,Edwin Najmi,11208,Jackson Nagai,L,0,Triangle,F2W 182,N/A,SPF,2021
+7640,5238,Edwin Najmi,,Igor Mocaiber,W,1,Bow and arrow,Sub Series Pro,ABS,SPF,2015
+8027,5238,Edwin Najmi,,Michael Hoorigan,W,1,Darce choke,Boa Super 8,70KG,R1,2015
+8888,5238,Edwin Najmi,5078,Luan Carvalho,W,1,DQ,Copa Podio,77KG,GP,2016
+8926,5238,Edwin Najmi,8334,Diego Vivaldo,W,1,"Pts: 6x6, Adv",European Open,76KG,R1,2016
+8934,5238,Edwin Najmi,6368,Kevin Mahecha,W,1,Toe hold,European Open,76KG,4F,2016
+9039,5238,Edwin Najmi,7376,Ilke Bulut,W,1,Referee Decision,PNBJJC,ABS,SPF,2016
+9265,5238,Edwin Najmi,6599,Rafael Mansur,W,1,Estima lock,Pan American,76KG,8F,2016
+9272,5238,Edwin Najmi,4655,Michael Liera,W,1,"Pts: 4x4, Adv",Pan American,76KG,4F,2016
+9276,5238,Edwin Najmi,5930,Rodrigo Freitas,W,1,Choke from back,Pan American,76KG,SF,2016
+9278,5238,Edwin Najmi,6563,Francisco Iturralde,W,1,Estima lock,Pan American,76KG,F,2016
+9596,5238,Edwin Najmi,,Adriano Araujo,W,1,Choke,World Pro,77KG,R2,2016
+9600,5238,Edwin Najmi,7672,Caio Almeida,W,1,"Pts: 2x2, Adv",World Pro,77KG,8F,2016
+9981,5238,Edwin Najmi,,Alex Cabanes,W,1,"Pts: 2x2, Adv",World Champ.,76KG,R2,2016
+9985,5238,Edwin Najmi,4655,Michael Liera,W,1,"Pts: 0x0, Adv",World Champ.,76KG,4F,2016
+9987,5238,Edwin Najmi,5061,Gabriel Rollo,W,1,Darce choke,World Champ.,76KG,SF,2016
+10364,5238,Edwin Najmi,5414,Osvaldo Moizinho,W,1,Referee Decision,Berkut 3,ABS,SPF,2016
+10447,5238,Edwin Najmi,2035,Vitor Oliveira,W,1,Darce choke,Grand Slam LA,77KG,SF,2016
+10448,5238,Edwin Najmi,4235,Victor Silverio,W,1,Injury,Grand Slam LA,77KG,F,2016
+10688,5238,Edwin Najmi,6368,Kevin Mahecha,W,1,Straight ankle lock,Guatemala Open,76KG,SPF,2016
+11273,5238,Edwin Najmi,898,Bill Cooper,W,1,Darce choke,5 Super League,77KG,4F,2016
+11277,5238,Edwin Najmi,9706,Marcelo Mafra,W,1,Referee Decision,5 Super League,77KG,SF,2016
+11279,5238,Edwin Najmi,6836,John Combs,W,1,Estima lock,5 Super League,77KG,F,2016
+11450,5238,Edwin Najmi,,Adriano Araujo,W,1,Darce choke,Grand Slam AD,75KG,4F,2017
+11455,5238,Edwin Najmi,9312,Alexandre Cavaliere,W,1,RNC,Grand Slam AD,75KG,3RD,2017
+11774,5238,Edwin Najmi,8081,Nathan Mendelsohn,W,1,Referee Decision,F2W 24,82KG,SPF,2017
+11950,5238,Edwin Najmi,,Daud Adaev,W,1,Flying triangle,ACBJJ 4,75KG,4F,2017
+11954,5238,Edwin Najmi,122,Michael Langhi,W,1,Referee Decision,ACBJJ 4,75KG,SF,2017
+11956,5238,Edwin Najmi,4163,Marcio Andre,W,1,Triangle,ACBJJ 4,75KG,F,2017
+12646,5238,Edwin Najmi,,Hamzeh Rashid,W,1,Choke,World Pro,77KG,R1,2017
+12650,5238,Edwin Najmi,,Oliver Lovell,W,1,RNC,World Pro,77KG,4F,2017
+12651,5238,Edwin Najmi,6354,Jonathan Satava,W,1,Pts: 2x0,World Pro,77KG,SF,2017
+13121,5238,Edwin Najmi,6368,Kevin Mahecha,W,1,Choke from back,World Champ.,76KG,8F,2017
+13669,5238,Edwin Najmi,5909,Thiago Abreu,W,1,Darce choke,ACBJJ 7,75KG,4F,2017
+13670,5238,Edwin Najmi,1386,Davi Ramos,W,1,RNC,ACBJJ 7,75KG,SF,2017
+14913,5238,Edwin Najmi,8215,Espen Mathiesen,W,1,"Pts: 2x2, Adv",European Open,76KG,R1,2018
+14918,5238,Edwin Najmi,,Ricardo Rocha,W,1,Darce choke,European Open,76KG,4F,2018
+16100,5238,Edwin Najmi,,Thomas Keenan,W,1,Choke from back,WP US Qualifier,77KG,RR,2018
+16102,5238,Edwin Najmi,,Thomas Keenan,W,1,Referee Decision,WP US Qualifier,77KG,RR,2018
+16157,5238,Edwin Najmi,,Oliver Lovell,W,1,Pts: 6x2,World Pro,77KG,RPC,2018
+16342,5238,Edwin Najmi,631,Rodrigo Caporal,W,1,RNC,ACBJJ 13,75KG,SPF,2018
+16490,5238,Edwin Najmi,,Dainis Nguyen,W,1,Pts: 5x0,World Champ.,76KG,R2,2018
+16509,5238,Edwin Najmi,,Ricardo Rocha,W,1,Pts: 2x0,World Champ.,76KG,R3,2018
+17796,5238,Edwin Najmi,477,Tarsis Humphreys,W,1,Referee Decision,WSOG 2,81KG,R1,2018
+20864,5238,Edwin Najmi,4248,Gianni Grippo,W,1,Points,Third Coast,75KG,SPF,2019
+21257,5238,Edwin Najmi,2226,DJ Jackson,W,1,Referee Decision,F2W 120,82KG,SPF,2019
+21512,5238,Edwin Najmi,6095,Mansher Khera,W,1,Referee Decision,Polaris 11,77KG,SPF,2019
+21959,5238,Edwin Najmi,10509,Mathias Luna,W,1,RNC,World Festival,ABS,SPF,2019
+22799,5238,Edwin Najmi,,Ben Leny,W,1,Darce choke,Third Coast III,90KG,SPF,2019
+23419,5238,Edwin Najmi,7664,Johnny Tama,W,1,Referee Decision,F2W 136,77KG,SPF,2020
+23507,5238,Edwin Najmi,,N/A,W,1,Flying triangle,Mamba Cup,ABS,SF,2020
+23733,5238,Edwin Najmi,,Ben Henderson,W,1,Triangle,F2W 141,77KG,SPF,2020
+23815,5238,Edwin Najmi,5414,Osvaldo Moizinho,W,1,RNC,F2W 146,75KG,SPF,2020
+23950,5238,Edwin Najmi,4655,Michael Liera,W,1,Referee Decision,F2W 152,77KG,SPF,2020
+26981,5238,Edwin Najmi,,Jeremy Kennedy,W,1,EBI/OT,SUG 25,N/A,SPF,2021

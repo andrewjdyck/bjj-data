@@ -1,0 +1,59 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+9769,7636,Vinicius Garcia,443,Claudio Mattos,L,0,N/A,Brasileiro,82KG,4F,2016
+10578,7636,Vinicius Garcia,4460,Jaime Canuto,L,0,Armbar,Sao Paulo Open,82KG,F,2016
+10608,7636,Vinicius Garcia,7582,Sergio Benini,L,0,Points,BH Open,82KG,F,2016
+10611,7636,Vinicius Garcia,,Otavio Nalati,L,0,Points,Salvador Open,ABS,4F,2016
+11608,7636,Vinicius Garcia,1895,Rodrigo Fajardo,L,0,"Pts: 2x2, Adv",European Open,88KG,SF,2017
+13135,7636,Vinicius Garcia,6351,Alec Baulding,L,0,Pts: 10x2,World Champ.,82KG,R1,2017
+13293,7636,Vinicius Garcia,428,Celso Vinicius,L,0,Pts: 4x0,SP BJJ Pro,82KG,SF,2017
+14431,7636,Vinicius Garcia,7478,Adam Wardzinski,L,0,Brabo choke,Madrid NG Open,ABS,F,2017
+14520,7636,Vinicius Garcia,10698,Matheus Godoy,L,0,Kneebar,Brasilia Open,94KG,F,2017
+17046,7636,Vinicius Garcia,8634,Rafael Vasconcelos,L,0,Points,Orlando Open,ABS,SF,2018
+17528,7636,Vinicius Garcia,8729,Matt Leighton,L,0,Armbar,Atlanta SMO,88KG,F,2018
+19190,7636,Vinicius Garcia,,Nathan Santos,L,0,Points,Atlanta WO,88KG,SF,2019
+19617,7636,Vinicius Garcia,9793,Alexandre Jesus,L,0,Cross choke,Pan American,82KG,R1,2019
+20394,7636,Vinicius Garcia,1003,Diogo Sampaio,L,0,Points,Dallas SPO,88KG,SF,2019
+20665,7636,Vinicius Garcia,,Esdras Mendes,L,0,Botinha,World Champ.,88KG,R1,2019
+20945,7636,Vinicius Garcia,7332,Hunter Ewald,L,0,"Pts: 8x8, Adv",American Nats,88KG,SF,2019
+20956,7636,Vinicius Garcia,,John Hansen,L,0,Pts: 5x4,American Nats,ABS,SF,2019
+21174,7636,Vinicius Garcia,10240,Jake Watson,L,0,Straight ankle lock,Austin SMO,88KG,SF,2019
+21183,7636,Vinicius Garcia,10240,Jake Watson,L,0,Kimura,Austin SMO,ABS,F,2019
+21186,7636,Vinicius Garcia,10240,Jake Watson,L,0,Armbar,Austin SMNGO,85KG,F,2019
+21547,7636,Vinicius Garcia,11027,Pedro Rocha,L,0,Pts: 2x0,Dallas SMO,88KG,F,2019
+21552,7636,Vinicius Garcia,8477,Igor Paiva,L,0,Points,Dallas SMO,ABS,4F,2019
+21556,7636,Vinicius Garcia,11027,Pedro Rocha,L,0,Guillotine,Dallas SNGO,85KG,F,2019
+21988,7636,Vinicius Garcia,5660,Lucas Rocha,L,0,Armbar,Atlanta SM Open,ABS,SF,2019
+22211,7636,Vinicius Garcia,10509,Mathias Luna,L,0,Points,Houston FO,88KG,SF,2019
+22214,7636,Vinicius Garcia,10509,Mathias Luna,L,0,Adv,Houston FO,ABS,4F,2019
+23308,7636,Vinicius Garcia,8516,Lucas Valente,L,0,Straight ankle lock,New Orleans Open,88KG,F,2020
+23692,7636,Vinicius Garcia,10880,Roberto Jimenez,L,0,Bow and arrow,Houston WO,94KG,F,2020
+24181,7636,Vinicius Garcia,10199,Guthierry Barbosa,L,0,Choke from back,Pan American,82KG,4F,2020
+24577,7636,Vinicius Garcia,,Josh McKinney,L,0,Terra lock,American Nats,88KG,4F,2020
+25153,7636,Vinicius Garcia,,Robby Malof,L,0,Referee Decision,F2W 164,85KG,SPF,2021
+9765,7636,Vinicius Garcia,,Rodrigo Reis,W,1,Adv,Brasileiro,82KG,8F,2016
+10602,7636,Vinicius Garcia,,Matheus Souza,W,1,Botinha,Brasilia Open,88KG,SF,2016
+10603,7636,Vinicius Garcia,,Marcelo Cortelassi,W,1,Choke,Brasilia Open,88KG,F,2016
+10604,7636,Vinicius Garcia,,Otavio Nalati,W,1,Toe hold,Brasilia Open,ABS,SF,2016
+10605,7636,Vinicius Garcia,,Alex Vieira,W,1,Kimura,Brasilia NG Open,85KG,F,2016
+10606,7636,Vinicius Garcia,443,Claudio Mattos,W,1,Pts: 2x0,BH Open,82KG,4F,2016
+10607,7636,Vinicius Garcia,,Elfrankli Souza,W,1,Points,BH Open,82KG,SF,2016
+10613,7636,Vinicius Garcia,,Diego Cabral,W,1,Toe hold,Salvador NG Open,ABS,F,2016
+10614,7636,Vinicius Garcia,,Joao Ferreira,W,1,Kimura,Salvador NG Open,85KG,F,2016
+11600,7636,Vinicius Garcia,,Marcelo Cortelassi,W,1,Pts: 4x0,European Open,88KG,8F,2017
+13292,7636,Vinicius Garcia,8334,Diego Vivaldo,W,1,Points,SP BJJ Pro,82KG,4F,2017
+14519,7636,Vinicius Garcia,,Juan Marcel,W,1,Pts: xyes,Brasilia Open,94KG,SF,2017
+17043,7636,Vinicius Garcia,,Julian Synan,W,1,Choke,Orlando Open,88KG,F,2018
+17526,7636,Vinicius Garcia,,Gustavo Soares,W,1,Points,Atlanta SMO,88KG,SF,2018
+18088,7636,Vinicius Garcia,,Gustavo Soares,W,1,N/A,Charlotte Open,88KG,F,2018
+18422,7636,Vinicius Garcia,,Philip Raby,W,1,N/A,Nashville Fall Open,88KG,F,2018
+18424,7636,Vinicius Garcia,,Ricardo Sampaio,W,1,N/A,Nashville Fall Open,ABS,SF,2018
+18425,7636,Vinicius Garcia,,Pedro Palhares,W,1,N/A,Nashville Fall Open,ABS,F,2018
+20944,7636,Vinicius Garcia,,Stanley Rosa,W,1,Points,American Nats,88KG,4F,2019
+20954,7636,Vinicius Garcia,,Juan Cleber,W,1,Canto choke,American Nats,ABS,4F,2019
+21178,7636,Vinicius Garcia,,Jean Cartagena,W,1,N/A,Austin SMO,ABS,4F,2019
+21182,7636,Vinicius Garcia,,Andre Reis,W,1,N/A,Austin SMO,ABS,SF,2019
+21987,7636,Vinicius Garcia,,Cody Heller,W,1,N/A,Atlanta SM Open,ABS,4F,2019
+23307,7636,Vinicius Garcia,,Daniel Olivier,W,1,Canto choke,New Orleans Open,88KG,SF,2020
+23315,7636,Vinicius Garcia,,Joshua Murdock,W,1,Points,New Orleans Open,ABS,SF,2020
+23981,7636,Vinicius Garcia,,Kyle Raemisch,W,1,Mounted X choke,F2W 153,85KG,SPF,2020
+24175,7636,Vinicius Garcia,,Kevin Vieira,W,1,Hashimoto choke,Pan American,82KG,8F,2020

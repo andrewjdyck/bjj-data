@@ -1,0 +1,40 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10060,7502,Paul Ardila-Ibarra,3122,Luiz Panza,L,0,Kneebar,World Champ.,100KG,4F,2016
+10941,7502,Paul Ardila-Ibarra,3122,Luiz Panza,L,0,Armbar,NoGi Worlds,97KG,SF,2016
+12248,7502,Paul Ardila-Ibarra,543,Rodrigo Cavaca,L,0,Pts: 10x0,Pan American,100KG,SF,2017
+13867,7502,Paul Ardila-Ibarra,3200,Jackson Sousa,L,0,"Pts: 0x0, Pen",ADCC,99KG,E1,2017
+14712,7502,Paul Ardila-Ibarra,9246,Tex Johnson,L,0,Pts: 4x0,NoGi Worlds,97KG,4F,2017
+19125,7502,Paul Ardila-Ibarra,11789,Mason Fowler,L,0,Referee Decision,ADCC WC Trials,99KG,SF,2019
+21835,7502,Paul Ardila-Ibarra,9180,Vinicius Trator,L,0,"Pts: 0x0, Pen",ADCC,99KG,R1,2019
+22684,7502,Paul Ardila-Ibarra,9157,Devhonte Johnson,L,0,Pts: 2x0,NYC Fall NGO,97KG,F,2019
+28934,7502,Paul Ardila-Ibarra,9157,Devhonte Johnson,L,0,Referee Decision,ADCC EC Trials,99KG,SF,2021
+35050,7502,Paul Ardila-Ibarra,9180,Vinicius Trator,L,0,"Pts: 0x0, Pen",ADCC,99KG,R1,2022
+42245,7502,Paul Ardila-Ibarra,,P. Frechowicz,L,0,Pts: 3x2,UWW World NG,92KG,8F,2023
+10056,7502,Paul Ardila-Ibarra,1263,Lucio Rodrigues,W,1,Pts: 2x0,World Champ.,100KG,R1,2016
+10939,7502,Paul Ardila-Ibarra,,Kaue Damasceno,W,1,Pts: 2x0,NoGi Worlds,97KG,4F,2016
+12242,7502,Paul Ardila-Ibarra,,Ciro Oliveira,W,1,Pts: 9x2,Pan American,100KG,8F,2017
+12551,7502,Paul Ardila-Ibarra,,Chris Merino,W,1,Pts: 5x0,ADCC WC Trials,99KG,R1,2017
+12554,7502,Paul Ardila-Ibarra,,J. Fredrich,W,1,Pen,ADCC WC Trials,99KG,8F,2017
+12560,7502,Paul Ardila-Ibarra,,Raphael Davis,W,1,Pts: 2x0,ADCC WC Trials,99KG,4F,2017
+12562,7502,Paul Ardila-Ibarra,926,Roberto Alencar,W,1,Pts: 3x0,ADCC WC Trials,99KG,SF,2017
+12564,7502,Paul Ardila-Ibarra,7922,Nick Schrock,W,1,Pts: 4x0,ADCC WC Trials,99KG,F,2017
+19116,7502,Paul Ardila-Ibarra,,J. Roy,W,1,Cross face,ADCC WC Trials,99KG,R1,2019
+19119,7502,Paul Ardila-Ibarra,,V. Bonato,W,1,Outside heel hook,ADCC WC Trials,99KG,R2,2019
+19122,7502,Paul Ardila-Ibarra,,E. Cruz,W,1,Inside heel hook,ADCC WC Trials,99KG,4F,2019
+19127,7502,Paul Ardila-Ibarra,7922,Nick Schrock,W,1,RNC,ADCC WC Trials,99KG,3RD,2019
+24244,7502,Paul Ardila-Ibarra,,Ryan Aitken,W,1,Referee Decision,NFC All Valley,ABS,4F,2020
+24247,7502,Paul Ardila-Ibarra,,Josh Bowlin,W,1,Pressure,NFC All Valley,ABS,SF,2020
+24248,7502,Paul Ardila-Ibarra,,Daishi Goto,W,1,"Pts: 0x0, Adv",NFC All Valley,ABS,F,2020
+26565,7502,Paul Ardila-Ibarra,,Jae McIntosh,W,1,Inside heel hook,Atlanta NGO,100KG,SF,2021
+26566,7502,Paul Ardila-Ibarra,7831,Diego Ramalho,W,1,"Pts: 0x0, Adv",Atlanta NGO,100KG,F,2021
+28921,7502,Paul Ardila-Ibarra,,Kyle Needham,W,1,Inside heel hook,ADCC EC Trials,99KG,R2,2021
+28927,7502,Paul Ardila-Ibarra,,Brian Guevara,W,1,Pts: 10x0,ADCC EC Trials,99KG,R3,2021
+28931,7502,Paul Ardila-Ibarra,,Michael Schweiger,W,1,RNC,ADCC EC Trials,99KG,4F,2021
+31332,7502,Paul Ardila-Ibarra,,Joe Cashin,W,1,Outside heel hook,ADCC WC Trials,99KG,R1,2022
+31337,7502,Paul Ardila-Ibarra,,Omar Kasdi,W,1,Inside heel hook,ADCC WC Trials,99KG,R2,2022
+31342,7502,Paul Ardila-Ibarra,,Michael Pixley,W,1,Inside heel hook,ADCC WC Trials,99KG,8F,2022
+31347,7502,Paul Ardila-Ibarra,,Stephen Martinez,W,1,Referee Decision,ADCC WC Trials,99KG,4F,2022
+31349,7502,Paul Ardila-Ibarra,12922,Elder Cruz,W,1,Inside heel hook,ADCC WC Trials,99KG,SF,2022
+31350,7502,Paul Ardila-Ibarra,,Mario Gonzalez,W,1,Inside heel hook,ADCC WC Trials,99KG,F,2022
+42246,7502,Paul Ardila-Ibarra,,Zhandos Kuany.,W,1,Pts: 6x2,UWW World NG,92KG,RPC,2023
+42247,7502,Paul Ardila-Ibarra,,Laky Levente,W,1,Kimura,UWW World NG,92KG,3RD,2023

@@ -1,0 +1,69 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+15391,8516,Lucas Valente,7143,Breno Bittencourt,L,0,"Pts: 0x0, Adv",Pan American,76KG,R1,2018
+19394,8516,Lucas Valente,8477,Igor Paiva,L,0,Pts: 2x0,Houston Open,82KG,F,2019
+19590,8516,Lucas Valente,,Athos Miranda,L,0,Pts: 2x0,Pan American,76KG,8F,2019
+20633,8516,Lucas Valente,358,Lucas Lepri,L,0,Referee Decision,World Champ.,76KG,F,2019
+22217,8516,Lucas Valente,5417,Guilherme Augusto,L,0,"Pts: 0x0, Adv",Houston FO,ABS,F,2019
+22688,8516,Lucas Valente,4542,Felipe Cesar,L,0,Points,NYC Fall NGO,ABS,4F,2019
+24182,8516,Lucas Valente,10162,Ronaldo Junior,L,0,Pts: 15x2,Pan American,82KG,SF,2020
+27579,8516,Lucas Valente,10085,Johnatha Alves,L,0,Pts: 2x0,Pan American,76KG,F,2021
+29509,8516,Lucas Valente,9002,Matheus Gabriel,L,0,Referee Decision,World Champ.,76KG,SF,2021
+32157,8516,Lucas Valente,11872,Luiz Paulo,L,0,Pts: 6x0,Brasileiro,76KG,4F,2022
+32925,8516,Lucas Valente,12003,Tye Ruotolo,L,0,Pts: 4x0,World Champ.,76KG,SF,2022
+37599,8516,Lucas Valente,4163,Marcio Andre,L,0,Pts: 4x2,Spyder RTBB,75KG,4F,2023
+40270,8516,Lucas Valente,12287,Pedro Maia,L,0,DQ,World Champ.,76KG,4F,2023
+15147,8516,Lucas Valente,,Rennick Kama,W,1,Armbar,Houston Open,82KG,4F,2018
+15149,8516,Lucas Valente,5636,Manuel Ribamar,W,1,Adv,Houston Open,82KG,SF,2018
+15151,8516,Lucas Valente,7831,Diego Ramalho,W,1,Referee Decision,Houston Open,82KG,F,2018
+16312,8516,Lucas Valente,,N/A,W,1,Triangle,Dallas SPO,76KG,RR,2018
+16313,8516,Lucas Valente,7872,Gilson Nunes,W,1,Triangle,Dallas SPO,76KG,F,2018
+16701,8516,Lucas Valente,5453,Herbert Burns,W,1,Pts: 2x0,American Nat.,76KG,4F,2018
+16702,8516,Lucas Valente,,Piter Frank,W,1,Choke from back,American Nat.,76KG,SF,2018
+16703,8516,Lucas Valente,,Cesar Casamajo,W,1,Armbar,American Nat.,76KG,F,2018
+18413,8516,Lucas Valente,,Ed Ramos,W,1,Points,Grappling GP,76KG,SPF,2018
+18417,8516,Lucas Valente,,Evan Ramsden,W,1,Choke from back,Nashville Fall Open,76KG,SF,2018
+18418,8516,Lucas Valente,,Raphael Cadena,W,1,Estima lock,Nashville Fall Open,76KG,F,2018
+19016,8516,Lucas Valente,921,Rafael Barbosa,W,1,Referee Decision,Kasai Dallas,82KG,SPF,2019
+19397,8516,Lucas Valente,,Rennick Kama,W,1,Straight ankle lock,Houston Open,ABS,4F,2019
+19398,8516,Lucas Valente,474,Alexandre Ceconi,W,1,"Pts: 0x0, Adv",Houston Open,ABS,SF,2019
+20387,8516,Lucas Valente,9465,Endres Barbosa,W,1,Estima lock,Dallas SPO,76KG,SF,2019
+20389,8516,Lucas Valente,7872,Gilson Nunes,W,1,Pts: 4x2,Dallas SPO,76KG,F,2019
+20617,8516,Lucas Valente,9635,Guilherme Rocha,W,1,Choke from back,World Champ.,76KG,R1,2019
+20626,8516,Lucas Valente,6596,Jhonny Loureiro,W,1,"Pts: 2x2, Adv",World Champ.,76KG,R2,2019
+20631,8516,Lucas Valente,7539,Renato Canuto,W,1,"Pts: 0x0, Adv",World Champ.,76KG,SF,2019
+20860,8516,Lucas Valente,4163,Marcio Andre,W,1,Referee Decision,Third Coast,75KG,SPF,2019
+22206,8516,Lucas Valente,6368,Kevin Mahecha,W,1,Botinha,Miami FO,76KG,SF,2019
+22207,8516,Lucas Valente,6366,Brian Mahecha,W,1,Armbar,Miami FO,76KG,F,2019
+22210,8516,Lucas Valente,,Gerson Revoredo,W,1,Katagatame,Houston FO,76KG,F,2019
+22226,8516,Lucas Valente,898,Bill Cooper,W,1,Armbar,Third Coast,82KG,SPF,2019
+22470,8516,Lucas Valente,,Jonathan Criss,W,1,Footlock,SJJIF Worlds,76KG,4F,2019
+22472,8516,Lucas Valente,,Jesse Morales,W,1,Choke,SJJIF Worlds,76KG,SF,2019
+22474,8516,Lucas Valente,9074,Joao Mendes,W,1,Choke from back,SJJIF Worlds,76KG,F,2019
+22685,8516,Lucas Valente,,Alexandre Bueno,W,1,No arm triangle,NYC Fall NGO,O97KG,F,2019
+22687,8516,Lucas Valente,,Daniel Stolfi,W,1,Pts: 12x0,NYC Fall NGO,ABS,R1,2019
+22797,8516,Lucas Valente,,Don Zani,W,1,Inside heel hook,Third Coast III,74KG,SPF,2019
+23308,8516,Lucas Valente,7636,Vinicius Garcia,W,1,Straight ankle lock,New Orleans Open,88KG,F,2020
+23684,8516,Lucas Valente,,Ross Keeping,W,1,Triangle,Houston WO,76KG,SF,2020
+23686,8516,Lucas Valente,9407,Alexandre Molinaro,W,1,Botinha,Houston WO,76KG,F,2020
+23737,8516,Lucas Valente,9002,Matheus Gabriel,W,1,Referee Decision,F2W 142,77KG,SPF,2020
+23811,8516,Lucas Valente,11027,Pedro Rocha,W,1,Points,3CG Kumite III,85KG,SPF,2020
+24173,8516,Lucas Valente,,Vinicius Wong,W,1,Triangle,Pan American,82KG,8F,2020
+24178,8516,Lucas Valente,,Lucas Valle,W,1,"Pts: 2x2, Adv",Pan American,82KG,4F,2020
+25585,8516,Lucas Valente,,Justin Renick,W,1,Straight ankle lock,3CG 6 Absolute,85KG,SPF,2021
+27569,8516,Lucas Valente,12323,Luan Andrei,W,1,Cross Choke,Pan American,76KG,8F,2021
+27574,8516,Lucas Valente,12629,Fabricio Barbarotti,W,1,Botinha,Pan American,76KG,4F,2021
+27577,8516,Lucas Valente,11208,Jackson Nagai,W,1,Pts: 8x2,Pan American,76KG,SF,2021
+29499,8516,Lucas Valente,,Jonas Campos,W,1,Pts: 18x0,World Champ.,76KG,8F,2021
+29507,8516,Lucas Valente,4163,Marcio Andre,W,1,Referee Decision,World Champ.,76KG,4F,2021
+32905,8516,Lucas Valente,12419,Daniel Diniz,W,1,Pts: 2x0,World Champ.,76KG,R1,2022
+32915,8516,Lucas Valente,12652,Marcelo Fausto,W,1,Pts: 4x2,World Champ.,76KG,8F,2022
+32923,8516,Lucas Valente,10352,Leo Silva,W,1,Pts: 4x2,World Champ.,76KG,4F,2022
+36199,8516,Lucas Valente,,Stephen Fritz,W,1,Shin lock,Nashville NGO,73KG,4F,2022
+36201,8516,Lucas Valente,,Cody Orisson,W,1,Pts: 11x2,Nashville NGO,73KG,SF,2022
+36202,8516,Lucas Valente,,Justin Fabac,W,1,Inside heel hook,Nashville NGO,73KG,F,2022
+39483,8516,Lucas Valente,,Wesley Possamai,W,1,Armbar,Brasileiro,76KG,8F,2023
+39485,8516,Lucas Valente,,Lucas Maquine,W,1,"Pts: 0x0, Adv",Brasileiro,76KG,4F,2023
+39489,8516,Lucas Valente,11872,Luiz Paulo,W,1,Straight ankle lock,Brasileiro,76KG,SF,2023
+39491,8516,Lucas Valente,10216,Natan Chueng,W,1,Choke from back,Brasileiro,76KG,F,2023
+40247,8516,Lucas Valente,,Bruno Bressan,W,1,Botinha,World Champ.,76KG,R1,2023
+40262,8516,Lucas Valente,8351,Joao Neto,W,1,Pts: 4x0,World Champ.,76KG,8F,2023

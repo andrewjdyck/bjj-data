@@ -1,0 +1,25 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2239,725,Ryan Hall,419,Leonardo Vieira,L,0,Guillotine,ADCC,66KG,4F,2009
+2535,725,Ryan Hall,1178,Theodoro Canal,L,0,Points,Pan American,70KG,4F,2010
+2670,725,Ryan Hall,179,Rafael Mendes,L,0,Pts: 5x2,World Champ.,70KG,R1,2010
+2877,725,Ryan Hall,,Ed Ramos,L,0,Pts: 12x8,Pan American,70KG,4F,2011
+2903,725,Ryan Hall,188,Augusto Mendes,L,0,Pts: 3x2,World Pro.,65KG,8F,2011
+3020,725,Ryan Hall,188,Augusto Mendes,L,0,Choke from back,World Champ.,70KG,RDS,2011
+3261,725,Ryan Hall,195,Robson Moura,L,0,Pts: 3x0,ADCC,66KG,4F,2011
+3494,725,Ryan Hall,1398,Justin Rader,L,0,Points,Ultimate Abs.,76KG,4F,2012
+2228,725,Ryan Hall,,Jeff Curran,W,1,Points,ADCC,66KG,R1,2009
+2243,725,Ryan Hall,610,Jeff Glover,W,1,Points,ADCC,66KG,3RD,2009
+2478,725,Ryan Hall,,Hermes França,W,1,Points,GQ UFC Expo,ABS,SPF,2010
+2480,725,Ryan Hall,5992,Wilson Reis,W,1,RNC,US Grappling,70KG,NA,2010
+2534,725,Ryan Hall,,Henrique Rezende,W,1,Points,Pan American,70KG,R1,2010
+2600,725,Ryan Hall,,Bruno Freitas,W,1,N/A,Miami Open,70KG,SF,2010
+2601,725,Ryan Hall,,Jason Scully,W,1,N/A,Miami Open,70KG,F,2010
+2771,725,Ryan Hall,,Emanuel Jesus,W,1,RNC,GQ B.f.East,70KG,NA,2010
+2786,725,Ryan Hall,,Unknown,W,1,Toe hold,Gracie Nationals,NA,NA,2010
+2787,725,Ryan Hall,7917,Milton Bastos,W,1,RNC,Gracie Nationals,NA,F,2010
+3016,725,Ryan Hall,,Joao Luz,W,1,Armbar,World Champ.,70KG,RDS,2011
+3223,725,Ryan Hall,,Tetsu Hadario,W,1,Pts: 5x4,ADCC,66KG,R1,2011
+3411,725,Ryan Hall,,Jorge Britto,W,1,Heel hook,UFC Expo,ABS,NA,2011
+3412,725,Ryan Hall,,Diego Sanchez,W,1,Pts: 6x2,UFC Expo,ABS,NA,2010
+3420,725,Ryan Hall,,Jorge Britto,W,1,Heel hook,UFC Expo,ABS,SPF,2011
+3491,725,Ryan Hall,,Ramon Flores,W,1,Heel hook,Ultimate Abs.,76KG,R1,2012

@@ -1,0 +1,41 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10379,7922,Nick Schrock,6156,Tanner Rice,L,0,"Pts: 5x5, Adv",Ch. Summer Open,94KG,F,2016
+10383,7922,Nick Schrock,5655,Lucas Barbosa,L,0,Pts: 5x0,Ch. Summer Open,ABS,SF,2016
+10713,7922,Nick Schrock,477,Tarsis Humphreys,L,0,Pts: 6x0,BJJ Pro LA,94KG,SF,2016
+10935,7922,Nick Schrock,5655,Lucas Barbosa,L,0,Toe hold,NoGi Worlds,92KG,SF,2016
+11696,7922,Nick Schrock,7519,Eliot Kelly,L,0,Pts: 2x0,San Jose Open,100KG,F,2017
+12032,7922,Nick Schrock,5655,Lucas Barbosa,L,0,Referee Decision,FIVE Super League,92KG,F,2017
+12232,7922,Nick Schrock,5423,Matheus Diniz,L,0,Pts: 5x0,Pan American,94KG,4F,2017
+12564,7922,Nick Schrock,7502,Paul Ardila,L,0,Pts: 4x0,ADCC WC Trials,99KG,F,2017
+13187,7922,Nick Schrock,4960,Dimitrius Souza,L,0,Pts: 8x0,World Champ.,94KG,8F,2017
+13435,7922,Nick Schrock,7399,Horlando Monteiro,L,0,Triangle,FIVE Super League,ABS,SPF,2017
+13828,7922,Nick Schrock,4430,Patrick Gaudio,L,0,Pts: 2x0,Grand Slam LA,94KG,4F,2017
+13834,7922,Nick Schrock,,F. Tsushima,L,0,"Pts: 0x0, Adv",Grand Slam LA,94KG,RR,2017
+14265,7922,Nick Schrock,5655,Lucas Barbosa,L,0,Points,SJJIF Worlds,ABS,R1,2017
+15256,7922,Nick Schrock,8514,Fellipe Andrew,L,0,Triangle,Mexico Winter Open,94KG,F,2018
+15422,7922,Nick Schrock,2235,Renato Cardoso,L,0,Triangle,Pan American,88KG,8F,2018
+16332,7922,Nick Schrock,,Angel Cicero,L,0,Triangle,San Diego Open,88KG,SF,2018
+16563,7922,Nick Schrock,5655,Lucas Barbosa,L,0,Pts: 4x0,World Champ.,88KG,8F,2018
+16622,7922,Nick Schrock,1188,Leandro Lo,L,0,DQ,World Champ.,ABS,8F,2018
+18144,7922,Nick Schrock,,Chris Dempsey,L,0,"Pts: 0x0, Pen",ADCC EC Trials,88KG,R1,2018
+19126,7922,Nick Schrock,,Diego Vazquez,L,0,Referee Decision,ADCC WC Trials,99KG,SF,2019
+19127,7922,Nick Schrock,7502,Paul Ardila,L,0,RNC,ADCC WC Trials,99KG,3RD,2019
+41640,7922,Nick Schrock,,Jose Munoz,L,0,Straight ankle lock,Phoenix Open,94KG,4F,2023
+10378,7922,Nick Schrock,,John Gutta,W,1,Choke from back,Ch. Summer Open,94KG,SF,2016
+10711,7922,Nick Schrock,6337,Arnaldo Maidana,W,1,Estima lock,BJJ Pro LA,94KG,4F,2016
+10932,7922,Nick Schrock,6209,Felipe Mota,W,1,"Pts: 0x0, Adv",NoGi Worlds,92KG,4F,2016
+11315,7922,Nick Schrock,6156,Tanner Rice,W,1,"Pts: 0x0, Adv",Long Beach Open,94KG,F,2016
+11319,7922,Nick Schrock,4328,AJ Agazarm,W,1,"Pts: 0x0, Adv",Long Beach Open,ABS,SF,2016
+12025,7922,Nick Schrock,,Ezra Lenon,W,1,Choke from back,FIVE Super League,92KG,4F,2017
+12029,7922,Nick Schrock,6156,Tanner Rice,W,1,Referee Decision,FIVE Super League,92KG,SF,2017
+12228,7922,Nick Schrock,,Ahmed White,W,1,"Pts: 2x2, Adv",Pan American,94KG,8F,2017
+12550,7922,Nick Schrock,,Amin Nash,W,1,Kneebar,ADCC WC Trials,99KG,R1,2017
+12555,7922,Nick Schrock,,Louis Villareal,W,1,Pts: 10x2,ADCC WC Trials,99KG,8F,2017
+12561,7922,Nick Schrock,,JJ Holmes,W,1,Referee Decision,ADCC WC Trials,99KG,4F,2017
+12563,7922,Nick Schrock,,Colin Hart,W,1,Pts: 5x0,ADCC WC Trials,99KG,SF,2017
+14260,7922,Nick Schrock,7831,Diego Ramalho,W,1,Points,SJJIF Worlds,94KG,SF,2017
+15730,7922,Nick Schrock,,Jorge Farfan,W,1,Points,UMW 3,100KG,SPF,2018
+16555,7922,Nick Schrock,,Bruno Emanoel,W,1,"Pts: 0x0, Adv",World Champ.,88KG,R1,2018
+19118,7922,Nick Schrock,,C. Davidson,W,1,Pts: 9x0,ADCC WC Trials,99KG,R1,2019
+19121,7922,Nick Schrock,,L. Juarez,W,1,Armbar,ADCC WC Trials,99KG,R2,2019
+19124,7922,Nick Schrock,,A. Perez,W,1,Pts: 7x0,ADCC WC Trials,99KG,4F,2019

@@ -1,0 +1,42 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+26526,12102,Nick Salles,,Lucas Valle,L,0,Points,Detroit Open,ABS,F,2021
+26659,12102,Nick Salles,9094,Richar Nogueira,L,0,"Pts: 2x2, Adv",American Nats,70KG,SF,2021
+27332,12102,Nick Salles,7664,Johnny Tama,L,0,Pts: 4x0,Charleston SO,76KG,F,2021
+27542,12102,Nick Salles,11963,Diego Sodre,L,0,Pts: 4x2,Pan American,70KG,R1,2021
+28671,12102,Nick Salles,11015,Pablo Lavaselli,L,0,"Pts: 6x6, Adv",Nashville Open,76KG,SF,2021
+29475,12102,Nick Salles,11963,Diego Sodre,L,0,"Pts: 2x2, Adv",World Champ.,70KG,R1,2021
+30471,12102,Nick Salles,12629,Fabricio Barbarotti,L,0,Pts: 4x2,Atlanta WO,76KG,F,2022
+31636,12102,Nick Salles,8632,Thiago Macedo,L,0,Pts: 3x0,Pan American,70KG,4F,2022
+32885,12102,Nick Salles,10408,Israel Sousa,L,0,Pts: 10x8,World Champ.,70KG,R1,2022
+33401,12102,Nick Salles,11015,Pablo Lavaselli,L,0,Pts: 8x0,American Nat.,76KG,SF,2022
+35506,12102,Nick Salles,11512,Lukete Silva,L,0,"Pts: 2x2, Adv",NoGi Pan,67KG,8F,2022
+38373,12102,Nick Salles,11497,Fabricio Andrey,L,0,"Pts: 2x2, Adv",Pan American,70KG,8F,2023
+38799,12102,Nick Salles,,Gustavo Estebam,L,0,Pts: 4x2,Charleston Open,70KG,F,2023
+40238,12102,Nick Salles,9051,Gabriel Sousa,L,0,"Pts: 10x10, Pen",World Champ.,70KG,8F,2023
+25735,12102,Nick Salles,,Edward Allen,W,1,Choke from back,Charleston Open,70KG,SF,2021
+26524,12102,Nick Salles,,Charles McGuire,W,1,Wristlock,Detroit Open,ABS,4F,2021
+26525,12102,Nick Salles,,Thiago Cintra,W,1,Adv,Detroit Open,ABS,SF,2021
+26655,12102,Nick Salles,,Elijah Tagalog,W,1,Pts: 6x4,American Nats,70KG,4F,2021
+26828,12102,Nick Salles,,Dez McDonald,W,1,Triangle,Fury Pro,N/A,SPF,2021
+27327,12102,Nick Salles,,Joao Marco,W,1,Pts: 8x6,Charleston SO,76KG,4F,2021
+27331,12102,Nick Salles,12323,Luan Andrei,W,1,Choke from back,Charleston SO,76KG,SF,2021
+28693,12102,Nick Salles,,Sam Wells,W,1,Inside heel hook,Nashville NGO,73KG,F,2021
+29316,12102,Nick Salles,,Adolfo Suarez,W,1,Pts: 9x0,Miami Pro,120KG,SF,2021
+29317,12102,Nick Salles,,Marco Borges,W,1,Submission,Miami Pro,120KG,F,2021
+30467,12102,Nick Salles,11512,Lukete Silva,W,1,Pts: 9x0,Atlanta WO,76KG,4F,2022
+30469,12102,Nick Salles,9635,Guilherme Rocha,W,1,Triangle,Atlanta WO,76KG,SF,2022
+30502,12102,Nick Salles,,Theodore Sanders,W,1,Choke from back,N. Orleans Open,76KG,SF,2022
+30503,12102,Nick Salles,,Matheus Galvao,W,1,Pts: 4x2,N. Orleans Open,76KG,F,2022
+31625,12102,Nick Salles,11534,Raul Basilio,W,1,Referee Decision,Pan American,70KG,R1,2022
+33358,12102,Nick Salles,,Andrew Pardee,W,1,Armbar,Washington DCO,76KG,RR,2022
+33359,12102,Nick Salles,,Francis Kubach,W,1,Armbar,Washington DCO,76KG,F,2022
+33392,12102,Nick Salles,4328,AJ Agazarm,W,1,Choke from back,American Nat.,76KG,R1,2022
+33397,12102,Nick Salles,,Gabriel Ferreira,W,1,Pts: 6x4,American Nat.,76KG,4F,2022
+35504,12102,Nick Salles,12633,Ismael Santos,W,1,Inside heel hook,NoGi Pan,67KG,R1,2022
+35815,12102,Nick Salles,,Diego Saraiva,W,1,Choke from back,Charleston FO,76KG,F,2022
+35831,12102,Nick Salles,,Colin Alexander,W,1,Inside heel hook,Charleston FNGO,73KG,SF,2022
+35833,12102,Nick Salles,,Ricky Semiglia,W,1,Inside heel hook,Charleston FNGO,73KG,F,2022
+38365,12102,Nick Salles,,Gustavo Esteban,W,1,Armbar,Pan American,70KG,R1,2023
+38797,12102,Nick Salles,,Eduard Lucero,W,1,Triangle,Charleston Open,70KG,SF,2023
+39212,12102,Nick Salles,,Alexander Seaver,W,1,Pts: 16x2,Chicago SPNG,67KG,F,2023
+40225,12102,Nick Salles,8632,Thiago Macedo,W,1,"Pts: 0x0, Pen",World Champ.,70KG,R1,2023

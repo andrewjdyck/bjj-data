@@ -1,0 +1,54 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+797,117,Ronaldo Souza,481,Saulo Ribeiro,L,0,Pts: 3x0,ADCC,88KG,F,2003
+1131,117,Ronaldo Souza,505,Roger Gracie,L,0,Pts: 2x0,European Open,ABS,F,2005
+1235,117,Ronaldo Souza,505,Roger Gracie,L,0,RNC,ADCC,ABS,F,2005
+1255,117,Ronaldo Souza,112,Demian Maia,L,0,Adv,World Cup,88KG,F,2005
+1271,117,Ronaldo Souza,84,Alexandre Ribeiro,L,0,Pts: 2x0,World Cup,O75KG,F,2005
+3321,117,Ronaldo Souza,422,Braulio Estima,L,0,Pts: 3x0,ADCC,ABS,SPF,2011
+755,117,Ronaldo Souza,,Unknown,W,1,Points,ADCC Trials,88KG,NA,2003
+757,117,Ronaldo Souza,86,Fernando Margarida,W,1,Points,ADCC Trials,88KG,NA,2003
+787,117,Ronaldo Souza,6683,Ryan Gracie,W,1,Pts: 5x0,ADCC,88KG,R1,2003
+792,117,Ronaldo Souza,,Matt Lindland,W,1,Armbar,ADCC,88KG,4F,2003
+795,117,Ronaldo Souza,278,Ricardo Almeida,W,1,Pts: 6x0,ADCC,88KG,SF,2003
+976,117,Ronaldo Souza,1820,Delson Heleno,W,1,Pts: 6x0,BB Challenge 3,88KG,SPF,2004
+982,117,Ronaldo Souza,,Gustavo Guimaraes,W,1,Triangle,Golden Cup,82KG,SF,2004
+983,117,Ronaldo Souza,,Thales Leites,W,1,Pts: 4x0,Golden Cup,82KG,F,2004
+1004,117,Ronaldo Souza,5873,Fabio Nascimento,W,1,Choke from back,Pan American,88KG,SF,2004
+1005,117,Ronaldo Souza,422,Braulio Estima,W,1,Flying triangle,Pan American,88KG,F,2004
+1011,117,Ronaldo Souza,,Pascoal Castro,W,1,Armbar,Pan American,ABS,8F,2004
+1012,117,Ronaldo Souza,1403,Fernando Piero,W,1,Wristlock,Pan American,ABS,4F,2004
+1016,117,Ronaldo Souza,,Todd Margolis,W,1,Flying triangle,Pan American,ABS,SF,2004
+1017,117,Ronaldo Souza,437,Fernando Terere,W,1,Pts: 6x0,Pan American,ABS,F,2004
+1019,117,Ronaldo Souza,16,Marcelo Garcia,W,1,Pts: 3x2,Best Fighters,ABS,SPF,2004
+1028,117,Ronaldo Souza,,Robert Fonseca,W,1,Kneebar,Team Nationals,88KG,SF,2004
+1029,117,Ronaldo Souza,5000,Givanildo Santana,W,1,Armbar,Team Nationals,88KG,F,2004
+1040,117,Ronaldo Souza,,Unknown,W,1,Kneebar,Brasileiro,88KG,4F,2004
+1041,117,Ronaldo Souza,5000,Givanildo Santana,W,1,Armbar,Brasileiro,88KG,SF,2004
+1070,117,Ronaldo Souza,505,Roger Gracie,W,1,Pts: 4x2,World Champ.,ABS,F,2004
+1072,117,Ronaldo Souza,,Erik Wanderlei,W,1,Choke,World Cup,ABS,4F,2004
+1074,117,Ronaldo Souza,573,Fabricio Werdum,W,1,Pts: 10x0,World Cup,ABS,SF,2004
+1076,117,Ronaldo Souza,86,Fernando Margarida,W,1,Pts: 7x0,World Cup,ABS,F,2004
+1086,117,Ronaldo Souza,,Jackson Moura,W,1,Triangle,World Cup,88KG,R1,2004
+1087,117,Ronaldo Souza,,Marco Matos,W,1,Armbar,World Cup,88KG,4F,2004
+1089,117,Ronaldo Souza,637,Bruno Bastos,W,1,Wristlock,World Cup,88KG,SF,2004
+1125,117,Ronaldo Souza,,Vitor Nobrega,W,1,Cross choke,European Open,88KG,F,2005
+1129,117,Ronaldo Souza,1263,Lucio Rodrigues,W,1,Pts: 6x0,European Open,ABS,SF,2005
+1139,117,Ronaldo Souza,,Mike Weaver,W,1,Armbar,Budo Challenge,98KG,SF,2005
+1140,117,Ronaldo Souza,,Karl Amaso,W,1,Triangle,Budo Challenge,98KG,F,2005
+1188,117,Ronaldo Souza,,David Bielkheden,W,1,Kimura,ADCC,88KG,R1,2005
+1191,117,Ronaldo Souza,,Robert Sulski,W,1,Triangle,ADCC,88KG,4F,2005
+1193,117,Ronaldo Souza,,Dennis Hallman,W,1,Armbar,ADCC,88KG,SF,2005
+1195,117,Ronaldo Souza,112,Demian Maia,W,1,"Pts: 0x0, Pen",ADCC,88KG,F,2005
+1227,117,Ronaldo Souza,,David Avellan,W,1,Pts: 6x0,ADCC,ABS,R1,2005
+1231,117,Ronaldo Souza,,A. Cacareco,W,1,Kneebar,ADCC,ABS,4F,2005
+1232,117,Ronaldo Souza,16,Marcelo Garcia,W,1,Kimura,ADCC,ABS,SF,2005
+1253,117,Ronaldo Souza,481,Saulo Ribeiro,W,1,Pts: 8x0,World Cup,88KG,SF,2005
+1267,117,Ronaldo Souza,562,Eduardo Telles,W,1,Clock choke,World Cup,O75KG,4F,2005
+1270,117,Ronaldo Souza,,Gabriel Napao,W,1,Pts: 2x0,World Cup,O75KG,SF,2005
+1295,117,Ronaldo Souza,449,Alexandre Souza,W,1,Choke,World Champ.,88KG,R1,2005
+1300,117,Ronaldo Souza,1820,Delson Heleno,W,1,Armbar,World Champ.,88KG,4F,2005
+1302,117,Ronaldo Souza,,Antonio Sergio,W,1,Kimura,World Champ.,88KG,SF,2005
+1303,117,Ronaldo Souza,422,Braulio Estima,W,1,Pts: 6x0,World Champ.,88KG,F,2005
+1324,117,Ronaldo Souza,422,Braulio Estima,W,1,Pts: 9x0,World Champ.,ABS,SF,2005
+1326,117,Ronaldo Souza,505,Roger Gracie,W,1,Pts: 2x0,World Champ.,ABS,F,2005
+2308,117,Ronaldo Souza,378,Robert Drysdale,W,1,Pts: 8x0,ADCC,ABS,SPF,2009

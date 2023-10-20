@@ -1,0 +1,52 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+33697,13379,Cassio Felipe Costa,6631,Igor Schneider,L,0,"Pts: 0x0, Adv",Austin SMO,ABS,4F,2022
+34749,13379,Cassio Felipe Costa,8514,Fellipe Andrew,L,0,Katagatame,JJ Con,100KG,F,2022
+34809,13379,Cassio Felipe Costa,9180,Vinicius Trator,L,0,RNC,JJ Con NG,97KG,SF,2022
+35576,13379,Cassio Felipe Costa,8686,Fellipe Trovo,L,0,Pts: 2x0,NoGi Pan,97KG,SF,2022
+35589,13379,Cassio Felipe Costa,,Mike Perez,L,0,Outside heel hook,NoGi Pan,ABS,8F,2022
+35908,13379,Cassio Felipe Costa,8514,Fellipe Andrew,L,0,Triangle,Houston FO,ABS,SF,2022
+35932,13379,Cassio Felipe Costa,12372,Francisco Cuneo,L,0,Points,Houston FNGO,ABS,SF,2022
+36765,13379,Cassio Felipe Costa,9554,Henrique Cardoso,L,0,Pts: 4x0,NoGi Worlds,ABS,8F,2022
+36893,13379,Cassio Felipe Costa,9554,Henrique Cardoso,L,0,Pts: 4x0,NoGi Worlds,97KG,SF,2022
+37738,13379,Cassio Felipe Costa,,Javier Barter,L,0,Choke from back,Memphis Open,100KG,SF,2023
+37746,13379,Cassio Felipe Costa,12922,Elder Cruz,L,0,"Pts: 0x0, Adv",Memphis Open,ABS,R1,2023
+38462,13379,Cassio Felipe Costa,11693,Erich Munis,L,0,Arm in Ezekiel,Pan American,100KG,F,2023
+40360,13379,Cassio Felipe Costa,11693,Erich Munis,L,0,Choke from back,World Champ.,100KG,SF,2023
+40475,13379,Cassio Felipe Costa,5655,Lucas Barbosa,L,0,Pts: 4x0,World Champ.,ABS,R1,2023
+43191,13379,Cassio Felipe Costa,,Joao Gabriel,L,0,Pts: 2x0,NoGi Pan,ABS,SF,2023
+43288,13379,Cassio Felipe Costa,,Thiago Andrade,L,0,Outside heel hook,NoGi Pan,97KG,4F,2023
+33692,13379,Cassio Felipe Costa,1517,Alexandre Santos,W,1,Armbar,Austin SMO,100KG,F,2022
+34746,13379,Cassio Felipe Costa,,Wildemar Santos,W,1,Adv,JJ Con,100KG,4F,2022
+34747,13379,Cassio Felipe Costa,6337,Arnaldo Maidana,W,1,"Pts: 6x6, Adv",JJ Con,100KG,SF,2022
+35583,13379,Cassio Felipe Costa,,Justin Labac,W,1,Armbar,NoGi Pan,ABS,R1,2022
+35928,13379,Cassio Felipe Costa,,Hunter Newton,W,1,Points,Houston FNGO,ABS,4F,2022
+36759,13379,Cassio Felipe Costa,,Calon Sabino,W,1,Pts: 2x0,NoGi Worlds,ABS,R1,2022
+36885,13379,Cassio Felipe Costa,,Thomas Bracher,W,1,Adv,NoGi Worlds,97KG,8F,2022
+36890,13379,Cassio Felipe Costa,7519,Eliot Kelly,W,1,Triangle,NoGi Worlds,97KG,4F,2022
+37872,13379,Cassio Felipe Costa,12275,Davi Cabral,W,1,Referee Decision,Dallas Open,100KG,SF,2023
+37874,13379,Cassio Felipe Costa,13138,Steffen Banta,W,1,"Pts: 0x0, Pen",Dallas Open,100KG,F,2023
+37910,13379,Cassio Felipe Costa,,Christian Torres,W,1,Armbar,NewBreed,ABS,R1,2023
+37911,13379,Cassio Felipe Costa,,Eric Valdez,W,1,Katagatame,NewBreed,ABS,4F,2023
+37912,13379,Cassio Felipe Costa,,Joshua Richards,W,1,Points,NewBreed,ABS,SF,2023
+37913,13379,Cassio Felipe Costa,,David Evers,W,1,Points,NewBreed,ABS,F,2023
+38455,13379,Cassio Felipe Costa,,Paulo Andre,W,1,Choke from back,Pan American,100KG,R1,2023
+38458,13379,Cassio Felipe Costa,,Chris Passarello,W,1,Katagatame,Pan American,100KG,4F,2023
+38460,13379,Cassio Felipe Costa,12275,Davi Cabral,W,1,Referee Decision,Pan American,100KG,SF,2023
+39196,13379,Cassio Felipe Costa,,Josiah Santos,W,1,Armbar,Chicago SPO,100KG,SF,2023
+39198,13379,Cassio Felipe Costa,,Carlos Tassone,W,1,Triangle,Chicago SPO,100KG,F,2023
+39208,13379,Cassio Felipe Costa,,Carlos Tassone,W,1,Points,Chicago SPO,ABS,4F,2023
+39210,13379,Cassio Felipe Costa,,Charles Murdock,W,1,Mounted X choke,Chicago SPO,ABS,SF,2023
+39883,13379,Cassio Felipe Costa,,Marcos Goulart,W,1,Armbar,Houston Open,100KG,F,2023
+40352,13379,Cassio Felipe Costa,11939,Jackson Douglas,W,1,Choke from back,World Champ.,100KG,8F,2023
+40359,13379,Cassio Felipe Costa,8686,Fellipe Trovo,W,1,Mounted X choke,World Champ.,100KG,4F,2023
+41154,13379,Cassio Felipe Costa,7831,Diego Ramalho,W,1,Referee Decision,American Nats,100KG,SF,2023
+41155,13379,Cassio Felipe Costa,10252,Fabio Alano,W,1,Choke from back,American Nats,100KG,F,2023
+41502,13379,Cassio Felipe Costa,11939,Jackson Douglas,W,1,Choke from back,Austin SMO,100KG,F,2023
+41506,13379,Cassio Felipe Costa,,Marlon Tanaka,W,1,Straight ankle lock,Austin SMO,ABS,4F,2023
+41507,13379,Cassio Felipe Costa,,Clay Mayfield,W,1,Points,Austin SMO,ABS,SF,2023
+41509,13379,Cassio Felipe Costa,,Lucas Valle,W,1,Points,Austin SMO,ABS,F,2023
+41700,13379,Cassio Felipe Costa,,Mark Herman,W,1,Armbar,Dallas SMO,100KG,RR,2023
+41702,13379,Cassio Felipe Costa,,Marlon Tanaka,W,1,Triangle,Dallas SMO,100KG,F,2023
+41707,13379,Cassio Felipe Costa,9931,Arthur Detanico,W,1,Choke from back,Dallas SMO,ABS,4F,2023
+43178,13379,Cassio Felipe Costa,,Calon Sabino,W,1,Pts: 7x0,NoGi Pan,ABS,8F,2023
+43186,13379,Cassio Felipe Costa,12069,Bruno Matias,W,1,Katagatame,NoGi Pan,ABS,4F,2023

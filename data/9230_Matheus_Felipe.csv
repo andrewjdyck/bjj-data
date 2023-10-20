@@ -1,0 +1,56 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+15580,9230,Matheus Felipe,9515,Seif Houmine,L,0,Referee Decision,ACBJJ Poland,O95KG,F,2018
+17604,9230,Matheus Felipe,4521,Erberth Santos,L,0,"Pts: 0x0, Pen",Grand Slam LA,110KG,4F,2018
+17609,9230,Matheus Felipe,6156,Tanner Rice,L,0,"Pts: 0x0, Adv",Grand Slam LA,110KG,3RD,2018
+20060,9230,Matheus Felipe,2403,Joao Rocha,L,0,Pts: 4x2,WP BR Qualifier,110KG,F,2019
+20885,9230,Matheus Felipe,,Wilson Almeida,L,0,Points,Fortaleza Open,ABS,4F,2019
+23043,9230,Matheus Felipe,10509,Mathias Luna,L,0,Pts: 2x0,European Open,ABS,R2,2020
+23151,9230,Matheus Felipe,6631,Igor Schneider,L,0,Pts: 4x0,European Open,O100KG,SF,2020
+23466,9230,Matheus Felipe,9515,Seif Houmine,L,0,Referee Decision,Munich Open,O100KG,F,2020
+26903,9230,Matheus Felipe,,Khasan Varando,L,0,Pts: 1x0,Asia Cont. Pro,120KG,4F,2021
+27731,9230,Matheus Felipe,11499,Roosevelt Sousa,L,0,Pts: 3x0,Grand Slam MSK,120KG,RR,2021
+29234,9230,Matheus Felipe,11693,Erich Munis,L,0,Pts: 2x1,World Pro,94KG,SF,2021
+29429,9230,Matheus Felipe,8514,Fellipe Andrew,L,0,Pts: 5x0,World Champ.,ABS,8F,2021
+29576,9230,Matheus Felipe,11693,Erich Munis,L,0,Pts: 8x2,World Champ.,100KG,8F,2021
+29708,9230,Matheus Felipe,9554,Henrique Cardoso,L,0,Choke from back,Teams Cup,N/A,RR,2021
+29730,9230,Matheus Felipe,11746,Alex Munis,D,0.5,---,Teams Cup,N/A,RR,2021
+30620,9230,Matheus Felipe,12055,Yatan Bueno,L,0,Pts: 2x0,European Open,O100KG,4F,2022
+30648,9230,Matheus Felipe,8514,Fellipe Andrew,L,0,Triangle,European Open,ABS,SF,2022
+31157,9230,Matheus Felipe,,Bjorn Wallat,L,0,Referee Decision,Grand Slam LDN,120KG,4F,2022
+41481,9230,Matheus Felipe,11384,Andre Porfirio,L,0,EBI/OT,Emperor OTM,ABS,R1,2023
+15577,9230,Matheus Felipe,,Artur Pujszo,W,1,"Pts: 0x0, Pen",ACBJJ Poland,O95KG,4F,2018
+15579,9230,Matheus Felipe,,Wesley Lopes,W,1,Pts: 2x0,ACBJJ Poland,O95KG,SF,2018
+18439,9230,Matheus Felipe,,Orisvaldo Martins,W,1,Katagatame,Copa CB,O100KG,F,2018
+18440,9230,Matheus Felipe,,Orisvaldo Martins,W,1,Katagatame,Copa CB,ABS,SF,2018
+18441,9230,Matheus Felipe,,R. Rodrigues,W,1,Botinha,Copa CB,ABS,F,2018
+18442,9230,Matheus Felipe,,William Martins,W,1,Points,Nordeste Open,ABS,SF,2018
+18443,9230,Matheus Felipe,,Adson Salles,W,1,Points,Nordeste Open,O100KG,SF,2018
+19825,9230,Matheus Felipe,,Breno Maia,W,1,Pts: 15x0,Rio FO,100KG,4F,2019
+19826,9230,Matheus Felipe,,Joao Soares,W,1,Pts: 5x0,Rio FO,100KG,SF,2019
+19827,9230,Matheus Felipe,,Thiago Andrade,W,1,"Pts: 0x0, Adv",Rio FO,100KG,F,2019
+20059,9230,Matheus Felipe,,Fabio Martins,W,1,DQ,WP BR Qualifier,110KG,SF,2019
+20882,9230,Matheus Felipe,,Herico Hesley,W,1,Points,Fortaleza Open,O100KG,F,2019
+20883,9230,Matheus Felipe,,Fellipe Anselmo,W,1,Points,Fortaleza Open,ABS,R1,2019
+23032,9230,Matheus Felipe,9741,Pedro Elias,W,1,"Pts: 4x4, Pen",European Open,ABS,R1,2020
+23146,9230,Matheus Felipe,6156,Tanner Rice,W,1,"Pts: 0x0, Adv",European Open,O100KG,4F,2020
+26907,9230,Matheus Felipe,,Khasan Varando,W,1,Pts: 9x0,Asia Cont. Pro,120KG,RPC,2021
+26908,9230,Matheus Felipe,,Sultan Al Ali,W,1,Armbar,Asia Cont. Pro,120KG,3RD,2021
+27729,9230,Matheus Felipe,,Walter Santos,W,1,Pts: 1x0,Grand Slam MSK,120KG,RR,2021
+29149,9230,Matheus Felipe,11685,Anderson Munis,W,1,Pts: 2x1,BRA Qualifiers,94KG,RR,2021
+29152,9230,Matheus Felipe,,Francisco Lima,W,1,Violin armlock,BRA Qualifiers,94KG,RR,2021
+29153,9230,Matheus Felipe,2235,Renato Cardoso,W,1,Referee Decision,BRA Qualifiers,94KG,RR,2021
+29232,9230,Matheus Felipe,10176,Bruno Lima,W,1,Referee Decision,World Pro,94KG,4F,2021
+29240,9230,Matheus Felipe,,Ariel Delgado,W,1,Submission,World Pro,94KG,RPC,2021
+29241,9230,Matheus Felipe,,Arsen Shapiev,W,1,Pts: 4x0,World Pro,94KG,3RD,2021
+29425,9230,Matheus Felipe,,Jae McIntosh,W,1,Triangle,World Champ.,ABS,R1,2021
+29570,9230,Matheus Felipe,,Diogo Oliveira,W,1,Pts: 2x0,World Champ.,100KG,R1,2021
+29693,9230,Matheus Felipe,,Lucas Giraud,W,1,Verbal tap,Teams Cup,N/A,RR,2021
+29717,9230,Matheus Felipe,,Ithalo Lopes,D,0.5,---,Teams Cup,N/A,RR,2021
+30616,9230,Matheus Felipe,,Wesley Caixet,W,1,Pts: 2x0,European Open,O100KG,R1,2022
+30635,9230,Matheus Felipe,,M. Bayraktar,W,1,Pts: 17x0,European Open,ABS,R1,2022
+30641,9230,Matheus Felipe,,Almog Britsch,W,1,Footlock,European Open,ABS,8F,2022
+30646,9230,Matheus Felipe,,Shane Fishman,W,1,Pts: 13x0,European Open,ABS,4F,2022
+31161,9230,Matheus Felipe,,Andrzej Iwat,W,1,Pts: 3x1,Grand Slam LDN,120KG,RPC,2022
+31162,9230,Matheus Felipe,,Bjorn Wallat,W,1,Submission,Grand Slam LDN,120KG,3RD,2022
+41485,9230,Matheus Felipe,,Idris Aliev,W,1,EBI/OT,Emperor OTM,O99KG,SF,2023
+41486,9230,Matheus Felipe,,Emad Alsumait,W,1,EBI/OT,Emperor OTM,O99KG,F,2023

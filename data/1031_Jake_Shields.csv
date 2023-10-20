@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1181,1031,Jake Shields,919,Pablo Popovitch,L,0,Pts: 5x0,ADCC,77KG,SF,2005
+1475,1031,Jake Shields,16,Marcelo Garcia,L,0,Guillotine,PSL: X-Mission,ABS,SPF,2006
+1483,1031,Jake Shields,481,Saulo Ribeiro,L,0,Pts: 2x1,LA Sub-X,ABS,SPF,2006
+4375,1031,Jake Shields,1188,Leandro Lo,D,0.5,---,World Expo,ABS,SPF,2013
+9411,1031,Jake Shields,4328,AJ Agazarm,D,0.5,---,Polaris 3,82KG,SPF,2016
+13861,1031,Jake Shields,8494,Abdurakhman Bilarov,L,0,Pts: 5x0,ADCC,99KG,E1,2017
+15168,1031,Jake Shields,8346,Craig Jones,L,0,Inside heel hook,Polaris 6,84KG,SPF,2018
+19545,1031,Jake Shields,576,Rafael Lovato,L,0,Referee Decision,Polaris 9,92KG,SPF,2019
+22800,1031,Jake Shields,320,Romulo Barral,L,0,Referee Decision,Third Coast III,86KG,SPF,2019
+23515,1031,Jake Shields,6531,Richie Martinez,L,0,EBI/OT,SUG,ABS,SPF,2020
+23739,1031,Jake Shields,,Brent Primus,L,0,EBI/OT,SUG 14,94KG,SPF,2020
+28721,1031,Jake Shields,7539,Renato Canuto,L,0,Armbar,3CG Underdogs,84KG,SF,2021
+1172,1031,Jake Shields,,Diego Sanchez,W,1,Pts: 6x0,ADCC,77KG,R1,2005
+1177,1031,Jake Shields,,Cameron Earle,W,1,Pts: 3x0,ADCC,77KG,4F,2005
+1183,1031,Jake Shields,292,Leonardo Santos,W,1,RNC,ADCC,77KG,3PLC,2005
+6217,1031,Jake Shields,1824,Roberto Satoshi,D,0.5,---,Metamoris 5,ABS,SPF,2014
+10394,1031,Jake Shields,,Lyoto Machida,W,1,Heel hook,F2W + MP,ABS,SPF,2016
+10599,1031,Jake Shields,,Chris Lytle,W,1,EBI/OT,SUG 3,ABS,SPF,2016
+12984,1031,Jake Shields,5258,Dillon Danis,W,1,EBI/OT,SUG 4,88KG,SPF,2017
+13661,1031,Jake Shields,,Daniel Strauss,W,1,Referee Decision,Polaris 5,90KG,SPF,2017
+14188,1031,Jake Shields,484,Murilo Santana,W,1,Referee Decision,F2W 51,88KG,SPF,2017
+14559,1031,Jake Shields,446,Gilbert Burns,W,1,EBI/OT,SUG 6,ABS,SPF,2017
+15165,1031,Jake Shields,9758,Kit Dale,W,1,Referee Decision,F2W 62,ABS,SPF,2018
+20466,1031,Jake Shields,,Austin Vanderford,W,1,EBI/OT,SUG 8,88KG,SPF,2019
+28715,1031,Jake Shields,,Eric Alequin,W,1,Points,3CG Underdogs,84KG,R1,2021
+28719,1031,Jake Shields,,Pat Downey,W,1,Referee Decision,3CG Underdogs,84KG,4F,2021

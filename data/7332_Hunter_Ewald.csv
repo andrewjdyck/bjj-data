@@ -1,0 +1,13 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10542,7332,Hunter Ewald,5649,Garry Tonon,L,0,Injury,Grappling Pro,77KG,4F,2016
+17275,7332,Hunter Ewald,,Lucas Valle,L,0,Points,Las Vegas Open,82KG,4F,2018
+18176,7332,Hunter Ewald,4465,Andris Brunovskis,L,0,Reverse omoplata,Long Beach Open,82KG,SF,2018
+19994,7332,Hunter Ewald,4235,Victor Silverio,L,0,Points,San Jose Open,82KG,4F,2019
+20451,7332,Hunter Ewald,4655,Michael Liera,L,0,Choke,San Diego Open,82KG,SF,2019
+21129,7332,Hunter Ewald,9876,Alef Brito,L,0,Canto choke,Portland SMO,ABS,F,2019
+18174,7332,Hunter Ewald,,Sean Downie,W,1,Points,Long Beach Open,82KG,4F,2018
+20942,7332,Hunter Ewald,,Hugo Valdemar,W,1,"Pts: 0x0, Adv",American Nats,88KG,4F,2019
+20945,7332,Hunter Ewald,7636,Vinicius Garcia,W,1,"Pts: 8x8, Adv",American Nats,88KG,SF,2019
+21128,7332,Hunter Ewald,,Daniel Speirn,W,1,Points,Portland SMO,ABS,SF,2019
+37771,7332,Hunter Ewald,,Brian Matsumoto,W,1,Kneebar,WSJJ Hawaii,ABS,SF,2023
+37772,7332,Hunter Ewald,,Jeremiah Nicolas,W,1,Footlock,WSJJ Hawaii,ABS,F,2023

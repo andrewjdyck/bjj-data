@@ -1,0 +1,67 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+550,9,Marcio Cruz,,Sean Alvarez,L,0,Pen,ADCC,O99KG,4F,2001
+564,9,Marcio Cruz,88,JJ Machado,L,0,Footlock,ADCC,ABS,4F,2001
+574,9,Marcio Cruz,437,Fernando Terere,L,0,Pts: 6x5,Brasileiro,ABS,F,2001
+603,9,Marcio Cruz,3099,Marcio Corleta,L,0,"Pts: 2x2, Adv",World Champ.,O100KG,SF,2001
+826,9,Marcio Cruz,1369,Dean Lister,L,0,Pts: 3x0,ADCC,ABS,SF,2003
+828,9,Marcio Cruz,573,Fabricio Werdum,L,0,Pts: 6x0,ADCC,ABS,3PLC,2003
+1216,9,Marcio Cruz,,Gabriel Napao,L,0,Calf slicer,ADCC,O99KG,SF,2005
+1329,9,Marcio Cruz,86,Fernando Margarida,L,0,Armbar,Yamasaki Cup,ABS,SPF,2005
+1479,9,Marcio Cruz,10430,Gabriel Gonzaga,L,0,Points,World Cup,O100KG,F,2006
+1521,9,Marcio Cruz,144,Andre Galvao,L,0,Adv,Team Nationals,O88KG,F,2006
+1721,9,Marcio Cruz,70,Rolles Gracie,L,0,Points,ADCC,O99KG,SF,2007
+2277,9,Marcio Cruz,733,Vinny Magalhaes,L,0,Flying armbar,ADCC,99KG,4F,2009
+2730,9,Marcio Cruz,543,Rodrigo Cavaca,L,0,Triangle,World Champ.,O100KG,4F,2010
+3147,9,Marcio Cruz,543,Rodrigo Cavaca,L,0,Submission,World Champ.,O100KG,SF,2011
+3903,9,Marcio Cruz,224,Roberto Abreu,L,0,Pts: 12x4,World Champ.,ABS,R2,2012
+4145,9,Marcio Cruz,984,Marcus Almeida,L,0,Pts: 4x2,World Champ.,O100KG,SF,2012
+7598,9,Marcio Cruz,84,Alexandre Ribeiro,L,0,Referee Decision,UFC Expo,ABS,SPF,2015
+13757,9,Marcio Cruz,2403,Joao Rocha,L,0,"Pts: 0x0, Adv",IBJJF Pro GP,ABS,4F,2017
+548,9,Marcio Cruz,,Van Arsdale,W,1,Kneebar,ADCC,O99KG,R1,2001
+556,9,Marcio Cruz,6167,Ricco Rodriguez,W,1,Armbar,ADCC,O99KG,3RD,2001
+560,9,Marcio Cruz,1204,Roberto Traven,W,1,Points,ADCC,ABS,R1,2001
+573,9,Marcio Cruz,,Carlos Alberto,W,1,N/A,Brasileiro,O100KG,F,2001
+580,9,Marcio Cruz,3099,Marcio Corleta,W,1,Triangle,World Champ.,ABS,4F,2001
+623,9,Marcio Cruz,437,Fernando Terere,W,1,Pts: 2x0,Manaus Challenge,ABS,SPF,2002
+687,9,Marcio Cruz,,Unknown,W,1,Points,World Champ.,O100KG,4F,2002
+689,9,Marcio Cruz,,Felipe Pederneiras,W,1,Choke,World Champ.,O100KG,SF,2002
+690,9,Marcio Cruz,693,Luiz Guilherme,W,1,Knee ride,World Champ.,O100KG,F,2002
+693,9,Marcio Cruz,,Marcus Valle,W,1,Armbar,World Champ.,ABS,R1,2002
+701,9,Marcio Cruz,1297,Roger Coelho,W,1,Triangle armbar,World Champ.,ABS,4F,2002
+704,9,Marcio Cruz,84,Alexandre Ribeiro,W,1,Pts: 2x0,World Champ.,ABS,SF,2002
+705,9,Marcio Cruz,481,Saulo Ribeiro,W,1,Pts: 2x0,World Champ.,ABS,F,2002
+721,9,Marcio Cruz,562,Eduardo Telles,W,1,Pts: 10x2,Team Nationals,O88KG,F,2002
+743,9,Marcio Cruz,,Alex Monsalve,W,1,Kneebar,Team Nationals,O88KG,4F,2003
+758,9,Marcio Cruz,,Rodrigo Artilheiro,W,1,RNC,ADCC Trials,O99KG,SF,2003
+759,9,Marcio Cruz,5016,Fabiano Scherner,W,1,N/A,ADCC Trials,O99KG,F,2003
+809,9,Marcio Cruz,,Mike Whitehead,W,1,Points,ADCC,O99KG,R1,2003
+811,9,Marcio Cruz,,Jeff Monson,W,1,Points,ADCC,O99KG,4F,2003
+813,9,Marcio Cruz,,Alex Negao,W,1,Guillotine,ADCC,O99KG,SF,2003
+815,9,Marcio Cruz,573,Fabricio Werdum,W,1,Points,ADCC,O99KG,F,2003
+816,9,Marcio Cruz,,Ilir Lafiti,W,1,Points,ADCC,ABS,R1,2003
+822,9,Marcio Cruz,16,Marcelo Garcia,W,1,Pts: 6x0,ADCC,ABS,4F,2003
+838,9,Marcio Cruz,,Beto Ferreira,W,1,Armbar,World Champ.,ABS,R1,2003
+840,9,Marcio Cruz,,Leo. Montenegro,W,1,Triangle,World Champ.,ABS,R2,2003
+844,9,Marcio Cruz,573,Fabricio Werdum,W,1,Pts: 7x0,World Champ.,ABS,SF,2003
+845,9,Marcio Cruz,505,Roger Gracie,W,1,Pts: 3x0,World Champ.,ABS,F,2003
+902,9,Marcio Cruz,,Robert Handley,W,1,Pts: 15x0,Brazil vs USA,O100KG,SPF,2003
+917,9,Marcio Cruz,,Thiago Cruz,W,1,Armbar,Pan American,O100KG,SF,2003
+919,9,Marcio Cruz,,Todd Margolis,W,1,Knee on belly,Pan American,ABS,4F,2003
+922,9,Marcio Cruz,,Joao Silva,W,1,Armbar,Pan American,ABS,SF,2003
+924,9,Marcio Cruz,573,Fabricio Werdum,W,1,Armbar,Pan American,ABS,F,2003
+1018,9,Marcio Cruz,84,Alexandre Ribeiro,W,1,Referee Decision,Best Fighters,ABS,SPF,2004
+1147,9,Marcio Cruz,84,Alexandre Ribeiro,W,1,Pts: 2x0,Pan American,ABS,F,2005
+1207,9,Marcio Cruz,,Miodrag Petkovic,W,1,RNC,ADCC,O99KG,R1,2005
+1213,9,Marcio Cruz,1736,Daniel Simoes,W,1,Pts: 2x0,ADCC,O99KG,4F,2005
+1518,9,Marcio Cruz,,Unknown,W,1,Choke,Team Nationals,O88KG,4F,2006
+1718,9,Marcio Cruz,,J. Pietlainen,W,1,Armbar,ADCC,O99KG,R1,2007
+1719,9,Marcio Cruz,5702,Marcos Oliveira,W,1,Points,ADCC,O99KG,4F,2007
+1722,9,Marcio Cruz,,Darren Andy,W,1,Points,ADCC,O99KG,3PLC,2007
+2272,9,Marcio Cruz,1104,Anthony Perosh,W,1,Points,ADCC,99KG,R1,2009
+3096,9,Marcio Cruz,,Tom Florence,W,1,Triangle,World Champ.,O100KG,RDS,2011
+3130,9,Marcio Cruz,,Pega Leve,W,1,Choke,World Champ.,O100KG,4F,2011
+3893,9,Marcio Cruz,,Daniel Richards,W,1,Triangle,World Champ.,ABS,R2,2012
+4136,9,Marcio Cruz,,Stephen Hall,W,1,N/A,World Champ.,O100KG,R2,2012
+4142,9,Marcio Cruz,911,Antonio Peinado,W,1,Triangle,World Champ.,O100KG,4F,2012
+5138,9,Marcio Cruz,1534,R. Evangelista,W,1,Pen,IBJJF Pro League,O94KG,SF,2013
+5140,9,Marcio Cruz,5726,Gustavo Pires,W,1,Armbar,IBJJF Pro League,O94KG,F,2013

@@ -1,0 +1,45 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25788,11889,Keven Carrasco,,Bebeto Oliveira,L,0,"Pts: 4x4, Adv",Houston Open,64KG,SF,2021
+26532,11889,Keven Carrasco,,Bebeto Oliveira,L,0,Pts: 6x4,Atlanta Open,64KG,SF,2021
+26557,11889,Keven Carrasco,12356,Damion Oranday,L,0,Inside heel hook,Atlanta NGO,67KG,F,2021
+27221,11889,Keven Carrasco,,Bebeto Oliveira,L,0,Pts: 7x0,Grand Slam MIA,62KG,SF,2021
+27535,11889,Keven Carrasco,8305,Pedro Dias,L,0,"Pts: 0x0, Adv",Pan American,64KG,4F,2021
+29461,11889,Keven Carrasco,10840,Diego Oliveira,L,0,Pts: 2x0,World Champ.,64KG,8F,2021
+31616,11889,Keven Carrasco,11423,Meyram Maquine,L,0,Choke from back,Pan American,64KG,4F,2022
+32875,11889,Keven Carrasco,10840,Diego Oliveira,L,0,Pts: 7x0,World Champ.,64KG,8F,2022
+33383,11889,Keven Carrasco,,Bebeto Oliveira,L,0,Referee Decision,American Nat.,64KG,SF,2022
+33885,11889,Keven Carrasco,11093,Emilio Hernandez,L,0,Outside heel hook,Phoenix NGO,67KG,SF,2022
+35496,11889,Keven Carrasco,10928,Pedro Serrano,L,0,Pts: 9x0,NoGi Pan,61KG,4F,2022
+36171,11889,Keven Carrasco,,Mourice Ramirez,L,0,Referee Decision,WNO,65KG,SPF,2022
+37590,11889,Keven Carrasco,7002,Jamil Hill-Taylor,L,0,"Pts: 0x0, Pen",Spyder RTBB,65KG,4F,2023
+38357,11889,Keven Carrasco,11823,Diogo Reis,L,0,Pts: 2x0,Pan American,64KG,4F,2023
+40211,11889,Keven Carrasco,11423,Meyram Maquine,L,0,RNC,World Champ.,64KG,8F,2023
+25785,11889,Keven Carrasco,12303,Marcus Beddor,W,1,Triangle,Houston Open,64KG,4F,2021
+26530,11889,Keven Carrasco,,Matt Pressey,W,1,Armbar,Atlanta Open,64KG,4F,2021
+26555,11889,Keven Carrasco,,Luan Silva,W,1,Triangle armbar,Atlanta NGO,67KG,SF,2021
+26983,11889,Keven Carrasco,,Daniel Rodriguez,W,1,Referee Decision,F2W 178,65KG,SPF,2021
+27036,11889,Keven Carrasco,,Joao Soeiro,W,1,Pts: 6x4,Phoenix Open,64KG,SF,2021
+27219,11889,Keven Carrasco,,Jairo Alejandro,W,1,Pts: 5x0,Grand Slam MIA,62KG,4F,2021
+27225,11889,Keven Carrasco,12487,Gabriel Gaudio,W,1,Pts: 3x2,Grand Slam MIA,62KG,RPC,2021
+27533,11889,Keven Carrasco,7405,Eduardo Barboza,W,1,Choke,Pan American,64KG,8F,2021
+28724,11889,Keven Carrasco,12247,Jordan Vaisman,W,1,Points,3CG Underdogs,64KG,SPF,2021
+29457,11889,Keven Carrasco,,Takuto Kako,W,1,Armbar,World Champ.,64KG,R1,2021
+30767,11889,Keven Carrasco,12247,Jordan Vaisman,W,1,Referee Decision,Dallas Open,64KG,4F,2022
+30770,11889,Keven Carrasco,,Bebeto Oliveira,W,1,Pts: 2x0,Dallas Open,64KG,SF,2022
+30771,11889,Keven Carrasco,6043,Lucas Pinheiro,W,1,Pts: 2x0,Dallas Open,64KG,F,2022
+30933,11889,Keven Carrasco,,Suraj Budhram,W,1,Pts: 2x0,LA Open,64KG,4F,2022
+31610,11889,Keven Carrasco,12247,Jordan Vaisman,W,1,Referee Decision,Pan American,64KG,R2,2022
+32868,11889,Keven Carrasco,,Vinny Saenz,W,1,Points,World Champ.,64KG,R1,2022
+33381,11889,Keven Carrasco,,Huthayfah Penney,W,1,Triangle,American Nat.,64KG,4F,2022
+33850,11889,Keven Carrasco,,Andre Honda,W,1,Submission,Phoenix Open,70KG,4F,2022
+33852,11889,Keven Carrasco,11093,Emilio Hernandez,W,1,Pts: 8x4,Phoenix Open,70KG,SF,2022
+34701,11889,Keven Carrasco,,Vinny Saenz,W,1,Pts: 2x0,JJ Con,64KG,4F,2022
+34704,11889,Keven Carrasco,8305,Pedro Dias,W,1,Referee Decision,JJ Con,64KG,SF,2022
+34705,11889,Keven Carrasco,,Huthayfah Penney,W,1,"Pts: 2x2, Adv",JJ Con,64KG,F,2022
+37857,11889,Keven Carrasco,,Leonardo Souza,W,1,N/A,Dallas Open,64KG,4F,2023
+37858,11889,Keven Carrasco,13326,Hiryu Niwa,W,1,Referee Decision,Dallas Open,64KG,SF,2023
+37860,11889,Keven Carrasco,13341,Zach Kaina,W,1,"Pts: 2x2, Adv",Dallas Open,64KG,F,2023
+37927,11889,Keven Carrasco,,Joao Soeiro,W,1,Pts: 6x2,LA Open,64KG,SF,2023
+37928,11889,Keven Carrasco,13341,Zach Kaina,W,1,Pts: 2x0,LA Open,64KG,F,2023
+38346,11889,Keven Carrasco,8305,Pedro Dias,W,1,Referee Decision,Pan American,64KG,R1,2023
+40202,11889,Keven Carrasco,,Lucas Feitosa,W,1,Pts: 7x2,World Champ.,64KG,R1,2023

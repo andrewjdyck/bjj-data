@@ -1,0 +1,24 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27431,13021,Gabriel de Oliveira Haddad,11709,Wallace Costa,L,0,Pts: 4x3,Sul Americano,O100KG,R1,2021
+30147,13021,Gabriel de Oliveira Haddad,8195,Gutemberg Pereira,L,0,Omoplata,Sul Brasileiro,O100KG,SF,2022
+32455,13021,Gabriel de Oliveira Haddad,4521,Erberth Santos,L,0,Referee Decision,SD Open,O100KG,F,2022
+33438,13021,Gabriel de Oliveira Haddad,8514,Fellipe Andrew,L,0,Pts: 2x0,American Nat.,ABS,SF,2022
+33871,13021,Gabriel de Oliveira Haddad,12203,Austin Baker,L,0,Kimura,Phoenix Open,O100KG,F,2022
+34763,13021,Gabriel de Oliveira Haddad,8514,Fellipe Andrew,L,0,Katagatame,JJ Con,ABS,F,2022
+38466,13021,Gabriel de Oliveira Haddad,12055,Yatan Bueno,L,0,"Pts: 0x0, Adv",Pan American,O100KG,4F,2023
+40367,13021,Gabriel de Oliveira Haddad,5417,Guilherme Augusto,L,0,Pts: 3x0,World Champ.,O100KG,8F,2023
+41158,13021,Gabriel de Oliveira Haddad,9361,Guilherme Cordiviola,L,0,Pts: 3x0,American Nats,O100KG,4F,2023
+30145,13021,Gabriel de Oliveira Haddad,,Pablo Almeida,W,1,Cachecol choke,Sul Brasileiro,O100KG,4F,2022
+32481,13021,Gabriel de Oliveira Haddad,,Antonio Zuazo,W,1,Points,SD NGO,O97KG,F,2022
+33425,13021,Gabriel de Oliveira Haddad,,Marcus Salerno,W,1,Cachecol choke,American Nat.,O100KG,4F,2022
+33426,13021,Gabriel de Oliveira Haddad,12203,Austin Baker,W,1,Referee Decision,American Nat.,O100KG,SF,2022
+33428,13021,Gabriel de Oliveira Haddad,,Levi Moura,W,1,Cachecol choke,American Nat.,O100KG,F,2022
+33433,13021,Gabriel de Oliveira Haddad,,Joshua Guerra,W,1,Cachecol choke,American Nat.,ABS,R1,2022
+33436,13021,Gabriel de Oliveira Haddad,,Marlon Tanaka,W,1,Cachecol choke,American Nat.,ABS,4F,2022
+33870,13021,Gabriel de Oliveira Haddad,11939,Jackson Douglas,W,1,Pts: 7x4,Phoenix Open,O100KG,RR,2022
+33898,13021,Gabriel de Oliveira Haddad,12203,Austin Baker,W,1,Pts: 2x0,Phoenix NGO,O97KG,SF,2022
+33899,13021,Gabriel de Oliveira Haddad,,Joshua Guerra,W,1,Pts: 7x0,Phoenix NGO,O97KG,F,2022
+34750,13021,Gabriel de Oliveira Haddad,,Rehan Silva,W,1,Cachecol choke,JJ Con,O100KG,SF,2022
+34752,13021,Gabriel de Oliveira Haddad,,Joshua Guerra,W,1,Cachecol choke,JJ Con,O100KG,F,2022
+34759,13021,Gabriel de Oliveira Haddad,,Vitor Peres,W,1,Referee Decision,JJ Con,ABS,4F,2022
+34762,13021,Gabriel de Oliveira Haddad,,Wildemar Santos,W,1,Pts: 11x0,JJ Con,ABS,SF,2022

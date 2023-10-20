@@ -1,0 +1,153 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+7672,9246,Aaron Johnson,,Quentin Rosensweig,L,0,Inside heel hook,Kakuto 5,ABS,SPF,2015
+8190,9246,Aaron Johnson,,Neiman Gracie,L,0,RNC,NoGi Pan Ams,94KG,SF,2015
+8785,9246,Aaron Johnson,6531,Richie Martinez,L,0,Heel hook,Kakuto Challenge,ABS,SF,2015
+9059,9246,Aaron Johnson,1272,Leo Nogueira,L,0,Points,Atlanta W. Open,94KG,SF,2016
+9110,9246,Aaron Johnson,7579,Romulo Azevedo,L,0,N/A,UAEJJF NYC Pro,94KG,SF,2016
+9116,9246,Aaron Johnson,3083,Abraham Marte,L,0,Cross choke,UAEJJF NYC Pro,HWABS,4F,2016
+9373,9246,Aaron Johnson,144,Andre Galvao,L,0,Choke,Pan American,ABS,R2,2016
+9500,9246,Aaron Johnson,,Joao Soares,L,0,Triangle,Boston Spring O.,100KG,F,2016
+10087,9246,Aaron Johnson,425,Bernardo Faria,L,0,Triangle armbar,World Champ.,ABS,R2,2016
+10120,9246,Aaron Johnson,2403,Joao Rocha,L,0,Choke from back,BJJ Tour - CT,ABS,SF,2016
+10274,9246,Aaron Johnson,4789,Marcos Tinoco,L,0,Points,NY Summer Open,ABS,4F,2016
+10489,9246,Aaron Johnson,,Mike Hillebrand,L,0,Inside heel hook,EBI 8,84KG,R1,2016
+10684,9246,Aaron Johnson,5258,Dillon Danis,L,0,Arm in guillotine,NoGi Pan Ams,ABS,SF,2016
+10944,9246,Aaron Johnson,1740,Yuri Simoes,L,0,Pts: 19x0,NoGi Worlds,O97KG,SF,2016
+11671,9246,Aaron Johnson,1272,Leo Nogueira,L,0,Points,UAEJJF Orlando,110KG,F,2017
+11687,9246,Aaron Johnson,7704,Helton Jose,L,0,Pts: 10x0,Atlanta W. Open,ABS,SF,2017
+11947,9246,Aaron Johnson,6354,Jonathan Satava,L,0,Points,UAEJJF NY Pro,U110KG,4F,2017
+12001,9246,Aaron Johnson,3009,Keenan Cornelius,L,0,Points,LA National Pro,U110KG,F,2017
+12224,9246,Aaron Johnson,6156,Tanner Rice,L,0,Pts: 4x2,Pan American,94KG,8F,2017
+12416,9246,Aaron Johnson,4248,Gianni Grippo,L,0,Points,NY Spring No-Gi,ABS,F,2017
+13021,9246,Aaron Johnson,2403,Joao Rocha,L,0,Botinha,World Champ.,ABS,R1,2017
+13190,9246,Aaron Johnson,1188,Leandro Lo,L,0,Brabo choke,World Champ.,94KG,8F,2017
+13426,9246,Aaron Johnson,5842,Mahamed Aly,L,0,Calf slicer,NY S. No-Gi Open,O97KG,F,2017
+13434,9246,Aaron Johnson,2226,DJ Jackson,L,0,Points,NY S. No-Gi Open,ABS,SF,2017
+13647,9246,Aaron Johnson,6550,Gordon Ryan,L,0,Reverse triangle,Grappling Ind.,ABS,SF,2017
+14552,9246,Aaron Johnson,8346,Craig Jones,L,0,Inside heel hook,EBI 14,ABS,SF,2017
+14715,9246,Aaron Johnson,644,Joao Assis,L,0,Pts: 2x0,NoGi Worlds,97KG,SF,2017
+14727,9246,Aaron Johnson,3009,Keenan Cornelius,L,0,RNC,NoGi Worlds,ABS,R1,2017
+14985,9246,Aaron Johnson,6592,Dany Gerard,L,0,"Pts: 0x0, Adv",US National Pro,110KG,SF,2018
+15219,9246,Aaron Johnson,8729,Matt Leighton,L,0,Points,Continental Pro,110KG,RR,2018
+15310,9246,Aaron Johnson,6156,Tanner Rice,L,0,DQ,Marianas EP,O85KG,F,2018
+15439,9246,Aaron Johnson,6156,Tanner Rice,L,0,Pts: 7x2,Pan American,94KG,4F,2018
+16311,9246,Aaron Johnson,8729,Matt Leighton,L,0,Triangle armbar,F2W 73,93KG,SPF,2018
+16362,9246,Aaron Johnson,8686,Fellipe Trovo,L,0,Pts: 4x2,ACB North America,95KG,4F,2018
+16375,9246,Aaron Johnson,4235,Victor Silverio,L,0,Referee Decision,ACB North America,ABS,8F,2018
+17389,9246,Aaron Johnson,8634,Rafael Vasconcelos,L,0,DQ,Washington NGO,97KG,F,2018
+17396,9246,Aaron Johnson,1003,Diogo Sampaio,L,0,DQ,No Gi Pan Am.,ABS,8F,2018
+18691,9246,Aaron Johnson,6805,Max Gimenis,L,0,Pts: 6x0,NoGi Worlds,O97KG,4F,2018
+18714,9246,Aaron Johnson,1740,Yuri Simoes,L,0,Pts: 5x0,NoGi Worlds,ABS,R3,2018
+18864,9246,Aaron Johnson,3009,Keenan Cornelius,L,0,Pts: 34x0,Coast Grappling,ABS,SPF,2019
+19650,9246,Aaron Johnson,4430,Patrick Gaudio,L,0,Pts: 15x0,Pan American,94KG,4F,2019
+19804,9246,Aaron Johnson,8974,Kaynan Duarte,L,0,Pts: 6x1,Kasai 5,93KG,F,2019
+20702,9246,Aaron Johnson,5842,Mahamed Aly,L,0,Choke,World Champ.,100KG,R2,2019
+20973,9246,Aaron Johnson,8346,Craig Jones,L,0,RNC,KASAI SS Florida,92KG,SPF,2019
+21256,9246,Aaron Johnson,4310,Tim Spriggs,L,0,Referee Decision,F2W 119,100KG,SPF,2019
+21607,9246,Aaron Johnson,6805,Max Gimenis,L,0,Pts: 11x0,No Gi Pan Am.,O97KG,F,2019
+21832,9246,Aaron Johnson,1827,James Puopolo,L,0,Pts: 3x0,ADCC,99KG,R1,2019
+21911,9246,Aaron Johnson,984,Marcus Almeida,L,0,Pts: 3x0,ADCC,ABS,4F,2019
+22505,9246,Aaron Johnson,10705,Kyle Boehm,L,0,EBI/OT,KOTM 7,ABS,F,2019
+22537,9246,Aaron Johnson,10705,Kyle Boehm,L,0,EBI/OT,BJJ Fanatics,ABS,SF,2019
+22816,9246,Aaron Johnson,10159,Victor Hugo,L,0,Triangle armbar,NoGi Worlds,ABS,R1,2019
+22901,9246,Aaron Johnson,,Freddy Vosgrone,L,0,Referee Decision,NoGi Worlds,97KG,4F,2019
+23452,9246,Aaron Johnson,6550,Gordon Ryan,L,0,Katagatame,Sub Stars,N/A,SPF,2020
+24053,9246,Aaron Johnson,8634,Rafael Vasconcelos,L,0,Pts: 3x0,Grand Slam MIA,94KG,SF,2020
+24059,9246,Aaron Johnson,8686,Fellipe Trovo,L,0,Triangle,Grand Slam MIA,94KG,3RD,2020
+24091,9246,Aaron Johnson,10220,Paulo Gabriel,L,0,Pts: 6x4,Pan American,ABS,R1,2020
+24209,9246,Aaron Johnson,5417,Guilherme Augusto,L,0,Arm in Ezekiel,Pan American,100KG,4F,2020
+24246,9246,Aaron Johnson,,Daishi Goto,L,0,DQ,NFC All Valley,ABS,SF,2020
+24316,9246,Aaron Johnson,11771,William Tackett,L,0,Katagatame,Subversiv 4,ABS,4F,2020
+24502,9246,Aaron Johnson,8974,Kaynan Duarte,L,0,Armbar,No Gi Pan Am.,97KG,F,2020
+25102,9246,Aaron Johnson,6805,Max Gimenis,L,0,Referee Decision,F2W 163,ABS,SPF,2021
+25467,9246,Aaron Johnson,9180,Vinicius Trator,L,0,Pts: 5x0,Orlando NGO,O91KG,F,2021
+25578,9246,Aaron Johnson,8974,Kaynan Duarte,L,0,Points,3CG 6 Absolute,ABS,4F,2021
+26036,9246,Aaron Johnson,9002,Matheus Gabriel,L,0,Pts: 2x0,N.Orleans NGO,ABS,4F,2021
+26179,9246,Aaron Johnson,10159,Victor Hugo,L,0,Pts: 2x2,NoGi Pan Am.,O97KG,F,2021
+26910,9246,Aaron Johnson,8357,Gustavo Batista,L,0,Referee Decision,F2W 176,N/A,SPF,2021
+27892,9246,Aaron Johnson,4310,Tim Spriggs,L,0,Referee Decision,WNO Champ.,ABS,SF,2021
+7673,9246,Aaron Johnson,,Vitor Schlosser,W,1,Toe hold,NY Summer Open,94KG,SF,2015
+7674,9246,Aaron Johnson,,Ricardo Bastos,W,1,Straight ankle lock,NY Summer Open,94KG,F,2015
+8857,9246,Aaron Johnson,,Joseph Cashin,W,1,Points,Grappling Ind.,ABS,SF,2016
+8858,9246,Aaron Johnson,6550,Gordon Ryan,W,1,Points,Grappling Ind.,ABS,F,2016
+9109,9246,Aaron Johnson,,Wellington Peroto,W,1,Straight ankle lock,UAEJJF NYC Pro,94KG,4F,2016
+9499,9246,Aaron Johnson,,Lincoln Pereira,W,1,Choke from back,Boston Spring O.,100KG,SF,2016
+10074,9246,Aaron Johnson,,Choi Choi,W,1,"Pts: 0x0, Adv",World Champ.,ABS,R1,2016
+10678,9246,Aaron Johnson,,Leo Davila,W,1,Straight ankle lock,NoGi Pan Ams,O97KG,F,2016
+10681,9246,Aaron Johnson,,Samir Abdolkader,W,1,Flying armbar,NoGi Pan Ams,ABS,4F,2016
+10943,9246,Aaron Johnson,7639,Eliot Marshall,W,1,Toe hold,NoGi Worlds,O97KG,4F,2016
+11940,9246,Aaron Johnson,,Shaun Dufree,W,1,Toe hold,UAEJJF NY Pro,110KG,SF,2017
+12000,9246,Aaron Johnson,,William Nyman,W,1,Submission,LA National Pro,U110KG,SF,2017
+12399,9246,Aaron Johnson,,Daniel Richards,W,1,Points,NY Spring Open,O100KG,SF,2017
+12400,9246,Aaron Johnson,,Christian Simmerling,W,1,Points,NY Spring Open,O100KG,F,2017
+12414,9246,Aaron Johnson,,Joao Paulo,W,1,Points,NY Spring No-Gi,ABS,SF,2017
+13182,9246,Aaron Johnson,,Josh Bowlin,W,1,Pts: 7x6,World Champ.,94KG,R1,2017
+13240,9246,Aaron Johnson,,Kaliffa Oliviera,W,1,Referee Decision,F2W 36,94KG,SPF,2017
+13550,9246,Aaron Johnson,,Kory Acchione,W,1,Referee Decision,F2W 43,N/A,SPF,2017
+13984,9246,Aaron Johnson,,Leo Davilla,W,1,Armbar,Atlanta SM NGO,97KG,F,2017
+13985,9246,Aaron Johnson,,Taniel Santos,W,1,Straight ankle lock,Atlanta SM NGO,ABS,F,2017
+14025,9246,Aaron Johnson,,Oleksandr Karliychuk,W,1,Straight ankle lock,No Gi Pan Am.,O97KG,SF,2017
+14027,9246,Aaron Johnson,8729,Matt Leighton,W,1,Referee Decision,No Gi Pan Am.,O97KG,F,2017
+14544,9246,Aaron Johnson,,Matt Kirchwhem,W,1,EBI/OT,EBI 14,ABS,R1,2017
+14549,9246,Aaron Johnson,,A. Kimler,W,1,Armbar,EBI 14,ABS,4F,2017
+14712,9246,Aaron Johnson,7502,Paul Ardila,W,1,Pts: 4x0,NoGi Worlds,97KG,4F,2017
+14987,9246,Aaron Johnson,,Vitor Schlosser,W,1,Choke from back,US National Pro,110KG,3RD,2018
+15059,9246,Aaron Johnson,,Gilvan Costa,W,1,Straight ankle lock,Atlanta W. Open,94KG,SF,2018
+15060,9246,Aaron Johnson,7743,Inacio Neto,W,1,Kneebar,Atlanta W. Open,94KG,F,2018
+15217,9246,Aaron Johnson,,Kenneth Brown,W,1,Pts: 4x2,Continental Pro,110KG,RR,2018
+15309,9246,Aaron Johnson,,Frisco DeLeon,W,1,Adv,Marianas EP,O85KG,SF,2018
+15346,9246,Aaron Johnson,5930,Rodrigo Freitas,W,1,Calf slicer,Pan American,ABS,R1,2018
+15354,9246,Aaron Johnson,6156,Tanner Rice,W,1,Kneebar,Pan American,ABS,R2,2018
+15435,9246,Aaron Johnson,,Wellington Peroto,W,1,Straight ankle lock,Pan American,94KG,8F,2018
+15972,9246,Aaron Johnson,,Thiago Jiuliani,W,1,Points,NY Spring Open,100KG,SF,2018
+15973,9246,Aaron Johnson,,Nicholas Penzer,W,1,Straight ankle lock,NY Spring Open,100KG,F,2018
+17454,9246,Aaron Johnson,,Roberto Torralbas,W,1,Pts: 2x0,No Gi Pan Am.,97KG,SF,2018
+17455,9246,Aaron Johnson,3200,Jackson Sousa,W,1,Footlock,No Gi Pan Am.,97KG,F,2018
+18047,9246,Aaron Johnson,5324,Tom deBlass,W,1,Referee Decision,F2W 91,ABS,SPF,2018
+18156,9246,Aaron Johnson,,Riley Mccormick,W,1,Reverse triangle,ADCC EC Trials,O99KG,R1,2018
+18158,9246,Aaron Johnson,,JeQuan Williamson,W,1,Triangle armbar,ADCC EC Trials,O99KG,4F,2018
+18159,9246,Aaron Johnson,,Andrew Tevay,W,1,Kneebar,ADCC EC Trials,O99KG,SF,2018
+18162,9246,Aaron Johnson,,Hudson Taylor,W,1,Kneebar,ADCC EC Trials,O99KG,F,2018
+18414,9246,Aaron Johnson,,Kevin Gallager,W,1,Points,Gamblers Inv.,ABS,SPF,2018
+18688,9246,Aaron Johnson,,Satoshi Ishii,W,1,Triangle,NoGi Worlds,O97KG,R1,2018
+18698,9246,Aaron Johnson,,Ben Hodgkinson,W,1,Straight ankle lock,NoGi Worlds,ABS,R1,2018
+18713,9246,Aaron Johnson,9668,David Garmo,W,1,Pts: 10x2,NoGi Worlds,ABS,R2,2018
+19017,9246,Aaron Johnson,331,Ricardo Abreu,W,1,Pts: 1x0,Kasai Dallas,94KG,SPF,2019
+19348,9246,Aaron Johnson,,Gustavo Andrade,W,1,Straight ankle lock,Portland Open,ABS,SF,2019
+19350,9246,Aaron Johnson,10468,Nisar Loynab,W,1,Straight ankle lock,Portland Open,ABS,F,2019
+19399,9246,Aaron Johnson,8729,Matt Leighton,W,1,Straight ankle lock,SubSpectrum,ABS,SPF,2019
+19648,9246,Aaron Johnson,,M Sturua,W,1,Choke from back,Pan American,94KG,8F,2019
+19792,9246,Aaron Johnson,3200,Jackson Sousa,W,1,Inside heel hook,Kasai 5,93KG,RR,2019
+19793,9246,Aaron Johnson,10501,Valdir Araujo,D,0.5,---,Kasai 5,93KG,RR,2019
+19795,9246,Aaron Johnson,2416,Felipe Pena,W,1,Inside heel hook,Kasai 5,93KG,RR,2019
+20695,9246,Aaron Johnson,,Lucasz Gustaw,W,1,Mounted choke,World Champ.,100KG,R1,2019
+21605,9246,Aaron Johnson,,Paulo Brasil,W,1,Submission,No Gi Pan Am.,O97KG,SF,2019
+21616,9246,Aaron Johnson,,Briean Beaury,W,1,Armlock,No Gi Pan Am.,ABS,8F,2019
+21620,9246,Aaron Johnson,,Todd Mueckenheim,W,1,Kimura,No Gi Pan Am.,ABS,4F,2019
+21904,9246,Aaron Johnson,10588,Jon Blank,W,1,Straight ankle lock,ADCC,ABS,R1,2019
+22496,9246,Aaron Johnson,,Viktor Vaughn,W,1,Heel hook,KOTM 7,ABS,R1,2019
+22500,9246,Aaron Johnson,9338,Guybson Sa,W,1,Heel hook,KOTM 7,ABS,4F,2019
+22504,9246,Aaron Johnson,,Quentin Rosenzweig,W,1,Kneebar,KOTM 7,ABS,SF,2019
+22525,9246,Aaron Johnson,12491,Keith Krikorian,W,1,EBI/OT,BJJ Fanatics,ABS,R1,2019
+22531,9246,Aaron Johnson,,William Vincent,W,1,Straignt ankle lock,BJJ Fanatics,ABS,R2,2019
+22535,9246,Aaron Johnson,11771,William Tackett,W,1,EBI/OT,BJJ Fanatics,ABS,4F,2019
+23444,9246,Aaron Johnson,10638,Angelo Claiborne,W,1,Straight ankle lock,Miami WO,ABS,SF,2020
+23894,9246,Aaron Johnson,,Michael Egley,W,1,Straight ankle lock,SUBVERSIV 3,ABS,R1,2020
+23931,9246,Aaron Johnson,576,Rafael Lovato,W,1,Referee Decision,F2W 151,126KG,SPF,2020
+24051,9246,Aaron Johnson,,Bruno Assis,W,1,Pts: 2x1,Grand Slam MIA,94KG,4F,2020
+24057,9246,Aaron Johnson,,Eric Schlosser,W,1,DQ,Grand Slam MIA,94KG,RPC,2020
+24245,9246,Aaron Johnson,,Don Scozzari,W,1,Kneebar,NFC All Valley,ABS,4F,2020
+24305,9246,Aaron Johnson,8686,Fellipe Trovo,W,1,Referee Decision,Subversiv 4,ABS,R1,2020
+24501,9246,Aaron Johnson,6337,Arnaldo Maidana,W,1,Straight ankle lock,No Gi Pan Am.,97KG,SF,2020
+25041,9246,Aaron Johnson,6337,Arnaldo Maidana,W,1,Violin armlock,F2W 161,94KG,SPF,2021
+25239,9246,Aaron Johnson,11939,Jackson Douglas,W,1,Violin armlock,Dallas NGO,O97KG,RR,2021
+25241,9246,Aaron Johnson,12378,Joe Dierkhising,W,1,"Pts: 2x2, Adv",Dallas NGO,O97KG,F,2021
+25246,9246,Aaron Johnson,9559,Rida Haisam,W,1,"Pts: 0x0, Adv",Dallas NGO,ABS,4F,2021
+25251,9246,Aaron Johnson,9668,David Garmo,W,1,Kneebar,Dallas NGO,ABS,F,2021
+25465,9246,Aaron Johnson,,Alexandre Bueno,W,1,"Pts: 0x0, Adv",Orlando NGO,O91KG,SF,2021
+25471,9246,Aaron Johnson,,Damon Morgan,W,1,Kneebar,Orlando NGO,ABS,4F,2021
+25476,9246,Aaron Johnson,,Pedro Palhares,W,1,N/A,Orlando NGO,ABS,SF,2021
+25477,9246,Aaron Johnson,11797,Giancarlo Bodoni,W,1,Outside heel hook,Orlando NGO,ABS,F,2021
+26177,9246,Aaron Johnson,,John Hansen,W,1,Estima lock,NoGi Pan Am.,O97KG,SF,2021
+26613,9246,Aaron Johnson,5655,Lucas Barbosa,W,1,Referee Decision,F2W 174,N/A,SPF,2021
+27890,9246,Aaron Johnson,2452,Orlando Sanchez,W,1,DQ,WNO Champ.,ABS,4F,2021

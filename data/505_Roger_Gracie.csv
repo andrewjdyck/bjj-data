@@ -1,0 +1,85 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+806,505,Roger Gracie,,Olav Einemo,L,0,Pts: 2x0,ADCC,99KG,SF,2003
+845,505,Roger Gracie,9,Marcio Cruz,L,0,Pts: 3x0,World Champ.,ABS,F,2003
+1070,505,Roger Gracie,117,Ronaldo Souza,L,0,Pts: 4x2,World Champ.,ABS,F,2004
+1326,505,Roger Gracie,117,Ronaldo Souza,L,0,Pts: 2x0,World Champ.,ABS,F,2005
+1379,505,Roger Gracie,84,Alexandre Ribeiro,L,0,"Pts: 0x0, Adv",Pan American,100KG,F,2006
+1473,505,Roger Gracie,84,Alexandre Ribeiro,L,0,"Pts: 4x4, Adv",World Champ.,ABS,F,2006
+1991,505,Roger Gracie,84,Alexandre Ribeiro,L,0,Pts: 4x2,World Champ.,ABS,F,2008
+4148,505,Roger Gracie,984,Marcus Almeida,D,0.5,---,Metamoris,ABS,SPF,2012
+741,505,Roger Gracie,112,Demian Maia,W,1,Points,Team Nationals,O88KG,4F,2003
+801,505,Roger Gracie,232,Mario Sperry,W,1,Pts: 5x0,ADCC,99KG,R1,2003
+803,505,Roger Gracie,1817,Rigan Machado,W,1,Points,ADCC,99KG,4F,2003
+808,505,Roger Gracie,84,Alexandre Ribeiro,W,1,Pts: 3x0,ADCC,99KG,3PLC,2003
+839,505,Roger Gracie,,Adriano Camolesi,W,1,Triangle,World Champ.,ABS,R1,2003
+841,505,Roger Gracie,,Marcos Valle,W,1,Armbar,World Champ.,ABS,R2,2003
+843,505,Roger Gracie,3099,Marcio Corleta,W,1,Referee Decision,World Champ.,ABS,4F,2003
+1058,505,Roger Gracie,,Ricardo Franco,W,1,Submission,World Champ.,100KG,R1,2004
+1059,505,Roger Gracie,384,Roberto Tozi,W,1,Points,World Champ.,100KG,SF,2004
+1060,505,Roger Gracie,559,Rodrigo Comprido,W,1,RNC,World Champ.,100KG,F,2004
+1065,505,Roger Gracie,,Leo Ramos,W,1,Submission,World Champ.,ABS,R1,2004
+1066,505,Roger Gracie,,Roberto Agnese,W,1,Cross choke,World Champ.,ABS,R2,2004
+1067,505,Roger Gracie,16,Marcelo Garcia,W,1,Pts: 8x2,World Champ.,ABS,4F,2004
+1069,505,Roger Gracie,437,Fernando Terere,W,1,Cross choke,World Champ.,ABS,SF,2004
+1128,505,Roger Gracie,224,Roberto Abreu,W,1,Cross choke,European Open,ABS,4F,2005
+1130,505,Roger Gracie,1403,Fernando Piero,W,1,Straight armlock,European Open,ABS,SF,2005
+1131,505,Roger Gracie,117,Ronaldo Souza,W,1,Pts: 2x0,European Open,ABS,F,2005
+1200,505,Roger Gracie,562,Eduardo Telles,W,1,Armbar,ADCC,99KG,4F,2005
+1203,505,Roger Gracie,84,Alexandre Ribeiro,W,1,RNC,ADCC,99KG,SF,2005
+1205,505,Roger Gracie,,A. Cacareco,W,1,Verbal tap,ADCC,99KG,F,2005
+1206,505,Roger Gracie,,Justin Garcia,W,1,RNC,ADCC,99KG,R1,2005
+1221,505,Roger Gracie,1319,Shinya Aoki,W,1,Botinha,ADCC,ABS,R1,2005
+1229,505,Roger Gracie,573,Fabricio Werdum,W,1,RNC,ADCC,ABS,4F,2005
+1233,505,Roger Gracie,84,Alexandre Ribeiro,W,1,RNC,ADCC,ABS,SF,2005
+1235,505,Roger Gracie,117,Ronaldo Souza,W,1,RNC,ADCC,ABS,F,2005
+1308,505,Roger Gracie,537,Thiago Borges,W,1,Armbar,World Champ.,100KG,R1,2005
+1314,505,Roger Gracie,86,Fernando Margarida,W,1,Choke from back,World Champ.,100KG,SF,2005
+1315,505,Roger Gracie,84,Alexandre Ribeiro,W,1,Pts: 12x2,World Champ.,100KG,F,2005
+1320,505,Roger Gracie,1403,Fernando Piero,W,1,Armbar,World Champ.,ABS,R1,2005
+1321,505,Roger Gracie,,Robert Oliveira,W,1,Choke,World Champ.,ABS,R2,2005
+1323,505,Roger Gracie,,Fernando Marques,W,1,Armbar,World Champ.,ABS,4F,2005
+1325,505,Roger Gracie,481,Saulo Ribeiro,W,1,Cross choke,World Champ.,ABS,SF,2005
+1382,505,Roger Gracie,,T. Gaia,W,1,Submission,Pan American,ABS,R1,2006
+1389,505,Roger Gracie,733,Vinny Magalhaes,W,1,Choke from back,Pan American,ABS,4F,2006
+1392,505,Roger Gracie,576,Rafael Lovato,W,1,Armbar,Pan American,ABS,SF,2006
+1394,505,Roger Gracie,84,Alexandre Ribeiro,W,1,Triangle,Pan American,ABS,F,2006
+1452,505,Roger Gracie,,Pedro Schmall,W,1,Choke from back,World Champ.,100KG,4F,2006
+1454,505,Roger Gracie,559,Rodrigo Comprido,W,1,Armbar,World Champ.,100KG,SF,2006
+1455,505,Roger Gracie,378,Robert Drysdale,W,1,Mounted X choke,World Champ.,100KG,F,2006
+1463,505,Roger Gracie,,Zumbi Machado,W,1,Choke from back,World Champ.,ABS,R1,2006
+1468,505,Roger Gracie,543,Rodrigo Cavaca,W,1,Cross choke,World Champ.,ABS,4F,2006
+1472,505,Roger Gracie,16,Marcelo Garcia,W,1,Choke from back,World Champ.,ABS,SF,2006
+1724,505,Roger Gracie,,Jon Einemo,W,1,Pts: 5x0,ADCC,ABS,SPF,2007
+1765,505,Roger Gracie,,Tim Carpenter,W,1,Armbar,World Champ.,100KG,R1,2007
+1766,505,Roger Gracie,,Adriano Camolesi,W,1,Choke from back,World Champ.,100KG,4F,2007
+1767,505,Roger Gracie,559,Rodrigo Comprido,W,1,Cross choke,World Champ.,100KG,SF,2007
+1769,505,Roger Gracie,378,Robert Drysdale,W,1,Choke from back,World Champ.,100KG,F,2007
+1773,505,Roger Gracie,543,Rodrigo Cavaca,W,1,Armbar,World Champ.,ABS,R1,2007
+1780,505,Roger Gracie,86,Fernando Margarida,W,1,Pts: 9x5,World Champ.,ABS,4F,2007
+1784,505,Roger Gracie,378,Robert Drysdale,W,1,Submission,World Champ.,ABS,SF,2007
+1785,505,Roger Gracie,320,Romulo Barral,W,1,Choke from back,World Champ.,ABS,F,2007
+1969,505,Roger Gracie,543,Rodrigo Cavaca,W,1,Submission,World Champ.,O100KG,R1,2008
+1973,505,Roger Gracie,6170,Luigi Mondelli,W,1,Choke from back,World Champ.,O100KG,4F,2008
+1974,505,Roger Gracie,562,Eduardo Telles,W,1,"Pts: 0x0, Adv",World Champ.,O100KG,SF,2008
+1975,505,Roger Gracie,886,Leonardo Leite,W,1,Cross choke,World Champ.,O100KG,F,2008
+1976,505,Roger Gracie,,Paul Halme,W,1,Choke,World Champ.,ABS,R1,2008
+1985,505,Roger Gracie,7171,Tiago Pereira,W,1,Choke,World Champ.,ABS,R2,2008
+1988,505,Roger Gracie,449,Alexandre Souza,W,1,Cross choke,World Champ.,ABS,4F,2008
+1990,505,Roger Gracie,144,Andre Galvao,W,1,Pts: 12x0,World Champ.,ABS,SF,2008
+2363,505,Roger Gracie,637,Bruno Bastos,W,1,Cross choke,World Champ.,100KG,4F,2009
+2364,505,Roger Gracie,425,Bernardo Faria,W,1,Ezekiel,World Champ.,100KG,SF,2009
+2365,505,Roger Gracie,331,Ricardo Abreu,W,1,Ezekiel,World Champ.,100KG,F,2009
+2376,505,Roger Gracie,576,Rafael Lovato,W,1,Cross choke,World Champ.,ABS,4F,2009
+2377,505,Roger Gracie,410,Claudio Calasans,W,1,Cross choke,World Champ.,ABS,SF,2009
+2378,505,Roger Gracie,320,Romulo Barral,W,1,Cross choke,World Champ.,ABS,F,2009
+2718,505,Roger Gracie,,Luiz Fernando,W,1,Choke from back,World Champ.,100KG,R1,2010
+2721,505,Roger Gracie,637,Bruno Bastos,W,1,Choke from back,World Champ.,100KG,4F,2010
+2723,505,Roger Gracie,,Walter Vidal,W,1,Choke from back,World Champ.,100KG,4F,2010
+2724,505,Roger Gracie,637,Bruno Bastos,W,1,Choke from back,World Champ.,100KG,SF,2010
+2726,505,Roger Gracie,331,Ricardo Abreu,W,1,Pts: 13x2,World Champ.,100KG,F,2010
+2739,505,Roger Gracie,,Frost Murphy,W,1,Choke from back,World Champ.,ABS,R1,2010
+2740,505,Roger Gracie,,Diego Herzog,W,1,Choke from back,World Champ.,ABS,R2,2010
+2745,505,Roger Gracie,477,Tarsis Humphreys,W,1,Choke from back,World Champ.,ABS,4F,2010
+2748,505,Roger Gracie,543,Rodrigo Cavaca,W,1,Choke from back,World Champ.,ABS,SF,2010
+7597,505,Roger Gracie,559,Rodrigo Comprido,W,1,Armbar,UFC Expo,ABS,SPF,2015
+13499,505,Roger Gracie,984,Marcus Almeida,W,1,Choke from back,Gracie Pro,ABS,SPF,2017

@@ -1,0 +1,49 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+23988,12303,Marcus Beddor,11794,Willis Nunes,L,0,Points,Oklahoma Open,64KG,F,2020
+23998,12303,Marcus Beddor,10159,Victor Hugo,L,0,Mounted X choke,Oklahoma Open,ABS,4F,2020
+24123,12303,Marcus Beddor,,Elijah Tagalog,L,0,Pts: 6x4,Pan American,64KG,4F,2020
+24547,12303,Marcus Beddor,,Bebeto Oliveira,L,0,Triangle,American Nats,64KG,F,2020
+25435,12303,Marcus Beddor,,Alexander Lane,L,0,Choke,Orlando Open,ABS,R1,2021
+25448,12303,Marcus Beddor,8814,Adam Benayoun,L,0,Points,Orlando NGO,67KG,4F,2021
+25470,12303,Marcus Beddor,,Francisco Cueno,L,0,Points,Orlando NGO,ABS,R1,2021
+25785,12303,Marcus Beddor,11889,Keven Carrasco,L,0,Triangle,Houston Open,64KG,4F,2021
+26083,12303,Marcus Beddor,,Bebeto Oliveira,L,0,Pts: 12x2,NoGi Pan Am.,61KG,4F,2021
+26304,12303,Marcus Beddor,,Fernando Soares,L,0,Pts: 6x4,Indianapolis Open,70KG,F,2021
+26311,12303,Marcus Beddor,,Saar Shemesh,L,0,Triangle,Indianapolis Open,ABS,4F,2021
+26320,12303,Marcus Beddor,,Almog Britsch,L,0,Armbar,Indianapolis NGO,ABS,SF,2021
+26859,12303,Marcus Beddor,9309,Felipe Linhares,L,0,Pts: 2x0,Chicago Open,70KG,F,2021
+26871,12303,Marcus Beddor,12267,Lucas Norat,L,0,Toe hold,Chicago Open,ABS,4F,2021
+26878,12303,Marcus Beddor,,Alex Hodi,L,0,Kimura,Chicago NGO,67KG,F,2021
+27536,12303,Marcus Beddor,12247,Jordan Vaisman,L,0,"Pts: 4x4, Adv",Pan American,64KG,4F,2021
+28212,12303,Marcus Beddor,10380,Junny Ocasio,L,0,Inside heel hook,NoGi Worlds,61KG,4F,2021
+29008,12303,Marcus Beddor,,Vinicius Saenz,L,0,Points,JJ CON,64KG,4F,2021
+29077,12303,Marcus Beddor,12487,Gabriel Gaudio,L,0,Toe hold,JJ CON NG,67KG,F,2021
+31477,12303,Marcus Beddor,9934,Deandre Corbe,L,0,"Pts: 0x0, Pen",ADCC WC Trials,66KG,R1,2022
+31613,12303,Marcus Beddor,,Huthayfah Penney,L,0,Pts: 6x2,Pan American,64KG,R2,2022
+34516,12303,Marcus Beddor,,Rene Lopez,L,0,"Pts: 4x4, Adv",Chicago SMO,64KG,SF,2022
+35190,12303,Marcus Beddor,,Bebeto Oliveira,L,0,Pts: 6x4,Atlanta FO,64KG,SF,2022
+35234,12303,Marcus Beddor,,Bebeto Oliveira,L,0,Triangle,Atlanta FNGO,61KG,F,2022
+38354,12303,Marcus Beddor,11823,Diogo Reis,L,0,Bow and arrow,Pan American,64KG,8F,2023
+38790,12303,Marcus Beddor,12644,Tadiyah Danforth,L,0,Triangle armbar,Charleston Open,64KG,4F,2023
+38820,12303,Marcus Beddor,,Edward Lucero,L,0,Points,Charleston NGO,61KG,F,2023
+23985,12303,Marcus Beddor,,N/A,W,1,Pts: 4x2,Oklahoma Open,64KG,4F,2020
+23987,12303,Marcus Beddor,,Matheus Magalhaes,W,1,Straight ankle lock,Oklahoma Open,64KG,SF,2020
+24118,12303,Marcus Beddor,,Suraj Budhram,W,1,"Pts: 6x6, Adv",Pan American,64KG,R1,2020
+24545,12303,Marcus Beddor,,Suraj Budhram,W,1,Points,American Nats,64KG,SF,2020
+25400,12303,Marcus Beddor,,Igor Mancebo,W,1,Armbar,Orlando Open,64KG,SF,2021
+25401,12303,Marcus Beddor,,Max DeBeen,W,1,Points,Orlando Open,64KG,F,2021
+25823,12303,Marcus Beddor,11093,Emilio Hernandez,W,1,Points,Houston NGO,69KG,SF,2021
+25825,12303,Marcus Beddor,9094,Richar Nogueira,W,1,Inside heel hook,Houston NGO,69KG,F,2021
+25995,12303,Marcus Beddor,,Igor mancebo,W,1,Tarikoplata,N.Orleans Open,64KG,F,2021
+26021,12303,Marcus Beddor,,Reylando Leon,W,1,Triangle,N.Orleans NGO,61KG,F,2021
+26302,12303,Marcus Beddor,,Viki Dabush,W,1,Straight ankle lock,Indianapolis Open,70KG,SF,2021
+26316,12303,Marcus Beddor,,Viki Dabush,W,1,Points,Indianapolis NGO,67KG,F,2021
+26319,12303,Marcus Beddor,,N/A,W,1,Armbar,Indianapolis NGO,ABS,4F,2021
+26858,12303,Marcus Beddor,6366,Brian Mahecha,W,1,Choke from back,Chicago Open,70KG,SF,2021
+26877,12303,Marcus Beddor,,David Mosleh,W,1,Pts: 2x0,Chicago NGO,67KG,SF,2021
+27531,12303,Marcus Beddor,,Kalel Santos,W,1,"Pts: 4x4, Adv",Pan American,64KG,R1,2021
+28173,12303,Marcus Beddor,,Cristobal Chavez,W,1,Inside heel hook,Combat Sports,SPF,N/A,2021
+28208,12303,Marcus Beddor,,Vincent Saenz,W,1,Pts: 6x4,NoGi Worlds,61KG,R1,2021
+29072,12303,Marcus Beddor,,Michael Lorne,W,1,Inside heel hook,JJ CON NG,67KG,4F,2021
+29076,12303,Marcus Beddor,,John Freeman,W,1,Adv,JJ CON NG,67KG,SF,2021
+34540,12303,Marcus Beddor,,Chase Rosa,W,1,Inside heel hook,Chicago SMNG,61KG,F,2022

@@ -1,0 +1,309 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+11339,7478,Ademir Barreto,7543,Nelton Pontes,L,0,Referee Decision,Spain Nat. Pro,ABS,F,2016
+11471,7478,Ademir Barreto,84,Alexandre Ribeiro,L,0,"Pts: 0x0, Adv",Grand Slam AD,94KG,F,2017
+11623,7478,Ademir Barreto,6156,Tanner Rice,L,0,Referee Decision,European Open,94KG,SF,2017
+12074,7478,Ademir Barreto,84,Alexandre Ribeiro,L,0,Choke from back,Grand Slam LDN,94KG,F,2017
+12361,7478,Ademir Barreto,919,Pablo Popovitch,L,0,Referee Decision,European NoGi,92KG,SF,2017
+12683,7478,Ademir Barreto,2416,Felipe Pena,L,0,Choke from back,World Pro,94KG,F,2017
+12902,7478,Ademir Barreto,2416,Felipe Pena,L,0,Points,ACBJJ 5,95KG,SF,2017
+13194,7478,Ademir Barreto,4960,Dimitrius Souza,L,0,Pts: 6x4,World Champ.,94KG,4F,2017
+13399,7478,Ademir Barreto,1848,Marcos Souza,L,0,Pts: 2x0,Grand Slam TYO,94KG,F,2017
+13833,7478,Ademir Barreto,5655,Lucas Barbosa,L,0,"Pts: 0x0, Adv",Grand Slam LA,94KG,F,2017
+13994,7478,Ademir Barreto,,Raphael Souza,L,0,Choke from back,Copenhagen Open,ABS,F,2017
+14378,7478,Ademir Barreto,5417,Guilherme Augusto,L,0,"Pts: 0x0, Adv",Grand Slam RJ,94KG,4F,2017
+14383,7478,Ademir Barreto,84,Alexandre Ribeiro,L,0,Pts: 2x0,Grand Slam RJ,94KG,RPC,2017
+14847,7478,Ademir Barreto,7704,Helton Jose,L,0,Referee Decision,Grand Slam AD,94KG,F,2018
+14950,7478,Ademir Barreto,3009,Keenan Cornelius,L,0,Armbar,European Open,94KG,SF,2018
+15227,7478,Ademir Barreto,2226,DJ Jackson,L,0,"Pts: 0x0, Adv",Spain Nat. Pro,94KG,F,2018
+15248,7478,Ademir Barreto,4460,Jaime Canuto,L,0,"Pts: 2x2, Adv",Swiss Nat. Pro,ABS,F,2018
+15528,7478,Ademir Barreto,,Paulo Pinto,L,0,"Pts: 0x0, Adv",Grand Slam LDN,94KG,SF,2018
+15862,7478,Ademir Barreto,2416,Felipe Pena,L,0,Bow and arrow,ACBJJ 12,95KG,SPF,2018
+16181,7478,Ademir Barreto,2416,Felipe Pena,L,0,Pts: 4x0,World Pro,94KG,F,2018
+16576,7478,Ademir Barreto,2416,Felipe Pena,L,0,Pts: 6x0,World Champ.,94KG,8F,2018
+17501,7478,Ademir Barreto,6825,Fernando Reis,L,0,Pts: 2x0,Sao Paulo Open,ABS,4F,2018
+17598,7478,Ademir Barreto,8357,Gustavo Batista,L,0,Referee Decision,Grand Slam LA,94KG,SF,2018
+17644,7478,Ademir Barreto,1534,R. Evangelista,L,0,"Pts: 0x0, Adv",King of Mats,110KG,RR,2018
+18317,7478,Ademir Barreto,8974,Kaynan Duarte,L,0,Pts: 2x0,Grand Slam RJ,94KG,SF,2018
+18928,7478,Ademir Barreto,8357,Gustavo Batista,L,0,Pts: 3x0,European Open,94KG,SF,2019
+19456,7478,Ademir Barreto,8974,Kaynan Duarte,L,0,Toe hold,Grand Slam LDN,94KG,F,2019
+19655,7478,Ademir Barreto,8974,Kaynan Duarte,L,0,"Pts: 2x2, Adv",Pan American,94KG,F,2019
+20138,7478,Ademir Barreto,8974,Kaynan Duarte,L,0,Kneebar,World Pro,94KG,F,2019
+20689,7478,Ademir Barreto,8974,Kaynan Duarte,L,0,Armbar,World Champ.,94KG,4F,2019
+20748,7478,Ademir Barreto,8100,Rudson Mateus,L,0,Pts: 2x0,King of Mats,110KG,RR,2019
+20756,7478,Ademir Barreto,10103,Jonnatas Gracie,L,0,Pts: 2x0,King of Mats,110KG,RR,2019
+21057,7478,Ademir Barreto,7704,Helton Jose,L,0,"Pts: 0x0, Adv",ACB World Champ.,95KG,F,2019
+21850,7478,Ademir Barreto,7096,Josh Hinger,L,0,Arm in guillotine,ADCC,88KG,4F,2019
+22195,7478,Ademir Barreto,10644,Marcelo Gomide,L,0,Pts: 6x2,European NoGi,ABS,4F,2019
+22344,7478,Ademir Barreto,10741,Luan Azevedo,L,0,"Pts: 0x0, Adv",Grand Slam RJ,94KG,F,2019
+22696,7478,Ademir Barreto,8346,Craig Jones,L,0,Reverse triangle,GrappleFest 7,100KG,SPF,2019
+23142,7478,Ademir Barreto,3009,Keenan Cornelius,L,0,"Pts: 4x4, Adv",European Open,94KG,F,2020
+23529,7478,Ademir Barreto,10588,Jon Blank,L,0,Inside heel hook,Grapplefest 8,90KG,SPF,2020
+27626,7478,Ademir Barreto,8357,Gustavo Batista,L,0,"Pts: 0x0, Adv",Pan American,94KG,F,2021
+28197,7478,Ademir Barreto,11991,Pedro Marinho,L,0,Pts: 5x0,NoGi Worlds,ABS,SF,2021
+28317,7478,Ademir Barreto,11991,Pedro Marinho,L,0,Pts: 6x0,NoGi Worlds,91KG,SF,2021
+29236,7478,Ademir Barreto,11693,Erich Munis,L,0,Pts: 4x2,World Pro,94KG,F,2021
+29297,7478,Ademir Barreto,576,Rafael Lovato,L,0,Referee Decision,Raw GC,ABS,SPF,2021
+29556,7478,Ademir Barreto,10741,Luan Azevedo,L,0,"Pts: 0x0, Adv",World Champ.,94KG,R1,2021
+30647,7478,Ademir Barreto,12055,Yatan Bueno,L,0,Pts: 9x0,European Open,ABS,SF,2022
+31142,7478,Ademir Barreto,11111,Santeri Lilius,L,0,Pts: 4x4,Grand Slam LDN,94KG,4F,2022
+31591,7478,Ademir Barreto,11499,Roosevelt Sousa,L,0,Botinha,Pan American,ABS,R2,2022
+31707,7478,Ademir Barreto,5423,Matheus Diniz,L,0,Pts: 3x0,Pan American,94KG,4F,2022
+32987,7478,Ademir Barreto,12537,Pedro Machado,L,0,Armbar,World Champ.,94KG,4F,2022
+36122,7478,Ademir Barreto,6825,Fernando Reis,L,0,Points,European NG,97KG,SF,2022
+36767,7478,Ademir Barreto,13076,Francisco Lo,L,0,Triangle,NoGi Worlds,ABS,8F,2022
+36892,7478,Ademir Barreto,8686,Fellipe Trovo,L,0,Toe hold,NoGi Worlds,97KG,SF,2022
+37240,7478,Ademir Barreto,8514,Fellipe Andrew,L,0,Pts: 7x0,European Open,94KG,F,2023
+38251,7478,Ademir Barreto,10176,Bruno Lima,L,0,Pts: 1x0,AJPGD LDN,94KG,SF,2023
+38975,7478,Ademir Barreto,8514,Fellipe Andrew,L,0,Pts: 3x0,BJJ Stars,ABS,4F,2023
+40340,7478,Ademir Barreto,,Italo Lima,L,0,Triangle,World Champ.,94KG,8F,2023
+42920,7478,Ademir Barreto,8514,Fellipe Andrew,L,0,Pts: 3x1,ADGS Miami,94KG,F,2023
+11320,7478,Ademir Barreto,,Burak Biter,W,1,Submission,Greece Nat. Pro,94KG,SF,2016
+11321,7478,Ademir Barreto,,Piotr Wojtkowski,W,1,Points,Greece Nat. Pro,94KG,F,2016
+11322,7478,Ademir Barreto,,Marian Klosowski,W,1,Arm in Ezekiel,Polish Nationals,94KG,4F,2016
+11323,7478,Ademir Barreto,,Radoslaw Turek,W,1,RNC,Polish Nationals,94KG,SF,2016
+11324,7478,Ademir Barreto,,Piotr Baginski,W,1,Points,Polish Nationals,94KG,F,2016
+11325,7478,Ademir Barreto,,Pawel Nedzi,W,1,RNC,Polish Nationals,ABS,4F,2016
+11326,7478,Ademir Barreto,,Tomasz Skorkowski,W,1,Injury,Polish Nationals,ABS,SF,2016
+11327,7478,Ademir Barreto,,Maciej Kałuszewski,W,1,Points,Polish Nationals,ABS,F,2016
+11328,7478,Ademir Barreto,,Adam Niedzwiedz,W,1,RNC,Poznan Gala,ABS,SPF,2016
+11332,7478,Ademir Barreto,,Tomasz Skorowski,W,1,Ezekiel,Octopus Cup III,94KG,F,2016
+11333,7478,Ademir Barreto,,Arturo Salas,W,1,Points,Spain Nat. Pro,94KG,F,2016
+11336,7478,Ademir Barreto,,Antonio Junior,W,1,Points,Spain Nat. Pro,ABS,4F,2016
+11338,7478,Ademir Barreto,,Arturo Salas,W,1,Points,Spain Nat. Pro,ABS,SF,2016
+11468,7478,Ademir Barreto,,Rodolfo Bonfim,W,1,Pts: 8x2,Grand Slam AD,94KG,4F,2017
+11620,7478,Ademir Barreto,5636,Manuel Ribamar,W,1,Pts: 2x0,European Open,94KG,4F,2017
+11974,7478,Ademir Barreto,,Matheus Rodrigues,W,1,Choke from back,Munich Open,94KG,SF,2017
+11975,7478,Ademir Barreto,1263,Lucio Rodrigues,W,1,Pts: 31x2,Munich Open,94KG,F,2017
+11979,7478,Ademir Barreto,,Gerson Carvalho,W,1,Choke,Munich Open,ABS,4F,2017
+11981,7478,Ademir Barreto,,Igor Araujo,W,1,Toe hold,Munich Open,ABS,SF,2017
+11982,7478,Ademir Barreto,680,Igor Silva,W,1,Pts: 2x0,Munich Open,ABS,F,2017
+12023,7478,Ademir Barreto,,Vinicius Nascimento,W,1,Pts: 32x0,London WO,ABS,SF,2017
+12072,7478,Ademir Barreto,11703,Arya Esfandmaz,W,1,Pts: 16x2,Grand Slam LDN,94KG,SF,2017
+12305,7478,Ademir Barreto,,Rodrigo Reis,W,1,N/A,Rome Open,94KG,SF,2017
+12313,7478,Ademir Barreto,5842,Mahamed Aly,W,1,Pts: 4x0,Rome Open,ABS,SF,2017
+12314,7478,Ademir Barreto,7552,Isaque Bahiense,W,1,Choke from back,Rome Open,ABS,F,2017
+12360,7478,Ademir Barreto,,Felipe Arantes,W,1,Anaconda choke,European NoGi,92KG,4F,2017
+12678,7478,Ademir Barreto,,Diego Herzog,W,1,Pts: 14x7,World Pro,94KG,4F,2017
+12899,7478,Ademir Barreto,733,Vinny Magalhaes,W,1,Points,ACBJJ 5,95KG,4F,2017
+13189,7478,Ademir Barreto,6156,Tanner Rice,W,1,Arm in Ezekiel,World Champ.,94KG,8F,2017
+13398,7478,Ademir Barreto,,Luan Arouca,W,1,Submission,Grand Slam TYO,94KG,SF,2017
+13830,7478,Ademir Barreto,,Wellinton Modena,W,1,Pts: 5x0,Grand Slam LA,94KG,4F,2017
+13831,7478,Ademir Barreto,7704,Helton Jose,W,1,Pts: 2x0,Grand Slam LA,94KG,SF,2017
+13993,7478,Ademir Barreto,,T. Johannessen,W,1,Points,Copenhagen Open,ABS,SF,2017
+13995,7478,Ademir Barreto,1003,Diogo Sampaio,W,1,Injury,Copenhagen Open,94KG,F,2017
+13998,7478,Ademir Barreto,,Joachim Sveinson,W,1,Submission,Copenhagen NoGi,ABS,SF,2017
+13999,7478,Ademir Barreto,7695,Sebastian Brosche,W,1,RNC,Copenhagen NoGi,ABS,F,2017
+14085,7478,Ademir Barreto,,Marek Zbrog,W,1,Choke from back,Swedish Nats,94KG,SF,2017
+14086,7478,Ademir Barreto,,Nicolas Penzer,W,1,Points,Swedish Nats,94KG,F,2017
+14089,7478,Ademir Barreto,,Martin Gobel,W,1,Choke,Swedish Nats,ABS,4F,2017
+14091,7478,Ademir Barreto,10004,Ali Monfaradi,W,1,Arm in Ezekiel,Swedish Nats,ABS,SF,2017
+14092,7478,Ademir Barreto,8215,Espen Mathiesen,W,1,Arm in Ezekiel,Swedish Nats,ABS,F,2017
+14095,7478,Ademir Barreto,,Nicolas Penzer,W,1,Choke,German NNG,91KG,RR,2017
+14096,7478,Ademir Barreto,,Nicolas Penzer,W,1,Points,German NNG,91KG,F,2017
+14101,7478,Ademir Barreto,,Martin Gobel,W,1,Darce choke,German NNG,ABS,SF,2017
+14103,7478,Ademir Barreto,10004,Ali Monfaradi,W,1,Von Fluke choke,German NoGi,ABS,F,2017
+14174,7478,Ademir Barreto,,Nicolas Penzer,W,1,Choke,German Nat. Pro,94KG,SF,2017
+14175,7478,Ademir Barreto,,Gustavo Saraiva,W,1,Pts: 19x0,German Nat. Pro,94KG,F,2017
+14176,7478,Ademir Barreto,,Maciej Kozak,W,1,Pts: 2x0,German Nat. Pro,ABS,4F,2017
+14177,7478,Ademir Barreto,,Nicolas Penzer,W,1,Pts: 18x0,German Nat. Pro,ABS,SF,2017
+14178,7478,Ademir Barreto,,Patryk Wysoki,W,1,Choke from back,German Nat. Pro,ABS,F,2017
+14370,7478,Ademir Barreto,,Wesley Arquete,W,1,Choke from back,Grand Slam RJ,94KG,R1,2017
+14428,7478,Ademir Barreto,,Tyrone Gonsalves,W,1,Arm in Ezekiel,Madrid Open,94KG,F,2017
+14429,7478,Ademir Barreto,,Arturo Salas,W,1,Arm in Ezekiel,Madrid Open,ABS,SF,2017
+14430,7478,Ademir Barreto,,Mathias Ribeiro,W,1,Arm in Ezekiel,Madrid Open,ABS,F,2017
+14431,7478,Ademir Barreto,7636,Vinicius Garcia,W,1,Brabo choke,Madrid NG Open,ABS,F,2017
+14560,7478,Ademir Barreto,,Antonio Stanic,W,1,Submission,Poznan Pro,110KG,4F,2017
+14562,7478,Ademir Barreto,,Maciej Kozak,W,1,Submission,Poznan Pro,110KG,SF,2017
+14564,7478,Ademir Barreto,10318,Eldar Rafigaev,W,1,Pts: 13x6,Poznan Pro,110KG,F,2017
+14844,7478,Ademir Barreto,,Andre Reis,W,1,Choke from back,Grand Slam AD,94KG,4F,2018
+14846,7478,Ademir Barreto,,Basel Famous,W,1,Choke from back,Grand Slam AD,94KG,SF,2018
+14948,7478,Ademir Barreto,,Manuel Oliveira,W,1,Choke from back,European Open,94KG,4F,2018
+14973,7478,Ademir Barreto,4521,Erberth Santos,W,1,Verbal tap,ACB 10,95KG,SPF,2018
+15127,7478,Ademir Barreto,680,Igor Silva,W,1,Pts: 5x0,British Nat. Pro,110KG,SF,2018
+15128,7478,Ademir Barreto,,M. Maciejwski,W,1,DQ,British Nat. Pro,110KG,F,2018
+15131,7478,Ademir Barreto,7652,C. Negromonte,W,1,Pts: 4x2,British Nat. Pro,ABS,F,2018
+15226,7478,Ademir Barreto,,Jaakko Vilander,W,1,Choke,Spain Nat. Pro,94KG,SF,2018
+15236,7478,Ademir Barreto,,Steeve Combourg,W,1,Choke,Netherlands Pro,94KG,F,2018
+15246,7478,Ademir Barreto,680,Igor Silva,W,1,Choke,Swiss Nat. Pro,110KG,F,2018
+15247,7478,Ademir Barreto,680,Igor Silva,W,1,Pts: 3x0,Swiss Nat. Pro,ABS,SF,2018
+15526,7478,Ademir Barreto,,M. Abderraouf,W,1,Choke from back,Grand Slam LDN,94KG,4F,2018
+15531,7478,Ademir Barreto,7704,Helton Jose,W,1,"Pts: 0x0, Adv",Grand Slam LDN,94KG,RPC,2018
+15532,7478,Ademir Barreto,,Ben Hodgkinson,W,1,Pts: 24x2,Grand Slam LDN,94KG,RPC,2018
+15566,7478,Ademir Barreto,,Szymon Bonkow,W,1,Choke from back,ACB European,95KG,SF,2018
+15567,7478,Ademir Barreto,7704,Helton Jose,W,1,Referee Decision,ACB European,95KG,F,2018
+15572,7478,Ademir Barreto,,Antonio Junior,W,1,Pts: 20x0,ACB European,ABS,4F,2018
+15574,7478,Ademir Barreto,,Maciej Kozak,W,1,Arm in Ezekiel,ACB European,ABS,SF,2018
+15575,7478,Ademir Barreto,10318,Eldar Rafigaev,W,1,DQ,ACB European,ABS,F,2018
+15790,7478,Ademir Barreto,,Jakub Mroczkowski,W,1,Cross choke,Poznan Open,94KG,F,2018
+15791,7478,Ademir Barreto,,Tero Pyylampi,W,1,Choke from back,Poznan Open,ABS,SF,2018
+15793,7478,Ademir Barreto,,Bradley Hill,W,1,Pts: 18x0,Poznan Open,ABS,F,2018
+16178,7478,Ademir Barreto,6156,Tanner Rice,W,1,Referee Decision,World Pro,94KG,4F,2018
+16179,7478,Ademir Barreto,8729,Matt Leighton,W,1,Pts: 7x0,World Pro,94KG,SF,2018
+16403,7478,Ademir Barreto,,Stan Varshavskiy,W,1,Choke from back,Paris Spring Open,ABS,SF,2018
+16404,7478,Ademir Barreto,10318,Eldar Rafigaev,W,1,Shoulder pressure,Paris Spring Open,ABS,F,2018
+16405,7478,Ademir Barreto,,Nicolas Penzer,W,1,Choke from back,Paris Spring Open,94KG,F,2018
+17122,7478,Ademir Barreto,,Ben Dyson,W,1,Choke,ACBJJ NG Poland,95KG,SF,2018
+17123,7478,Ademir Barreto,,Lukasz Michalec,W,1,Pts: 7x0,ACBJJ NG Poland,95KG,F,2018
+17129,7478,Ademir Barreto,9637,Sergio Rios,W,1,Pts: 6x0,ACBJJ NG Poland,ABS,SF,2018
+17131,7478,Ademir Barreto,9117,Hygor Brito,W,1,Short choke,ACBJJ NG Poland,ABS,F,2018
+17139,7478,Ademir Barreto,,Lukasz Michalec,W,1,Pts: 6x0,ACBJJ Poland,95KG,SF,2018
+17140,7478,Ademir Barreto,,Andrzej Migaj,W,1,Submission,ACBJJ Poland,95KG,F,2018
+17491,7478,Ademir Barreto,,Tony Ferraz,W,1,Choke from back,Sao Paulo Open,94KG,SF,2018
+17492,7478,Ademir Barreto,,Andre Cassio,W,1,Pts: 13x0,Sao Paulo Open,94KG,F,2018
+17504,7478,Ademir Barreto,,Advilson Pereira,W,1,RNC,Sao Paulo NGO,91KG,F,2018
+17600,7478,Ademir Barreto,,Anton Minenko,W,1,Pts: 11x2,Grand Slam LA,94KG,3RD,2018
+17630,7478,Ademir Barreto,6071,Gabriel Arges,W,1,Pts: 2x0,King of Mats,110KG,RR,2018
+17636,7478,Ademir Barreto,8195,Gutemberg Pereira,W,1,Pts: 2x0,King of Mats,110KG,RR,2018
+17640,7478,Ademir Barreto,6156,Tanner Rice,W,1,Pts: 2x0,King of Mats,110KG,RR,2018
+17776,7478,Ademir Barreto,,Djati Melan,W,1,Choke,ADCC EU Trials,88KG,R2,2018
+17778,7478,Ademir Barreto,,Silviu Natasha,W,1,Pts: 5x0,ADCC EU Trials,88KG,8F,2018
+17779,7478,Ademir Barreto,,Abdulbari Guseinov,W,1,Pts: 12x0,ADCC EU Trials,88KG,4F,2018
+17780,7478,Ademir Barreto,,Otto Kuikka,W,1,Triangle kimura,ADCC EU Trials,88KG,SF,2018
+17781,7478,Ademir Barreto,,Sean Coates,W,1,Short choke,ADCC EU Trials,88KG,F,2018
+17961,7478,Ademir Barreto,,Kamil Czochra,W,1,Pts: 12x2,German Nat. Pro,94KG,F,2018
+17969,7478,Ademir Barreto,,Alexander Neufang,W,1,Submission,German Nat. Pro,ABS,SF,2018
+17970,7478,Ademir Barreto,,Kamil Czochra,W,1,Pts: 7x0,German Nat. Pro,ABS,F,2018
+18026,7478,Ademir Barreto,,Samir Hamid,W,1,Pts: 13x0,Greece Nat. Pro,110KG,SF,2018
+18027,7478,Ademir Barreto,10318,Eldar Rafigaev,W,1,Pts: 21x2,Greece Nat. Pro,110KG,F,2018
+18233,7478,Ademir Barreto,,Kamil Czochra,W,1,Cross choke,Poland Nationals,94KG,F,2018
+18234,7478,Ademir Barreto,,Maciej Kałuszewski,W,1,Choke from back,Poland Nationals,ABS,R1,2018
+18235,7478,Ademir Barreto,,Kornel Zapadka,W,1,Lapel choke,Poland Nationals,ABS,4F,2018
+18236,7478,Ademir Barreto,,Piotr Fręchowicz,W,1,Points,Poland Nationals,ABS,SF,2018
+18237,7478,Ademir Barreto,,Karol Dzieniszewski,W,1,Points,Poland Nationals,ABS,F,2018
+18308,7478,Ademir Barreto,,Wesley Arquete,W,1,Pts: 4x2,Grand Slam RJ,94KG,R1,2018
+18311,7478,Ademir Barreto,,Jeferson Almeida,W,1,Arm in Ezekiel,Grand Slam RJ,94KG,8F,2018
+18315,7478,Ademir Barreto,,Gildasio Oliveira,W,1,Pts: 9x0,Grand Slam RJ,94KG,4F,2018
+18320,7478,Ademir Barreto,,Marcus Ruiz,W,1,Choke from back,Grand Slam RJ,94KG,RPC,2018
+18321,7478,Ademir Barreto,,Anton Minenko,W,1,Choke from back,Grand Slam RJ,94KG,3RD,2018
+18532,7478,Ademir Barreto,,Christopher Thomas,W,1,N/A,Seol Open,94KG,F,2018
+18534,7478,Ademir Barreto,9606,Inseong Jang,W,1,Choke,Seol Open,ABS,4F,2018
+18535,7478,Ademir Barreto,,N/A,W,1,N/A,Seol Open,ABS,SF,2018
+18536,7478,Ademir Barreto,,N/A,W,1,N/A,Seol Open,ABS,F,2018
+18728,7478,Ademir Barreto,,Reinaldo Fuzil,W,1,Armbar,UKBJJA Open,94KG,F,2018
+18729,7478,Ademir Barreto,,Bradley Hill,W,1,N/A,UKBJJA Open,ABS,SF,2018
+18730,7478,Ademir Barreto,8105,Tommy Langaker,W,1,Katagatame,UKBJJA Open,ABS,F,2018
+18830,7478,Ademir Barreto,10698,Matheus Godoy,W,1,Choke from back,Grand Slam AD,94KG,4F,2019
+18833,7478,Ademir Barreto,2235,Renato Cardoso,W,1,"Pts: 2x2, Adv",Grand Slam AD,94KG,F,2019
+18927,7478,Ademir Barreto,,Charles McGuire,W,1,Choke from back,European Open,94KG,4F,2019
+19005,7478,Ademir Barreto,,Matko Kvesic,W,1,Pts: 15x0,Slovenia Pro,94KG,SF,2019
+19006,7478,Ademir Barreto,,Akos Szekeres,W,1,Pts: 23x0,Slovenia Pro,94KG,F,2019
+19143,7478,Ademir Barreto,,Ruben Lemos,W,1,Submission,Netherlands Pro,94KG,F,2019
+19263,7478,Ademir Barreto,,Ruben Lemos,W,1,N/A,EU Continental,94KG,SF,2019
+19264,7478,Ademir Barreto,,Nicolas Penzer,W,1,N/A,EU Continental,94KG,F,2019
+19454,7478,Ademir Barreto,10698,Matheus Godoy,W,1,Pts: 9x2,Grand Slam LDN,94KG,SF,2019
+19649,7478,Ademir Barreto,8686,Fellipe Trovo,W,1,Choke from back,Pan American,94KG,4F,2019
+19654,7478,Ademir Barreto,1188,Leandro Lo,W,1,Choke from back,Pan American,94KG,SF,2019
+19852,7478,Ademir Barreto,,Almog Britsch,W,1,Pts: 17x0,Rome Open,100KG,F,2019
+19858,7478,Ademir Barreto,,Almog Britsch,W,1,Pts: 9x0,Rome Open,ABS,4F,2019
+19859,7478,Ademir Barreto,,Adriano Candido,W,1,Choke from back,Rome Open,ABS,SF,2019
+19861,7478,Ademir Barreto,2235,Renato Cardoso,W,1,Pts: 7x2,Rome Open,ABS,F,2019
+20135,7478,Ademir Barreto,9559,Rida Haisam,W,1,Pts: 9x2,World Pro,94KG,4F,2019
+20137,7478,Ademir Barreto,,Basel Fanous,W,1,Arm in Ezekiel,World Pro,94KG,SF,2019
+20683,7478,Ademir Barreto,8532,Gerard Labinski,W,1,Pts: 9x0,World Champ.,94KG,R1,2019
+20752,7478,Ademir Barreto,,Donghwa Choi,W,1,Ezekiel choke,King of Mats,110KG,RR,2019
+20760,7478,Ademir Barreto,1534,R. Evangelista,W,1,Pts: 9x6,King of Mats,110KG,RR,2019
+21053,7478,Ademir Barreto,868,B. Matias,W,1,Pts: 6x2,ACB World Champ.,95KG,4F,2019
+21056,7478,Ademir Barreto,8357,Gustavo Batista,W,1,Pts: 2x0,ACB World Champ.,95KG,SF,2019
+21065,7478,Ademir Barreto,9067,Leonardo Lara,W,1,Pts: 10x2,ACB World Champ.,ABS,4F,2019
+21067,7478,Ademir Barreto,10159,Victor Hugo,W,1,Pts: 2x0,ACB World Champ.,ABS,SF,2019
+21245,7478,Ademir Barreto,,Anton Minenko,W,1,Pts: 11x0,Grand Slam TYO,94KG,SF,2019
+21248,7478,Ademir Barreto,6825,Fernando Reis,W,1,"Pts: 0x0, Adv",Grand Slam TYO,94KG,F,2019
+21845,7478,Ademir Barreto,8427,Michael Perez,W,1,Referee Decision,ADCC,88KG,R1,2019
+22134,7478,Ademir Barreto,,Sean Coates,W,1,Choke from back,Rome Fall Open,94KG,SF,2019
+22135,7478,Ademir Barreto,,Max Bickerton,W,1,Pts: 28x0,Rome Fall Open,94KG,F,2019
+22136,7478,Ademir Barreto,,Burak Sarman,W,1,Choke from back,Rome Fall Open,ABS,R1,2019
+22138,7478,Ademir Barreto,,Adriano Araujo,W,1,Triangle,Rome Fall Open,ABS,4F,2019
+22139,7478,Ademir Barreto,,Almog Britsch,W,1,Shoulder lock,Rome Fall Open,ABS,SF,2019
+22141,7478,Ademir Barreto,10004,Ali Monfaradi,W,1,Choke from back,Rome Fall Open,ABS,F,2019
+22177,7478,Ademir Barreto,9117,Hygor Brito,W,1,Pts: 2x0,European NoGi,91KG,4F,2019
+22179,7478,Ademir Barreto,11111,Santeri Lilius,W,1,Pts: 13x9,European NoGi,91KG,SF,2019
+22188,7478,Ademir Barreto,10295,Italo Moura,W,1,Pts: 3x2,European NoGi,ABS,R1,2019
+22191,7478,Ademir Barreto,7704,Helton Jose,W,1,Pen,European NoGi,ABS,R2,2019
+22336,7478,Ademir Barreto,,Thiago Dalcol,W,1,Submission,Grand Slam RJ,94KG,R1,2019
+22340,7478,Ademir Barreto,,Marcus Junior,W,1,Pts: 9x0,Grand Slam RJ,94KG,4F,2019
+22343,7478,Ademir Barreto,9741,Pedro Elias,W,1,Pts: 9x0,Grand Slam RJ,94KG,SF,2019
+22771,7478,Ademir Barreto,,Aleksi Ruuskanen,W,1,Cross choke,Berlin Open,94KG,F,2019
+22773,7478,Ademir Barreto,,Jakub Witkowski,W,1,Manoplata,Berlin Open,ABS,4F,2019
+22775,7478,Ademir Barreto,,Lakatos Sandor,W,1,Armbar,Berlin Open,ABS,SF,2019
+22779,7478,Ademir Barreto,,Paweł Kwiatkowski,W,1,Pts: 33x0,Berlin NGO,91KG,F,2019
+22780,7478,Ademir Barreto,,Petr Mamaev,W,1,RNC,Berlin NGO,ABS,SF,2019
+22781,7478,Ademir Barreto,,Jakub Witkowski,W,1,Triangle,Berlin NGO,ABS,F,2019
+22888,7478,Ademir Barreto,,Todd Muckenheim,W,1,Pts: 27x0,NoGi Worlds,85KG,4F,2019
+22896,7478,Ademir Barreto,8686,Fellipe Trovo,W,1,"Pts: 0x0, Adv",NoGi Worlds,91KG,SF,2019
+23003,7478,Ademir Barreto,2235,Renato Cardoso,W,1,Pts: 10x1,Grand Slam AD,94KG,4F,2020
+23004,7478,Ademir Barreto,,Vandre Barbosa,W,1,Pts: 10x0,Grand Slam AD,94KG,SF,2020
+23138,7478,Ademir Barreto,13392,Gabriel Volante,W,1,Choke from back,European Open,94KG,4F,2020
+23140,7478,Ademir Barreto,4960,Dimitrius Souza,W,1,Choke from back,European Open,94KG,SF,2020
+23656,7478,Ademir Barreto,,Luka Skoric,W,1,Pts: 25x0,Grand Slam LDN,94KG,4F,2020
+23658,7478,Ademir Barreto,,Stan Varshavskiy,W,1,Pts: 9x0,Grand Slam LDN,94KG,SF,2020
+24368,7478,Ademir Barreto,11703,Arya Esfandmaz,D,0.5,---,Polaris Squads 2,ABS,RR,2020
+24376,7478,Ademir Barreto,11703,Arya Esfandmaz,D,0.5,---,Polaris Squads 2,ABS,RR,2020
+25271,7478,Ademir Barreto,,Artem Ushakov,W,1,Ezekiel,Grand Slam MSK,94KG,SF,2021
+25272,7478,Ademir Barreto,,Viacheslav Ilin,W,1,Omoplata,Grand Slam MSK,94KG,F,2021
+25686,7478,Ademir Barreto,,Ruben Lemos,W,1,Choke from back,World Pro,94KG,SF,2021
+25687,7478,Ademir Barreto,2235,Renato Cardoso,W,1,Pts: 6x4,World Pro,94KG,F,2021
+27618,7478,Ademir Barreto,,James Quinlan,W,1,Armbar,Pan American,94KG,8F,2021
+27623,7478,Ademir Barreto,8634,Rafael Vasconcelos,W,1,Choke from back,Pan American,94KG,4F,2021
+27625,7478,Ademir Barreto,,N. Mendelshon,W,1,Arm in Ezekiel,Pan American,94KG,SF,2021
+28175,7478,Ademir Barreto,,Johnny Boswell,W,1,RNC,NoGi Worlds,ABS,R1,2021
+28186,7478,Ademir Barreto,7704,Helton Jose,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,8F,2021
+28194,7478,Ademir Barreto,,Elliot Kelly,W,1,Inside heel hook,NoGi Worlds,ABS,4F,2021
+28307,7478,Ademir Barreto,,Johnny Boswell,W,1,RNC,NoGi Worlds,91KG,8F,2021
+28315,7478,Ademir Barreto,12236,Joao Costa,W,1,Referee Decision,NoGi Worlds,91KG,4F,2021
+29233,7478,Ademir Barreto,,Artem Ushakov,W,1,Shoulder lock,World Pro,94KG,4F,2021
+29235,7478,Ademir Barreto,,Arsen Shapiev,W,1,Pts: 9x1,World Pro,94KG,SF,2021
+30601,7478,Ademir Barreto,,Simon Immerstrand,W,1,Choke from back,European Open,94KG,4F,2022
+30605,7478,Ademir Barreto,,Reda Mebtouche,W,1,Pressure,European Open,94KG,SF,2022
+30607,7478,Ademir Barreto,9321,Dominique Bell,W,1,N/A,European Open,94KG,F,2022
+30625,7478,Ademir Barreto,,Andrzej Iwat,W,1,Choke from back,European Open,ABS,R1,2022
+30636,7478,Ademir Barreto,,Wesley Campos,W,1,Pts: 26x0,European Open,ABS,8F,2022
+30643,7478,Ademir Barreto,,Reda Mebtouche,W,1,"Pts: 0x0, Adv",European Open,ABS,4F,2022
+31146,7478,Ademir Barreto,,Euclides Castro,W,1,Katagatame,Grand Slam LDN,94KG,RPC,2022
+31147,7478,Ademir Barreto,9117,Hygor Brito,W,1,Pts: 3x0,Grand Slam LDN,94KG,RPC,2022
+31148,7478,Ademir Barreto,,Janis Riekstins,W,1,Pts: 6x1,Grand Slam LDN,94KG,3RD,2022
+31701,7478,Ademir Barreto,12267,Lucas Norat,W,1,Armbar,Pan American,94KG,R2,2022
+32450,7478,Ademir Barreto,,Thiago Cesar,W,1,Submission,SD Open,94KG,SF,2022
+32452,7478,Ademir Barreto,8686,Fellipe Trovo,W,1,Katagatame,SD Open,94KG,F,2022
+32458,7478,Ademir Barreto,,Thiago Cesar,W,1,Submission,SD Open,ABS,4F,2022
+32461,7478,Ademir Barreto,12048,Rafael Anjos,W,1,Choke from back,SD Open,ABS,SF,2022
+32463,7478,Ademir Barreto,10199,Guthierry Barbosa,W,1,Submission,SD Open,ABS,F,2022
+32589,7478,Ademir Barreto,12641,Renan Cruz,W,1,"Pts: 2x2, Adv",Chicago SPO,100KG,F,2022
+32592,7478,Ademir Barreto,,Alex Seaver,W,1,Choke from back,Chicago SPO,ABS,4F,2022
+32595,7478,Ademir Barreto,,Marlon Ferreira,W,1,Armbar,Chicago SPO,ABS,SF,2022
+32984,7478,Ademir Barreto,12267,Lucas Norat,W,1,Pts: 9x0,World Champ.,94KG,8F,2022
+33546,7478,Ademir Barreto,,Gabriel Caramori,W,1,Mounted X choke,London Open,94KG,SF,2022
+33547,7478,Ademir Barreto,,Janis Riekstins,W,1,Arm in Ezekiel,London Open,94KG,F,2022
+34570,7478,Ademir Barreto,,Alex Alexandrov,W,1,Pts: 13x0,EU Cont Pro,94KG,SF,2022
+34571,7478,Ademir Barreto,,Neo Barbosa,W,1,Pts: 9x0,EU Cont Pro,94KG,F,2022
+35646,7478,Ademir Barreto,,Harry Loseby,W,1,Katagatame,London FO,94KG,SF,2022
+35648,7478,Ademir Barreto,,Eric Bergmann,W,1,Choke from back,London FO,94KG,F,2022
+35651,7478,Ademir Barreto,,Gyula Szabo,W,1,Pts: 12x2,London FO,ABS,4F,2022
+35653,7478,Ademir Barreto,,Eric Bergmann,W,1,Arm in Ezekiel,London FO,ABS,SF,2022
+35654,7478,Ademir Barreto,,Gyula Szabo,W,1,Armbar,London FO,ABS,F,2022
+35660,7478,Ademir Barreto,,Eric Bergmann,W,1,Katagatame,London FNGO,97KG,RR,2022
+35662,7478,Ademir Barreto,,Adam Ellis,W,1,Katagatame,London FNGO,97KG,F,2022
+35664,7478,Ademir Barreto,,Gyula Szabo,W,1,Shoulder lock,London FNGO,ABS,SF,2022
+35666,7478,Ademir Barreto,7652,C. Negromonte,W,1,Adv,London FNGO,ABS,F,2022
+36045,7478,Ademir Barreto,,Vegard Vanderberg,W,1,RNC,European NG,ABS,R2,2022
+36050,7478,Ademir Barreto,,Shane Fishman,W,1,Katagatame,European NG,ABS,4F,2022
+36054,7478,Ademir Barreto,6825,Fernando Reis,W,1,Referee Decision,European NG,ABS,SF,2022
+36055,7478,Ademir Barreto,11707,Oliver Taza,W,1,Pts: 12x0,European NG,ABS,F,2022
+36119,7478,Ademir Barreto,,Murillo Soares,W,1,RNC,European NG,97KG,4F,2022
+36889,7478,Ademir Barreto,,Lucasz Michalec,W,1,Pts: 16x0,NoGi Worlds,97KG,4F,2022
+37236,7478,Ademir Barreto,,Filipe Pinheiro,W,1,Pts: 11x0,European Open,94KG,4F,2023
+37239,7478,Ademir Barreto,11064,Rider Zuchi,W,1,Arm in Ezekiel,European Open,94KG,SF,2023
+38245,7478,Ademir Barreto,,Francesco Fragala,W,1,Choke from back,AJPGD LDN,94KG,R1,2023
+38249,7478,Ademir Barreto,,Bartosz Zawadzki,W,1,Katagatame,AJPGD LDN,94KG,4F,2023
+38255,7478,Ademir Barreto,9117,Hygor Brito,W,1,Pts: 7x1,AJPGD LDN,94KG,RPC,2023
+38257,7478,Ademir Barreto,,Igor Sousa,W,1,Choke from back,AJPGD LDN,94KG,3RD,2023
+38444,7478,Ademir Barreto,10880,Roberto Jimenez,W,1,Choke from back,Pan American,94KG,R1,2023
+38450,7478,Ademir Barreto,,Felipe Pimentel,W,1,Choke from back,Pan American,94KG,4F,2023
+38452,7478,Ademir Barreto,4960,Dimitrius Souza,W,1,Referee Decision,Pan American,94KG,SF,2023
+38453,7478,Ademir Barreto,8514,Fellipe Andrew,W,1,"Pts: 11x11, Adv",Pan American,94KG,F,2023
+38972,7478,Ademir Barreto,4430,Patrick Gaudio,W,1,Choke from back,BJJ Stars,ABS,R1,2023
+39805,7478,Ademir Barreto,,Lucas Alcantara,W,1,RNC,Denver Open,94KG,SF,2023
+39807,7478,Ademir Barreto,12267,Lucas Norat,W,1,Arm in Ezekiel,Denver Open,94KG,F,2023
+42917,7478,Ademir Barreto,,Marcos Junior,W,1,Choke from back,ADGS Miami,94KG,4F,2023
+42919,7478,Ademir Barreto,,Luiz Silva,W,1,Pressure,ADGS Miami,94KG,SF,2023
+43281,7478,Ademir Barreto,,Calon Sabino,W,1,Pts: 9x0,NoGi Pan,91KG,4F,2023
+43283,7478,Ademir Barreto,12236,Joao Costa,W,1,Outside heel hook,NoGi Pan,91KG,SF,2023

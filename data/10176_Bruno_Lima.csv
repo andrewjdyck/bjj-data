@@ -1,0 +1,84 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+21049,10176,Bruno Lima,289,Alan Finfou,L,0,"Pts: 0x0, Adv",ACB World Champ.,85KG,SF,2019
+21063,10176,Bruno Lima,1534,R. Evangelista,L,0,Submission,ACB World Champ.,ABS,4F,2019
+21930,10176,Bruno Lima,10658,Matheus Luna,L,0,Pts: 6x2,Lisbon Open,ABS,4F,2019
+22623,10176,Bruno Lima,10506,Jeferson Guaresi,L,0,"Pts: 2x2, Adv",Madrid Open,ABS,F,2019
+22631,10176,Bruno Lima,10986,Jakub Zajkowski,L,0,"Pts: 0x0, Adv",Paris Open,88KG,F,2019
+22790,10176,Bruno Lima,8448,Pedro Ramalho,L,0,"Pts: 0x0, Adv",PT National Open,88KG,F,2019
+22791,10176,Bruno Lima,,Guilherme Jardim,L,0,Referee Decision,PT National Open,ABS,SF,2019
+23033,10176,Bruno Lima,10509,Mathias Luna,L,0,Arm in Ezekiel,European Open,ABS,R1,2020
+23131,10176,Bruno Lima,5636,Manuel Ribamar,L,0,Injury,European Open,88KG,F,2020
+23646,10176,Bruno Lima,,Jamie Paxman,L,0,Pts: 3x2,Grand Slam LDN,85KG,SF,2020
+23650,10176,Bruno Lima,,Gilvan Costa,L,0,Toe hook,Grand Slam LDN,85KG,RPC,2020
+25545,10176,Bruno Lima,4430,Patrick Gaudio,L,0,Pts: 4x2,Grand Slam AD,94KG,4F,2021
+25550,10176,Bruno Lima,2235,Renato Cardoso,L,0,Pts: 4x0,Grand Slam AD,94KG,RPC,2021
+25683,10176,Bruno Lima,2235,Renato Cardoso,L,0,Pts: 3x1,World Pro,94KG,4F,2021
+25688,10176,Bruno Lima,10399,Philippe Pomaski,L,0,Referee Decision,World Pro,94KG,RPC,2021
+26687,10176,Bruno Lima,11991,Pedro Marinho,L,0,Pts: 6x2,American Nats,94KG,F,2021
+26701,10176,Bruno Lima,8514,Fellipe Andrew,L,0,DQ,American Nats,ABS,F,2021
+26741,10176,Bruno Lima,10240,Jake Watson,L,0,Pts: 6x0,American NGN,91KG,SF,2021
+26752,10176,Bruno Lima,8686,Fellipe Trovo,L,0,RNC,American NGN,ABS,4F,2021
+27722,10176,Bruno Lima,12346,Catriel Oliveira,L,0,Pts: 8x4,Grand Slam MSK,94KG,4F,2021
+29232,10176,Bruno Lima,9230,Matheus Felipe,L,0,Referee Decision,World Pro,94KG,4F,2021
+29239,10176,Bruno Lima,,Arsen Shapiev,L,0,Pts: 3x0,World Pro,94KG,RPC,2021
+30642,10176,Bruno Lima,,Shane Fishman,L,0,"Pts: 0x0, Adv",European Open,ABS,8F,2022
+32295,10176,Bruno Lima,11111,Santeri Lilius,L,0,Pen,ADCC EU Trials,99KG,F,2022
+32974,10176,Bruno Lima,1188,Leandro Lo,L,0,Pts: 2x0,World Champ.,88KG,SF,2022
+33023,10176,Bruno Lima,,Eric Bergmann,L,0,Pts: 6x2,World Champ.,ABS,R1,2022
+36389,10176,Bruno Lima,12346,Catriel Oliveira,L,0,Pts: 2x0,World Pro,94KG,F,2022
+37152,10176,Bruno Lima,11064,Rider Zuchi,L,0,Pts: 4x2,European Open,ABS,SF,2023
+37235,10176,Bruno Lima,9157,Devhonte Johnson,L,0,Pts: 2x0,European Open,94KG,4F,2023
+38253,10176,Bruno Lima,12346,Catriel Oliveira,L,0,Pts: 1x0,AJPGD LDN,94KG,F,2023
+40341,10176,Bruno Lima,5655,Lucas Barbosa,L,0,"Pts: 0x0, Adv",World Champ.,94KG,8F,2023
+20990,10176,Bruno Lima,,Wilson Martins,W,1,Submission,Spanish Nats,88KG,SF,2019
+20991,10176,Bruno Lima,,Angel Cicero,W,1,Mounted X choke,Spanish Nats,88KG,F,2019
+21048,10176,Bruno Lima,,D. Lapchenkov,W,1,Pts: 12x0,ACB World Champ.,85KG,4F,2019
+21927,10176,Bruno Lima,,Arturo Salas,W,1,Pts: 12x0,Lisbon Open,88KG,SF,2019
+21928,10176,Bruno Lima,,Jacopo Pasquini,W,1,Verbal tap,Lisbon Open,88KG,F,2019
+21929,10176,Bruno Lima,,Ruben Lemos,W,1,N/A,Lisbon Open,ABS,R1,2019
+22622,10176,Bruno Lima,10318,Eldar Rafigaev,W,1,Pts: 4x0,Madrid Open,ABS,SF,2019
+22628,10176,Bruno Lima,,Abdelb Annabi,W,1,Pts: 5x0,Paris Open,88KG,4F,2019
+22629,10176,Bruno Lima,,Thomas Edmund,W,1,Points,Paris Open,88KG,SF,2019
+22632,10176,Bruno Lima,,Riccardo Berti,W,1,Omoplata,Paris Open,ABS,R1,2019
+22634,10176,Bruno Lima,,Rafael Colonhese,W,1,Pts: 2x0,Paris Open,ABS,4F,2019
+22637,10176,Bruno Lima,,Stan Varshavskiy,W,1,Armlock,Paris Open,ABS,SF,2019
+23119,10176,Bruno Lima,,T. Trintigna,W,1,Clock choke,European Open,88KG,R1,2020
+23125,10176,Bruno Lima,9250,Gabriel Almeida,W,1,Pts: 10x4,European Open,88KG,4F,2020
+23130,10176,Bruno Lima,11111,Santeri Lilius,W,1,"Pts: 0x0, Adv",European Open,88KG,SF,2020
+23642,10176,Bruno Lima,,Max Bickerton,W,1,Pts: 4x1,Grand Slam LDN,85KG,R1,2020
+23644,10176,Bruno Lima,2235,Renato Cardoso,W,1,Pts: 5x2,Grand Slam LDN,85KG,4F,2020
+26685,10176,Bruno Lima,10240,Jake Watson,W,1,Pts: 9x0,American Nats,94KG,SF,2021
+26697,10176,Bruno Lima,,Ashur Darmo,W,1,Choke,American Nats,ABS,4F,2021
+26699,10176,Bruno Lima,12203,Austin Baker,W,1,Pts: 7x0,American Nats,ABS,SF,2021
+26739,10176,Bruno Lima,,Bradley Ringler,W,1,Pts: 4x0,American NGN,91KG,R1,2021
+26751,10176,Bruno Lima,12203,Austin Baker,W,1,Pts: 7x4,American NGN,ABS,R1,2021
+27727,10176,Bruno Lima,,A. Guseinov,W,1,Pts: 10x0,Grand Slam MSK,94KG,RPC,2021
+27728,10176,Bruno Lima,,Arsen Shapiev,W,1,Pts: 6x1,Grand Slam MSK,94KG,3RD,2021
+28725,10176,Bruno Lima,,Marco Pereira,W,1,Bread Cutter,Portugal Pro,120KG,SF,2021
+28726,10176,Bruno Lima,,Walter Santos,W,1,Pts: 2x0,Portugal Pro,120KG,F,2021
+29230,10176,Bruno Lima,,Basel Fanous,W,1,Pts: 1x0,World Pro,94KG,R1,2021
+29237,10176,Bruno Lima,,Junior Cabezas,W,1,Pts: 10x0,World Pro,94KG,RPC,2021
+29238,10176,Bruno Lima,,Eric Bergmann,W,1,Pts: 2x1,World Pro,94KG,RPC,2021
+30592,10176,Bruno Lima,7082,Luca Anacoreta,W,1,Pts: 4x0,European Open,88KG,4F,2022
+30595,10176,Bruno Lima,7047,Matheus Spirandeli,W,1,"Pts: 0x0, Adv",European Open,88KG,SF,2022
+30596,10176,Bruno Lima,,Szilard Sule,W,1,"Pts: 0x0, Adv",European Open,88KG,F,2022
+30634,10176,Bruno Lima,,Eletherios Pagkalos,W,1,Katagatame,European Open,ABS,R1,2022
+31802,10176,Bruno Lima,,Neo Barbosa,W,1,Referee Decision,Porto Pro,94KG,F,2022
+32283,10176,Bruno Lima,,Jakov Jovic,W,1,N/A,ADCC EU Trials,88KG,R1,2022
+32286,10176,Bruno Lima,,Kacper Kozłowski,W,1,Pts: 3x0,ADCC EU Trials,88KG,R2,2022
+32288,10176,Bruno Lima,,Kieran Davern,W,1,Pts: 3x0,ADCC EU Trials,88KG,8F,2022
+32291,10176,Bruno Lima,,Johan Oosthuysen,W,1,RNC,ADCC EU Trials,88KG,4F,2022
+32294,10176,Bruno Lima,,Otto Kuikka,W,1,Pts: 4x0,ADCC EU Trials,88KG,SF,2022
+32968,10176,Bruno Lima,10658,Matheus Luna,W,1,DQ,World Champ.,88KG,8F,2022
+32970,10176,Bruno Lima,12215,Sebastian Rodriguez,W,1,Pts: 6x4,World Champ.,88KG,4F,2022
+36385,10176,Bruno Lima,,Heeseoung Kim,W,1,Pts: 1x0,World Pro,94KG,4F,2022
+36388,10176,Bruno Lima,,Javier Barter,W,1,Pts: 11x2,World Pro,94KG,SF,2022
+37143,10176,Bruno Lima,13076,Francisco Lo,W,1,Pts: 2x0,European Open,ABS,R2,2023
+37150,10176,Bruno Lima,12537,Pedro Machado,W,1,Pts: 5x2,European Open,ABS,4F,2023
+37230,10176,Bruno Lima,,Macos Carrozzino,W,1,Pts: 7x6,European Open,94KG,R1,2023
+38246,10176,Bruno Lima,,Luis Betta,W,1,Pts: 2x1,AJPGD LDN,94KG,R1,2023
+38251,10176,Bruno Lima,7478,Adam Wardzinski,W,1,Pts: 1x0,AJPGD LDN,94KG,SF,2023
+38957,10176,Bruno Lima,,David Feio,W,1,Manoplata,Portuguese Nat.,94KG,F,2023
+38958,10176,Bruno Lima,,David Feio,W,1,Submission,Portuguese Nat.,ABS,SF,2023
+38959,10176,Bruno Lima,,Ibrahima Camara,W,1,DQ,Portuguese Nat.,ABS,F,2023
+40326,10176,Bruno Lima,10698,Matheus Godoy,W,1,"Pts: 0x0, Adv",World Champ.,94KG,R1,2023

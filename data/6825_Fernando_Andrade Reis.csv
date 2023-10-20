@@ -1,0 +1,110 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+10272,6825,Fernando Andrade Reis,4430,Patrick Gaudio,L,0,N/A,Rio Winter Open,ABS,SF,2016
+10347,6825,Fernando Andrade Reis,1895,Rodrigo Fajardo,L,0,Pts: 2x0,Gramado Open,ABS,F,2016
+10590,6825,Fernando Andrade Reis,4521,Erberth Santos,L,0,Referee Decision,Sao Paulo Open,100KG,SF,2016
+10677,6825,Fernando Andrade Reis,6792,Cassio Francis,L,0,"Pts: 0x0, Adv",NoGi Pan Ams,97KG,F,2016
+12819,6825,Fernando Andrade Reis,1188,Leandro Lo,L,0,Pts: 2x0,Brasileiro,100KG,SF,2017
+13013,6825,Fernando Andrade Reis,4521,Erberth Santos,L,0,Choke from back,Curitiba Fall Open,ABS,SF,2017
+13204,6825,Fernando Andrade Reis,4521,Erberth Santos,L,0,Kneebar,World Champ.,100KG,4F,2017
+15950,6825,Fernando Andrade Reis,,Felipe Simao,L,0,Pts: 2x0,Curitiba Open,100KG,F,2018
+15952,6825,Fernando Andrade Reis,8514,Fellipe Andrew,L,0,Points,Curitiba Open,ABS,F,2018
+16284,6825,Fernando Andrade Reis,6631,Igor Schneider,L,0,Points,Brasileiro,100KG,SF,2018
+16591,6825,Fernando Andrade Reis,7543,Nelton Pontes,L,0,Pts: 2x0,World Champ.,100KG,4F,2018
+17185,6825,Fernando Andrade Reis,,Otavio Nalati,L,0,Points,Floripa W. Open,ABS,SF,2018
+18338,6825,Fernando Andrade Reis,4521,Erberth Santos,L,0,Choke from back,Grand Slam RJ,110KG,F,2018
+19310,6825,Fernando Andrade Reis,8514,Fellipe Andrew,L,0,"Pts: 0x0, Adv",Curitiba SMO,100KG,F,2019
+19318,6825,Fernando Andrade Reis,9483,Eduardo Lopes,L,0,Shoulder pressure,Curitiba SMO,ABS,SF,2019
+19665,6825,Fernando Andrade Reis,8514,Fellipe Andrew,L,0,Botinha,Pan American,100KG,4F,2019
+19681,6825,Fernando Andrade Reis,5842,Mahamed Aly,L,0,Cross choke,Pan American,ABS,R2,2019
+19934,6825,Fernando Andrade Reis,8514,Fellipe Andrew,L,0,Pts: 2x0,Curitiba Pro,94KG,F,2019
+20327,6825,Fernando Andrade Reis,7399,Horlando Monteiro,L,0,Points,Brasileiro,94KG,4F,2019
+21019,6825,Fernando Andrade Reis,8514,Fellipe Andrew,L,0,"Pts: 0x0, Adv",SP BJJ Pro,94KG,F,2019
+21248,6825,Fernando Andrade Reis,7478,Adam Wardzinski,L,0,"Pts: 0x0, Adv",Grand Slam TYO,94KG,F,2019
+22115,6825,Fernando Andrade Reis,10741,Luan Azevedo,L,0,Referee Decision,Curitiba SPO,94KG,F,2019
+22121,6825,Fernando Andrade Reis,13392,Gabriel Volante,L,0,Choke from back,Curitiba SPO,ABS,F,2019
+22338,6825,Fernando Andrade Reis,8686,Fellipe Trovo,L,0,Referee Decision,Grand Slam RJ,94KG,4F,2019
+22593,6825,Fernando Andrade Reis,13392,Gabriel Volante,L,0,Kneebar,South American,94KG,SF,2019
+30311,6825,Fernando Andrade Reis,,Rafael Tolmos,L,0,Pts: 2x0,ADCC BR2 Trials,88KG,R2,2022
+36054,6825,Fernando Andrade Reis,7478,Adam Wardzinski,L,0,Referee Decision,European NG,ABS,SF,2022
+10265,6825,Fernando Andrade Reis,,Marcos Goulart,W,1,Choke from back,Rio Winter Open,94KG,4F,2016
+10266,6825,Fernando Andrade Reis,,Leonardo Maciel,W,1,Ezekiel,Rio Winter Open,94KG,SF,2016
+10267,6825,Fernando Andrade Reis,1986,Vitor Toledo,W,1,Referee Decision,Rio Winter Open,94KG,F,2016
+10343,6825,Fernando Andrade Reis,671,Helvecio Penna,W,1,Choke from back,Gramado Open,94KG,SF,2016
+10344,6825,Fernando Andrade Reis,,Giovanne Guedes,W,1,Ezekiel,Gramado Open,94KG,F,2016
+10345,6825,Fernando Andrade Reis,,Unknown,W,1,Ezekiel,Gramado Open,ABS,4F,2016
+10346,6825,Fernando Andrade Reis,7672,Caio Almeida,W,1,Choke from back,Gramado Open,ABS,SF,2016
+10351,6825,Fernando Andrade Reis,,John Rickel,W,1,Choke,Charlotte Open,O100KG,F,2016
+10352,6825,Fernando Andrade Reis,,Robby Malof,W,1,Points,Charlotte Open,ABS,SF,2016
+10354,6825,Fernando Andrade Reis,5655,Lucas Barbosa,W,1,Pts: 2x0,Charlotte Open,ABS,F,2016
+10586,6825,Fernando Andrade Reis,,Fernando Fernandes,W,1,Triangle,Sao Paulo Open,100KG,4F,2016
+12810,6825,Fernando Andrade Reis,,Moises Junior,W,1,N/A,Brasileiro,100KG,R1,2017
+12816,6825,Fernando Andrade Reis,,Rodrigo Lima,W,1,Choke from back,Brasileiro,100KG,4F,2017
+13001,6825,Fernando Andrade Reis,,Marcus Ruiz,W,1,Choke,Curitiba Fall Open,100KG,SF,2017
+13002,6825,Fernando Andrade Reis,,Adriano Sousa,W,1,Mounted X choke,Curitiba Fall Open,100KG,F,2017
+13005,6825,Fernando Andrade Reis,,Andre Rudolfo,W,1,Choke from mount,Curitiba Fall Open,ABS,R1,2017
+13010,6825,Fernando Andrade Reis,9700,David Raab,W,1,Pts: 6x0,Curitiba Fall Open,ABS,4F,2017
+13202,6825,Fernando Andrade Reis,,Julio Guerra,W,1,Pts: 18x0,World Champ.,100KG,8F,2017
+13260,6825,Fernando Andrade Reis,,Luis Fagundes,W,1,Choke from mount,Rio Winter Open,100KG,4F,2017
+13261,6825,Fernando Andrade Reis,,Sandro Vieira,W,1,Adv,Rio Winter Open,100KG,SF,2017
+13262,6825,Fernando Andrade Reis,1986,Vitor Toledo,W,1,Pts: 5x0,Rio Winter Open,100KG,F,2017
+14058,6825,Fernando Andrade Reis,,Rafael Fraga,W,1,N/A,Brasileiro NoGi,97KG,4F,2017
+14059,6825,Fernando Andrade Reis,,Daniel Alves,W,1,N/A,Brasileiro NoGi,97KG,SF,2017
+14060,6825,Fernando Andrade Reis,,Italo Vieira,W,1,N/A,Brasileiro NoGi,97KG,F,2017
+15278,6825,Fernando Andrade Reis,,Helio Mourao,W,1,Pts: 2x0,SA Continental Pro,110KG,4F,2018
+15279,6825,Fernando Andrade Reis,,Yuri Korzen,W,1,Pts: 9x0,SA Continental Pro,110KG,SF,2018
+15280,6825,Fernando Andrade Reis,,Felipe Amorim,W,1,Choke,SA Continental Pro,110KG,F,2018
+15949,6825,Fernando Andrade Reis,,Joao Oliveira,W,1,N/A,Curitiba Open,100KG,SF,2018
+15951,6825,Fernando Andrade Reis,,Henrique de Lima,W,1,N/A,Curitiba Open,ABS,SF,2018
+16282,6825,Fernando Andrade Reis,,Igor Marques,W,1,Referee Decision,Brasileiro,100KG,4F,2018
+16588,6825,Fernando Andrade Reis,1827,James Puopolo,W,1,RNC,World Champ.,100KG,8F,2018
+17181,6825,Fernando Andrade Reis,,Adson Sales,W,1,Ezekiel,Floripa W. Open,100KG,F,2018
+17493,6825,Fernando Andrade Reis,,Luis Teixeira,W,1,N/A,Sao Paulo Open,100KG,4F,2018
+17495,6825,Fernando Andrade Reis,,Rafael Santos,W,1,N/A,Sao Paulo Open,100KG,SF,2018
+17501,6825,Fernando Andrade Reis,7478,Adam Wardzinski,W,1,Pts: 2x0,Sao Paulo Open,ABS,4F,2018
+18324,6825,Fernando Andrade Reis,6805,Max Gimenis,W,1,Referee Decision,Grand Slam RJ,110KG,R1,2018
+18329,6825,Fernando Andrade Reis,,Marcelo Castro,W,1,Triangle,Grand Slam RJ,110KG,8F,2018
+18333,6825,Fernando Andrade Reis,,Raphael Souza,W,1,Pts: 3x0,Grand Slam RJ,110KG,4F,2018
+18336,6825,Fernando Andrade Reis,1534,R. Evangelista,W,1,"Pts: 2x2, Adv",Grand Slam RJ,110KG,SF,2018
+19308,6825,Fernando Andrade Reis,,Richard Goncalves,W,1,N/A,Curitiba SMO,100KG,4F,2019
+19313,6825,Fernando Andrade Reis,,Daniel Neri,W,1,N/A,Curitiba SMO,ABS,R1,2019
+19317,6825,Fernando Andrade Reis,,Luciano Macedo,W,1,N/A,Curitiba SMO,ABS,4F,2019
+19659,6825,Fernando Andrade Reis,,Hugo Leonardo,W,1,Pts: 4x2,Pan American,100KG,8F,2019
+19931,6825,Fernando Andrade Reis,,Diogo Nascimento,W,1,Dogbar,Curitiba Pro,94KG,4F,2019
+19932,6825,Fernando Andrade Reis,9741,Pedro Elias,W,1,Referee Decision,Curitiba Pro,94KG,SF,2019
+20320,6825,Fernando Andrade Reis,,Diogo Nascimento,W,1,Choke from back,Brasileiro,94KG,R1,2019
+20680,6825,Fernando Andrade Reis,8686,Fellipe Trovo,W,1,"Pts: 0x0, Adv",World Champ.,94KG,R1,2019
+20824,6825,Fernando Andrade Reis,,Carlos Eduardo,W,1,Triangle armbar,Rio Open,94KG,4F,2019
+20825,6825,Fernando Andrade Reis,,Tiago Silva,W,1,Ezekiel,Rio Open,94KG,SF,2019
+20826,6825,Fernando Andrade Reis,,Jeancemy Santos,W,1,Choke from back,Rio Open,94KG,F,2019
+20829,6825,Fernando Andrade Reis,9121,Ygor Rodrigues,W,1,Arm in Ezekiel,Rio Open,ABS,SF,2019
+20831,6825,Fernando Andrade Reis,9554,Henrique Cardoso,W,1,Crucifix choke,Rio Open,ABS,F,2019
+21017,6825,Fernando Andrade Reis,7399,Horlando Monteiro,W,1,Pts: 2x0,SP BJJ Pro,94KG,4F,2019
+21107,6825,Fernando Andrade Reis,,Walisson Pardim,W,1,Points,BH Winter Open,94KG,SF,2019
+21111,6825,Fernando Andrade Reis,,Otavio Nalati,W,1,"Pts: 0x0, Adv",BH Winter Open,ABS,F,2019
+21246,6825,Fernando Andrade Reis,9559,Rida Haisam,W,1,Pts: 6x2,Grand Slam TYO,94KG,SF,2019
+21343,6825,Fernando Andrade Reis,,Arthur Mendes,W,1,Ezekiel,Floripa WO,94KG,4F,2019
+21344,6825,Fernando Andrade Reis,13392,Gabriel Volante,W,1,Referee Decision,Floripa WO,94KG,SF,2019
+21345,6825,Fernando Andrade Reis,,Simonelli Emiliano,W,1,Ezekiel,Floripa WO,94KG,F,2019
+21351,6825,Fernando Andrade Reis,13392,Gabriel Volante,W,1,Ezekiel,Floripa WO,ABS,4F,2019
+21353,6825,Fernando Andrade Reis,,Rafael Message,W,1,Kimura,Floripa WO,ABS,SF,2019
+21354,6825,Fernando Andrade Reis,8514,Fellipe Andrew,W,1,Choke from back,Floripa WO,ABS,F,2019
+21693,6825,Fernando Andrade Reis,,Renato Tagliari,W,1,Choke from back,Grand Slam LA,94KG,4F,2019
+21696,6825,Fernando Andrade Reis,9117,Hygor Brito,W,1,Referee Decision,Grand Slam LA,94KG,SF,2019
+21698,6825,Fernando Andrade Reis,8686,Fellipe Trovo,W,1,"Pts: 4x4, Adv",Grand Slam LA,94KG,F,2019
+22089,6825,Fernando Andrade Reis,12243,Leon Brito,W,1,Pts: 2x0,BH SPO,94KG,F,2019
+22093,6825,Fernando Andrade Reis,11572,Waldyr Filho,W,1,"Pts: 0x0, Adv",BH SPO,ABS,SF,2019
+22114,6825,Fernando Andrade Reis,,Thiago Dalcol,W,1,Choke from back,Curitiba SPO,94KG,SF,2019
+22120,6825,Fernando Andrade Reis,9554,Henrique Cardoso,W,1,Points,Curitiba SPO,ABS,SF,2019
+22333,6825,Fernando Andrade Reis,,Dilson Souza,W,1,Pts: 4x0,Grand Slam RJ,94KG,R1,2019
+22346,6825,Fernando Andrade Reis,,Caue Rodrigues,W,1,Pts: 9x0,Grand Slam RJ,94KG,RPC,2019
+22347,6825,Fernando Andrade Reis,10817,Gabriel Henrique,W,1,Referee Decision,Grand Slam RJ,94KG,3RD,2019
+22589,6825,Fernando Andrade Reis,,Gabriel Bosque,W,1,Pts: 3x0,South American,94KG,4F,2019
+34320,6825,Fernando Andrade Reis,,Marcos Carrozzino,W,1,Triangle,Brasileiro NoGi,91KG,4F,2022
+34323,6825,Fernando Andrade Reis,12277,Pedro Agrizzi,W,1,"Pts: 2x2, Adv",Brasileiro NoGi,91KG,SF,2022
+36036,6825,Fernando Andrade Reis,,Antii Simola,W,1,Estima lock,European NG,ABS,R1,2022
+36042,6825,Fernando Andrade Reis,,N. Abdulkareem,W,1,RNC,European NG,ABS,R2,2022
+36049,6825,Fernando Andrade Reis,9959,Perttu Tepponen,W,1,Pts: 2x0,European NG,ABS,4F,2022
+36116,6825,Fernando Andrade Reis,,Nicolas Rene,W,1,Armbar,European NG,97KG,R1,2022
+36118,6825,Fernando Andrade Reis,,Henrique Cabral,W,1,North south choke,European NG,97KG,4F,2022
+36122,6825,Fernando Andrade Reis,7478,Adam Wardzinski,W,1,Points,European NG,97KG,SF,2022
+36123,6825,Fernando Andrade Reis,9959,Perttu Tepponen,W,1,Points,European NG,97KG,F,2022

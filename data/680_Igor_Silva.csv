@@ -1,0 +1,127 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1520,680,Igor Silva,387,Braga Neto,L,0,Choke,Team Nationals,O88KG,F,2006
+2056,680,Igor Silva,1263,Lucio Rodrigues,L,0,Injury,Capital Challenge,99KG,F,2008
+2657,680,Igor Silva,543,Rodrigo Cavaca,L,0,Footlock,Brasileiro,O100KG,F,2010
+2862,680,Igor Silva,425,Bernardo Faria,L,0,Pts: 7x2,World Pro Trials,O92KG,F,2011
+3524,680,Igor Silva,576,Rafael Lovato,L,0,Kimura,European Open,ABS,4F,2012
+3900,680,Igor Silva,1272,Leo Nogueira,L,0,Armbar,World Champ.,ABS,R2,2012
+4141,680,Igor Silva,984,Marcus Almeida,L,0,Kneebar,World Champ.,O100KG,4F,2012
+4206,680,Igor Silva,320,Romulo Barral,L,0,Mounted X choke,Rio Open,ABS,F,2012
+4296,680,Igor Silva,537,Thiago Borges,L,0,Referee Decision,European NoGi,O100KG,F,2012
+4823,680,Igor Silva,984,Marcus Almeida,L,0,Armbar,World Champ.,O100KG,4F,2013
+4930,680,Igor Silva,2416,Felipe Pena,L,0,Choke from back,Rio Open,ABS,4F,2013
+5266,680,Igor Silva,1263,Lucio Rodrigues,L,0,Choke from back,European,100KG,SF,2014
+5271,680,Igor Silva,1740,Yuri Simoes,L,0,Armbar,European,ABS,4F,2014
+5621,680,Igor Silva,3083,Abraham Marte,L,0,Points,World Pro.,ABS,R1,2014
+5675,680,Igor Silva,3122,Luiz Panza,L,0,Armbar,World Pro.,100KG,SF,2014
+5848,680,Igor Silva,425,Bernardo Faria,L,0,Choke from back,World Champ.,100KG,4F,2014
+6512,680,Igor Silva,144,Andre Galvao,L,0,Injury,European,ABS,F,2015
+7157,680,Igor Silva,1757,Alexander Trans,L,0,Toe hold,World Pro,O95KG,SF,2015
+7508,680,Igor Silva,425,Bernardo Faria,L,0,Kneebar,World Champ.,100KG,SF,2015
+9537,680,Igor Silva,3009,Keenan Cornelius,L,0,Pts: 4x2,World Pro,ABS,R2,2016
+9662,680,Igor Silva,5509,Victor Honorio,L,0,N/A,World Pro,O94KG,4F,2016
+10061,680,Igor Silva,474,Alexandre Ceconi,L,0,"Pts: 2x2, Adv",World Champ.,100KG,SF,2016
+10094,680,Igor Silva,320,Romulo Barral,L,0,Cross choke,World Champ.,ABS,8F,2016
+10466,680,Igor Silva,1548,Jose Junior,L,0,Adv,Grand Slam LA,110KG,SF,2016
+10468,680,Igor Silva,5842,Mahamed Aly,L,0,Pts: 2x0,Grand Slam LA,110KG,3RD,2016
+11203,680,Igor Silva,,Rodolfo Bonfim,L,0,Points,Paris Open,ABS,SF,2016
+11982,680,Igor Silva,7478,Adam Wardzinski,L,0,Pts: 2x0,Munich Open,ABS,F,2017
+12900,680,Igor Silva,2416,Felipe Pena,L,0,Guillotine,ACBJJ 5,95KG,4F,2017
+13267,680,Igor Silva,4960,Dimitrius Souza,L,0,Points,Rio Winter Open,ABS,F,2017
+13302,680,Igor Silva,4521,Erberth Santos,L,0,Ankle lock,SP BJJ Pro,O100KG,F,2017
+13706,680,Igor Silva,5655,Lucas Barbosa,L,0,Choke from back,Asian Open,ABS,SF,2017
+14391,680,Igor Silva,8532,Gerard Labinski,L,0,"Pts: 0x0, Adv",Grand Slam RJ,110KG,F,2017
+15127,680,Igor Silva,7478,Adam Wardzinski,L,0,Pts: 5x0,British Nat. Pro,110KG,SF,2018
+15237,680,Igor Silva,10318,Eldar Rafigaev,L,0,Footlock,Netherlands Pro,110KG,SF,2018
+15246,680,Igor Silva,7478,Adam Wardzinski,L,0,Choke,Swiss Nat. Pro,110KG,F,2018
+15247,680,Igor Silva,7478,Adam Wardzinski,L,0,Pts: 3x0,Swiss Nat. Pro,ABS,SF,2018
+16190,680,Igor Silva,4521,Erberth Santos,L,0,Footlock,World Pro,110KG,SF,2018
+20057,680,Igor Silva,8762,Rodrigo Ribeiro,L,0,Pts: 2x0,WP BR Qualifier,110KG,4F,2019
+20750,680,Igor Silva,3200,Jackson Sousa,L,0,Pts: 4x2,King of Mats,110KG,RR,2019
+20754,680,Igor Silva,8532,Gerard Labinski,L,0,Pts: 2x0,King of Mats,110KG,RR,2019
+20758,680,Igor Silva,2403,Joao Rocha,L,0,"Pts: 0x0, Adv",King of Mats,110KG,RR,2019
+22757,680,Igor Silva,10295,Italo Moura,L,0,Referee Decision,Dublin Open,ABS,F,2019
+31158,680,Igor Silva,11709,Wallace Costa,L,0,Pts: 2x0,Grand Slam LDN,120KG,SF,2022
+2053,680,Igor Silva,,Antonio Batista,W,1,Points,Capital Challenge,99KG,4F,2008
+2055,680,Igor Silva,,F. Santoro,W,1,Points,Capital Challenge,99KG,SF,2008
+2204,680,Igor Silva,,Eder Lima,W,1,RNC,Brasileiro NoGi,O100KG,F,2009
+2861,680,Igor Silva,,Arimar Neves,W,1,Pts: 12x0,World Pro Trials,O92KG,SF,2011
+3424,680,Igor Silva,,Alberto Marmol,W,1,Choke from back,Team Nationals,O88kg,F,2011
+3888,680,Igor Silva,,Mike Wilson,W,1,Pts: 10x0,World Champ.,ABS,R2,2012
+4127,680,Igor Silva,,Raymond Warren,W,1,Choke,World Champ.,O100KG,R1,2012
+4134,680,Igor Silva,,Christopher Haraszti,W,1,Points,World Champ.,O100KG,R2,2012
+5677,680,Igor Silva,1263,Lucio Rodrigues,W,1,Points,World Pro.,100KG,3RD,2014
+6142,680,Igor Silva,,Robson Maia,W,1,Armbar,Moscow Open,ABS,F,2014
+6143,680,Igor Silva,,Marlon Queiroz,W,1,Armbar,Moscow Open,O100KG,SF,2014
+6494,680,Igor Silva,,A. Vieira,W,1,Mounted X choke,European,ABS,R2,2015
+6504,680,Igor Silva,,Maksymilian Wisniewski,W,1,Choke,European,ABS,R3,2015
+6509,680,Igor Silva,9711,Jurandir Conceicao,W,1,Armbar,European,ABS,4F,2015
+6511,680,Igor Silva,1263,Lucio Rodrigues,W,1,Choke from back,European,ABS,SF,2015
+6620,680,Igor Silva,,Alan Ferreira,W,1,Arm in Ezekiel,European,O100KG,4F,2015
+6624,680,Igor Silva,8560,Gabriel Lucas,W,1,Pts: 11x2,European,O100KG,SF,2015
+7150,680,Igor Silva,,Antonio Junior,W,1,Armbar,World Pro,O95KG,R1,2015
+7155,680,Igor Silva,,T. Gaia,W,1,Referee Decision,World Pro,O95KG,4F,2015
+7506,680,Igor Silva,926,Roberto Alencar,W,1,Choke,World Champ.,100KG,4F,2015
+9515,680,Igor Silva,,Michael Douglas,W,1,Referee Decision,World Pro,ABS,R1,2016
+9519,680,Igor Silva,,Karol Migo,W,1,Referee Decision,World Pro,ABS,R,2016
+9655,680,Igor Silva,,Christopher Bowe,W,1,Wristlock,World Pro,O94KG,R1,2016
+10054,680,Igor Silva,6359,Pedro Araujo,W,1,"Pts: 2x2, Adv",World Champ.,100KG,R1,2016
+10059,680,Igor Silva,543,Rodrigo Cavaca,W,1,Pts: 4x0,World Champ.,100KG,4F,2016
+10093,680,Igor Silva,7079,Carlos Farias,W,1,Pts: 2x0,World Champ.,ABS,R2,2016
+10464,680,Igor Silva,,Daniel Pollacia,W,1,Pts: 6x0,Grand Slam LA,110KG,4F,2016
+10475,680,Igor Silva,1534,R. Evangelista,W,1,Referee Decision,G. Slam NG LA,108KG,F,2016
+11094,680,Igor Silva,8762,Rodrigo Ribeiro,W,1,Points,Grand Slam RJ,110KG,R1,2016
+11101,680,Igor Silva,1548,Jose Junior,W,1,Referee Decision,Grand Slam RJ,110KG,SF,2016
+11102,680,Igor Silva,,Andre Campos,W,1,Adv,Grand Slam RJ,110KG,F,2016
+11123,680,Igor Silva,,Leonardo Chocolate,W,1,Armbar,G.S. Rio NoGi,109KG,SF,2016
+11124,680,Igor Silva,,Fernando Brito,W,1,Armbar,G.S. Rio NoGi,109KG,F,2016
+11196,680,Igor Silva,,Martin Gobel,W,1,Armbar,Paris Open,O100KG,SF,2016
+11200,680,Igor Silva,,Nicolas Penzer,W,1,Wristlock,Paris Open,ABS,4F,2016
+11364,680,Igor Silva,,Jiddu Lemos,W,1,Pts: 4x2,Al Ain Pro,108KG,SF,2016
+11634,680,Igor Silva,,Martin Gobel,W,1,Armbar,European Open,O100KG,4F,2017
+11636,680,Igor Silva,4177,Gustavo Dias,W,1,"Pts: 0x0, Adv",European Open,O100KG,SF,2017
+11976,680,Igor Silva,,Martin Gobel,W,1,Triangle,Munich Open,O100KG,SF,2017
+11977,680,Igor Silva,,M. Maciejewski,W,1,Ezekiel,Munich Open,O100KG,F,2017
+11978,680,Igor Silva,,Edson Oliveira,W,1,Ezekiel,Munich Open,ABS,4F,2017
+11980,680,Igor Silva,,Marek Zbrog,W,1,Armbar,Munich Open,ABS,SF,2017
+11983,680,Igor Silva,,Martin Gobel,W,1,Armbar,Munich N.G. Open,O97KG,SF,2017
+11984,680,Igor Silva,,Hassine Azarkan,W,1,Flying armbar,Munich N.G. Open,O97KG,F,2017
+13263,680,Igor Silva,,Levi Costa,W,1,Points,Rio Winter Open,O100KG,SF,2017
+13264,680,Igor Silva,,Eduardo Campos,W,1,Submission,Rio Winter Open,ABS,4F,2017
+13265,680,Igor Silva,,Otavio Nalati,W,1,Points,Rio Winter Open,ABS,SF,2017
+13299,680,Igor Silva,7224,Diogo Almeida,W,1,N/A,SP BJJ Pro,100KG,F,2017
+13301,680,Igor Silva,1986,Vitor Toledo,W,1,Armbar,SP BJJ Pro,O100KG,SF,2017
+13701,680,Igor Silva,,Daee Lee,W,1,Submission,Asian Open,100KG,F,2017
+13703,680,Igor Silva,,Unknown,W,1,Submission,Asian Open,ABS,4F,2017
+13839,680,Igor Silva,,Felipe Matos,W,1,Referee Decision,Grand Slam LA,110KG,SF,2017
+14170,680,Igor Silva,,Otto Silva,W,1,Pts: 8x2,Al Ain Pro,108KG,F,2017
+14386,680,Igor Silva,4177,Gustavo Dias,W,1,"Pts: 0x0, Adv",Grand Slam RJ,110KG,4F,2017
+14389,680,Igor Silva,9361,Guilherme Cordiviola,W,1,Triangle,Grand Slam RJ,110KG,SF,2017
+14757,680,Igor Silva,,Melksedeck Franco,W,1,Armbar,Dubai Nat. Pro,O95KG,SF,2017
+14758,680,Igor Silva,,Fellipe Paces,W,1,Armbar,Dubai Nat. Pro,O95KG,F,2017
+14848,680,Igor Silva,,Pablo Aragao,W,1,Triangle,Grand Slam AD,110KG,SF,2018
+14849,680,Igor Silva,,Mauricio Lima,W,1,Points,Grand Slam AD,110KG,F,2018
+14965,680,Igor Silva,543,Rodrigo Cavaca,W,1,Choke from back,ACB 10,95KG,SPF,2018
+14998,680,Igor Silva,,Diego Braz,W,1,Referee Decision,BR National Pro,ABS,SF,2018
+15003,680,Igor Silva,,Diego Braz,W,1,Armbar,BR National Pro,110KG,SF,2018
+15004,680,Igor Silva,,Flavio Silva,W,1,Pts: 6x0,BR National Pro,110KG,F,2018
+15005,680,Igor Silva,,Diego Braz,W,1,Referee Decision,BR National Pro,ABS,SF,2018
+15167,680,Igor Silva,,Yongam Noh,W,1,Armbar,Thailand Pro,110KG,F,2018
+15229,680,Igor Silva,,Antonio Junior,W,1,Pts: 6x0,Spain Nat. Pro,110KG,4F,2018
+15230,680,Igor Silva,,Sergio Navalon,W,1,Armbar,Spain Nat. Pro,110KG,SF,2018
+15231,680,Igor Silva,,Daniel Ladero,W,1,Choke from back,Spain Nat. Pro,110KG,F,2018
+15239,680,Igor Silva,,Mathias Schiemann,W,1,Submission,Netherlands Pro,110KG,3RD,2018
+16188,680,Igor Silva,7543,Nelton Pontes,W,1,Pts: 8x0,World Pro,110KG,4F,2018
+16195,680,Igor Silva,7111,Muslim Patsarigov,W,1,Referee Decision,World Pro,110KG,RPC,2018
+16196,680,Igor Silva,7543,Nelton Pontes,W,1,"Pts: 0x0, Adv",World Pro,110KG,RPC,2018
+16344,680,Igor Silva,3200,Jackson Sousa,W,1,Flying armbar,ACBJJ 13,95KG,SPF,2018
+16740,680,Igor Silva,8494,Abdurakhman Bilarov,W,1,Points,ACBJJ 14,95KG,SPF,2018
+22755,680,Igor Silva,11044,Pedro Veras,W,1,"Pts: 2x2, Adv",Dublin Open,ABS,SF,2019
+29759,680,Igor Silva,,Dimi Lapchenkov,W,1,Pts: 4x1,ACB Worlds,O95KG,SF,2021
+29760,680,Igor Silva,,Anton Seleznev,W,1,Referee Decision,ACB Worlds,O95KG,F,2021
+31151,680,Igor Silva,,Omar Frederick,W,1,Pts: 9x0,Grand Slam LDN,120KG,R1,2022
+31155,680,Igor Silva,12055,Yatan Bueno,W,1,Submission,Grand Slam LDN,120KG,4F,2022
+32029,680,Igor Silva,,Omar Frederik,W,1,N/A,Dublin Open,O100KG,SF,2022
+32030,680,Igor Silva,,Lucasz Michalec,W,1,Armbar,Dublin Open,O100KG,F,2022
+41262,680,Igor Silva,,Jaks Marinho,W,1,Submission,Asian Open,O100KG,SF,2023
+41263,680,Igor Silva,,Bryce sexton,W,1,Wristlock,Asian Open,O100KG,F,2023

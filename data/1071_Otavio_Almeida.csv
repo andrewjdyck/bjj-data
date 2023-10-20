@@ -1,0 +1,9 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+31,1071,Otavio Almeida,,Rodrigo Miranda,L,0,Points,LINJJI,76KG,F,1984
+33,1071,Otavio Almeida,67,Rickson Gracie,L,0,Armbar,LINJJI,ABS,F,1984
+39,1071,Otavio Almeida,,Rodrigo Miranda,L,0,Points,Copa Company,82KG,F,1985
+29,1071,Otavio Almeida,,Zé Paraíba,W,1,N/A,LINJJI,76KG,4F,1984
+30,1071,Otavio Almeida,1631,Sylvio Behring,W,1,Armbar,LINJJI,76KG,SF,1984
+32,1071,Otavio Almeida,,Rillion Gracie,W,1,Points,LINJJI,ABS,SF,1984
+38,1071,Otavio Almeida,,Gerson Mosquito,W,1,Points,Copa Company,82KG,SF,1985
+40,1071,Otavio Almeida,,Rodrigo Miranda,W,1,Points,Copa do LINJI,82KG,F,1985

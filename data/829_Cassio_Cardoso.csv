@@ -1,0 +1,8 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27,829,Cassio Cardoso,2460,Carlos Elias,W,1,Armbar,LINJJI,82KG,F,1983
+28,829,Cassio Cardoso,2460,Carlos Elias,W,1,Triangle,LINJJI,82KG,F,1984
+34,829,Cassio Cardoso,745,Carlos Machado,W,1,Points,LINJJI,82KG,SF,1984
+35,829,Cassio Cardoso,1817,Rigan Machado,W,1,Points,LINJJI,ABS,F,1984
+43,829,Cassio Cardoso,739,Marcelo Behring,W,1,Points,Vansport Cup,78KG,F,1985
+47,829,Cassio Cardoso,745,Carlos Machado,W,1,Points,III Copa Company,78KG,F,1986
+49,829,Cassio Cardoso,739,Marcelo Behring,W,1,Points,Desafio MB vs CC,ABS,SPF,1988

@@ -1,0 +1,64 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+6099,7376,Ilke Bulut,4163,Marcio Andre,L,0,Pts: 10x4,S/A SJJSAF,70KG,F,2014
+6148,7376,Ilke Bulut,1824,Roberto Satoshi,L,0,Choke from back,Asian Open,76KG,4F,2014
+6227,7376,Ilke Bulut,4655,Michael Liera,L,0,Points,Rickson Cup,76KG,F,2014
+6351,7376,Ilke Bulut,7321,Darragh OConaill,L,0,North south choke,London NoGi Open,79KG,F,2014
+6411,7376,Ilke Bulut,7082,Luca Anacoreta,L,0,Pts: 4x0,Munich NoGi,79KG,SF,2015
+6553,7376,Ilke Bulut,,Sandro Vieira,L,0,Pts: 2x0,European,76KG,R2,2015
+7031,7376,Ilke Bulut,174,Bruno Frazatto,L,0,Referee Decision,Rome Open,76KG,SF,2015
+7437,7376,Ilke Bulut,358,Lucas Lepri,L,0,Bow and arrow,World Champ.,76KG,8F,2015
+8871,7376,Ilke Bulut,,Leon Amancio,L,0,Points,Zurich Open,ABS,SF,2016
+9039,7376,Ilke Bulut,5238,Edwin Najmi,L,0,Referee Decision,PNBJJC,ABS,SPF,2016
+9597,7376,Ilke Bulut,,Alex Cabanes,L,0,Referee Decision,World Pro,77KG,R2,2016
+9967,7376,Ilke Bulut,4655,Michael Liera,L,0,Wristlock,World Champ.,76KG,R1,2016
+11572,7376,Ilke Bulut,4465,Andris Brunovskis,L,0,Cross choke,European Open,76KG,4F,2017
+12061,7376,Ilke Bulut,,Talison Soares,L,0,Pts: 2x0,Grand Slam LDN,77KG,F,2017
+13691,7376,Ilke Bulut,,Javier Valenciano,L,0,Points,Asian Open,82KG,4F,2017
+15193,7376,Ilke Bulut,7695,Sebastian Brosche,L,0,RNC,Munich Open,82KG,SF,2018
+15249,7376,Ilke Bulut,6151,Hiago George,L,0,Pts: 5x0,Swiss Nat. Pro,ABS,F,2018
+16143,7376,Ilke Bulut,,Alex Cabanes,L,0,"Pts: 0x0, Adv",World Pro,77KG,8F,2018
+16155,7376,Ilke Bulut,,Alex Cabanes,L,0,"Pts: 0x0, Pen",World Pro,77KG,RPC,2018
+16409,7376,Ilke Bulut,,Nicolas Penzer,L,0,Points,Zurich Open,ABS,SF,2018
+17693,7376,Ilke Bulut,8138,Hugo Marques,L,0,RNC,Brasileiro NoGi,79KG,R1,2018
+17886,7376,Ilke Bulut,9554,Henrique Cardoso,L,0,Pts: 10x4,Paris Fall Open,ABS,SF,2018
+17981,7376,Ilke Bulut,10399,Philippe Pomaski,L,0,Points,Geneva Open,ABS,SF,2018
+23416,7376,Ilke Bulut,9117,Hygor Brito,L,0,Choke from back,Torino Challenge,ABS,4F,2020
+28384,7376,Ilke Bulut,,Bruno Borges,L,0,Pts: 2x0,France Pro,77KG,SF,2021
+6147,7376,Ilke Bulut,,Akira Hosokawa,W,1,Collar choke,Asian Open,76KG,R1,2014
+6342,7376,Ilke Bulut,1542,Italo Lins,W,1,Pts: 6x4,London Open,76KG,4F,2014
+6343,7376,Ilke Bulut,,Douglas Barcellos,W,1,Choke,London Open,76KG,SF,2014
+6344,7376,Ilke Bulut,256,Oliver Geddes,W,1,Adv,London Open,76KG,F,2014
+6352,7376,Ilke Bulut,,Julien Gaillard,W,1,Choke from back,Paris Open,76KG,F,2014
+6353,7376,Ilke Bulut,,Julien Gaillard,W,1,RNC,Paris NoGi Open,73KG,F,2014
+6401,7376,Ilke Bulut,,Luiz Finocchio,W,1,Choke from mount,Munich NoGi,76KG,SF,2015
+6402,7376,Ilke Bulut,256,Oliver Geddes,W,1,Wristlock,Munich NoGi,76KG,F,2015
+6546,7376,Ilke Bulut,,Arbi Muradov,W,1,Pen,European,76KG,R1,2015
+7045,7376,Ilke Bulut,,Jorge Dos Santos,W,1,Points,Rome NoGi Open,73KG,F,2015
+7434,7376,Ilke Bulut,,Choi Choi,W,1,Points,World Champ.,76KG,R1,2015
+8801,7376,Ilke Bulut,,Douglas Barcelos,W,1,Choke,Berlin Open,76KG,SF,2015
+8802,7376,Ilke Bulut,9697,Sergio Calderon,W,1,Pts: 18x0,Berlin Open,76KG,F,2015
+8814,7376,Ilke Bulut,,Daniel Riou,W,1,Pts: 15x0,Madrid Open,76KG,SF,2015
+8815,7376,Ilke Bulut,,Douglas Barcelos,W,1,Triangle,Madrid Open,76KG,F,2015
+8817,7376,Ilke Bulut,,Herbert Estevao,W,1,Points,Madrid NoGi O.,73KG,SF,2015
+8818,7376,Ilke Bulut,,Douglas Barcelos,W,1,Injury,Madrid NoGi O.,73KG,F,2015
+8822,7376,Ilke Bulut,,Szabo Gyula,W,1,Adv,London FO,76KG,4F,2015
+8832,7376,Ilke Bulut,,Szabo Gyula,W,1,Adv,London FNGO,73KG,F,2015
+8844,7376,Ilke Bulut,620,Gustavo Dantas,W,1,Adv,Zurich Open,76KG,F,2015
+8864,7376,Ilke Bulut,,Giuliano Alves,W,1,Choke,Zurich Open,82KG,SF,2016
+8865,7376,Ilke Bulut,,Joao Pessoa,W,1,Pts: 2x0,Zurich Open,82KG,F,2016
+8869,7376,Ilke Bulut,,Daud Adaev,W,1,Pts: 10x0,Zurich Open,ABS,4F,2016
+11565,7376,Ilke Bulut,9261,Ross Nicholls,W,1,Referee Decision,European Open,76KG,8F,2017
+12052,7376,Ilke Bulut,,Youngam Noh,W,1,Referee Decision,Grand Slam LDN,77KG,R1,2017
+12057,7376,Ilke Bulut,,Pedro Farias,W,1,Referee Decision,Grand Slam LDN,77KG,4F,2017
+12059,7376,Ilke Bulut,7156,Tiago Bravo,W,1,"Pts: 0x0, Adv",Grand Slam LDN,77KG,SF,2017
+15245,7376,Ilke Bulut,,Sari Osseiran,W,1,Pts: 8x0,Swiss Nat. Pro,77KG,F,2018
+16153,7376,Ilke Bulut,,Burak Sarman,W,1,Referee Decision,World Pro,77KG,RPC,2018
+16407,7376,Ilke Bulut,,Tommi Pulkkanen,W,1,Points,Zurich Open,76KG,F,2018
+17393,7376,Ilke Bulut,,Unknown,W,1,Armbar,Summer Challenge,ABS,SPF,2018
+17881,7376,Ilke Bulut,,Nicolas Marcho,W,1,Points,Paris Fall Open,82KG,RR,2018
+17882,7376,Ilke Bulut,,Nicolas Marcho,W,1,Points,Paris Fall Open,82KG,F,2018
+17973,7376,Ilke Bulut,,Arthur Pucci,W,1,N/A,Geneva Open,82KG,SF,2018
+17975,7376,Ilke Bulut,9407,Alexandre Molinaro,W,1,Pts: 10x0,Geneva Open,82KG,F,2018
+23414,7376,Ilke Bulut,,Luca Caracciolo,W,1,Pts: 16x0,Torino Challenge,76KG,SF,2020
+23415,7376,Ilke Bulut,,Amin Niki,W,1,Points,Torino Challenge,76KG,F,2020
+28383,7376,Ilke Bulut,,Ben Robson,W,1,Pts: 4x4,France Pro,77KG,4F,2021

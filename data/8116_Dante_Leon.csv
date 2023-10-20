@@ -1,0 +1,164 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+13329,8116,Dante Leon,7096,Josh Hinger,L,0,RNC,American NG Nats,ABS,SF,2017
+13641,8116,Dante Leon,3009,Keenan Cornelius,L,0,Kimura,Chicago SMO,ABS,SF,2017
+13822,8116,Dante Leon,4235,Victor Silverio,L,0,"Pts: 0x0, Adv",Grand Slam LA,85KG,SF,2017
+13825,8116,Dante Leon,9637,Sergio Rios,L,0,Pts: 2x0,Grand Slam LA,85KG,RR,2017
+14032,8116,Dante Leon,3200,Jackson Sousa,L,0,Pts: 2x0,No Gi Pan Am.,ABS,SF,2017
+14409,8116,Dante Leon,5636,Manuel Ribamar,L,0,Pts: 3x2,BJJ NY Pro,82KG,4F,2017
+14618,8116,Dante Leon,8357,Gustavo Batista,L,0,Points,ACB JJ Worlds,85KG,RR,2017
+14627,8116,Dante Leon,7704,Helton Jose,L,0,Referee Decision,ACB JJ Worlds,ABS,SF,2017
+14694,8116,Dante Leon,7096,Josh Hinger,L,0,Referee Decision,NoGi Worlds,79KG,SF,2017
+15414,8116,Dante Leon,8105,Tommy Langaker,L,0,Pts: 2x0,Pan American,82KG,8F,2018
+15596,8116,Dante Leon,4789,Marcos Tinoco,L,0,Adv,Chicago Sp. Open,82KG,F,2018
+15607,8116,Dante Leon,5861,Jared Dopp,L,0,Pts: 6x4,Chicago Sp. Open,ABS,4F,2018
+15870,8116,Dante Leon,8427,Michael Perez,L,0,Outside heel hook,Kasai Pro 2,84KG,RR,2018
+15871,8116,Dante Leon,8346,Craig Jones,L,0,Pts: 2x0,Kasai Pro 2,84KG,RR,2018
+16319,8116,Dante Leon,7743,Inacio Neto,L,0,Pts: 4x2,Dallas SPO,ABS,SF,2018
+16546,8116,Dante Leon,6071,Gabriel Arges,L,0,Pts: 12x8,World Champ.,82KG,8F,2018
+16680,8116,Dante Leon,8394,Vagner Rocha,L,0,RNC,Grappling Ind.,82KG,SPF,2018
+16864,8116,Dante Leon,5636,Manuel Ribamar,L,0,Points,NY BJJ Pro,82KG,SF,2018
+17228,8116,Dante Leon,8729,Matt Leighton,L,0,Armbar,F2W 84,ABS,SPF,2018
+17402,8116,Dante Leon,8974,Kaynan Duarte,L,0,"Pts: 0x0, Adv",No Gi Pan Am.,ABS,4F,2018
+17589,8116,Dante Leon,8100,Rudson Mateus,L,0,Pts: 6x2,Grand Slam LA,85KG,SF,2018
+17596,8116,Dante Leon,7831,Diego Ramalho,L,0,Referee Decision,Grand Slam LA,85KG,3RD,2018
+17797,8116,Dante Leon,7664,Johnny Tama,L,0,Referee Decision,WSOG 2,81KG,R1,2018
+18642,8116,Dante Leon,8138,Hugo Marques,L,0,"Pts: 0x0, Adv",NoGi Worlds,79KG,SF,2018
+19623,8116,Dante Leon,7552,Isaque Bahiense,L,0,Pts: 4x2,Pan American,82KG,8F,2019
+20646,8116,Dante Leon,6071,Gabriel Arges,L,0,Pts: 4x0,World Champ.,82KG,R2,2019
+20975,8116,Dante Leon,7539,Renato Canuto,L,0,Pts: 5x4,KASAI SS Florida,77KG,SPF,2019
+21499,8116,Dante Leon,6071,Gabriel Arges,L,0,Referee Decision,F2W 123,85KG,SPF,2019
+21896,8116,Dante Leon,8394,Vagner Rocha,L,0,Referee Decision,ADCC,77KG,SF,2019
+21897,8116,Dante Leon,5649,Garry Tonon,L,0,Outside heel hook,ADCC,77KG,3RD,2019
+22503,8116,Dante Leon,10705,Kyle Boehm,L,0,RNC,KOTM 7,ABS,SF,2019
+23856,8116,Dante Leon,5649,Garry Tonon,L,0,Referee Decision,WNO,77KG,SPF,2020
+24852,8116,Dante Leon,10880,Roberto Jimenez,L,0,Referee Decision,WNO 5,SPF,88KG,2020
+25151,8116,Dante Leon,5636,Manuel Ribamar,L,0,Referee Decision,F2W 164,85KG,SPF,2021
+26919,8116,Dante Leon,11735,Nicky Ryan,L,0,Pts: 5x0,Road to ADCC,77KG,SPF,2021
+27905,8116,Dante Leon,12003,Tye Ruotolo,L,0,Guillotine,WNO Champ.,84KG,SF,2021
+27922,8116,Dante Leon,11771,William Tackett,L,0,Calf slicer,WNO Champ.,84KG,RPC,2021
+28290,8116,Dante Leon,8138,Hugo Marques,L,0,Referee Decision,NoGi Worlds,79KG,F,2021
+31296,8116,Dante Leon,12122,Mica Galvao,L,0,Referee Decision,WNO 12,83KG,SPF,2022
+32809,8116,Dante Leon,9344,PJ Barch,L,0,Referee Decision,GrappleFest 12,NA,SPF,2022
+33816,8116,Dante Leon,,Johanan Vielma,L,0,N/A,Orlando SMNGO,ABS,4F,2022
+35028,8116,Dante Leon,12122,Mica Galvao,L,0,Pts: 2x0,ADCC,77KG,SF,2022
+37924,8116,Dante Leon,224,Roberto Abreu,L,0,Referee Decision,Grappling Ind.,ABS,F,2023
+43182,8116,Dante Leon,13432,Luccas Lira,L,0,Pts: 2x0,NoGi Pan,ABS,8F,2023
+13309,8116,Dante Leon,,Piter Silva,W,1,Pts: 4x0,American NG Nats,79KG,4F,2017
+13310,8116,Dante Leon,8081,Nathan Mendelsohn,W,1,Kneebar,American NG Nats,79KG,SF,2017
+13311,8116,Dante Leon,,Marcos Campos,W,1,Kneebar,American NG Nats,79KG,F,2017
+13325,8116,Dante Leon,,Scott Thometz,W,1,Pts: 2x0,American NG Nats,ABS,R1,2017
+13327,8116,Dante Leon,5660,Lucas Rocha,W,1,Adv,American NG Nats,ABS,4F,2017
+13626,8116,Dante Leon,8477,Igor Paiva,W,1,Choke from back,Chicago SMO,82KG,SF,2017
+13627,8116,Dante Leon,9700,David Raab,W,1,Pts: 2x0,Chicago SMO,82KG,F,2017
+13637,8116,Dante Leon,,Jeff Cummings,W,1,Points,Chicago SMO,ABS,4F,2017
+13818,8116,Dante Leon,8081,Nathan Mendelsohn,W,1,"Pts: 0x0, Adv",Grand Slam LA,85KG,4F,2017
+14015,8116,Dante Leon,,Dustin Akbari,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,79KG,4F,2017
+14016,8116,Dante Leon,,Josh Bacallao,W,1,Pts: 6x0,No Gi Pan Am.,79KG,SF,2017
+14017,8116,Dante Leon,9587,Eduardo Rios,W,1,Pts: 11x2,No Gi Pan Am.,79KG,F,2017
+14031,8116,Dante Leon,,Vinicius Canabarro,W,1,Botinha,No Gi Pan Am.,ABS,4F,2017
+14406,8116,Dante Leon,,Fred Silva,W,1,Armbar,BJJ NY Pro,82KG,R1,2017
+14619,8116,Dante Leon,5660,Lucas Rocha,W,1,Pts: 4x0,ACB JJ Worlds,85KG,RR,2017
+14683,8116,Dante Leon,,Lucas Valle,W,1,Pts: 2x0,NoGi Worlds,79KG,R2,2017
+14691,8116,Dante Leon,9637,Sergio Rios,W,1,"Pts: 2x2, Adv",NoGi Worlds,79KG,4F,2017
+15595,8116,Dante Leon,9668,David Garmo,W,1,Triangle armbar,Chicago Sp. Open,82KG,SF,2018
+15605,8116,Dante Leon,,Brian Bergeron,W,1,Armbar,Chicago Sp. Open,ABS,R1,2018
+15723,8116,Dante Leon,,Evan Dewitt,W,1,Armbar,King of the Mat 2,ABS,R1,2018
+15724,8116,Dante Leon,,Salah Saim,W,1,Toe hold,King of the Mat 2,ABS,4F,2018
+15725,8116,Dante Leon,,Justin Michael,W,1,RNC,King of the Mat 2,ABS,SF,2018
+15726,8116,Dante Leon,,Brad Schneider,W,1,Armbar,King of the Mat 2,ABS,F,2018
+15732,8116,Dante Leon,,Cameron Knight,W,1,Choke from back,F2W 69,82KG,SPF,2018
+15873,8116,Dante Leon,7914,Nick Calvanese,W,1,Short choke,Kasai Pro 2,84KG,RR,2018
+16314,8116,Dante Leon,,Bruno Capac,W,1,Armbar,Dallas SPO,82KG,F,2018
+16317,8116,Dante Leon,8525,Alexandre Vieira,W,1,Pts: 7x0,Dallas SPO,ABS,4F,2018
+16518,8116,Dante Leon,,Bradley Hill,W,1,Choke from back,World Champ.,82KG,R1,2018
+16532,8116,Dante Leon,1820,Delson Heleno,W,1,Armbar,World Champ.,82KG,R2,2018
+16793,8116,Dante Leon,,Joe Baize,W,1,RNC,F2W 79,82KG,SPF,2018
+16796,8116,Dante Leon,,Kyle Thomison,W,1,RNC,Dreem Nutrition,81KG,R1,2018
+16797,8116,Dante Leon,,Isaac Underwood,W,1,Armbar,Dreem Nutrition,81KG,4F,2018
+16800,8116,Dante Leon,,Alex Hernandez,W,1,N/A,Dreem Nutrition,81KG,SF,2018
+16801,8116,Dante Leon,,Michael Carpenter,W,1,Kneebar,Dreem Nutrition,81KG,F,2018
+17204,8116,Dante Leon,,Robert Malof,W,1,Points,Chicago SM Open,82KG,F,2018
+17218,8116,Dante Leon,,Kristopher Lopes,W,1,RNC,Chicago SM NGO,ABS,SF,2018
+17219,8116,Dante Leon,9668,David Garmo,W,1,RNC,Chicago SM NGO,ABS,F,2018
+17397,8116,Dante Leon,,Bradley Hill,W,1,"Pts: 0x0, Adv",No Gi Pan Am.,ABS,8F,2018
+17433,8116,Dante Leon,,Athos Miranda,W,1,RNC,No Gi Pan Am.,79KG,4F,2018
+17437,8116,Dante Leon,,Enrique Galarza,W,1,Pts: 6x0,No Gi Pan Am.,79KG,SF,2018
+17438,8116,Dante Leon,9253,Michael Trasso,W,1,Pts: 2x0,No Gi Pan Am.,79KG,F,2018
+17585,8116,Dante Leon,,Damien Nitkin,W,1,Choke,Grand Slam LA,85KG,4F,2018
+17595,8116,Dante Leon,,Bradley Hill,W,1,Pts: 7x2,Grand Slam LA,85KG,RR,2018
+18407,8116,Dante Leon,,Nick Spacek,W,1,Armbar,KOTM Invitational,ABS,R1,2018
+18409,8116,Dante Leon,,Kyle Thomson,W,1,RNC,KOTM Invitational,ABS,4F,2018
+18411,8116,Dante Leon,,Leon Jackson,W,1,Kneebar,KOTM Invitational,ABS,SF,2018
+18628,8116,Dante Leon,9440,Jeremy Jackson,W,1,Guillotine,NoGi Worlds,79KG,R1,2018
+18635,8116,Dante Leon,,Enrique Falarza,W,1,Armbar,NoGi Worlds,79KG,R2,2018
+18641,8116,Dante Leon,4542,Felipe Cesar,W,1,RNC,NoGi Worlds,79KG,4F,2018
+18731,8116,Dante Leon,,NA,W,1,Kneebar,Bigfoot Inv.,ABS,4F,2019
+18732,8116,Dante Leon,,NA,W,1,Manoplata,Bigfoot Inv.,ABS,SF,2019
+18733,8116,Dante Leon,,Elijah Carlton,W,1,Armbar,Bigfoot Inv.,ABS,F,2019
+19018,8116,Dante Leon,,M. Lutes,W,1,RNC,Kasai Dallas,82KG,SPF,2019
+19614,8116,Dante Leon,,Thomas Keenan,W,1,"Pts: 0x0, Adv",Pan American,82KG,R1,2019
+19790,8116,Dante Leon,5238,Edwin Najmi,W,1,RNC,Kasai 5,79KG,SPF,2019
+20492,8116,Dante Leon,,Chris Dempsey,W,1,Triangle,KOTM Inv.,ABS,R1,2019
+20493,8116,Dante Leon,9668,David Garmo,W,1,RNC,KOTM Inv.,ABS,4F,2019
+20494,8116,Dante Leon,,Jared Lavagi,W,1,Triangle,KOTM Inv.,ABS,SF,2019
+20495,8116,Dante Leon,,Q. Roszenweig,W,1,Armbar,KOTM Inv.,ABS,F,2019
+20518,8116,Dante Leon,,Rodrigo Gortari,W,1,RNC,Chicago SPO,82KG,SF,2019
+20519,8116,Dante Leon,,Lucas Valle,W,1,Violin armlock,Chicago SPO,82KG,F,2019
+20642,8116,Dante Leon,,Lucas Valle,W,1,Armbar,World Champ.,82KG,R1,2019
+21118,8116,Dante Leon,,Luiz Firminio,W,1,Heel hook,Sub Stars,80KG,SPF,2019
+21856,8116,Dante Leon,6354,Jonathan Satava,W,1,Pts: 3x0,ADCC,77KG,R1,2019
+21862,8116,Dante Leon,358,Lucas Lepri,W,1,Pts: 3x0,ADCC,77KG,4F,2019
+22218,8116,Dante Leon,7552,Isaque Bahiense,W,1,Guillotine,F2W 129,81KG,SPF,2019
+22498,8116,Dante Leon,,Scott Jutras,W,1,Kneebar,KOTM 7,ABS,R1,2019
+22501,8116,Dante Leon,,A. Baker,W,1,RNC,KOTM 7,ABS,4F,2019
+22698,8116,Dante Leon,4163,Marcio Andre,W,1,Referee Decision,GrappleFest 7,85KG,SPF,2019
+22872,8116,Dante Leon,,Jaakko Vilander,W,1,Pts: 22x0,NoGi Worlds,79KG,R1,2019
+22876,8116,Dante Leon,11027,Pedro Rocha,W,1,Triangle armbar,NoGi Worlds,79KG,4F,2019
+22880,8116,Dante Leon,4542,Felipe Cesar,W,1,Pts: 4x2,NoGi Worlds,79KG,SF,2019
+22882,8116,Dante Leon,4460,Jaime Canuto,W,1,Pts: 4x2,NoGi Worlds,79KG,F,2019
+23208,8116,Dante Leon,7539,Renato Canuto,W,1,Pts: 5x4,Kasai Pro 7,77KG,SPF,2020
+23528,8116,Dante Leon,12003,Tye Ruotolo,W,1,Referee Decision,Grapplefest 8,77KG,SPF,2020
+23736,8116,Dante Leon,7664,Johnny Tama,W,1,Triangle,F2W 142,N/A,SPF,2020
+24081,8116,Dante Leon,11049,Kody Steele,W,1,Referee Decision,WNO 4,77KG,SPF,2020
+27359,8116,Dante Leon,11939,Jackson Douglas,W,1,Inside heel hook,Charleston SNG,ABS,4F,2021
+27363,8116,Dante Leon,12372,Francisco Cuneo,W,1,Pts: 9x0,Charleston SNG,ABS,SF,2021
+27365,8116,Dante Leon,,Lucas Laet,W,1,Outside heel hook,Charleston SNG,ABS,F,2021
+27501,8116,Dante Leon,1386,Davi Ramos,W,1,RNC,F2W 182,77KG,SPF,2021
+27901,8116,Dante Leon,10588,Jon Blank,W,1,Referee Decision,WNO Champ.,84KG,4F,2021
+28270,8116,Dante Leon,,Clay Mayfield,W,1,Reverse triangle,NoGi Worlds,79KG,R2,2021
+28279,8116,Dante Leon,,Rehan Muttalib,W,1,Outside heel hook,NoGi Worlds,79KG,8F,2021
+28285,8116,Dante Leon,9344,PJ Barch,W,1,"Pts: 2x2, Adv",NoGi Worlds,79KG,4F,2021
+28289,8116,Dante Leon,10220,Paulo Gabriel,W,1,RNC,NoGi Worlds,79KG,SF,2021
+29315,8116,Dante Leon,11707,Oliver Taza,W,1,Referee Decision,GrappleFest,80KG,SPF,2021
+30704,8116,Dante Leon,,M. Szczecinski,W,1,Armbar,GrappleFest 11,80KG,SPF,2022
+33803,8116,Dante Leon,12372,Francisco Cuneo,W,1,Points,Orlando SMNGO,79KG,SF,2022
+33804,8116,Dante Leon,10295,Italo Moura,W,1,RNC,Orlando SMNGO,79KG,F,2022
+34544,8116,Dante Leon,,Colon Santana,W,1,RNC,Chicago SMNG,79KG,SF,2022
+34545,8116,Dante Leon,,Charles Murdoch,W,1,RNC,Chicago SMNG,79KG,F,2022
+34549,8116,Dante Leon,,Colon Santana,W,1,RNC,Chicago SMNG,ABS,SF,2022
+34550,8116,Dante Leon,,Charles Murdoch,W,1,Yoko Sankaku,Chicago SMNG,ABS,F,2022
+35020,8116,Dante Leon,,Magid Hage,W,1,Armbar,ADCC,77KG,R1,2022
+35026,8116,Dante Leon,,M. Szczecinski,W,1,Referee Decision,ADCC,77KG,4F,2022
+35031,8116,Dante Leon,9344,PJ Barch,W,1,Armbar,ADCC,77KG,3RD,2022
+36826,8116,Dante Leon,,Allika Villatora,W,1,Reverse triangle,NoGi Worlds,73KG,8F,2022
+36830,8116,Dante Leon,,Gabriel Ferreira,W,1,RNC,NoGi Worlds,73KG,4F,2022
+36832,8116,Dante Leon,9934,Deandre Corbe,W,1,Short choke,NoGi Worlds,73KG,SF,2022
+36834,8116,Dante Leon,13192,Carlos Henrique,W,1,Pts: 2x0,NoGi Worlds,73KG,F,2022
+37819,8116,Dante Leon,,Ricardo Pena,W,1,RNC,Tampa NGO,79KG,SF,2023
+37821,8116,Dante Leon,,Matheus Galvao,W,1,Pts: 9x0,Tampa NGO,79KG,F,2023
+37829,8116,Dante Leon,,Leon Jackson,W,1,Armbar,Tampa NGO,ABS,SF,2023
+37831,8116,Dante Leon,,Matheus Galvao,W,1,Guillotine,Tampa NGO,ABS,F,2023
+37915,8116,Dante Leon,,Paul Woodrum,W,1,Pts: 4x2,Grappling Ind.,ABS,R1,2023
+37918,8116,Dante Leon,,Ryan Cloud,W,1,Pts: 7x2,Grappling Ind.,ABS,8F,2023
+37920,8116,Dante Leon,,Chris Passerrello,W,1,Pts: 7x2,Grappling Ind.,ABS,4F,2023
+37922,8116,Dante Leon,,Ben Radcliff,W,1,Pts: 2x0,Grappling Ind.,ABS,SF,2023
+38305,8116,Dante Leon,10506,Jeferson Guaresi,W,1,RNC,Twisted Church,NA,SPF,2023
+40028,8116,Dante Leon,12080,Ruan Alvarenga,W,1,RNC,WNO 18,70KG,SPF,2023
+40798,8116,Dante Leon,,Nathan Haddad,W,1,Submission,Indianap. NGO,85KG,F,2023
+41324,8116,Dante Leon,9344,PJ Barch,W,1,Referee Decision,247 Fighting,NA,SPF,2023
+41999,8116,Dante Leon,11223,Ethan Crelinsten,W,1,RNC,WNO 19,70KG,SPF,2023
+42208,8116,Dante Leon,,Kenta Iwamoto,W,1,Armbar,AIGA,76KG,RR,2023
+42209,8116,Dante Leon,,Adilov Abduzhalil,W,1,Armbar,AIGA,83KG,RR,2023
+43286,8116,Dante Leon,7519,Eliot Kelly,W,1,Pts: 4x0,NoGi Pan,97KG,4F,2023
+43290,8116,Dante Leon,13432,Luccas Lira,W,1,"Pts: 0x0, Adv",NoGi Pan,97KG,SF,2023
+43292,8116,Dante Leon,9157,Devhonte Johnson,W,1,Pts: 2x0,NoGi Pan,97KG,F,2023

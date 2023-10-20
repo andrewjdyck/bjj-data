@@ -1,0 +1,19 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+34013,13269,Lucas Souza,12671,Uanderson Ferreira,L,0,Pts: 1x0,Grand Slam RJ,85KG,R1,2022
+35143,13269,Lucas Souza,13076,Francisco Lo,L,0,Points,SP Open,82KG,SF,2022
+36583,13269,Lucas Souza,12287,Pedro Maia,L,0,Pts: 6x0,Balneario Open,82KG,SF,2022
+37008,13269,Lucas Souza,12287,Pedro Maia,L,0,Pts: 6x0,Rio SMO,82KG,SF,2023
+38037,13269,Lucas Souza,9793,Alexandre Jesus,L,0,Pts: 3x0,Curitiba SMO,82KG,4F,2023
+38573,13269,Lucas Souza,,Yuri Rodrigues,L,0,"Pts: 0x0, Pen",Rio Fall Open,82KG,4F,2023
+39492,13269,Lucas Souza,12287,Pedro Maia,L,0,Cachecol choke,Brasileiro,82KG,R1,2023
+35140,13269,Lucas Souza,,Vinicius Wolff,W,1,Pts: 4x0,SP Open,82KG,4F,2022
+36579,13269,Lucas Souza,,Lucas Silva,W,1,Choke from back,Balneario Open,82KG,4F,2022
+37000,13269,Lucas Souza,,Daniel Andres,W,1,Armbar,Rio SMO,82KG,R1,2023
+37003,13269,Lucas Souza,,Matheus Ferreira,W,1,Referee Decision,Rio SMO,82KG,4F,2023
+37401,13269,Lucas Souza,,Matheus Dauria,W,1,Choke from back,Sul Brasileiro,82KG,R1,2023
+37405,13269,Lucas Souza,,Matheus Batista,W,1,Choke from back,Sul Brasileiro,82KG,4F,2023
+37408,13269,Lucas Souza,,Guilherme Jhonis,W,1,Toe hold,Sul Brasileiro,82KG,SF,2023
+37409,13269,Lucas Souza,,Andre Ygor,W,1,Choke from back,Sul Brasileiro,82KG,F,2023
+38025,13269,Lucas Souza,,Guilherme Jones,W,1,"Pts: 0x0, Adv",Curitiba SMO,82KG,R1,2023
+38028,13269,Lucas Souza,,Yuri Rodrigues,W,1,Pts: 4x2,Curitiba SMO,82KG,8F,2023
+38569,13269,Lucas Souza,,Henrique Nobrega,W,1,Pts: 4x2,Rio Fall Open,82KG,R1,2023

@@ -1,0 +1,63 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25612,11878,Andy Murasaki,10509,Mathias Luna,L,0,Referee Decision,WP BR Qualifier,77KG,4F,2021
+27571,11878,Andy Murasaki,10085,Johnatha Alves,L,0,Pts: 4x2,Pan American,76KG,8F,2021
+29969,11878,Andy Murasaki,,Matheus Oliveira,L,0,"Pts: 0x0, Adv",Austin WO,82KG,4F,2022
+30944,11878,Andy Murasaki,10085,Johnatha Alves,L,0,"Pts: 8x8, Adv",LA Open,76KG,F,2022
+31661,11878,Andy Murasaki,10085,Johnatha Alves,L,0,Pts: 2x0,Pan American,76KG,F,2022
+32951,11878,Andy Murasaki,11697,Tainan Dalpra,L,0,Cachecol choke,World Champ.,82KG,F,2022
+37848,11878,Andy Murasaki,10085,Johnatha Alves,L,0,Referee Decision,IBJJF GP,76KG,F,2023
+40324,11878,Andy Murasaki,8357,Gustavo Batista,L,0,Pts: 4x2,World Champ.,88KG,F,2023
+25587,11878,Andy Murasaki,9031,Kennedy Maciel,W,1,Referee Decision,EUG 1,70KG,4F,2021
+25590,11878,Andy Murasaki,4248,Gianni Grippo,W,1,Triangle,EUG 1,70KG,SF,2021
+25592,11878,Andy Murasaki,9002,Matheus Gabriel,W,1,Referee Decision,EUG 1,70KG,F,2021
+27845,11878,Andy Murasaki,12048,Rafael Anjos,W,1,"Pts: 0x0, Adv",Atlanta SMOP,82KG,SF,2021
+27847,11878,Andy Murasaki,12419,Daniel Diniz,W,1,Katagatame,Atlanta SMOP,82KG,F,2021
+30473,11878,Andy Murasaki,,Clay Mayfield,W,1,Pts: 11x2,Atlanta WO,82KG,SF,2022
+30478,11878,Andy Murasaki,9635,Guilherme Rocha,W,1,"Pts: 2x2, Adv",Atlanta WO,ABS,R1,2022
+30481,11878,Andy Murasaki,10698,Matheus Godoy,W,1,Armbar,Atlanta WO,ABS,4F,2022
+30484,11878,Andy Murasaki,,Clay Mayfield,W,1,Crucifix choke,Atlanta WO,ABS,SF,2022
+30685,11878,Andy Murasaki,,Chris Gabrielson,W,1,Choke from back,Miami WO,82KG,SF,2022
+30686,11878,Andy Murasaki,,Rodrigo Gortari,W,1,Verbal tap,Miami WO,82KG,F,2022
+30695,11878,Andy Murasaki,,Joao Albuquerque,W,1,Armbar,Miami WO,ABS,4F,2022
+30698,11878,Andy Murasaki,,Suraj Budhram,W,1,Arm in Ezekiel,Miami WO,ABS,SF,2022
+30699,11878,Andy Murasaki,9635,Guilherme Rocha,W,1,Armbar,Miami WO,ABS,F,2022
+30788,11878,Andy Murasaki,12372,Francisco Cuneo,W,1,Mounted X choke,Dallas Open,82KG,SF,2022
+30789,11878,Andy Murasaki,10835,Eduardo Avelar,W,1,Pts: 8x2,Dallas Open,82KG,F,2022
+30808,11878,Andy Murasaki,,Austin Oranday,W,1,Armbar,Dallas Open,ABS,4F,2022
+30809,11878,Andy Murasaki,6432,Yan Lucas,W,1,Pts: 6x2,Dallas Open,ABS,SF,2022
+30811,11878,Andy Murasaki,11384,Andre Porfirio,W,1,Pts: 4x0,Dallas Open,ABS,F,2022
+30942,11878,Andy Murasaki,11534,Raul Basilio,W,1,Pts: 2x0,LA Open,76KG,4F,2022
+30943,11878,Andy Murasaki,5930,Rodrigo Freitas,W,1,Pts: 2x0,LA Open,76KG,SF,2022
+31648,11878,Andy Murasaki,7664,Johnny Tama,W,1,Choke from back,Pan American,76KG,R1,2022
+31654,11878,Andy Murasaki,11754,Victor Nithael,W,1,Pts: 4x2,Pan American,76KG,R2,2022
+31658,11878,Andy Murasaki,,Sergio Soares,W,1,Katagatame,Pan American,76KG,4F,2022
+31660,11878,Andy Murasaki,12225,Igor Feliz,W,1,Pts: 5x0,Pan American,76KG,SF,2022
+32936,11878,Andy Murasaki,,Austin Oranday,W,1,Toe hold,World Champ.,82KG,R1,2022
+32944,11878,Andy Murasaki,5636,Manuel Ribamar,W,1,Choke from back,World Champ.,82KG,8F,2022
+32947,11878,Andy Murasaki,9067,Leonardo Lara,W,1,Pts: 6x0,World Champ.,82KG,4F,2022
+32950,11878,Andy Murasaki,8105,Tommy Langaker,W,1,Pts: 2x0,World Champ.,82KG,SF,2022
+35817,11878,Andy Murasaki,,Anthony Erbert,W,1,Submission,Charleston FO,82KG,SF,2022
+35818,11878,Andy Murasaki,12338,Gialysson Freitas,W,1,Armbar,Charleston FO,82KG,F,2022
+35893,11878,Andy Murasaki,,Lucas Garcia,W,1,Submission,Houston FO,82KG,4F,2022
+35896,11878,Andy Murasaki,9217,Caio Caetano,W,1,Submission,Houston FO,82KG,SF,2022
+35898,11878,Andy Murasaki,9876,Alef Brito,W,1,Submission,Houston FO,82KG,F,2022
+35917,11878,Andy Murasaki,,Vinicius Wong,W,1,Submission,Houston FNGO,79KG,SF,2022
+35919,11878,Andy Murasaki,12372,Francisco Cuneo,W,1,Pts: 4x0,Houston FNGO,79KG,F,2022
+36838,11878,Andy Murasaki,,Charles Murdock,W,1,Submission,NoGi Worlds,79KG,R1,2022
+36848,11878,Andy Murasaki,10835,Eduardo Avelar,W,1,Injury,NoGi Worlds,79KG,4F,2022
+36850,11878,Andy Murasaki,10295,Italo Moura,W,1,Pts: 4x0,NoGi Worlds,79KG,SF,2022
+36851,11878,Andy Murasaki,12225,Igor Feliz,W,1,Inside heel hook,NoGi Worlds,79KG,F,2022
+37195,11878,Andy Murasaki,9635,Guilherme Rocha,W,1,Choke from back,European Open,76KG,R2,2023
+37197,11878,Andy Murasaki,11132,Leon Larman,W,1,Katagatame,European Open,76KG,4F,2023
+37201,11878,Andy Murasaki,12897,Elijah Dorsey,W,1,Katagatame,European Open,76KG,SF,2023
+37202,11878,Andy Murasaki,10216,Natan Chueng,W,1,"Pts: 0x0, Adv",European Open,76KG,F,2023
+37598,11878,Andy Murasaki,,Seungmoon Baek,W,1,Choke from back,Spyder RTBB,75KG,4F,2023
+37601,11878,Andy Murasaki,4163,Marcio Andre,W,1,Pts: 2x0,Spyder RTBB,75KG,SF,2023
+37602,11878,Andy Murasaki,10216,Natan Chueng,W,1,Pts: 19x0,Spyder RTBB,75KG,F,2023
+37847,11878,Andy Murasaki,13192,Carlos Henrique,W,1,Choke from back,IBJJF GP,76KG,SF,2023
+40300,11878,Andy Murasaki,11960,Joao Cizeski,W,1,Referee Decision,World Champ.,88KG,R1,2023
+40317,11878,Andy Murasaki,8528,Servio Tulio,W,1,Pts: 3x0,World Champ.,88KG,8F,2023
+40321,11878,Andy Murasaki,7047,Matheus Spirandeli,W,1,Choke from back,World Champ.,88KG,4F,2023
+40322,11878,Andy Murasaki,7552,Isaque Bahiense,W,1,"Pts: 0x0, Adv",World Champ.,88KG,SF,2023
+41758,11878,Andy Murasaki,,Eliyah Lavatai,W,1,Armbar,SDiego SMO,88KG,SF,2023
+41759,11878,Andy Murasaki,10509,Mathias Luna,W,1,Points,SDiego SMO,88KG,F,2023

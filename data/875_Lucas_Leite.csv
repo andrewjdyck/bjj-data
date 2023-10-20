@@ -1,0 +1,85 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1417,875,Lucas Leite,,Fredson Alves,L,0,Ezekiel,World Champ.,76KG,R1,2006
+1644,875,Lucas Leite,453,Daniel Moraes,L,0,Points,ADCC Trials,77KG,SF,2007
+1790,875,Lucas Leite,687,Marcio Feitosa,L,0,Pts: 2x0,NoGi Pan Am.,76KG,F,2007
+1871,875,Lucas Leite,108,Gustavo Campos,L,0,Pts: 5x4,Pan American,82KG,SF,2008
+1932,875,Lucas Leite,1617,Victor Estima,L,0,Armbar,World Champ.,82KG,R1,2008
+2194,875,Lucas Leite,2107,Otavio Sousa,L,0,Pts: 4x0,Pan American,ABS,4F,2009
+2345,875,Lucas Leite,16,Marcelo Garcia,L,0,Pts: 6x0,World Champ.,82KG,SF,2009
+2556,875,Lucas Leite,390,Abmar Barbosa,L,0,Armbar,Pan American,82KG,SF,2010
+2611,875,Lucas Leite,446,Gilbert Burns,L,0,N/A,No Gi Worlds,79KG,SF,2010
+2635,875,Lucas Leite,224,Roberto Abreu,L,0,Points,No Gi Worlds,ABS,SF,2010
+2695,875,Lucas Leite,410,Claudio Calasans,L,0,Points,World Champ.,82KG,4F,2010
+2886,875,Lucas Leite,410,Claudio Calasans,L,0,Wristlock,Pan American,82KG,F,2011
+3151,875,Lucas Leite,16,Marcelo Garcia,L,0,Pts: 2x0,World Champ.,82KG,F,2011
+3796,875,Lucas Leite,410,Claudio Calasans,L,0,Pts: 2x0,World Pro.,82KG,F,2012
+4063,875,Lucas Leite,2107,Otavio Sousa,L,0,Pts: 6x4,World Champ.,82KG,SF,2012
+4367,875,Lucas Leite,3009,Keenan Cornelius,L,0,Armbar,World Expo,ABS,SPF,2013
+4814,875,Lucas Leite,247,Rodolfo Vieira,L,0,Brabo choke,World Champ.,94KG,F,2013
+5017,875,Lucas Leite,320,Romulo Barral,L,0,Points,ADCC,88KG,4F,2013
+5123,875,Lucas Leite,484,Murilo Santana,L,0,Adv,NoGi Worlds,ABS,SF,2013
+5618,875,Lucas Leite,3122,Luiz Panza,L,0,Armbar,World Pro.,ABS,R1,2014
+5667,875,Lucas Leite,422,Braulio Estima,L,0,Pts: 3x0,World Pro.,94KG,R1,2014
+5841,875,Lucas Leite,4960,Dimitrius Souza,L,0,Adv,World Champ.,94KG,4F,2014
+6962,875,Lucas Leite,3009,Keenan Cornelius,L,0,Pts: 4x2,Marianas Open,ABS,SF,2015
+7503,875,Lucas Leite,84,Alexandre Ribeiro,L,0,Pts: 4x2,World Champ.,94KG,F,2015
+10016,875,Lucas Leite,4789,Marcos Tinoco,L,0,"Pts: 2x2, Adv",World Champ.,82KG,4F,2016
+13193,875,Lucas Leite,7507,Nicholas Meregali,L,0,Choke from back,World Champ.,94KG,4F,2017
+1563,875,Lucas Leite,5785,Paulo Guillobel,W,1,Pts: 2x0,GQ All Star Pro,72KG,4F,2007
+1567,875,Lucas Leite,177,Rany Yahya,W,1,Pts: 8x3,GQ All Star Pro,72KG,SF,2007
+1568,875,Lucas Leite,898,Bill Cooper,W,1,Points,GQ All Star Pro,72KG,F,2007
+1613,875,Lucas Leite,921,Rafael Barbosa,W,1,Pts: 7x2,Pan American,76KG,F,2007
+1789,875,Lucas Leite,,Joao Cunha,W,1,RNC,NoGi Pan Am.,76KG,SF,2007
+1935,875,Lucas Leite,,Diego Gamonal,W,1,Points,World Champ.,82KG,R1,2008
+2009,875,Lucas Leite,,Rodrigo Teixeira,W,1,Referee Decision,NoGi Worlds,79KG,R1,2008
+2170,875,Lucas Leite,,Jay Pages,W,1,Choke from back,Pan American,82KG,4F,2009
+2174,875,Lucas Leite,,Augusto Vieira,W,1,Points,Pan American,82KG,SF,2009
+2175,875,Lucas Leite,788,Kron Gracie,W,1,Pts: 7x0,Pan American,82KG,F,2009
+2340,875,Lucas Leite,788,Kron Gracie,W,1,Pts: 2x0,World Champ.,82KG,4F,2009
+2419,875,Lucas Leite,,Diego Gamonal,W,1,Points,NoGi Worlds,79KG,8F,2009
+2421,875,Lucas Leite,,Mike Jarmilo,W,1,Pts: 2x0,NoGi Worlds,79KG,4F,2009
+2423,875,Lucas Leite,484,Murilo Santana,W,1,Pts: 2x0,NoGi Worlds,79KG,SF,2009
+2425,875,Lucas Leite,,Carlos Ferreira,W,1,Pts: 8x0,NoGi Worlds,79KG,F,2009
+2548,875,Lucas Leite,,Carlos Sievert,W,1,Choke from back,Pan American,82KG,R1,2010
+2552,875,Lucas Leite,909,Adriano Silva,W,1,Points,Pan American,82KG,4F,2010
+2628,875,Lucas Leite,926,Roberto Alencar,W,1,Points,No Gi Worlds,ABS,8F,2010
+2634,875,Lucas Leite,,Leandro Leite,W,1,Points,No Gi Worlds,ABS,4F,2010
+2817,875,Lucas Leite,898,Bill Cooper,W,1,Points,Grapplers Quest,82KG,F,2010
+2885,875,Lucas Leite,446,Gilbert Burns,W,1,Adv,Pan American,82KG,SF,2011
+3042,875,Lucas Leite,,Sylvio Augusto,W,1,Pts: 15x0,World Champ.,82KG,RDS,2011
+3051,875,Lucas Leite,1017,Gabriel Goulart,W,1,Referee Decision,World Champ.,82KG,RDS,2011
+3117,875,Lucas Leite,1275,Vinicius Corrales,W,1,"Pts: 2x2, Adv",World Champ.,82KG,4F,2011
+3141,875,Lucas Leite,1523,Clark Gracie,W,1,Pts: 6x0,World Champ.,82KG,SF,2011
+3363,875,Lucas Leite,,Joao Moncaio,W,1,Points,No Gi Worlds,94KG,4F,2011
+3387,875,Lucas Leite,926,Roberto Alencar,W,1,Adv,No Gi Worlds,94KG,F,2011
+3649,875,Lucas Leite,,Ricardo Mesquita,W,1,Pts: 8x2,Pan American,94KG,R2,2012
+3650,875,Lucas Leite,,Renan Vital,W,1,Pts: 8x0,Pan American,94KG,SF,2012
+3715,875,Lucas Leite,2226,DJ Jackson,W,1,Referee Decision,NYC World Trials,83KG,F,2012
+3784,875,Lucas Leite,,Mathias Ribeiro,W,1,Points,World Pro.,82KG,R1,2012
+3789,875,Lucas Leite,1895,Rodrigo Fajardo,W,1,Points,World Pro.,82KG,R2,2012
+3790,875,Lucas Leite,909,Adriano Silva,W,1,Points,World Pro.,82KG,4F,2012
+3794,875,Lucas Leite,,Vitor Bonfim,W,1,Submission,World Pro.,82KG,SF,2012
+4042,875,Lucas Leite,,Juan Pablo Molina,W,1,Choke from mount,World Champ.,82KG,R2,2012
+4051,875,Lucas Leite,898,Bill Cooper,W,1,Pts: 15x0,World Champ.,82KG,8F,2012
+4060,875,Lucas Leite,1281,Daniel Garcia,W,1,Pts: 6x0,World Champ.,82KG,4F,2012
+4619,875,Lucas Leite,,Diego Herzog,W,1,Choke from back,Pan American,88KG,4F,2013
+4811,875,Lucas Leite,926,Roberto Alencar,W,1,Pts: 16x0,World Champ.,94KG,4F,2013
+4813,875,Lucas Leite,84,Alexandre Ribeiro,W,1,Referee Decision,World Champ.,94KG,SF,2013
+5012,875,Lucas Leite,,Josh Hayden,W,1,Points,ADCC,88KG,R1,2013
+5114,875,Lucas Leite,,Neiman Gracie,W,1,Points,NoGi Worlds,94KG,SF,2013
+5121,875,Lucas Leite,4328,AJ Agazarm,W,1,Adv,NoGi Worlds,ABS,4F,2013
+5402,875,Lucas Leite,,John Slater,W,1,Choke from back,Pan American,94KG,4F,2014
+5404,875,Lucas Leite,926,Roberto Alencar,W,1,Choke from back,Pan American,94KG,SF,2014
+6054,875,Lucas Leite,,Morris Ayala,W,1,"Pts: 0x0, Adv",NoGi Worlds,94KG,4F,2014
+6057,875,Lucas Leite,4310,Tim Spriggs,W,1,Pts: 8x0,NoGi Worlds,94KG,SF,2014
+6865,875,Lucas Leite,,Vitor Schlosser,W,1,Choke from back,Pan American,94KG,R2,2015
+6872,875,Lucas Leite,1986,Vitor Toledo,W,1,Pts: 8x0,Pan American,94KG,4F,2015
+6875,875,Lucas Leite,,Rodrigo Silva,W,1,Pts: 5x0,Pan American,94KG,SF,2015
+6877,875,Lucas Leite,5660,Lucas Rocha,W,1,Pts: 20x2,Pan American,94KG,F,2015
+6960,875,Lucas Leite,,Terence Aflague,W,1,Cross choke,Marianas Open,ABS,4F,2015
+7493,875,Lucas Leite,,Herico Hesley,W,1,Choke from back,World Champ.,94KG,8F,2015
+7497,875,Lucas Leite,,Eduardo Inojosa,W,1,Referee Decision,World Champ.,94KG,4F,2015
+7502,875,Lucas Leite,4310,Tim Spriggs,W,1,Referee Decision,World Champ.,94KG,SF,2015
+9999,875,Lucas Leite,7321,Darragh OConaill,W,1,Pts: 9x2,World Champ.,82KG,R2,2016
+10009,875,Lucas Leite,1600,Vinicius Marinho,W,1,Choke from back,World Champ.,82KG,8F,2016
+13192,875,Lucas Leite,8762,Rodrigo Ribeiro,W,1,"Pts: 0x0, Adv",World Champ.,94KG,8F,2017

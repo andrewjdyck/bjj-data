@@ -1,0 +1,314 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2805,1188,Leandro Lo,446,Gilbert Burns,L,0,Pts: 2x0,World Pro Trials,77KG,SF,2011
+2878,1188,Leandro Lo,188,Augusto Mendes,L,0,Pts: 4x0,Pan American,76KG,R1,2011
+3110,1188,Leandro Lo,788,Kron Gracie,L,0,Choke from back,World Champ.,76KG,4F,2011
+3404,1188,Leandro Lo,984,Marcus Almeida,L,0,"Pts: 6x6, Adv",Pan Am CBJJE,ABS,SF,2011
+3551,1188,Leandro Lo,1236,Antonio Carlos,L,0,Flying triangle,Pan American,ABS,R2,2012
+3691,1188,Leandro Lo,2107,Otavio Sousa,D,0.5,---,Copa Podio,85KG,GP,2012
+3781,1188,Leandro Lo,358,Lucas Lepri,L,0,Points,World Pro.,76KG,SF,2012
+3852,1188,Leandro Lo,911,Antonio Peinado,L,0,Referee Decision,Brasileiro,ABS,R1,2012
+3904,1188,Leandro Lo,1236,Antonio Carlos,L,0,"Pts: 2x2, Adv",World Champ.,ABS,R2,2012
+4229,1188,Leandro Lo,188,Augusto Mendes,L,0,Pts: 9x0,NoGi Worlds,76KG,SF,2012
+4281,1188,Leandro Lo,84,Alexandre Ribeiro,L,0,"Pts: 0x0, Adv",NoGi Worlds,ABS,F,2012
+4520,1188,Leandro Lo,2452,Orlando Sanchez,L,0,Referee Decision,Pan American,ABS,R2,2013
+4594,1188,Leandro Lo,2035,Vitor Oliveira,L,0,Points,Pan American,82KG,4F,2013
+4757,1188,Leandro Lo,425,Bernardo Faria,L,0,Points,World Champ.,ABS,4F,2013
+5108,1188,Leandro Lo,446,Gilbert Burns,L,0,Pts: 3x0,NoGi Worlds,79KG,SF,2013
+5323,1188,Leandro Lo,144,Andre Galvao,L,0,Adv,Pan American,ABS,F,2014
+5584,1188,Leandro Lo,247,Rodolfo Vieira,L,0,Choke from back,Copa Podio,94KG,F,2014
+5632,1188,Leandro Lo,247,Rodolfo Vieira,L,0,Choke from back,World Pro.,ABS,4F,2014
+5716,1188,Leandro Lo,3009,Keenan Cornelius,L,0,Pts: 6x4,World Champ.,ABS,RD 4,2014
+6774,1188,Leandro Lo,425,Bernardo Faria,L,0,Lapel choke,Pan American,ABS,F,2015
+7197,1188,Leandro Lo,984,Marcus Almeida,L,0,"Pts: 2x2, Adv",World Pro,ABS,SF,2015
+7395,1188,Leandro Lo,425,Bernardo Faria,L,0,Armbar,World Champ.,ABS,SF,2015
+9396,1188,Leandro Lo,425,Bernardo Faria,L,0,Arm in Ezekiel,Pan American,ABS,F,2016
+9548,1188,Leandro Lo,5509,Victor Honorio,L,0,"Pts: 0x0, Adv",World Pro,ABS,8F,2016
+12027,1188,Leandro Lo,477,Tarsis Humphreys,L,0,Referee Decision,FIVE Super League,92KG,4F,2017
+13044,1188,Leandro Lo,984,Marcus Almeida,L,0,"Pts: 2x2, Adv",World Champ.,ABS,F,2017
+13199,1188,Leandro Lo,7507,Nicholas Meregali,L,0,Pts: 2x0,World Champ.,94KG,F,2017
+13762,1188,Leandro Lo,984,Marcus Almeida,L,0,"Pts: 0x0, Adv",IBJJF Pro GP,ABS,F,2017
+13877,1188,Leandro Lo,8346,Craig Jones,L,0,RNC,ADCC,88KG,E1,2017
+16596,1188,Leandro Lo,5842,Mahamed Aly,L,0,Injury,World Champ.,100KG,F,2018
+19328,1188,Leandro Lo,7507,Nicholas Meregali,L,0,Pts: 4x0,BJJ Stars,100KG,SPF,2019
+19654,1188,Leandro Lo,7478,Adam Wardzinski,L,0,Choke from back,Pan American,94KG,SF,2019
+19689,1188,Leandro Lo,5655,Lucas Barbosa,L,0,Referee Decision,Pan American,ABS,F,2019
+20694,1188,Leandro Lo,8974,Kaynan Duarte,L,0,Pts: 5x3,World Champ.,94KG,F,2019
+22026,1188,Leandro Lo,8357,Gustavo Batista,L,0,"Pts: 0x0, Adv",BJJ Stars,ABS,SF,2019
+22659,1188,Leandro Lo,8974,Kaynan Duarte,L,0,"Pts: 0x0, Adv",Spyder Invitational,100KG,4F,2019
+23876,1188,Leandro Lo,5655,Lucas Barbosa,L,0,Pts: 2x0,BJJ Stars,N/A,SPF,2020
+23925,1188,Leandro Lo,7507,Nicholas Meregali,D,0.5,---,BJJ Bet,ABS,SPF,2020
+27082,1188,Leandro Lo,5655,Lucas Barbosa,L,0,RNC,BJJ Bet,88KG,F,2021
+29553,1188,Leandro Lo,8357,Gustavo Batista,L,0,Referee Decision,World Champ.,88KG,SF,2021
+32047,1188,Leandro Lo,12122,Mica Galvao,L,0,"Pts: 0x0, Adv",BJJ Stars,83KG,4F,2022
+2911,1188,Leandro Lo,1137,Zak Maxwell,W,1,Pts: 6x0,World Pro.,74KG,4F,2011
+2913,1188,Leandro Lo,122,Michael Langhi,W,1,Pts: 4x0,World Pro.,74KG,SF,2011
+2914,1188,Leandro Lo,428,Celso Vinicius,W,1,Adv,World Pro.,74KG,F,2011
+2958,1188,Leandro Lo,967,JT Torres,W,1,Points,Brasileiro,76KG,4F,2011
+2960,1188,Leandro Lo,188,Augusto Mendes,W,1,Points,Brasileiro,76KG,SF,2011
+2961,1188,Leandro Lo,122,Michael Langhi,W,1,Adv,Brasileiro,76KG,F,2011
+3025,1188,Leandro Lo,,Tatsuya Kaneko,W,1,Armbar,World Champ.,76KG,RDS,2011
+3031,1188,Leandro Lo,,Unknown,W,1,Points,World Champ.,76KG,RDS,2011
+3399,1188,Leandro Lo,,Claudio Daniel,W,1,Referee Decision,Pan Am CBJJE,ABS,NA,2011
+3400,1188,Leandro Lo,1534,R. Evangelista,W,1,Bow and arrow,Pan Am CBJJE,ABS,NA,2011
+3401,1188,Leandro Lo,,Fabiano Boi,W,1,Points,Pan Am CBJJE,ABS,NA,2011
+3429,1188,Leandro Lo,8444,Moacir Mendes,W,1,"Pts: 2x2, Adv",Copa Podio,76KG,GP,2011
+3432,1188,Leandro Lo,967,JT Torres,D,0.5,---,Copa Podio,76KG,GP,2011
+3440,1188,Leandro Lo,,Ed Ramos,W,1,Pts: 7x0,Copa Podio,76KG,GP,2011
+3445,1188,Leandro Lo,244,Denilson Pimenta,W,1,Pts: 12x0,Copa Podio,76KG,GP,2011
+3447,1188,Leandro Lo,1600,Vinicius Marinho,W,1,Pts: 5x2,Copa Podio,76KG,SF,2011
+3449,1188,Leandro Lo,443,Claudio Mattos,W,1,Choke from back,Copa Podio,76KG,F,2011
+3453,1188,Leandro Lo,,Claudevam Martins,W,1,Pts: 45x0,Amazon Meeting,76KG,SF,2011
+3454,1188,Leandro Lo,,Antônio Carlos,W,1,Bow and arrow,Amazon Meeting,76KG,F,2011
+3456,1188,Leandro Lo,,Antonio Crivelari,W,1,Pts: 2x0,Brasileiro NoGi,73KG,4F,2011
+3457,1188,Leandro Lo,7156,Tiago Bravo,W,1,Pts: 8x2,Brasileiro NoGi,73KG,SF,2011
+3459,1188,Leandro Lo,1178,Theodoro Canal,W,1,Pts: 10x0,Brasileiro NoGi,73KG,F,2011
+3463,1188,Leandro Lo,,Rodrigo Martins,W,1,Choke from back,Int. de Jiu-Jitsu,76KG,4F,2011
+3464,1188,Leandro Lo,,Ivan,W,1,Pts: 13x0,Int. de Jiu-Jitsu,76KG,SF,2011
+3465,1188,Leandro Lo,,Eduardo Silva,W,1,Lapel choke,Int. de Jiu-Jitsu,76KG,F,2011
+3469,1188,Leandro Lo,,Luiz Supp,W,1,Cross choke,Brasil Sul Cup,ABS,4F,2012
+3470,1188,Leandro Lo,449,Alexandre Souza,W,1,Pts: 2x0,Brasil Sul Cup,ABS,SF,2012
+3471,1188,Leandro Lo,,Ricardo Bastos,W,1,Pts: 2x0,Brasil Sul Cup,ABS,F,2012
+3545,1188,Leandro Lo,,Victor Schlosser,W,1,"Pts: 6x6, Adv",Pan American,ABS,R1,2012
+3605,1188,Leandro Lo,1542,Italo Lins,W,1,Points,Pan American,76KG,R2,2012
+3612,1188,Leandro Lo,1137,Zak Maxwell,W,1,Pts: 13x2,Pan American,76KG,4F,2012
+3614,1188,Leandro Lo,,Philipe Della Monica,W,1,Pts: 16x0,Pan American,76KG,SF,2012
+3615,1188,Leandro Lo,358,Lucas Lepri,W,1,Pts: 2x0,Pan American,76KG,F,2012
+3676,1188,Leandro Lo,4960,Dimitrius Souza,W,1,Pts: 2x0,Copa Podio,85KG,GP,2012
+3679,1188,Leandro Lo,,Felipe Preguiça,D,0.5,---,Copa Podio,85KG,GP,2012
+3688,1188,Leandro Lo,921,Rafael Barbosa,W,1,Pts: 3x0,Copa Podio,85KG,GP,2012
+3693,1188,Leandro Lo,,Ricardo Bastos,W,1,Pts: 8x2,Copa Podio,85KG,SF,2012
+3696,1188,Leandro Lo,4960,Dimitrius Souza,W,1,Pts: 7x0,Copa Podio,85KG,F,2012
+3775,1188,Leandro Lo,,Antonio Farias,W,1,Points,World Pro.,76KG,R2,2012
+3843,1188,Leandro Lo,,Ed Ramos,W,1,Points,Brasileiro,76KG,SF,2012
+3844,1188,Leandro Lo,122,Michael Langhi,W,1,Pts: 2x0,Brasileiro,76KG,F,2012
+3897,1188,Leandro Lo,474,Alexandre Ceconi,W,1,"Pts: 0x0, Adv",World Champ.,ABS,R2,2012
+4011,1188,Leandro Lo,,Alessandro Ferreia,W,1,Pts: 23x0,World Champ.,76KG,R2,2012
+4017,1188,Leandro Lo,1178,Theodoro Canal,W,1,Points,World Champ.,76KG,R3,2012
+4022,1188,Leandro Lo,631,Rodrigo Caporal,W,1,Pts: 21x0,World Champ.,76KG,4F,2012
+4025,1188,Leandro Lo,1824,Roberto Satoshi,W,1,Pts: 7x2,World Champ.,76KG,SF,2012
+4026,1188,Leandro Lo,358,Lucas Lepri,W,1,Pts: 2x0,World Champ.,76KG,F,2012
+4163,1188,Leandro Lo,358,Lucas Lepri,W,1,"Pts: 0x0, Adv",IBJJF Pro League,82KG,F,2012
+4227,1188,Leandro Lo,,Raymond Ayalla,W,1,Pts: 45x0,NoGi Worlds,76KG,4F,2012
+4269,1188,Leandro Lo,,Diego Herzog,W,1,Pts: 4x0,NoGi Worlds,ABS,R1,2012
+4276,1188,Leandro Lo,2226,DJ Jackson,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,4F,2012
+4280,1188,Leandro Lo,911,Antonio Peinado,W,1,"Pts: 0x0, Adv",NoGi Worlds,ABS,SF,2012
+4363,1188,Leandro Lo,5660,Lucas Rocha,W,1,Choke from back,Arizona Open,82KG,F,2013
+4365,1188,Leandro Lo,188,Augusto Mendes,W,1,Points,Arizona Open,ABS,F,2013
+4375,1188,Leandro Lo,1031,Jake Shields,D,0.5,---,World Expo,ABS,SPF,2013
+4376,1188,Leandro Lo,2235,Renato Cardoso,W,1,Pts: 15x4,Pan Am. CBJJE,ABS,NA,2013
+4377,1188,Leandro Lo,8762,Rodrigo Ribeiro,W,1,Points,Pan Am. CBJJE,ABS,NA,2013
+4378,1188,Leandro Lo,1014,Jake Mackenzie,W,1,Points,Pan Am. CBJJE,ABS,NA,2013
+4398,1188,Leandro Lo,188,Augusto Mendes,W,1,Pts: 5x2,Copa Podio,ABS,SPF,2013
+4400,1188,Leandro Lo,,Felipe Preguiça,W,1,Pts: 3x2,Copa Podio,ABS,SPF,2013
+4505,1188,Leandro Lo,,Bernardo Filho,W,1,Mounted X choke,Pan American,ABS,R1,2013
+4590,1188,Leandro Lo,12617,Sean Roberts,W,1,Mounted X choke,Pan American,82KG,R2,2013
+4662,1188,Leandro Lo,1824,Roberto Satoshi,W,1,Points,World Pro,76KG,SF,2013
+4663,1188,Leandro Lo,358,Lucas Lepri,W,1,"Pts: 0x0, Adv",World Pro,76KG,F,2013
+4685,1188,Leandro Lo,410,Claudio Calasans,W,1,Points,Copa Podio,82KG,SPF,2013
+4739,1188,Leandro Lo,,Luis Rosa,W,1,N/A,World Champ.,ABS,RDS,2013
+4751,1188,Leandro Lo,2452,Orlando Sanchez,W,1,Pts: 6x0,World Champ.,ABS,RDS,2013
+4791,1188,Leandro Lo,1600,Vinicius Marinho,W,1,Pts: 6x2,World Champ.,76KG,4F,2013
+4794,1188,Leandro Lo,358,Lucas Lepri,W,1,Adv,World Champ.,76KG,SF,2013
+4795,1188,Leandro Lo,122,Michael Langhi,W,1,Pts: 2x0,World Champ.,76KG,F,2013
+4852,1188,Leandro Lo,6253,Diego Borges,W,1,Adv,Copa Podio,76KG,GP,2013
+4856,1188,Leandro Lo,,Brandon Magana,W,1,Pts: 18x0,Copa Podio,76KG,GP,2013
+4863,1188,Leandro Lo,1523,Clark Gracie,W,1,Pts: 13x0,Copa Podio,76KG,GP,2013
+4868,1188,Leandro Lo,3313,Juan Kamezawa,W,1,Pts: 10x0,Copa Podio,76KG,GP,2013
+4870,1188,Leandro Lo,2226,DJ Jackson,W,1,Pts: 6x2,Copa Podio,76KG,SF,2013
+4872,1188,Leandro Lo,6253,Diego Borges,W,1,Adv,Copa Podio,76KG,F,2013
+4878,1188,Leandro Lo,,Leandro Brassoloto,W,1,Bow and arrow,Brasileiro CBJJE,ABS,NA,2013
+4879,1188,Leandro Lo,8762,Rodrigo Ribeiro,W,1,Armbar,Brasileiro CBJJE,ABS,NA,2013
+4881,1188,Leandro Lo,6792,Cassio Francis,W,1,Points,Brasileiro CBJJE,ABS,NA,2013
+4888,1188,Leandro Lo,,Juarez Harles,W,1,Kimura,Mundial CBJJE,82KG,4F,2013
+4889,1188,Leandro Lo,289,Alan Finfou,W,1,Pts: 2x0,Mundial CBJJE,82KG,SF,2013
+4890,1188,Leandro Lo,7224,Diogo Almeida,W,1,Pts: 12x0,Mundial CBJJE,82KG,F,2013
+4896,1188,Leandro Lo,7224,Diogo Almeida,W,1,Points,Mundial CBJJE,ABS,4F,2013
+4897,1188,Leandro Lo,,Leandro Brassoloto,W,1,Cross choke,Mundial CBJJE,ABS,SF,2013
+4924,1188,Leandro Lo,,Augusto Vieira,W,1,N/A,Rio Open,82KG,SF,2013
+4926,1188,Leandro Lo,289,Alan Finfou,W,1,Armbar,Rio Open,82KG,F,2013
+4931,1188,Leandro Lo,,Unknown,W,1,Points,Rio Open,ABS,4F,2013
+4932,1188,Leandro Lo,2416,Felipe Pena,W,1,"Pts: 0x0, Adv",Rio Open,ABS,SF,2013
+4934,1188,Leandro Lo,2403,Joao Rocha,W,1,"Pts: 0x0, Adv",Rio Open,ABS,F,2013
+5122,1188,Leandro Lo,1827,James Puopolo,W,1,Adv,NoGi Worlds,ABS,SF,2013
+5304,1188,Leandro Lo,,John Roberts,W,1,Cross choke,Pan American,ABS,R2,2014
+5312,1188,Leandro Lo,,Fabiano Leite,W,1,Points,Pan American,ABS,R3,2014
+5319,1188,Leandro Lo,1617,Victor Estima,W,1,Points,Pan American,ABS,4F,2014
+5321,1188,Leandro Lo,1757,Alexander Trans,W,1,Points,Pan American,ABS,SF,2014
+5367,1188,Leandro Lo,,Julian Marquez,W,1,DQ,Pan American,82KG,R1,2014
+5374,1188,Leandro Lo,7652,C. Negromonte,W,1,Pts: 4x2,Pan American,82KG,4F,2014
+5377,1188,Leandro Lo,1617,Victor Estima,W,1,Pts: 5x0,Pan American,82KG,SF,2014
+5378,1188,Leandro Lo,2107,Otavio Sousa,W,1,Adv,Pan American,82KG,F,2014
+5569,1188,Leandro Lo,449,Alexandre Souza,W,1,Pts: 4x0,Copa Podio,94KG,GP,2014
+5572,1188,Leandro Lo,,Faisal Kitbe,W,1,"Pts: 0x0, Adv",Copa Podio,94KG,GP,2014
+5575,1188,Leandro Lo,2189,Alan Belcher,W,1,Choke from back,Copa Podio,94KG,GP,2014
+5580,1188,Leandro Lo,247,Rodolfo Vieira,D,0.5,---,Copa Podio,94KG,GP,2014
+5581,1188,Leandro Lo,3122,Luiz Panza,W,1,Pts: 6x4,Copa Podio,94KG,SF,2014
+5587,1188,Leandro Lo,,Hamzeh Rasheed,W,1,Armbar,Copa Podio,77KG,GP,2014
+5593,1188,Leandro Lo,,S. Franceschini,W,1,Cross choke,Copa Podio,77KG,GP,2014
+5597,1188,Leandro Lo,1322,Gregor Gracie,W,1,Pts: 8x2,Copa Podio,77KG,GP,2014
+5603,1188,Leandro Lo,4235,Victor Silverio,W,1,Pts: 8x0,Copa Podio,77KG,SF,2014
+5606,1188,Leandro Lo,1322,Gregor Gracie,W,1,Armbar,Copa Podio,77KG,F,2014
+5615,1188,Leandro Lo,,Luke Costello,W,1,Points,World Pro.,ABS,R1,2014
+5624,1188,Leandro Lo,1895,Rodrigo Fajardo,W,1,Pts: 14x0,World Pro.,ABS,R2,2014
+5629,1188,Leandro Lo,1604,Nivaldo Oliveira,W,1,Pts: 9x0,World Pro.,ABS,R3,2014
+5653,1188,Leandro Lo,7082,Luca Anacoreta,W,1,Pts: 4x0,World Pro.,82KG,4F,2014
+5655,1188,Leandro Lo,2107,Otavio Sousa,W,1,Points,World Pro.,82KG,SF,2014
+5657,1188,Leandro Lo,1617,Victor Estima,W,1,Referee Decision,World Pro.,82KG,F,2014
+5703,1188,Leandro Lo,,Omar Saba,W,1,Cross choke,World Champ.,ABS,R2,2014
+5804,1188,Leandro Lo,,Kawazoe,W,1,Pts: 28x0,World Champ.,82KG,RDS,2014
+5811,1188,Leandro Lo,,Tulio Rosario,W,1,Mounted X choke,World Champ.,82KG,RDS,2014
+5814,1188,Leandro Lo,12617,Sean Roberts,W,1,Pts: 6x0,World Champ.,82KG,RDS,2014
+5816,1188,Leandro Lo,4235,Victor Silverio,W,1,Adv,World Champ.,82KG,4F,2014
+5821,1188,Leandro Lo,1617,Victor Estima,W,1,Pts: 7x2,World Champ.,82KG,SF,2014
+5822,1188,Leandro Lo,2107,Otavio Sousa,W,1,Pts: 9x6,World Champ.,82KG,F,2014
+5934,1188,Leandro Lo,7672,Caio Almeida,W,1,Cross choke,Mundial CBJJE,ABS,SF,2014
+5935,1188,Leandro Lo,410,Claudio Calasans,W,1,Pts: 4x2,Mundial CBJJE,ABS,F,2014
+6115,1188,Leandro Lo,3009,Keenan Cornelius,W,1,Pts: 6x2,NYC Pro,94KG,F,2014
+6191,1188,Leandro Lo,446,Gilbert Burns,W,1,Cross choke,Copa Podio,82KG,SPF,2014
+6320,1188,Leandro Lo,,L. Valle,W,1,Pts: 10x0,The Team,76KG,RR,2014
+6335,1188,Leandro Lo,,Takahiro Kanda,W,1,Pts: 21x0,All Japan NoGi,88KG,F,2014
+6336,1188,Leandro Lo,,Ryo Chonan,W,1,Pts: 4x0,All Japan NoGi,ABS,F,2014
+6337,1188,Leandro Lo,,Ichitaro Tsukada,W,1,Cross choke,All Japan,ABS,F,2014
+6760,1188,Leandro Lo,,Yuto Hirao,W,1,Brabo choke,Pan American,ABS,R2,2015
+6766,1188,Leandro Lo,1827,James Puopolo,W,1,Pts: 13x0,Pan American,ABS,R3,2015
+6770,1188,Leandro Lo,1740,Yuri Simoes,W,1,Pts: 4x2,Pan American,ABS,4F,2015
+6773,1188,Leandro Lo,1272,Leo Nogueira,W,1,Pts: 2x0,Pan American,ABS,SF,2015
+6831,1188,Leandro Lo,,Cris Atkins,W,1,Brabo choke,Pan American,82KG,R2,2015
+6834,1188,Leandro Lo,,Bruno Antunes,W,1,Pts: 13x0,Pan American,82KG,R3,2015
+6840,1188,Leandro Lo,4542,Felipe Cesar,W,1,Cross choke,Pan American,82KG,4F,2015
+6844,1188,Leandro Lo,1617,Victor Estima,W,1,Pts: 4x2,Pan American,82KG,SF,2015
+6846,1188,Leandro Lo,2107,Otavio Sousa,W,1,Pts: 5x2,Pan American,82KG,F,2015
+7119,1188,Leandro Lo,8714,Max Carvalho,W,1,Pts: 6x0,World Pro,85KG,R1,2015
+7124,1188,Leandro Lo,,Igor Basilio,W,1,Cross choke,World Pro,85KG,R2,2015
+7129,1188,Leandro Lo,,Felipe Sagat,W,1,Toe hold,World Pro,85KG,4F,2015
+7130,1188,Leandro Lo,5747,AJ Sousa,W,1,Points,World Pro,85KG,SF,2015
+7133,1188,Leandro Lo,1617,Victor Estima,W,1,"Pts: 0x0, Adv",World Pro,85KG,F,2015
+7185,1188,Leandro Lo,4235,Victor Silverio,W,1,Pts: 4x2,World Pro,ABS,R2,2015
+7190,1188,Leandro Lo,,Felipe Bueno,W,1,"Pts: 0x0, Adv",World Pro,ABS,R2,2015
+7194,1188,Leandro Lo,8714,Max Carvalho,W,1,Pts: 3x0,World Pro,ABS,4F,2015
+7198,1188,Leandro Lo,3009,Keenan Cornelius,W,1,Pts: 4x2,World Pro,ABS,3RD,2015
+7327,1188,Leandro Lo,138,Sergio Moraes,W,1,Pts: 6x0,Copa Podio,ABS,SPF,2015
+7391,1188,Leandro Lo,,Tarcísio Jardim,W,1,Pts: 9x4,World Champ.,ABS,8F,2015
+7393,1188,Leandro Lo,3009,Keenan Cornelius,W,1,Pts: 8x6,World Champ.,ABS,4F,2015
+7479,1188,Leandro Lo,5423,Matheus Diniz,W,1,Pts: 4x0,World Champ.,88KG,4F,2015
+7484,1188,Leandro Lo,2235,Renato Cardoso,W,1,Pts: 15x2,World Champ.,88KG,SF,2015
+7485,1188,Leandro Lo,477,Tarsis Humphreys,W,1,Pts: 7x0,World Champ.,88KG,F,2015
+8004,1188,Leandro Lo,5930,Rodrigo Freitas,W,1,"Pts: 0x0, Adv",Santa Cruz Pro,82KG,SF,2015
+8005,1188,Leandro Lo,,Julian Marquez,W,1,Cross choke,Santa Cruz Pro,82KG,F,2015
+8879,1188,Leandro Lo,1386,Davi Ramos,W,1,Pts: 6x2,Copa Podio,77KG,GP,2016
+8883,1188,Leandro Lo,5747,AJ Sousa,W,1,Pts: 13x0,Copa Podio,77KG,GP,2016
+8887,1188,Leandro Lo,358,Lucas Lepri,W,1,"Pts: 2x2, Adv",Copa Podio,77KG,GP,2016
+8890,1188,Leandro Lo,4542,Felipe Cesar,W,1,Pts: 7x0,Copa Podio,77KG,GP,2016
+8894,1188,Leandro Lo,5258,Dillon Danis,W,1,Pts: 2x0,Copa Podio,77KG,SF,2016
+8896,1188,Leandro Lo,358,Lucas Lepri,W,1,Pts: 2x0,Copa Podio,77KG,F,2016
+9316,1188,Leandro Lo,,Alessandro Silva,W,1,Bow and arrow,Pan American,88KG,8F,2016
+9323,1188,Leandro Lo,6071,Gabriel Arges,W,1,Pts: 12x6,Pan American,88KG,4F,2016
+9326,1188,Leandro Lo,2235,Renato Cardoso,W,1,Toe hold,Pan American,88KG,SF,2016
+9327,1188,Leandro Lo,320,Romulo Barral,W,1,Pts: 2x0,Pan American,88KG,F,2016
+9375,1188,Leandro Lo,6592,Dany Gerard,W,1,Cross choke,Pan American,ABS,R2,2016
+9387,1188,Leandro Lo,5417,Guilherme Augusto,W,1,Pts: 3x0,Pan American,ABS,8F,2016
+9395,1188,Leandro Lo,144,Andre Galvao,W,1,Pts: 2x0,Pan American,ABS,SF,2016
+9541,1188,Leandro Lo,,K. Dzieniszewski,W,1,Armbar,World Pro,ABS,8F,2016
+9629,1188,Leandro Lo,,Lucas Rego,W,1,Choke,World Pro,85KG,8F,2016
+9632,1188,Leandro Lo,4430,Patrick Gaudio,W,1,Pts: 4x2,World Pro,85KG,4F,2016
+9636,1188,Leandro Lo,2235,Renato Cardoso,W,1,Pts: 2x0,World Pro,85KG,SF,2016
+9638,1188,Leandro Lo,410,Claudio Calasans,W,1,Referee Decision,World Pro,85KG,F,2016
+10030,1188,Leandro Lo,7652,C. Negromonte,W,1,Pts: 8x0,World Champ.,88KG,8F,2016
+10033,1188,Leandro Lo,5423,Matheus Diniz,W,1,Pts: 7x0,World Champ.,88KG,4F,2016
+10038,1188,Leandro Lo,3009,Keenan Cornelius,W,1,Pts: 4x2,World Champ.,88KG,SF,2016
+10039,1188,Leandro Lo,320,Romulo Barral,W,1,Pts: 5x0,World Champ.,88KG,F,2016
+10083,1188,Leandro Lo,4859,Ricardo Rezende,W,1,Pts: 11x0,World Champ.,ABS,R2,2016
+10098,1188,Leandro Lo,4177,Gustavo Dias,W,1,Pts: 7x0,World Champ.,ABS,8F,2016
+10104,1188,Leandro Lo,3009,Keenan Cornelius,W,1,Pts: 2x0,World Champ.,ABS,4F,2016
+10163,1188,Leandro Lo,,N. Meregali,W,1,Pts: 4x2,Copa Podio,86KG,GP,2016
+10168,1188,Leandro Lo,5258,Dillon Danis,W,1,"Pts: 0x0, Adv",Copa Podio,86KG,GP,2016
+10174,1188,Leandro Lo,6805,Max Gimenis,W,1,Pts: 2x0,Copa Podio,86KG,GP,2016
+10179,1188,Leandro Lo,6253,Diego Borges,W,1,Pts: 2x0,Copa Podio,86KG,SF,2016
+10184,1188,Leandro Lo,4521,Erberth Santos,W,1,Pts: 6x0,Copa Podio,86KG,F,2016
+10766,1188,Leandro Lo,,I. Bahiense,W,1,Pts: 2x0,Copa Podio,105KG,RR,2016
+10770,1188,Leandro Lo,6792,Cassio Francis,W,1,Toe hold,Copa Podio,105KG,RR,2016
+10779,1188,Leandro Lo,,F. Trovo,W,1,Pts: 8x0,Copa Podio,105KG,RR,2016
+10783,1188,Leandro Lo,7543,Nelton Pontes,W,1,"Pts: 0x0, Adv",Copa Podio,105KG,SF,2016
+10784,1188,Leandro Lo,1757,Alexander Trans,W,1,Pts: 2x0,Copa Podio,105KG,F,2016
+11504,1188,Leandro Lo,,Andreas Perales,W,1,Cross choke,European Open,ABS,R1,2017
+11513,1188,Leandro Lo,,Thomas Johannessen,W,1,Pts: 7x0,European Open,ABS,8F,2017
+11517,1188,Leandro Lo,7552,Isaque Bahiense,W,1,Pts: 11x2,European Open,ABS,4F,2017
+11519,1188,Leandro Lo,5842,Mahamed Aly,W,1,Pts: 3x0,European Open,ABS,SF,2017
+11521,1188,Leandro Lo,410,Claudio Calasans,W,1,Pts: 4x0,European Open,ABS,F,2017
+11618,1188,Leandro Lo,,Tony Ferraz,W,1,Pts: 24x0,European Open,94KG,8F,2017
+11622,1188,Leandro Lo,,Karim Khalifa,W,1,Pts: 6x2,European Open,94KG,4F,2017
+11624,1188,Leandro Lo,7608,Jesse Urholin,W,1,"Pts: 0x0, Adv",European Open,94KG,SF,2017
+11625,1188,Leandro Lo,6156,Tanner Rice,W,1,Armbar,European Open,94KG,F,2017
+12101,1188,Leandro Lo,5660,Lucas Rocha,W,1,Brabo choke,Pan American,ABS,8F,2017
+12104,1188,Leandro Lo,6592,Dany Gerard,W,1,Pts: 2x0,Pan American,ABS,4F,2017
+12108,1188,Leandro Lo,7507,Nicholas Meregali,W,1,Pts: 3x0,Pan American,ABS,SF,2017
+12110,1188,Leandro Lo,2403,Joao Rocha,W,1,Toe hold,Pan American,ABS,F,2017
+12226,1188,Leandro Lo,,Jared Revel,W,1,Pts: 10x0,Pan American,94KG,8F,2017
+12231,1188,Leandro Lo,7507,Nicholas Meregali,W,1,Pts: 2x0,Pan American,94KG,4F,2017
+12234,1188,Leandro Lo,5423,Matheus Diniz,W,1,Pts: 2x0,Pan American,94KG,SF,2017
+12235,1188,Leandro Lo,6156,Tanner Rice,W,1,Pts: 2x0,Pan American,94KG,F,2017
+12570,1188,Leandro Lo,6550,Gordon Ryan,W,1,Pts: 4x0,ADCC WC Trials,ABS,SPF,2017
+12701,1188,Leandro Lo,,Moises Junior,W,1,Choke from back,Brasileiro,ABS,RDS,2017
+12708,1188,Leandro Lo,8762,Rodrigo Ribeiro,W,1,Pts: 5x0,Brasileiro,ABS,RDS,2017
+12714,1188,Leandro Lo,,Otavio Nalati,W,1,Pts: 6x0,Brasileiro,ABS,4F,2017
+12718,1188,Leandro Lo,2235,Renato Cardoso,W,1,Pts: 7x2,Brasileiro,ABS,SF,2017
+12719,1188,Leandro Lo,4521,Erberth Santos,W,1,Pts: 6x4,Brasileiro,ABS,F,2017
+12813,1188,Leandro Lo,,Andre Rudolfo,W,1,Choke from back,Brasileiro,100KG,R1,2017
+12815,1188,Leandro Lo,,Diego Lima,W,1,Points,Brasileiro,100KG,4F,2017
+12819,1188,Leandro Lo,6825,Fernando Reis,W,1,Pts: 2x0,Brasileiro,100KG,SF,2017
+12820,1188,Leandro Lo,4521,Erberth Santos,W,1,Pts: 5x0,Brasileiro,100KG,F,2017
+12891,1188,Leandro Lo,,Romeu Patrick,W,1,Brabo choke,Salvador Spring O.,100KG,SF,2017
+12892,1188,Leandro Lo,,Talison Costa,W,1,N/A,Salvador Spring O.,ABS,SF,2017
+12894,1188,Leandro Lo,4960,Dimitrius Souza,W,1,Bow and arrow,Salvador Spring O.,ABS,F,2017
+13000,1188,Leandro Lo,,Marcos Goulart,W,1,Bow and arrow,Curitiba Fall Open,94KG,SF,2017
+13008,1188,Leandro Lo,,Italo Santos,W,1,Choke from back,Curitiba Fall Open,ABS,R1,2017
+13009,1188,Leandro Lo,,Adriano Sousa,W,1,Brabo choke,Curitiba Fall Open,ABS,4F,2017
+13012,1188,Leandro Lo,,Marcos Goulart,W,1,Pts: 12x0,Curitiba Fall Open,ABS,SF,2017
+13014,1188,Leandro Lo,4521,Erberth Santos,W,1,Pts: 2x0,Curitiba Fall Open,ABS,F,2017
+13033,1188,Leandro Lo,6592,Dany Gerard,W,1,Pts: 2x0,World Champ.,ABS,8F,2017
+13039,1188,Leandro Lo,2403,Joao Rocha,W,1,Pts: 2x0,World Champ.,ABS,4F,2017
+13042,1188,Leandro Lo,3122,Luiz Panza,W,1,Pts: 3x2,World Champ.,ABS,SF,2017
+13190,1188,Leandro Lo,9246,Tex Johnson,W,1,Brabo choke,World Champ.,94KG,8F,2017
+13195,1188,Leandro Lo,5423,Matheus Diniz,W,1,Referee Decision,World Champ.,94KG,4F,2017
+13198,1188,Leandro Lo,5417,Guilherme Augusto,W,1,Pts: 8x0,World Champ.,94KG,SF,2017
+13758,1188,Leandro Lo,1534,R. Evangelista,W,1,Kimura,IBJJF Pro GP,ABS,4F,2017
+13761,1188,Leandro Lo,144,Andre Galvao,W,1,"Pts: 0x0, Adv",IBJJF Pro GP,ABS,SF,2017
+14975,1188,Leandro Lo,2107,Otavio Sousa,W,1,Points,ACB 10,85KG,SPF,2018
+15352,1188,Leandro Lo,6836,John Combs,W,1,Pts: 6x0,Pan American,ABS,R2,2018
+15360,1188,Leandro Lo,3009,Keenan Cornelius,W,1,Pts: 7x2,Pan American,ABS,SF,2018
+15361,1188,Leandro Lo,8195,Gutemberg Pereira,W,1,Pts: 2x0,Pan American,ABS,F,2018
+15437,1188,Leandro Lo,10698,Matheus Godoy,W,1,Cross choke,Pan American,94KG,4F,2018
+15441,1188,Leandro Lo,8514,Fellipe Andrew,W,1,Pts: 3x0,Pan American,94KG,SF,2018
+15442,1188,Leandro Lo,6156,Tanner Rice,W,1,Pts: 2x0,Pan American,94KG,F,2018
+16350,1188,Leandro Lo,6071,Gabriel Arges,W,1,Points,ACBJJ 13,85KG,SPF,2018
+16592,1188,Leandro Lo,8762,Rodrigo Ribeiro,W,1,"Pts: 2x2, Adv",World Champ.,100KG,4F,2018
+16594,1188,Leandro Lo,7543,Nelton Pontes,W,1,Pts: 2x0,World Champ.,100KG,SF,2018
+16622,1188,Leandro Lo,7922,Nick Schrock,W,1,DQ,World Champ.,ABS,8F,2018
+16631,1188,Leandro Lo,3122,Luiz Panza,W,1,Pts: 2x0,World Champ.,ABS,4F,2018
+16635,1188,Leandro Lo,5509,Victor Honorio,W,1,Pts: 4x0,World Champ.,ABS,SF,2018
+19652,1188,Leandro Lo,9180,Vinicius Trator,W,1,Referee Decision,Pan American,94KG,4F,2019
+19676,1188,Leandro Lo,9157,Devhonte Johnson,W,1,Pts: 2x0,Pan American,ABS,R2,2019
+19685,1188,Leandro Lo,8100,Rudson Mateus,W,1,Referee Decision,Pan American,ABS,4F,2019
+19687,1188,Leandro Lo,8357,Gustavo Batista,W,1,Pts: 2x0,Pan American,ABS,SF,2019
+20687,1188,Leandro Lo,9321,Dominique Bell,W,1,Pts: 17x0,World Champ.,94KG,R2,2019
+20691,1188,Leandro Lo,3200,Jackson Sousa,W,1,Pts: 2x0,World Champ.,94KG,4F,2019
+20692,1188,Leandro Lo,9180,Vinicius Trator,W,1,DQ,World Champ.,94KG,SF,2019
+20734,1188,Leandro Lo,4177,Gustavo Dias,W,1,Pts: 5x0,World Champ.,ABS,R2,2019
+20736,1188,Leandro Lo,3122,Luiz Panza,W,1,Triangle armbar,World Champ.,ABS,4F,2019
+20739,1188,Leandro Lo,3009,Keenan Cornelius,W,1,Referee Decision,World Champ.,ABS,SF,2019
+22024,1188,Leandro Lo,4960,Dimitrius Souza,W,1,"Pts: 0x0, Adv",BJJ Stars,ABS,4F,2019
+24415,1188,Leandro Lo,4460,Jaime Canuto,W,1,"Pts: 0x0, Adv",BJJ Stars 4,86KG,4F,2020
+24417,1188,Leandro Lo,410,Claudio Calasans,W,1,Pts: 7x0,BJJ Stars 4,86KG,SF,2020
+24419,1188,Leandro Lo,7552,Isaque Bahiense,W,1,Adv,BJJ Stars 4,86KG,F,2020
+25097,1188,Leandro Lo,11746,Alex Munis,W,1,Cross choke,BJJ Stars 5,88KG,SPF,2021
+26845,1188,Leandro Lo,9554,Henrique Cardoso,W,1,"Pts: 0x0, Adv",Big Deal Pro 3,94KG,SPF,2021
+27076,1188,Leandro Lo,10174,Rafael Paganini,W,1,Pts: 10x0,BJJ Bet,88KG,4F,2021
+27081,1188,Leandro Lo,11771,William Tackett,W,1,Injury,BJJ Bet,88KG,SF,2021
+29547,1188,Leandro Lo,,N. Mendelshon,W,1,Pts: 2x0,World Champ.,88KG,8F,2021
+29551,1188,Leandro Lo,2107,Otavio Sousa,W,1,Pts: 2x0,World Champ.,88KG,4F,2021
+31683,1188,Leandro Lo,,Bruno Tosto,W,1,Choke from back,Pan American,88KG,R1,2022
+31692,1188,Leandro Lo,12506,Jansen Gomes,W,1,Pts: 5x0,Pan American,88KG,4F,2022
+32966,1188,Leandro Lo,12048,Rafael Anjos,W,1,Brabo choke,World Champ.,88KG,8F,2022
+32969,1188,Leandro Lo,11384,Andre Porfirio,W,1,Pts: 4x0,World Champ.,88KG,4F,2022
+32974,1188,Leandro Lo,10176,Bruno Lima,W,1,Pts: 2x0,World Champ.,88KG,SF,2022
+32975,1188,Leandro Lo,7552,Isaque Bahiense,W,1,Pts: 2x0,World Champ.,88KG,F,2022

@@ -1,0 +1,86 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+18033,9074,Joao Mendes,6151,Hiago George,L,0,Points,Rio BJJ Pro,70KG,SF,2018
+18271,9074,Joao Mendes,5715,Isaque Paiva,L,0,Armbar,Grand Slam RJ,69KG,F,2018
+18888,9074,Joao Mendes,6103,Isaac Doederlein,L,0,"Pts: 2x2, Adv",European Open,70KG,SF,2019
+19581,9074,Joao Mendes,6103,Isaac Doederlein,L,0,Armlock,Pan American,70KG,4F,2019
+20446,9074,Joao Mendes,9031,Kennedy Maciel,L,0,Pts: 2x0,San Diego Open,70KG,SF,2019
+20598,9074,Joao Mendes,9002,Matheus Gabriel,L,0,Pts: 6x4,World Champ.,70KG,R2,2019
+20927,9074,Joao Mendes,9031,Kennedy Maciel,L,0,Points,American Nats,70KG,SF,2019
+21424,9074,Joao Mendes,10408,Israel Sousa,L,0,Referee Decision,Las Vegas Open,70KG,SF,2019
+21658,9074,Joao Mendes,10623,Eric Phan,L,0,Armbar,Grand Slam LA,69KG,R1,2019
+22390,9074,Joao Mendes,,Connor Donaldson,L,0,Armlock,Long Beach Open,76KG,4F,2019
+22474,9074,Joao Mendes,8516,Lucas Valente,L,0,Choke from back,SJJIF Worlds,76KG,F,2019
+24013,9074,Joao Mendes,9031,Kennedy Maciel,L,0,Pts: 2x1,Grand Slam MIA,69KG,4F,2020
+24149,9074,Joao Mendes,9094,Richar Nogueira,L,0,"Pts: 0x0, Adv",Pan American,70KG,4F,2020
+24686,9074,Joao Mendes,,Davi Oliveira,L,0,RNC,Grand Slam RJ,69KG,8F,2020
+26114,9074,Joao Mendes,12115,Kieran Kichuk,L,0,Inside heel hook,NoGi Pan Am.,73KG,4F,2021
+26660,9074,Joao Mendes,9094,Richar Nogueira,L,0,"Pts: 4x4, Adv",American Nats,70KG,F,2021
+27556,9074,Joao Mendes,11497,Fabricio Andrey,L,0,Choke from back,Pan American,70KG,8F,2021
+29460,9074,Joao Mendes,8536,Yuta Shimada,L,0,"Pts: 0x0, Adv",World Champ.,64KG,8F,2021
+29967,9074,Joao Mendes,,Matheus Galvao,L,0,Points,Austin WO,76KG,F,2022
+31633,9074,Joao Mendes,8632,Thiago Macedo,L,0,Pts: 2x0,Pan American,70KG,R2,2022
+37934,9074,Joao Mendes,11015,Pablo Lavaselli,L,0,Pts: 2x0,LA Open,76KG,F,2023
+38370,9074,Joao Mendes,4163,Marcio Andre,L,0,Pts: 4x2,Pan American,70KG,8F,2023
+39048,9074,Joao Mendes,11248,Jonata Gomes,L,0,Referee Decision,Santa Cruz O,76KG,SF,2023
+39473,9074,Joao Mendes,8884,Alex Sodre,L,0,Pts: 2x0,Brasileiro,70KG,4F,2023
+40240,9074,Joao Mendes,11963,Diego Sodre,L,0,Referee Decision,World Champ.,70KG,4F,2023
+17157,9074,Joao Mendes,,Carlos Alberto,W,1,Pts: 40x0,Floripa W. Open,76KG,4F,2018
+17162,9074,Joao Mendes,6599,Rafael Mansur,W,1,Adv,Floripa W. Open,76KG,SF,2018
+17163,9074,Joao Mendes,,Luciano Bernert,W,1,Triangle,Floripa W. Open,76KG,F,2018
+17895,9074,Joao Mendes,,Higor Paterra,W,1,Submission,Curitiba SPO,70KG,4F,2018
+17896,9074,Joao Mendes,,Andrey Adam,W,1,Triangle,Curitiba SPO,70KG,SF,2018
+17898,9074,Joao Mendes,7698,Gabriel Marangoni,W,1,Adv,Curitiba SPO,70KG,F,2018
+18031,9074,Joao Mendes,5789,Tiago Barros,W,1,Points,Rio BJJ Pro,70KG,4F,2018
+18260,9074,Joao Mendes,,Gabriel Vilella,W,1,"Pts: 0x0, Adv",Grand Slam RJ,69KG,R1,2018
+18266,9074,Joao Mendes,,Victor Moraes,W,1,"Pts: 4x4, Adv",Grand Slam RJ,69KG,4F,2018
+18270,9074,Joao Mendes,6599,Rafael Mansur,W,1,Referee Decision,Grand Slam RJ,69KG,SF,2018
+18887,9074,Joao Mendes,7698,Gabriel Marangoni,W,1,"Pts: 4x4, Adv",European Open,70KG,4F,2019
+19150,9074,Joao Mendes,,Jacob Sandoval,W,1,N/A,OC Open,70KG,SF,2019
+19151,9074,Joao Mendes,,Spencer Nogawa,W,1,Pts: 22x0,OC Open,70KG,F,2019
+19571,9074,Joao Mendes,,Hiroaki Otsuka,W,1,Pts: 8x0,Pan American,70KG,8F,2019
+19981,9074,Joao Mendes,,Jose Leon,W,1,Pts: 45x0,San Jose Open,70KG,SF,2019
+19983,9074,Joao Mendes,9150,Cole Franson,W,1,"Pts: 4x4, Adv",San Jose Open,70KG,F,2019
+20442,9074,Joao Mendes,,Geoff Villareal,W,1,Armbar,San Diego Open,70KG,4F,2019
+20591,9074,Joao Mendes,,Hiroaki Otsuka,W,1,Pts: 13x0,World Champ.,70KG,R1,2019
+20925,9074,Joao Mendes,,G. Villareal,W,1,Cross choke,American Nats,70KG,4F,2019
+21130,9074,Joao Mendes,,Esdras Bezerra,W,1,Points,Fresno Open,70KG,F,2019
+21418,9074,Joao Mendes,,Joshua Prestley,W,1,Choke from back,Las Vegas Open,70KG,R1,2019
+21420,9074,Joao Mendes,10623,Eric Phan,W,1,Pts: 4x2,Las Vegas Open,70KG,4F,2019
+21756,9074,Joao Mendes,,Edward Kang,W,1,Referee Decision,F2W 126,70KG,SPF,2019
+22471,9074,Joao Mendes,,Gabriel Revoredo,W,1,Points,SJJIF Worlds,76KG,4F,2019
+22473,9074,Joao Mendes,11465,Kauan Barboza,W,1,Points,SJJIF Worlds,76KG,SF,2019
+22801,9074,Joao Mendes,9150,Cole Franson,W,1,Referee Decision,F2W 133,70KG,SPF,2019
+24010,9074,Joao Mendes,10953,Danilo Moreira,W,1,Pts: 3x0,Grand Slam MIA,69KG,R1,2020
+24019,9074,Joao Mendes,,Raphael Cadena,W,1,Pts: 4x0,Grand Slam MIA,69KG,RPC,2020
+24020,9074,Joao Mendes,,Giovanni Carvalho,W,1,Pts: 2x1,Grand Slam MIA,69KG,3RD,2020
+24144,9074,Joao Mendes,11338,Thiago Abud,W,1,Pts: 6x4,Pan American,70KG,8F,2020
+24679,9074,Joao Mendes,,Everton Freitas,W,1,Pts: 9x3,Grand Slam RJ,69KG,R1,2020
+26103,9074,Joao Mendes,,Mauricio Gomez,W,1,Pts: 14x0,NoGi Pan Am.,73KG,R1,2021
+26113,9074,Joao Mendes,12372,Francisco Cuneo,W,1,"Pts: 0x0, Adv",NoGi Pan Am.,73KG,8F,2021
+26594,9074,Joao Mendes,11823,Diogo Reis,W,1,Pts: 2x0,EUG 2,65KG,SPF,2021
+26657,9074,Joao Mendes,10953,Danilo Moreira,W,1,Referee Decision,American Nats,70KG,4F,2021
+26658,9074,Joao Mendes,11919,Daniel Maira,W,1,Pts: 4x0,American Nats,70KG,SF,2021
+28663,9074,Joao Mendes,,Felipe Makoto,W,1,"Pts: 6x6, Adv",Nashville Open,70KG,4F,2021
+28668,9074,Joao Mendes,,Edmaicon Silva,W,1,Triangle,Nashville Open,70KG,SF,2021
+28669,9074,Joao Mendes,,Matheus Honda,W,1,Pts: 6x0,Nashville Open,70KG,F,2021
+29964,9074,Joao Mendes,,Carlos Castro,W,1,"Pts: 0x0, Adv",Austin WO,76KG,4F,2022
+29965,9074,Joao Mendes,9931,Arthur Detanico,W,1,Pts: 8x4,Austin WO,76KG,SF,2022
+31626,9074,Joao Mendes,6366,Brian Mahecha,W,1,Pts: 8x4,Pan American,70KG,R1,2022
+32432,9074,Joao Mendes,,Michael Alvarez,W,1,Armbar,SD Open,70KG,4F,2022
+32434,9074,Joao Mendes,,Nathanael Martinez,W,1,Pts: 20x0,SD Open,70KG,SF,2022
+32436,9074,Joao Mendes,10928,Pedro Serrano,W,1,Points,SD Open,70KG,F,2022
+32617,9074,Joao Mendes,,Victor Mota,W,1,Pts: 5x0,Denver Open,70KG,4F,2022
+32619,9074,Joao Mendes,,Thiago Cintra,W,1,Botinha,Denver Open,70KG,SF,2022
+32621,9074,Joao Mendes,13175,Ariel Tabak,W,1,Pts: 4x0,Denver Open,70KG,F,2022
+35270,9074,Joao Mendes,,Manny Moreno,W,1,Points,Art Suave Elite,77KG,SPF,2022
+37723,9074,Joao Mendes,,Jose Mazariegos,W,1,Choke from back,Memphis Open,76KG,4F,2023
+37725,9074,Joao Mendes,9051,Gabriel Sousa,W,1,Pts: 7x2,Memphis Open,76KG,F,2023
+37866,9074,Joao Mendes,11015,Pablo Lavaselli,W,1,Pts: 2x0,Dallas Open,76KG,SF,2023
+37867,9074,Joao Mendes,10953,Danilo Moreira,W,1,Pts: 4x0,Dallas Open,76KG,F,2023
+38362,9074,Joao Mendes,,David Mosleh,W,1,Wristlock,Pan American,70KG,R1,2023
+39469,9074,Joao Mendes,,Artur Oliveira,W,1,Katagatame,Brasileiro,70KG,R1,2023
+40230,9074,Joao Mendes,,Matheus Onda,W,1,Pts: 2x0,World Champ.,70KG,R1,2023
+40232,9074,Joao Mendes,,Minho Yoon,W,1,"Pts: 2x2, Adv",World Champ.,70KG,8F,2023
+42869,9074,Joao Mendes,13575,Guilherme Fernandes,W,1,Pts: 2x2,ADGS Miami,69KG,8F,2023
+42876,9074,Joao Mendes,,Stefano Iturralde,W,1,Pts: 29x0,ADGS Miami,69KG,4F,2023
+42879,9074,Joao Mendes,6368,Kevin Mahecha,W,1,Pts: 7x6,ADGS Miami,69KG,SF,2023

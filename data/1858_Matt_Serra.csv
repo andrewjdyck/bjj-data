@@ -1,0 +1,8 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+485,1858,Matt Serra,437,Fernando Terere,L,0,Points,Pro Am,77KG,SF,2000
+487,1858,Matt Serra,419,Leonardo Vieira,L,0,Pts: 10x4,Pro Am,77KG,F,2000
+518,1858,Matt Serra,687,Marcio Feitosa,L,0,Pen,ADCC,77KG,F,2001
+484,1858,Matt Serra,,Unknown,W,1,RNC,Pro Am,77KG,4F,2000
+507,1858,Matt Serra,,Takanori Gomi,W,1,RNC,ADCC,77KG,R1,2001
+514,1858,Matt Serra,88,JJ Machado,W,1,Pen,ADCC,77KG,4F,2001
+517,1858,Matt Serra,292,Leonardo Santos,W,1,RNC,ADCC,77KG,SF,2001

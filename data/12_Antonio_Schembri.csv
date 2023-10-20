@@ -1,0 +1,27 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+119,12,Antonio Schembri,481,Saulo Ribeiro,L,0,Adv,World Champ.,82KG,F,1997
+380,12,Antonio Schembri,559,Rodrigo Comprido,L,0,Kimura,World Champ.,ABS,4F,2000
+391,12,Antonio Schembri,437,Fernando Terere,L,0,Pts: 2x0,World Champ.,82KG,F,2000
+475,12,Antonio Schembri,86,Fernando Margarida,L,0,Injury,Rickson Cup,ABS,F,2000
+530,12,Antonio Schembri,481,Saulo Ribeiro,L,0,Pen,ADCC,88KG,SF,2001
+1435,12,Antonio Schembri,144,Andre Galvao,L,0,Clock choke,World Champ.,82KG,SF,2006
+6073,12,Antonio Schembri,81,Vitor Shaolin,L,0,Pts: 8x0,World Expo,ABS,SPF,2014
+67,12,Antonio Schembri,720,Jorge Patino,W,1,Triangle,Brasileiro,82KG,F,1995
+117,12,Antonio Schembri,666,Alexandre Paiva,W,1,Pts: 2x0,World Champ.,82KG,SF,1997
+209,12,Antonio Schembri,,Mario Pierro,W,1,Choke,Estadual RJ,82KG,F,1998
+225,12,Antonio Schembri,,Unknown,W,1,Submission,World Champ.,88KG,4F,1998
+226,12,Antonio Schembri,,Rinaldo Santos,W,1,Footlock,World Champ.,88KG,SF,1998
+248,12,Antonio Schembri,6342,Pedro Duarte,W,1,Armbar,Oscar de JJ,ABS,SPF,1998
+273,12,Antonio Schembri,,Magrao,W,1,Pts: 11x0,Pan American,ABS,4F,1999
+275,12,Antonio Schembri,3357,Mario Esfiha,W,1,Armbar,Pan American,ABS,SF,1999
+276,12,Antonio Schembri,,Claudio Moreno,W,1,Armbar,Pan American,88KG,4F,1999
+277,12,Antonio Schembri,,Nilson Niboni,W,1,Armbar,Pan American,88KG,SF,1999
+467,12,Antonio Schembri,720,Jorge Patino,W,1,kneebar,Rickson Cup,ABS,GP,2000
+470,12,Antonio Schembri,,Marcus Silva,W,1,Adv,Rickson Cup,ABS,GP,2000
+480,12,Antonio Schembri,86,Fernando Margarida,W,1,Pts: 5x0,Rio x Sao Paulo,ABS,SPF,2000
+491,12,Antonio Schembri,,A. Cacareco,W,1,Points,ADCC Trials,87KG,F,2001
+520,12,Antonio Schembri,,Akihiro Gono,W,1,RNC,ADCC,88KG,R1,2001
+526,12,Antonio Schembri,,Alexander Savko,W,1,Omoplata,ADCC,88KG,4F,2001
+533,12,Antonio Schembri,6518,Egan Inoue,W,1,Points,ADCC,88KG,3PLC,2001
+953,12,Antonio Schembri,,Rodrigo Teixeira,W,1,Armbar,FFA (IGJJF),82KG,SPF,2003
+1432,12,Antonio Schembri,9587,Eduardo Rios,W,1,Pts: 8x4,World Champ.,82KG,4F,2006

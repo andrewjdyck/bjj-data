@@ -1,0 +1,47 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27904,13162,Jacob Couch,12122,Mica Galvao,L,0,Armbar,WNO Champ.,84KG,SF,2021
+27921,13162,Jacob Couch,10588,Jon Blank,L,0,Reverse triangle,WNO Champ.,84KG,RPC,2021
+28914,13162,Jacob Couch,11797,Giancarlo Bodoni,L,0,RNC,ADCC EC Trials,88KG,SF,2021
+31297,13162,Jacob Couch,6550,Gordon Ryan,L,0,Pressure,WNO 12,O92KG,SPF,2022
+31382,13162,Jacob Couch,,Harrison Woods,L,0,Pts: 3x0,ADCC WC Trials,88KG,8F,2022
+34998,13162,Jacob Couch,13172,Andrew Tackett,L,0,Pts: 2x0,ADCC Vegas,ABS,SF,2022
+37835,13162,Jacob Couch,11145,Igor Tanabe,L,0,RNC,Unrivaled 2,SPF,90KG,2023
+40029,13162,Jacob Couch,,Izaac Michel,L,0,Referee Decision,WNO 18,84KG,SPF,2023
+42456,13162,Jacob Couch,,Ryan Aitken,L,0,Referee Decision,ADCC Chicago,91KG,F,2023
+43271,13162,Jacob Couch,13076,Francisco Lo,L,0,Estima lock,NoGi Pan,85KG,SF,2023
+27902,13162,Jacob Couch,10880,Roberto Jimenez,W,1,Inside heel hook,WNO Champ.,84KG,4F,2021
+27923,13162,Jacob Couch,11771,William Tackett,W,1,Referee Decision,WNO Champ.,84KG,3RD,2021
+28447,13162,Jacob Couch,,Hunter Colvin,W,1,Armbar,WNO 10,O92KG,SPF,2021
+28877,13162,Jacob Couch,,Corbin Crisp,W,1,Kneebar,ADCC EC Trials,88KG,R1,2021
+28886,13162,Jacob Couch,,Donald Marcelin,W,1,Points,ADCC EC Trials,88KG,R2,2021
+28896,13162,Jacob Couch,,Micah Bakefield,W,1,Outside heel hook,ADCC EC Trials,88KG,R3,2021
+28905,13162,Jacob Couch,,Achilles Rocha,W,1,Triangle,ADCC EC Trials,88KG,R4,2021
+28912,13162,Jacob Couch,,Joseph Watson,W,1,RNC,ADCC EC Trials,88KG,4F,2021
+28916,13162,Jacob Couch,10531,John Salter,W,1,"Pts: 0x0, Pen",ADCC EC Trials,88KG,3RD,2021
+29824,13162,Jacob Couch,9668,David Garmo,W,1,Inside heel hook,WNO 11,93KG,SPF,2022
+30708,13162,Jacob Couch,11111,Santeri Lilius,W,1,Referee Decision,GrappleFest 11,90KG,SPF,2022
+31356,13162,Jacob Couch,,Charles Hiersche,W,1,Triangle,ADCC WC Trials,88KG,R2,2022
+31367,13162,Jacob Couch,,Joshua Baerwolf,W,1,Pts: 5x0,ADCC WC Trials,88KG,R3,2022
+31375,13162,Jacob Couch,,Kevin Crane,W,1,Referee Decision,ADCC WC Trials,88KG,R16,2022
+32812,13162,Jacob Couch,,Tom Breese,W,1,Referee Decision,GrappleFest 12,NA,SPF,2022
+34212,13162,Jacob Couch,,Jacob Rodriguez,W,1,Referee Decision,WNO 14,NA,SPF,2022
+34965,13162,Jacob Couch,,Angel Verduzco,W,1,Inside heel hook,ADCC Vegas,91KG,R2,2022
+34970,13162,Jacob Couch,,Daniel Ontiveros,W,1,Inside heel hook,ADCC Vegas,91KG,8F,2022
+34974,13162,Jacob Couch,,Brian Guevara,W,1,Inside heel hook,ADCC Vegas,91KG,4F,2022
+34978,13162,Jacob Couch,9250,Gabriel Almeida,W,1,Inside heel hook,ADCC Vegas,91KG,F,2022
+34996,13162,Jacob Couch,10506,Jeferson Guaresi,W,1,Triangle,ADCC Vegas,ABS,4F,2022
+35117,13162,Jacob Couch,,Jean Baptiste,W,1,Triangle,Grapplefest,NA,SPF,2022
+35282,13162,Jacob Couch,,Silviu Nastasa,W,1,Referee Decision,GrappleFest 13,95KG,SPF,2022
+36177,13162,Jacob Couch,12069,Bruno Matias,W,1,Guillotine,WNO,84KG,SPF,2022
+39214,13162,Jacob Couch,,Mackenzie Morales,W,1,RNC,Chicago SPNG,91KG,4F,2023
+39218,13162,Jacob Couch,,Yousef Ghoul,W,1,Smother tap,Chicago SPNG,91KG,SF,2023
+39219,13162,Jacob Couch,9668,David Garmo,W,1,Points,Chicago SPNG,91KG,F,2023
+39220,13162,Jacob Couch,,Mackenzie Morales,W,1,Triangle,Chicago SPNG,ABS,4F,2023
+39223,13162,Jacob Couch,,Daniel McGuire,W,1,Smother tap,Chicago SPNG,ABS,SF,2023
+39224,13162,Jacob Couch,,Alexander Seaver,W,1,Inside heel hook,Chicago SPNG,ABS,F,2023
+41524,13162,Jacob Couch,,Alejandro Tolmos,W,1,Referee Decision,Austin NGO,91KG,F,2023
+42450,13162,Jacob Couch,,Yousef Al-Ghoul,W,1,Straight ankle lock,ADCC Chicago,91KG,8F,2023
+42453,13162,Jacob Couch,,Sean Yadimarco,W,1,Anaconda choke,ADCC Chicago,91KG,4F,2023
+42454,13162,Jacob Couch,9668,David Garmo,W,1,Outside heel hook,ADCC Chicago,91KG,SF,2023
+43265,13162,Jacob Couch,9668,David Garmo,W,1,RNC,NoGi Pan,85KG,R1,2023
+43270,13162,Jacob Couch,12069,Bruno Matias,W,1,Pts: 2x0,NoGi Pan,85KG,4F,2023

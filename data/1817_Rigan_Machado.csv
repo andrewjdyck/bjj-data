@@ -1,0 +1,16 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+35,1817,Rigan Machado,829,Cassio Cardoso,L,0,Points,LINJJI,ABS,F,1984
+46,1817,Rigan Machado,67,Rickson Gracie,L,0,Exhaustion,III Copa Company,ABS,F,1986
+65,1817,Rigan Machado,67,Rickson Gracie,L,0,Choke,NA,ABS,SPF,1995
+340,1817,Rigan Machado,,Jeff Monson,L,0,Adv,ADCC,99KG,SF,1999
+342,1817,Rigan Machado,278,Ricardo Almeida,L,0,Choke,ADCC,99KG,3PLC,1999
+456,1817,Rigan Machado,,Mark Kerr,L,0,Pts: 2x0,ADCC,O99KG,SF,2000
+536,1817,Rigan Machado,,Olav Einemo,L,0,Injury,ADCC,99KG,R1,2001
+803,1817,Rigan Machado,505,Roger Gracie,L,0,Points,ADCC,99KG,4F,2003
+81,1817,Rigan Machado,550,Roberto Roleta,W,1,Pts: 3x0,Pan American,ABS,4F,1996
+83,1817,Rigan Machado,1152,Eduardo Jamelao,W,1,Pts: 7x0,Pan American,ABS,SF,1996
+330,1817,Rigan Machado,,Sanae Kikuta,W,1,Points,ADCC,99KG,R1,1999
+335,1817,Rigan Machado,,Jerry Bolander,W,1,Pts: 2x0,ADCC,99KG,4F,1999
+452,1817,Rigan Machado,3357,Mario Esfiha,W,1,Pts: 3x0,ADCC,O99KG,R1,2000
+455,1817,Rigan Machado,,Pete Williams,W,1,Pts: 7x0,ADCC,O99KG,4F,2000
+802,1817,Rigan Machado,,Yuki Ozawa,W,1,Points,ADCC,99KG,R1,2003

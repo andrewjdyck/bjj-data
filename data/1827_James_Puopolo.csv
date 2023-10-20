@@ -1,0 +1,119 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+3558,1827,James Puopolo,425,Bernardo Faria,L,0,Armbar,Pan American,ABS,4F,2012
+3653,1827,James Puopolo,644,Joao Assis,L,0,Toe Hold,Pan American,O100KG,4F,2012
+3721,1827,James Puopolo,6503,Marcel Fortuna,L,0,Points,SF Open,100KG,F,2012
+3736,1827,James Puopolo,144,Andre Galvao,L,0,Clock choke,SD World Trials,ABS,SF,2012
+3906,1827,James Puopolo,247,Rodolfo Vieira,L,0,Choke from back,World Champ.,ABS,R2,2012
+4117,1827,James Puopolo,1236,Antonio Carlos,L,0,Points,World Champ.,100KG,R2,2012
+4254,1827,James Puopolo,425,Bernardo Faria,L,0,Points,NoGi Worlds,100KG,4F,2012
+4265,1827,James Puopolo,2226,DJ Jackson,L,0,"Pts: 0x0, Adv",NoGi Worlds,ABS,R1,2012
+4396,1827,James Puopolo,984,Marcus Almeida,L,0,Toe hold,SD Pro Trials,O92KG,F,2013
+4512,1827,James Puopolo,2452,Orlando Sanchez,L,0,Adv,Pan American,ABS,R1,2013
+4749,1827,James Puopolo,1534,R. Evangelista,L,0,N/A,World Champ.,ABS,RDS,2013
+4944,1827,James Puopolo,2035,Vitor Oliveira,L,0,Points,American Nats,ABS,SF,2013
+4953,1827,James Puopolo,4328,AJ Agazarm,L,0,Pts: 9x4,American NNG,ABS,4F,2013
+5025,1827,James Puopolo,,Kamil Uminski,L,0,Footlock,ADCC,99KG,R1,2013
+5095,1827,James Puopolo,4859,Ricardo Rezende,L,0,Toe hold,World Expo,ABS,F,2013
+5122,1827,James Puopolo,1188,Leandro Lo,L,0,Adv,NoGi Worlds,ABS,SF,2013
+5185,1827,James Puopolo,3009,Keenan Cornelius,L,0,RNC,FIVE Rd Robin,ABS,RR,2013
+5186,1827,James Puopolo,3200,Jackson Sousa,L,0,Pts: 8x0,FIVE Rd Robin,ABS,RR,2013
+5189,1827,James Puopolo,5649,Garry Tonon,L,0,Inside heel hook,FIVE Rd Robin,ABS,RR,2013
+5311,1827,James Puopolo,484,Murilo Santana,L,0,Points,Pan American,ABS,R3,2014
+5408,1827,James Puopolo,,Thiago Declavo,L,0,Verbal tap,Pan American,100KG,R1,2014
+5521,1827,James Puopolo,3200,Jackson Sousa,L,0,Pts: 7x0,FIVE Oregon,ABS,F,2014
+5846,1827,James Puopolo,247,Rodolfo Vieira,L,0,Choke from back,World Champ.,100KG,4F,2014
+5910,1827,James Puopolo,3200,Jackson Sousa,L,0,Choke from back,Dallas Open,ABS,F,2014
+6012,1827,James Puopolo,3009,Keenan Cornelius,L,0,Pts: 8x2,NoGi Worlds,ABS,4F,2014
+6062,1827,James Puopolo,3122,Luiz Panza,L,0,Footlock,NoGi Worlds,100KG,SF,2014
+6270,1827,James Puopolo,,Jordan Hayman,L,0,Points,FIVE NAIC,ABS,NA,2014
+6291,1827,James Puopolo,1740,Yuri Simoes,L,0,Ezekiel,Long Beach Pro,O94KG,F,2014
+6766,1827,James Puopolo,1188,Leandro Lo,L,0,Pts: 13x0,Pan American,ABS,R3,2015
+6896,1827,James Puopolo,1757,Alexander Trans,L,0,Kneebar,Pan American,O100KG,F,2015
+7504,1827,James Puopolo,1740,Yuri Simoes,L,0,Pts: 7x4,World Champ.,100KG,4F,2015
+7632,1827,James Puopolo,6324,Evandro Nunes,L,0,Points,American Nat.,O100KG,SF,2015
+7766,1827,James Puopolo,1740,Yuri Simoes,L,0,Pts: 6x2,FIVE SL,ABS,4F,2015
+8271,1827,James Puopolo,1263,Lucio Rodrigues,L,0,Adv,Grand Slam LA,O94KG,4F,2015
+8283,1827,James Puopolo,,Andre Campos,L,0,Referee Decision,Grand Slam LA,ABS,4F,2015
+8467,1827,James Puopolo,644,Joao Assis,L,0,Ankle lock,NoGi Worlds,97KG,SF,2015
+9358,1827,James Puopolo,6631,Igor Schneider,L,0,Pts: 6x4,Pan American,O100KG,4F,2016
+9388,1827,James Puopolo,3122,Luiz Panza,L,0,Armbar,Pan American,ABS,8F,2016
+10073,1827,James Puopolo,984,Marcus Almeida,L,0,Armbar,World Champ.,O100KG,F,2016
+10090,1827,James Puopolo,1534,R. Evangelista,L,0,Pts: 6x2,World Champ.,ABS,R2,2016
+10880,1827,James Puopolo,2403,Joao Rocha,L,0,Referee Decision,F2W 17,100KG,SPF,2016
+13015,1827,James Puopolo,8560,Gabriel Lucas,L,0,Referee Decision,F2W 35,O100KG,SPF,2017
+13025,1827,James Puopolo,6156,Tanner Rice,L,0,Armbar,World Champ.,ABS,R1,2017
+13217,1827,James Puopolo,2403,Joao Rocha,L,0,Pts: 4x0,World Champ.,O100KG,4F,2017
+14418,1827,James Puopolo,6805,Max Gimenis,L,0,Pts: 4x0,BJJ NY Pro,94KG,4F,2017
+16588,1827,James Puopolo,6825,Fernando Reis,L,0,RNC,World Champ.,100KG,8F,2018
+16724,1827,James Puopolo,7399,Horlando Monteiro,L,0,Pts: 6x2,American Nat.,ABS,F,2018
+16870,1827,James Puopolo,6805,Max Gimenis,L,0,Points,NY BJJ Pro,O94KG,SF,2018
+16984,1827,James Puopolo,4177,Gustavo Dias,L,0,Referee Decision,W.S.O.G.,O81KG,SF,2018
+18463,1827,James Puopolo,4655,Michael Liera,L,0,Triangle,Denver Open,ABS,SF,2018
+18684,1827,James Puopolo,8974,Kaynan Duarte,L,0,Arm in guillotine,NoGi Worlds,97KG,F,2018
+18934,1827,James Puopolo,7704,Helton Jose,L,0,"Pts: 0x0, Adv",European Open,100KG,4F,2019
+18936,1827,James Puopolo,7704,Helton Jose,L,0,50/50 armbar,European Open,100KG,SF,2019
+19662,1827,James Puopolo,6156,Tanner Rice,L,0,Referee Decision,Pan American,100KG,4F,2019
+20701,1827,James Puopolo,3122,Luiz Panza,L,0,Botinha,World Champ.,100KG,R1,2019
+20720,1827,James Puopolo,8514,Fellipe Andrew,L,0,Armbar,World Champ.,ABS,R1,2019
+21838,1827,James Puopolo,733,Vinny Magalhaes,L,0,Pts: 2x0,ADCC,99KG,4F,2019
+22908,1827,James Puopolo,224,Roberto Abreu,L,0,Straight armlock,NoGi Worlds,O97KG,F,2019
+3535,1827,James Puopolo,,Felipe Matos,W,1,N/A,Pan American,ABS,R1,2012
+3552,1827,James Puopolo,390,Abmar Barbosa,W,1,Pts: 9x0,Pan American,ABS,R2,2012
+3720,1827,James Puopolo,,Leo Machado,W,1,N/A,SF Open,100KG,SF,2012
+3733,1827,James Puopolo,1023,Baret Yoshida,W,1,Pts: 5x0,SD World Trials,ABS,4F,2012
+3895,1827,James Puopolo,9706,Marcelo Mafra,W,1,Referee Decision,World Champ.,ABS,R2,2012
+4114,1827,James Puopolo,1403,Fernando Piero,W,1,Kneebar,World Champ.,100KG,R1,2012
+4713,1827,James Puopolo,,Ronaldo Carlos,W,1,Kneebar,World Champ.,ABS,RDS,2013
+4734,1827,James Puopolo,474,Alexandre Ceconi,W,1,Pts: 3x0,World Champ.,ABS,RDS,2013
+5084,1827,James Puopolo,7519,Eliot Kelly,W,1,Kneebar,World Expo,ABS,GP,2013
+5087,1827,James Puopolo,4859,Ricardo Rezende,W,1,Kneebar,World Expo,ABS,GP,2013
+5088,1827,James Puopolo,,Alessandro Ferreira,W,1,Armbar,World Expo,ABS,GP,2013
+5090,1827,James Puopolo,,T. Stevens,W,1,Kneebar,World Expo,ABS,GP,2013
+5094,1827,James Puopolo,8081,Nathan Mendelsohn,W,1,Pts: 4x0,World Expo,ABS,SF,2013
+5116,1827,James Puopolo,5324,Tom deBlass,W,1,Kneebar,NoGi Worlds,100KG,SF,2013
+5117,1827,James Puopolo,7519,Eliot Kelly,W,1,Guillotine,NoGi Worlds,100KG,F,2013
+5191,1827,James Puopolo,5365,Beneil Dariush,W,1,Katagatame,FIVE Rd Robin,ABS,RR,2013
+5300,1827,James Puopolo,4328,AJ Agazarm,W,1,Choke from back,Pan American,ABS,R2,2014
+5511,1827,James Puopolo,,Tom McMahon,W,1,Pts: 9x2,FIVE Ontario,ABS,F,2014
+5512,1827,James Puopolo,,Tom McMahon,W,1,Kneebar,FIVE Ontario,O100KG,F,2014
+5513,1827,James Puopolo,,Matt McDonald,W,1,Kneebar,FIVE Ont. 2 NG,O100KG,F,2014
+5514,1827,James Puopolo,,Matt McDonald,W,1,Guillotine,FIVE Ont. 2 NG,ABS,F,2014
+5515,1827,James Puopolo,,Amir Yafawi,W,1,Kneebar,FIVE Ontario 2,O100KG,F,2014
+5519,1827,James Puopolo,,Filip G Matos,W,1,Mounted X choke,FIVE Oregon,ABS,SF,2014
+5909,1827,James Puopolo,5414,Osvaldo Moizinho,W,1,Choke,Dallas Open,ABS,SF,2014
+6059,1827,James Puopolo,,Steven Patterson,W,1,RNC,NoGi Worlds,100KG,4F,2014
+6267,1827,James Puopolo,,Malachy Friedman,W,1,Armbar,FIVE NAIC,ABS,NA,2014
+6268,1827,James Puopolo,6419,Marcel Goncalves,W,1,Pts: 5x2,FIVE NAIC,ABS,NA,2014
+6269,1827,James Puopolo,708,Daniel Azevedo,W,1,Points,FIVE NAIC,ABS,NA,2014
+6755,1827,James Puopolo,9711,Jurandir Conceicao,W,1,Pts: 7x0,Pan American,ABS,R2,2015
+6884,1827,James Puopolo,,Jose dos Santos,W,1,Cross choke,Pan American,O100KG,R1,2015
+6891,1827,James Puopolo,3083,Abraham Marte,W,1,Pts: 7x4,Pan American,O100KG,4F,2015
+6894,1827,James Puopolo,6324,Evandro Nunes,W,1,Pts: 9x0,Pan American,O100KG,SF,2015
+7606,1827,James Puopolo,,Kelly Eliot,W,1,Triangle,US No Gi Nat.,ABS,F,2015
+8011,1827,James Puopolo,8202,Ricardo Feliciano,W,1,Choke from back,Santa Cruz Pro,O94KG,SF,2015
+8012,1827,James Puopolo,6156,Tanner Rice,W,1,Kneebar,Santa Cruz Pro,O94KG,F,2015
+8465,1827,James Puopolo,5660,Lucas Rocha,W,1,Kneebar,NoGi Worlds,97KG,4F,2015
+9378,1827,James Puopolo,,Manuel Diaz,W,1,Kneebar,Pan American,ABS,R2,2016
+10064,1827,James Puopolo,,Mahamad Aly,W,1,Pts: 9x2,World Champ.,O100KG,R1,2016
+10069,1827,James Puopolo,7079,Carlos Farias,W,1,Pts: 2x0,World Champ.,O100KG,4F,2016
+10072,1827,James Puopolo,1534,R. Evangelista,W,1,Pts: 15x0,World Champ.,O100KG,SF,2016
+10485,1827,James Puopolo,,Luis Rubalcava,W,1,Cross choke,F2W 11,100KG,SPF,2016
+13211,1827,James Puopolo,7537,Felipe Bezerra,W,1,Armbar,World Champ.,O100KG,8F,2017
+13380,1827,James Puopolo,,James Foster,W,1,Kneebar,F2W 39,100KG,SPF,2017
+13783,1827,James Puopolo,,Bryant Pangelinan,W,1,Triangle,Passion 4,ABS,SPF,2017
+16713,1827,James Puopolo,,Kaio Cesar,W,1,Armbar,American Nat.,100KG,SF,2018
+16714,1827,James Puopolo,,Wellington Perotto,W,1,Calf slicer,American Nat.,100KG,F,2018
+16720,1827,James Puopolo,,Arin Adjamian,W,1,Armlock,American Nat.,ABS,4F,2018
+16723,1827,James Puopolo,,Wellington Perotto,W,1,Kneebar,American Nat.,ABS,SF,2018
+16973,1827,James Puopolo,,Nathan Barreto,W,1,Kneebar,W.S.O.G.,O81KG,R1,2018
+16978,1827,James Puopolo,,Victor Oliveira,W,1,Cross choke,W.S.O.G.,O81KG,8F,2018
+16986,1827,James Puopolo,477,Tarsis Humphreys,W,1,Referee Decision,W.S.O.G.,O81KG,3RD,2018
+17110,1827,James Puopolo,,Daniel Priebe,W,1,Armbar,Seattle Open,100KG,F,2018
+18462,1827,James Puopolo,,Jeffrey Ake,W,1,N/A,Denver Open,ABS,4F,2018
+18680,1827,James Puopolo,,Jorge Escudero,W,1,Kneebar,NoGi Worlds,97KG,R1,2018
+18683,1827,James Puopolo,7519,Eliot Kelly,W,1,Pts: 2x0,NoGi Worlds,97KG,SF,2018
+18933,1827,James Puopolo,,Marek Zbrog,W,1,Mounted X choke,European Open,100KG,4F,2019
+19661,1827,James Puopolo,8634,Rafael Vasconcelos,W,1,Armbar,Pan American,100KG,8F,2019
+20848,1827,James Puopolo,,Mauro Oliveira,W,1,Wristlock,F2W 114,N/A,SPF,2019
+21832,1827,James Puopolo,9246,Tex Johnson,W,1,Pts: 3x0,ADCC,99KG,R1,2019
+22906,1827,James Puopolo,,Fernando Ribas,W,1,Arm in guillotine,NoGi Worlds,O97KG,SF,2019

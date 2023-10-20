@@ -1,0 +1,33 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+15782,9845,Chad Hardy,6103,Isaac Doederlein,L,0,Choke,Washington SPO,ABS,R1,2018
+17434,9845,Chad Hardy,9253,Michael Trasso,L,0,Pts: 2x0,No Gi Pan Am.,79KG,4F,2018
+18419,9845,Chad Hardy,,Pedro Palhares,L,0,Kneebar,Nashville Fall Open,82KG,SF,2018
+19188,9845,Chad Hardy,9640,Brian Beaury,L,0,Armbar,Atlanta WO,82KG,SF,2019
+19196,9845,Chad Hardy,9640,Brian Beaury,L,0,Kneebar,Atlanta WO,ABS,R1,2019
+19627,9845,Chad Hardy,4655,Michael Liera,L,0,Choke from back,Pan American,82KG,4F,2019
+19679,9845,Chad Hardy,5655,Lucas Barbosa,L,0,Katagatame,Pan American,ABS,R2,2019
+22435,9845,Chad Hardy,,Jeovany Ortiz,L,0,Points,Nashville Open,82KG,SF,2019
+24470,9845,Chad Hardy,10162,Ronaldo Junior,L,0,Pts: 5x0,No Gi Pan Am.,79KG,R1,2020
+11472,9845,Chad Hardy,,Robbie Craddock,W,1,Triangle,Sapateiro 6,ABS,SPF,2017
+11490,9845,Chad Hardy,,Jeovany Ortiz,W,1,Heel hook,TN State Champ.,ABS,SPF,2017
+11491,9845,Chad Hardy,,Ethan Moses,W,1,Heel hook,TN State Champ.,ABS,SPF,2017
+14778,9845,Chad Hardy,,Elijah Carlton,W,1,Points,Top Roller,ABS,R1,2017
+14779,9845,Chad Hardy,,Sterling Peace,W,1,Armbar,Top Roller,ABS,4F,2017
+14780,9845,Chad Hardy,,Jake Joe,W,1,Triangle,Top Roller,ABS,SF,2017
+14781,9845,Chad Hardy,,Ben Tucker,W,1,Triangle armbar,Top Roller,ABS,F,2017
+14782,9845,Chad Hardy,,Paul Riley,W,1,Armbar,UGI,77KG,F,2017
+14793,9845,Chad Hardy,,Kyle Thomison,W,1,Triangle,EGO,82KG,F,2018
+14794,9845,Chad Hardy,,Rob Arnett,W,1,Armbar,EGO,ABS,R1,2018
+14795,9845,Chad Hardy,,Mathew Smith,W,1,Toe hold,Fuji,ABS,SF,2018
+14796,9845,Chad Hardy,,Garrett Andrews,W,1,Armbar,Fuji,ABS,F,2018
+14797,9845,Chad Hardy,,Chris Griffin,W,1,Triangle,UGI,77KG,F,2018
+15776,9845,Chad Hardy,,Greg Walker,W,1,Triangle,Washington SPO,82KG,4F,2018
+15777,9845,Chad Hardy,,Athos Miranda,W,1,Shoulder lock,Washington SPO,82KG,SF,2018
+15778,9845,Chad Hardy,,Thomas Keenan,W,1,DQ,Washington SPO,82KG,F,2018
+17279,9845,Chad Hardy,10468,Nisar loynab,W,1,Choke from back,Las Vegas Open,88KG,4F,2018
+17280,9845,Chad Hardy,,James Clingerman,W,1,Armbar,Las Vegas Open,88KG,SF,2018
+17281,9845,Chad Hardy,,Gustavo Andrade,W,1,Pts: 9x6,Las Vegas Open,88KG,F,2018
+19186,9845,Chad Hardy,,Richard Pinto,W,1,Triangle,Atlanta WO,82KG,4F,2019
+19605,9845,Chad Hardy,,Ygor Dantas,W,1,Triangle,Pan American,82KG,R1,2019
+19621,9845,Chad Hardy,,Lucas Valle,W,1,Armbar,Pan American,82KG,8F,2019
+19675,9845,Chad Hardy,,Melor Strura,W,1,Pts: 2x0,Pan American,ABS,R1,2019

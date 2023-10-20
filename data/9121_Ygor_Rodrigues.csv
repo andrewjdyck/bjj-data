@@ -1,0 +1,117 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+16643,9121,Ygor Rodrigues,6596,Jhonny Loureiro,L,0,"Pts: 6x6, Pen",Copa Podio,76KG,SPF,2018
+17068,9121,Ygor Rodrigues,4115,Fabio Caloi,L,0,Referee Decision,Vitoria Open,76KG,4F,2018
+17703,9121,Ygor Rodrigues,8138,Hugo Marques,L,0,Guillotine,Brasileiro NoGi,79KG,F,2018
+17721,9121,Ygor Rodrigues,8138,Hugo Marques,L,0,Footlock,Brasileiro NoGi,ABS,4F,2018
+18038,9121,Ygor Rodrigues,5078,Luan Carvalho,L,0,Armbar,Rio BJJ Pro,82KG,SF,2018
+18284,9121,Ygor Rodrigues,,Marlus Salgado,L,0,Pts: 2x0,Grand Slam RJ,77KG,R2,2018
+18542,9121,Ygor Rodrigues,,Vitor Matos,L,0,N/A,BH Sp Open,76KG,SF,2018
+19044,9121,Ygor Rodrigues,9931,Arthur Detanico,L,0,Straight ankle lock,South Brazilian,76KG,R1,2019
+19215,9121,Ygor Rodrigues,8105,Tommy Langaker,L,0,Choke from back,Copa Podio,77KG,SF,2019
+19587,9121,Ygor Rodrigues,9465,Endres Barbosa,L,0,Pts: 8x4,Pan American,76KG,R1,2019
+20630,9121,Ygor Rodrigues,5930,Rodrigo Freitas,L,0,Choke from back,World Champ.,76KG,4F,2019
+20829,9121,Ygor Rodrigues,6825,Fernando Reis,L,0,Arm in Ezekiel,Rio Open,ABS,SF,2019
+21092,9121,Ygor Rodrigues,10232,Gabriel Figueiro,L,0,Pts: 4x2,BH Winter Open,76KG,F,2019
+21520,9121,Ygor Rodrigues,5715,Isaque Paiva,L,0,Cross choke,Team Nationals,77KG,R1,2019
+22102,9121,Ygor Rodrigues,10216,Natan Chueng,L,0,Pts: 3x0,Curitiba SPO,76KG,SF,2019
+22310,9121,Ygor Rodrigues,6432,Yan Lucas,L,0,"Pts: 0x0, Adv",Grand Slam RJ,77KG,SF,2019
+22314,9121,Ygor Rodrigues,7831,Diego Ramalho,L,0,"Pts: 0x0, Adv",Grand Slam RJ,77KG,RPC,2019
+22458,9121,Ygor Rodrigues,,Wellington Marques,L,0,Points,Rio BJJ Pro,82KG,4F,2019
+22864,9121,Ygor Rodrigues,7664,Johnny Tama,L,0,Pts: 7x0,NoGi Worlds,73KG,F,2019
+23364,9121,Ygor Rodrigues,,Felipe Ribas,L,0,Points,Curitiba SO,76KG,4F,2020
+24710,9121,Ygor Rodrigues,,Luis Ribas,L,0,Choke from back,Grand Slam RJ,77KG,8F,2020
+25317,9121,Ygor Rodrigues,9793,Alexandre Jesus,L,0,Pts: 2x0,Rio Open,82KG,F,2021
+27393,9121,Ygor Rodrigues,,Marlus Salgado,L,0,Choke from back,Sul Americano,76KG,SF,2021
+28060,9121,Ygor Rodrigues,9067,Leonardo Lara,L,0,"Pts: 0x0, Adv",Brasileiro,82KG,SF,2021
+29137,9121,Ygor Rodrigues,7006,Julio Anjos,L,0,Pts: 1x0,BRA Qualifiers,77KG,4F,2021
+32159,9121,Ygor Rodrigues,11015,Pablo Lavaselli,L,0,Choke from back,Brasileiro,76KG,4F,2022
+33980,9121,Ygor Rodrigues,12348,Lucas Protasio,L,0,Pts: 3x0,Grand Slam RJ,77KG,R2,2022
+41099,9121,Ygor Rodrigues,,Jhonathan Marques,L,0,Choke from back,Copa Cabelinho,82KG,SPF,2023
+16666,9121,Ygor Rodrigues,,Gabriel Brasil,W,1,Adv,BH Winter Open,76KG,R1,2018
+16667,9121,Ygor Rodrigues,,Paulo Alves,W,1,Botinha,BH Winter Open,76KG,SF,2018
+16668,9121,Ygor Rodrigues,,Anselmo Gomes,W,1,Pts: 2x0,BH Winter Open,76KG,F,2018
+17092,9121,Ygor Rodrigues,,Unknown,W,1,Pts: 2x0,Vitoria NGO,79KG,SF,2018
+17093,9121,Ygor Rodrigues,,Juliano Rocha,W,1,Toe hold,Vitoria NGO,79KG,SF,2018
+17094,9121,Ygor Rodrigues,,Chairo Olimpio,W,1,Pts: 8x0,Vitoria NGO,79KG,F,2018
+17471,9121,Ygor Rodrigues,,Hilton Leao,W,1,Pts: 8x0,Sao Paulo Open,76KG,R1,2018
+17473,9121,Ygor Rodrigues,,Chairo Olimpio,W,1,Pts: 4x0,Sao Paulo Open,76KG,4F,2018
+17474,9121,Ygor Rodrigues,,Ricardo Rocha,W,1,Pts: 4x0,Sao Paulo Open,76KG,SF,2018
+17476,9121,Ygor Rodrigues,,Lucas Barros,W,1,Points,Sao Paulo Open,76KG,F,2018
+17697,9121,Ygor Rodrigues,,Juliano Rocha,W,1,RNC,Brasileiro NoGi,79KG,R1,2018
+17698,9121,Ygor Rodrigues,,Andrey Martins,W,1,Calf slicer,Brasileiro NoGi,79KG,4F,2018
+17702,9121,Ygor Rodrigues,,Marco Queiroz,W,1,Pts: 4x0,Brasileiro NoGi,79KG,SF,2018
+17901,9121,Ygor Rodrigues,,Lucas Barros,W,1,Submission,Curitiba SPO,76KG,4F,2018
+17904,9121,Ygor Rodrigues,,Luciano Bernert,W,1,Submission,Curitiba SPO,76KG,SF,2018
+17906,9121,Ygor Rodrigues,,Aquila de Paula,W,1,Choke from back,Curitiba SPO,76KG,F,2018
+17933,9121,Ygor Rodrigues,,Aquila Paula,W,1,Calf crusher,Curitiba SPNGO,79KG,F,2018
+18278,9121,Ygor Rodrigues,,Bruno Fonseca,W,1,Pts: 3x0,Grand Slam RJ,77KG,R1,2018
+18540,9121,Ygor Rodrigues,,Pedro Augusto,W,1,N/A,BH Sp Open,76KG,4F,2018
+19204,9121,Ygor Rodrigues,12654,Tarik Hopstock,W,1,"Pts: 2x2, Adv",Copa Podio,77KG,RR,2019
+19205,9121,Ygor Rodrigues,7321,Darragh OConaill,W,1,"Pts: 0x0, Adv",Copa Podio,77KG,RR,2019
+19207,9121,Ygor Rodrigues,6596,Jhonny Loureiro,W,1,"Pts: 4x4, Adv",Copa Podio,77KG,RR,2019
+19812,9121,Ygor Rodrigues,,Lucas Pereira,W,1,Choke from back,Rio FO,76KG,4F,2019
+19814,9121,Ygor Rodrigues,9956,Vinicius Pereira,W,1,Points,Rio FO,76KG,SF,2019
+19815,9121,Ygor Rodrigues,,Daniel Lima,W,1,Choke from back,Rio FO,76KG,F,2019
+19838,9121,Ygor Rodrigues,,Thiago Silva,W,1,Points,Rio Fall NGO,79KG,SF,2019
+19839,9121,Ygor Rodrigues,12372,Francisco Cuneo,W,1,Points,Rio Fall NGO,79KG,F,2019
+20271,9121,Ygor Rodrigues,,Rafael Castro,W,1,Choke from back,Brasileiro,76KG,R2,2019
+20276,9121,Ygor Rodrigues,9440,Jeremy Jackson,W,1,Points,Brasileiro,76KG,R3,2019
+20277,9121,Ygor Rodrigues,9956,Vinicius Pereira,W,1,Points,Brasileiro,76KG,4F,2019
+20281,9121,Ygor Rodrigues,,M.Leonison,W,1,Pts: 4x0,Brasileiro,76KG,SF,2019
+20283,9121,Ygor Rodrigues,8112,Matheus Costa,W,1,Pts: 2x0,Brasileiro,76KG,F,2019
+20622,9121,Ygor Rodrigues,4235,Victor Silverio,W,1,Referee Decision,World Champ.,76KG,R2,2019
+20809,9121,Ygor Rodrigues,,Thiano Alves,W,1,Toe hold,Rio Open,76KG,4F,2019
+20810,9121,Ygor Rodrigues,,Leonilson Marques,W,1,Choke from back,Rio Open,76KG,SF,2019
+20811,9121,Ygor Rodrigues,,Lucas Costa,W,1,Choke from back,Rio Open,76KG,F,2019
+20828,9121,Ygor Rodrigues,,Lucas Almeida,W,1,Toe hold,Rio Open,ABS,4F,2019
+21089,9121,Ygor Rodrigues,10835,Eduardo Avelar,W,1,Points,BH Winter Open,76KG,4F,2019
+21091,9121,Ygor Rodrigues,,Gabriel Santos,W,1,Points,BH Winter Open,76KG,SF,2019
+21329,9121,Ygor Rodrigues,,Evandro Brandao,W,1,Choke from back,Floripa WO,76KG,4F,2019
+21333,9121,Ygor Rodrigues,9312,Alexandre Cavaliere,W,1,Pts: 2x0,Floripa WO,76KG,SF,2019
+21334,9121,Ygor Rodrigues,10232,Gabriel Figueiro,W,1,Bow and arrow,Floripa WO,76KG,F,2019
+21781,9121,Ygor Rodrigues,,Geovan Carmo,W,1,RNC,Brasileiro NoGi,73KG,R1,2019
+21784,9121,Ygor Rodrigues,,Domenico Novello,W,1,Points,Brasileiro NoGi,73KG,4F,2019
+21785,9121,Ygor Rodrigues,3110,Victor Genovesi,W,1,RNC,Brasileiro NoGi,73KG,SF,2019
+21787,9121,Ygor Rodrigues,4115,Fabio Caloi,W,1,Pts: 4x2,Brasileiro NoGi,73KG,F,2019
+22300,9121,Ygor Rodrigues,,P. Dias,W,1,Choke from back,Grand Slam RJ,77KG,R1,2019
+22308,9121,Ygor Rodrigues,10932,Gustavo Maron,W,1,Injury,Grand Slam RJ,77KG,4F,2019
+22859,9121,Ygor Rodrigues,,Fred Alves,W,1,RNC,NoGi Worlds,73KG,4F,2019
+22862,9121,Ygor Rodrigues,,Athos Miranda,W,1,"Pts: 0x0, Adv",NoGi Worlds,73KG,SF,2019
+23356,9121,Ygor Rodrigues,,Alexis Stangen,W,1,N/A,Curitiba SO,76KG,R1,2020
+23408,9121,Ygor Rodrigues,,Welington Marques,W,1,RNC,Curitiba SNGO,73KG,F,2020
+24696,9121,Ygor Rodrigues,10835,Eduardo Avelar,W,1,Pts: 6x4,Grand Slam RJ,77KG,R1,2020
+24701,9121,Ygor Rodrigues,,Lucas Silva,W,1,Pts: 4x0,Grand Slam RJ,77KG,R1,2020
+25314,9121,Ygor Rodrigues,,Eduardo Brandao,W,1,Pts: 11x8,Rio Open,82KG,4F,2021
+25315,9121,Ygor Rodrigues,,Lucas Brito,W,1,Points,Rio Open,82KG,SF,2021
+25374,9121,Ygor Rodrigues,,Darlan Casaca,W,1,RNC,Rio Open NG,79KG,4F,2021
+25378,9121,Ygor Rodrigues,10216,Natan Chueng,W,1,Pts: 2x0,Rio Open NG,79KG,SF,2021
+25379,9121,Ygor Rodrigues,,Sergio Lopes,W,1,Points,Rio Open NG,79KG,F,2021
+25904,9121,Ygor Rodrigues,9956,Vinicius Pereira,W,1,RNC,S. American NG,79KG,4F,2021
+25905,9121,Ygor Rodrigues,,Douglas Saraiva,W,1,Pts: 8x6,S. American NG,79KG,SF,2021
+25907,9121,Ygor Rodrigues,10669,Lucas Alves,W,1,Pts: 2x0,S. American NG,79KG,F,2021
+26810,9121,Ygor Rodrigues,,Raimundo Nonato,W,1,Inside heel hook,Rio Winter NGO,73KG,SF,2021
+26811,9121,Ygor Rodrigues,,Thierry Faria,W,1,Pts: 6x0,Rio Winter NGO,73KG,F,2021
+27105,9121,Ygor Rodrigues,,Marlus Salgado,W,1,Pts: 2x1,AJP RJ Pro,77KG,R1,2021
+27108,9121,Ygor Rodrigues,,Darlan Casaca,W,1,Pts: 4x0,AJP RJ Pro,77KG,4F,2021
+27110,9121,Ygor Rodrigues,,Ariovaldo Neto,W,1,N/A,AJP RJ Pro,77KG,SF,2021
+27112,9121,Ygor Rodrigues,13458,Leandro Rounaud,W,1,Pts: 3x0,AJP RJ Pro,77KG,F,2021
+27391,9121,Ygor Rodrigues,,Tadeu Junior,W,1,Points,Sul Americano,76KG,4F,2021
+28059,9121,Ygor Rodrigues,,Carlos Souza,W,1,Referee Decision,Brasileiro,82KG,4F,2021
+29133,9121,Ygor Rodrigues,,Michael Maia,W,1,Pts: 5x0,BRA Qualifiers,77KG,R1,2021
+31865,9121,Ygor Rodrigues,,Jadson Araujo,W,1,Referee Decision,Rio Fall Open,76KG,8F,2022
+31873,9121,Ygor Rodrigues,,Lucas Brito,W,1,Pts: 6x4,Rio Fall Open,76KG,4F,2022
+31875,9121,Ygor Rodrigues,,Marlus Salgado,W,1,Pts: 2x0,Rio Fall Open,76KG,SF,2022
+31877,9121,Ygor Rodrigues,9956,Vinicius Pereira,W,1,Choke from back,Rio Fall Open,76KG,F,2022
+31962,9121,Ygor Rodrigues,,Italo Silva,W,1,Pts: 2x0,Rio Fall NGO,79KG,4F,2022
+31965,9121,Ygor Rodrigues,,Matheus Paula,W,1,Pts: 2x0,Rio Fall NGO,79KG,SF,2022
+31966,9121,Ygor Rodrigues,,Luiz Santos,W,1,Pts: 2x0,Rio Fall NGO,79KG,F,2022
+33967,9121,Ygor Rodrigues,,Erick Vinicius,W,1,Clock choke,Grand Slam RJ,77KG,R1,2022
+34303,9121,Ygor Rodrigues,,Luiz Santos,W,1,Inside heel hook,Brasileiro NoGi,79KG,4F,2022
+34304,9121,Ygor Rodrigues,,Pierpaolo Chiappe,W,1,"Pts: 0x0, Adv",Brasileiro NoGi,79KG,SF,2022
+34306,9121,Ygor Rodrigues,,Marco Queiroz,W,1,"Pts: 0x0, Adv",Brasileiro NoGi,79KG,F,2022
+35372,9121,Ygor Rodrigues,,Luis Santos,W,1,"Pts: 2x2, Adv",Rio BJJ Pro,82KG,SF,2022
+35374,9121,Ygor Rodrigues,,Wallisson Oliveira,W,1,Pts: 2x0,Rio BJJ Pro,82KG,F,2022
+43020,9121,Ygor Rodrigues,13364,Arley Pacheco,W,1,"Pts: 2x2, Pen",Brasileiro NoGi,79KG,8F,2023
+43027,9121,Ygor Rodrigues,,Luiz Neto,W,1,Referee Decision,Brasileiro NoGi,79KG,4F,2023
+43028,9121,Ygor Rodrigues,,Dante Muschamp,W,1,Pts: 2x0,Brasileiro NoGi,79KG,SF,2023
+43030,9121,Ygor Rodrigues,4115,Fabio Caloi,W,1,Referee Decision,Brasileiro NoGi,79KG,F,2023

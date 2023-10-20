@@ -1,0 +1,149 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8920,6103,Isaac Doederlein,4163,Marcio Andre,L,0,Pts: 4x2,European Open,70KG,4F,2016
+9240,6103,Isaac Doederlein,,Vitor Paschoal,L,0,"Pts: 2x2, Adv",Pan American,64KG,4F,2016
+9464,6103,Isaac Doederlein,2999,Paulo Miyao,L,0,Pts: 3x0,NY Spring Open,70KG,F,2016
+9695,6103,Isaac Doederlein,179,Rafael Mendes,L,0,"Pts: 0x0, Adv",San Antonio Open,70KG,SF,2016
+9939,6103,Isaac Doederlein,2999,Paulo Miyao,L,0,Pts: 4x0,World Champ.,64KG,SF,2016
+10441,6103,Isaac Doederlein,2999,Paulo Miyao,L,0,Pts: 2x0,Grand Slam LA,69KG,F,2016
+10694,6103,Isaac Doederlein,5414,Osvaldo Moizinho,D,0.5,---,Guatemala Open,ABS,SPF,2016
+10699,6103,Isaac Doederlein,6368,Kevin Mahecha,L,0,Adv,Guatemala Open,76KG,SF,2016
+11542,6103,Isaac Doederlein,6151,Hiago George,L,0,Pts: 6x4,European Open,64KG,4F,2017
+12132,6103,Isaac Doederlein,7872,Gilson Nunes,L,0,Pts: 5x2,Pan American,70KG,8F,2017
+12640,6103,Isaac Doederlein,4248,Gianni Grippo,L,0,"Pts: 2x2, Adv",World Pro,69KG,SF,2017
+13075,6103,Isaac Doederlein,5447,Mikey Musumeci,L,0,"Pts: 8x8, Adv",World Champ.,64KG,4F,2017
+13458,6103,Isaac Doederlein,2997,Joao Miyao,L,0,Points,ACBJJ 6,60KG,F,2017
+14907,6103,Isaac Doederlein,4163,Marcio Andre,L,0,"Pts: 2x2, Adv",European Open,70KG,SF,2018
+15378,6103,Isaac Doederlein,1436,Samir Chantre,L,0,Referee Decision,Pan American,70KG,8F,2018
+15772,6103,Isaac Doederlein,7002,Jamil Hill-Taylor,L,0,Pts: 2x0,Washington SPO,70KG,F,2018
+15788,6103,Isaac Doederlein,4310,Tim Spriggs,L,0,Referee Decision,Washington SPO,ABS,SF,2018
+16477,6103,Isaac Doederlein,4163,Marcio Andre,L,0,"Pts: 0x0, Adv",World Champ.,70KG,4F,2018
+19431,6103,Isaac Doederlein,2999,Paulo Miyao,L,0,Pts: 4x2,Grand Slam LDN,69KG,F,2019
+19485,6103,Isaac Doederlein,2999,Paulo Miyao,L,0,Pts: 2x0,King of Mats,69KG,RR,2019
+19494,6103,Isaac Doederlein,2999,Paulo Miyao,L,0,Referee Decision,King of Mats,69KG,F,2019
+19583,6103,Isaac Doederlein,7002,Jamil Hill-Taylor,L,0,Pts: 2x0,Pan American,70KG,SF,2019
+20088,6103,Isaac Doederlein,2999,Paulo Miyao,L,0,"Pts: 2x2, Adv",World Pro,69KG,F,2019
+20605,6103,Isaac Doederlein,4163,Marcio Andre,L,0,Pts: 4x2,World Champ.,70KG,SF,2019
+22232,6103,Isaac Doederlein,8231,Leo Saggioro,L,0,Pts: 6x5,KOM,69KG,SPF,2019
+22284,6103,Isaac Doederlein,,Pedro Neto,L,0,Referee Decision,Grand Slam RJ,69KG,8F,2019
+24139,6103,Isaac Doederlein,11510,Samuel Nagai,L,0,Pts: 17x4,Pan American,70KG,8F,2020
+24395,6103,Isaac Doederlein,9094,Richar Nogueira,L,0,Pts: 2x0,Houston Open,70KG,F,2020
+24556,6103,Isaac Doederlein,11568,Josh Cisneros,L,0,Pts: 4x2,American Nats,70KG,F,2020
+25588,6103,Isaac Doederlein,4163,Marcio Andre,L,0,Referee Decision,EUG 1,70KG,4F,2021
+27562,6103,Isaac Doederlein,9051,Gabriel Sousa,L,0,"Pts: 4x4, Adv",Pan American,70KG,SF,2021
+29485,6103,Isaac Doederlein,8884,Alex Sodre,L,0,"Pts: 2x2, Pen",World Champ.,70KG,4F,2021
+30564,6103,Isaac Doederlein,11963,Diego Sodre,L,0,"Pts: 0x0, Adv",European Open,70KG,F,2022
+31639,6103,Isaac Doederlein,8884,Alex Sodre,L,0,Pts: 4x2,Pan American,70KG,4F,2022
+32332,6103,Isaac Doederlein,11423,Meyram Maquine,L,0,Pts: 2x1,King of Mats,69KG,F,2022
+32348,6103,Isaac Doederlein,,Marlus Salgado,L,0,Pts: 6x3,Grand Slam AD,69KG,4F,2022
+40245,6103,Isaac Doederlein,11510,Samuel Nagai,L,0,Triangle armlock,World Champ.,70KG,SF,2023
+8917,6103,Isaac Doederlein,,Sergio Gonzalez,W,1,Choke from back,European Open,70KG,R1,2016
+9233,6103,Isaac Doederlein,,Mayko Borges,W,1,Armbar,Pan American,64KG,R1,2016
+9461,6103,Isaac Doederlein,,Kristopher Kriebel,W,1,Bow and arrow,NY Spring Open,70KG,SF,2016
+9462,6103,Isaac Doederlein,7698,Gabriel Marangoni,W,1,Points,NY Spring Open,70KG,SF,2016
+9926,6103,Isaac Doederlein,1019,Daniel Beleza,W,1,"Pts: 0x0, Adv",World Champ.,64KG,R1,2016
+9936,6103,Isaac Doederlein,5447,Mikey Musumeci,W,1,"Pts: 2x2, Adv",World Champ.,64KG,4F,2016
+10439,6103,Isaac Doederlein,6366,Brian Mahecha,W,1,Pts: 6x4,Grand Slam LA,69KG,SF,2016
+10697,6103,Isaac Doederlein,,Unknown,W,1,Kneebar,Guatemala Open,76KG,4F,2016
+11000,6103,Isaac Doederlein,,Bret Russell,W,1,Armbar,SJJIF Worlds,ABS,R1,2016
+11003,6103,Isaac Doederlein,,Mike Colon,W,1,Omoplata,SJJIF Worlds,ABS,4F,2016
+11005,6103,Isaac Doederlein,,Logan Jewell,W,1,Pts: 4x0,SJJIF Worlds,ABS,SF,2016
+11986,6103,Isaac Doederlein,,Ronald Henderson,W,1,Pts: 18x0,LA National Pro,69KG,SF,2017
+11987,6103,Isaac Doederlein,9385,Brandon Walensky,W,1,Choke from back,LA National Pro,69KG,F,2017
+11995,6103,Isaac Doederlein,,Stephen Martinez,W,1,Points,LA National Pro,U77KG,4F,2017
+11997,6103,Isaac Doederlein,9385,Brandon Walensky,W,1,Points,LA National Pro,U77KG,SF,2017
+11998,6103,Isaac Doederlein,4328,AJ Agazarm,W,1,Points,LA National Pro,U77KG,F,2017
+12637,6103,Isaac Doederlein,,Lee Ting,W,1,Pts: 10x2,World Pro,69KG,4F,2017
+12641,6103,Isaac Doederlein,,A. Al Rashid,W,1,Choke,World Pro,69KG,RPC,2017
+12643,6103,Isaac Doederlein,,Talison Soares,W,1,Choke from back,World Pro,69KG,3RD,2017
+12854,6103,Isaac Doederlein,,Wallace Fernandes,W,1,Choke from back,Las Vegas Open,70KG,4F,2017
+12856,6103,Isaac Doederlein,,Bruno Carvalho,W,1,Armbar,Las Vegas Open,70KG,SF,2017
+12857,6103,Isaac Doederlein,260,Ary Farias,W,1,Adv,Las Vegas Open,70KG,F,2017
+13063,6103,Isaac Doederlein,,Rene Lopez,W,1,Referee Decision,World Champ.,64KG,R1,2017
+13071,6103,Isaac Doederlein,5789,Tiago Barros,W,1,Pts: 10x8,World Champ.,64KG,8F,2017
+13453,6103,Isaac Doederlein,7917,Milton Bastos,W,1,Armbar,ACBJJ 6,60KG,4F,2017
+13456,6103,Isaac Doederlein,1436,Samir Chantre,W,1,Points,ACBJJ 6,60KG,SF,2017
+14250,6103,Isaac Doederlein,,Unknown,W,1,Points,SJJIF Worlds,70KG,F,2017
+14898,6103,Isaac Doederlein,6368,Kevin Mahecha,W,1,Choke from back,European Open,70KG,R1,2018
+14906,6103,Isaac Doederlein,7698,Gabriel Marangoni,W,1,Pts: 8x4,European Open,70KG,4F,2018
+15281,6103,Isaac Doederlein,,Rodrigo Ferrari,W,1,Bow and arrow,San Francisco Open,70KG,4F,2018
+15283,6103,Isaac Doederlein,8632,Thiago Macedo,W,1,Armbar,San Francisco Open,70KG,SF,2018
+15284,6103,Isaac Doederlein,1436,Samir Chantre,W,1,Armbar,San Francisco Open,70KG,F,2018
+15315,6103,Isaac Doederlein,4851,Kim Terra,W,1,Referee Decision,ACBJJ 11,65KG,SPF,2018
+15769,6103,Isaac Doederlein,,Tiago Ribeiro,W,1,Choke from back,Washington SPO,70KG,4F,2018
+15770,6103,Isaac Doederlein,,Scott Dance,W,1,Choke from back,Washington SPO,70KG,SF,2018
+15782,6103,Isaac Doederlein,9845,Chad Hardy,W,1,Choke,Washington SPO,ABS,R1,2018
+15786,6103,Isaac Doederlein,,Gregory Scott,W,1,Armbar,Washington SPO,ABS,4F,2018
+16343,6103,Isaac Doederlein,188,Augusto Mendes,W,1,Points,ACBJJ 13,65KG,SPF,2018
+16461,6103,Isaac Doederlein,9465,Endres Barbosa,W,1,Straight ankle lock,World Champ.,70KG,R1,2018
+16473,6103,Isaac Doederlein,,Vitor Moraes,W,1,Referee Decision,World Champ.,70KG,R2,2018
+18886,6103,Isaac Doederlein,8884,Alex Sodre,W,1,Straight ankle lock,European Open,70KG,4F,2019
+18888,6103,Isaac Doederlein,9074,Joao Mendes,W,1,"Pts: 2x2, Adv",European Open,70KG,SF,2019
+19155,6103,Isaac Doederlein,,Chris Raimond,W,1,Submission,OC Open,76KG,4F,2019
+19157,6103,Isaac Doederlein,,Piter Frank,W,1,Submission,OC Open,76KG,SF,2019
+19428,6103,Isaac Doederlein,,Max Campos,W,1,Triangle,Grand Slam LDN,69KG,4F,2019
+19429,6103,Isaac Doederlein,7156,Tiago Bravo,W,1,Straight ankle lock,Grand Slam LDN,69KG,SF,2019
+19482,6103,Isaac Doederlein,,Bebeto Oliveira,W,1,Choke from back,King of Mats,69KG,RR,2019
+19488,6103,Isaac Doederlein,7156,Tiago Bravo,W,1,"Pts: 2x2, Adv",King of Mats,69KG,RR,2019
+19491,6103,Isaac Doederlein,1436,Samir Chantre,W,1,Pts: 4x0,King of Mats,69KG,RR,2019
+19492,6103,Isaac Doederlein,9051,Gabriel Sousa,W,1,Wristlock,King of Mats,69KG,SF,2019
+19577,6103,Isaac Doederlein,8800,Matheus Gonzaga,W,1,Pts: 2x0,Pan American,70KG,8F,2019
+19581,6103,Isaac Doederlein,9074,Joao Mendes,W,1,Armlock,Pan American,70KG,4F,2019
+20082,6103,Isaac Doederlein,,Lucas Galbusera,W,1,Referee Decision,World Pro,69KG,R1,2019
+20084,6103,Isaac Doederlein,,Aleks Jablonski,W,1,Armbar,World Pro,69KG,4F,2019
+20086,6103,Isaac Doederlein,,Yijad Moussa,W,1,Crucifix choke,World Pro,69KG,SF,2019
+20238,6103,Isaac Doederlein,,Leon Amancio,W,1,Choke from back,Brasileiro,70KG,R1,2019
+20245,6103,Isaac Doederlein,,Leandro Lima,W,1,Pts: 4x2,Brasileiro,70KG,R2,2019
+20249,6103,Isaac Doederlein,7698,Gabriel Marangoni,W,1,Arm in Ezekiel,Brasileiro,70KG,R3,2019
+20253,6103,Isaac Doederlein,,Leandro Oliveira,W,1,Choke,Brasileiro,70KG,4F,2019
+20255,6103,Isaac Doederlein,2999,Paulo Miyao,W,1,"Pts: 2x2, Adv",Brasileiro,70KG,SF,2019
+20257,6103,Isaac Doederlein,8351,Joao Neto,W,1,Choke from back,Brasileiro,70KG,F,2019
+20602,6103,Isaac Doederlein,6599,Rafael Mansur,W,1,Straight ankle lock,World Champ.,70KG,4F,2019
+21071,6103,Isaac Doederlein,9934,Deandre Corbe,W,1,Bow and arrow,NY BJJ Pro,70KG,SF,2019
+21072,6103,Isaac Doederlein,9094,Richar Nogueira,W,1,"Pts: 2x2, Adv",NY BJJ Pro,70KG,F,2019
+21212,6103,Isaac Doederlein,8632,Thiago Macedo,W,1,Armbar,King of Mats,69KG,RR,2019
+21214,6103,Isaac Doederlein,10840,Diego Oliveira,W,1,"Pts: 4x4, Adv",King of Mats,69KG,RR,2019
+21222,6103,Isaac Doederlein,6060,Tomoyuki Hashimoto,W,1,Armbar,King of Mats,69KG,RR,2019
+21224,6103,Isaac Doederlein,7657,Cleber Sousa,W,1,Armbar,King of Mats,69KG,SF,2019
+21227,6103,Isaac Doederlein,9051,Gabriel Sousa,W,1,Straight ankle lock,King of Mats,69KG,F,2019
+22278,6103,Isaac Doederlein,9486,Murilo Amaral,W,1,Choke from back,Grand Slam RJ,69KG,R2,2019
+22466,6103,Isaac Doederlein,,Mike Martinez,W,1,Pts: 8x0,SJJIF Worlds,70KG,4F,2019
+22467,6103,Isaac Doederlein,8069,Pablo Mantovani,W,1,Pts: 4x2,SJJIF Worlds,70KG,SF,2019
+22487,6103,Isaac Doederlein,8069,Pablo Mantovani,W,1,Pts: 8x2,SJJIF Worlds,77KG,SF,2019
+23081,6103,Isaac Doederlein,,Diego Ancieto,W,1,Straight ankle lock,European Open,70KG,R2,2020
+23084,6103,Isaac Doederlein,9635,Guilherme Rocha,W,1,Straight ankle lock,European Open,70KG,4F,2020
+23088,6103,Isaac Doederlein,8884,Alex Sodre,W,1,Referee Decision,European Open,70KG,SF,2020
+23090,6103,Isaac Doederlein,8231,Leo Saggioro,W,1,"Pts: 2x2, Adv",European Open,70KG,F,2020
+23962,6103,Isaac Doederlein,9094,Richar Nogueira,W,1,Straight ankle lock,Austin Open,70KG,SF,2020
+23963,6103,Isaac Doederlein,11568,Josh Cisneros,W,1,Pts: 2x0,Austin Open,70KG,F,2020
+24393,6103,Isaac Doederlein,,Cameron Graves,W,1,Armbar,Houston Open,70KG,SF,2020
+24550,6103,Isaac Doederlein,12419,Daniel Diniz,W,1,Referee Decision,American Nats,70KG,4F,2020
+24555,6103,Isaac Doederlein,9635,Guilherme Rocha,W,1,Straight ankle lock,American Nats,70KG,SF,2020
+25100,6103,Isaac Doederlein,,Matheus Galvao,W,1,Choke from back,F2W 163,70KG,SPF,2021
+27548,6103,Isaac Doederlein,,Kevin Harmon,W,1,Choke from back,Pan American,70KG,R1,2021
+27551,6103,Isaac Doederlein,,Orlando Castillo,W,1,Straight ankle lock,Pan American,70KG,8F,2021
+27558,6103,Isaac Doederlein,8884,Alex Sodre,W,1,Pts: 2x0,Pan American,70KG,4F,2021
+29016,6103,Isaac Doederlein,,Matheus Galvao,W,1,Choke from back,JJ CON,70KG,4F,2021
+29020,6103,Isaac Doederlein,10840,Diego Oliveira,W,1,Adv,JJ CON,70KG,F,2021
+29476,6103,Isaac Doederlein,6366,Brian Mahecha,W,1,Choke from back,World Champ.,70KG,8F,2021
+30552,6103,Isaac Doederlein,,Foto Xhori,W,1,Choke from back,European Open,70KG,R1,2022
+30560,6103,Isaac Doederlein,11187,Marcus Phelan,W,1,Choke from back,European Open,70KG,4F,2022
+30562,6103,Isaac Doederlein,,Wilhiam Mateus,W,1,Choke from back,European Open,70KG,SF,2022
+30938,6103,Isaac Doederlein,,Felipe Simplicio,W,1,Choke from back,LA Open,70KG,4F,2022
+30939,6103,Isaac Doederlein,,Thiago Calixto,W,1,Straight ankle lock,LA Open,70KG,SF,2022
+31632,6103,Isaac Doederlein,10408,Israel Sousa,W,1,Pts: 4x2,Pan American,70KG,R2,2022
+32325,6103,Isaac Doederlein,,Omar AlFadhli,W,1,Armbar,King of Mats,69KG,RR,2022
+32326,6103,Isaac Doederlein,6043,Lucas Pinheiro,W,1,Straight ankle lock,King of Mats,69KG,RR,2022
+32330,6103,Isaac Doederlein,8884,Alex Sodre,W,1,Pts: 4x3,King of Mats,69KG,SF,2022
+32355,6103,Isaac Doederlein,,D. Razmadze,W,1,Pts: 2x1,Grand Slam AD,69KG,RPC,2022
+32892,6103,Isaac Doederlein,10408,Israel Sousa,W,1,Straight ankle lock,World Champ.,70KG,8F,2022
+32900,6103,Isaac Doederlein,8884,Alex Sodre,W,1,"Pts: 2x2, Adv",World Champ.,70KG,4F,2022
+32901,6103,Isaac Doederlein,11510,Samuel Nagai,W,1,Straight ankle lock,World Champ.,70KG,SF,2022
+32903,6103,Isaac Doederlein,11963,Diego Sodre,W,1,Pts: 2x0,World Champ.,70KG,F,2022
+39042,6103,Isaac Doederlein,10928,Pedro Serrano,W,1,Hashimoto choke,Santa Cruz O,70KG,SF,2023
+39043,6103,Isaac Doederlein,13341,Zach Kaina,W,1,Choke from back,Santa Cruz O,70KG,F,2023
+39463,6103,Isaac Doederlein,,Alessandro Botelho,W,1,"Pts: 0x0, Adv",Brasileiro,70KG,R1,2023
+39470,6103,Isaac Doederlein,,Julio Arantes,W,1,Straight ankle lock,Brasileiro,70KG,4F,2023
+39474,6103,Isaac Doederlein,,Matheus Onda,W,1,Straight ankle lock,Brasileiro,70KG,SF,2023
+39476,6103,Isaac Doederlein,8884,Alex Sodre,W,1,"Pts: 0x0, Adv",Brasileiro,70KG,F,2023
+40239,6103,Isaac Doederlein,10953,Danilo Moreira,W,1,Choke from back,World Champ.,70KG,8F,2023
+40242,6103,Isaac Doederlein,9051,Gabriel Sousa,W,1,Pts: 2x0,World Champ.,70KG,4F,2023

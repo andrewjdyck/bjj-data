@@ -1,0 +1,12 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+516,10579,Rodrigo Gracie,687,Marcio Feitosa,L,0,Points,ADCC,77KG,SF,2001
+519,10579,Rodrigo Gracie,292,Leonardo Santos,L,0,Pts: 2x0,ADCC,77KG,3PLC,2001
+162,10579,Rodrigo Gracie,,Adrian Serrano,W,1,Choke,ADCC,88KG,R1,1998
+163,10579,Rodrigo Gracie,,Carlos Newton,W,1,Pts: 6x0,ADCC,88KG,4F,1998
+164,10579,Rodrigo Gracie,,Ahmad Faraj,W,1,Armbar,ADCC,88KG,SF,1998
+165,10579,Rodrigo Gracie,,Kareem Barkalev,W,1,Pen,ADCC,88KG,F,1998
+252,10579,Rodrigo Gracie,,Robert Ferguson,W,1,RNC,JBA Challenge,ABS,SPF,1999
+373,10579,Rodrigo Gracie,,Din Thomas,W,1,Referee Decision,NAGA,ABS,SPF,2000
+506,10579,Rodrigo Gracie,,Genki Sudo,W,1,Pts: 9x0,ADCC,77KG,R1,2001
+512,10579,Rodrigo Gracie,,Gavin Kulper,W,1,Submission,ADCC,77KG,4F,2001
+1543,10579,Rodrigo Gracie,,Shannon Rich,W,1,Flying armbar,NAGA,ABS,SPF,2007

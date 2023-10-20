@@ -1,0 +1,63 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25810,12267,Lucas Norat,9157,Devhonte Johnson,L,0,Choke from back,Houston Open,100KG,SF,2021
+25971,12267,Lucas Norat,,Joao Araujo,L,0,Referee Decision,SUBVERSIV 5,ABS,4F,2021
+26167,12267,Lucas Norat,6337,Arnaldo Maidana,L,0,Katagame,NoGi Pan Am.,97KG,R1,2021
+26198,12267,Lucas Norat,12372,Francisco Cuneo,L,0,"Pts: 0x0, Adv",NoGi Pan Am.,ABS,R1,2021
+26690,12267,Lucas Norat,11939,Jackson Douglas,L,0,Referee Decision,American Nats,100KG,F,2021
+26744,12267,Lucas Norat,9559,Rida Haisam,L,0,"Pts: 2x2, Adv",American NGN,97KG,4F,2021
+26875,12267,Lucas Norat,11384,Andre Porfirio,L,0,Botinha,Chicago Open,ABS,SF,2021
+27054,12267,Lucas Norat,10240,Jake Watson,L,0,Pts: 7x4,Phoenix Open,ABS,SF,2021
+27630,12267,Lucas Norat,9157,Devhonte Johnson,L,0,Pts: 7x0,Pan American,100KG,4F,2021
+29575,12267,Lucas Norat,9157,Devhonte Johnson,L,0,Pts: 16x0,World Champ.,100KG,8F,2021
+30961,12267,Lucas Norat,9321,Dominique Bell,L,0,Pts: 2x0,LA Open,94KG,SF,2022
+30987,12267,Lucas Norat,9250,Gabriel Almeida,L,0,Heel hook,LA NGO,ABS,4F,2022
+31278,12267,Lucas Norat,8514,Fellipe Andrew,L,0,Katagatame,Boise Open,100KG,F,2022
+31701,12267,Lucas Norat,7478,Adam Wardzinski,L,0,Armbar,Pan American,94KG,R2,2022
+32635,12267,Lucas Norat,12537,Pedro Machado,L,0,Armbar,Denver Open,94KG,SF,2022
+32650,12267,Lucas Norat,8686,Fellipe Trovo,L,0,Triangle,Denver Open,ABS,4F,2022
+32984,12267,Lucas Norat,7478,Adam Wardzinski,L,0,Pts: 9x0,World Champ.,94KG,8F,2022
+33866,12267,Lucas Norat,,Thiago Saldanha,L,0,Pts: 2x0,Phoenix Open,94KG,F,2022
+33881,12267,Lucas Norat,8514,Fellipe Andrew,L,0,Violin armlock,Phoenix Open,ABS,F,2022
+33897,12267,Lucas Norat,8514,Fellipe Andrew,L,0,Outside heel hook,Phoenix NGO,97KG,F,2022
+35582,12267,Lucas Norat,12922,Elder Cruz,L,0,"Pts: 0x0, Adv",NoGi Pan,ABS,R1,2022
+36884,12267,Lucas Norat,8686,Fellipe Trovo,L,0,Verbal tap,NoGi Worlds,91KG,F,2022
+37976,12267,Lucas Norat,8514,Fellipe Andrew,L,0,Pts: 9x2,LA NGO,97KG,RR,2023
+37977,12267,Lucas Norat,8514,Fellipe Andrew,L,0,Toe hold,LA NGO,97KG,F,2023
+38451,12267,Lucas Norat,8514,Fellipe Andrew,L,0,Triangle from back,Pan American,94KG,SF,2023
+39807,12267,Lucas Norat,7478,Adam Wardzinski,L,0,Arm in Ezekiel,Denver Open,94KG,F,2023
+39815,12267,Lucas Norat,13076,Francisco Lo,L,0,Pts: 2x0,Denver Open,ABS,SF,2023
+40331,12267,Lucas Norat,,Thiago Andrade,L,0,Pts: 4x2,World Champ.,94KG,R1,2023
+41643,12267,Lucas Norat,7399,Horlando Monteiro,L,0,Pts: 2x0,Phoenix Open,94KG,F,2023
+41655,12267,Lucas Norat,12544,Mateus Rodrigues,L,0,Pts: 4x0,Phoenix Open,ABS,SF,2023
+41668,12267,Lucas Norat,10509,Mathias Luna,L,0,RNC,Phoenix NGO,ABS,F,2023
+42915,12267,Lucas Norat,8514,Fellipe Andrew,L,0,Pts: 3x0,ADGS Miami,94KG,4F,2023
+42925,12267,Lucas Norat,13432,Luccas Lira,L,0,Pts: 2x0,ADGS Miami,94KG,3RD,2023
+43276,12267,Lucas Norat,,Alejandro Tolmos,L,0,Inside heel hook,NoGi Pan,91KG,R1,2023
+25748,12267,Lucas Norat,,William Shannon,W,1,Points,Charleston Open,100KG,SF,2021
+25750,12267,Lucas Norat,,James Speight,W,1,Mounted X choke,Charleston Open,100KG,F,2021
+26688,12267,Lucas Norat,,Ashur Darmo,W,1,Referee Decision,American Nats,100KG,SF,2021
+26871,12267,Lucas Norat,12303,Marcus Beddor,W,1,Toe hold,Chicago Open,ABS,4F,2021
+26985,12267,Lucas Norat,,Josh Guerra,W,1,Choke from back,F2W 178,100KG,SPF,2021
+27049,12267,Lucas Norat,,Antonio Zuazo,W,1,Pts: 4x0,Phoenix Open,100KG,F,2021
+27053,12267,Lucas Norat,12120,Estevan Martinez,W,1,Pts: 27x0,Phoenix Open,ABS,4F,2021
+27628,12267,Lucas Norat,,Gabriel Araújo,W,1,"Pts: 0x0, Adv",Pan American,100KG,8F,2021
+28723,12267,Lucas Norat,,Nathan Hagberg,W,1,Points,3CG Underdogs,100KG,SPF,2021
+31277,12267,Lucas Norat,,Augusto Mendonca,W,1,Pts: 16x0,Boise Open,100KG,SF,2022
+31696,12267,Lucas Norat,,Victor Lopes,W,1,Injury,Pan American,94KG,R1,2022
+32977,12267,Lucas Norat,13031,Lucas Lisboa,W,1,Choke from back,World Champ.,94KG,R1,2022
+33864,12267,Lucas Norat,,Thiago Andrade,W,1,Referee Decision,Phoenix Open,94KG,SF,2022
+33875,12267,Lucas Norat,,Daniel Hampton,W,1,Pts: x3,Phoenix Open,ABS,R1,2022
+33879,12267,Lucas Norat,11093,Emilio Hernandez,W,1,Pts: 4x0,Phoenix Open,ABS,4F,2022
+33880,12267,Lucas Norat,12203,Austin Baker,W,1,"Pts: 2x2, Adv",Phoenix Open,ABS,SF,2022
+33896,12267,Lucas Norat,,Jose Munoz,W,1,Pts: 2x0,Phoenix NGO,97KG,SF,2022
+38446,12267,Lucas Norat,10741,Luan Azevedo,W,1,Referee Decision,Pan American,94KG,R1,2023
+38447,12267,Lucas Norat,,Carlos Castro,W,1,Pts: 2x0,Pan American,94KG,4F,2023
+39806,12267,Lucas Norat,,Diego Gamonal,W,1,"Pts: 0x0, Adv",Denver Open,94KG,SF,2023
+39812,12267,Lucas Norat,,Yongseung Cho,W,1,"Pts: 0x0, Adv",Denver Open,ABS,4F,2023
+41642,12267,Lucas Norat,,Jose Munoz,W,1,Cross choke,Phoenix Open,94KG,SF,2023
+41647,12267,Lucas Norat,,Chad Meyers,W,1,Armlock,Phoenix Open,ABS,R1,2023
+41651,12267,Lucas Norat,11766,Gabriel Costa,W,1,Referee Decision,Phoenix Open,ABS,4F,2023
+41664,12267,Lucas Norat,,Jose munoz,W,1,Inside heel hook,Phoenix NGO,ABS,4F,2023
+41667,12267,Lucas Norat,7704,Helton Jose,W,1,Referee Decision,Phoenix NGO,ABS,SF,2023
+42921,12267,Lucas Norat,,Carlos Cabrera,W,1,DQ,ADGS Miami,94KG,RPC,2023
+42923,12267,Lucas Norat,,Luiz Silva,W,1,Pts: 1x0,ADGS Miami,94KG,RPC,2023

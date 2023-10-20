@@ -1,0 +1,36 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+2068,138,Sergio Moraes,122,Michael Langhi,L,0,Triangle,Capital Challenge,77KG,F,2008
+2555,138,Sergio Moraes,901,Kayron Gracie,L,0,"Pts: 2x2, Adv",Pan American,82KG,SF,2010
+2696,138,Sergio Moraes,410,Claudio Calasans,L,0,Points,World Champ.,82KG,SF,2010
+2841,138,Sergio Moraes,410,Claudio Calasans,L,0,"Pts: 4x4, Adv",European,ABS,F,2011
+2847,138,Sergio Moraes,422,Braulio Estima,L,0,Adv,European,88KG,F,2011
+2992,138,Sergio Moraes,247,Rodolfo Vieira,L,0,Pts: 8x0,World Champ.,ABS,4F,2011
+3270,138,Sergio Moraes,919,Pablo Popovitch,L,0,Pts: 2x0,ADCC,88KG,4F,2011
+3315,138,Sergio Moraes,144,Andre Galvao,L,0,Pts: 6x0,ADCC,ABS,4F,2011
+5237,138,Sergio Moraes,2235,Renato Cardoso,L,0,Kneebar,World Pro Trial,88KG,4F,2014
+7327,138,Sergio Moraes,1188,Leandro Lo,L,0,Pts: 6x0,Copa Podio,ABS,SPF,2015
+17668,138,Sergio Moraes,446,Gilbert Burns,L,0,Pts: 2x0,Gracie Pro,82KG,SPF,2018
+1936,138,Sergio Moraes,788,Kron Gracie,W,1,Arm in Ezekiel,World Champ.,82KG,R1,2008
+1938,138,Sergio Moraes,1223,Cassio Werneck,W,1,"Pts: 2x2, Adv",World Champ.,82KG,R2,2008
+1939,138,Sergio Moraes,,Tio Chico,W,1,Points,World Champ.,82KG,4F,2008
+1944,138,Sergio Moraes,1617,Victor Estima,W,1,Arm in Ezekiel,World Champ.,82KG,SF,2008
+1945,138,Sergio Moraes,898,Bill Cooper,W,1,Pts: 6x2,World Champ.,82KG,F,2008
+2065,138,Sergio Moraes,909,Adriano Silva,W,1,N/A,Capital Challenge,77KG,SF,2008
+2341,138,Sergio Moraes,,Augusto Vieira,W,1,"Pts: 4x4, Adv",World Champ.,82KG,4F,2009
+2344,138,Sergio Moraes,289,Alan Finfou,W,1,Choke,World Champ.,82KG,SF,2009
+2551,138,Sergio Moraes,,Diego Ferreira,W,1,Clock choke,Pan American,82KG,4F,2010
+2691,138,Sergio Moraes,788,Kron Gracie,W,1,"Pts: 4x4, Adv",World Champ.,82KG,RD,2010
+2694,138,Sergio Moraes,,Diego Gamonal,W,1,Points,World Champ.,82KG,4F,2010
+2835,138,Sergio Moraes,,Unknown,W,1,Katagatame,European,ABS,R1,2011
+2838,138,Sergio Moraes,,Unknown,W,1,Points,European,ABS,4F,2011
+2839,138,Sergio Moraes,543,Rodrigo Cavaca,W,1,Toe hold,European,ABS,SF,2011
+2963,138,Sergio Moraes,1604,Nivaldo Oliveira,W,1,Pts: 2x0,Brasileiro,88KG,F,2011
+2975,138,Sergio Moraes,,Raul Castillo,W,1,Triangle,World Champ.,ABS,R1,2011
+2985,138,Sergio Moraes,562,Eduardo Telles,W,1,Pts: 5x2,World Champ.,ABS,R2,2011
+3060,138,Sergio Moraes,,Unknown,W,1,Pts: 5x0,World Champ.,88KG,RDS,2011
+3069,138,Sergio Moraes,,Unknown,W,1,Pts: 3x0,World Champ.,88KG,RDS,2011
+3120,138,Sergio Moraes,,Eduardo Zanneti,W,1,Pts: 2x0,World Champ.,88KG,4F,2011
+3152,138,Sergio Moraes,320,Romulo Barral,W,1,Pts: 4x2,World Champ.,88KG,F,2011
+3241,138,Sergio Moraes,1768,James Harbison,W,1,Points,ADCC,88KG,R1,2011
+3310,138,Sergio Moraes,387,Braga Neto,W,1,Footlock,ADCC,ABS,R1,2011
+23873,138,Sergio Moraes,,Luis Marques,W,1,North south choke,BJJ Stars,N/A,SPF,2020

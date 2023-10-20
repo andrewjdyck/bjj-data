@@ -1,0 +1,14 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+37874,13138,Steffen Banta,13379,Felipe Costa,L,0,"Pts: 0x0, Pen",Dallas Open,100KG,F,2023
+37878,13138,Steffen Banta,6432,Yan Lucas,L,0,Referee Decision,Dallas Open,ABS,4F,2023
+42374,13138,Steffen Banta,8514,Fellipe Andrew,L,0,Pts: 2x0,IBJJF GP,ABS,4F,2023
+37364,13138,Steffen Banta,,Robert Dunn,W,1,Armbar,Oklahoma Open,100KG,SF,2023
+37377,13138,Steffen Banta,,Justin Fabac,W,1,Armbar,Oklahoma NGO,ABS,SF,2023
+37873,13138,Steffen Banta,11939,Jackson Douglas,W,1,Pts: 10x2,Dallas Open,100KG,SF,2023
+37904,13138,Steffen Banta,,Hunter Colvin,W,1,Pts: 4x0,Dallas NGO,97KG,F,2023
+39030,13138,Steffen Banta,,Diego Ferreira,W,1,Violin armlock,Nashville SPNG,O97KG,RR,2023
+39031,13138,Steffen Banta,,Pedro Moura,W,1,Leaf clover,Nashville SPNG,O97KG,F,2023
+39032,13138,Steffen Banta,,Nathan Haddad,W,1,Pts: 17x0,Nashville SPNG,ABS,4F,2023
+39033,13138,Steffen Banta,11512,Lukete Silva,W,1,Pts: 2x0,Nashville SPNG,ABS,SF,2023
+39035,13138,Steffen Banta,,Austin Oranday,W,1,Pts: 9x0,Nashville SPNG,ABS,F,2023
+43157,13138,Steffen Banta,,Thomas Bracher,W,1,Shoulder lock,WNO 20,ABS,SPF,2023

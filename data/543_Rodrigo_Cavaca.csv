@@ -1,0 +1,93 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1468,543,Rodrigo Cavaca,505,Roger Gracie,L,0,Cross choke,World Champ.,ABS,4F,2006
+1585,543,Rodrigo Cavaca,,Luiz Theodoro,L,0,Adv,Brasileiro,ABS,F,2007
+1773,543,Rodrigo Cavaca,505,Roger Gracie,L,0,Armbar,World Champ.,ABS,R1,2007
+1969,543,Rodrigo Cavaca,505,Roger Gracie,L,0,Submission,World Champ.,O100KG,R1,2008
+2030,543,Rodrigo Cavaca,607,Gabriel Vella,L,0,Pts: 2x0,NoGi Worlds,O100KG,F,2008
+2186,543,Rodrigo Cavaca,3099,Marcio Corleta,L,0,Armbar,Pan American,O100KG,F,2009
+2273,543,Rodrigo Cavaca,733,Vinny Magalhaes,L,0,Heel hook,ADCC,99KG,R1,2009
+2373,543,Rodrigo Cavaca,607,Gabriel Vella,L,0,"Pts: 0x0, Adv",World Champ.,O100KG,F,2009
+2390,543,Rodrigo Cavaca,898,Bill Cooper,L,0,Triangle,GQ Del Mar,ABS,NA,2009
+2504,543,Rodrigo Cavaca,108,Gustavo Campos,L,0,Triangle,European,ABS,F,2010
+2572,543,Rodrigo Cavaca,6503,Marcel Fortuna,L,0,"Pts: 0x0, Adv",Pan American,100KG,SF,2010
+2588,543,Rodrigo Cavaca,425,Bernardo Faria,L,0,Points,Pan American,ABS,SF,2010
+2748,543,Rodrigo Cavaca,505,Roger Gracie,L,0,Choke from back,World Champ.,ABS,SF,2010
+2839,543,Rodrigo Cavaca,138,Sergio Moraes,L,0,Toe hold,European,ABS,SF,2011
+2925,543,Rodrigo Cavaca,,Caio Alencar,L,0,Points,World Pro.,O92KG,4F,2011
+3155,543,Rodrigo Cavaca,387,Braga Neto,L,0,Pts: 7x0,World Champ.,O100KG,F,2011
+4464,543,Rodrigo Cavaca,1757,Alexander Trans,L,0,Pts: 3x0,European Open,O100KG,F,2013
+4650,543,Rodrigo Cavaca,1534,R. Evangelista,L,0,Pts: 4x0,Brasileiro,O100KG,F,2013
+5627,543,Rodrigo Cavaca,422,Braulio Estima,L,0,Choke from back,World Pro.,ABS,R2,2014
+5682,543,Rodrigo Cavaca,1757,Alexander Trans,L,0,"Pts: 0x0, Adv",World Pro.,O100KG,SF,2014
+6244,543,Rodrigo Cavaca,,Dimitrus Souza,L,0,Pts: 4x2,South American,ABS,SF,2014
+7004,543,Rodrigo Cavaca,926,Roberto Alencar,L,0,Pts: 3x0,ADCC RJ,99KG,4F,2015
+7154,543,Rodrigo Cavaca,1757,Alexander Trans,L,0,Pts: 2x0,World Pro,O95KG,4F,2015
+7252,543,Rodrigo Cavaca,4521,Erberth Santos,L,0,Choke from back,Brasileiro,100KG,F,2015
+7516,543,Rodrigo Cavaca,1757,Alexander Trans,L,0,Pts: 4x2,World Champ.,O100KG,4F,2015
+7904,543,Rodrigo Cavaca,5861,Jared Dopp,L,0,Pts: 2x0,ADCC,O99KG,4F,2015
+9808,543,Rodrigo Cavaca,,Bruno Novaes,L,0,N/A,Brasileiro,O100KG,4F,2016
+9838,543,Rodrigo Cavaca,4521,Erberth Santos,L,0,Pts: 11x8,Brasileiro,ABS,F,2016
+10059,543,Rodrigo Cavaca,680,Igor Silva,L,0,Pts: 4x0,World Champ.,100KG,4F,2016
+10105,543,Rodrigo Cavaca,425,Bernardo Faria,L,0,Points,World Champ.,ABS,4F,2016
+10773,543,Rodrigo Cavaca,1757,Alexander Trans,L,0,Pts: 2x0,Copa Podio,105KG,RR,2016
+10781,543,Rodrigo Cavaca,8560,Gabriel Lucas,L,0,Pts: 3x2,Copa Podio,105KG,RR,2016
+12249,543,Rodrigo Cavaca,4521,Erberth Santos,L,0,Pts: 3x0,Pan American,100KG,F,2017
+12818,543,Rodrigo Cavaca,4521,Erberth Santos,L,0,Pts: 13x4,Brasileiro,100KG,SF,2017
+12897,543,Rodrigo Cavaca,8494,Abdurakhman Bilarov,L,0,Referee Decision,ACBJJ 5,95KG,4F,2017
+13216,543,Rodrigo Cavaca,,Otavio Nalati,L,0,"Pts: 0x0, Adv",World Champ.,O100KG,4F,2017
+14965,543,Rodrigo Cavaca,680,Igor Silva,L,0,Choke from back,ACB 10,95KG,SPF,2018
+20698,543,Rodrigo Cavaca,6631,Igor Schneider,L,0,Pts: 10x4,World Champ.,100KG,R1,2019
+2029,543,Rodrigo Cavaca,1491,Ulpiano Malachias,W,1,Points,NoGi Worlds,O100KG,SF,2008
+2108,543,Rodrigo Cavaca,,Lucio Lagarto,W,1,Points,European,100KG,F,2009
+2184,543,Rodrigo Cavaca,,Andre Freitas,W,1,N/A,Pan American,O100KG,SF,2009
+2187,543,Rodrigo Cavaca,,Jay Pages,W,1,Triangle,Pan American,ABS,R1,2009
+2191,543,Rodrigo Cavaca,384,Roberto Tozi,W,1,Omoplata,Pan American,ABS,8F,2009
+2366,543,Rodrigo Cavaca,,Rick Miga,W,1,Triangle,World Champ.,O100KG,R1,2009
+2367,543,Rodrigo Cavaca,637,Bruno Bastos,W,1,Choke from back,World Champ.,O100KG,R1,2009
+2368,543,Rodrigo Cavaca,,Charles Cachoeira,W,1,Referee Decision,World Champ.,O100KG,4F,2009
+2371,543,Rodrigo Cavaca,3099,Marcio Corleta,W,1,"Pts: 0x0, Adv",World Champ.,O100KG,SF,2009
+2374,543,Rodrigo Cavaca,477,Tarsis Humphreys,W,1,Points,World Champ.,ABS,R1,2009
+2375,543,Rodrigo Cavaca,,Unknown,W,1,Triangle,World Champ.,ABS,R1,2009
+2389,543,Rodrigo Cavaca,,Unknown,W,1,Heel hook,GQ Del Mar,ABS,NA,2009
+2498,543,Rodrigo Cavaca,,Rogent Lloret,W,1,Wristlock,European,O100KG,NA,2010
+2499,543,Rodrigo Cavaca,911,Antonio Peinado,W,1,Points,European,O100KG,F,2010
+2501,543,Rodrigo Cavaca,631,Rodrigo Caporal,W,1,Triangle,European,ABS,4F,2010
+2502,543,Rodrigo Cavaca,425,Bernardo Faria,W,1,Points,European,ABS,SF,2010
+2586,543,Rodrigo Cavaca,6503,Marcel Fortuna,W,1,Triangle,Pan American,ABS,4F,2010
+2657,543,Rodrigo Cavaca,680,Igor Silva,W,1,Footlock,Brasileiro,O100KG,F,2010
+2728,543,Rodrigo Cavaca,,Petrus Melo,W,1,Triangle,World Champ.,O100KG,R2,2010
+2730,543,Rodrigo Cavaca,9,Marcio Cruz,W,1,Triangle,World Champ.,O100KG,4F,2010
+2731,543,Rodrigo Cavaca,911,Antonio Peinado,W,1,Botinha,World Champ.,O100KG,SF,2010
+2733,543,Rodrigo Cavaca,224,Roberto Abreu,W,1,Botinha,World Champ.,O100KG,F,2010
+2809,543,Rodrigo Cavaca,,Unknown,W,1,Submission,World Pro Trial,O92KG,SF,2011
+2810,543,Rodrigo Cavaca,8241,Radek Turek,W,1,Points,World Pro Trial,O92KG,F,2011
+3147,543,Rodrigo Cavaca,9,Marcio Cruz,W,1,Submission,World Champ.,O100KG,SF,2011
+4194,543,Rodrigo Cavaca,,Derek Leyrer,W,1,Points,Grapplers Quest,ABS,NA,2012
+4462,543,Rodrigo Cavaca,1548,Jose Junior,W,1,N/A,European Open,O100KG,SF,2013
+4468,543,Rodrigo Cavaca,,Rodrigo Candido,W,1,Heel hook,ADCC Trials,O99KG,SF,2013
+4469,543,Rodrigo Cavaca,,Kitner Moura,W,1,Gogoplata,ADCC Trials,O99KG,F,2013
+4675,543,Rodrigo Cavaca,984,Marcus Almeida,W,1,Pts: 7x2,World Pro,O100KG,F,2013
+4825,543,Rodrigo Cavaca,4177,Gustavo Dias,W,1,Botinha,World Champ.,O100KG,4F,2013
+4828,543,Rodrigo Cavaca,3083,Abraham Marte,W,1,DQ,World Champ.,O100KG,SF,2013
+5268,543,Rodrigo Cavaca,1534,R. Evangelista,W,1,Pts: 4x2,European,O100KG,F,2014
+5611,543,Rodrigo Cavaca,,Piotr Wojtkowski,W,1,Pts: 7x0,World Pro.,ABS,R1,2014
+6237,543,Rodrigo Cavaca,,Jackson Ratigueri,W,1,Submission,South American,ABS,RDS,2014
+6242,543,Rodrigo Cavaca,,Tony Ferraz,W,1,Pts: 38x0,South American,ABS,4F,2014
+6261,543,Rodrigo Cavaca,,Frederico Zaganelli,W,1,Choke from back,South American,100KG,F,2014
+7002,543,Rodrigo Cavaca,,Cristiano Lazzarinni,W,1,Pts: 2x0,ADCC RJ,99KG,R1,2015
+7149,543,Rodrigo Cavaca,,Pablo Agarao,W,1,Pts: 2x0,World Pro,O95KG,R1,2015
+7898,543,Rodrigo Cavaca,,Hideki Sekine,W,1,Referee Decision,ADCC,O99KG,R1,2015
+9807,543,Rodrigo Cavaca,,Fernando Gomes,W,1,Submission,Brasileiro,O100KG,4F,2016
+9818,543,Rodrigo Cavaca,,Eric Medeiros,W,1,Bow and arrow,Brasileiro,ABS,RD,2016
+9828,543,Rodrigo Cavaca,6375,Ruan Oliveira,W,1,Botinha,Brasileiro,ABS,8F,2016
+9834,543,Rodrigo Cavaca,5417,Guilherme Augusto,W,1,Adv,Brasileiro,ABS,4F,2016
+10055,543,Rodrigo Cavaca,,Felipe Bueno,W,1,Pts: 4x0,World Champ.,100KG,R1,2016
+10078,543,Rodrigo Cavaca,,Felipe Bueno,W,1,N/A,World Champ.,ABS,R1,2016
+10089,543,Rodrigo Cavaca,6592,Dany Gerard,W,1,"Pts: 0x0, Adv",World Champ.,ABS,R2,2016
+10096,543,Rodrigo Cavaca,1534,R. Evangelista,W,1,Botinha,World Champ.,ABS,8F,2016
+10764,543,Rodrigo Cavaca,6253,Diego Borges,D,0.5,---,Copa Podio,105KG,RR,2016
+10776,543,Rodrigo Cavaca,7543,Nelton Pontes,W,1,"Pts: 0x0, Adv",Copa Podio,105KG,RR,2016
+12246,543,Rodrigo Cavaca,6592,Dany Gerard,W,1,"Pts: 4x4, Adv",Pan American,100KG,4F,2017
+12248,543,Rodrigo Cavaca,7502,Paul Ardila,W,1,Pts: 10x0,Pan American,100KG,SF,2017
+12812,543,Rodrigo Cavaca,,Tiago Carvalho,W,1,DQ,Brasileiro,100KG,R1,2017
+12814,543,Rodrigo Cavaca,,Igor Marques,W,1,Points,Brasileiro,100KG,4F,2017

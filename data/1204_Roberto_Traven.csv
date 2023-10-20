@@ -1,0 +1,15 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+336,1204,Roberto Traven,,Jeff Monson,L,0,Pts: 3x0,ADCC,99KG,4F,1999
+560,1204,Roberto Traven,9,Marcio Cruz,L,0,Points,ADCC,ABS,R1,2001
+859,1204,Roberto Traven,1214,Jefferson Moura,L,0,Triangle,World Champ.,94KG,4F,2003
+237,1204,Roberto Traven,601,Roberto Godoi,W,1,N/A,World Champ.,O100KG,4F,1998
+238,1204,Roberto Traven,,Otavio Duarte,W,1,Pen,World Champ.,O100KG,SF,1998
+240,1204,Roberto Traven,,John Machado,W,1,Pts: 10x0,World Champ.,O100KG,F,1998
+297,1204,Roberto Traven,1865,Minotauro Nogueira,W,1,Points,World Champ.,O100KG,4F,1999
+298,1204,Roberto Traven,,Andre Marques,W,1,N/A,World Champ.,O100KG,NA,1999
+331,1204,Roberto Traven,,Jurie Rachel,W,1,Submission,ADCC,99KG,R1,1999
+360,1204,Roberto Traven,,F. Capoane,W,1,Pts: 2x0,ADCC,ABS,R1,1999
+365,1204,Roberto Traven,,Luis Roberto,W,1,Pts: 6x0,ADCC,ABS,4F,1999
+369,1204,Roberto Traven,1696,Garth Taylor,W,1,Pts: 5x0,ADCC,ABS,SF,1999
+370,1204,Roberto Traven,,Hayato Sakurai,W,1,Pts: 2x0,ADCC,ABS,F,1999
+855,1204,Roberto Traven,,Charles Faria,W,1,Points,World Champ.,94KG,R1,2003

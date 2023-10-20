@@ -1,0 +1,98 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+20779,10408,Israel Sousa,10840,Diego Oliveira,L,0,Referee Decision,Grand Slam MSK,69KG,SF,2019
+21425,10408,Israel Sousa,9094,Richar Nogueira,L,0,Pts: 8x6,Las Vegas Open,70KG,F,2019
+21666,10408,Israel Sousa,10840,Diego Oliveira,L,0,Pts: 4x2,Grand Slam LA,69KG,F,2019
+22971,10408,Israel Sousa,9051,Gabriel Sousa,L,0,Points,Grand Slam AD,69KG,F,2020
+23085,10408,Israel Sousa,8884,Alex Sodre,L,0,Referee Decision,European Open,70KG,4F,2020
+24693,10408,Israel Sousa,10232,Gabriel Figueiro,L,0,Pts: 2x1,Grand Slam RJ,69KG,F,2020
+25513,10408,Israel Sousa,8231,Leo Saggioro,L,0,Pts: 3x2,Grand Slam AD,69KG,F,2021
+27229,10408,Israel Sousa,6366,Brian Mahecha,L,0,Pts: 5x4,Grand Slam MIA,69KG,4F,2021
+29197,10408,Israel Sousa,11015,Pablo Lavaselli,L,0,Pts: 2x0,World Pro,69KG,F,2021
+31111,10408,Israel Sousa,12348,Lucas Protasio,L,0,Pts: 4x4,Grand Slam LDN,77KG,4F,2022
+31632,10408,Israel Sousa,6103,Isaac Doederlein,L,0,Pts: 4x2,Pan American,70KG,R2,2022
+32892,10408,Israel Sousa,6103,Isaac Doederlein,L,0,Straight ankle lock,World Champ.,70KG,8F,2022
+33399,10408,Israel Sousa,4655,Michael Liera,L,0,Pts: 6x4,American Nat.,76KG,4F,2022
+33758,10408,Israel Sousa,12897,Elijah Dorsey,L,0,Referee Decision,Orlando SMO,76KG,F,2022
+33785,10408,Israel Sousa,10295,Italo Moura,L,0,Points,Orlando SMO,ABS,8F,2022
+35782,10408,Israel Sousa,9002,Matheus Gabriel,L,0,Pts: 4x2,BJJ Stars,76KG,SF,2022
+37177,10408,Israel Sousa,11497,Fabricio Andrey,L,0,Pts: 2x0,European Open,70KG,4F,2023
+38377,10408,Israel Sousa,4163,Marcio Andre,L,0,"Pts: 2x2, Adv",Pan American,70KG,4F,2023
+40221,10408,Israel Sousa,12918,Daniel Sathler,L,0,Referee Decision,World Champ.,70KG,R1,2023
+20776,10408,Israel Sousa,,A. Mogomadov,W,1,Pts: 6x0,Grand Slam MSK,69KG,4F,2019
+20781,10408,Israel Sousa,,Victor Matos,W,1,Pts: 2x0,Grand Slam MSK,69KG,RPC,2019
+20782,10408,Israel Sousa,,A. Mogomadov,W,1,Pts: 6x0,Grand Slam MSK,69KG,3RD,2019
+21416,10408,Israel Sousa,,N/A,W,1,Choke,Las Vegas Open,70KG,R1,2019
+21419,10408,Israel Sousa,7568,Bruno Barbosa,W,1,Choke from back,Las Vegas Open,70KG,4F,2019
+21424,10408,Israel Sousa,9074,Joao Mendes,W,1,Referee Decision,Las Vegas Open,70KG,SF,2019
+21659,10408,Israel Sousa,,Jonathan Buren,W,1,Pts: 15x0,Grand Slam LA,69KG,R1,2019
+21661,10408,Israel Sousa,,Lee Ting,W,1,Pts: 6x2,Grand Slam LA,69KG,4F,2019
+21664,10408,Israel Sousa,8632,Thiago Macedo,W,1,"Pts: 0x0, Adv",Grand Slam LA,69KG,SF,2019
+22208,10408,Israel Sousa,,Giovanni Carvalho,W,1,Armbar,Houston FO,70KG,SF,2019
+22209,10408,Israel Sousa,8632,Thiago Macedo,W,1,Pts: 2x0,Houston FO,70KG,F,2019
+22386,10408,Israel Sousa,,Cameron Graves,W,1,Armbar,Long Beach Open,70KG,SF,2019
+22387,10408,Israel Sousa,9385,Brandon Walensky,W,1,Armbar,Long Beach Open,70KG,F,2019
+22965,10408,Israel Sousa,10004,Ali Monfaradi,W,1,Pts: 7x6,Grand Slam AD,69KG,R1,2020
+22967,10408,Israel Sousa,13175,Ariel Tabak,W,1,Points,Grand Slam AD,69KG,4F,2020
+22970,10408,Israel Sousa,8632,Thiago Macedo,W,1,Pts: 5x2,Grand Slam AD,69KG,SF,2020
+23074,10408,Israel Sousa,,Lee Renaut,W,1,Pts: 8x2,European Open,70KG,R1,2020
+24676,10408,Israel Sousa,9486,Murilo Amaral,W,1,Pts: 4x2,Grand Slam RJ,69KG,R1,2020
+24685,10408,Israel Sousa,11872,Luiz Paulo,W,1,Pts: 3x0,Grand Slam RJ,69KG,8F,2020
+24690,10408,Israel Sousa,,Davi Oliveira,W,1,Wristlock,Grand Slam RJ,69KG,4F,2020
+24692,10408,Israel Sousa,8231,Leo Saggioro,W,1,Pts: 4x3,Grand Slam RJ,69KG,SF,2020
+25054,10408,Israel Sousa,,Joao Guilherme,W,1,Choke from back,Guarapari Pro,69KG,4F,2021
+25056,10408,Israel Sousa,,Guilherme Ribeiro,W,1,Armbar,Guarapari Pro,69KG,SF,2021
+25109,10408,Israel Sousa,,Cristian Polnov,W,1,Pts: 9x0,Brazil Nat. Pro,69KG,SF,2021
+25110,10408,Israel Sousa,8884,Alex Sodre,W,1,Pts: 5x2,Brazil Nat. Pro,69KG,F,2021
+25510,10408,Israel Sousa,,Diogo Freitas,W,1,Choke from back,Grand Slam AD,69KG,4F,2021
+25512,10408,Israel Sousa,9051,Gabriel Sousa,W,1,Pts: 12x1,Grand Slam AD,69KG,SF,2021
+25607,10408,Israel Sousa,,Diogo Freitas,W,1,Pts: 7x3,WP BR Qualifier,69KG,RR,2021
+25611,10408,Israel Sousa,4163,Marcio Andre,W,1,Pts: 3x1,WP BR Qualifier,69KG,F,2021
+25651,10408,Israel Sousa,,Yaroslav Blazhko,W,1,Pts: 6x2,World Pro,69KG,R1,2021
+25654,10408,Israel Sousa,,Juan Calderon,W,1,Pts: 13x1,World Pro,69KG,4F,2021
+25657,10408,Israel Sousa,9051,Gabriel Sousa,W,1,Americana,World Pro,69KG,SF,2021
+25659,10408,Israel Sousa,10004,Ali Monfaradi,W,1,Pts: 6x1,World Pro,69KG,F,2021
+26774,10408,Israel Sousa,,Lucas Gripp,W,1,Pts: 17x0,Rio Winter Open,70KG,4F,2021
+26778,10408,Israel Sousa,,Ricardo Primo,W,1,Armbar,Rio Winter Open,70KG,SF,2021
+27235,10408,Israel Sousa,,Christian Mueckay,W,1,Choke from back,Grand Slam MIA,69KG,RPC,2021
+27237,10408,Israel Sousa,6043,Lucas Pinheiro,W,1,Armbar,Grand Slam MIA,69KG,RPC,2021
+27238,10408,Israel Sousa,6366,Brian Mahecha,W,1,Armbar,Grand Slam MIA,69KG,3RD,2021
+29128,10408,Israel Sousa,8632,Thiago Macedo,W,1,Pts: 2x0,BRA Qualifiers,69KG,4F,2021
+29131,10408,Israel Sousa,,Diego Medeiros,W,1,Choke from back,BRA Qualifiers,69KG,SF,2021
+29132,10408,Israel Sousa,8231,Leo Saggioro,W,1,Pts: 5x2,BRA Qualifiers,69KG,F,2021
+29188,10408,Israel Sousa,,Alejandro Carreras,W,1,Choke from back,World Pro,69KG,R1,2021
+29193,10408,Israel Sousa,,Isa Karasanov,W,1,Triangle,World Pro,69KG,4F,2021
+29196,10408,Israel Sousa,11497,Fabricio Andrey,W,1,Pts: 2x0,World Pro,69KG,SF,2021
+29945,10408,Israel Sousa,,Robson Silva,W,1,Choke,Guarapari Pro,77KG,4F,2022
+29947,10408,Israel Sousa,,Alan Barcelos,W,1,Choke from back,Guarapari Pro,77KG,SF,2022
+29948,10408,Israel Sousa,,Marlus Salgado,W,1,Choke from back,Guarapari Pro,77KG,F,2022
+30715,10408,Israel Sousa,,Wallisson Souza,W,1,Pts: 4x2,Gramado Pro,77KG,SF,2022
+30716,10408,Israel Sousa,,Marlus Salgado,W,1,Pts: 4x0,Gramado Pro,77KG,F,2022
+31107,10408,Israel Sousa,,Andre Almeida,W,1,Choke from back,Grand Slam LDN,77KG,R1,2022
+31623,10408,Israel Sousa,,Gustavo Gonzalez,W,1,Triangle,Pan American,70KG,R1,2022
+31797,10408,Israel Sousa,,Luiz Rodrigues,W,1,Submission,Porto Pro,77KG,SF,2022
+31798,10408,Israel Sousa,,Omar De Sousa,W,1,Pts: 2x0,Porto Pro,77KG,F,2022
+32885,10408,Israel Sousa,12102,Nick Salles,W,1,Pts: 10x8,World Champ.,70KG,R1,2022
+33395,10408,Israel Sousa,,Nian Booth,W,1,Armbar,American Nat.,76KG,R1,2022
+33756,10408,Israel Sousa,,Chris Mueckay,W,1,N/A,Orlando SMO,76KG,SF,2022
+34381,10408,Israel Sousa,,Pedro Fernandes,W,1,Points,N. Haven Open,76KG,SF,2022
+34383,10408,Israel Sousa,11919,Daniel Maira,W,1,Armlock,N. Haven Open,76KG,F,2022
+34601,10408,Israel Sousa,8632,Thiago Macedo,W,1,Choke from back,Grand Slam MIA,69KG,4F,2022
+34602,10408,Israel Sousa,11015,Pablo Lavaselli,W,1,Pts: 2x0,Grand Slam MIA,69KG,SF,2022
+34604,10408,Israel Sousa,11423,Meyram Maquine,W,1,Referee Decision,Grand Slam MIA,69KG,F,2022
+35779,10408,Israel Sousa,,Darlan Casaca,W,1,Pts: 7x0,BJJ Stars,76KG,4F,2022
+36159,10408,Israel Sousa,,Italo Aprigio,W,1,Armbar,Fortaleza Open,82KG,SF,2022
+36161,10408,Israel Sousa,,Nixon Belo,W,1,Choke from back,Fortaleza Open,82KG,F,2022
+36165,10408,Israel Sousa,,Joao Aleksander,W,1,Choke from back,Fortaleza Open,ABS,4F,2022
+36166,10408,Israel Sousa,,Jonas Campos,W,1,RNC,Fortaleza Open,ABS,SF,2022
+36167,10408,Israel Sousa,,Herico Hesley,W,1,Triangle,Fortaleza Open,ABS,F,2022
+37108,10408,Israel Sousa,,Lucas Silva,W,1,Submission,North East BRA,77KG,4F,2023
+37110,10408,Israel Sousa,,Valerio Cunha,W,1,Pts: 17x1,North East BRA,77KG,SF,2023
+37112,10408,Israel Sousa,12241,Higor Lima,W,1,Pts: 15x0,North East BRA,77KG,F,2023
+37173,10408,Israel Sousa,,Michael Mehl,W,1,Choke from back,European Open,70KG,R1,2023
+38375,10408,Israel Sousa,11510,Samuel Nagai,W,1,Choke from back,Pan American,70KG,8F,2023
+40973,10408,Israel Sousa,,Alexis Stangen,W,1,Choke from back,Fortaleza Open,76KG,4F,2023
+40978,10408,Israel Sousa,,Valerio Eduardo,W,1,Americana,Fortaleza Open,76KG,SF,2023
+40979,10408,Israel Sousa,,Margus Salgado,W,1,Choke from back,Fortaleza Open,76KG,F,2023
+42872,10408,Israel Sousa,,Gabriel Cardoso,W,1,Bow and arrow,ADGS Miami,69KG,8F,2023
+42877,10408,Israel Sousa,,Artur Oliveira,W,1,Triangle,ADGS Miami,69KG,4F,2023
+42880,10408,Israel Sousa,13245,Ademir Barreto,W,1,Choke from back,ADGS Miami,69KG,SF,2023

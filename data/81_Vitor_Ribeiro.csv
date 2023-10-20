@@ -1,0 +1,30 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+113,81,Vitor Ribeiro,515,Royler Gracie,L,0,Adv,World Champ.,70KG,F,1997
+136,81,Vitor Ribeiro,419,Leonardo Vieira,L,0,Pts: 24x4,Copa Pele,76KG,SPF,1997
+420,81,Vitor Ribeiro,419,Leonardo Vieira,L,0,Adv,ADCC,77KG,4F,2000
+462,81,Vitor Ribeiro,278,Ricardo Almeida,L,0,Kneebar,ADCC,ABS,4F,2000
+476,81,Vitor Ribeiro,419,Leonardo Vieira,L,0,Pts: 6x4,Rio x Sao Paulo,75KG,SPF,2000
+782,81,Vitor Ribeiro,16,Marcelo Garcia,L,0,RNC,ADCC,77KG,SF,2003
+10878,81,Vitor Ribeiro,437,Fernando Terere,L,0,Referee Decision,Polaris 4,82KG,SPF,2016
+17735,81,Vitor Ribeiro,9344,PJ Barch,L,0,Armbar,Quintet 3,ABS,SF,2018
+17747,81,Vitor Ribeiro,6550,Gordon Ryan,L,0,Armbar,Quintet 3,ABS,F,2018
+111,81,Vitor Ribeiro,,Marco Aurelio,W,1,Points,World Champ.,70KG,SF,1997
+132,81,Vitor Ribeiro,727,Alexandre Soca,W,1,Pts: 5x0,Team Nationals,88KG,SF,1997
+133,81,Vitor Ribeiro,579,Octavio Couto,W,1,Pts: 18x0,Team Nationals,88KG,F,1997
+283,81,Vitor Ribeiro,687,Marcio Feitosa,W,1,"Pts: 2x2, Adv",World Champ.,76KG,F,1999
+388,81,Vitor Ribeiro,419,Leonardo Vieira,W,1,Pts: 2x0,World Champ.,76KG,SF,2000
+390,81,Vitor Ribeiro,687,Marcio Feitosa,W,1,Pen,World Champ.,76KG,F,2000
+418,81,Vitor Ribeiro,,Rumina Sato,W,1,Pts: 4x0,ADCC,77KG,R1,2000
+575,81,Vitor Ribeiro,,Flavio Fernandes,W,1,Armbar,Copa Leopoldina,ABS,R1,2001
+576,81,Vitor Ribeiro,,Rodrigo Fernandes,W,1,Ezekiel,Copa Leopoldina,ABS,SF,2001
+593,81,Vitor Ribeiro,4943,Bruno Fernandes,W,1,Choke,World Champ.,82KG,SF,2001
+594,81,Vitor Ribeiro,437,Fernando Terere,W,1,Pts: 2x0,World Champ.,82KG,F,2001
+628,81,Vitor Ribeiro,453,Daniel Moraes,W,1,Points,Arnold Classic,73KG,F,2002
+775,81,Vitor Ribeiro,,Jason Ramsterrer,W,1,RNC,ADCC,77KG,R1,2003
+779,81,Vitor Ribeiro,919,Pablo Popovitch,W,1,Points,ADCC,77KG,4F,2003
+784,81,Vitor Ribeiro,,Chris Brown,W,1,Pts: 3x0,ADCC,77KG,3PLC,2003
+833,81,Vitor Ribeiro,,Michael O'Donnell,W,1,Choke,Arnold Classic,73KG,4F,2003
+835,81,Vitor Ribeiro,453,Daniel Moraes,W,1,Pts: 2x0,Arnold Classic,73KG,SF,2003
+6073,81,Vitor Ribeiro,12,Nino Schembri,W,1,Pts: 8x0,World Expo,ABS,SPF,2014
+8033,81,Vitor Ribeiro,,Nakamura Daisuke,W,1,Choke from back,Polaris 2,76KG,SPF,2015
+13660,81,Vitor Ribeiro,,Caol Uno,W,1,Short choke,Polaris 5,73KG,SPF,2017

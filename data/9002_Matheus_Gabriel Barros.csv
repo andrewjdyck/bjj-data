@@ -1,0 +1,66 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+16937,9002,Matheus Gabriel Barros,2999,Paulo Miyao,L,0,Pts: 8x6,Spider Inv. 4F,76KG,SPF,2018
+18580,9002,Matheus Gabriel Barros,9031,Kennedy Maciel,L,0,RNC,NoGi Worlds,67KG,R1,2018
+18983,9002,Matheus Gabriel Barros,4163,Marcio Andre,L,0,Referee Decision,F2W 99,76KG,SPF,2019
+21875,9002,Matheus Gabriel Barros,188,Augusto Mendes,L,0,Referee Decision,ADCC,66KG,4F,2019
+21953,9002,Matheus Gabriel Barros,188,Augusto Mendes,L,0,Referee Decision,F2W 127,70KG,SPF,2019
+22655,9002,Matheus Gabriel Barros,9014,Levi Jones,L,0,Pts: 2x0,Spyder Invitational,76KG,F,2019
+23737,9002,Matheus Gabriel Barros,8516,Lucas Valente,L,0,Referee Decision,F2W 142,77KG,SPF,2020
+24152,9002,Matheus Gabriel Barros,8632,Thiago Macedo,L,0,Pts: 2x0,Pan American,70KG,F,2020
+25592,9002,Matheus Gabriel Barros,11878,Andy Murasaki,L,0,Referee Decision,EUG 1,70KG,F,2021
+32921,9002,Matheus Gabriel Barros,12122,Mica Galvao,L,0,Pts: 4x2,World Champ.,76KG,4F,2022
+36717,9002,Matheus Gabriel Barros,12005,Kade Ruotolo,L,0,Referee Decision,One FC,77KG,SPF,2022
+40271,9002,Matheus Gabriel Barros,9486,Murilo Amaral,L,0,Injury,World Champ.,76KG,4F,2023
+17666,9002,Matheus Gabriel Barros,,Santiago Ferina,W,1,Armbar,F2W 87 Pro,65KG,SPF,2018
+18008,9002,Matheus Gabriel Barros,,Rennick Kama,W,1,Choke from back,JJWL Texas Open,76KG,SF,2018
+19393,9002,Matheus Gabriel Barros,,Orlando Andaviza,W,1,Triangle,Houston Open,70KG,F,2019
+19470,9002,Matheus Gabriel Barros,,Justin Rice,W,1,Choke,F2W 104,70KG,SPF,2019
+19574,9002,Matheus Gabriel Barros,9031,Kennedy Maciel,W,1,Armbar,Pan American,70KG,8F,2019
+19580,9002,Matheus Gabriel Barros,8231,Leo Saggioro,W,1,Pts: 6x2,Pan American,70KG,4F,2019
+19584,9002,Matheus Gabriel Barros,6599,Rafael Mansur,W,1,Pts: 4x2,Pan American,70KG,SF,2019
+19585,9002,Matheus Gabriel Barros,7002,Jamil Hill-Taylor,W,1,"Pts: 4x4, Pen",Pan American,70KG,F,2019
+20598,9002,Matheus Gabriel Barros,9074,Joao Mendes,W,1,Pts: 6x4,World Champ.,70KG,R2,2019
+20606,9002,Matheus Gabriel Barros,5414,Osvaldo Moizinho,W,1,Pts: 4x2,World Champ.,70KG,SF,2019
+20607,9002,Matheus Gabriel Barros,4163,Marcio Andre,W,1,Armlock,World Champ.,70KG,F,2019
+21868,9002,Matheus Gabriel Barros,4996,Geo Martinez,W,1,Referee Decision,ADCC,66KG,R1,2019
+22650,9002,Matheus Gabriel Barros,5238,Edwin Najmi,W,1,Pts: 4x2,Spyder Invitational,76KG,4F,2019
+22653,9002,Matheus Gabriel Barros,10085,Johnatha Alves,W,1,"Pts: 2x2, Adv",Spyder Invitational,76KG,SF,2019
+24145,9002,Matheus Gabriel Barros,6366,Brian Mahecha,W,1,Choke from back,Pan American,70KG,8F,2020
+24147,9002,Matheus Gabriel Barros,9031,Kennedy Maciel,W,1,Pts: 2x0,Pan American,70KG,4F,2020
+24150,9002,Matheus Gabriel Barros,9094,Richar Nogueira,W,1,Pts: 4x2,Pan American,70KG,SF,2020
+25586,9002,Matheus Gabriel Barros,10085,Johnatha Alves,W,1,Pts: 4x2,EUG 1,70KG,4F,2021
+25591,9002,Matheus Gabriel Barros,4163,Marcio Andre,W,1,Referee Decision,EUG 1,70KG,SF,2021
+26029,9002,Matheus Gabriel Barros,,Tyler Scalisi,W,1,Inside heel hook,N.Orleans NGO,79KG,SF,2021
+26030,9002,Matheus Gabriel Barros,9253,Michael Trasso,W,1,Triangle armbar,N.Orleans NGO,79KG,F,2021
+26036,9002,Matheus Gabriel Barros,9246,Tex Johnson,W,1,Pts: 2x0,N.Orleans NGO,ABS,4F,2021
+26039,9002,Matheus Gabriel Barros,12372,Francisco Cuneo,W,1,Pts: 4x0,N.Orleans NGO,ABS,SF,2021
+26040,9002,Matheus Gabriel Barros,7831,Diego Ramalho,W,1,Pts: 2x0,N.Orleans NGO,ABS,F,2021
+26123,9002,Matheus Gabriel Barros,10352,Leo Silva,W,1,"Pts: 0x0, Adv",NoGi Pan Am.,79KG,R1,2021
+26129,9002,Matheus Gabriel Barros,,Enrique Galarza,W,1,Pts: 2x0,NoGi Pan Am.,79KG,8F,2021
+26133,9002,Matheus Gabriel Barros,4542,Felipe Cesar,W,1,"Pts: 2x2, Adv",NoGi Pan Am.,79KG,4F,2021
+26136,9002,Matheus Gabriel Barros,9253,Michael Trasso,W,1,Triangle,NoGi Pan Am.,79KG,SF,2021
+26138,9002,Matheus Gabriel Barros,8138,Hugo Marques,W,1,Pts: 2x0,NoGi Pan Am.,79KG,F,2021
+27085,9002,Matheus Gabriel Barros,5078,Luan Carvalho,W,1,50/50 armbar,BJJ Bet,82KG,SPF,2021
+28039,9002,Matheus Gabriel Barros,,Leandro Lima,W,1,Armbar,Brasileiro,76KG,R1,2021
+28047,9002,Matheus Gabriel Barros,9956,Vinicius Pereira,W,1,Armbar,Brasileiro,76KG,4F,2021
+28049,9002,Matheus Gabriel Barros,10216,Natan Chueng,W,1,Armbar,Brasileiro,76KG,SF,2021
+28051,9002,Matheus Gabriel Barros,,Sergio Soares,W,1,Triangle,Brasileiro,76KG,F,2021
+29497,9002,Matheus Gabriel Barros,6368,Kevin Mahecha,W,1,50/50 armbar,World Champ.,76KG,8F,2021
+29505,9002,Matheus Gabriel Barros,4655,Michael Liera,W,1,Pts: 4x2,World Champ.,76KG,4F,2021
+29509,9002,Matheus Gabriel Barros,8516,Lucas Valente,W,1,Referee Decision,World Champ.,76KG,SF,2021
+32751,9002,Matheus Gabriel Barros,,Max Danrley,W,1,Armlock,Houston Open,76KG,4F,2022
+32753,9002,Matheus Gabriel Barros,9931,Arthur Detanico,W,1,Armbar,Houston Open,76KG,SF,2022
+32754,9002,Matheus Gabriel Barros,12629,Fabricio Barbarotti,W,1,Armbar,Houston Open,76KG,F,2022
+32918,9002,Matheus Gabriel Barros,9876,Alef Brito,W,1,Pts: 2x0,World Champ.,76KG,8F,2022
+33681,9002,Matheus Gabriel Barros,,Carlos Mejia,W,1,Triangle,Austin SMO,76KG,SF,2022
+33683,9002,Matheus Gabriel Barros,11015,Pablo Lavaselli,W,1,50/50 armbar,Austin SMO,76KG,F,2022
+33718,9002,Matheus Gabriel Barros,,Matheus Galvao,W,1,Inside heel hook,Austin SMNGO,79KG,SF,2022
+33719,9002,Matheus Gabriel Barros,,Lucas Wilhan,W,1,Armbar,Austin SMNGO,79KG,F,2022
+35777,9002,Matheus Gabriel Barros,,Wallison Oliveira,W,1,Armbar,BJJ Stars,76KG,4F,2022
+35782,9002,Matheus Gabriel Barros,10408,Israel Sousa,W,1,Pts: 4x2,BJJ Stars,76KG,SF,2022
+35783,9002,Matheus Gabriel Barros,11423,Meyram Maquine,W,1,Pts: 2x0,BJJ Stars,76KG,F,2022
+39860,9002,Matheus Gabriel Barros,11512,Lukete Silva,W,1,Armbar,Houston Open,76KG,4F,2023
+39861,9002,Matheus Gabriel Barros,13192,Carlos Henrique,W,1,Points,Houston Open,76KG,SF,2023
+39863,9002,Matheus Gabriel Barros,9094,Richar Nogueira,W,1,Points,Houston Open,76KG,F,2023
+40251,9002,Matheus Gabriel Barros,9014,Levi Jones,W,1,Referee Decision,World Champ.,76KG,R1,2023
+40264,9002,Matheus Gabriel Barros,11754,Victor Nithael,W,1,"Pts: 4x4, Pen",World Champ.,76KG,8F,2023

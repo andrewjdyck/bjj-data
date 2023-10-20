@@ -1,0 +1,123 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+8991,6071,Gabriel Arges,3200,Jackson Sousa,L,0,Toe hold,European Open,ABS,R2,2016
+9046,6071,Gabriel Arges,289,Alan Finfou,L,0,DQ,PNBJJC,88KG,GP,2016
+9323,6071,Gabriel Arges,1188,Leandro Lo,L,0,Pts: 12x6,Pan American,88KG,4F,2016
+9393,6071,Gabriel Arges,425,Bernardo Faria,L,0,Dogbar,Pan American,ABS,4F,2016
+10708,6071,Gabriel Arges,2107,Otavio Sousa,L,0,Botinha,BJJ Pro LA,82KG,SF,2016
+11080,6071,Gabriel Arges,5636,Manuel Ribamar,L,0,DQ,Grand Slam RJ,85KG,4F,2016
+11919,6071,Gabriel Arges,84,Alexandre Ribeiro,L,0,Referee Decision,Argentina Pro,ABS,SF,2017
+12080,6071,Gabriel Arges,1548,Jose Junior,L,0,Pen,Grand Slam LDN,110KG,F,2017
+16350,6071,Gabriel Arges,1188,Leandro Lo,L,0,Points,ACBJJ 13,85KG,SPF,2018
+16548,6071,Gabriel Arges,8105,Tommy Langaker,L,0,DQ,World Champ.,82KG,4F,2018
+17630,6071,Gabriel Arges,7478,Adam Wardzinski,L,0,Pts: 2x0,King of Mats,110KG,RR,2018
+17638,6071,Gabriel Arges,1534,R. Evangelista,L,0,Pts: 2x0,King of Mats,110KG,RR,2018
+17642,6071,Gabriel Arges,8195,Gutemberg Pereira,L,0,"Pts: 2x2, Adv",King of Mats,110KG,RR,2018
+17808,6071,Gabriel Arges,5636,Manuel Ribamar,L,0,Referee Decision,WSOG 2,81KG,SF,2018
+18663,6071,Gabriel Arges,4789,Marcos Tinoco,L,0,Pts: 6x4,NoGi Worlds,85KG,4F,2018
+18818,6071,Gabriel Arges,8100,Rudson Mateus,L,0,"Pts: 2x2, Adv",Grand Slam AD,85KG,4F,2019
+18845,6071,Gabriel Arges,5655,Lucas Barbosa,L,0,Pts: 3x0,King of Mats II,85KG,RR,2019
+19321,6071,Gabriel Arges,8346,Craig Jones,L,0,RNC,GrappleFest 4,ABS,SPF,2019
+21851,6071,Gabriel Arges,5423,Matheus Diniz,L,0,Referee Decision,ADCC,88KG,4F,2019
+22013,6071,Gabriel Arges,8357,Gustavo Batista,L,0,Points,Templum FN,ABS,SPF,2019
+22651,6071,Gabriel Arges,9014,Levi Jones,L,0,Referee Decision,Spyder Invitational,76KG,4F,2019
+23757,6071,Gabriel Arges,8357,Gustavo Batista,L,0,Points,3CG Kumite,88KG,SF,2020
+27198,6071,Gabriel Arges,576,Rafael Lovato,L,0,Referee Decision,F2W 180,92KG,SPF,2021
+35552,6071,Gabriel Arges,5636,Manuel Ribamar,L,0,Pts: 9x0,NoGi Pan,85KG,8F,2022
+36858,6071,Gabriel Arges,10103,Jonnatas Gracie,L,0,Referee Decision,NoGi Worlds,85KG,8F,2022
+8743,6071,Gabriel Arges,5655,Lucas Barbosa,W,1,Pts: 6x4,Irvine Open,88KG,RR,2015
+8745,6071,Gabriel Arges,5655,Lucas Barbosa,W,1,"Pts: 2x2, Adv",Irvine Open,88KG,F,2015
+8751,6071,Gabriel Arges,7079,Carlos Farias,W,1,Adv,Irvine Open,ABS,4F,2015
+8753,6071,Gabriel Arges,5655,Lucas Barbosa,W,1,Pts: 8x6,Irvine Open,ABS,SF,2015
+8956,6071,Gabriel Arges,9711,Jurandir Conceicao,W,1,Pts: 8x4,European Open,88KG,R1,2016
+8960,6071,Gabriel Arges,,Tero Pyylampi,W,1,Pts: 14x6,European Open,88KG,4F,2016
+8964,6071,Gabriel Arges,4430,Patrick Gaudio,W,1,Referee Decision,European Open,88KG,SF,2016
+9043,6071,Gabriel Arges,7082,Luca Anacoreta,W,1,"Pts: 4x4, Adv",PNBJJC,88KG,GP,2016
+9045,6071,Gabriel Arges,,Gregorio Thomaz,W,1,Armbar,PNBJJC,88KG,GP,2016
+9317,6071,Gabriel Arges,,Manuel Diaz,W,1,Pts: 16x0,Pan American,88KG,8F,2016
+9382,6071,Gabriel Arges,6337,Arnaldo Maidana,W,1,Pts: 10x4,Pan American,ABS,R2,2016
+9386,6071,Gabriel Arges,,Pedro Moura,W,1,Referee Decision,Pan American,ABS,8F,2016
+9592,6071,Gabriel Arges,,Andre Almeida,W,1,Toe hold,World Pro,77KG,R1,2016
+9599,6071,Gabriel Arges,,Sam Gibson,W,1,Pts: 8x0,World Pro,77KG,8F,2016
+9606,6071,Gabriel Arges,,Cesar Miyahira,W,1,Pts: 2x0,World Pro,77KG,4F,2016
+9611,6071,Gabriel Arges,6596,Jhonny Loureiro,W,1,Pts: 3x2,World Pro,77KG,SF,2016
+9612,6071,Gabriel Arges,1824,Roberto Satoshi,W,1,Pts: 6x2,World Pro,77KG,F,2016
+9995,6071,Gabriel Arges,5636,Manuel Ribamar,W,1,"Pts: 8x8, Adv",World Champ.,82KG,R2,2016
+10010,6071,Gabriel Arges,428,Celso Vinicius,W,1,Pts: 8x7,World Champ.,82KG,8F,2016
+10015,6071,Gabriel Arges,410,Claudio Calasans,W,1,Kneebar,World Champ.,82KG,4F,2016
+10018,6071,Gabriel Arges,4789,Marcos Tinoco,W,1,Kneebar,World Champ.,82KG,SF,2016
+10365,6071,Gabriel Arges,289,Alan Finfou,W,1,Referee Decision,Berkut 3,ABS,SPF,2016
+10453,6071,Gabriel Arges,5655,Lucas Barbosa,W,1,Pts: 4x2,Grand Slam LA,85KG,SF,2016
+10455,6071,Gabriel Arges,2107,Otavio Sousa,W,1,Pts: 2x0,Grand Slam LA,85KG,F,2016
+10759,6071,Gabriel Arges,,Gottrell King,W,1,Kneebar,Las Vegas Pro,85KG,SF,2016
+10760,6071,Gabriel Arges,8081,Nathan Mendelsohn,W,1,Kneebar,Las Vegas Pro,85KG,F,2016
+10807,6071,Gabriel Arges,,Yongam Noh,W,1,"Pts: 2x2, Adv",Grand Slam TYO,85KG,SF,2016
+10808,6071,Gabriel Arges,6301,Faisal AlKitbe,W,1,Pts: 2x0,Grand Slam TYO,85KG,F,2016
+11074,6071,Gabriel Arges,,Ricardo Filho,W,1,Kneebar,Grand Slam RJ,85KG,8F,2016
+11172,6071,Gabriel Arges,,David Aghion,W,1,Choke from back,Curitiba Pro,85KG,RR,2016
+11173,6071,Gabriel Arges,,David Aghion,W,1,Mounted X choke,Curitiba Pro,85KG,F,2016
+11209,6071,Gabriel Arges,,Flavio Santos,W,1,Mounted triangle,Belem Int. Pro,85KG,4F,2016
+11210,6071,Gabriel Arges,,Luis Nogueira,W,1,Choke from back,Belem Int. Pro,85KG,SF,2016
+11211,6071,Gabriel Arges,,Wanderley Fr.,W,1,Choke from back,Belem Int. Pro,85KG,F,2016
+11303,6071,Gabriel Arges,,Jhonathan Ramos,W,1,RNC,Colombia Nat. Pro,85KG,F,2016
+11461,6071,Gabriel Arges,8290,Marcos Costa,W,1,Choke from back,Grand Slam AD,85KG,4F,2017
+11464,6071,Gabriel Arges,4460,Jaime Canuto,W,1,"Pts: 0x0, Adv",Grand Slam AD,85KG,SF,2017
+11466,6071,Gabriel Arges,7047,Matheus Spirandeli,W,1,RNC,Grand Slam AD,85KG,F,2017
+11667,6071,Gabriel Arges,4235,Victor Silverio,W,1,Pts: 6x2,UAEJJF Orlando,85KG,F,2017
+11798,6071,Gabriel Arges,,Alexsandro Pereira,W,1,Triangle,Manaus Nat. Pro,77KG,4F,2017
+11801,6071,Gabriel Arges,,Mateus Bernardi,W,1,Points,Manaus Nat. Pro,77KG,SF,2017
+11804,6071,Gabriel Arges,,Talison Soares,W,1,Points,Manaus Nat. Pro,77KG,F,2017
+11826,6071,Gabriel Arges,6596,Jhonny Loureiro,W,1,Pts: 4x2,Manaus Nat. Pro,ABS,F,2017
+11910,6071,Gabriel Arges,,Enrique March,W,1,Submission,Argentina Pro,85KG,SF,2017
+11911,6071,Gabriel Arges,,Enrique March,W,1,Choke from back,Argentina Pro,85KG,F,2017
+11916,6071,Gabriel Arges,,Giovanni Della,W,1,Pts: 4x2,Argentina Pro,ABS,R1,2017
+11917,6071,Gabriel Arges,,Facundo Acosta,W,1,RNC,Argentina Pro,ABS,4F,2017
+11958,6071,Gabriel Arges,7096,Josh Hinger,W,1,Points,ACBJJ 4,85KG,4F,2017
+11961,6071,Gabriel Arges,6337,Arnaldo Maidana,W,1,Triangle,ACBJJ 4,85KG,SF,2017
+11963,6071,Gabriel Arges,2107,Otavio Sousa,W,1,Kneebar,ACBJJ 4,85KG,F,2017
+12079,6071,Gabriel Arges,8560,Gabriel Lucas,W,1,Pts: 2x0,Grand Slam LDN,110KG,SF,2017
+12649,6071,Gabriel Arges,,Akira Osokawa,W,1,RNC,World Pro,77KG,4F,2017
+12652,6071,Gabriel Arges,7552,Isaque Bahiense,W,1,"Pts: 4x4, Adv",World Pro,77KG,SF,2017
+12657,6071,Gabriel Arges,5238,Edwin Najmi,W,1,Pts: 2x0,World Pro,77KG,F,2017
+13149,6071,Gabriel Arges,6354,Jonathan Satava,W,1,Choke from back,World Champ.,82KG,8F,2017
+13152,6071,Gabriel Arges,4542,Felipe Cesar,W,1,"Pts: 4x4, Adv",World Champ.,82KG,4F,2017
+13154,6071,Gabriel Arges,4460,Jaime Canuto,W,1,Referee Decision,World Champ.,82KG,SF,2017
+13156,6071,Gabriel Arges,4789,Marcos Tinoco,W,1,Choke from back,World Champ.,82KG,F,2017
+15020,6071,Gabriel Arges,,Gianni Crivello,W,1,Choke from back,LA Open,88KG,SF,2018
+15021,6071,Gabriel Arges,,Gabriel Vieira,W,1,Choke from back,LA Open,88KG,F,2018
+15408,6071,Gabriel Arges,8477,Igor Paiva,W,1,"Pts: 8x0, Adv",Pan American,82KG,8F,2018
+15415,6071,Gabriel Arges,4542,Felipe Cesar,W,1,Pts: 2x0,Pan American,82KG,4F,2018
+15418,6071,Gabriel Arges,,Ygor Dantas,W,1,Triangle,Pan American,82KG,SF,2018
+15420,6071,Gabriel Arges,4789,Marcos Tinoco,W,1,"Pts: 0x0, Adv",Pan American,82KG,F,2018
+16529,6071,Gabriel Arges,,Edson Antonio,W,1,"Pts: 0x0, Adv",World Champ.,82KG,R2,2018
+16546,6071,Gabriel Arges,8116,Dante Leon,W,1,Pts: 12x8,World Champ.,82KG,8F,2018
+17634,6071,Gabriel Arges,6156,Tanner Rice,W,1,Pts: 4x0,King of Mats,110KG,RR,2018
+17794,6071,Gabriel Arges,5660,Lucas Rocha,W,1,Armbar,WSOG 2,81KG,R1,2018
+17800,6071,Gabriel Arges,,I. Sousa,W,1,Referee Decision,WSOG 2,81KG,8F,2018
+17804,6071,Gabriel Arges,,R. Junior,W,1,Referee Decision,WSOG 2,81KG,4F,2018
+17809,6071,Gabriel Arges,,J. Gracie,W,1,Choke from back,WSOG 2,81KG,3RD,2018
+18650,6071,Gabriel Arges,,Isiah Wright,W,1,Mounted triangle,NoGi Worlds,85KG,R1,2018
+18655,6071,Gabriel Arges,7914,Nick Calvanese,W,1,"Pts: 2x2, Adv",NoGi Worlds,85KG,R2,2018
+18817,6071,Gabriel Arges,,Thabet AlTaher,W,1,RNC,Grand Slam AD,85KG,R1,2019
+18843,6071,Gabriel Arges,8215,Espen Mathiesen,W,1,Choke from back,King of Mats II,85KG,RR,2019
+18848,6071,Gabriel Arges,9217,Caio Caetano,W,1,Referee Decision,King of Mats II,85KG,RR,2019
+18850,6071,Gabriel Arges,8100,Rudson Mateus,W,1,"Pts: 2x2, Adv",King of Mats II,85KG,RR,2019
+18860,6071,Gabriel Arges,5636,Manuel Ribamar,W,1,Pts: 4x2,King of Mats II,85KG,SF,2019
+18862,6071,Gabriel Arges,7552,Isaque Bahiense,W,1,Pts: 6x2,King of Mats II,85KG,F,2019
+20467,6071,Gabriel Arges,5423,Matheus Diniz,W,1,Referee Decision,F2W 112,88KG,SPF,2019
+20646,6071,Gabriel Arges,8116,Dante Leon,W,1,Pts: 4x0,World Champ.,82KG,R2,2019
+20655,6071,Gabriel Arges,410,Claudio Calasans,W,1,Pts: 6x4,World Champ.,82KG,4F,2019
+20657,6071,Gabriel Arges,4789,Marcos Tinoco,W,1,Pts: 2x0,World Champ.,82KG,SF,2019
+20658,6071,Gabriel Arges,7552,Isaque Bahiense,W,1,"Pts: 2x2, Adv",World Champ.,82KG,F,2019
+21499,6071,Gabriel Arges,8116,Dante Leon,W,1,Referee Decision,F2W 123,85KG,SPF,2019
+21846,6071,Gabriel Arges,6351,Alec Baulding,W,1,Pts: 5x0,ADCC,88KG,R1,2019
+23754,6071,Gabriel Arges,10240,Jake Watson,W,1,RNC,3CG Kumite,88KG,4F,2020
+23932,6071,Gabriel Arges,4163,Marcio Andre,W,1,Referee Decision,F2W 151,84KG,SPF,2020
+27323,6071,Gabriel Arges,,Thiago Aso,W,1,"Pts: 2x2, Adv",GB Arizona SM,N/A,SPF,2021
+35550,6071,Gabriel Arges,,Matheus Martinez,W,1,Pts: 8x4,NoGi Pan,85KG,R1,2022
+36854,6071,Gabriel Arges,,Aaron Tiegs,W,1,Pts: 4x2,NoGi Worlds,85KG,R1,2022
+38821,6071,Gabriel Arges,,Vinicius Coimbra,W,1,Triangle,Charleston NGO,85KG,SF,2023
+38823,6071,Gabriel Arges,,Vinicius Coimbra,W,1,Inside heel hook,Charleston NGO,85KG,F,2023
+39089,6071,Gabriel Arges,12235,Alan Sanchez,W,1,Pts: 2x0,S. Cruz NGO,85KG,F,2023
+39095,6071,Gabriel Arges,,Ethan Vistro,W,1,Pts: 21x0,S. Cruz NGO,ABS,4F,2023
+39096,6071,Gabriel Arges,,Benjamin Silva,W,1,Pts: 2x0,S. Cruz NGO,ABS,SF,2023
+39098,6071,Gabriel Arges,,Calon Sabino,W,1,Pts: 11x0,S. Cruz NGO,ABS,F,2023

@@ -1,0 +1,68 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+17971,11132,Leon Larman,5414,Osvaldo Moizinho,L,0,Pts: 4x2,Geneva Open,76KG,SF,2018
+18772,11132,Leon Larman,,Sebastien Lecoq,L,0,Footlock,French National,ABS,F,2019
+18896,11132,Leon Larman,4248,Gianni Grippo,L,0,Choke,European Open,76KG,R2,2019
+20266,11132,Leon Larman,,Tiago Nova,L,0,Points,Brasileiro,76KG,R2,2019
+20627,11132,Leon Larman,,Levi J-Leary,L,0,DQ,World Champ.,76KG,R2,2019
+22044,11132,Leon Larman,,A. Molinaro,L,0,DQ,London FO,76KG,F,2019
+22131,11132,Leon Larman,9407,Alexandre Molinaro,L,0,Points,Rome Fall Open,76KG,F,2019
+22159,11132,Leon Larman,10295,Italo Moura,L,0,Points,European NoGi,73KG,4F,2019
+22638,11132,Leon Larman,10318,Eldar Rafigaev,L,0,Referee Decision,Paris Open,ABS,SF,2019
+23100,11132,Leon Larman,10103,Jonnatas Gracie,L,0,Bread cutter choke,European Open,76KG,4F,2020
+23631,11132,Leon Larman,10216,Natan Chueng,L,0,Pts: 2x1,Grand Slam LDN,77KG,4F,2020
+23637,11132,Leon Larman,,Pedro Neto,L,0,Referee Decision,Grand Slam LDN,77KG,RPC,2020
+28730,11132,Leon Larman,,Romao Carvalho,L,0,Pts: 3x3,Portugal Pro,77KG,F,2021
+29207,11132,Leon Larman,8215,Espen Mathiesen,L,0,Pts: 5x4,World Pro,77KG,4F,2021
+29503,11132,Leon Larman,9014,Levi Jones,L,0,"Pts: 0x0, Adv",World Champ.,76KG,8F,2021
+35642,11132,Leon Larman,13093,Lucas Rodrigues,L,0,"Pts: 2x2, Adv",London FO,76KG,F,2022
+37197,11132,Leon Larman,11878,Andy Murasaki,L,0,Katagatame,European Open,76KG,4F,2023
+38397,11132,Leon Larman,11015,Pablo Lavaselli,L,0,Pts: 2x0,Pan American,76KG,4F,2023
+39935,11132,Leon Larman,,Julio Arantes,L,0,N/A,Paris Open,ABS,4F,2023
+40261,11132,Leon Larman,12897,Elijah Dorsey,L,0,Pts: 5x0,World Champ.,76KG,R1,2023
+17344,11132,Leon Larman,,Ayub magomadov,W,1,Triangle,Florence Open,70KG,SF,2018
+17345,11132,Leon Larman,,Ayub magomadov,W,1,Verbal tap,Florence Open,70KG,F,2018
+17879,11132,Leon Larman,,Walter Barnes,W,1,Choke from back,Paris Fall Open,76KG,SF,2018
+17880,11132,Leon Larman,,Matheus Fernandes,W,1,Choke from back,Paris Fall Open,76KG,F,2018
+18520,11132,Leon Larman,,Azzedine Taj,W,1,Pts: 4x2,Dublin Open,76KG,SF,2018
+18521,11132,Leon Larman,,Youssef Fahmi,W,1,Triangle,Dublin Open,76KG,F,2018
+18767,11132,Leon Larman,,Youssef Fahmi,W,1,Triangle,French National,76KG,SF,2019
+18768,11132,Leon Larman,,Souk Khampasath,W,1,Choke from back,French National,76KG,F,2019
+18769,11132,Leon Larman,,N/A,W,1,Points,French National,ABS,R1,2019
+18770,11132,Leon Larman,,N/A,W,1,Choke from back,French National,ABS,4F,2019
+18771,11132,Leon Larman,,Kenji Sette,W,1,Choke from back,French National,ABS,SF,2019
+18773,11132,Leon Larman,,David Thomas,W,1,Choke from back,Open Paris,94KG,SF,2019
+18774,11132,Leon Larman,,Geiel Gomes,W,1,Choke from back,Open Paris,94KG,F,2019
+18895,11132,Leon Larman,,Bruno Tchola,W,1,Choke from back,European Open,76KG,R1,2019
+20488,11132,Leon Larman,,Rafael Colonhese,W,1,Triangle,Paris Spring Open,76KG,F,2019
+21528,11132,Leon Larman,,Tomer Aldroy,W,1,Pts: 4x2,Geneve Open,76KG,SF,2019
+21529,11132,Leon Larman,,Tommi Pulkkanen,W,1,Referee Decision,Geneve Open,76KG,F,2019
+22043,11132,Leon Larman,,Rafael Colonhese,W,1,Points,London FO,76KG,SF,2019
+22128,11132,Leon Larman,,N/A,W,1,Choke from back,Rome Fall Open,76KG,4F,2019
+22130,11132,Leon Larman,11187,Marcus Phelan,W,1,Choke from back,Rome Fall Open,76KG,SF,2019
+22156,11132,Leon Larman,,N/A,W,1,Armbar,European NoGi,73KG,R1,2019
+22626,11132,Leon Larman,,Rafael Colonhese,W,1,Triangle,Paris Open,76KG,SF,2019
+22627,11132,Leon Larman,,Tyrone Connor,W,1,Choke from back,Paris Open,76KG,F,2019
+22633,11132,Leon Larman,,N/A,W,1,Choke from back,Paris Open,ABS,R1,2019
+22635,11132,Leon Larman,,N/A,W,1,Points,Paris Open,ABS,4F,2019
+23095,11132,Leon Larman,10216,Natan Chueng,W,1,"Pts: 6x6, Adv",European Open,76KG,R1,2020
+23620,11132,Leon Larman,,Breno Maciel,W,1,Referee Decision,Grand Slam LDN,77KG,R1,2020
+23621,11132,Leon Larman,,Bruno Borges,W,1,Armbar,Grand Slam LDN,77KG,R2,2020
+23635,11132,Leon Larman,,Robert Henek,W,1,Pts: 2x0,Grand Slam LDN,77KG,RPC,2020
+24366,11132,Leon Larman,,Adam Adshead,W,1,Choke from back,Polaris Squads 2,ABS,RR,2020
+24367,11132,Leon Larman,,Sam Gibson,W,1,Choke from back,Polaris Squads 2,ABS,RR,2020
+24377,11132,Leon Larman,,Tyrone Elliot,W,1,Choke from back,Polaris Squads 2,ABS,RR,2020
+24378,11132,Leon Larman,,Sam Gibson,D,0.5,---,Polaris Squads 2,ABS,RR,2020
+28729,11132,Leon Larman,,Bruno Trigueiros,W,1,Pts: 3x1,Portugal Pro,77KG,SF,2021
+29202,11132,Leon Larman,,Yan Cabral,W,1,Choke from back,World Pro,77KG,R1,2021
+29376,11132,Leon Larman,,Bryn Jenkins,W,1,Referee Decision,Polaris 18,77KG,SPF,2021
+29494,11132,Leon Larman,4328,AJ Agazarm,W,1,Pts: 6x0,World Champ.,76KG,R1,2021
+35639,11132,Leon Larman,,Samuel Khan,W,1,N/A,London FO,76KG,4F,2022
+35640,11132,Leon Larman,,Jobson Apolinario,W,1,N/A,London FO,76KG,SF,2022
+36012,11132,Leon Larman,13389,Youngseung Cho,W,1,Triangle,Rome Open,76KG,F,2022
+36028,11132,Leon Larman,,Pierre Manzo,W,1,Submission,Rome Open,ABS,R1,2022
+36033,11132,Leon Larman,13389,Youngseung Cho,W,1,Submission,Rome Open,ABS,SF,2022
+36034,11132,Leon Larman,,Julian Stonjek,W,1,Submission,Rome Open,ABS,F,2022
+37190,11132,Leon Larman,13175,Ariel Tabak,W,1,N/A,European Open,76KG,R1,2023
+38388,11132,Leon Larman,13192,Carlos Henrique,W,1,"Pts: 0x0, Adv",Pan American,76KG,8F,2023
+39926,11132,Leon Larman,,Luis Araujo,W,1,Choke from back,Paris Open,76KG,SF,2023
+39928,11132,Leon Larman,,Sean Whyte,W,1,N/A,Paris Open,76KG,F,2023

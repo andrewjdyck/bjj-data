@@ -1,0 +1,103 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+709,16,Marcelo Garcia,4864,Alexandre Dantas,L,0,Pts: 9x0,Brasileiro,ABS,SF,2002
+753,16,Marcelo Garcia,453,Daniel Moraes,L,0,Pen,ADCC Trials,77KG,SF,2003
+822,16,Marcelo Garcia,9,Marcio Cruz,L,0,Pts: 6x0,ADCC,ABS,4F,2003
+842,16,Marcelo Garcia,4864,Alexandre Dantas,L,0,Points,World Champ.,ABS,4F,2003
+874,16,Marcelo Garcia,437,Fernando Terere,L,0,Triangle,World Champ.,82KG,F,2003
+1019,16,Marcelo Garcia,117,Ronaldo Souza,L,0,Pts: 3x2,Best Fighters,ABS,SPF,2004
+1032,16,Marcelo Garcia,84,Alexandre Ribeiro,L,0,Pts: 6x0,Brasileiro,ABS,F,2004
+1067,16,Marcelo Garcia,505,Roger Gracie,L,0,Pts: 8x2,World Champ.,ABS,4F,2004
+1100,16,Marcelo Garcia,437,Fernando Terere,L,0,Pts: 4x0,Japan Open,82KG,SPF,2004
+1136,16,Marcelo Garcia,,Cameron Earl,L,0,Pts: 3x1,Budo Challenge,87KG,SF,2005
+1232,16,Marcelo Garcia,117,Ronaldo Souza,L,0,Kimura,ADCC,ABS,SF,2005
+1472,16,Marcelo Garcia,505,Roger Gracie,L,0,Choke from back,World Champ.,ABS,SF,2006
+1669,16,Marcelo Garcia,378,Robert Drysdale,L,0,Darce,ADCC,ABS,F,2007
+2129,16,Marcelo Garcia,422,Braulio Estima,L,0,Triangle,World Pro.,ABS,SF,2009
+2140,16,Marcelo Garcia,122,Michael Langhi,L,0,Adv,World Pro.,76KG,F,2009
+2257,16,Marcelo Garcia,919,Pablo Popovitch,L,0,Pts: 3x0,ADCC,77KG,F,2009
+2303,16,Marcelo Garcia,422,Braulio Estima,L,0,Inverted Katagatame,ADCC,ABS,4F,2009
+708,16,Marcelo Garcia,,Unknown,W,1,Points,Brasileiro,ABS,4F,2002
+742,16,Marcelo Garcia,4864,Alexandre Dantas,W,1,"Pts: 2x2, Adv",Team Nationals,O88KG,4F,2003
+744,16,Marcelo Garcia,,Marco Antonio,W,1,Armbar,Team Nationals,O88KG,F,2003
+749,16,Marcelo Garcia,,Unknown,W,1,Points,ADCC Trials,77KG,R1,2003
+751,16,Marcelo Garcia,,Aloisio Barros,W,1,RNC,ADCC Trials,77KG,4F,2003
+776,16,Marcelo Garcia,,Kiuma Kunioku,W,1,RNC,ADCC,77KG,R1,2003
+781,16,Marcelo Garcia,52,Renzo Gracie,W,1,Pts: 9x0,ADCC,77KG,4F,2003
+782,16,Marcelo Garcia,81,Vitor Shaolin,W,1,RNC,ADCC,77KG,SF,2003
+783,16,Marcelo Garcia,,Otto Olsen,W,1,RNC,ADCC,77KG,F,2003
+817,16,Marcelo Garcia,,Mike Van Arsdale,W,1,RNC,ADCC,ABS,R1,2003
+868,16,Marcelo Garcia,,Roberto Fonseca,W,1,Pts: 7x0,World Champ.,82KG,R1,2003
+870,16,Marcelo Garcia,4943,Bruno Fernandes,W,1,Pts: 6x0,World Champ.,82KG,4F,2003
+872,16,Marcelo Garcia,,Marcelo Brito,W,1,Armbar,World Champ.,82KG,SF,2003
+969,16,Marcelo Garcia,2324,Eduardo Santoro,W,1,Pts: 11x0,BB Challenge 3,82KG,SPF,2004
+1030,16,Marcelo Garcia,3099,Marcio Corleta,W,1,Choke,Brasileiro,ABS,4F,2004
+1031,16,Marcelo Garcia,,Eric Wanderlei,W,1,Choke,Brasileiro,ABS,SF,2004
+1038,16,Marcelo Garcia,,Felipe Cranivata,W,1,Points,Brasileiro,82KG,SF,2004
+1039,16,Marcelo Garcia,,Flávio Serafim,W,1,Armbar,Brasileiro,82KG,F,2004
+1043,16,Marcelo Garcia,,Babalu Sobral,W,1,Pts: 6x0,Sub. de Campos,ABS,F,2004
+1044,16,Marcelo Garcia,10430,Gabriel Gonzaga,W,1,Pts: 4x0,Sub. de Campos,ABS,SF,2004
+1045,16,Marcelo Garcia,5702,Marcos Oliveira,W,1,RNC,Sub. de Campos,ABS,4F,2004
+1046,16,Marcelo Garcia,,Thales Leites,W,1,RNC,Sub. de Campos,87KG,F,2004
+1047,16,Marcelo Garcia,637,Bruno Bastos,W,1,RNC,Sub. de Campos,87KG,SF,2004
+1048,16,Marcelo Garcia,,Leonardo Nascimento,W,1,Armbar,Sub. de Campos,87KG,4F,2004
+1055,16,Marcelo Garcia,,Flavio Serafim,W,1,Choke,World Champ.,82KG,SF,2004
+1056,16,Marcelo Garcia,1223,Cassio Werneck,W,1,Pts: 9x0,World Champ.,82KG,F,2004
+1115,16,Marcelo Garcia,,Rodrigo Riscado,W,1,RNC,SJ da Barra,ABS,SPF,2004
+1174,16,Marcelo Garcia,,Chris Brennan,W,1,Injury,ADCC,77KG,R1,2005
+1179,16,Marcelo Garcia,1319,Shinya Aoki,W,1,RNC,ADCC,77KG,4F,2005
+1182,16,Marcelo Garcia,292,Leonardo Santos,W,1,"Pts: 0x0, Pen",ADCC,77KG,SF,2005
+1184,16,Marcelo Garcia,919,Pablo Popovitch,W,1,Wristlock,ADCC,77KG,F,2005
+1222,16,Marcelo Garcia,6167,Ricco Rodriguez,W,1,Heel Hook,ADCC,ABS,R1,2005
+1230,16,Marcelo Garcia,,Diego Sanchez,W,1,Armbar,ADCC,ABS,4F,2005
+1234,16,Marcelo Garcia,84,Alexandre Ribeiro,W,1,RNC,ADCC,ABS,3PLC,2005
+1429,16,Marcelo Garcia,,Zorobadel M.,W,1,Points,World Champ.,82KG,R1,2006
+1433,16,Marcelo Garcia,484,Murilo Santana,W,1,Pts: 2x0,World Champ.,82KG,4F,2006
+1436,16,Marcelo Garcia,453,Daniel Moraes,W,1,DQ,World Champ.,82KG,SF,2006
+1437,16,Marcelo Garcia,144,Andre Galvao,W,1,Pts: 2x0,World Champ.,82KG,F,2006
+1465,16,Marcelo Garcia,,T. Gaia,W,1,Choke,World Champ.,ABS,R1,2006
+1469,16,Marcelo Garcia,378,Robert Drysdale,W,1,Pts: 3x0,World Champ.,ABS,4F,2006
+1475,16,Marcelo Garcia,1031,Jake Shields,W,1,Guillotine,PSL: X-Mission,ABS,SPF,2006
+1486,16,Marcelo Garcia,,Cameron Earle,W,1,North south choke,LA Sub-X,ABS,SPF,2006
+1498,16,Marcelo Garcia,108,Gustavo Campos,W,1,Armbar,Brasileiro,82KG,SF,2006
+1499,16,Marcelo Garcia,144,Andre Galvao,W,1,Pts: 8x2,Brasileiro,82KG,F,2006
+1506,16,Marcelo Garcia,224,Roberto Abreu,W,1,Crucifix choke,Brasileiro,ABS,R1,2006
+1510,16,Marcelo Garcia,,Adriano Camolesi,W,1,Armbar,Brasileiro,ABS,4F,2006
+1511,16,Marcelo Garcia,144,Andre Galvao,W,1,Choke from back,Brasileiro,ABS,SF,2006
+1513,16,Marcelo Garcia,112,Demian Maia,W,1,Pts: 2x0,Brasileiro,ABS,F,2006
+1582,16,Marcelo Garcia,,Marcos Avellan,W,1,RNC,Grapplers Quest,ABS,SF,2007
+1584,16,Marcelo Garcia,1322,Gregor Gracie,W,1,North south choke,Grapplers Quest,ABS,F,2007
+1614,16,Marcelo Garcia,,Rodrigo Texieira,W,1,Armbar,Pan American,82KG,4F,2007
+1615,16,Marcelo Garcia,909,Adriano Silva,W,1,Armbar,Pan American,82KG,SF,2007
+1616,16,Marcelo Garcia,9941,Edson Diniz,W,1,Choke,Pan American,82KG,F,2007
+1654,16,Marcelo Garcia,,Mario Miranda,W,1,North South choke,ADCC,ABS,R1,2007
+1662,16,Marcelo Garcia,70,Rolles Gracie,W,1,Armbar,ADCC,ABS,4F,2007
+1666,16,Marcelo Garcia,,A. Cacareco,W,1,RNC,ADCC,ABS,SF,2007
+1686,16,Marcelo Garcia,,George Sotiropoulos,W,1,Guillotine,ADCC,77KG,R1,2007
+1688,16,Marcelo Garcia,,Kurt Pellegrino,W,1,RNC,ADCC,77KG,4F,2007
+1690,16,Marcelo Garcia,1583,Mike Fowler,W,1,Guillotine,ADCC,77KG,SF,2007
+1692,16,Marcelo Garcia,919,Pablo Popovitch,W,1,North south choke,ADCC,77KG,F,2007
+2124,16,Marcelo Garcia,,Elmoutti Azedine,W,1,Choke,World Pro.,ABS,R1,2009
+2125,16,Marcelo Garcia,2324,Eduardo Santoro,W,1,Points,World Pro.,ABS,R2,2009
+2127,16,Marcelo Garcia,1617,Victor Estima,W,1,Choke,World Pro.,ABS,4F,2009
+2139,16,Marcelo Garcia,,Michel Maia,W,1,RNC,World Pro.,76KG,4F,2009
+2244,16,Marcelo Garcia,1065,Rodney Ellis,W,1,Guillotine,ADCC,77KG,R1,2009
+2252,16,Marcelo Garcia,788,Kron Gracie,W,1,Guillotine,ADCC,77KG,4F,2009
+2255,16,Marcelo Garcia,,Keita Nakamura,W,1,Guillotine,ADCC,77KG,SF,2009
+2298,16,Marcelo Garcia,637,Bruno Bastos,W,1,RNC,ADCC,ABS,R1,2009
+2339,16,Marcelo Garcia,,Nik Ruben,W,1,Choke,World Champ.,82KG,R1,2009
+2343,16,Marcelo Garcia,1055,Tiago Alves,W,1,Adv,World Champ.,82KG,4F,2009
+2345,16,Marcelo Garcia,875,Lucas Leite,W,1,Pts: 6x0,World Champ.,82KG,SF,2009
+2690,16,Marcelo Garcia,1081,Chico Mendes,W,1,North South choke,World Champ.,82KG,RD,2010
+2692,16,Marcelo Garcia,1659,Bruno Alves,W,1,North South choke,World Champ.,82KG,RD,2010
+2693,16,Marcelo Garcia,484,Murilo Santana,W,1,Pts: 8x2,World Champ.,82KG,4F,2010
+2697,16,Marcelo Garcia,901,Kayron Gracie,W,1,Pts: 5x0,World Champ.,82KG,SF,2010
+2698,16,Marcelo Garcia,410,Claudio Calasans,W,1,Pts: 2x0,World Champ.,82KG,F,2010
+3039,16,Marcelo Garcia,,Unknown,W,1,Pts: 5x0,World Champ.,82KG,RDS,2011
+3054,16,Marcelo Garcia,2035,Vitor Oliveira,W,1,Submission,World Champ.,82KG,RDS,2011
+3115,16,Marcelo Garcia,1617,Victor Estima,W,1,Pts: 3x0,World Champ.,82KG,4F,2011
+3140,16,Marcelo Garcia,108,Gustavo Campos,W,1,Armbar,World Champ.,82KG,SF,2011
+3151,16,Marcelo Garcia,875,Lucas Leite,W,1,Pts: 2x0,World Champ.,82KG,F,2011
+3228,16,Marcelo Garcia,,Davis Heart,W,1,Guillotine,ADCC,77KG,R1,2011
+3264,16,Marcelo Garcia,1617,Victor Estima,W,1,Guillotine,ADCC,77KG,4F,2011
+3282,16,Marcelo Garcia,788,Kron Gracie,W,1,Pts: 2x0,ADCC,77KG,SF,2011
+3296,16,Marcelo Garcia,419,Leonardo Vieira,W,1,Triangle,ADCC,77KG,F,2011

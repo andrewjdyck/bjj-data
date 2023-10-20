@@ -1,0 +1,33 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4590,12617,Sean Roberts,1188,Leandro Lo,L,0,Mounted X choke,Pan American,82KG,R2,2013
+4941,12617,Sean Roberts,2035,Vitor Oliveira,L,0,Points,American Nats,82KG,F,2013
+5276,12617,Sean Roberts,1137,Zak Maxwell,D,0.5,---,Metamoris 3,ABS,SPF,2014
+5468,12617,Sean Roberts,6156,Tanner Rice,L,0,Points,FIVE Cali. 2,82KG,SF,2014
+5714,12617,Sean Roberts,247,Rodolfo Vieira,L,0,Choke from back,World Champ.,ABS,R3,2014
+5814,12617,Sean Roberts,1188,Leandro Lo,L,0,Pts: 6x0,World Champ.,82KG,RDS,2014
+6828,12617,Sean Roberts,,Fabio Pulita,L,0,Pts: 7x2,Pan American,82KG,R1,2015
+8092,12617,Sean Roberts,6354,Jonathan Satava,L,0,Referee Decision,GT Open,O76KG,F,2015
+11278,12617,Sean Roberts,6836,John Combs,L,0,Referee Decision,5 Super League,77KG,SF,2016
+11909,12617,Sean Roberts,3009,Keenan Cornelius,L,0,Triangle,JJ Net,ABS,SPF,2017
+4500,12617,Sean Roberts,,Moses Baca,W,1,Points,Gracie Open,N/A,SPF,2013
+4501,12617,Sean Roberts,,Igor Pontes,W,1,Triangle,KO Finisher,N/A,SF,2013
+4502,12617,Sean Roberts,,Stephan Goyne,W,1,Bow and arrow,KO Finisher,N/A,F,2013
+4503,12617,Sean Roberts,,Marco Leal,W,1,Armbar,Best Grappling,N/A,SPF,2013
+4582,12617,Sean Roberts,,Carlos Ribeiro,W,1,Bow and arrow,Pan American,82KG,R1,2013
+5282,12617,Sean Roberts,,Alejandro Perez,W,1,Points,Camarillo SPF,N/A,SPF,2014
+5283,12617,Sean Roberts,,Andrew Ramm,W,1,RNC,UFC Expo,82KG,SF,2014
+5284,12617,Sean Roberts,,Rafael domingos,W,1,Cross choke,UFC Expo,82KG,F,2014
+5285,12617,Sean Roberts,5649,Garry Tonon,W,1,Points,UFC Expo,ABS,SF,2014
+5286,12617,Sean Roberts,,Thiago Reinaldo,W,1,Adv,UFC Expo,ABS,F,2014
+5287,12617,Sean Roberts,,Nicollas Welker,W,1,Points,Copa Pacifica,N/A,SPF,2014
+5704,12617,Sean Roberts,,Choi Choi,W,1,Points,World Champ.,ABS,R2,2014
+6338,12617,Sean Roberts,,J. Reichenback,W,1,Armbar,SJJIF Worlds,82KG,SF,2014
+6339,12617,Sean Roberts,,Antonio Antonioli,W,1,Calf slicer,SJJIF Worlds,82KG,F,2014
+6340,12617,Sean Roberts,,Alexander Kalawe,W,1,Triangle,SJJIF Worlds,ABS,SF,2014
+6341,12617,Sean Roberts,,Paul Schon,W,1,Points,SJJIF Worlds,ABS,F,2014
+8087,12617,Sean Roberts,,Magid Hage,W,1,Points,GT Open,ABS,SPF,2015
+8088,12617,Sean Roberts,,Jean Lima,W,1,Triangle,GT Open,O76KG,SF,2015
+11274,12617,Sean Roberts,4655,Michael Liera,W,1,Referee Decision,5 Super League,77KG,4F,2016
+16704,12617,Sean Roberts,,Bruno Capac,W,1,Points,American Nat.,82KG,4F,2018
+16705,12617,Sean Roberts,,Hugo Valdemar,W,1,Points,American Nat.,82KG,SF,2018
+16706,12617,Sean Roberts,,Ben Henderson,W,1,Triangle,American Nat.,82KG,F,2018

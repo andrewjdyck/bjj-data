@@ -1,0 +1,81 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+4025,1824,Roberto Satoshi,1188,Leandro Lo,L,0,Pts: 7x2,World Champ.,76KG,SF,2012
+4662,1824,Roberto Satoshi,1188,Leandro Lo,L,0,Points,World Pro,76KG,SF,2013
+5794,1824,Roberto Satoshi,358,Lucas Lepri,L,0,Pts: 20x0,World Champ.,76KG,SF,2014
+6217,1824,Roberto Satoshi,1031,Jake Shields,D,0.5,---,Metamoris 5,ABS,SPF,2014
+7108,1824,Roberto Satoshi,358,Lucas Lepri,L,0,Pts: 2x0,World Pro,75KG,SF,2015
+7333,1824,Roberto Satoshi,1523,Clark Gracie,D,0.5,---,Metamoris 6,ABS,SPF,2015
+8256,1824,Roberto Satoshi,428,Celso Vinicius,L,0,Injury,Grand Slam LA,77KG,F,2015
+9612,1824,Roberto Satoshi,6071,Gabriel Arges,L,0,Pts: 6x2,World Pro,77KG,F,2016
+9972,1824,Roberto Satoshi,5909,Thiago Abreu,L,0,Botinha,World Champ.,76KG,R1,2016
+11456,1824,Roberto Satoshi,4163,Marcio Andre,L,0,Pts: 2x0,Grand Slam AD,75KG,F,2017
+12598,1824,Roberto Satoshi,7552,Isaque Bahiense,L,0,Pts: 4x2,WP BR Qualifier,77KG,SF,2017
+13129,1824,Roberto Satoshi,358,Lucas Lepri,L,0,Injury,World Champ.,76KG,F,2017
+16053,1824,Roberto Satoshi,7539,Renato Canuto,L,0,Points,King of Mats,85KG,RR,2018
+16057,1824,Roberto Satoshi,4460,Jaime Canuto,L,0,Pts: 6x0,King of Mats,85KG,SF,2018
+17734,1824,Roberto Satoshi,6550,Gordon Ryan,D,0.5,---,Quintet 3,ABS,SF,2018
+18812,1824,Roberto Satoshi,9014,Levi Jones,L,0,Pts: 4x0,Grand Slam AD,77KG,SF,2019
+18852,1824,Roberto Satoshi,7552,Isaque Bahiense,L,0,"Pts: 0x0, Adv",King of Mats II,85KG,RR,2019
+18855,1824,Roberto Satoshi,2226,DJ Jackson,L,0,Wristlock,King of Mats II,85KG,RR,2019
+3467,1824,Roberto Satoshi,7645,Masahiro Iwasaki,W,1,Triangle,Dumau NE,76KG,F,2012
+3506,1824,Roberto Satoshi,,Pedro Bessa,W,1,Flying armbar,European Open,76KG,4F,2012
+3509,1824,Roberto Satoshi,122,Michael Langhi,W,1,"Pts: 4x4, Adv",European Open,76KG,SF,2012
+3510,1824,Roberto Satoshi,967,JT Torres,W,1,Pts: 5x0,European Open,76KG,F,2012
+3779,1824,Roberto Satoshi,1386,Davi Ramos,W,1,Pts: 3x2,World Pro.,76KG,R2,2012
+3780,1824,Roberto Satoshi,,Thiago Braga,W,1,Clock Choke,World Pro.,76KG,4F,2012
+3782,1824,Roberto Satoshi,967,JT Torres,W,1,Pts: 2x0,World Pro.,76KG,SF,2012
+3783,1824,Roberto Satoshi,358,Lucas Lepri,W,1,Pts: 2x0,World Pro.,76KG,F,2012
+4013,1824,Roberto Satoshi,,Unknown,W,1,Submission,World Champ.,76KG,R2,2012
+4018,1824,Roberto Satoshi,1542,Italo Lins,W,1,Points,World Champ.,76KG,R3,2012
+4023,1824,Roberto Satoshi,967,JT Torres,W,1,"Pts: 2x2, Adv",World Champ.,76KG,4F,2012
+4387,1824,Roberto Satoshi,,Unknown,W,1,Triangle armbar,Japan Pro Trials,76KG,4F,2013
+4388,1824,Roberto Satoshi,,Unknown,W,1,Choke from back,Japan Pro Trials,76KG,SF,2013
+4389,1824,Roberto Satoshi,,Daisuke Sugie,W,1,Triangle,Japan Pro Trials,76KG,F,2013
+5650,1824,Roberto Satoshi,443,Claudio Mattos,W,1,Choke,World Pro.,76KG,SF,2014
+5651,1824,Roberto Satoshi,7582,Sergio Benini,W,1,Choke from back,World Pro.,76KG,F,2014
+5779,1824,Roberto Satoshi,,T. Kaneko,W,1,N/A,World Champ.,76KG,R1,2014
+5785,1824,Roberto Satoshi,4328,AJ Agazarm,W,1,Choke from back,World Champ.,76KG,8F,2014
+5789,1824,Roberto Satoshi,428,Celso Vinicius,W,1,Pts: 2x0,World Champ.,76KG,4F,2014
+6148,1824,Roberto Satoshi,7376,Ilke Bulut,W,1,Choke from back,Asian Open,76KG,4F,2014
+6149,1824,Roberto Satoshi,,Unknown,W,1,Choke from back,Asian Open,76KG,SF,2014
+6150,1824,Roberto Satoshi,,Tatsuya Kaneko,W,1,Bow and arrow,Asian Open,76KG,F,2014
+6674,1824,Roberto Satoshi,1517,Alexandre Santos,W,1,Clock choke,Boa Super 8,77KG,4F,2015
+6676,1824,Roberto Satoshi,631,Rodrigo Caporal,W,1,Pts: 2x0,Boa Super 8,77KG,SF,2015
+6677,1824,Roberto Satoshi,8682,Lachlan Giles,W,1,Choke,Boa Super 8,77KG,F,2015
+7102,1824,Roberto Satoshi,,Tomas Oyarzun,W,1,Triangle,World Pro,75KG,R1,2015
+7105,1824,Roberto Satoshi,,Samuel Hertzog,W,1,Points,World Pro,75KG,4F,2015
+7110,1824,Roberto Satoshi,790,Mario Reis,W,1,Pts: 2x0,World Pro,75KG,3RD,2015
+7592,1824,Roberto Satoshi,,Unknown,W,1,Choke,Bullterrier Cup,ABS,4F,2015
+7593,1824,Roberto Satoshi,,Leandro Kussano,W,1,Estima lock,Bullterrier Cup,ABS,SF,2015
+7877,1824,Roberto Satoshi,631,Rodrigo Caporal,W,1,Pts: 2x0,Grand Slam TYO,77KG,SF,2015
+7879,1824,Roberto Satoshi,428,Celso Vinicius,W,1,Adv,Grand Slam TYO,77KG,F,2015
+8045,1824,Roberto Satoshi,,Choi Choi,W,1,Reverse triangle,Asian Open,76KG,F,2015
+8255,1824,Roberto Satoshi,7156,Tiago Bravo,W,1,Bow and arrow,Grand Slam LA,77KG,SF,2015
+9582,1824,Roberto Satoshi,,Ian Toro,W,1,Triangle/armbar,World Pro,77KG,R1,2016
+9603,1824,Roberto Satoshi,11257,Gabriel Procopio,W,1,Armbar,World Pro,77KG,8F,2016
+9609,1824,Roberto Satoshi,5078,Luan Carvalho,W,1,Bow and arrow,World Pro,77KG,4F,2016
+9610,1824,Roberto Satoshi,4328,AJ Agazarm,W,1,Pts: 4x0,World Pro,77KG,SF,2016
+10525,1824,Roberto Satoshi,,Alexandre Ogawa,W,1,Choke from back,Asian Open,82KG,SF,2016
+10526,1824,Roberto Satoshi,,Rodrigo Teixeira,W,1,Armbar,Asian Open,82KG,F,2016
+10804,1824,Roberto Satoshi,,Anderson T.,W,1,Submission,Grand Slam TYO,77KG,SF,2016
+10805,1824,Roberto Satoshi,,Robson Tanno,W,1,Darce choke,Grand Slam TYO,77KG,F,2016
+11451,1824,Roberto Satoshi,,Raphael Mello,W,1,Triangle,Grand Slam AD,75KG,4F,2017
+11454,1824,Roberto Satoshi,9312,Alexandre Cavaliere,W,1,Pts: 6x2,Grand Slam AD,75KG,SF,2017
+12589,1824,Roberto Satoshi,,Igor Souza,W,1,Pts: 6x2,WP BR Qualifier,77KG,R1,2017
+12593,1824,Roberto Satoshi,,Adriano Araujo,W,1,Pts: 4x0,WP BR Qualifier,77KG,4F,2017
+13103,1824,Roberto Satoshi,,Victor Matos,W,1,Bow and arrow,World Champ.,76KG,R1,2017
+13117,1824,Roberto Satoshi,9706,Marcelo Mafra,W,1,Triangle,World Champ.,76KG,8F,2017
+13123,1824,Roberto Satoshi,122,Michael Langhi,W,1,Pts: 2x0,World Champ.,76KG,4F,2017
+13127,1824,Roberto Satoshi,6596,Jhonny Loureiro,W,1,Pts: 6x2,World Champ.,76KG,SF,2017
+13388,1824,Roberto Satoshi,,Matias Asencio,W,1,Triangle armbar,Grand Slam TYO,77KG,4F,2017
+13390,1824,Roberto Satoshi,,Kleber Koike,W,1,Triangle,Grand Slam TYO,77KG,SF,2017
+13392,1824,Roberto Satoshi,7156,Tiago Bravo,W,1,Pts: 2x0,Grand Slam TYO,77KG,F,2017
+15624,1824,Roberto Satoshi,2221,Daisuke Nakamura,W,1,RNC,Quintet FN,ABS,SF,2018
+15626,1824,Roberto Satoshi,9668,David Garmo,W,1,RNC,Quintet FN,ABS,F,2018
+15627,1824,Roberto Satoshi,,Yoshihiko Matsumoto,W,1,RNC,Quintet FN,ABS,F,2018
+15628,1824,Roberto Satoshi,7645,Masahiro Iwasaki,D,0.5,---,Quintet FN,ABS,F,2018
+16052,1824,Roberto Satoshi,477,Tarsis Humphreys,W,1,Triangle,King of Mats,85KG,RR,2018
+16054,1824,Roberto Satoshi,1523,Clark Gracie,W,1,Points,King of Mats,85KG,RR,2018
+18808,1824,Roberto Satoshi,,Antonio Silva,W,1,Wristlock,Grand Slam AD,77KG,4F,2019
+18815,1824,Roberto Satoshi,,Andre Cantanhede,W,1,Pts: 4x2,Grand Slam AD,77KG,RPC,2019
+18816,1824,Roberto Satoshi,8290,Marcos Costa,W,1,Pts: 4x2,Grand Slam AD,77KG,3RD,2019

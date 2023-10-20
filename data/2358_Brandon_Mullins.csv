@@ -1,0 +1,18 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+1907,2358,Brandon Mullins,1019,Daniel Beleza,L,0,Triangle,World Champ.,64KG,4F,2008
+2404,2358,Brandon Mullins,963,Carlos Esquisito,L,0,Points,NoGi Worlds,64KG,SF,2009
+2592,2358,Brandon Mullins,582,Caio Terra,L,0,Armbar,No Gi Panams,64KG,F,2010
+3098,2358,Brandon Mullins,283,Bruno Malfacine,L,0,Pts: 13x0,World Champ.,57KG,4F,2011
+3195,2358,Brandon Mullins,582,Caio Terra,L,0,Points,American Nationals,64KG,SF,2011
+3563,2358,Brandon Mullins,582,Caio Terra,L,0,Points,Pan American,57KG,4F,2012
+3699,2358,Brandon Mullins,582,Caio Terra,L,0,Policeman's lock,No Gi Nationals,64KG,SF,2012
+3931,2358,Brandon Mullins,582,Caio Terra,L,0,Armbar,World Champ.,57KG,SF,2012
+5734,2358,Brandon Mullins,283,Bruno Malfacine,L,0,Bow and Arrow,World Champ.,57KG,4F,2014
+2402,2358,Brandon Mullins,,Tomohiro Hashi,W,1,Points,NoGi Worlds,64KG,4F,2009
+2605,2358,Brandon Mullins,,Joseph Capizzi,W,1,Points,No Gi Worlds,57KG,F,2010
+2999,2358,Brandon Mullins,2013,Igor Rodrigues,W,1,Triangle,World Champ.,57KG,RDS,2011
+3381,2358,Brandon Mullins,,Joseph Capizzi,W,1,Points,No Gi Worlds,57KG,F,2011
+3562,2358,Brandon Mullins,,Joel Borja,W,1,Ezekiel,Pan American,57KG,R1,2012
+3927,2358,Brandon Mullins,,Fumiali Kobayashi,W,1,Points,World Champ.,57KG,R2,2012
+4436,2358,Brandon Mullins,,Takahito Yoshioka,W,1,Points,European Open,57KG,SF,2013
+4437,2358,Brandon Mullins,1919,Koji Shibamoto,W,1,Triangle,European Open,57KG,F,2013

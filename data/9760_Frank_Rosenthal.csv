@@ -1,0 +1,54 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+18195,9760,Frank Rosenthal,2999,Paulo Miyao,L,0,Pts: 10x1,Kasai Pro 4,65KG,R1,2018
+18205,9760,Frank Rosenthal,188,Augusto Mendes,L,0,Pts: 9x0,Kasai Pro 4,65KG,3RD,2018
+18582,9760,Frank Rosenthal,9385,Brandon Walensky,L,0,Pts: 4x2,NoGi Worlds,67KG,R1,2018
+20742,9760,Frank Rosenthal,,J. Skinner,L,0,Referee Decision,GrappleFest 5,70KG,SPF,2019
+21518,9760,Frank Rosenthal,2997,Joao Miyao,L,0,Cross face,GrappleFest 6,65KG,SPF,2019
+23880,9760,Frank Rosenthal,,Cody Hoffstatter,L,0,Referee Decision,F2W 149,70KG,SPF,2020
+25035,9760,Frank Rosenthal,,Mauricio Gomez,L,0,RNC,F2W 160,70KG,SPF,2021
+25762,9760,Frank Rosenthal,,Luis Quinones,L,0,Shoulder lock,Emerald City,N/A,SPF,2021
+26717,9760,Frank Rosenthal,12356,Damion Oranday,L,0,"Pts: 0x0, Adv",American NGN,67KG,SF,2021
+27208,9760,Frank Rosenthal,9031,Kennedy Maciel,L,0,RNC,Emerald City,65KG,4F,2021
+28793,9760,Frank Rosenthal,12120,Estevan Martinez,L,0,Pts: 3x0,ADCC EC Trials,66KG,R3,2021
+32548,9760,Frank Rosenthal,11093,Emilio Hernandez,L,0,Pts: 2x0,Atlanta SPNGO,67KG,SF,2022
+36545,9760,Frank Rosenthal,,Luan Gomes,L,0,Triangle,NHaven FNGO,67KG,4F,2022
+41514,9760,Frank Rosenthal,8525,Alexandre Vieira,L,0,N/A,Austin NGO,67KG,F,2023
+41744,9760,Frank Rosenthal,4248,Gianni Grippo,L,0,Shoulder lock,NYC NGO,67KG,SF,2023
+42249,9760,Frank Rosenthal,,Julian Espinosa,L,0,EBI/OT,FSM Bash,NA,SPF,2023
+15865,9760,Frank Rosenthal,,Zach Maslany,W,1,Outside heel hook,Kasai Pro 2,70KG,SPF,2018
+15883,9760,Frank Rosenthal,,Chad George,W,1,EBI/OT,Pilgrim Inv.,70KG,SPF,2018
+17655,9760,Frank Rosenthal,,Nick Manela,W,1,Armbar,RISE 3,65KG,4F,2018
+17656,9760,Frank Rosenthal,,Julien Banner,W,1,EBI/OT,RISE 3,65KG,SF,2018
+17658,9760,Frank Rosenthal,,Mike Davila,W,1,EBI/OT,RISE 3,65KG,F,2018
+17659,9760,Frank Rosenthal,,Christian Medina,W,1,Outside heel hook,RISE 4,61KG,SF,2018
+17660,9760,Frank Rosenthal,,Rey Rey,W,1,Heel hook,RISE 4,61KG,F,2018
+17662,9760,Frank Rosenthal,,Jimmy Santiago,W,1,Outside heel hook,RISE 5,N/A,SPF,2018
+17995,9760,Frank Rosenthal,,Ricky Lule,W,1,EBI/OT,Onnit Inv. 9,61KG,SPF,2018
+18201,9760,Frank Rosenthal,4996,Geo Martinez,W,1,Pts: 1x0,Kasai Pro 4,65KG,R3,2018
+18726,9760,Frank Rosenthal,,Marvin Castelle,W,1,EBI/OT,Onnit Inv. 10,70KG,SPF,2018
+18863,9760,Frank Rosenthal,,Jay Buttler,W,1,RNC,Battle Grapple,N/A,SPF,2019
+20868,9760,Frank Rosenthal,,Carlos Rosado,W,1,EBI/OT,Rise Invitational,65KG,SPF,2019
+23514,9760,Frank Rosenthal,,Brent Smith,W,1,Outside heel hook,SUG,68KG,SPF,2020
+23917,9760,Frank Rosenthal,,Phill Schwartz,W,1,Armbar,SUG 17,ABS,SPF,2020
+24528,9760,Frank Rosenthal,,Dylan Garafalo,W,1,Pts: 2x0,Egg Guard Inv,66KG,4F,2020
+24529,9760,Frank Rosenthal,,Sean Ashley,W,1,Armbar,Egg Guard Inv,66KG,SF,2020
+24530,9760,Frank Rosenthal,,Sean Ashley,W,1,N/A,Egg Guard Inv,66KG,F,2020
+25990,9760,Frank Rosenthal,,Gabriel Tejada,W,1,EBI/OT,Finishers SO,68KG,SPF,2021
+26716,9760,Frank Rosenthal,,Chance Anthony,W,1,N/A,American NGN,67KG,4F,2021
+27026,9760,Frank Rosenthal,,Raphael Federico,W,1,Outside heel hook,Honor SO,66KG,SF,2021
+27027,9760,Frank Rosenthal,,Alessio Sacchetti,W,1,EBI/OT,Honor SO,66KG,F,2021
+27201,9760,Frank Rosenthal,,David Weintraub,W,1,Triangle,Emerald City,65KG,R1,2021
+28780,9760,Frank Rosenthal,,Zak Elfernani,W,1,Pts: 2x0,ADCC EC Trials,66KG,R2,2021
+29859,9760,Frank Rosenthal,,Dave Weintraub,W,1,EBI/OT,Finishers Only,65KG,SF,2022
+29860,9760,Frank Rosenthal,,John Battle,W,1,Inside heel hook,Finishers Only,65KG,F,2022
+30896,9760,Frank Rosenthal,,Ellis Karadag,W,1,Outside heel hook,Emerald City,70KG,SPF,2022
+32546,9760,Frank Rosenthal,,Chris Sodbinow,W,1,N/A,Atlanta SPNGO,67KG,4F,2022
+35309,9760,Frank Rosenthal,,Michael Moller,W,1,RNC,Tap Tournament,NA,SPF,2022
+35310,9760,Frank Rosenthal,,Anthony Valdes,W,1,Outside heel hook,Finishers SO,NA,SPF,2022
+35311,9760,Frank Rosenthal,,Kevin Dantzler,W,1,Inside heel hook,RISE,NA,SPF,2022
+38746,9760,Frank Rosenthal,,Yohafte Yirdaw,W,1,Pts: 11x2,Grappling Ind.,70KG,RR,2023
+38747,9760,Frank Rosenthal,,Ezra Paul,W,1,Inside heel hook,Grappling Ind.,70KG,RR,2023
+38748,9760,Frank Rosenthal,,Nicholas Johnson,W,1,Referee Decision,Grappling Ind.,70KG,RR,2023
+38749,9760,Frank Rosenthal,,Ben Corado,W,1,Outside heel hook,Grappling Ind.,70KG,RR,2023
+38750,9760,Frank Rosenthal,,Nolan Kim,W,1,Inside heel hook,Grappling Ind.,70KG,RR,2023
+41743,9760,Frank Rosenthal,,Carlos Ruiz,W,1,N/A,NYC NGO,67KG,4F,2023

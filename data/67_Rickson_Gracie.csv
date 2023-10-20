@@ -1,0 +1,11 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+25,67,Rickson Gracie,677,Sergio Penha,W,1,Armbar,AABB,86KG,NA,1981
+26,67,Rickson Gracie,677,Sergio Penha,W,1,Choke,AABB,ABS,SF,1981
+33,67,Rickson Gracie,1071,Otavio Peixotinho,W,1,Armbar,LINJJI,ABS,F,1984
+36,67,Rickson Gracie,,Unknown,W,1,Armbar,Copa Company,86KG,F,1984
+41,67,Rickson Gracie,,Unknown,W,1,Choke,Vansport Cup,86KG,F,1985
+44,67,Rickson Gracie,,Unknown,W,1,Bread cutter,Lightning Bolt,ABS,NA,1986
+45,67,Rickson Gracie,,Unknown,W,1,Mounted X choke,Lightning Bolt,ABS,NA,1986
+46,67,Rickson Gracie,1817,Rigan Machado,W,1,Exhaustion,III Copa Company,ABS,F,1986
+50,67,Rickson Gracie,,Murilo Sa,W,1,Armbar,Copa Cantao,NA,NA,1987
+65,67,Rickson Gracie,1817,Rigan Machado,W,1,Choke,NA,ABS,SPF,1995

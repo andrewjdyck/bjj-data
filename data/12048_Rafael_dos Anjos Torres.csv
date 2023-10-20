@@ -1,0 +1,45 @@
+match_num,bjjheroes_id,name,opponent_bjjheroes_id,opponent_name,result,result_int,method,competition,weight,stage,year
+27845,12048,Rafael dos Anjos Torres,11878,Andy Murasaki,L,0,"Pts: 0x0, Adv",Atlanta SMOP,82KG,SF,2021
+28424,12048,Rafael dos Anjos Torres,10658,Matheus Luna,L,0,Referee Decision,SUBVERSIV 6,84KG,SPF,2021
+28678,12048,Rafael dos Anjos Torres,10658,Matheus Luna,L,0,Referee Decision,Nashville Open,94KG,SF,2021
+29516,12048,Rafael dos Anjos Torres,10509,Mathias Luna,L,0,Pts: 4x2,World Champ.,82KG,R1,2021
+30955,12048,Rafael dos Anjos Torres,12544,Mateus Rodrigues,L,0,Choke from back,LA Open,88KG,4F,2022
+32447,12048,Rafael dos Anjos Torres,11960,Joao Cizeski,L,0,Referee Decision,SD Open,88KG,SF,2022
+32461,12048,Rafael dos Anjos Torres,7478,Adam Wardzinski,L,0,Choke from back,SD Open,ABS,SF,2022
+32482,12048,Rafael dos Anjos Torres,8394,Vagner Rocha,L,0,Heel hook,SD NGO,ABS,4F,2022
+32651,12048,Rafael dos Anjos Torres,11248,Jonata Gomes,L,0,Pts: 4x2,Denver Open,ABS,4F,2022
+32966,12048,Rafael dos Anjos Torres,1188,Leandro Lo,L,0,Brabo choke,World Champ.,88KG,8F,2022
+33411,12048,Rafael dos Anjos Torres,10162,Ronaldo Junior,L,0,Straight ankle lock,American Nat.,88KG,SF,2022
+36217,12048,Rafael dos Anjos Torres,11499,Roosevelt Sousa,L,0,RNC,Nashville NGO,ABS,SF,2022
+36861,12048,Rafael dos Anjos Torres,12069,Bruno Matias,L,0,Pts: 4x0,NoGi Worlds,85KG,8F,2022
+40283,12048,Rafael dos Anjos Torres,12003,Tye Ruotolo,L,0,Darce choke,World Champ.,82KG,8F,2023
+42294,12048,Rafael dos Anjos Torres,,Nolan Stuart,L,0,Points,JJ Con,88KG,F,2023
+43134,12048,Rafael dos Anjos Torres,7399,Horlando Monteiro,L,0,Smother tap,Kansas Open,ABS,SF,2023
+27196,12048,Rafael dos Anjos Torres,10509,Mathias Luna,W,1,Referee Decision,F2W 180,83KG,SPF,2021
+28685,12048,Rafael dos Anjos Torres,,Marlon Tanaka,W,1,Armbar,Nashville Open,ABS,4F,2021
+31276,12048,Rafael dos Anjos Torres,,Thiago Andrade,W,1,Pts: 2x0,Boise Open,88KG,F,2022
+31283,12048,Rafael dos Anjos Torres,,Scott Thometz,W,1,Choke from back,Boise Open,ABS,4F,2022
+31286,12048,Rafael dos Anjos Torres,,Tyrone Goncalves,W,1,Pts: 4x2,Boise Open,ABS,SF,2022
+31288,12048,Rafael dos Anjos Torres,,Scott Thometz,W,1,RNC,Boise NGO,85KG,F,2022
+31289,12048,Rafael dos Anjos Torres,,Scott Thometz,W,1,Katagatame,Boise NGO,ABS,SF,2022
+31290,12048,Rafael dos Anjos Torres,,Cameron Chaffee,W,1,Guillotine,Boise NGO,ABS,F,2022
+32446,12048,Rafael dos Anjos Torres,,Brandyn Chapell,W,1,Triangle,SD Open,88KG,4F,2022
+32459,12048,Rafael dos Anjos Torres,,Antonio Zuazo,W,1,Armbar,SD Open,ABS,4F,2022
+32477,12048,Rafael dos Anjos Torres,,Miha Perhavec,W,1,Points,SD NGO,85KG,SF,2022
+32633,12048,Rafael dos Anjos Torres,6432,Yan Lucas,W,1,Pts: 2x0,Denver Open,88KG,F,2022
+32647,12048,Rafael dos Anjos Torres,,Thiago Andrade,W,1,Referee Decision,Denver Open,ABS,R1,2022
+32957,12048,Rafael dos Anjos Torres,,Nathan Santos,W,1,Pts: 4x0,World Champ.,88KG,R1,2022
+33410,12048,Rafael dos Anjos Torres,,Aaron Tiegs,W,1,Points,American Nat.,88KG,4F,2022
+36189,12048,Rafael dos Anjos Torres,,Joseph Watson,W,1,Points,Nashville Open,94KG,SF,2022
+36190,12048,Rafael dos Anjos Torres,12544,Mateus Rodrigues,W,1,Referee Decision,Nashville Open,94KG,F,2022
+36205,12048,Rafael dos Anjos Torres,,Joshua McKinney,W,1,RNC,Nashville NGO,85KG,4F,2022
+36207,12048,Rafael dos Anjos Torres,,Clay Mayfield,W,1,Kimura,Nashville NGO,85KG,SF,2022
+36208,12048,Rafael dos Anjos Torres,,Jeovany Ortiz,W,1,Katagatame,Nashville NGO,85KG,F,2022
+36210,12048,Rafael dos Anjos Torres,,Jeovany Ortiz,W,1,Points,Nashville NGO,ABS,R1,2022
+36213,12048,Rafael dos Anjos Torres,11093,Emilio Hernandez,W,1,Points,Nashville NGO,ABS,4F,2022
+40084,12048,Rafael dos Anjos Torres,,Carlos Feitosa,W,1,Armbar,B Raton Open,88KG,F,2023
+40282,12048,Rafael dos Anjos Torres,4542,Felipe Cesar,W,1,Referee Decision,World Champ.,82KG,R1,2023
+42290,12048,Rafael dos Anjos Torres,,Dilano Taylor,W,1,Paper Cutter choke,JJ Con,88KG,4F,2023
+42293,12048,Rafael dos Anjos Torres,,Jose Jurema,W,1,Points,JJ Con,88KG,SF,2023
+43127,12048,Rafael dos Anjos Torres,,Carlos Rafael,W,1,Choke from back,Kansas Open,88KG,F,2023
+43133,12048,Rafael dos Anjos Torres,,Rafael Silva,W,1,Choke from back,Kansas Open,ABS,4F,2023
