@@ -99,3 +99,4 @@ if __name__ == "__main__":
     fighters_w_elo = calc_elo(matches, fighters_df)
     fighters_elo = update_elo(fighters_df, fighters_w_elo)
     print(fighters_elo.head(20))
+    fighters_elo.to_csv('./processed/elo_output_df.csv')
